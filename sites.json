@@ -4377,6 +4377,15 @@
     },
 
     {
+        "name": "Quizlet",
+        "url": "https://quizlet.com/delete-account",
+        "difficulty" : "easy",
+        "domains" : [
+            "quizlet.com"
+        ]
+    },
+
+    {
         "name": "Quora",
         "url": "http://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
         "difficulty": "hard",
