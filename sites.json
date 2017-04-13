@@ -898,6 +898,17 @@
     },
 
     {
+        "name": "CoinPayments",
+        "url": "https://www.coinpayments.net/help-support",
+        "difficulty": "impossible",
+        "notes": "",
+        "domains": [
+            "coinpayments.net",
+            "www.coinpayments.net"
+        ]
+    },
+
+    {
         "name": "Comment ça marche",
         "url": "http://www.commentcamarche.net/communaute/remove.php3",
         "difficulty": "medium",
