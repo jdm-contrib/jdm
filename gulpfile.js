@@ -19,7 +19,6 @@ gulp.task("jsonlint", function() {
         var name = site.name.toUpperCase().replace(/^the\s+/i, "");
 
         if (prev && prev > name) {
-            console.log(prev + " > " + name)
             throw "Sites must be listed in alphanumeric order.";
         }
         prev = name;
