@@ -6,7 +6,7 @@ var gulp      = require("gulp"),
     data      = require("gulp-data"),
     ga        = require("gulp-ga"),
     jsonlint  = require("gulp-jsonlint");
-    
+
 var translations = JSON.parse(fs.readFileSync("_trans/_config.json")),
     rtl = ["fa", "ar"],
     sites,
@@ -14,22 +14,33 @@ var translations = JSON.parse(fs.readFileSync("_trans/_config.json")),
     notes;
 
 gulp.task("jsonlint", function() {
+    var prev = null;
+    JSON.parse(fs.readFileSync("sites.json")).forEach(function(site) {
+        var name = site.name.toUpperCase().replace(/^the\s+/i, "");
+
+        if (prev && prev > name) {
+            console.log(prev + " > " + name)
+            throw "Sites must be listed in alphanumeric order.";
+        }
+        prev = name;
+    });
+
     gulp.src("sites.json")
         .pipe(jsonlint())
         .pipe(jsonlint.reporter());
 });
-    
+
 gulp.task("clean", function(callback) {
     return del(["docs/*.html"], callback);
 });
 
 gulp.task("translate", ["clean"], function() {
-    
+
     translations.forEach(function(translation) {
-        
+
         sites = JSON.parse(fs.readFileSync("sites.json"));
         trans = JSON.parse(fs.readFileSync("_trans/" + translation.code + ".json"));
-        
+
         if (translation.code !== "en") {
             sites.forEach(function(site, i) {
                 if (site.notes) {
@@ -38,7 +49,7 @@ gulp.task("translate", ["clean"], function() {
                 }
             });
         }
-        
+
         gulp.src("template.html")
             .pipe(rename((translation.code === "en" ? "index" : translation.code) + ".html"))
             .pipe(data({
@@ -52,7 +63,7 @@ gulp.task("translate", ["clean"], function() {
             .pipe(ga({url: "tupaschoal.github.io/justdelete.me/", uid: "UA-45971598-4"}))
             .pipe(gulp.dest("docs"));
     });
-  
+
 });
 
 gulp.task("default", ["jsonlint", "translate"]);
