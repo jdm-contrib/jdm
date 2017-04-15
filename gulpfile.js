@@ -15,13 +15,21 @@ var translations = JSON.parse(fs.readFileSync("_trans/_config.json")),
 
 gulp.task("jsonlint", function() {
     var prev = null;
+    var sitesSet = new Set();
     JSON.parse(fs.readFileSync("sites.json")).forEach(function(site) {
         var name = site.name.toUpperCase().replace(/^the\s+/i, "");
 
+        // Check for unsorted entries
         if (prev && prev > name) {
             throw "Sites must be listed in alphanumeric order.";
         }
         prev = name;
+        
+        // Check for duplicate entries
+        if (sitesSet.has(name)) {
+            throw name + " already exists on the list.";
+        }
+        sitesSet.add(name);
     });
 
     gulp.src("sites.json")
