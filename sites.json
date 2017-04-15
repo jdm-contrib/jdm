@@ -3752,6 +3752,17 @@
             "onlinetvrecorder.com"
         ]
     },
+    
+    {
+        "name": "Online.net",
+        "url": "https://console.online.net/fr/assistance/ticket",
+        "difficulty": "impossible",
+        "notes": "The french law force them to keep your account because he's linked to your bills.",
+        "domains": [
+            "online.net",
+            "console.online.net"
+        ]
+    },
 
     {
         "name": "OnLive",
