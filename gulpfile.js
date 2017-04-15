@@ -59,7 +59,7 @@ gulp.task("translate", ["clean"], function() {
                 assetPath: "assets"
             }))
             .pipe(swig())
-            .pipe(ga({url: "tupaschoal.github.io/justdelete.me/", uid: "UA-45971598-4"}))
+            .pipe(ga({url: "jdm-contrib.github.io/justdelete.me/", uid: "UA-45971598-4"}))
             .pipe(gulp.dest("docs"));
     });
 
