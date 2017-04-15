@@ -625,6 +625,7 @@
             "boxee.tv"
         ]
     },
+
     {
         "name": "British Airways",
         "url": "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
@@ -634,6 +635,7 @@
             "britishairways.com"
         ]
     },
+
     {
         "name": "Buffer",
         "url": "https://bufferapp.com/app/account/leave",
@@ -1713,22 +1715,22 @@
     },
 
     {
-        "name": "Foodspotting",
-        "url": "http://www.foodspotting.com/settings",
-        "difficulty": "medium",
-        "notes": "Account can only be disabled, not deleted.",
-        "domains": [
-            "foodspotting.com"
-        ]
-    },
-
-    {
         "name": "FogBugz",
         "url": "https://www.fogcreek.com/fogbugz/",
         "difficulty": "easy",
         "notes": "On the top right corner, click 'Admin' then 'Your On Demand Account' and search for the close account button at the bottom right. It is not really deleted, just closed.",
         "domains": [
             "fogbugz.com"
+        ]
+    },
+
+    {
+        "name": "Foodspotting",
+        "url": "http://www.foodspotting.com/settings",
+        "difficulty": "medium",
+        "notes": "Account can only be disabled, not deleted.",
+        "domains": [
+            "foodspotting.com"
         ]
     },
 
@@ -1830,7 +1832,7 @@
         "name": "Fruux",
         "url": "https://fruux.com/account/login/",
         "difficulty": "easy",
-        "notes":"You will need to go to Account setting and click delete account",
+        "notes": "You will need to go to Account setting and click delete account",
         "domains": [
             "fruux.com"
         ]
@@ -2662,6 +2664,17 @@
     },
 
     {
+        "name": "Intel Education Study (was Kno)",
+        "url": "https://www.study.intel.com/support",
+        "difficulty": "hard",
+        "notes": "You can close your account if you contact customer service either by phone or live chat",
+        "notes_fr": "Vous pouvez supprimer votre compte si vous contactez le support du site au téléphone ou par Live Chat.",
+        "domains": [
+            "study.intel.com"
+        ]
+    },
+
+    {
         "name": "Internetometer",
         "url": "http://internetometer.com/",
         "difficulty": "impossible",
@@ -2927,17 +2940,6 @@
     },
 
     {
-        "name": "Intel Education Study (was Kno)",
-        "url": "https://www.study.intel.com/support",
-        "difficulty": "hard",
-        "notes": "You can close your account if you contact customer service either by phone or live chat",
-        "notes_fr": "Vous pouvez supprimer votre compte si vous contactez le support du site au téléphone ou par Live Chat.",
-        "domains": [
-            "study.intel.com"
-        ]
-    },
-
-    {
         "name": "Koding",
         "url": "https://koding.com/Account/Delete",
         "difficulty": "easy",
@@ -3138,6 +3140,16 @@
     },
 
     {
+        "name": "Lookout",
+        "url": "https://www.lookout.com/d/settings",
+        "difficulty": "easy",
+        "notes": "log into your account, in the middle right.",
+        "domains": [
+            "lookout.com"
+        ]
+    },
+
+    {
         "name": "LoseIt",
         "url": "http://www.loseit.com/#Settings:Account%20Information^Account%20Information",
         "difficulty": "easy",
@@ -3146,16 +3158,6 @@
             "loseit.com"
         ]
     },
-
-    {
-       "name":"Lookout",
-       "url":"https://www.lookout.com/d/settings",
-       "difficulty":"easy",
-       "notes": "log into your account, in the middle right.",
-       "domains": [
-         "lookout.com"
-       ]
-   },
 
     {
         "name": "Lovefilm",
@@ -3260,17 +3262,17 @@
         ]
     },
 
-        {
-            "name": "Mediapart",
-            "url": "https://www.mediapart.fr/contenu/conditions-generales-d-utilisation",
-            "email": "contact@mediapart.fr",
-            "difficulty": "hard",
-            "notes": "No information is clearly provided how to delete account. You have to send an email to explicitly ask for deletion of every information related to your account otherwise they will only disable it.",
-            "notes_fr": "Il faut envoyer un mail et demander la suppression définitive de toute information liée au compte, sinon ils vont uniquement le désactiver(ex: les données bancaires demeurent). Conseil: Invoquer la CNIL (https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet).",
-            "domains": [
-                "mediapart.fr"
-            ]
-        },
+    {
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr/contenu/conditions-generales-d-utilisation",
+        "email": "contact@mediapart.fr",
+        "difficulty": "hard",
+        "notes": "No information is clearly provided how to delete account. You have to send an email to explicitly ask for deletion of every information related to your account otherwise they will only disable it.",
+        "notes_fr": "Il faut envoyer un mail et demander la suppression définitive de toute information liée au compte, sinon ils vont uniquement le désactiver(ex: les données bancaires demeurent). Conseil: Invoquer la CNIL (https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet).",
+        "domains": [
+            "mediapart.fr"
+        ]
+    },
 
     {
         "name": "Medium",
@@ -3553,15 +3555,6 @@
         "domains": [
             "namecheap.com"
         ]
-    },    
-    
-    {
-        "name": "Napster",
-        "url": "http://www.napster.com/",
-        "difficulty": "impossible",
-        "domains": [
-            "napster.com"
-        ]
     },
 
     {
@@ -3571,6 +3564,15 @@
         "notes": "At the bottom of the Account Settings page is a \"Delete My Account\" button. Your account will be \"disabled and scheduled for permanent deletion.\" After 30 days, \"your past novels, author profile, and unique account info will be permanently deleted.\" It is unclear if forum posts will be deleted.",
         "domains": [
             "nanowrimo.org"
+        ]
+    },
+
+    {
+        "name": "Napster",
+        "url": "http://www.napster.com/",
+        "difficulty": "impossible",
+        "domains": [
+            "napster.com"
         ]
     },
 
@@ -3775,14 +3777,6 @@
     },
 
     {
-        "name": "OpenShift",
-        "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
-        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt."
-    },
-
-    {
         "name": "OpenDNS",
         "url": "http://www.opendns.com/support/contact/",
         "difficulty": "easy",
@@ -3791,8 +3785,16 @@
         "notes_es": "Parece que tiene un botón para eliminar la cuenta en el camino donde se abre el billete.",
         "email": "contact@opendns.com",
         "domains": [
-          "opendns.com"
+            "opendns.com"
         ]
+    },
+
+    {
+        "name": "OpenShift",
+        "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
+        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt."
     },
 
     {
@@ -3981,6 +3983,17 @@
         "notes_de": "Auf der Account Seite auf 'Delete Account' klicken.",
         "domains": [
             "penflip.com"
+        ]
+    },
+
+    {
+        "name": "The Perfect Shave",
+        "url": "https://www.perfect-shave.de/einstellungen",
+        "difficulty": "easy",
+        "notes": "Click on 'Konto löschen' and then on 'Mein Konto jetzt unwiederruflich löschen'",
+        "notes_de": "Klicke auf 'Konto löschen' und dann auf 'Mein Konto jetzt unwiederruflich löschen",
+        "domains": [
+            "perfect-shave.de"
         ]
     },
 
@@ -4238,7 +4251,7 @@
         "notes": "Email support@quip.com and ask them to delete your account.",
         "email": "support@quip.com",
         "domains": [
-          "quip.com"
+            "quip.com"
         ]
     },
 
@@ -5108,17 +5121,6 @@
     },
 
     {
-        "name": "the perfect shave",
-        "url": "https://www.perfect-shave.de/einstellungen",
-        "difficulty": "easy",
-        "notes": "Click on 'Konto löschen' and then on 'Mein Konto jetzt unwiederruflich löschen'",
-        "notes_de": "Klicke auf 'Konto löschen' und dann auf 'Mein Konto jetzt unwiederruflich löschen",
-        "domains": [
-            "perfect-shave.de"
-        ]
-    },
-
-    {
         "name": "Threema",
         "url": "https://myid.threema.ch/revoke",
         "difficulty": "easy",
@@ -5234,7 +5236,7 @@
             "trello.com"
         ]
     },
-    
+
     {
         "name": "Trillian",
         "url": "http://www.trillian.im/account/#delete",
@@ -5359,16 +5361,6 @@
     },
 
     {
-        "name": "Unroll.me",
-        "url": "https://unroll.me/user/settings",
-        "difficulty": "easy",
-        "notes": "Click 'Delete my account' at the bottom of the user settings page.",
-        "domains": [
-            "unroll.me"
-        ]
-    },
-
-    {
         "name": "Unfuddle Ten",
         "url": "https://unfuddle.io/app",
         "difficulty": "hard",
@@ -5376,6 +5368,16 @@
         "email": "support@unfuddle.com",
         "domains": [
             "unfuddle.io"
+        ]
+    },
+
+    {
+        "name": "Unroll.me",
+        "url": "https://unroll.me/user/settings",
+        "difficulty": "easy",
+        "notes": "Click 'Delete my account' at the bottom of the user settings page.",
+        "domains": [
+            "unroll.me"
         ]
     },
 
