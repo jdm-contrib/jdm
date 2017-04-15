@@ -3740,6 +3740,17 @@
     },
 
     {
+        "name": "Online.net",
+        "url": "https://console.online.net/fr/assistance/ticket",
+        "difficulty": "impossible",
+        "notes": "The french law forces them to keep your account because it's linked to your bills.",
+        "domains": [
+            "online.net",
+            "console.online.net"
+        ]
+    },
+
+    {
         "name": "OnlineTVRecorder.com",
         "url": "http://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
         "difficulty": "impossible",
@@ -3755,16 +3766,6 @@
         ]
     },
     
-    {
-        "name": "Online.net",
-        "url": "https://console.online.net/fr/assistance/ticket",
-        "difficulty": "impossible",
-        "notes": "The french law force them to keep your account because he's linked to your bills.",
-        "domains": [
-            "online.net",
-            "console.online.net"
-        ]
-    },
 
     {
         "name": "OnLive",
