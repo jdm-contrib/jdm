@@ -1,9 +1,12 @@
 {
+  "name": "justdeleteme",
+  "version": "1.0.0",
   "dependencies": {
     "del": "*",
     "gulp-rename": "*",
     "gulp-swig": "*",
-    "gulp-data": "*"
+    "gulp-data": "*",
+    "gulp-ga": "*"
   },
   "devDependencies": {
     "gulp-jsonlint": "^1.1.0"
