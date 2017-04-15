@@ -8,7 +8,7 @@ $(function(){
         var $sites = $(".sites section");
 
         $sites.show().filter(function() {
-            var text = $(this).find(".site-header").text().replace(/\s+/g, ' ').toLowerCase().substr(1,1);
+            var text = $(this).find(".site-header").text().replace(/\s+/g, " ").toLowerCase().substr(1,1);
             return !~text.indexOf(term);
         }).hide();
 
@@ -24,7 +24,7 @@ $(function(){
         var $sites = $(".sites section");
 
         $sites.show().filter(function() {
-            var text = $(this).find(".site-difficulty").text().replace(/\s+/g, ' ').toLowerCase();
+            var text = $(this).find(".site-difficulty").text().replace(/\s+/g, " ").toLowerCase();
             return !~text.indexOf(term);
         }).hide();
 
@@ -40,7 +40,7 @@ $(function(){
         var $sites = $(".sites section");
 
         $sites.show().filter(function() {
-            var text = $(this).find(".meta").text().replace(/\s+/g, ' ').toLowerCase();
+            var text = $(this).find(".meta").text().replace(/\s+/g, " ").toLowerCase();
             return !~text.indexOf(term);
         }).hide();
 
@@ -54,7 +54,7 @@ $(function(){
         var $sites = $(".sites section");
         $sites.show();
         $(".no-results").hide();
-        $("input").val('');
+        $("input").val("");
     });
 
     // When the search field changes, update the hash
@@ -74,7 +74,7 @@ $(function(){
 		var $sites = $(".sites section");
 
 		$sites.show().filter(function() {
-			var text = $(this).find(".site-header").text().replace(/\s+/g, ' ').toLowerCase();
+			var text = $(this).find(".site-header").text().replace(/\s+/g, " ").toLowerCase();
 			return !~text.indexOf(term);
 		}).hide();
 
@@ -101,7 +101,7 @@ $(function(){
 		updateSearch();
 	}
 	
-    $('.site a').prop('title', '');
+    $(".site a").prop("title", "");
 
     // jQuery ScrollTo plugin from http://lions-mark.com/jquery/scrollTo/
 
@@ -121,7 +121,7 @@ $(function(){
           if (typeof callback == "function") { callback.call(this); }
         });
       });
-    }
+    };
 
     // Banner scroll to bottom
 
@@ -164,7 +164,9 @@ window.onload = function() {
 
     (function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
+      if (d.getElementById(id)) {
+        return;
+      }
       js = d.createElement(s); js.id = id;
       js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
       fjs.parentNode.insertBefore(js, fjs);
