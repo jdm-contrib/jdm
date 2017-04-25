@@ -3058,6 +3058,16 @@
     },
 
     {
+        "name": "Liberland",
+        "url": "https://liberland.org/",
+        "difficulty": "impossible",
+        "notes": "You can only disable the account, but never delete it.",
+        "domains": [
+            "liberland.org"
+        ]
+    },
+
+    {
         "name": "LibraryThing",
         "url": "http://www.librarything.de/editprofile/change",
         "difficulty": "easy",
