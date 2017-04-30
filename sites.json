@@ -83,8 +83,9 @@
 
     {
         "name": "Airbnb",
-        "url": "https://www.airbnb.com/users/settings",
-        "difficulty": "easy",
+        "url": "https://www.airbnb.com/help/article/240/how-do-i-cancel-my-account",
+        "difficulty": "impossible",
+        "notes": "Your account is only deactivated, but can be reactivated at any time by contacting the support.",
         "domains": [
             "airbnb.com"
         ]
