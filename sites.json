@@ -1422,6 +1422,16 @@
             "easel.io"
         ]
     },
+    
+    {
+        "name": "easyJet",
+        "url": "http://www.easyjet.com/en/help/contact",
+        "difficulty": "hard",
+        "notes": "You have to mail the customer support and request for account deletion.",
+        "domains": [
+            "easyjet.com"
+        ]
+    },
 
     {
         "meta": "popular",
