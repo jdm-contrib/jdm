@@ -4645,6 +4645,16 @@
     },
 
     {
+        "name": "shpock",
+        "url": "https://en.shpock.com/",
+        "difficulty": "hard",
+        "notes": "Requires e-mailing support to delete the account.",
+        "domains": [
+            "shpock.com"
+        ]
+    },
+    
+    {
         "name": "Shutterfly",
         "url": "http://www.shutterfly.com/about/contact_details.jsp",
         "difficulty": "hard",
