@@ -3064,7 +3064,8 @@
         "difficulty": "impossible",
         "notes": "You can only disable the account, but never delete it.",
         "domains": [
-            "liberland.org"
+            "liberland.org",
+            "market.ll.land"
         ]
     },
 
