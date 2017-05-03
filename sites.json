@@ -3257,6 +3257,16 @@
     },
 
     {
+        "name": "mailbox.org",
+        "url": "https://mailbox.org/en/",
+        "difficulty": "easy",
+        "notes": "Account Settings → Delete Account.",
+        "domains": [
+            "mailbox.org"
+        ]
+    },
+    
+    {
         "name": "MailChimp",
         "url": "http://kb.mailchimp.com/article/how-do-i-close-my-account",
         "difficulty": "medium",
