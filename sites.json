@@ -1090,6 +1090,15 @@
     },
 
     {
+        "name": "Day One",
+        "url": "http://dayone.me/user/request-account-deletion",
+        "difficulty": "easy",
+        "domains": [
+            "dayone.me"
+        ]
+    },
+
+    {
         "name": "Deadspin (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
