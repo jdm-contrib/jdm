@@ -3747,6 +3747,16 @@
             "newsblur.com"
         ]
     },
+    
+    {
+        "name": "Nexus mods",
+        "url": "https://www.nexusmods.com/",
+        "difficulty": "impossible",
+        "notes": "Accounts can only be closed, but not deleted.",
+        "domains": [
+            "nexusmods.com"
+        ]
+    },
 
     {
         "name": "Nike+",
