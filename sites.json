@@ -1069,6 +1069,16 @@
     },
 
     {
+        "name": "Dark Creations",
+        "url": "https://www.darkcreations.org/",
+        "difficulty": "impossible",
+        "notes": "Their community rules state that accounts will never be deleted.",
+        "domains": [
+            "darkcreations.org"
+        ]
+    },
+    
+    {
         "name": "Dashlane",
         "url": "https://www.dashlane.com/deleteaccount",
         "difficulty": "easy",
