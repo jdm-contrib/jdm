@@ -3737,17 +3737,6 @@
             "newsblur.com"
         ]
     },
-    
-    {
-        "name": "njal.la",
-        "url": "https://njal.la/",
-        "difficulty": "hard",
-        "notes": "You have to mail them to request deletion",
-        "email": "contact@njal.la",
-        "domains": [
-            "njal.la"
-        ]
-    },
 
     {
         "name": "Nike+",
@@ -3769,6 +3758,17 @@
         "notes_fr": "Vous verrez un choix de supprimer votre compte juste en dessus des options du mot de passe.",
         "domains": [
             "nitrous.io"
+        ]
+    },
+    
+    {
+        "name": "njal.la",
+        "url": "https://njal.la/",
+        "difficulty": "hard",
+        "notes": "You have to mail them to request deletion",
+        "email": "contact@njal.la",
+        "domains": [
+            "njal.la"
         ]
     },
 
