@@ -3737,6 +3737,17 @@
             "newsblur.com"
         ]
     },
+    
+    {
+        "name": "njal.la",
+        "url": "https://njal.la/",
+        "difficulty": "hard",
+        "notes": "You have to mail them to request deletion",
+        "email": "contact@njal.la",
+        "domains": [
+            "njal.la"
+        ]
+    },
 
     {
         "name": "Nike+",
