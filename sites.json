@@ -955,10 +955,9 @@
         "name": "CoinPayments",
         "url": "https://www.coinpayments.net/help-support",
         "difficulty": "impossible",
-        "notes": "",
+        "notes": "According to their own policy, accounts can never be deleted.",
         "domains": [
-            "coinpayments.net",
-            "www.coinpayments.net"
+            "coinpayments.net"
         ]
     },
 
