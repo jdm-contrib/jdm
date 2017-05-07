@@ -1050,7 +1050,9 @@
         "url": "http://www.crunchyroll.com/nuke",
         "difficulty": "easy",
         "notes": "You can deactivate the account after filling out a form containing the reason for doing so (radio button list) and typing your password",
-        "domains": "crunchyroll.com"
+        "domains": [
+            "crunchyroll.com"
+        ]
     },
 
     {
@@ -1058,7 +1060,9 @@
         "url": "http://www.crushee.com/pages/faq",
         "difficulty": "impossible",
         "notes": "They mock the very idea of wanting to delete your account in their faq: \"Can I delete my account cause I totally h8 you guise??!!!111\"",
-        "domains": "crushee.com"
+        "domains": [
+            "crushee.com"
+        ]
     },
 
     {
