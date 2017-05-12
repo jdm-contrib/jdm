@@ -260,7 +260,7 @@
             "asgardia.space"
         ]
     },
-    
+
     {
         "name": "Ask.fm",
         "url": "http://ask.fm/account/settings/optout",
@@ -489,7 +489,7 @@
             "behance.net"
         ]
     },
-    
+
     {
         "name": "Betterment",
         "url": "https://www.betterment.com/",
@@ -1099,7 +1099,7 @@
             "darkcreations.org"
         ]
     },
-    
+
     {
         "name": "Dashlane",
         "url": "https://www.dashlane.com/deleteaccount",
@@ -1329,7 +1329,7 @@
             "support.docusign.com"
         ]
     },
-    
+
     {
         "name": "Douban",
         "url": "http://www.douban.com/accounts/suicide/",
@@ -1473,7 +1473,7 @@
             "easel.io"
         ]
     },
-    
+
     {
         "name": "easyJet",
         "url": "http://www.easyjet.com/en/help/contact",
@@ -3306,7 +3306,7 @@
             "mailbox.org"
         ]
     },
-    
+
     {
         "name": "MailChimp",
         "url": "http://kb.mailchimp.com/article/how-do-i-close-my-account",
@@ -3583,10 +3583,10 @@
         "domains": [
             "addons.mozilla.org",
             "oauth.accounts.firefox.com",
-            "accounts.firefox.com"		
-        ]		
+            "accounts.firefox.com"
+        ]
     },
-    
+
     {
         "name": "Multiplay.co.uk",
         "url": "https://multiplay.com/contactus/",
@@ -3779,7 +3779,7 @@
             "newsblur.com"
         ]
     },
-    
+
     {
         "name": "Nexus mods",
         "url": "https://www.nexusmods.com/",
@@ -3812,7 +3812,7 @@
             "nitrous.io"
         ]
     },
-    
+
     {
         "name": "njal.la",
         "url": "https://njal.la/",
@@ -3891,7 +3891,7 @@
             "onlinetvrecorder.com"
         ]
     },
-    
+
 
     {
         "name": "OnLive",
@@ -4726,7 +4726,7 @@
             "shpock.com"
         ]
     },
-    
+
     {
         "name": "Shutterfly",
         "url": "http://www.shutterfly.com/about/contact_details.jsp",
