@@ -3570,6 +3570,24 @@
     },
 
     {
+        "name": "Mozilla/Firefox",
+        "url": "https://oauth.accounts.firefox.com/",
+        "difficulty": "easy",
+        "notes": "“Cancel your account” link at the bottom of the page.",
+        "notes_fr": "Cliquez le lien « Cancel your account » au bas de la page.",
+        "notes_it": "“Cancel your account” in fondo alla pagina.",
+        "notes_pt_br": "Link “Cancel your account” no final da página.",
+        "notes_cat": "“Cancel your account” al final de la pàgina.",
+        "notes_es": "“Cancel your account” al final de la página.",
+        "notes_pl": "Kliknij “Cancel your account” na dole strony.",
+        "domains": [
+            "addons.mozilla.org",
+            "oauth.accounts.firefox.com",
+            "accounts.firefox.com"		
+        ]		
+    },
+    
+    {
         "name": "Multiplay.co.uk",
         "url": "https://multiplay.com/contactus/",
         "difficulty": "hard",
