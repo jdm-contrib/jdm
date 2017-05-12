@@ -4059,9 +4059,9 @@
 
     {
         "name": "PCPartPicker",
-        "url": "http://pcpartpicker.com/contact/",
-        "difficulty": "hard",
-        "notes": "I had to contact via email, but they then immediately deleted my account",
+        "url": "http://pcpartpicker.com/",
+        "difficulty": "easy",
+        "notes": "Click the delete account on your account preferences.",
         "domains": [
             "pcpartpicker.com"
         ]
