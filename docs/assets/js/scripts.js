@@ -58,9 +58,15 @@ $(function(){
     });
 
     // When the search field changes, update the hash
+    var hashUpdateTimer;
     $('input').on('input', function(){
-        window.location.hash = $(this).val();
+        window.clearTimeout(hashUpdateTimer);
+        hashUpdateTimer = setTimeout(setWindowHash, 250, $(this).val());
     });
+
+    function setWindowHash(value) {
+        window.location.hash = value;
+    }
 
     // Call updateSearch when hash changes
     $(window).on('hashchange', function() {
