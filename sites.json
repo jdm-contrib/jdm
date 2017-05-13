@@ -1150,8 +1150,8 @@
         "name": "Deezer",
         "url": "http://www.deezer.com/account",
         "difficulty": "medium",
-        "notes": "If you signed up via Google/Facebook setup a Deezer password <a href=\"http://www.deezer.com/password/reset\">here</a> and click the confirmation link you'll get via mail. If you have your Deezer password, open your account settings. Click 'Delete my Account' at the bottom of the page. Enter your Deezer password and confirm the deletion in the confirmation mail.",
-        "notes_de": "Wenn du dich mit Google/Facebook registriert hast, fordere <a href=\"http://www.deezer.com/password/reset\">hier</a> ein Deezer-Passwort an und bestätige einen Link, den du per Mail erhältst. Wenn du ein Deezer-Passwort hast, öffne deine Konto-Einstellungen und klicke unten auf 'Mein Konto löschen'. Gib dort dein Deezer-Passwort ein und bestätige das Löschen in der Bestätigungsmail.",
+        "notes": "If you signed up via Google/Facebook setup a Deezer password at http://www.deezer.com/password/reset and click the confirmation link you'll get via mail. If you have your Deezer password, open your account settings. Click 'Delete my Account' at the bottom of the page. Enter your Deezer password and confirm the deletion in the confirmation mail.",
+        "notes_de": "Wenn du dich mit Google/Facebook registriert hast, fordere unter http://www.deezer.com/password/reset ein Deezer-Passwort an und bestätige einen Link, den du per Mail erhältst. Wenn du ein Deezer-Passwort hast, öffne deine Konto-Einstellungen und klicke unten auf 'Mein Konto löschen'. Gib dort dein Deezer-Passwort ein und bestätige das Löschen in der Bestätigungsmail.",
         "domains": [
             "deezer.com"
         ]
