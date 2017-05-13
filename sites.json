@@ -50,6 +50,15 @@
             "about.me"
         ]
     },
+    
+    {
+        "name": "Academia",
+        "url": "https://www.academia.edu/settings#account-removal",
+        "difficulty": "easy",
+        "domains": [
+            "academia.edu"
+        ]
+    },
 
     {
         "name": "Adobe",
