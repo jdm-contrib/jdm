@@ -58,7 +58,7 @@ $(function(){
     });
 
     // When the search field changes, update the hash
-    $('input').keyup(function(){
+    $('input').on('input', function(){
         window.location.hash = $(this).val();
     });
 
