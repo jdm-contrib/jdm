@@ -59,80 +59,80 @@ $(function(){
 
     // When the search field changes, update the hash
     $('input').keyup(function(){
-		window.location.hash = $(this).val();
+        window.location.hash = $(this).val();
     });
-	
-	// Call updateSearch when hash changes
-	$(window).on('hashchange', function() {
-		updateSearch();
-	});
-	
-	// Search function
-	function updateSearch() {
-		if ($('.no-results').is(':visible')) {
-			$('.no-results').hide();
-		}
-		
-		var hash = document.location.hash.toLowerCase();
-		var term = hash.substr(1);
-		
-		var $sites = $('.sites section');
 
-		$sites.show().filter(function() {
-			var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase();
-			return !~text.indexOf(term);
-		}).hide();
+    // Call updateSearch when hash changes
+    $(window).on('hashchange', function() {
+        updateSearch();
+    });
 
-		if ( ! $('.site-block').is(':visible')) {
-			$('.no-results').show();
-		}
-		
-		// Insert the term into the field
-		// (sometimes this is missed if the hash is changed directly)
-		$('#search').val(window.location.hash.substr(1));
-	}
-	
-	// Update search results on page load (if there is a hash)
-	if (window.location.hash !== "" && window.location.hash !== "#") {
-		// Insert the term into the field
-		$('#search').val(window.location.hash.substr(1));
-		
-		// Update the results
-		updateSearch();
-	}
-	
+    // Search function
+    function updateSearch() {
+        if ($('.no-results').is(':visible')) {
+            $('.no-results').hide();
+        }
+
+        var hash = document.location.hash.toLowerCase();
+        var term = hash.substr(1);
+
+        var $sites = $('.sites section');
+
+        $sites.show().filter(function() {
+            var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(term);
+        }).hide();
+
+        if ( ! $('.site-block').is(':visible')) {
+            $('.no-results').show();
+        }
+
+        // Insert the term into the field
+        // (sometimes this is missed if the hash is changed directly)
+        $('#search').val(window.location.hash.substr(1));
+    }
+
+    // Update search results on page load (if there is a hash)
+    if (window.location.hash !== "" && window.location.hash !== "#") {
+        // Insert the term into the field
+        $('#search').val(window.location.hash.substr(1));
+
+        // Update the results
+        updateSearch();
+    }
+
     $('.site a').prop('title', '');
 
     // jQuery ScrollTo plugin from http://lions-mark.com/jquery/scrollTo/
 
     $.fn.scrollTo = function( target, options, callback ){
-      if(typeof options == 'function' && arguments.length == 2){ callback = options; options = target; }
-      var settings = $.extend({
-        scrollTarget  : target,
-        offsetTop     : 50,
-        duration      : 500,
-        easing        : 'swing'
-      }, options);
-      return this.each(function(){
-        var scrollPane = $(this);
-        var scrollTarget = (typeof settings.scrollTarget == "number") ? settings.scrollTarget : $(settings.scrollTarget);
-        var scrollY = (typeof scrollTarget == "number") ? scrollTarget : scrollTarget.offset().top + scrollPane.scrollTop() - parseInt(settings.offsetTop);
-        scrollPane.animate({scrollTop : scrollY }, parseInt(settings.duration), settings.easing, function(){
-          if (typeof callback == 'function') { callback.call(this); }
+        if(typeof options == 'function' && arguments.length == 2){ callback = options; options = target; }
+        var settings = $.extend({
+            scrollTarget  : target,
+            offsetTop     : 50,
+            duration      : 500,
+            easing        : 'swing'
+        }, options);
+        return this.each(function(){
+            var scrollPane = $(this);
+            var scrollTarget = (typeof settings.scrollTarget == "number") ? settings.scrollTarget : $(settings.scrollTarget);
+            var scrollY = (typeof scrollTarget == "number") ? scrollTarget : scrollTarget.offset().top + scrollPane.scrollTop() - parseInt(settings.offsetTop);
+            scrollPane.animate({scrollTop : scrollY }, parseInt(settings.duration), settings.easing, function(){
+                if (typeof callback == 'function') { callback.call(this); }
+            });
         });
-      });
     }
 
     // Banner scroll to bottom
 
     $('.banner').click(function(e) {
         e.preventDefault();
-     $('body').scrollTo('.banner-block');
+        $('body').scrollTo('.banner-block');
     });
 
     $('.info').click(function(e) {
         e.preventDefault();
-     $('body').scrollTo('.about');
+        $('body').scrollTo('.about');
     });
 
     // create the keys and konami variables
@@ -163,11 +163,11 @@ window.onload = function() {
     $('#search').focus();
 
     (function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
-      fjs.parentNode.insertBefore(js, fjs);
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 
     console.log('Welcome to justdelete.me. We currently have ' + $('.site-block').length + ' services listed.');
