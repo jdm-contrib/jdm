@@ -68,6 +68,10 @@ $(function(){
         window.location.hash = value;
     }
 
+    function getDecodedWindowHash() {
+        return decodeURIComponent(window.location.hash);
+    }
+
     // Call updateSearch when hash changes
     $(window).on('hashchange', function() {
         updateSearch();
@@ -79,29 +83,29 @@ $(function(){
             $('.no-results').hide();
         }
 
-        var hash = document.location.hash.toLowerCase();
+        var hash = getDecodedWindowHash();
         var term = hash.substr(1);
 
         var $sites = $('.sites section');
 
         $sites.show().filter(function() {
             var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase();
-            return !~text.indexOf(term);
+            return !~text.indexOf(term.toLowerCase());
         }).hide();
 
         if ( ! $('.site-block').is(':visible')) {
             $('.no-results').show();
         }
 
-        // Insert the term into the field
+        // Insert the term into the search field
         // (sometimes this is missed if the hash is changed directly)
-        $('#search').val(window.location.hash.substr(1));
+        $('#search').val(term);
     }
 
     // Update search results on page load (if there is a hash)
-    if (window.location.hash !== "" && window.location.hash !== "#") {
+    if (getDecodedWindowHash() && getDecodedWindowHash() !== "#") {
         // Insert the term into the field
-        $('#search').val(window.location.hash.substr(1));
+        $('#search').val(getDecodedWindowHash().substr(1));
 
         // Update the results
         updateSearch();
