@@ -33,11 +33,11 @@ The site's HTML page is periodically built and checked in, so `/docs/*.html` sho
 
 If you want to help, do read our [contributing](https://github.com/jdm-contrib/justdelete.me/blob/master/CONTRIBUTING.md) guidelines.
 
-## Misc
+# Misc
 
 Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
 
-### Licence
+## Licence
 
 Licensed under the MIT License (MIT).
 Copyright (c) 2013 Robb Lewis, various contributors.
