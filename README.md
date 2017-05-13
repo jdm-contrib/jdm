@@ -6,6 +6,29 @@ A directory of direct links to delete your account from web services.
 [![Build Status](https://travis-ci.org/jdm-contrib/justdelete.me.svg?branch=master)](https://travis-ci.org/jdm-contrib/justdelete.me)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/53bbffc9bd3c40459200b33736922c6b)](https://www.codacy.com/app/tupaschoal/justdelete-me?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jdm-contrib/justdelete.me&amp;utm_campaign=Badge_Grade)
 
+# Building
+
+The site's HTML page is periodically built and checked in, so `/docs/*.html` should be working copies of the site at any given time. To update these pages with new sites or HTML templates, follow along below.
+
+**Dependencies:**
+
+* [Node.js](https://nodejs.org/en/) ([requires >=v7](https://nodejs.org/en/download/current/))
+
+**Installation**
+
+* Clone the repository:
+
+      git clone https://github.com/jdm-contrib/justdelete.me.git
+
+* Install `npm` within your local repository
+
+      cd justdelete.me
+	  npm install
+
+* Run `gulp`
+
+      gulp
+
 # Contributing
 
 The sites, urls and additional notes are stored in `sites.json`. If you want to add a site to the list you'll need the following information:

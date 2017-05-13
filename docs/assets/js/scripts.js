@@ -137,12 +137,12 @@ $(function(){
 
     $('.banner').click(function(e) {
         e.preventDefault();
-        $('body').scrollTo('.banner-block');
+        $('body,html').scrollTo('.banner-block');
     });
 
     $('.info').click(function(e) {
         e.preventDefault();
-        $('body').scrollTo('.about');
+        $('body,html').scrollTo('.about');
     });
 
     // create the keys and konami variables
