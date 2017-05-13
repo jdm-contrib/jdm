@@ -3091,11 +3091,9 @@
 
     {
         "name": "Last.fm",
-        "url": "http://www.last.fm/settings/account",
+        "url": "https://www.last.fm/settings/account/delete",
         "difficulty": "impossible",
-        "notes": "May take up to 7 days to delete your data, but it can be reactivated at any time.",
-        "notes_pt_br": "Pode levar até 7 dias para deletar seus dados, mas ela pode ser reativada a qualquer momento.",
-        "notes_es": "La desactivación puede tardar 7 días en eliminar tus datos, pero puede reactivarse a cualquier momento.",
+        "notes": "After deactivating your account, you are able to restore it at any time by logging in. There does not appear to be a point after which your data is actually purged.",
         "domains": [
             "last.fm"
         ]
