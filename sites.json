@@ -2133,11 +2133,11 @@
 
     {
         "name": "Gmail",
-        "url": "https://www.google.com/settings/datatools",
-        "difficulty": "easy",
-        "notes": "Login into your account →  Data Tools →  Delete Products →  Remove Gmail permanently ",
-        "notes_pl": "Zaloguj się na swoje konto → Zarządzanie danymi → Usuń usługi → Usuń usługę Gmail na stałe",
+        "url": "https://myaccount.google.com/deleteservices",
+        "difficulty": "medium",
+        "notes": "Click the trash can next to gmail, enter your new email address, and confirm the verification email",
         "domains": [
+            "gmail.com",
             "mail.google.com"
         ]
     },
