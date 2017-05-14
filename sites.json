@@ -1387,10 +1387,11 @@
 
     {
         "name": "Droplr",
-        "url": "https://droplr.com/settings",
+        "url": "https://d.pr/account",
         "difficulty": "easy",
         "domains": [
-            "droplr.com"
+            "droplr.com",
+            "d.pr"
         ]
     },
 
