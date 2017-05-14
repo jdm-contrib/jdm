@@ -2251,6 +2251,15 @@
     },
 
     {
+        "name" : "Google+",
+        "url" : "https://plus.google.com/downgrade",
+        "difficulty" : "easy",
+        "domains" : [
+            "plus.google.com"
+        ]
+    },
+
+    {
         "name": "GoPetition",
         "url": "https://www.gopetition.com/accountclosure.php",
         "difficulty": "easy",
