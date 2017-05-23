@@ -1572,10 +1572,10 @@
 
     {
         "name": "Ello",
-        "url": "https://ello.co/delete-account",
+        "url": "https://ello.co/wtf/help/settings/",
         "difficulty": "easy",
-        "notes": "Quoted from Ello: By deleting your account you remove your personal information from Ello. Your account cannot be restored.",
-        "notes_de": "Zitiert von Ello: Wenn Sie Ihren Account löschen, entfernen Sie alle persönlichen Informationen von Ello. Ihr Account kann nicht wiederhergestellt werden.",
+        "notes": "Quoted from Ello: Go to your Settings page and click the “Delete Account” link. Once you delete your account neither you, nor we, can recover it. Also note that your username may become available for another person to use.",
+        "notes_de": "Zitiert von Ello: Besuchen Sie Ihre Einstellungen und klicken Sie auf “Konto löschen“. Sobald Ihr Konto gelöscht ist, können weder Sie, noch wir ihn wiederherstellen. Beachten Sie auch, dass Ihr Nutzername möglicherweise für eine andere Person verfügbar sein wird.",
         "domains": [
             "ello.co"
         ]
