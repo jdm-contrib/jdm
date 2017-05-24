@@ -4373,17 +4373,17 @@
             "prosper.com"
         ]
     },
-    
+
     {
          "name": "ProtonMail",
          "url": "https://mail.protonmail.com/account",
          "difficulty": "easy",
          "notes": "Log into your account -> Click Settings -> Scroll Down to the Delete My Account Button -> Type why you are leaving, password, and 2 Factor Authentication code if enabled -> Click Delete",
          "domains": [
-         "protonmail.com"
+             "protonmail.com"
          ]
     },
-    
+
     {
         "name": "Pushover",
         "url": "https://pushover.net/settings/delete_account",
