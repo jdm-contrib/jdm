@@ -1,7 +1,7 @@
 [
     {
         "name": "1Password",
-        "url": "http://my.1password.com/profile",
+        "url": "https://my.1password.com/profile",
         "difficulty": "easy",
         "notes": "Login to your account, go to profile, click 'Permanently Delete Account'. Confirm by entering 'I am sure' and click 'Delete Account'.",
         "domains": [
