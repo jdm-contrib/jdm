@@ -1,4 +1,4 @@
-JustDelete.me
+JustDeleteMe
 =============
 
 A directory of direct links to delete your account from web services.
@@ -37,7 +37,7 @@ If you want to help, do read our [contributing](https://github.com/jdm-contrib/j
 
 Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
 
-## Licence
+## License
 
 Licensed under the MIT License (MIT).
 Copyright (c) 2013 Robb Lewis, various contributors.

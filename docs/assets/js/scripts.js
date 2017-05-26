@@ -180,5 +180,5 @@ window.onload = function() {
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 
-    console.log('Welcome to justdelete.me. We currently have ' + $('.site-block').length + ' services listed.');
+    console.log('Welcome to JustDeleteMe. We currently have ' + $('.site-block').length + ' services listed.');
 };
