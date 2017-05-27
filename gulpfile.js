@@ -4,7 +4,6 @@ var gulp      = require("gulp"),
     del       = require("del"),
     swig      = require("gulp-swig"),
     data      = require("gulp-data"),
-    ga        = require("gulp-ga"),
     jsonlint  = require("gulp-jsonlint");
 
 var translations = JSON.parse(fs.readFileSync("_trans/_config.json")),
@@ -67,7 +66,6 @@ gulp.task("translate", ["clean"], function() {
                 assetPath: "assets"
             }))
             .pipe(swig())
-            .pipe(ga({url: "justdeleteme.xyz", uid: "UA-45971598-4"}))
             .pipe(gulp.dest("docs"));
     });
 

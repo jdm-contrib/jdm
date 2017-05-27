@@ -5,8 +5,7 @@
     "del": "*",
     "gulp-rename": "*",
     "gulp-swig": "*",
-    "gulp-data": "*",
-    "gulp-ga": "*"
+    "gulp-data": "*"
   },
   "devDependencies": {
     "gulp-jsonlint": "^1.1.0"
