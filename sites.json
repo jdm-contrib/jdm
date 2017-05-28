@@ -5201,6 +5201,17 @@
             "stypi.com"
         ]
     },
+    
+    
+    {
+        "name": "SuperBiiz",
+        "url": "https://www.superbiiz.com/contact.php",
+        "difficulty": "hard",
+        "notes": "You have to email them and request for your account to be deleted.",
+        "domains": [
+            "superbiiz.com"
+        ]
+    },
 
     {
         "name": "SurveyMonkey",
