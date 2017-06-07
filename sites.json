@@ -4485,6 +4485,17 @@
     },
 
     {
+        "name": "Razer",
+        "url": "https://razer-id.razerzone.com/account/delete",
+        "difficulty": "easy",
+        "notes": "An account is required to access the warranty and product registration section of the website. Despite being on a different subdomain, this affects the normal Razerzone.com website and the assorted store as well.",
+        "domains": [
+            "razerzone.com",
+            "razer-id.razerzone.com"
+        ]
+    },
+
+    {
         "name": "Rdio",
         "url": "http://www.rdio.com/settings/advanced/",
         "difficulty": "easy",
