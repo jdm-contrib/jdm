@@ -5385,6 +5385,16 @@
             "topface.com"
         ]
     },
+    
+    {
+        "name": "Tor Project",
+        "url": "https://trac.torproject.org/",
+        "difficulty": "impossible",
+        "notes": "You can create an account with your email address only. But you cannot change, close, or delete your account",
+        "domains": [
+            "trac.torproject.org"
+        ]
+    },
 
     {
         "name": "Torrent 411",
