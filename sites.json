@@ -2405,7 +2405,7 @@
     
     {
         "name": "Gyazo",
-        "url": "https://gyazo.com/settings"
+        "url": "https://gyazo.com/settings",
         "difficulty": "easy",
         "domains": [
             "gyazo.com"
