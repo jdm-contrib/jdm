@@ -2402,6 +2402,15 @@
             "gumtree.com"
         ]
     },
+    
+    {
+        "name": "Gyazo",
+        "url": "https://gyazo.com/settings"
+        "difficulty": "easy",
+        "domains": [
+            "gyazo.com"
+        ]
+    }
 
     {
         "name": "Hack This Site",
