@@ -4025,6 +4025,17 @@
     },
 
     {
+        "name": "Paper by FiftyThree",
+        "url": "https://paper.fiftythree.com/settings",
+        "difficulty": "medium",
+        "notes": "Login to your account, go to settings, underneath 'Request account deletion' click 'submitting a request'. Enter your e-mail address and click 'Delete account'. Might take some days until the account gets deleted.",
+        "domains": [
+            "fiftythree.com",
+            "paper.fiftythree.com"
+        ]
+    },
+
+    {
         "name": "Parkmobile",
         "url": "https://parkmobile.zendesk.com/hc/en-us/articles/203299300-How-do-I-cancel-my-account-",
         "difficulty": "hard",
