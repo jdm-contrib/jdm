@@ -2404,6 +2404,16 @@
     },
 
     {
+        "name": "Gyazo",
+        "url": "https://gyazo.com/settings",
+        "difficulty": "easy",
+        "domains": [
+            "gyazo.com"
+        ],
+        "notes": "Scroll to the bottom of the webpage, and click the red \"Delete Account\" button"
+    },
+
+    {
         "name": "Hack This Site",
         "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
         "difficulty": "impossible",
