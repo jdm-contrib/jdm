@@ -5293,6 +5293,16 @@
     },
 
     {
+        "name": "Teachoo",
+        "url": "https://www.teachoo.com/contact/",
+        "difficulty": "hard",
+        "notes": "You must contact teachoo to remove your account.",
+        "domains": [
+            "teachoo.com"
+        ]
+    },
+
+    {
         "name": "TeamViewer",
         "url": "https://login.teamviewer.com/",
         "difficulty": "easy",
