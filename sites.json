@@ -3474,6 +3474,16 @@
         ]
     },
 
+     {
+        "name": "Metacafe",
+        "url": "http://www.metacafe.com/feedback/",
+        "difficulty": "hard",
+        "notes": "Request to delete account by contacting support.",
+        "domains": [
+            "metacafe.com"
+        ]
+    },
+
     {
         "name": "Mi Account",
         "url": "https://account.xiaomi.com/pass/del",
