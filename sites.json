@@ -5318,6 +5318,17 @@
         ]
     },
 
+    
+    {
+        "name": "Teachoo",
+        "url": "https://www.teachoo.com/contact/",
+        "difficulty": "hard",
+        "notes": "You can contact teachoo to remove your account.",
+        "domains": [
+            "teachoo.com"
+        ]
+    },
+
     {
         "name": "TED",
         "url": "http://support.ted.com/customer/portal/articles/143809-i-d-like-to-delete-my-account",
