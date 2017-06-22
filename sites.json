@@ -810,6 +810,16 @@
     },
 
     {
+        "name": "Chess.com",
+        "url": "https://chess.com/settings/close-account",
+        "difficulty": "easy",
+        "notes": "Your account will not be deleted but disabled.",
+        "domains": [
+            "chess.com"
+        ]
+    },
+
+    {
         "name": "Cinemagram",
         "url": "",
         "difficulty": "impossible",
