@@ -5293,6 +5293,16 @@
     },
 
     {
+        "name": "Teachoo",
+        "url": "https://www.teachoo.com/contact/",
+        "difficulty": "hard",
+        "notes": "You can contact teachoo to remove your account.",
+        "domains": [
+            "teachoo.com"
+        ]
+    },
+    
+    {
         "name": "TeamViewer",
         "url": "https://login.teamviewer.com/",
         "difficulty": "easy",
@@ -5315,16 +5325,6 @@
         "notes_pt_br": "Não é possível remover sua conta, mas você pode remover seus blogs.",
         "domains": [
             "technorati.com"
-        ]
-    },
-    
-    {
-        "name": "Teachoo",
-        "url": "https://www.teachoo.com/contact/",
-        "difficulty": "hard",
-        "notes": "You can contact teachoo to remove your account.",
-        "domains": [
-            "teachoo.com"
         ]
     },
 
