@@ -44,3 +44,5 @@ Copyright (c) 2013 Robb Lewis, various contributors.
 See `LICENSE.md`.
 
 Country Flag Icons Copyright (c) 2013 Go Squared Ltd. http://www.gosquared.com/
+
+This is a detached fork of the original repo that intends to keep the project alive, as the original one was abandoned.

@@ -810,6 +810,16 @@
     },
 
     {
+        "name": "Chess.com",
+        "url": "https://chess.com/settings/close-account",
+        "difficulty": "impossible",
+        "notes": "Your account will not be deleted but disabled.",
+        "domains": [
+            "chess.com"
+        ]
+    },
+
+    {
         "name": "Cinemagram",
         "url": "",
         "difficulty": "impossible",
@@ -1829,6 +1839,17 @@
     },
 
     {
+        "name": "Foap",
+        "url": "https://www.foap.com/pages/contact",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting customer support.",
+        "domains": [
+            "https://www.foap.com/",
+            "http://community.foap.com/"
+         ]
+    },
+
+    {
         "name": "FogBugz",
         "url": "https://www.fogcreek.com/fogbugz/",
         "difficulty": "easy",
@@ -2401,6 +2422,16 @@
             "my.gumtree.com",
             "gumtree.com"
         ]
+    },
+
+    {
+        "name": "Gyazo",
+        "url": "https://gyazo.com/settings",
+        "difficulty": "easy",
+        "domains": [
+            "gyazo.com"
+        ],
+        "notes": "Scroll to the bottom of the webpage, and click the red \"Delete Account\" button"
     },
 
     {
@@ -3453,6 +3484,16 @@
         ]
     },
 
+     {
+        "name": "Metacafe",
+        "url": "http://www.metacafe.com/feedback/",
+        "difficulty": "hard",
+        "notes": "Request to delete account by contacting support.",
+        "domains": [
+            "metacafe.com"
+        ]
+    },
+
     {
         "name": "Mi Account",
         "url": "https://account.xiaomi.com/pass/del",
@@ -4004,14 +4045,9 @@
 
     {
         "name": "Pandora",
-        "url": "http://help.pandora.com/customer/portal/articles/24624-cancel-account",
-        "difficulty": "hard",
-        "notes": "You have to email support from the email associated with your account. If you do not have access to that, you need to provide the email address, birth year, and zip code on the account.",
-        "notes_fr": "Vous devez envoyer un e-mail au support de l'adresse associé au compte. Si vous n'avez pas accès à l'adresse, il faut que vous donnez l'adresse, votre année de naissance et votre code postale.",
-        "notes_it": "Devi spedire un email al supporto usando l'email associata al tuo account. Se non hai accesso all'email, puoi fornire l'email, l'anno di nascita e il codice postale dell'account.",
-        "notes_pt_br": "Você terá de enviar um e-mail para o suporte com o e-mail associado a sua conta. Se você não tiver acesso a isto, você precisa especificar seu e-mail, ano de nascimento e código postal da conta.",
-        "notes_cat": "Has d'enviar un e-mail a l'assistència al client amb el compte d'email associat al compte de Pandora. Si no té accès al e-mail, haurà d'informar de l'email amb el que s'ha registrat, l'any de neixement i Codi Postal associat al compte.",
-        "notes_es": "Tienes que enviar un e-mail a asistencia al cliente con la cuenta de email asociada a la cuenta de Pandora. Si no tienes acceso al e-mail, deberás informar del email con el que te has registrado, tu año de nacimiento y el código postal asociado a la cuenta.",
+        "url": "https://www.pandora.com/settings/info",
+        "difficulty": "easy",
+        "notes": "Scroll down to delete my account and click it, click delete account, type in your password, then hit submit. If you have Pandora Plus or Premium, cancel your subscription, wait for it to expire, then delete.",
         "domains": [
             "help.pandora.com",
             "pandora.com"
@@ -4026,6 +4062,17 @@
         "notes_de": "Um den Account löschen zu können, müssen Sie zunächst alle aktiven Webseiten löschen, oder diese an jemand anderen übertragen.",
         "domains": [
             "pantheon.io"
+        ]
+    },
+
+    {
+        "name": "Paper by FiftyThree",
+        "url": "https://paper.fiftythree.com/settings",
+        "difficulty": "medium",
+        "notes": "Login to your account, go to settings, underneath 'Request account deletion' click 'submitting a request'. Enter your e-mail address and click 'Delete account'. Might take some days until the account gets deleted.",
+        "domains": [
+            "fiftythree.com",
+            "paper.fiftythree.com"
         ]
     },
 
@@ -4486,6 +4533,17 @@
         "notes": "After deleteing the account, it will be deactivated for 30 days before being deleted permanently. Messages, forum posts, and contributions stay on the site even after your account is deleted.",
         "domains": [
             "rateyourmusic.com"
+        ]
+    },
+
+    {
+        "name": "Razer",
+        "url": "https://razer-id.razerzone.com/account/delete",
+        "difficulty": "easy",
+        "notes": "An account is required to access the warranty and product registration section of the website. Despite being on a different subdomain, this affects the normal Razerzone.com website and the assorted store as well.",
+        "domains": [
+            "razerzone.com",
+            "razer-id.razerzone.com"
         ]
     },
 
@@ -5201,6 +5259,17 @@
             "stypi.com"
         ]
     },
+    
+    
+    {
+        "name": "SuperBiiz",
+        "url": "https://www.superbiiz.com/contact.php",
+        "difficulty": "hard",
+        "notes": "You have to email them and request for your account to be deleted.",
+        "domains": [
+            "superbiiz.com"
+        ]
+    },
 
     {
         "name": "SurveyMonkey",
@@ -5251,6 +5320,16 @@
         "difficulty": "hard",
         "domains": [
             "targetprocess.com"
+        ]
+    },
+
+    {
+        "name": "Teachoo",
+        "url": "https://www.teachoo.com/contact/",
+        "difficulty": "hard",
+        "notes": "You must contact teachoo to remove your account.",
+        "domains": [
+            "teachoo.com"
         ]
     },
 
@@ -5366,6 +5445,16 @@
         "difficulty": "easy",
         "domains": [
             "topface.com"
+        ]
+    },
+    
+    {
+        "name": "Tor Project",
+        "url": "https://trac.torproject.org/",
+        "difficulty": "impossible",
+        "notes": "You can create an account with your email address only. But you cannot change, close, or delete your account",
+        "domains": [
+            "trac.torproject.org"
         ]
     },
 
