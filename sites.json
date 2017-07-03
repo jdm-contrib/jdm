@@ -1286,6 +1286,17 @@
     },
 
     {
+        "name": "dict.cc",
+        "url": "http://users.dict.cc/my-account/close-account",
+        "difficulty": "easy",
+        "notes": "Account data will be deleted; the user name will be blocked to prevent reuse.",
+        "domains": [
+            "users.dict.cc",
+            "dict.cc"
+        ]
+    },
+
+    {
         "name": "Digg",
         "url": "http://digg.com/contact",
         "difficulty": "hard",
