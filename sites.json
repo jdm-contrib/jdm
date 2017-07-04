@@ -6048,8 +6048,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Yahoo!",
+        "meta": "popular",
         "url": "https://edit.yahoo.com/config/delete_user",
         "difficulty": "easy",
         "domains": [
@@ -6084,8 +6084,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Yelp",
+        "meta": "popular",
         "url": "http://www.yelp.co.uk/contact?topic=support&subtopic=close",
         "difficulty": "easy",
         "domains": [
@@ -6094,8 +6094,18 @@
     },
 
     {
-        "meta": "popular",
+        "name": "YNAB (You Need A Budget)",
+        "url": "https://app.youneedabudget.com/users/delete",
+        "difficulty": "easy",
+        "domains": [
+            "app.youneedabudget.com",
+            "youneedabudget.com"
+        ]
+    },
+
+    {
         "name": "YouTube",
+        "meta": "popular",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
         "notes": "You can request your data copy before you delete YouTube account.",
