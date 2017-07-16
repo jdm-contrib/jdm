@@ -60,7 +60,7 @@
             "about.me"
         ]
     },
-    
+
     {
         "name": "Academia",
         "url": "https://www.academia.edu/settings#account-removal",
@@ -1065,6 +1065,17 @@
     },
 
     {
+        "name": "Credit Karma",
+        "url": "https://help.creditkarma.com/hc/en-us/articles/202466954-How-do-I-cancel-my-membership-",
+        "difficulty": "easy",
+        "notes": "Membership can be canceled either online or by mail. Once you cancel, you will no longer have access to your Credit Karma account history and you won’t be able to create a new account for six months.",
+        "domains": [
+            "creditkarma.com",
+            "help.creditkarma.com"
+        ]
+    },
+
+    {
         "name": "CreditExpert",
         "url": "https://www.creditexpert.co.uk/",
         "difficulty": "hard",
@@ -1174,7 +1185,7 @@
             "kinja.com"
         ]
     },
-    
+
     {
         "name": "Deezer",
         "url": "http://www.deezer.com/account",
@@ -1478,7 +1489,7 @@
 
     {
         "name": "Dwolla",
-        "url": "http://help.dwolla.com/customer/portal/articles/269223-how-can-i-delete-my-dwolla-account-",
+        "url": "http://help.dwolla.com/customer/en/portal/articles/1203269-closing-your-dwolla-account",
         "difficulty": "hard",
         "notes": "All accounts stay in their system for at least 3 years. Remove any banking information before you delete.",
         "notes_fr": "Tous les comptes restent dans le système pour 3 ans au moins. Enlevez toutes les informations bancaires avant la suppression.",
@@ -2499,6 +2510,16 @@
         "notes": "Click 'Cancel My Membership' on the above URL and confirm.",
         "domains": [
             "hellowallet.com"
+        ]
+    },
+
+    {
+        "name": "Her Future",
+        "url": "http://www.herfuture.com/profiles/settings/editProfileInfo",
+        "difficulty": "easy",
+        "notes": "Log in, then navigate to 'Settings', then scroll to the bottom and click the 'Leave Her Future' link.",
+        "domains": [
+            "herfuture.com"
         ]
     },
 
@@ -5234,6 +5255,16 @@
     },
 
     {
+        "name": "Storenvy",
+        "url": "http://www.storenvy.com/account",
+        "difficulty": "easy",
+        "notes": "Log in, then navigate to 'Account Settings' > 'Profile'. Scroll to the bottom and click 'Delete my Storenvy store & account'. Click 'OK' when prompted to confirm.",
+        "domains": [
+            "storenvy.com"
+        ]
+    },
+
+    {
         "name": "Storify",
         "url": "http://storify.com/settings#account",
         "difficulty": "easy",
@@ -5282,8 +5313,8 @@
             "stypi.com"
         ]
     },
-    
-    
+
+
     {
         "name": "SuperBiiz",
         "url": "https://www.superbiiz.com/contact.php",
@@ -5470,7 +5501,7 @@
             "topface.com"
         ]
     },
-    
+
     {
         "name": "Tor Project",
         "url": "https://trac.torproject.org/",
@@ -5912,7 +5943,7 @@
             "whatsapp.com"
         ]
     },
-    
+
     {
         "name": "Which?",
         "url": "http://www.which.co.uk/terms-and-conditions/your-which-membership/",
