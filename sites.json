@@ -647,9 +647,9 @@
     },
 
     {
-        "meta": "popular",
         "name": "Box",
-        "url": "https://app.box.com/settings",
+        "meta": "popular",
+        "url": "https://app.box.com/account",
         "difficulty": "easy",
         "domains": [
             "app.box.com",
