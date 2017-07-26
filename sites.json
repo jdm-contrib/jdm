@@ -3959,6 +3959,16 @@
     },
 
     {
+        "name": "NOW TV",
+        "url": "https://help.nowtv.com/contact-us/how-do-i-cancel-now-tv",
+        "difficulty": "impossible",
+        "notes": "You must first cancel any active passes under 'My Account' > 'My Passes'. After this, you can contact the live chat and ask for your billing information to be removed. Your account must remain inactive for an indeterminate amount of time before the remaining data will be removed 'in accordance with our group data retention and deletion policies'.",
+        "domains": [
+            "nowtv.com"
+        ]
+    },
+
+    {
         "name": "Odnoklassniki",
         "url": "http://www.odnoklassniki.ru/regulations",
         "difficulty": "easy",
