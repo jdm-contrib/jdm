@@ -678,6 +678,16 @@
     },
 
     {
+        "name": "BrowserStack",
+        "url": "https://www.browserstack.com/contact",
+        "difficulty": "hard",
+        "notes": "Must send contact form requesting account deletion, using the \"Other\" category.",
+        "domains": [
+            "browserstack.com"
+        ]
+    },
+
+    {
         "name": "Buffer",
         "url": "https://bufferapp.com/app/account/leave",
         "difficulty": "easy",
