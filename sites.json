@@ -571,6 +571,16 @@
             "blueapron.com"
         ]
     },
+    
+    {
+        "name": "Bluebird by American Express",
+        "url": "https://secure.bluebird.com/manage/settings/ProfileSettings",
+        "difficulty": "medium",
+        "notes" : "Remove all funds from your account. Then go to settings in your account, click on the profile tab, and click close account.",
+        "domains": [
+            "bluebird.com"
+        ]
+    },
 
     {
         "name": "BoardGameGeek",
