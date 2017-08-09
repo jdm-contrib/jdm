@@ -4085,7 +4085,16 @@
             "orkut.google.com"
         ]
     },
-
+    
+    {
+        "name": "Osu!",
+        "url": "https://osu.ppy.sh/help/wiki/Help_Center",
+        "difficulty": "impossible",
+        "domains": [
+            "osu.ppy.sh"
+        ]
+    },
+    
     {
         "name": "Outlook",
         "url": "https://account.live.com/CloseAccount.aspx",
