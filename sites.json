@@ -571,7 +571,7 @@
             "blueapron.com"
         ]
     },
-    
+
     {
         "name": "Bluebird by American Express",
         "url": "https://secure.bluebird.com/manage/settings/ProfileSettings",
@@ -1008,6 +1008,16 @@
         "notes": "According to their own policy, accounts can never be deleted.",
         "domains": [
             "coinpayments.net"
+        ]
+    },
+
+    {
+        "name": "Collegeboard",
+        "url": "https://pages.collegeboard.org/account-help/how-do-i-delete-my-account",
+        "difficulty": "hard",
+        "notes": "You have to call their customer service at 866-315-6068",
+        "domains": [
+            "collegeboard.org"
         ]
     },
 
@@ -1945,6 +1955,16 @@
     },
 
     {
+        "name": "FreeCodeCamp",
+        "url": "https://www.freecodecamp.org/settings",
+        "difficulty": "easy",
+        "notes": "You'll need to access your account settings; it's under a section labeled Danger Zone",
+        "domains": [
+            "freecodecamp.org"
+        ]
+    },
+
+    {
         "name": "Freelancer",
         "url": "http://www.freelancer.com/report/contact.php",
         "difficulty": "hard",
@@ -2362,6 +2382,16 @@
         "notes_es": "Seleccione un motivo para cerrar la cuenta, sólo serán 2 clics",
         "domains": [
             "gosquared.com"
+        ]
+    },
+
+    {
+        "name": "gPodder",
+        "url": "https://www.gpodder.net/account/",
+        "difficulty": "easy",
+        "notes": "Go to account, select Delete Account at bottom of page, and click the red button labeled Delete Account.",
+        "domains": [
+            "gpodder.net"
         ]
     },
 
@@ -4085,7 +4115,7 @@
             "orkut.google.com"
         ]
     },
-    
+
     {
         "name": "Osu!",
         "url": "https://osu.ppy.sh/help/wiki/Help_Center",
@@ -4094,7 +4124,7 @@
             "osu.ppy.sh"
         ]
     },
-    
+
     {
         "name": "Outlook",
         "url": "https://account.live.com/CloseAccount.aspx",
