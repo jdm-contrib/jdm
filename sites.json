@@ -4618,7 +4618,7 @@
         "name": "Raindrop.io",
         "url": "https://raindrop.io/app/#/settings/profile",
         "difficulty": "hard",
-        "notes": "Log in, go to your profile settings and click 'Remove account'. Click OK to confirm deletion; this triggers an e-mail that informs the site owner about the deletion request.",
+        "notes": "To delete your account, you need to send an e-mail to info@raindrop.io",
         "domains": [
             "raindrop.io"
         ]
