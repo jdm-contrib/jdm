@@ -197,6 +197,29 @@
         ]
     },
 
+   {
+       "name": "AnkiApp",
+       "url": "https://join.ankiapp.com/",
+       "difficulty": "easy",
+       "notes": "Log in to your account and click 'Delete Account'. Confirm by entering your password and click 'OK'. You cannot delete your account via web.ankiapp.com - please visit join.ankiapp.com instead.",
+       "domains": [
+           "ankiapp.com",
+           "api.ankiapp.com",
+           "join.ankiapp.com",
+           "web.ankiapp.com"
+       ]
+   },
+
+    {
+        "name": "AnkiWeb",
+        "url": "https://ankiweb.net/account/remove",
+        "difficulty": "easy",
+        "notes": "Confirm by entering your e-mail address and click 'Remove'.",
+        "domains": [
+            "ankiweb.net"
+        ]
+    },
+
     {
         "name": "AOL / Instant Messenger",
         "url": "http://cancel.aol.com",
