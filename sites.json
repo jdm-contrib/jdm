@@ -28,6 +28,16 @@
     },
 
     {
++        "name": "7digital",
++        "url": "https://help.7digital.com/hc/en-gb/requests/new",
++        "difficulty": "hard",
++        "notes":"Email customer service and ask them to delete your account.",
++        "domains": [
++            "7digital.com"
++        ]
++    },
+
+    {
         "name": "9GAG",
         "url": "https://9gag.com/member/delete",
         "difficulty": "easy",
@@ -6278,6 +6288,16 @@
             "zattoo.com"
         ]
     },
+
+    {
++        "name": "Zazzle",
++        "url": "https://www.zazzle.com/about/ask",
++        "difficulty": "hard",
++        "notes": "To terminate your account, simply send an e-mail to Customer Care that contains your username and the email address associated with your account.  Once you've done so, a member of our Support Team will disable your account and remove any products, both public and private, and disable your store (if applicable).  The account will be deleted fully when our system processes the next batch of account removals.",
++        "domains": [
++            "zazzle.com"
++        ]
++    },
 
     {
         "name": "Zendesk",
