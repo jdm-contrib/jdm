@@ -3694,6 +3694,18 @@
     },
 
     {
+        "name": "Mobills",
+        "url": "https://web.mobillsapp.com/Configuracoes/DeletaConta",
+        "difficulty": "easy",
+        "notes": "If you made an accout via Google or Facebook you must first change your password.",
+        "notes_es": "Si creaste tu cuenta con Google o Facebook, debes antes cambiar tu contraseña.",
+        "domains": [
+            "mobillsapp.com",
+            "web.mobillsapp.com"
+        ]
+    },
+
+    {
         "name": "Mojang",
         "url": "https://account.mojang.com/me/settings",
         "difficulty": "easy",
