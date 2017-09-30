@@ -5786,6 +5786,17 @@
     },
 
     {
+        "name": "Typeform",
+        "url": "https://www.typeform.com/help/submit-ticket/",
+        "notes": "To delete your account and data you need to contact Support.",
+        "difficulty": "hard",
+        "domains": [
+            "www.typeform.com",
+            "admin.typeform.com"
+        ]
+    },
+
+    {
         "name": "TypePad",
         "url": "https://www.typepad.com/secure/account/cancel-account",
         "difficulty": "easy",
