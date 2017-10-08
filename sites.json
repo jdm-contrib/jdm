@@ -4349,6 +4349,16 @@
             "penflip.com"
         ]
     },
+    
+    {
+        "name": "Penzu",
+        "url": "https://penzu.com/app/account/delete",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete Penzu Account'. Confirm the deletion through the link sent to your email address.",
+        "domains": [
+            "penzu.com"
+        ]
+    },
 
     {
         "name": "The Perfect Shave",
