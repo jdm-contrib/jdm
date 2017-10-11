@@ -1097,17 +1097,13 @@
 
     {
         "name": "Couchsurfing",
-        "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
+        "url": "https://support.couchsurfing.org/hc/en-us/articles/200640880-How-can-I-Hide-or-Delete-my-profile",
         "difficulty": "impossible",
-        "notes": "Cannot be deleted fully, reactivation is always available. Fill out the form and select 'I understand. Please delete my profile.'.",
-        "notes_fr": "Ne sera pas completement supprimé, reactivation toujours possible. Remplissez le formulaire et selectionnez 'I understand. Please delete my profile.",
-        "notes_it": "Non può essere eliminato completamente, una riattivazione è sempre effettuabile. Riempi il modulo e scegli 'I understand. Please delete my profile.'.",
-        "notes_de": "Kann nicht vollständig gelöscht werden, reaktivierung ist immer möglich. Fülle das Formular aus und wähle 'I understand. Please delete my profile.'.",
-        "notes_pt_br": "Não pode ser totalmente deletada, reativação é sempre possível. Preencha o formulário e selecione 'I understand. Please delete my profile.'.",
-        "notes_cat": "No pot ser completament eliminat, la reactivació serà possible sempre. Ompli el formulari i seleccioni 'I understand. Please delete my profile.'.",
-        "notes_es": "No puedes eliminarla completamente, la reactivación siempre será posible. Rellena el formulario y selecciona 'I understand. Please delete my profile.'.",
+        "notes": "Cannot be deleted fully, reactivation is always available. Fill out the request form.",
         "domains": [
-            "couchsurfing.org"
+            "support.couchsurfing.org",
+            "couchsurfing.org",
+            "couchsurfing.com"
         ]
     },
 
