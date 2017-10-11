@@ -6445,6 +6445,16 @@
     },
 
     {
+        "name": "Zeit",
+        "url": "https://zeit.co/account/plan",
+        "difficulty": "hard",
+        "notes": "You would need to email the team by clicking contact us to get your account closed.",
+        "domains": [
+            "https://zeit.co/"
+        ]
+    },
+
+    {
         "name": "Zendesk",
         "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
         "difficulty": "easy",
