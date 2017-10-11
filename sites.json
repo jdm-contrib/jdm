@@ -3006,6 +3006,16 @@
     },
 
     {
+        "name": "Invision",
+        "url": "https://support.invisionapp.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You need to request them through the support form providing the email you signed up with. All files deleted will not be restorable.",
+        "domains": [
+            "http://invisionapp.com"
+        ]
+    },
+
+    {
         "name": "IO9 (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
