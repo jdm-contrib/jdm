@@ -5514,6 +5514,18 @@
     },
 
     {
+        "meta": "popular",
+        "name": "Stripe",
+        "url": "https://dashboard.stripe.com/account/data",
+        "difficulty": "easy",
+        "notes": "Account owners only, not team members can delete the account. Balances and pending invoices all need to be resolved before the account is permanently closed. Cannot be reversed.",
+        "domains": [
+            "https://dashboard.stripe.com",
+            "https://stripe.com"
+        ]
+    },
+
+    {
         "name": "StumbleUpon",
         "url": "https://www.stumbleupon.com/settings/delete-account",
         "difficulty": "easy",
