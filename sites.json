@@ -203,6 +203,16 @@
     },
 
     {
+        "name": "Angelist",
+        "url": "https://angel.co/settings",
+        "difficulty": "easy",
+        "notes": "Click delete account once logged in.",
+        "domains": [
+            "https://angel.co"
+        ]
+    },
+
+    {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
