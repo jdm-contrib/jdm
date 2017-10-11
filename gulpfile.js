@@ -20,10 +20,10 @@ gulp.task("jsonlint", function() {
 
         // Check for unsorted entries
         if (prev && prev > name) {
-            throw "Sites must be listed in alphanumeric order.";
+            throw "Sites must be listed in alphanumeric order. " + prev + " needs to come after " + name;
         }
         prev = name;
-        
+
         // Check for duplicate entries
         if (sitesSet.has(name)) {
             throw name + " already exists on the list.";
