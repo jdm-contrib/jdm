@@ -81,6 +81,16 @@
     },
 
     {
+        "name": "Acorns",
+        "url": "https://www.acorns.com/support/contact/",
+        "difficulty": "impossible",
+        "notes": "You have to contact customer support to deactivate your account. Can be reactivated again.",
+        "domains": [
+            "https://www.acorns.com"
+        ]
+    },
+
+    {
         "name": "Adobe",
         "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
         "difficulty": "hard",
