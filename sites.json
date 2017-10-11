@@ -590,7 +590,7 @@
     },
 
     {
-        "name": "bitly",
+        "name": "Bitly",
         "url": "https://bitly.com/a/deactivate_account",
         "difficulty": "easy",
         "notes": "Select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
@@ -842,7 +842,7 @@
     },
 
     {
-        "name": "cex.io",
+        "name": "CEX.IO",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
         "difficulty": "hard",
@@ -1530,7 +1530,7 @@
     },
 
     {
-        "name": "drone.io",
+        "name": "Drone.io",
         "url": "https://drone.io/admin",
         "difficulty": "easy",
         "domains": [
@@ -2077,7 +2077,7 @@
     },
 
     {
-        "name": "freesound",
+        "name": "Freesound",
         "url": "http://www.freesound.org/home/delete/",
         "difficulty": "medium",
         "notes": "You cannot delete your account yourself if you have sounds uploaded to your account. In their own words: \"Because you have sounds on freesound, deleting your user is not a trivial task. As such, we ask you to please contact the administrators via the Contact Form [http://www.freesound.org/contact/]. They will help you with the deletion of your account....\". Alternatively - you can go through all your sounds, delete them one-by-one, and then delete your account.",
@@ -2223,7 +2223,7 @@
     },
 
     {
-        "name": "ghash.io",
+        "name": "GHash.IO",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
         "difficulty": "hard",
@@ -4330,7 +4330,7 @@
     },
 
     {
-        "name": "Patrick-Krempf-Reminder",
+        "name": "Patrick Krempf Reminder",
         "url": "http://reminder.patrickkempf.de/manage.php?do=delaccount",
         "difficulty": "easy",
         "domains": [
@@ -4676,7 +4676,7 @@
     },
 
     {
-        "name": "put.io",
+        "name": "Put.io",
         "url": "https://put.io/payment/billing",
         "difficulty": "easy",
         "notes": "Click Destroy my account completely, then click Delete everything.",
@@ -5078,7 +5078,7 @@
     },
 
     {
-        "name": "shpock",
+        "name": "Shpock",
         "url": "https://en.shpock.com/",
         "difficulty": "hard",
         "notes": "Requires e-mailing support to delete the account.",
@@ -6224,7 +6224,7 @@
     },
 
     {
-        "name": "whosay.com",
+        "name": "WhoSay.com",
         "url": "http://www.whosay.com/settings",
         "difficulty": "easy",
         "notes": "Just click 'Deactivate'.",
