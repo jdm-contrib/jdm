@@ -1543,6 +1543,17 @@
     },
 
     {
+        "name": "Dronebase",
+        "url": "https://dronebase.com/contact",
+        "difficulty": "hard",
+        "notes": "Contact support to find out if you can delete your account.",
+        "domains": [
+            "dronebase.com",
+            "pilots.dronebase.com"
+        ]
+    },
+
+    {
         "name": "Dropbox",
         "url": "https://www.dropbox.com/account/delete",
         "difficulty": "easy",
