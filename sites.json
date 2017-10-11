@@ -5573,6 +5573,16 @@
     },
 
     {
+        "name": "Svtle",
+        "url": "https://svbtle.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete Account' link. After 30 days the data is irreversible to retrieve.",
+        "domains": [
+            "https://svbtle.com"
+        ]
+    },
+
+    {
         "name": "Swagbucks",
         "url": "http://www.swagbucks.com/account/settings#tab=account",
         "difficulty": "easy",
