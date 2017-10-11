@@ -6111,6 +6111,16 @@
     },
 
     {
+        "name": "Walmart",
+        "url": "http://help.walmart.com/app/answers/detail/a_id/230/~/how-to-close-your-walmart.com-account",
+        "difficulty": "hard",
+        "notes": "Contact customer service to close your account.",
+        "domains": [
+            "walmart.com"
+        ]
+    },
+
+    {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
