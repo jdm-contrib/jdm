@@ -4783,15 +4783,6 @@
     },
 
     {
-        "name": "Rdio",
-        "url": "http://www.rdio.com/settings/advanced/",
-        "difficulty": "easy",
-        "domains": [
-            "rdio.com"
-        ]
-    },
-
-    {
         "meta": "popular",
         "name": "Readability",
         "url": "https://www.readability.com/account/delete",
