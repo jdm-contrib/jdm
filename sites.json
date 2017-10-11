@@ -1179,6 +1179,16 @@
     },
 
     {
+        "name": "Crowdcast.io",
+        "url": "http://docs.crowdcast.io/account/how-do-i-cancel-my-account",
+        "difficulty": "impossible",
+        "notes": "You can pause your account for $10/mo or cancel your account.",
+        "domains": [
+            "http://crowdcast.io"
+        ]
+    },
+
+    {
         "name": "Crunchyroll",
         "url": "http://www.crunchyroll.com/nuke",
         "difficulty": "easy",
