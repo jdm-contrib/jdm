@@ -915,6 +915,16 @@
     },
 
     {
+        "name": "ClassPass",
+        "url": "https://classpass.com/settings/membership",
+        "difficulty": "impossible",
+        "notes": "You can deactivate your account from settings but not entirely delete the account itself.",
+        "domains": [
+            "classpass.com"
+        ]
+    },
+
+    {
         "name": "CleverReach",
         "url": "https://www.cleverreach.com",
         "difficulty": "hard",
