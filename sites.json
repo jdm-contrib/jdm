@@ -10,6 +10,16 @@
     },
 
     {
+        "name": "280daily",
+        "url": "https://280daily.com/settings/delete",
+        "difficulty": "easy",
+        "notes": "Enter your account password and click on 'DELETE ACCOUNT'.",
+        "domains": [
+            "280daily.com"
+        ]
+    },
+
+    {
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
@@ -1041,6 +1051,16 @@
     },
 
     {
+        "name": "CodeProject",
+        "url": "https://www.codeproject.com/script/Membership/Modify.aspx",
+        "difficulty": "easy",
+        "notes": "Beneath the gravatar image, check the 'Close my account' checkbox. Then click on 'Save my Settings'.",
+        "domains": [
+            "codeproject.com"
+        ]
+    },
+
+    {
         "name": "Coderwall",
         "url": "https://coderwall.com/delete_account",
         "difficulty": "easy",
@@ -1521,6 +1541,16 @@
     },
 
     {
+        "name": "Dragdis",
+        "url": "https://dragdis.com/Account/Settings/remove",
+        "difficulty": "easy",
+        "notes": "Enter a reason for leaving the service and then clink on 'Delete account'.",
+        "domains": [
+            "dragdis.com"
+        ]
+    },
+
+    {
         "name": "Dribbble",
         "url": "http://dribbble.com/account",
         "difficulty": "easy",
@@ -1622,7 +1652,7 @@
 
     {
         "name": "EA Origin",
-        "url": "https://help.ea.com/en/contact-us/ask",
+        "url": "https://help.ea.com/en/contact-us/",
         "difficulty": "hard",
         "notes": "Contact customer services to request deletion. If you're outside the US this must be by phone.",
         "notes_fr": "Contactez le support pour demander la suppression du compte. Si vous n'êtes pas americain cela se fait par téléphone.",
@@ -1654,6 +1684,16 @@
         "notes": "You have to mail the customer support and request for account deletion.",
         "domains": [
             "easyjet.com"
+        ]
+    },
+
+    {
+        "name": "EATags",
+        "url": "https://eatags.com/account/profile",
+        "difficulty": "easy",
+        "notes": "Click on the 'Unregister' button near the bottom of the page. Enter password and click on 'Delete account'.",
+        "domains": [
+            "eatags.com"
         ]
     },
 
@@ -1873,6 +1913,16 @@
         "difficulty": "easy",
         "domains": [
             "facile.it"
+        ]
+    },
+
+    {
+        "name": "Fandom Wikia",
+        "url": "http://community.wikia.com/wiki/Special:CloseMyAccount",
+        "difficulty": "medium",
+        "notes": "Click on 'Close my account'. Disables the account but cannot delete user data completely. Retains user contributions and username is not released.",
+        "domains": [
+            "fandom.wikia.com"
         ]
     },
 
@@ -2263,6 +2313,16 @@
         "difficulty": "easy",
         "domains": [
             "github.com"
+        ]
+    },
+
+    {
+        "name": "GitLab",
+        "url": "https://gitlab.com/profile/account",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete account' near the bottom of the page. Some user content will continue to exist anonymously on the website.",
+        "domains": [
+            "gitlab.com"
         ]
     },
 
@@ -3539,6 +3599,17 @@
     },
 
     {
+        "name": "Magoosh",
+        "url": "https://magoosh.zendesk.com/hc/en-us/articles/204307485-How-do-I-delete-my-account-",
+        "email": "help@magoosh.com",
+        "difficulty": "easy",
+        "notes": "Send an email to help@magoosh.com with the subject line, 'Need to delete my account'. Might need to send another email for the deletion to fianlly go through.",
+        "domains": [
+            "magoosh.com"
+        ]
+    },
+
+    {
         "name": "mailbox.org",
         "url": "https://mailbox.org/en/",
         "difficulty": "easy",
@@ -4519,6 +4590,16 @@
         "difficulty": "medium",
         "domains": [
             "pivotaltracker.com"
+        ]
+    },
+
+    {
+        "name": "Pixlr",
+        "url": "https://pixlr.com/user/settings/",
+        "difficulty": "easy",
+        "notes": "Click on 'Remove account'.",
+        "domains": [
+            "pixlr.com"
         ]
     },
 
@@ -5782,6 +5863,16 @@
     },
 
     {
+        "name": "TrashMail",
+        "url": "https://trashmail.com/?lang=en&cmd=manager",
+        "difficulty": "easy",
+        "notes": "In top navigation bar, click on 'Account', then select 'Delete account'.",
+        "domains": [
+            "trashmail.com"
+        ]
+    },
+
+    {
         "name": "Trello",
         "url": "https://trello.com/your/account",
         "difficulty": "easy",
@@ -6163,6 +6254,16 @@
     },
 
     {
+        "name": "Weebly",
+        "url": "https://www.weebly.com/home/account/payment",
+        "difficulty": "easy",
+        "notes": "Click on 'Permanently delete your Weebly account'.",
+        "domains": [
+            "weebly.com"
+        ]
+    },
+
+    {
         "name": "Western Union",
         "url": "https://thewesternunion.custhelp.com/app/answers/detail/a_id/116/~/how-do-i-cancel-my-western-union-account%2Fprofile%3F",
         "difficulty": "hard",
@@ -6232,6 +6333,16 @@
         "notes_pl": "Po prostu kliknij 'Deactivate'.",
         "domains": [
             "whosay.com"
+        ]
+    },
+
+    {
+        "name": "Wikidot",
+        "url": "https://www.wikidot.com/account/settings",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete account'. Confirm account deletion through the link sent to user email address.",
+        "domains": [
+            "wikidot.com"
         ]
     },
 
