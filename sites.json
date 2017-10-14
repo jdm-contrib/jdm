@@ -6451,6 +6451,16 @@
         ]
     },
 
+{
+        "name": "Zenkit",
+        "url": "https://zenkit.com/profile",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to profile, scroll down and click 'Delete Account'. Confirm by entering 'DELETEMYACCOUNT' and click 'Delete My Account'.",
+        "domains": [
+            "zenkit.com"
+        ]
+    },
+
     {
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
