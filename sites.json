@@ -3308,6 +3308,16 @@
             "kippt.com"
         ]
     },
+    
+    {
+        "name": "Kit.com",
+        "url": "https://kit.com/terms#contact",
+        "difficulty": "hard",
+        "notes": "If you need to contact us for any reason, you can do so by emailing us.",
+        "domains": [
+            "kit.com/"
+        ]
+    },
 
     {
         "name": "Klout",
