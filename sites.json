@@ -4613,6 +4613,16 @@
     },
 
     {
+        "name": "Player FM",
+        "url": "https://player.fm/will-miss-you",
+        "difficulty": "medium",
+        "notes": "In upper right, click the settings button and select \"Help/FAQ\". Select option \"How do I delete my account and leave Player FM?\" - link will be below. Type \"delete\" in the box and click the button to finalize.",
+        "domains": [
+            "player.fm"
+        ]
+    },
+
+    {
         "name": "PlayStation Network",
         "url": "https://support.us.playstation.com/app/contact_options",
         "difficulty": "impossible",
