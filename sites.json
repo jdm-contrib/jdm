@@ -4783,7 +4783,7 @@
          "difficulty": "easy",
          "notes": "Log into your account -> Click Settings -> Scroll Down to the Delete My Account Button -> Type why you are leaving, password, and 2 Factor Authentication code if enabled -> Click Delete",
          "domains": [
-            "protonmail.com"
+             "protonmail.com"
          ]
     },
 
