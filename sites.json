@@ -3658,6 +3658,16 @@
     },
 
     {
+        "name": "Marvel",
+        "url": "https://marvelapp.com/account/",
+        "difficulty": "easy",
+        "notes": "Log into your account -> My Account -> click on Delete Account at the bottom of page.",
+        "domains": [
+            "marvelapp.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Match",
         "url": "http://uk.match.com/myaccount/myunsubscription.php",
@@ -4758,12 +4768,22 @@
     },
 
     {
+        "name": "Proto.io",
+        "url": "https://support.proto.io/hc/en-us/articles/222733628-Dashboard-basics-Billing-Settings",
+        "difficulty": "easy",
+        "notes": "You can either close your account temporary or delete it permanently. Log into your account -> Click Settings -> Manage Subscription -> NEED TO CLOSE YOUR ACCOUNT? click Yes, Close Account",
+        "domains": [
+              "proto.io"
+          ]
+    },
+
+    {
          "name": "ProtonMail",
          "url": "https://mail.protonmail.com/account",
          "difficulty": "easy",
          "notes": "Log into your account -> Click Settings -> Scroll Down to the Delete My Account Button -> Type why you are leaving, password, and 2 Factor Authentication code if enabled -> Click Delete",
          "domains": [
-             "protonmail.com"
+            "protonmail.com"
          ]
     },
 
