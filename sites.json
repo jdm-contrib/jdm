@@ -6308,6 +6308,15 @@
     },
 
     {
+        "name": "WeHeartIt",
+        "url": "http://weheartit.com/settings/delete",
+        "difficulty": "easy",
+        "domains": [
+            "weheartit.com"
+        ]
+    },
+
+    {
         "name": "Western Union",
         "url": "https://thewesternunion.custhelp.com/app/answers/detail/a_id/116/~/how-do-i-cancel-my-western-union-account%2Fprofile%3F",
         "difficulty": "hard",
