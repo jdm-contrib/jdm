@@ -3292,7 +3292,7 @@
             "kinja.com"
         ]
     },
-    
+
     {
         "name": "Kippt",
         "url": "https://kippt.com/accounts/delete/",
@@ -5491,6 +5491,15 @@
         ]
     },
 
+    {
+        "name": "Square Cash",
+        "url": "https://cash.me/login?return_to=support",
+        "difficulty": "hard",
+        "notes": "Login into the support page and email customer support asking to delete your account.",
+        "domains": [
+            "cash.me"
+        ]
+    },
 
     {
         "name": "Starbucks",
