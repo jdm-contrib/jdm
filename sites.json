@@ -612,18 +612,6 @@
     },
 
     {
-        "name": "Bitso",
-        "url": "https://help.bitso.com/support/home",
-        "difficulty": "impossible",
-        "notes": "You can't delete your Bitso account, but you could modify your account settings within the account configuration section",
-        "domains": [
-            "bitso.com"
-        ]
-    },
-
-
-
-    {
         "meta": "popular",
         "name": "Blogger",
         "url": "https://support.google.com/blogger/answer/41932",
