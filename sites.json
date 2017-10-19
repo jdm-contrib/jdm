@@ -2667,6 +2667,16 @@
     },
 
     {
+        "name": "Hackerrank",
+        "url": "https://www.hackerrank.com/settings/account",
+        "difficulty": "easy",
+        "notes": "According to the site you must go to the profile settings url and there will be a button called 'delete account' which will delete the account if it is wished to. ",
+        "domains": [
+            "www.hackerrank.com"
+        ]
+    },
+
+    {
         "name": "Hackpad",
         "url": "https://hackpad.com/Hackpad-FAQ-tq56fI63mz3#:h=Account-settings",
         "difficulty": "hard",
