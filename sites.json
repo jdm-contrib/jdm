@@ -3308,16 +3308,6 @@
         ]
     },
 
-	{
-        "name": "LeetCode",
-        "url": "",
-        "difficulty": "impossible",
-        "notes": "There is no way to delete your acccount, but you can start a new session that renews your progress",
-        "domains": [
-            "leetcode.com"
-        ]
-    },
-
     {
         "name": "Letterboxd",
         "url": "http://letterboxd.com/user/disableaccount/",
