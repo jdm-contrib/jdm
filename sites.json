@@ -901,6 +901,16 @@
             "chess.com"
         ]
     },
+    
+    {
+	    "name": "Chegg",
+	    "url": "http://www.chegg.com/contactus",
+	    "difficulty": "hard",
+	    "notes": "Email customer service or contact them via chat and ask them to delete your account. There is also no option to delete your payment methods, you need to contact customer support as well.",
+	    "domains": [
+	    	"chegg.com"
+	    ]
+    },
 
     {
         "name": "Cinemagram",
