@@ -3302,7 +3302,7 @@
             "kippt.com"
         ]
     },
-    
+
     {
         "name": "Kit.com",
         "url": "https://kit.com/terms#contact",
@@ -5488,6 +5488,16 @@
         "notes_es": "Si nunca has publicado en el sitio sólo es un clic. Si no, edita tu biografía en 'About Me' y escribe 'please delete me', luego contacta con atención al cliente.",
         "domains": [
             "stackoverflow.com"
+        ]
+    },
+
+    {
+        "name": "Square Cash",
+        "url": "https://cash.me/login?return_to=support",
+        "difficulty": "hard",
+        "notes": "Login into the support page and email customer support asking to delete your account.",
+        "domains": [
+            "cash.me"
         ]
     },
 
