@@ -4782,6 +4782,16 @@
     },
 
     {
+         "name": "Prott",
+         "url": "https://prottapp.com/app/#/users/edit/general",
+         "difficulty": "easy",
+         "notes": "Log into your account -> Click Settings -> in General tab scroll down and find 'Click here if you want to cancel your account' -> Choose why you are leaving and click 'Continue' -> Click 'Yes Cancel My Account'",
+         "domains": [
+             "prottapp.com"
+         ]
+    },
+
+    {
         "name": "Pushover",
         "url": "https://pushover.net/settings/delete_account",
         "difficulty": "easy",
