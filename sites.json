@@ -3848,6 +3848,16 @@
     },
 
     {
+        "name": "Mockflow",
+        "url": "http://support.mockflow.com/article/10-can-i-delete-my-mockflow-account",
+        "difficulty": "easy",
+        "notes": "Login to your account -> Open the menu and choose My Account -> In the Profile Details tab click on 'Delete Account' & confirm deletion by entering your password.",
+        "domains": [
+            "mockflow.com"
+        ]
+    },
+
+    {
         "name": "Mojang",
         "url": "https://account.mojang.com/me/settings",
         "difficulty": "easy",
