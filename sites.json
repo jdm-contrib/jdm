@@ -6263,6 +6263,16 @@
     },
 
     {
+        "name": "Voxer",
+        "url": "https://support.voxer.com/hc/en-us/articles/204330173-How-do-I-delete-my-Voxer-account-",
+        "difficulty": "medium",
+        "notes": "Account can only be deleted from Android or iOS app, not the Voxer website.",
+        "domains": [
+            "voxer.com"
+        ]
+    },
+
+    {
         "name": "Walmart",
         "url": "http://help.walmart.com/app/answers/detail/a_id/230/~/how-to-close-your-walmart.com-account",
         "difficulty": "hard",
