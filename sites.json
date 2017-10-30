@@ -1497,7 +1497,7 @@
 
     {
         "name": "Discshop.fi",
-        "url": "https://www.discshop.fi",
+        "url": "https://www.discshop.fi/ota_yhteytta",
         "difficulty": "hard",
         "notes": "Contact Discshop.fi's customer support and request for your account to be closed.",
         "domains": [
