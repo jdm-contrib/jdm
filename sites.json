@@ -1496,6 +1496,16 @@
     },
 
     {
+        "name": "Discshop.fi",
+        "url": "https://www.discshop.fi",
+        "difficulty": "hard",
+        "notes": "Contact Discshop.fi's customer support and request for your account to be closed.",
+        "domains": [
+            "discshop.fi"
+        ]
+    },
+
+    {
         "name": "Disqus",
         "url": "http://disqus.com/pages/dashboard/#account",
         "difficulty": "easy",
