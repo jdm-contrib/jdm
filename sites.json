@@ -1515,6 +1515,15 @@
     },
 
     {
+        "name": "DNSimple",
+        "url": "https://dnsimple.com/user/cancellation",
+        "difficulty": "easy",
+        "domains": [
+            "dnsimple.com"
+        ]
+    },
+
+    {
         "name": "DocuSign",
         "url": "https://support.docusign.com/guides/ndse-user-guide-close-your-account",
         "notes": "Visit DocuSign’s customer support web page and fill out the web form with your account information and the request to delete your account.",
