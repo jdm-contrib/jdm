@@ -1850,7 +1850,7 @@
         "name": "ESPN",
         "url": "http://www.espn.com",
         "difficulty": "easy",
-        "notes": "At the bottom of the account settings page there is a Remove Account button"
+        "notes": "At the bottom of the account settings page there is a Remove Account button",
         "domains": [
             "espn.com"
         ]
