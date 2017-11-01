@@ -1486,6 +1486,16 @@
     },
 
     {
+        "name": "Disney Movies Anywhere",
+        "url": "https://www.disneymoviesanywhere.com/setting/account/device-management",
+        "difficulty": "easy",
+        "notes": "Log into your account, go to the settings page, click on 'Profile', scroll to the bottom, click 'Delete Account', and 'Yes, delete this account'.",
+        "domains": [
+            "disneymoviesanywhere.com"
+        ]
+    },
+
+    {
         "name": "Disqus",
         "url": "http://disqus.com/pages/dashboard/#account",
         "difficulty": "easy",
