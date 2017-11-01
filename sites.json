@@ -600,6 +600,16 @@
     },
 
     {
+        "name": "Bitdefender Central",
+        "url": "https://central.bitdefender.com/account",
+        "difficulty": "medium",
+        "notes": "To delete your account, login, go to the 'My Account' page, click the 'Delete Account' link, click the 'Delete Account' button, and click the 'Send Email' button. A confirmation email will be sent to the account email. Click the 'Delete Account' link in the email sent to you, log into your account, and click the 'Delete Account' button.",
+        "domains": [
+            "central.bitdefender.com"
+        ]
+    },
+
+    {
         "name": "Bitly",
         "url": "https://bitly.com/a/deactivate_account",
         "difficulty": "easy",
@@ -1482,6 +1492,16 @@
         "notes": "Contact Discord’s customer support and request for your account to be closed.",
         "domains": [
             "discordapp.com"
+        ]
+    },
+
+    {
+        "name": "Discshop.fi",
+        "url": "https://www.discshop.fi/ota_yhteytta",
+        "difficulty": "hard",
+        "notes": "Contact Discshop.fi's customer support and request for your account to be closed.",
+        "domains": [
+            "discshop.fi"
         ]
     },
 
@@ -6269,6 +6289,16 @@
         "difficulty": "easy",
         "domains": [
             "vk.com"
+        ]
+    },
+
+    {
+        "name": "Voxer",
+        "url": "https://support.voxer.com/hc/en-us/articles/204330173-How-do-I-delete-my-Voxer-account-",
+        "difficulty": "medium",
+        "notes": "Account can only be deleted from Android or iOS app, not the Voxer website.",
+        "domains": [
+            "voxer.com"
         ]
     },
 
