@@ -1847,22 +1847,22 @@
     },
 
     {
-        "name": "ESPN",
-        "url": "http://www.espn.com",
-        "difficulty": "easy",
-        "notes": "At the bottom of the account settings page there is a Remove Account button",
-        "domains": [
-            "espn.com"
-        ]
-    },
-
-    {
         "name": "eRepublik",
         "url": "http://www.erepublik.com/en/contact/none/none",
         "difficulty": "hard",
         "notes": "Create new Game Support ticket to request account removal.",
         "domains": [
             "erepublik.com"
+        ]
+    },
+
+    {
+        "name": "ESPN",
+        "url": "http://www.espn.com",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account settings page there is a Remove Account button",
+        "domains": [
+            "espn.com"
         ]
     },
 
