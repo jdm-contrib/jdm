@@ -862,6 +862,20 @@
     },
 
     {
+        "name": "CDON.COM",
+        "url": "http://cdon.eu/#support-hub",
+        "difficulty": "hard",
+        "notes": "Contact customer service via the support e-mail form and request deletion of your account under General Questions.",
+        "domains": [
+            "cdon.se",
+            "cdon.dk",
+            "cdon.no",
+            "cdon.fi",
+            "cdon.eu"
+        ]
+    },
+
+    {
         "name": "CEX.IO",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
