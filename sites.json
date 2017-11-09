@@ -862,6 +862,16 @@
     },
 
     {
+        "name": "cda",
+        "url": "https://www.cda.pl/kontakt",
+        "difficulty": "hard",
+        "notes": "You need to contact with support",
+        "domains": [
+            "cda.pl"
+        ]
+    },
+    
+    {
         "name": "CDON.COM",
         "url": "http://cdon.eu/#support-hub",
         "difficulty": "hard",
@@ -4319,6 +4329,16 @@
     },
 
     {
+        "name": "Onet",
+        "url": "https://konto.onet.pl/data.html",
+        "difficulty": "easy",
+        "notes": "You just need to click 'Delete account', then enter your account password and tick the checkbox",
+        "domains": [
+            "onet.pl"
+        ]
+    },
+    
+    {
         "name": "Online.net",
         "url": "https://console.online.net/fr/assistance/ticket",
         "difficulty": "impossible",
@@ -6756,26 +6776,6 @@
         "email": "privacy@zynga.com?subject=Delete My Account",
         "domains": [
             "zynga.com"
-        ]
-    },
-    
-    {
-        "name": "Onet",
-        "url": "https://konto.onet.pl/data.html",
-        "difficulty": "easy",
-        "notes": "You just need to click 'Delete account', then enter your account password and tick the checkbox",
-        "domains": [
-            "onet.pl"
-        ]
-    },
-    
-    {
-        "name": "cda",
-        "url": "https://www.cda.pl/kontakt",
-        "difficulty": "hard",
-        "notes": "You need to contact with support",
-        "domains": [
-            "cda.pl"
         ]
     }
 ]
