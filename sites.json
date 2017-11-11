@@ -862,6 +862,16 @@
     },
 
     {
+        "name": "cda",
+        "url": "https://www.cda.pl/kontakt",
+        "difficulty": "hard",
+        "notes": "You need to contact with support",
+        "domains": [
+            "cda.pl"
+        ]
+    },
+
+    {
         "name": "CDON.COM",
         "url": "http://cdon.eu/#support-hub",
         "difficulty": "hard",
@@ -4315,6 +4325,16 @@
         "notes_es": "Visita la página de parámetros, y selecciona 'Delete Account'",
         "domains": [
             "okcupid.com"
+        ]
+    },
+
+    {
+        "name": "Onet",
+        "url": "https://konto.onet.pl/data.html",
+        "difficulty": "easy",
+        "notes": "You just need to click 'Delete account', then enter your account password and tick the checkbox",
+        "domains": [
+            "onet.pl"
         ]
     },
 
