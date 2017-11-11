@@ -1523,7 +1523,6 @@
         "name": "Discord",
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "easy",
-        "notes": "Follow Discord's guide.",
         "domains": [
             "discordapp.com"
         ]
