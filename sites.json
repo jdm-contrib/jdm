@@ -2854,16 +2854,6 @@
     },
 
     {
-        "name": "hitbox",
-        "url": "http://help.hitbox.tv/customer/portal/emails/new",
-        "difficulty": "hard",
-        "notes": "You have to send an email to the support team asking for deletion of your account. Your account will be added to a list of accounts for deletion, and it may take some time before it has actually been deleted.",
-        "domains": [
-            "hitbox.tv"
-        ]
-    },
-
-    {
         "name": "HOL Virtual Hogwarts",
         "url": "http://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
@@ -5454,6 +5444,16 @@
         "difficulty": "hard",
         "domains": [
             "smartrecruiters.com"
+        ]
+    },
+
+    {
+        "name": "Smashcast",
+        "url": "https://www.smashcast.tv",
+        "difficulty": "easy",
+        "notes": "Access your user settings page, click the \"Delete Account...\" link. Check each of the boxes that appear, enter your account password, and complete the captcha to confirm account deletion.",
+        "domains": [
+            "smashcast.tv"
         ]
     },
 
