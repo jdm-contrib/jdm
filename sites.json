@@ -3310,7 +3310,7 @@
 
     {
         "name": "Leetcode",
-        "url": "",
+        "url": "https://leetcode.com/",
         "difficulty": "impossible",
         "notes": "You can't delete your account, though you can create a new session to reset your progress",
         "domains": [
@@ -3711,8 +3711,8 @@
         "name": "Mobills",
         "url": "https://web.mobillsapp.com/Configuracoes/DeletaConta",
         "difficulty": "easy",
-        "notes": "If you made an accout via Google or Facebook you must first change your password.",
-        "notes_es": "Si creaste tu cuenta con Google o Facebook, debes antes cambiar tu contraseña.",
+        "notes": "Just click the delete button. Note that if you have made an account via Google or Facebook, you'll have to change the password first.",
+        "notes_es": "Solo haz clic en el boton de borrar cuenta. Si creaste tu cuenta con Google o Facebook, primero debes cambiar tu contraseña.",
         "domains": [
             "mobillsapp.com",
             "web.mobillsapp.com"
