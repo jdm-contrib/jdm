@@ -3518,6 +3518,16 @@
     },
 
     {
+        "name": "Leetcode",
+        "url": "https://leetcode.com/",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account, though you can create a new session to reset your progress",
+        "domains": [
+            "leetcode.com"
+        ]
+    },
+
+    {
         "name": "Letterboxd",
         "url": "http://letterboxd.com/user/disableaccount/",
         "difficulty": "easy",
