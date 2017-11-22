@@ -1170,6 +1170,17 @@
     },
 
     {
+        "name": "Conte.it",
+        "url": "http://www.conte.it/privacy-unsubscribe/",
+        "difficulty": "easy",
+        "notes": "Fill out the form to request cancellation from Conte.it's insurance services.",
+        "notes_it": "Compila il form per richiedere la cancellazione dai servizi assicurativi di Conte.it",
+        "domains": [
+            "conte.it"
+        ]
+    },
+
+    {
         "name": "Couchsurfing",
         "url": "https://support.couchsurfing.org/hc/en-us/articles/200640880-How-can-I-Hide-or-Delete-my-profile",
         "difficulty": "impossible",
