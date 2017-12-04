@@ -4117,6 +4117,18 @@
     },
 
     {
+        "name": "MyScript",
+        "url": "https://sso.myscript.com/v1/api/account/delete/request",
+        "difficulty": "easy",
+        "notes": "Accessing the URL triggers a confirmation mail containing a deletion link. Click this link and your account will be deleted immediately.",
+        "notes_de": "Die URL sendet eine E-Mail mit einem Löschen-Link. Wird dieser Link angeklickt, wird das Konto sofort gelöscht.",
+        "domains": [
+            "sso.myscript.com",
+            "myscript.com"
+        ]
+    },
+
+    {
         "name": "MyLife.com",
         "url": "http://www.mylife.com/showDeleteAccount.do",
         "difficulty": "easy",
