@@ -4232,6 +4232,17 @@
     },
 
     {
+        "name": "Netology",
+        "url": "http://netology.ru",
+        "difficulty": "impossible",
+        "notes": "It is not possible to delete your account.  The best you can do is delete any personal information that you have stored on their website.",
+        "notes_ru": "Никаких пунктов для удаления профиля нет, и похоже, обращение через техподдержку для такого не предусмотрено; проще потереть все персональные данные с их сайта",
+        "domains": [
+            "netology.ru"
+        ]
+    },
+    
+    {
         "name": "Netvibes",
         "url": "http://www.netvibes.com/account/unsubscribe",
         "difficulty": "easy",
