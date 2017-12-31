@@ -6841,4 +6841,15 @@
             "zynga.com"
         ]
     }
+    
+    {
+        "name": "Zeit",
+        "url": "http://community.zeit.de/hilfe/meinen-account-loeschen",
+        "difficulty": "hard",
+        "notes": "Send an Email with the Username",
+        "email": "community@zeit.de",
+        "domains": [
+            "zeit.de"
+        ]
+    }
 ]
