@@ -6792,6 +6792,17 @@
     },
 
     {
+        "name": "Zeit Online",
+        "url": "http://community.zeit.de/hilfe/meinen-account-loeschen",
+        "difficulty": "hard",
+        "notes": "Send an Email with the Username",
+        "email": "community@zeit.de",
+        "domains": [
+            "zeit.de"
+        ]
+    },
+    
+    {
         "name": "Zendesk",
         "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
         "difficulty": "easy",
