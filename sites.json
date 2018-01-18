@@ -136,7 +136,61 @@
         "difficulty": "impossible",
         "notes": "Your account is only deactivated, but can be reactivated at any time by contacting the support.",
         "domains": [
-            "airbnb.com"
+            "airbnb.ae",
+            "airbnb.at",
+            "airbnb.be",
+            "airbnb.ca",
+            "airbnb.cat",
+            "airbnb.ch",
+            "airbnb.cl",
+            "airbnb.co.cr",
+            "airbnb.co.id",
+            "airbnb.co.in",
+            "airbnb.co.kr",
+            "airbnb.co.nz",
+            "airbnb.co.uk",
+            "airbnb.co.ve",
+            "airbnb.com",
+            "airbnb.com.ar",
+            "airbnb.com.au",
+            "airbnb.com.bo",
+            "airbnb.com.br",
+            "airbnb.com.bz",
+            "airbnb.com.co",
+            "airbnb.com.ec",
+            "airbnb.com.gt",
+            "airbnb.com.hk",
+            "airbnb.com.hn",
+            "airbnb.com.mt",
+            "airbnb.com.my",
+            "airbnb.com.ni",
+            "airbnb.com.pa",
+            "airbnb.com.pe",
+            "airbnb.com.py",
+            "airbnb.com.sg",
+            "airbnb.com.sv",
+            "airbnb.com.tr",
+            "airbnb.com.tw",
+            "airbnb.cz",
+            "airbnb.de",
+            "airbnb.dk",
+            "airbnb.es",
+            "airbnb.fi",
+            "airbnb.fr",
+            "airbnb.gr",
+            "airbnb.gy",
+            "airbnb.hu",
+            "airbnb.ie",
+            "airbnb.is",
+            "airbnb.it",
+            "airbnb.jp",
+            "airbnb.mx",
+            "airbnb.nl",
+            "airbnb.no",
+            "airbnb.pl",
+            "airbnb.pt",
+            "airbnb.ru",
+            "airbnb.se"
         ]
     },
 
@@ -862,6 +916,30 @@
     },
 
     {
+        "name": "cda",
+        "url": "https://www.cda.pl/kontakt",
+        "difficulty": "hard",
+        "notes": "You need to contact with support",
+        "domains": [
+            "cda.pl"
+        ]
+    },
+
+    {
+        "name": "CDON.COM",
+        "url": "http://cdon.eu/#support-hub",
+        "difficulty": "hard",
+        "notes": "Contact customer service via the support e-mail form and request deletion of your account under General Questions.",
+        "domains": [
+            "cdon.se",
+            "cdon.dk",
+            "cdon.no",
+            "cdon.fi",
+            "cdon.eu"
+        ]
+    },
+
+    {
         "name": "CEX.IO",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
@@ -894,11 +972,31 @@
     },
 
     {
+        "name": "Cheap Ass Gamer",
+        "url": "https://www.cheapassgamer.com/index.php?app=core&module=help&do=01&HID=15",
+        "difficulty": "hard",
+        "notes": "According to the site you can email cheapyd@cheapassgamer.com from your account on file with CAG",
+        "domains": [
+            "cheapassgamer.com"
+        ]
+    },
+
+    {
         "name": "Cheddar",
         "url": "https://cheddarapp.com/account",
         "difficulty": "easy",
         "domains": [
             "cheddarapp.com"
+        ]
+    },
+
+    {
+        "name": "Chegg",
+        "url": "http://www.chegg.com/contactus",
+        "difficulty": "hard",
+        "notes": "Email customer service or contact them via chat and ask them to delete your account. There is also no option to delete your payment methods, you need to contact customer support as well.",
+        "domains": [
+            "chegg.com"
         ]
     },
 
@@ -1122,6 +1220,17 @@
         "notes_fr": "Vos messages seront guardés.",
         "domains": [
             "commentcamarche.net"
+        ]
+    },
+
+    {
+        "name": "Conte.it",
+        "url": "http://www.conte.it/privacy-unsubscribe/",
+        "difficulty": "easy",
+        "notes": "Fill out the form to request cancellation from Conte.it's insurance services.",
+        "notes_it": "Compila il form per richiedere la cancellazione dai servizi assicurativi di Conte.it",
+        "domains": [
+            "conte.it"
         ]
     },
 
@@ -1487,9 +1596,8 @@
 
     {
         "name": "Discord",
-        "email": "support@discordapp.com",
-        "difficulty": "hard",
-        "notes": "Contact Discord’s customer support and request for your account to be closed.",
+        "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
+        "difficulty": "easy",
         "domains": [
             "discordapp.com"
         ]
@@ -2821,16 +2929,6 @@
     },
 
     {
-        "name": "hitbox",
-        "url": "http://help.hitbox.tv/customer/portal/emails/new",
-        "difficulty": "hard",
-        "notes": "You have to send an email to the support team asking for deletion of your account. Your account will be added to a list of accounts for deletion, and it may take some time before it has actually been deleted.",
-        "domains": [
-            "hitbox.tv"
-        ]
-    },
-
-    {
         "name": "HOL Virtual Hogwarts",
         "url": "http://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
@@ -3485,6 +3583,16 @@
     },
 
     {
+        "name": "Leetcode",
+        "url": "https://leetcode.com/",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account, though you can create a new session to reset your progress",
+        "domains": [
+            "leetcode.com"
+        ]
+    },
+
+    {
         "name": "Letterboxd",
         "url": "http://letterboxd.com/user/disableaccount/",
         "difficulty": "easy",
@@ -3898,8 +4006,8 @@
         "name": "Mobills",
         "url": "https://web.mobillsapp.com/Configuracoes/DeletaConta",
         "difficulty": "easy",
-        "notes": "If you made an accout via Google or Facebook you must first change your password.",
-        "notes_es": "Si creaste tu cuenta con Google o Facebook, debes antes cambiar tu contraseña.",
+        "notes": "Just click the delete button. Note that if you have made an account via Google or Facebook, you'll have to change the password first.",
+        "notes_es": "Solo haz clic en el boton de borrar cuenta. Si creaste tu cuenta con Google o Facebook, primero debes cambiar tu contraseña.",
         "domains": [
             "mobillsapp.com",
             "web.mobillsapp.com"
@@ -4072,6 +4180,18 @@
     },
 
     {
+        "name": "MyScript",
+        "url": "https://sso.myscript.com/v1/api/account/delete/request",
+        "difficulty": "easy",
+        "notes": "Accessing the URL triggers a confirmation mail containing a deletion link. Click this link and your account will be deleted immediately.",
+        "notes_de": "Die URL sendet eine E-Mail mit einem Löschen-Link. Wird dieser Link angeklickt, wird das Konto sofort gelöscht.",
+        "domains": [
+            "sso.myscript.com",
+            "myscript.com"
+        ]
+    },
+
+    {
         "name": "MySpace",
         "url": "https://myspace.com/settings/profile",
         "difficulty": "easy",
@@ -4165,6 +4285,17 @@
         ]
     },
 
+    {
+        "name": "Netology",
+        "url": "http://netology.ru",
+        "difficulty": "impossible",
+        "notes": "It is not possible to delete your account.  The best you can do is delete any personal information that you have stored on their website.",
+        "notes_ru": "Никаких пунктов для удаления профиля нет, и похоже, обращение через техподдержку для такого не предусмотрено; проще потереть все персональные данные с их сайта",
+        "domains": [
+            "netology.ru"
+        ]
+    },
+    
     {
         "name": "Netvibes",
         "url": "http://www.netvibes.com/account/unsubscribe",
@@ -4301,6 +4432,16 @@
         "notes_es": "Visita la página de parámetros, y selecciona 'Delete Account'",
         "domains": [
             "okcupid.com"
+        ]
+    },
+
+    {
+        "name": "Onet",
+        "url": "https://konto.onet.pl/data.html",
+        "difficulty": "easy",
+        "notes": "You just need to click 'Delete account', then enter your account password and tick the checkbox",
+        "domains": [
+            "onet.pl"
         ]
     },
 
@@ -4902,8 +5043,8 @@
     {
         "name": "Quora",
         "url": "http://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
-        "difficulty": "hard",
-        "notes": "First deactivate your account. Log in, go to 'Settings', 'Privacy', and then 'Deactivate Account'. You can then e-mail privacy@quora.com if you want to completely delete your account.",
+        "difficulty": "easy",
+        "notes": "Log in, go to 'Settings', 'Privacy', and then 'Delete Account'.",
         "domains": [
             "quora.com"
         ]
@@ -5411,6 +5552,16 @@
         "difficulty": "hard",
         "domains": [
             "smartrecruiters.com"
+        ]
+    },
+
+    {
+        "name": "Smashcast",
+        "url": "https://www.smashcast.tv",
+        "difficulty": "easy",
+        "notes": "Access your user settings page, click the \"Delete Account...\" link. Check each of the boxes that appear, enter your account password, and complete the captcha to confirm account deletion.",
+        "domains": [
+            "smashcast.tv"
         ]
     },
 
@@ -6694,6 +6845,17 @@
         ]
     },
 
+    {
+        "name": "Zeit Online",
+        "url": "http://community.zeit.de/hilfe/meinen-account-loeschen",
+        "difficulty": "hard",
+        "notes": "Send an Email with the Username",
+        "email": "community@zeit.de",
+        "domains": [
+            "zeit.de"
+        ]
+    },
+    
     {
         "name": "Zendesk",
         "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
