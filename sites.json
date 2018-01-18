@@ -905,6 +905,16 @@
     },
 
     {
+        "name": "car2go",
+        "url": "https://www.car2go.com/US/en/",
+        "difficulty": "hard",
+        "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
+        "domains": [
+            "https://www.car2go.com/US/en/"
+        ]
+    },
+
+    {
         "name": "CareerBuilder.com",
         "url": "http://www.careerbuilder.com/User/UserConfirmation.aspx",
         "difficulty": "easy",
@@ -912,16 +922,6 @@
         "notes_fr": "Il faut supprimer les fichiers téléchargés avant de supprimer votre compte.",
         "domains": [
             "careerbuilder.com"
-        ]
-    },
-
-    {
-        "name": "car2go",
-        "url": "https://www.car2go.com/US/en/",
-        "difficulty": "hard",
-        "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
-        "domains": [
-            "https://www.car2go.com/US/en/"
         ]
     },
 
