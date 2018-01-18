@@ -916,6 +916,16 @@
     },
 
     {
+        "name": "car2go",
+        "url": "https://www.car2go.com/US/en/",
+        "difficulty": "hard",
+        "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
+        "domains": [
+            "https://www.car2go.com/US/en/"
+        ]
+    },
+
+    {
         "name": "cda",
         "url": "https://www.cda.pl/kontakt",
         "difficulty": "hard",
@@ -4295,7 +4305,7 @@
             "netology.ru"
         ]
     },
-    
+
     {
         "name": "Netvibes",
         "url": "http://www.netvibes.com/account/unsubscribe",
@@ -6855,7 +6865,7 @@
             "zeit.de"
         ]
     },
-    
+
     {
         "name": "Zendesk",
         "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
