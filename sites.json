@@ -906,11 +906,11 @@
 
     {
         "name": "car2go",
-        "url": "https://www.car2go.com/US/en/",
+        "url": "https://www.car2go.com/US/en/#footer-contactus",
         "difficulty": "hard",
         "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
         "domains": [
-            "https://www.car2go.com/US/en/"
+            "car2go.com"
         ]
     },
 
