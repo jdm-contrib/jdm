@@ -3839,6 +3839,16 @@
     },
 
     {
+        "name": "Mastodon.social",
+        "url": "https://mastodon.social/settings/delete",
+        "difficulty": "easy",
+        "notes": "Login -> Account Settings -> Security > Delete Account",
+        "domains": [
+            "mastodon.social"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Match",
         "url": "http://uk.match.com/myaccount/myunsubscription.php",
