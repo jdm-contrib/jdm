@@ -6090,16 +6090,6 @@
     },
 
     {
-        "name": "The Tracktor",
-        "url": "https://thetracktor.com/account/close",
-        "difficulty": "easy",
-        "notes": "Login to your account first. Confirm by ticking 'Close my account' and click 'Close Account'.",
-        "domains": [
-            "thetracktor.com"
-        ]
-    },
-
-    {
         "name": "Ticketmaster",
         "url": "http://help.ticketmaster.com/contact-us/",
         "difficulty": "hard",
@@ -6170,6 +6160,16 @@
         "notes_fr": "Vous devez demander au staff pour supprimer votre compte",
         "domains": [
             "t411.me"
+        ]
+    },
+
+    {
+        "name": "The Tracktor",
+        "url": "https://thetracktor.com/account/close",
+        "difficulty": "easy",
+        "notes": "Login to your account first. Confirm by ticking 'Close my account' and click 'Close Account'.",
+        "domains": [
+            "thetracktor.com"
         ]
     },
 
