@@ -96,7 +96,7 @@
         "difficulty": "impossible",
         "notes": "You have to contact customer support to deactivate your account. Can be reactivated again.",
         "domains": [
-            "https://www.acorns.com"
+            "acorns.com"
         ]
     },
 
@@ -272,7 +272,7 @@
         "difficulty": "easy",
         "notes": "Click delete account once logged in.",
         "domains": [
-            "https://angel.co"
+            "angel.co"
         ]
     },
 
@@ -905,6 +905,16 @@
     },
 
     {
+        "name": "CamelCamelCamel",
+        "url": "https://camelcamelcamel.com/close_account",
+        "difficulty": "easy",
+        "notes": "Login to your account first. Confirm by ticking both boxes, 'I want to close my Camel account.' and 'I’m really sure!', and click 'Close Account'.",
+        "domains": [
+            "camelcamelcamel.com"
+        ]
+    },
+
+    {
         "name": "car2go",
         "url": "https://www.car2go.com/US/en/#footer-contactus",
         "difficulty": "hard",
@@ -1323,7 +1333,17 @@
         "difficulty": "impossible",
         "notes": "You can pause your account for $10/mo or cancel your account.",
         "domains": [
-            "http://crowdcast.io"
+            "crowdcast.io"
+        ]
+    },
+
+    {
+        "name": "Crowdin",
+        "url": "https://crowdin.com/settings#account",
+        "difficulty": "easy",
+        "notes": "Login to your account. Click on 'Settings', then 'Remove Account' (at the bottom). Choose one of the options why you want to delete your account and click 'Remove Account'.",
+        "domains": [
+            "crowdin.com"
         ]
     },
 
@@ -2187,8 +2207,8 @@
         "difficulty": "hard",
         "notes": "Account deletion requires contacting customer support.",
         "domains": [
-            "https://www.foap.com/",
-            "http://community.foap.com/"
+            "foap.com",
+            "community.foap.com"
          ]
     },
 
@@ -3207,6 +3227,7 @@
         "notes": "You can close your account if you contact customer service either by phone or live chat",
         "notes_fr": "Vous pouvez supprimer votre compte si vous contactez le support du site au téléphone ou par Live Chat.",
         "domains": [
+            "intel.com",
             "study.intel.com"
         ]
     },
@@ -3228,7 +3249,7 @@
         "difficulty": "hard",
         "notes": "You need to request them through the support form providing the email you signed up with. All files deleted will not be restorable.",
         "domains": [
-            "http://invisionapp.com"
+            "invisionapp.com"
         ]
     },
 
@@ -3407,6 +3428,16 @@
         "difficulty": "easy",
         "domains": [
             "justin.tv"
+        ]
+    },
+
+    {
+        "name": "Keepa",
+        "url": "https://keepa.com/#!channels",
+        "difficulty": "easy",
+        "notes": "Login to your account. Click on 'Settings', then 'Account'. Click 'Yes, delete my account', enter your password and click 'Delete account'.",
+        "domains": [
+            "keepa.com"
         ]
     },
 
@@ -5209,7 +5240,7 @@
         "difficulty": "hard",
         "notes": "You would need to email the team by clicking feedback to have your account removed.",
         "domains": [
-            "https://redpen.io"
+            "redpen.io"
         ]
     },
 
@@ -5876,14 +5907,14 @@
     },
 
     {
-        "meta": "popular",
         "name": "Stripe",
         "url": "https://dashboard.stripe.com/account/data",
         "difficulty": "easy",
         "notes": "Account owners only, not team members can delete the account. Balances and pending invoices all need to be resolved before the account is permanently closed. Cannot be reversed.",
+        "meta": "popular",
         "domains": [
-            "https://dashboard.stripe.com",
-            "https://stripe.com"
+            "dashboard.stripe.com",
+            "stripe.com"
         ]
     },
 
@@ -5940,7 +5971,7 @@
         "difficulty": "easy",
         "notes": "Click the 'Delete Account' link. After 30 days the data is irreversible to retrieve.",
         "domains": [
-            "https://svbtle.com"
+            "svbtle.com"
         ]
     },
 
@@ -6041,6 +6072,16 @@
         "notes": "Open deactivation page. Enter your phone number and one time password sent to your Telegram account. Delete your account then.",
         "domains": [
             "telegram.org"
+        ]
+    },
+
+    {
+        "name": "The Tracktor",
+        "url": "https://thetracktor.com/account/close",
+        "difficulty": "easy",
+        "notes": "Login to your account first. Confirm by ticking 'Close my account' and click 'Close Account'.",
+        "domains": [
+            "thetracktor.com"
         ]
     },
 
@@ -6861,7 +6902,7 @@
         "difficulty": "hard",
         "notes": "You would need to email the team by clicking contact us to get your account closed.",
         "domains": [
-            "https://zeit.co/"
+            "zeit.co"
         ]
     },
 
@@ -6880,7 +6921,7 @@
         "name": "Zendesk",
         "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
         "difficulty": "easy",
-        "notes": "Go to Admin->Settings->Subscription and click \"Yes, cancel my account\".",
+        "notes": "Go to Admin->Settings->Subscription and click 'Yes, cancel my account'.",
         "domains": [
             "zendesk.com"
         ]
