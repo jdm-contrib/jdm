@@ -6076,16 +6076,6 @@
     },
 
     {
-        "name": "The Tracktor",
-        "url": "https://thetracktor.com/account/close",
-        "difficulty": "easy",
-        "notes": "Login to your account first. Confirm by ticking 'Close my account' and click 'Close Account'.",
-        "domains": [
-            "thetracktor.com"
-        ]
-    },
-
-    {
         "name": "Threema",
         "url": "https://myid.threema.ch/revoke",
         "difficulty": "easy",
@@ -6096,6 +6086,16 @@
             "myid.threema.ch",
             "work.threema.ch",
             "web.threema.ch"
+        ]
+    },
+
+    {
+        "name": "The Tracktor",
+        "url": "https://thetracktor.com/account/close",
+        "difficulty": "easy",
+        "notes": "Login to your account first. Confirm by ticking 'Close my account' and click 'Close Account'.",
+        "domains": [
+            "thetracktor.com"
         ]
     },
 
