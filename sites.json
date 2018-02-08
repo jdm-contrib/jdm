@@ -291,18 +291,18 @@
         ]
     },
 
-   {
-       "name": "AnkiApp",
-       "url": "https://join.ankiapp.com/",
-       "difficulty": "easy",
-       "notes": "Log in to your account and click 'Delete Account'. Confirm by entering your password and click 'OK'. You cannot delete your account via web.ankiapp.com - please visit join.ankiapp.com instead.",
-       "domains": [
-           "ankiapp.com",
-           "api.ankiapp.com",
-           "join.ankiapp.com",
-           "web.ankiapp.com"
-       ]
-   },
+    {
+        "name": "AnkiApp",
+        "url": "https://join.ankiapp.com/",
+        "difficulty": "easy",
+        "notes": "Log in to your account and click 'Delete Account'. Confirm by entering your password and click 'OK'. You cannot delete your account via web.ankiapp.com - please visit join.ankiapp.com instead.",
+        "domains": [
+            "ankiapp.com",
+            "api.ankiapp.com",
+            "join.ankiapp.com",
+            "web.ankiapp.com"
+        ]
+    },
 
     {
         "name": "AnkiWeb",
@@ -2228,7 +2228,7 @@
         "domains": [
             "foap.com",
             "community.foap.com"
-         ]
+        ]
     },
 
     {
@@ -3978,7 +3978,7 @@
         ]
     },
 
-     {
+    {
         "name": "Metacafe",
         "url": "http://www.metacafe.com/feedback/",
         "difficulty": "hard",
@@ -5047,28 +5047,28 @@
         "difficulty": "easy",
         "notes": "You can either close your account temporary or delete it permanently. Log into your account -> Click Settings -> Manage Subscription -> NEED TO CLOSE YOUR ACCOUNT? click Yes, Close Account",
         "domains": [
-              "proto.io"
-          ]
+            "proto.io"
+        ]
     },
 
     {
-         "name": "ProtonMail",
-         "url": "https://mail.protonmail.com/account",
-         "difficulty": "easy",
-         "notes": "Log into your account -> Click Settings -> Scroll Down to the Delete My Account Button -> Type why you are leaving, password, and 2 Factor Authentication code if enabled -> Click Delete",
-         "domains": [
-             "protonmail.com"
-         ]
+        "name": "ProtonMail",
+        "url": "https://mail.protonmail.com/account",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Click Settings -> Scroll Down to the Delete My Account Button -> Type why you are leaving, password, and 2 Factor Authentication code if enabled -> Click Delete",
+        "domains": [
+            "protonmail.com"
+        ]
     },
 
     {
-         "name": "Prott",
-         "url": "https://prottapp.com/app/#/users/edit/general",
-         "difficulty": "easy",
-         "notes": "Log into your account -> Click Settings -> in General tab scroll down and find 'Click here if you want to cancel your account' -> Choose why you are leaving and click 'Continue' -> Click 'Yes Cancel My Account'",
-         "domains": [
-             "prottapp.com"
-         ]
+        "name": "Prott",
+        "url": "https://prottapp.com/app/#/users/edit/general",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Click Settings -> in General tab scroll down and find 'Click here if you want to cancel your account' -> Choose why you are leaving and click 'Continue' -> Click 'Yes Cancel My Account'",
+        "domains": [
+            "prottapp.com"
+        ]
     },
 
     {

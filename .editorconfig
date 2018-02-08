@@ -14,3 +14,11 @@ trim_trailing_whitespace = true
 
 [{package.json,.travis.yml}]
 indent_size = 2
+
+[_trans/*.json]
+indent_size = 2
+indent_style = tab
+
+[*.html]
+indent_style = tab
+trim_trailing_whitespace = false
