@@ -1,10 +1,11 @@
-var gulp      = require("gulp"),
-    fs        = require("fs"),
-    rename    = require("gulp-rename"),
-    del       = require("del"),
-    swig      = require("gulp-swig"),
-    data      = require("gulp-data"),
-    jsonlint  = require("gulp-jsonlint");
+var gulp       = require("gulp"),
+    fs         = require("fs"),
+    rename     = require("gulp-rename"),
+    del        = require("del"),
+    swig       = require("gulp-swig"),
+    data       = require("gulp-data"),
+    jsonlint   = require("gulp-jsonlint"),
+    lintspaces = require("gulp-lintspaces");
 
 var translations = JSON.parse(fs.readFileSync("_trans/_config.json")),
     rtl = ["fa", "ar"],
@@ -71,4 +72,20 @@ gulp.task("translate", ["clean"], function() {
 
 });
 
-gulp.task("default", ["jsonlint", "translate"]);
+gulp.task("lintspaces", function() {
+    gulp.src([
+        "**/*",             // include all files
+        "!**/*.png",        // exclude images
+        "!**/libs/**/*",    // exclude library files
+        "!node_modules/**", // exclude node_modules files
+        "!LICENSE.md",      // exclude LICENSE file
+    ])
+        .pipe(lintspaces({
+            editorconfig: ".editorconfig",
+        }))
+        .pipe(lintspaces.reporter({
+            breakOnWarning: true,
+        }));
+});
+
+gulp.task("default", ["jsonlint", "translate", "lintspaces"]);
