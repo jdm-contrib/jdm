@@ -2,32 +2,32 @@
 <html>
 
 	<head>
-	
+
 		<title>{{ i18n.title }}</title>
-		
+
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		
+
 		<link rel="apple-touch-icon-precomposed" href="{{assetPath}}/icons/apple-touch-icon-precomposed.png">
 		<link rel="apple-touch-icon-precomposed" href="{{assetPath}}/icons/apple-touch-icon-72x72-precomposed.png">
 		<link rel="apple-touch-icon-precomposed" href="{{assetPath}}/icons/apple-touch-icon-120x120-precomposed.png">
 		<link rel="apple-touch-icon-precomposed" href="{{assetPath}}/icons/apple-touch-icon-144x144-precomposed.png">
-		
+
 		<link rel="shortcut icon" href="{{assetPath}}/icons/favicon.ico">
 		<link rel="stylesheet" type="text/css" href="{{assetPath}}/css/style.css" />
 		<link type="text/css" rel="stylesheet" href="{{assetPath}}/css/libs/jquery.dropdown.css" />
-		
+
 	</head>
-	
+
 	<body lang="{{ trans.code }}"{% if rtl %} dir="rtl"{% endif %}>
-		
+
 		<nav>
 			<!-- begin language switcher -->
 			<span class="language-switch" href="#" data-dropdown="#dropdown-1" id="{{ trans.code }}">{{ trans.name }}</span>
 			<!-- end language switcher -->
 			<a href="#about" class="info">About</a>
 		</nav>
-		
+
 		<header>
 			<h1>Just<span>Delete</span>Me</h1>
 			<p class="tagline">{{ i18n.tagline }}</p>

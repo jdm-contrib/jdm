@@ -18,16 +18,22 @@ The site's HTML page is periodically built and checked in, so `/docs/*.html` sho
 
 * Clone the repository:
 
-      git clone https://github.com/jdm-contrib/justdelete.me.git
+```
+git clone https://github.com/jdm-contrib/justdelete.me.git
+```
 
 * Install `npm` within your local repository
 
-      cd justdelete.me
-	  npm install
+```
+cd justdelete.me
+npm install
+```
 
 * Run `gulp`
 
-      gulp
+```
+gulp
+```
 
 # Contributing
 
