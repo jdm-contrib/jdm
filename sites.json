@@ -1376,6 +1376,16 @@
         ]
     },
 
+        {
+        "name": "Cybrary",
+        "url": "https://www.cybrary.it/members/steini/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "Login to your account first. Confirm by ticking 'I understand the consequences.' and click 'Delete Account'.",
+        "domains": [
+            "cybrary.com"
+        ]
+    },
+
     {
         "name": "Daily Mile",
         "url": "http://www.dailymile.com/account/settings/edit",
