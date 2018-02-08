@@ -2108,6 +2108,15 @@
     },
 
     {
+        "name": "FanFiction",
+        "url": "https://www.fanfiction.net/",
+        "difficulty": "impossible",
+        "domains": [
+            "fanfiction.net"
+        ]
+    },
+
+    {
         "name": "Feedly",
         "url": "https://feedly.com/#erase",
         "difficulty": "easy",
