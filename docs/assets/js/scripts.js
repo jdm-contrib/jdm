@@ -85,12 +85,16 @@ $(function(){
 
         var hash = getDecodedWindowHash();
         var term = hash.substr(1);
-
         var $sites = $('.sites section');
 
         $sites.show().filter(function() {
-            var text = $(this).find('.site-header').text().replace(/\s+/g, ' ').toLowerCase();
-            return !~text.indexOf(term.toLowerCase());
+            var siteHeader = $(this).find('.site-header')[0];
+            var siteTitle = siteHeader.innerText.trim().toLowerCase();
+            var siteUrl = siteHeader.href.toLowerCase();
+            var lowerTerm = term.toLowerCase();
+
+            // returns true if lowerTerm isn't found in site title or URL
+            return Math.max(siteTitle.indexOf(lowerTerm), siteUrl.indexOf(lowerTerm)) == -1;
         }).hide();
 
         if ( ! $('.site-block').is(':visible')) {
