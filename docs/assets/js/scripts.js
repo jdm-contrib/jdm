@@ -54,7 +54,7 @@ $(function(){
         var $sites = $(".sites section");
         $sites.show();
         $(".no-results").hide();
-        $("input").val(");
+        $("input").val("");
     });
 
     // When the search field changes, update the hash
