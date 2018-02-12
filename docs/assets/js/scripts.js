@@ -115,7 +115,7 @@ $(function(){
         updateSearch();
     }
 
-    $(".site a").prop("title", ");
+    $(".site a").prop("title", "");
 
     // jQuery ScrollTo plugin from http://lions-mark.com/jquery/scrollTo/
 
