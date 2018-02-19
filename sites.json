@@ -1002,6 +1002,17 @@
     },
 
     {
+        "name": "Checklist",
+        "url": "https://api.checklist.com/account/account",
+        "difficulty": "easy",
+        "notes": "Log in and go to your account. Scroll to 'Close your account' and click on 'Close Account'. Confirm by clicking on 'Yes' in the pop-up window. The account will be deleted immediately.",
+        "domains": [
+            "checklist.com",
+            "api.checklist.com"
+        ]
+    },
+
+    {
         "name": "Cheddar",
         "url": "https://cheddarapp.com/account",
         "difficulty": "easy",
