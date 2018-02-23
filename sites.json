@@ -3614,6 +3614,17 @@
     },
 
     {
+        "name": "Kununu",
+        "url": "https://www.kununu.com/user/delete",
+        "difficulty": "easy",
+        "notes": "An email will be sent with a link to delete your account.",
+        "notes_de": "Es wird eine E-Mail mit einem Link zum Löschen des Accounts gesendet.",
+        "domains": [
+            "kununu.com"
+        ]
+    },
+
+    {
         "name": "Last.fm",
         "url": "https://www.last.fm/settings/account/delete",
         "difficulty": "impossible",
@@ -3928,6 +3939,17 @@
         "domains": [
             "home.mcafee.com",
             "mcafee.com"
+        ]
+    },
+
+    {
+        "name": "McVIP",
+        "url": "https://mcvip.mcdonalds.de/#/profil",
+        "difficulty": "easy",
+        "notes": "Click on 'Edit profile', scroll down to 'You want to delete your profile?', type in your password, click on 'Delete' and then 'Yes, delete it'.",
+        "notes_de": "Klick auf 'Profil bearbeiten, hinunter zu 'Du willst dein Profil löschen?' scrollen, Passwort eintippen, dann auf 'Löschen' und 'Ja, Profil löschen' klicken.",
+        "domains": [
+            "mcvip.mcdonalds.de"
         ]
     },
 
