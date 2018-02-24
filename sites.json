@@ -1388,6 +1388,16 @@
     },
 
     {
+        "name": "Cryptocat",
+        "url": "https://crypto.cat/help.html#deleteAccount",
+        "difficulty": "easy",
+        "notes": "In order to delete your Cryptocat account, open the Account menu, navigate to the Settings submenu and click on Delete Account.",
+        "domains": [
+            "crypto.cat"
+        ]
+    },
+
+    {
         "name": "Cybrary",
         "url": "https://www.cybrary.it/members",
         "difficulty": "easy",
