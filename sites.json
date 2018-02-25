@@ -1114,7 +1114,7 @@
         "name": "Cloudflare",
         "url": "https://support.cloudflare.com/requests/new",
         "difficulty": "hard",
-        "notes": "You need to have no domains or credit cards attached to your account prior to requesting deletion. When making the support ticket, select the \"Account\" category and make sure to specifically say you want your account deleted in the message body.",
+        "notes": "Submit a support ticket using the \"Account\" category, and request account deletion in the message body. You must have no domains or credit cards attached to your account prior to requesting deletion.",
         "domains": [
             "cloudflare.com"
         ]
