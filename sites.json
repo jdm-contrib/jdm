@@ -207,8 +207,8 @@
         "name": "Alibaba",
         "url": "http://www.alibaba.com/help/contact-us.html",
         "difficulty": "hard",
-        "notes": "Despite what it says in their FAQ there is actually no automatic way to delete your account. But they do see to be happy to do it if you ask them - you can contact them via http://www.alibaba.com/help/contact-us.html - I cancelled my account via their online chat system.",
-        "notes_fr": "Malgré la suggestion du FAQ, il n'y a pas au fait de façon automatique de supprimer votre compte. Cela dit, ils me semblent contents de le faire si vous le demandez - vous pouvez les contactez via http://www.alibaba.com/help/contact-us.html - j'ai supprimé mon compte en utilisant leur système tchat.",
+        "notes": "Despite what it says in their FAQ there is actually no automatic way to delete your account. But they do see to be happy to do it if you ask them - you can contact them via <a href=\"http://www.alibaba.com/help/contact-us.html\">their Contact Us page</a>.",
+        "notes_fr": "Malgré la suggestion du FAQ, il n'y a pas au fait de façon automatique de supprimer votre compte. Cela dit, ils me semblent contents de le faire si vous le demandez - vous pouvez les contactez via <a href=\"http://www.alibaba.com/help/contact-us.html\">http://www.alibaba.com/help/contact-us.html</a>.",
         "domains": [
             "alibaba.com"
         ]
@@ -808,7 +808,7 @@
         "name": "British Airways",
         "url": "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
         "difficulty": "hard",
-        "notes": "Must send a request in writing. See this page for contact details https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us",
+        "notes": "Must send a request in writing. See this page for contact details <a href=\"https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us\">https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us</a>",
         "domains": [
             "britishairways.com"
         ]
@@ -837,8 +837,8 @@
         "name": "Bungie.net",
         "url": "http://www.bungie.net/en-US/Forum/Post/66636671/0/0",
         "difficulty": "impossible",
-        "notes": "TL;DR you can't do it. Discussion at http://www.bungie.net/en-US/Forum/Post/66636671/0/0",
-        "notes_pl": "TL;DR: nie możesz tego zrobić. Dyskusja na http://www.bungie.net/en-US/Forum/Post/66636671/0/0",
+        "notes": "TL;DR you can't do it. Discussion at <a href=\"http://www.bungie.net/en-US/Forum/Post/66636671/0/0\">http://www.bungie.net/en-US/Forum/Post/66636671/0/0</a>",
+        "notes_pl": "TL;DR: nie możesz tego zrobić. Dyskusja na <a href=\"http://www.bungie.net/en-US/Forum/Post/66636671/0/0\">http://www.bungie.net/en-US/Forum/Post/66636671/0/0</a>",
         "domains": [
             "bungie.net"
         ]
@@ -1213,11 +1213,11 @@
         "name": "Coderwall",
         "url": "https://coderwall.com/delete_account",
         "difficulty": "easy",
-        "notes": "Sign in then visit https://coderwall.com/delete_account",
-        "notes_fr": "Identifiez-vous puis visitez https://coderwall.com/delete_account",
-        "notes_cat": "Identifica't al lloc web i entra https://coderwall.com/delete_account",
-        "notes_es": "Identifícate en el sitio web y entra en https://coderwall.com/delete_account",
-        "notes_pl": "Zaloguj się i przejdź do https://coderwall.com/delete_account",
+        "notes": "Sign in then visit <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
+        "notes_fr": "Identifiez-vous puis visitez <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
+        "notes_cat": "Identifica't al lloc web i entra <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
+        "notes_es": "Identifícate en el sitio web y entra en <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
+        "notes_pl": "Zaloguj się i przejdź do <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
         "domains": [
             "coderwall.com"
         ]
@@ -1227,7 +1227,7 @@
         "name": "Coinbase",
         "url": "https://www.coinbase.com/settings/security_settings",
         "difficulty": "easy",
-        "notes": "Sign in then visit https://www.coinbase.com/settings/security_settings and scroll to the bottom to find a button to close you account.",
+        "notes": "Sign in then visit <a href=\"https://www.coinbase.com/settings/security_settings\">https://www.coinbase.com/settings/security_settings</a> and scroll to the bottom to find a button to close you account.",
         "domains": [
             "coinbase.com"
         ]
@@ -1342,7 +1342,7 @@
         "name": "CreditExpert",
         "url": "https://www.creditexpert.co.uk/",
         "difficulty": "hard",
-        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info here: http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS",
+        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info here: <a href=\"http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS\">http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS</a>",
         "domains": [
             "creditexpert.co.uk"
         ]
@@ -1493,8 +1493,8 @@
         "name": "Deezer",
         "url": "http://www.deezer.com/account",
         "difficulty": "medium",
-        "notes": "If you signed up via Google/Facebook setup a Deezer password at http://www.deezer.com/password/reset and click the confirmation link you'll get via mail. If you have your Deezer password, open your account settings. Click 'Delete my Account' at the bottom of the page. Enter your Deezer password and confirm the deletion in the confirmation mail.",
-        "notes_de": "Wenn du dich mit Google/Facebook registriert hast, fordere unter http://www.deezer.com/password/reset ein Deezer-Passwort an und bestätige einen Link, den du per Mail erhältst. Wenn du ein Deezer-Passwort hast, öffne deine Konto-Einstellungen und klicke unten auf 'Mein Konto löschen'. Gib dort dein Deezer-Passwort ein und bestätige das Löschen in der Bestätigungsmail.",
+        "notes": "If you signed up via Google/Facebook setup a Deezer password at <a href=\"http://www.deezer.com/password/reset\">http://www.deezer.com/password/reset</a> and click the confirmation link you'll get via mail. If you have your Deezer password, open your account settings. Click 'Delete my Account' at the bottom of the page. Enter your Deezer password and confirm the deletion in the confirmation mail.",
+        "notes_de": "Wenn du dich mit Google/Facebook registriert hast, fordere unter <a href=\"http://www.deezer.com/password/reset\">http://www.deezer.com/password/reset</a> ein Deezer-Passwort an und bestätige einen Link, den du per Mail erhältst. Wenn du ein Deezer-Passwort hast, öffne deine Konto-Einstellungen und klicke unten auf 'Mein Konto löschen'. Gib dort dein Deezer-Passwort ein und bestätige das Löschen in der Bestätigungsmail.",
         "domains": [
             "deezer.com"
         ]
@@ -1669,7 +1669,7 @@
         "name": "Discord",
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "easy",
-        "notes": "If you're a server owner, you'll need to either delete the server (https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-), or transfer ownership (https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed.",
+        "notes": "If you're a server owner, you'll need to either <a href=\"https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-\">delete the server</a>, or <a href=\"https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-\">transfer ownership</a> for account deletion to succeed.",
         "domains": [
             "discordapp.com"
         ]
@@ -2372,7 +2372,7 @@
         "name": "Freesound",
         "url": "http://www.freesound.org/home/delete/",
         "difficulty": "medium",
-        "notes": "You cannot delete your account yourself if you have sounds uploaded to your account. In their own words: \"Because you have sounds on freesound, deleting your user is not a trivial task. As such, we ask you to please contact the administrators via the Contact Form [http://www.freesound.org/contact/]. They will help you with the deletion of your account....\". Alternatively - you can go through all your sounds, delete them one-by-one, and then delete your account.",
+        "notes": "You cannot delete your account yourself if you have sounds uploaded to your account. In their own words: \"Because you have sounds on freesound, deleting your user is not a trivial task. As such, we ask you to please <a href=\"http://www.freesound.org/contact/\">contact the administrators via the Contact Form</a>. They will help you with the deletion of your account....\". Alternatively - you can go through all your sounds, delete them one-by-one, and then delete your account.",
         "domains": [
             "freesound.org"
         ]
@@ -3050,8 +3050,8 @@
         "name": "Hot or Not",
         "url": "http://hotornot.com",
         "difficulty": "easy",
-        "notes": "Sign in to your account, go to the 'Account' options in your settings and delete your profile. See also 'Can I deactivate or delete my Profile?' on http://hotornot.com/privacy/",
-        "notes_fr": "Connectez-vous, allez dans les paramatres du compte et supprimez votre profil. Voyez aussi l'article « Can I deactivate or delete my Profile? » de http://hotornot.com/privacy/",
+        "notes": "Sign in to your account, go to the 'Account' options in your settings and delete your profile. See also <a href=\"http://hotornot.com/privacy/\">'Can I deactivate or delete my Profile?'</a>",
+        "notes_fr": "Connectez-vous, allez dans les paramatres du compte et supprimez votre profil. Voyez aussi l'article <a href=\"http://hotornot.com/privacy/\">« Can I deactivate or delete my Profile? »</a>",
         "domains": [
             "hotornot.com"
         ]
@@ -3999,7 +3999,7 @@
         "email": "contact@mediapart.fr",
         "difficulty": "hard",
         "notes": "No information is clearly provided how to delete account. You have to send an email to explicitly ask for deletion of every information related to your account otherwise they will only disable it.",
-        "notes_fr": "Il faut envoyer un mail et demander la suppression définitive de toute information liée au compte, sinon ils vont uniquement le désactiver(ex: les données bancaires demeurent). Conseil: Invoquer la CNIL (https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet).",
+        "notes_fr": "Il faut envoyer un mail et demander la suppression définitive de toute information liée au compte, sinon ils vont uniquement le désactiver(ex: les données bancaires demeurent). Conseil: Invoquer la CNIL (<a href\"https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet\">https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet</a>).",
         "domains": [
             "mediapart.fr"
         ]
@@ -4178,7 +4178,7 @@
         "name": "Money Dashboard",
         "url": "http://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
-        "notes": "If you wish to delete your account and its belonging data and bank accounts held within it, you have to submit a request to the user support (or send an e-mail to support@moneydashboard.com). Make it clear that you require the full deletion of your account, not simply the deletion of one of your bank accounts. If you only want to delete/remove a bank account, but keep your Money Dashboard account open, please visit http://help.moneydashboard.com/entries/21936798",
+        "notes": "If you wish to delete your account and its belonging data and bank accounts held within it, you have to submit a request to the user support (or send an e-mail to support@moneydashboard.com). Make it clear that you require the full deletion of your account, not simply the deletion of one of your bank accounts. If you only want to delete/remove a bank account, but keep your Money Dashboard account open, please visit <a href=\"http://help.moneydashboard.com/entries/21936798\">http://help.moneydashboard.com/entries/21936798</a>",
         "domains": [
             "moneydashboard.com",
             "help.moneydashboard.com",
@@ -6162,8 +6162,8 @@
         "name": "Threema",
         "url": "https://myid.threema.ch/revoke",
         "difficulty": "easy",
-        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to https://myid.threema.ch/revoke and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under https://myid.threema.ch/unlink.",
-        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu https://myid.threema.ch/revoke gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter https://myid.threema.ch/unlink von der ID entfernen.",
+        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to <a href=\"https://myid.threema.ch/revoke\">https://myid.threema.ch/unlink</a> and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under <a href=\"https://myid.threema.ch/unlink\">https://myid.threema.ch/unlink</a>.",
+        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu <a href=\"https://myid.threema.ch/revoke\">https://myid.threema.ch/unlink</a> gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter <a href=\"https://myid.threema.ch/unlink\">https://myid.threema.ch/unlink</a> von der ID entfernen.",
         "domains": [
             "threema.ch",
             "myid.threema.ch",
@@ -6745,7 +6745,7 @@
         "domains": [
             "which.co.uk"
         ],
-        "notes": "Require your membership number to be sent in the email. This can be found here https://www.which.co.uk/account/#/"
+        "notes": "Require your membership number to be sent in the email. This can be found here <a href=\"https://www.which.co.uk/account/#/\">https://www.which.co.uk/account/#/</a>"
     },
 
     {
