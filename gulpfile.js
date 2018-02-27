@@ -1,11 +1,12 @@
-var gulp       = require("gulp"),
-    fs         = require("fs"),
-    rename     = require("gulp-rename"),
-    del        = require("del"),
-    swig       = require("gulp-swig"),
-    data       = require("gulp-data"),
-    jsonlint   = require("gulp-jsonlint"),
-    lintspaces = require("gulp-lintspaces");
+var gulp         = require("gulp"),
+    fs           = require("fs"),
+    rename       = require("gulp-rename"),
+    del          = require("del"),
+    swig         = require("gulp-swig"),
+    data         = require("gulp-data"),
+    jsonlint     = require("gulp-jsonlint"),
+    lintspaces   = require("gulp-lintspaces"),
+    sanitizeHtml = require("sanitize-html");
 
 var translations = JSON.parse(fs.readFileSync("_trans/_config.json")),
     rtl = ["fa", "ar"],
@@ -57,6 +58,30 @@ gulp.task("translate", ["clean"], function() {
             });
         }
 
+        // With <a> tags in notes allowed, escape all HTML and character entities
+        sites = sites.map(function(site) {
+            var strictSanitizeOptions = {
+                allowedTags: [],
+                allowedAttributes: [],
+            },
+            allowLinksSanitizeOptions = {
+                allowedTags: ["a"],
+                allowedAttributes: {
+                    "a": ["href"],
+                },
+            };
+            /* eslint-disable security/detect-object-injection */
+            Object.keys(site).forEach(function(key) {
+                if (key.startsWith("notes")) {
+                    site[key] = sanitizeHtml(site[key], allowLinksSanitizeOptions);
+                } else {
+                    site[key] = sanitizeHtml(site[key], strictSanitizeOptions);
+                }
+            });
+            /* eslint-enable security/detect-object-injection */
+            return site;
+        });
+
         gulp.src("template.html")
             .pipe(rename((translation.code === "en" ? "index" : translation.code) + ".html"))
             .pipe(data({
@@ -66,7 +91,11 @@ gulp.task("translate", ["clean"], function() {
                 rtl: (rtl.indexOf(translation.code) === -1) ? false : true,
                 assetPath: "assets"
             }))
-            .pipe(swig())
+            .pipe(swig({
+                defaults: {
+                    autoescape: false,
+                }
+            }))
             .pipe(gulp.dest("docs"));
     });
 
