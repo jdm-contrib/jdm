@@ -148,27 +148,6 @@ $(function(){
         e.preventDefault();
         $("body,html").scrollTo(".about");
     });
-
-    // create the keys and konami variables
-    var keys = [],
-    konami = "38,38,40,40,37,39,37,39,66,65";
-
-    $(document).keydown(function(e){
-        keys.push(e.keyCode);
-
-        // and check to see if the user has entered the Konami code
-        if (keys.toString().indexOf(konami) >= 0) {
-
-            // do something such as:
-            (function(){
-                $(".site-block:first").after("<section class=\"site-block impossible\"><a class=\"site-header\" href=\"http://www.nsa.gov/\">NSA</a><p class=\"site-difficulty\">Difficulty: impossible</p><p class=\"tooltip-toggle\">No Info Available</p></section>"
-                    +"<section class=\"site-block impossible\"><a class=\"site-header\" href=\"http://www.gchq.gov.uk/Pages/homepage.aspx\">GCHQ</a><p class=\"site-difficulty\">Difficulty: impossible</p><p class=\tooltip-toggle\">No Info Available</p></section>");
-            })();
-
-            // and finally clean up the keys array
-            keys = [];
-        }
-    });
 });
 
 // Load Facebook after page load
