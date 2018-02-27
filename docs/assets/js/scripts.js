@@ -162,7 +162,7 @@ $(function(){
             // do something such as:
             (function(){
                 $(".site-block:first").after("<section class=\"site-block impossible\"><a class=\"site-header\" href=\"http://www.nsa.gov/\">NSA</a><p class=\"site-difficulty\">Difficulty: impossible</p><p class=\"tooltip-toggle\">No Info Available</p></section>"
-                    +"<section class=\"site-block impossible\"><a class=\"site-header\" href=\"http://www.gchq.gov.uk/Pages/homepage.aspx\">GCHQ</a><p class=\"site-difficulty\">Difficulty: impossible</p><p class=\tooltip-toggle\">No Info Available</p></section>");
+                    +"<section class=\"site-block impossible\"><a class=\"site-header\" href=\"http://www.gchq.gov.uk/Pages/homepage.aspx\">GCHQ</a><p class=\"site-difficulty\">Difficulty: impossible</p><p class=\"tooltip-toggle\">No Info Available</p></section>");
             })();
 
             // and finally clean up the keys array
