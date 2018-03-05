@@ -1666,11 +1666,14 @@
     },
 
     {
-        "name": "Discord",
+        "name": "Discord(app)",
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "easy",
+        "notes":"You will need to transfer the ownership of your servers.",
         "domains": [
-            "discordapp.com"
+            "discordapp.com",
+            "ptb.discordapp.com",
+            "canary.discordapp.com"
         ]
     },
 
