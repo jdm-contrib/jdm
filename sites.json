@@ -1225,9 +1225,9 @@
 
     {
         "name": "Coinbase",
-        "url": "https://www.coinbase.com/settings/cancel",
+        "url": "https://www.coinbase.com/settings/security_settings",
         "difficulty": "easy",
-        "notes": "Sign in then visit https://www.coinbase.com/settings/cancel",
+        "notes": "Sign in then visit https://www.coinbase.com/settings/security_settings and scroll to the bottom to find a button to close you account.",
         "domains": [
             "coinbase.com"
         ]
