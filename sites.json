@@ -1714,6 +1714,17 @@
     },
 
     {
+        "name": "Dock.io",
+        "url": "https://app.dock.io/settings",
+        "notes": "Log in, go to settings and click 'Delete my account'. Confirm by clicking 'Yes, delete my account'.",
+        "difficulty": "easy",
+        "domains": [
+            "dock.io",
+            "app.dock.io"
+        ]
+    },
+
+    {
         "name": "DocuSign",
         "url": "https://support.docusign.com/guides/ndse-user-guide-close-your-account",
         "notes": "Visit DocuSign’s customer support web page and fill out the web form with your account information and the request to delete your account.",
