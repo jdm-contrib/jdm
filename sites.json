@@ -5136,6 +5136,17 @@
     },
 
     {
+        "name": "Public Lab",
+        "url": "https://publiclab.org/profile/edit",
+        "difficulty": "hard",
+        "notes": "E-mail them to request the account deletion.",
+        "email": "web@publiclab.org",
+        "domains": [
+            "publiclab.org"
+        ]
+    },
+
+    {
         "name": "Pushover",
         "url": "https://pushover.net/settings/delete_account",
         "difficulty": "easy",
