@@ -41,7 +41,7 @@
         "name": "7digital",
         "url": "https://help.7digital.com/hc/en-gb/requests/new",
         "difficulty": "hard",
-        "notes":"Email customer service and ask them to delete your account.",
+        "notes": "Email customer service using their web contact form and ask them to delete your account.",
         "domains": [
             "7digital.com"
         ]
@@ -392,6 +392,7 @@
         "url": "https://asgardia.space/",
         "difficulty": "impossible",
         "notes": "You have to send an e-mail and request for account deletion, which might take up to 10 days. By some accounts, the site administrators will not follow up on deletion requests, leading to no follow-up.",
+        "email": "support@asgardia.space",
         "domains": [
             "asgardia.space"
         ]
@@ -996,6 +997,7 @@
         "url": "https://www.cheapassgamer.com/index.php?app=core&module=help&do=01&HID=15",
         "difficulty": "hard",
         "notes": "According to the site you can email cheapyd@cheapassgamer.com from your account on file with CAG",
+        "email": "cheapyd@cheapassgamer.com",
         "domains": [
             "cheapassgamer.com"
         ]
@@ -1048,6 +1050,7 @@
         "notes": "According to the app you can email feedback@cinemagr.am for questions. Unfortunatly removal requests aren't replied to.",
         "notes_fr": "Selon l'appli, vous pouvez envoyer un e-mail à feedback@cinemagr.am pour poser des questions. Malheureusement, les demandes des suppressions des comptes ne reçoivent pas de réponse.",
         "notes_nl": "Volgens de app kun je emailen naar feedback@cinemagr.am voor vragen. Helaas wordt er niet gereageerd op dit account.",
+        "email": "feedback@cinemagr.am",
         "domains": [
             "cinemagr.am"
         ]
@@ -1343,6 +1346,7 @@
         "url": "https://www.creditexpert.co.uk/",
         "difficulty": "hard",
         "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info here: <a href=\"http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS\">http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS</a>",
+        "email": "Customerservice@creditexpert.co.uk",
         "domains": [
             "creditexpert.co.uk"
         ]
@@ -1750,7 +1754,7 @@
         "domains": [
             "downapp.com"
         ],
-        "notes": "You need to remove the App in your Facebook settings and mail feedback@downapp.com to delete your data.",
+        "notes": "You need to remove the App in your Facebook settings and email feedback@downapp.com to delete your data.",
         "email": "feedback@downapp.com"
     },
 
@@ -1980,6 +1984,7 @@
         "difficulty": "hard",
         "notes": "You must send an e-mail to hello@elevateapp.com requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
         "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à hello@elevateapp.com. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
+        "email": "hello@elevateapp.com",
         "domains": [
             "elevateapp.com"
         ]
@@ -2257,6 +2262,7 @@
         "url": "https://www.flixster.com/docs/privacy/",
         "difficulty": "hard",
         "notes": "Email privacy@flixster-inc.com and ask to have your account deleted.",
+        "email": "privacy@flixster-inc.com",
         "domains": [
             "flixster.com"
         ]
@@ -2675,6 +2681,7 @@
         "url": "http://custhelp.gogoinflight.com/",
         "difficulty": "hard",
         "notes": "Email customercare@gogoair.com and ask to have your account deleted.",
+        "email": "customercare@gogoair.com",
         "domains": [
             "gogoair.com"
         ]
@@ -2928,7 +2935,7 @@
         "name": "Hackpad",
         "url": "https://hackpad.com/Hackpad-FAQ-tq56fI63mz3#:h=Account-settings",
         "difficulty": "hard",
-        "notes": "We can do that for you - just send an email.",
+        "notes": "Request acount deletion via email.",
         "email": "support@hackpad.com",
         "domains": [
             "hackpad.com"
@@ -3567,6 +3574,7 @@
         "url": "https://kit.com/terms#contact",
         "difficulty": "hard",
         "notes": "If you need to contact us for any reason, you can do so by emailing us.",
+        "email": "support@kit.com",
         "domains": [
             "kit.com/"
         ]
@@ -4179,6 +4187,7 @@
         "url": "http://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
         "notes": "If you wish to delete your account and its belonging data and bank accounts held within it, you have to submit a request to the user support (or send an e-mail to support@moneydashboard.com). Make it clear that you require the full deletion of your account, not simply the deletion of one of your bank accounts. If you only want to delete/remove a bank account, but keep your Money Dashboard account open, please visit <a href=\"http://help.moneydashboard.com/entries/21936798\">http://help.moneydashboard.com/entries/21936798</a>",
+        "email": "support@moneydashboard.com",
         "domains": [
             "moneydashboard.com",
             "help.moneydashboard.com",
@@ -4799,6 +4808,7 @@
         "difficulty": "hard",
         "notes": "Quote from the support staff: If you want to delete your Paysera account completely, please write us an email (support@paysera.com) with a request and indicate why you want to delete your account. This email has to be sent from the email address that you use to log in to your Paysera account. Please be informed that if you delete your account, you will not be able to create a new account in the future. Paysera account is free of charge and we recommend not to delete it, but close the account, and you will be able to activate it in the future yourself by logging in to your Paysera account.",
         "notes_de": "Um den Account komplett zu löschen muss von der für die Registrierung verwendeten E-Mail-Adresse eine E-Mail an support@paysera.com in Englisch geschrieben werden. Hier dann darum bitten, dass der Account komplett gelöscht werden soll. Laut Support kann dann in Zukunft kein neuer Account angelegt werden.",
+        "email": "support@paysera.com",
         "domains": [
             "paysera.com"
         ]
@@ -4820,6 +4830,7 @@
         "difficulty": "hard",
         "notes": "You must send an e-mail to support@peak.net requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
         "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à support@peak.net. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
+        "email": "support@peak.net",
         "domains": [
             "www.peak.net"
         ]
@@ -5211,6 +5222,7 @@
         "url": "https://raindrop.io/app/#/settings/profile",
         "difficulty": "hard",
         "notes": "To delete your account, you need to send an e-mail to info@raindrop.io",
+        "email": "info@raindrop.io",
         "domains": [
             "raindrop.io"
         ]
@@ -5562,6 +5574,7 @@
         "url": "https://en.shpock.com/",
         "difficulty": "hard",
         "notes": "Requires e-mailing support to delete the account.",
+        "email": "support@shpock.com",
         "domains": [
             "shpock.com"
         ]
@@ -5577,6 +5590,7 @@
         "notes_pt_br": "Contate a assistência ao cliente por e-mail ou chat ao vivo e peça a remoção.",
         "notes_cat": "Contacti amb l'assistència al client per e-mail o chat i demani la supressió del compte.",
         "notes_es": "Contacta con la asistencia al cliente por e-mail o chat y pide la supresión de la cuenta.",
+        "email": "customerservice@cs.shutterfly.com",
         "domains": [
             "shutterfly.com"
         ]
@@ -6044,6 +6058,7 @@
         "url": "https://www.superbiiz.com/contact.php",
         "difficulty": "hard",
         "notes": "You have to email them and request for your account to be deleted.",
+        "email": "support@superbiiz.com",
         "domains": [
             "superbiiz.com"
         ]
@@ -6222,6 +6237,7 @@
         "url": "http://www.topcoder.com/help/p=636/",
         "difficulty": "hard",
         "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
+        "email": "support@topcoder.com",
         "domains": [
             "topcoder.com"
         ]
@@ -6984,7 +7000,7 @@
         "name": "Zazzle",
         "url": "https://www.zazzle.com/about/ask",
         "difficulty": "hard",
-        "notes": "To terminate your account, simply send an e-mail to Customer Care that contains your username and the email address associated with your account.  Once you've done so, a member of our Support Team will disable your account and remove any products, both public and private, and disable your store (if applicable).  The account will be deleted fully when our system processes the next batch of account removals.",
+        "notes": "To terminate your account, simply send a message via their web contact form to Customer Care that contains your username and the email address associated with your account.  Once you've done so, a member of our Support Team will disable your account and remove any products, both public and private, and disable your store (if applicable).  The account will be deleted fully when our system processes the next batch of account removals.",
         "domains": [
             "zazzle.com"
         ]
@@ -6995,6 +7011,7 @@
         "url": "https://zeit.co/account/plan",
         "difficulty": "hard",
         "notes": "You would need to email the team by clicking contact us to get your account closed.",
+        "email": "team@zeit.co",
         "domains": [
             "zeit.co"
         ]
