@@ -689,7 +689,7 @@
         "name": "Bluebird by American Express",
         "url": "https://secure.bluebird.com/manage/settings/ProfileSettings",
         "difficulty": "medium",
-        "notes" : "Remove all funds from your account. Then go to settings in your account, click on the profile tab, and click close account.",
+        "notes": "Remove all funds from your account. Then go to settings in your account, click on the profile tab, and click close account.",
         "domains": [
             "bluebird.com"
         ]
@@ -2688,10 +2688,10 @@
     },
 
     {
-        "name" : "Google+",
-        "url" : "https://plus.google.com/downgrade",
-        "difficulty" : "easy",
-        "domains" : [
+        "name": "Google+",
+        "url": "https://plus.google.com/downgrade",
+        "difficulty": "easy",
+        "domains": [
             "plus.google.com"
         ]
     },
@@ -5097,8 +5097,8 @@
     {
         "name": "Quizlet",
         "url": "https://quizlet.com/delete-account",
-        "difficulty" : "easy",
-        "domains" : [
+        "difficulty": "easy",
+        "domains": [
             "quizlet.com"
         ]
     },
