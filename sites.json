@@ -2763,17 +2763,10 @@
 
     {
         "name": "Grindr",
-        "url": "http://help.grindr.com/entries/21377499-All-Devices-Clear-Your-Grindr-Profile",
-        "difficulty": "medium",
-        "notes": "You can remove your profile and chat history from within the app or you can email support with your UDID.",
-        "notes_fr": "Vous pouvez enlever votre profil et votre histoire de tchat dans l'appli ou vous pouvez envoyer un e-mail au support du site avec votre UDID.",
-        "notes_de": "Du kannst dein Profil und dein Chat-Verlauf innerhalb der App löschen oder du kanns den Support per mail mit deiner UDID kontaktieren.",
-        "notes_it": "Puoi cancellare il tuo profilo e la cronologia chat dall'app o puoi inviare un email al supporto col tuo UDID.",
-        "notes_pt_br": "Você pode remover seu perfil e o histórico de conversa através do aplicativo ou você pode enviar um e-mail ao suporte com seu UDID.",
-        "notes_cat": "Pot esborrar el seu perfil i historial de xat desde la mateixa aplicació o pot enviar un e-mail amb el seu UDID.",
-        "notes_es": "Puedes borrar tu perfil e historial de chat desde la misma aplicación. O, puedes enviar un e-mail con su UDID.",
+        "url": "https://help.grindr.com/hc/en-us/requests/new?ticket_form_id=24054",
+        "difficulty": "hard",
+        "notes": "Submit an account deletion request via their web form, including all requested account details.",
         "domains": [
-            "help.grindr.com",
             "grindr.com"
         ]
     },
