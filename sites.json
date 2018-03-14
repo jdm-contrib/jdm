@@ -6160,13 +6160,9 @@
 
     {
         "name": "Transifex",
-        "url": "http://support.transifex.com/customer/portal/articles/1052765-how-can-i-delete-my-account-",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
-        "notes_it": "Non puoi eliminare il tuo account, ma puoi contattarli tramite email per disattivarlo.",
-        "notes_pt_br": "Você não pode deletar sua conta, mas você pode contatá-los via e-mail para desativá-la.",
-        "notes_cat": "Vostè no podrà esborrar el compte, però podrà contactar via e-mail per desactivar-la.",
-        "notes_es": "No podrás borrar la cuenta, pero podrás contactarlos vía e-mail para desactivarla.",
+        "url": "https://docs.transifex.com/account/deactivating-your-account",
+        "difficulty": "easy",
+        "notes": "In the main navigation, click on your profile image in the top right corner; from the dropdown menu, select User Settings; scroll to the bottom of the page and click Deactivate my account; confirm you want to delete your account by clicking Deactivate my account in the popup.",
         "domains": [
             "transifex.com"
         ]
