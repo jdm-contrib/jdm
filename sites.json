@@ -1025,7 +1025,7 @@
         "name": "Cinemagram",
         "url": "",
         "difficulty": "impossible",
-        "notes": "According to the app you can email feedback@cinemagr.am for questions. Unfortunatly removal requests aren't replied to.",
+        "notes": "According to the app you can email feedback@cinemagr.am for questions. Unfortunately removal requests aren't replied to.",
         "notes_fr": "Selon l'appli, vous pouvez envoyer un e-mail à feedback@cinemagr.am pour poser des questions. Malheureusement, les demandes des suppressions des comptes ne reçoivent pas de réponse.",
         "notes_nl": "Volgens de app kun je emailen naar feedback@cinemagr.am voor vragen. Helaas wordt er niet gereageerd op dit account.",
         "email": "feedback@cinemagr.am",
@@ -3811,7 +3811,7 @@
         "url": "https://magoosh.zendesk.com/hc/en-us/articles/204307485-How-do-I-delete-my-account-",
         "email": "help@magoosh.com",
         "difficulty": "easy",
-        "notes": "Send an email to help@magoosh.com with the subject line, 'Need to delete my account'. Might need to send another email for the deletion to fianlly go through.",
+        "notes": "Send an email to help@magoosh.com with the subject line, 'Need to delete my account'. Might need to send another email for the deletion to finally go through.",
         "domains": [
             "magoosh.com"
         ]
@@ -5783,7 +5783,7 @@
         "name": "Startnext",
         "url": "http://faq.startnext.de/Nutzerprofil/id/Wie+kann+ich+mein+Startnext-Profil+loeschen+-26/modul/Nutzerprofil+%26+Registrierung/aid/18",
         "difficulty": "hard",
-        "notes": "You have to write an Email to the Support. Your activites will be anonymized.",
+        "notes": "You have to write an Email to the Support. Your activities will be anonymized.",
         "notes_fr": "Vous devez écrire un e-mail au support.",
         "notes_de": "Es ist erforderlich, eine Email an den Support zu schreiben. Alle Aktivitäten werden anonymisiert.",
         "email": "support@startnext.de",
@@ -6110,7 +6110,7 @@
     {
         "name": "Topcoder",
         "url": "http://www.topcoder.com/help/p=636/",
-        "difficulty": "hard",
+        "difficulty": "impossible",
         "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
         "email": "support@topcoder.com",
         "domains": [
@@ -6366,7 +6366,7 @@
         "name": "Unfuddle Ten",
         "url": "https://unfuddle.io/app",
         "difficulty": "hard",
-        "notes": "Send an email with the subject ‘Delete my account’, it is the only way.",
+        "notes": "Send an email with the subject 'Delete my account', it is the only way.",
         "email": "support@unfuddle.com",
         "domains": [
             "unfuddle.io"
@@ -6396,7 +6396,7 @@
         "name": "Usersnap",
         "url": "https://usersnap.com/contact",
         "difficulty": "hard",
-        "notes": "Send an email with the subject ‘Delete my account’",
+        "notes": "Send an email with the subject 'Delete my account'",
         "email": "help@usersnap.com",
         "domains": [
             "usersnap.com"
