@@ -944,6 +944,7 @@
         "name": "CEX.IO",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
+        "email_subject": "Delete Account",
         "difficulty": "hard",
         "notes": "You can't delete your account without contacting them. You must set the subject to 'Delete Account'",
         "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf 'Delete Account' setzen.",
@@ -2468,6 +2469,7 @@
         "name": "GHash.IO",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
+        "email_subject": "Delete Account",
         "difficulty": "hard",
         "notes": "You can't delete your account without contacting them. You must set the subject to 'Delete Account'",
         "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf 'Delete Account' setzen.",
@@ -2480,6 +2482,7 @@
         "name": "GhostMail",
         "url": "https://www.ghostmail.com/help",
         "email": "support@ghostmail.com",
+        "email_subject": "Delete my account",
         "difficulty": "hard",
         "notes": "Send them an email with Delete my account as title.",
         "domains": [
@@ -3616,6 +3619,8 @@
         "difficulty": "impossible",
         "notes": "Accounts may be disabled, but some data will be retained. E-mail support@riotgames.com with the subject \"Account Deactivation\" and include your username, summoner name, server and email used when registering the account in your ticket",
         "email": "support@riotgames.com",
+        "email_subject": "Account Deactivation",
+        "email_body": "Please deactivate my account%0AMyusername is XXXXXX, my summoner name is XXXXXX, I play on the XXXXXX server, and XXXXXX is my registered email address.",
         "domains": [
             "leagueoflegends.com"
         ]
@@ -3810,6 +3815,7 @@
         "name": "Magoosh",
         "url": "https://magoosh.zendesk.com/hc/en-us/articles/204307485-How-do-I-delete-my-account-",
         "email": "help@magoosh.com",
+        "email_subject": "Need to delete my account",
         "difficulty": "easy",
         "notes": "Send an email to help@magoosh.com with the subject line, 'Need to delete my account'. Might need to send another email for the deletion to finally go through.",
         "domains": [
@@ -3918,6 +3924,7 @@
         "name": "Mediapart",
         "url": "https://www.mediapart.fr/contenu/conditions-generales-d-utilisation",
         "email": "contact@mediapart.fr",
+        "email_body": "Please delete all information and data associated with my account. My username is XXXXXX.",
         "difficulty": "hard",
         "notes": "No information is clearly provided how to delete account. You have to send an email to explicitly ask for deletion of every information related to your account otherwise they will only disable it.",
         "notes_fr": "Il faut envoyer un mail et demander la suppression définitive de toute information liée au compte, sinon ils vont uniquement le désactiver(ex: les données bancaires demeurent). Conseil: Invoquer la CNIL (<a href\"https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet\">https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet</a>).",
@@ -5218,6 +5225,7 @@
         "notes_cat": "Si decideix desactivar el seu compte haurà de posarse en contacte amb support@redditgifts.com. Haurà d'enviar l'e-mail i nom de l'usuari de Reddit associat al compte de la web.",
         "notes_es": "Si decide desactivar tu cuenta tendrás que ponerte en contacto con support@redditgifts.com. Deberás enviar el e-mail y nombre de usuario de Reddit asociado a la cuenta de la web.",
         "email": "support@redditgifts.com",
+        "email_body": "My reddit username is XXXXXX",
         "domains": [
             "redditgifts.com"
         ]
@@ -6632,6 +6640,7 @@
         "url": "http://www.which.co.uk/terms-and-conditions/your-which-membership/",
         "difficulty": "hard",
         "email": "which@which.co.uk",
+        "email_body": "My membership number is XXXXXX",
         "domains": [
             "which.co.uk"
         ],
@@ -6929,7 +6938,9 @@
         "url": "https://zynga.com/privacy/faqs",
         "difficulty": "hard",
         "notes": "Place Delete My Account in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail.",
-        "email": "privacy@zynga.com?subject=Delete My Account",
+        "email": "privacy@zynga.com",
+        "email_subject": "Delete My Account",
+        "email_body": "My first and last name are XXXXXX XXXXXX, my e-mail address is XXXXXX, and my user ID number is XXXXXX",
         "domains": [
             "zynga.com"
         ]
