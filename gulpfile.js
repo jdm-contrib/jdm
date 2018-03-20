@@ -59,6 +59,7 @@ gulp.task("translate", ["clean"], function() {
         }
 
         // With <a> tags in notes allowed, escape all HTML and character entities
+        // Replace spaces with %20 in email subject and body fields
         sites = sites.map(function(site) {
             var strictSanitizeOptions = {
                 allowedTags: [],
@@ -72,6 +73,9 @@ gulp.task("translate", ["clean"], function() {
             };
             /* eslint-disable security/detect-object-injection */
             Object.keys(site).forEach(function(key) {
+                if (key === "email_body" || key === "email_subject") {
+                    site[key] = site[key].replace(/ /g, "%20");
+                }
                 if (key.startsWith("notes")) {
                     site[key] = sanitizeHtml(site[key], allowLinksSanitizeOptions);
                 } else {

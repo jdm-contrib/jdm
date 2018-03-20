@@ -11,6 +11,8 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
     - `impossible`: For sites where it's basically impossible to totally delete your account, even if you contact them
 - `notes`: *(optional)* Notes will be shown when someone hovers on that service. Notes may include additional information you might need to delete your account (e.g. Skype) or consequences of deleting your account (e.g. iTunes).
 - `email`: *(optional)* If you have to send an email to a company to cancel your account, add the email address here. We'll do the rest.
+- `email_subject`: *(optional)* Set the subject for the email link. If unset, the default text is "Account Deletion Request".
+- `email_body`: *(optional)* Set the body for the email link. If unset, the default text is "Please delete my account, my username is XXXXXX".
 - `domains`: *(optional)* This is used by the [Chrome extension](https://github.com/jdm-contrib/justdelete.me-chrome-extension)
 
 ## Contribution checklist

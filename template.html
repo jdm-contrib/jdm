@@ -42,7 +42,7 @@
 							<div class="tooltip-content">
 								{{ site.notes }}
 								{% if site.email %}
-									<br><a href="mailto:{{site.email}}?Subject=Account%20Deletion%20Request&body=Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX">{{ i18n.sendmail }} &raquo;</a>
+									<br><a href="mailto:{{site.email}}?Subject={% if site.email_subject %}{{site.email_subject}}{% else %}Account%20Deletion%20Request{% endif %}&body={% if site.email_body %}{{site.email_body}}{% else %}Please%20delete%20my%20account,%20my%20username%20is%20XXXXXX{% endif %}">{{ i18n.sendmail }} &raquo;</a>
 								{% endif %}
 							</div>
 							<a href="#" class="tooltip-toggle contains-info">{{ i18n.showinfo }}</a>
