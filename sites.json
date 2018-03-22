@@ -6382,6 +6382,16 @@
     },
 
     {
+        "name": "Unity ID",
+        "url": "https://support.unity3d.com/hc/en-us/articles/209059926",
+        "difficulty": "hard",
+        "notes": "It is not possible for users to delete their own Unity ID accounts, instead users must contact Unity to disable accounts. Requires that the request come from the email linked to the account.",
+        "domains": [
+            "unity3d.com"
+        ]
+    },
+
+    {
         "name": "Unroll.me",
         "url": "https://unroll.me/user/settings",
         "difficulty": "easy",
