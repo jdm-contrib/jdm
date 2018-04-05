@@ -767,6 +767,16 @@
     },
 
     {
+        "name": "botlist.space",
+        "url": "https://botlist.space/server",
+        "difficulty": "hard",
+        "notes": "You need to request deletion of your account data by contacting a 'Website Staff' via their Discord server.",
+        "domains": [
+            "botlist.space"
+        ]
+    },
+
+    {
         "name": "Box",
         "meta": "popular",
         "url": "https://app.box.com/account",
