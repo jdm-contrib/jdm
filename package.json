@@ -1,6 +1,10 @@
 {
   "name": "justdeleteme",
   "version": "1.0.0",
+  "homepage": "http://justdeleteme.xyz",
+  "bugs": "https://github.com/jdm-contrib/justdelete.me/issues",
+  "license": "MIT",
+  "repository": "github:jdm-contrib/justdelte.me",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
