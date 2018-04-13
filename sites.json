@@ -6754,6 +6754,16 @@
             "wordpress.com"
         ]
     },
+    
+    {
+		"name": "workupload",
+		"url": "https://workupload.com/contact",
+		"difficulty": "medium",
+		"notes": "\"You can write us a short mail and we will delete your whole workupload account.\" was stated after contacting them about the option to delete an account. (I chose medium as difficulty since you only have to write a short email which is not far harder than a delete button.)",
+		"domains": [
+			"workupload.com"
+		]
+	},
 
     {
         "name": "Wunderlist",
