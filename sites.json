@@ -3791,6 +3791,17 @@
             "lovefilm.com"
         ]
     },
+    
+    {
+		"name": "Lucidchart/Lucidpress",
+		"url": "https://www.lucidchart.com/users/login",
+		"difficulty": "easy",
+		"notes": "Click in the top right corner on your Username, then \"Account settings\" and at the tab \"Close Account\"",
+		"domains": [
+			"lucidchart.com",
+			"lucidpress.com"
+		]
+	},
 
     {
         "name": "Lufthansa",
