@@ -6480,6 +6480,16 @@
     },
 
     {
+		"name": "vgy.me",
+		"url": "https://vgy.me",
+		"difficulty": "impossible",
+		"notes": "Admin once stated in an email that there would be no need to delete an account.",
+		"domains": [
+			"vgy.me"
+		]
+	},
+    
+    {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?language=fr&ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
         "difficulty": "easy",
