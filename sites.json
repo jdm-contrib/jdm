@@ -2137,6 +2137,15 @@
             "fanfiction.net"
         ]
     },
+    
+    {
+        "name": "FaucetHub",
+        "url": "https://faucethub.io/dashboard/security/deleteaccount",
+        "difficulty": "easy",
+        "domains": [
+            "faucethub.io"
+        ]
+    },
 
     {
         "name": "Feedly",
