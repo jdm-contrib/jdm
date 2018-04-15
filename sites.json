@@ -4754,15 +4754,6 @@
     },
 
     {
-		"name": "Pocoyo Club",
-		"url": "https://www.pocoyo.com/en/club/account-cancellation",
-		"difficulty": "easy",
-		"domains": [
-			"pocoyo.com"
-		]
-	},
-    
-    {
         "name": "The Perfect Shave",
         "url": "https://www.perfect-shave.de/einstellungen",
         "difficulty": "easy",
@@ -4937,6 +4928,15 @@
         "difficulty": "easy",
         "domains": [
             "getpocket.com"
+        ]
+    },
+
+    {
+        "name": "Pocoyo Club",
+        "url": "https://www.pocoyo.com/en/club/account-cancellation",
+        "difficulty": "easy",
+        "domains": [
+            "pocoyo.com"
         ]
     },
 
