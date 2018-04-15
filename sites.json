@@ -4941,6 +4941,15 @@
     },
 
     {
+        "name": "Pocoyo Club",
+        "url": "https://www.pocoyo.com/en/club/account-cancellation",
+        "difficulty": "easy",
+        "domains": [
+            "pocoyo.com"
+        ]
+    },
+
+    {
         "name": "Podio",
         "url": "https://podio.com/settings/account",
         "difficulty": "easy",
