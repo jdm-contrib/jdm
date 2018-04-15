@@ -2139,6 +2139,15 @@
     },
 
     {
+        "name": "FaucetHub",
+        "url": "https://faucethub.io/dashboard/security/deleteaccount",
+        "difficulty": "easy",
+        "domains": [
+            "faucethub.io"
+        ]
+    },
+
+    {
         "name": "Feedly",
         "url": "https://feedly.com/#erase",
         "difficulty": "easy",
