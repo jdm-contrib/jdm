@@ -4220,6 +4220,16 @@
     },
 
     {
+        "name": "My Fitness Pal",
+        "url": "http://www.myfitnesspal.com/en/account/confirm_delete",
+        "difficulty": "easy",
+        "notes": "Just login and head to the account settings to click on delete account.",
+        "domains": [
+            "myfitnesspal.com"
+        ]
+    },
+    
+    {
         "name": "My Opera",
         "url": "https://my.opera.com/USERNAME/account/delete",
         "difficulty": "easy",
