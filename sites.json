@@ -6370,7 +6370,7 @@
 
     {
         "name": "Ubuntu One",
-        "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
+        "url": "https://login.ubuntu.com/+faq#can-i-delete-my-ubuntu-one-account",
         "difficulty": "hard",
         "notes": "Yes and no, it depends on which type(s) of accounts, and you will need to delete the accounts in the correct order. All accounts are tied to Ubuntu One's Single Sign-On (login.ubuntu.com), so that is the account you should close last. Everything else, such as Launchpad.net, cloud file storage, AskUbuntu, and other accounts should be closed first if possible. This is especially important if you have any paid services attached, to make sure you won't be billed for anything after closing the accounts. The last step is to delete your Single Sign-On (SSO) account. SSO accounts must be deleted manually by the Ubuntu One staff.",
         "notes_it": "Si e no, dipende dal tipo/i di account, e dovrai eliminare gli account nel giusto order. Tutti gli account sono collegati a Ubuntu One's Single Sign-On (login.ubuntu.com), quindi questo sarà l'ultimo account da chiudere. Tutto il resto, come Launchpad.net, cloud file storage, AskUbuntu e gli altri account devono essere chiusi prima, se possibile. Questo è importante soprattutto se hai qualche servizio a pagamento collegato, per essere sicuro di non ricevere richieste di pagamento dopo la chiusura degli account. L'ultimo passo è eliminare il tuo Single Sign-On (SSO) account. Questo deve essere eliminato manualmente dallo staff di Ubuntu One.",
