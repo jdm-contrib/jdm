@@ -4755,9 +4755,8 @@
 
     {
 		"name": "Pocoyo Club",
-		"url": "https://www.pocoyo.com/en/club/profile",
+		"url": "https://www.pocoyo.com/en/club/account-cancellation",
 		"difficulty": "easy",
-		"notes": "You can also just unsubscribe from \"newsletters and other commercial, promotional and advertising communications from Zinkia Entertainment S.A. and/or from third parties\" at the Notifications tab",
 		"domains": [
 			"pocoyo.com"
 		]
