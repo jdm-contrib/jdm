@@ -6273,13 +6273,13 @@
         "url": "https://www.tunngle.net/account/close",
         "difficulty": "easy",
         "domains": [
-		    "tunngle.net",
-		    "tunngle.com",
-		    "tunngle.org",
-		    "tunngle.de"
-	    ]
+            "tunngle.net",
+            "tunngle.com",
+            "tunngle.org",
+            "tunngle.de"
+        ]
     },
-    
+
     {
         "name": "Twenty20",
         "url": "https://www.twenty20.com/delete-account?t20p=settings.index",
