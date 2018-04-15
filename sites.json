@@ -6797,6 +6797,16 @@
     },
 
     {
+        "name": "workupload",
+        "url": "https://workupload.com/contact",
+        "difficulty": "medium",
+        "notes": "Write a short mail using their web contact form.",
+        "domains": [
+            "workupload.com"
+        ]
+    },
+
+    {
         "name": "Wunderlist",
         "url": "https://www.wunderlist.com/#/preferences/account",
         "difficulty": "easy",
