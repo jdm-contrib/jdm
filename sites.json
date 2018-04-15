@@ -6195,6 +6195,16 @@
     },
 
     {
+        "name": "TransferXL",
+        "url": "https://transferxl.com/profile",
+        "difficulty": "easy",
+        "notes": "Click on \"Delete your account\" at the bottom of the page.",
+        "domains": [
+            "transferxl.com"
+        ]
+    },
+
+    {
         "name": "Transifex",
         "url": "https://docs.transifex.com/account/deactivating-your-account",
         "difficulty": "easy",
