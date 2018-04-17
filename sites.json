@@ -5233,6 +5233,7 @@
 
     {
         "name": "Readernaut",
+        "url": "https://readernaut.com",
         "difficulty": "easy",
         "notes": "Go to your profile page, and use the 'Delete Your Account' button.",
         "domains": [
