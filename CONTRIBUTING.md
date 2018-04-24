@@ -23,15 +23,16 @@ The sites, urls and additional notes are stored in `sites.json`. If you want to 
 4. Any steps for the process should be detailed in the notes (if necessary).
 5. Be sure to indent 4 spaces per level.
 6. Be sure to place your entry ALPHABETICALLY in the current list.
-7. Please test that your changes work validating `sites.json` with something like [JSON Lint](http://jsonlint.com/)
+7. Please test that your changes work validating `sites.json` with something like [JSON Lint](http://jsonlint.com/) or the included "validate_json.rb" script
 
 ## Translation
 
 If you want to translate the site:
 
-1. Create a new `CODE.json` file in the `_trans/` directory where `CODE` is your [short country code](https://en.wikipedia.org/wiki/Country_code)
+1. Create a new `CODE.json` file in the `_data/trans/` directory where `CODE` is your [short country code](https://en.wikipedia.org/wiki/Country_code)
 2. Copy the contents of `en.json` to your new file
 3. Translate each line
+4. Within the `_pages/` directory, copy `_pages/index.html` to a new `CODE.html` file, and update the `lang: CODE` line to match the new page's code
 
 ### Style guide for Spanish Translations
 

@@ -1,0 +1,5 @@
+exclude: [CONTRIBUTING.md, Gemfile, Gemfile.lock, LICENSE, README.md, script, vendor]
+collections:
+  pages:
+    output: true
+    permalink: /:categories/:title:output_ext

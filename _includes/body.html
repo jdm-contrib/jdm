@@ -1,0 +1,140 @@
+<div class="search">
+    <div class="search-container">
+        <input type="text" id="search">
+        <label for="search">search</a>
+    </div>
+
+    <div class="sort-container">
+        <button class="popular">{{ site.data.trans[page.lang].popular }}</button>
+        <button data-dropdown="#alphabetical-dropdown" class="az-sort">A - Z</button>
+        <button data-dropdown="#difficulty-dropdown" class="diff-sort">{{ site.data.trans[page.lang].difficulty }}</button>
+        <button class="reset">reset</button>
+    </div>
+</div>
+
+<main>
+    <section class="sites" id="sites">
+        <p class="no-results">Can't find what you're looking for? <a href='https://github.com/jdm-contrib/justdelete.me'>Help make JustDeleteMe better</a>.</p>
+
+        {% for entry in site.data.sites %}
+            <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
+                <a class="site-header" href="{{ entry.url }}">
+                    {{ entry.name }}
+                </a>
+
+                <p class="site-difficulty">
+                    {% if entry.difficulty == 'easy' %}
+                        {{ site.data.trans[page.lang].difficulty_easy }}
+                    {% elsif entry.difficulty == 'medium' %}
+                        {{ site.data.trans[page.lang].difficulty_medium }}
+                    {% elsif entry.difficulty == 'hard' %}
+                        {{ site.data.trans[page.lang].difficulty_hard }}
+                    {% elsif entry.difficulty == 'impossible' %}
+                        {{ site.data.trans[page.lang].difficulty_impossible }}
+                    {% endif %}
+                </p>
+
+                {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
+                {% if entry.notes or entry[lang_notes] %}
+                    <div class="tooltip-content">
+                        {% if entry[lang_notes] %}
+                            {{ entry[lang_notes] }}
+                        {% else %}
+                            {{ entry.notes }}
+                        {% endif %}
+                        {% if entry.email %}
+                            <br><a href="mailto:{{ entry.email }}?Subject={% if entry.email_subject %}{{ entry.email_subject | replace: ' ', '%20' }}{% else %}Account%20Deletion%20Request{% endif %}&body={% if entry.email_body %}{{ entry.email_body | replace: ' ', '%20' }}{% else %}Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX{% endif %}">{{ site.data.trans[page.lang].sendmail }} &raquo;</a>
+                        {% endif %}
+                    </div>
+                    <a href="#" class="tooltip-toggle contains-info">
+                        <span class="show-info">{{ site.data.trans[page.lang].showinfo }}</span>
+                        <span class="hide-info">{{ site.data.trans[page.lang].hideinfo }}</span>
+                    </a>
+                {% else %}
+                    <p class="tooltip-toggle">{{ site.data.trans[page.lang].noinfo }}</p>
+                {% endif %}
+            </section>
+        {% endfor %}
+    </section>
+</main>
+
+<section id="about" class="info-block about">
+    <div class="info-container">
+        <div class="info-block-half">
+            <h2>{{ site.data.trans[page.lang].whatisthis }}</h2>
+            <p>{{ site.data.trans[page.lang].whatisthis1|safe}} </p>
+            <p>{{ site.data.trans[page.lang].whatisthis2|safe }} </p>
+        </div>
+        <div class="info-block-half">
+            <h2>{{ site.data.trans[page.lang].guide }}</h2>
+            <p>{{ site.data.trans[page.lang].guideexplanations }}</p>
+            <ul>
+                <li class="easy">{{ site.data.trans[page.lang].guideeasy|safe }}</li>
+                <li class="medium">{{ site.data.trans[page.lang].guidemedium|safe }}</li>
+                <li class="hard">{{ site.data.trans[page.lang].guidehard|safe }}</li>
+                <li class="impossible">{{ site.data.trans[page.lang].guideimpossible|safe }}</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<div class="banner-block">
+    <div class="banner-content">
+        <div class="banner-block-half" id="extension">
+            <h2>{{ site.data.trans[page.lang].extension|safe }}</h2>
+            <p>{{ site.data.trans[page.lang].extensionp1|safe }}</p>
+            <p>{{ site.data.trans[page.lang].extensionp2|safe }}</p>
+            <p>{{ site.data.trans[page.lang].extensionp3|safe }}</p>
+        </div>
+        <div class="banner-block-half">
+            <h2>{{ site.data.trans[page.lang].extensionguide|safe }}</h2>
+            <ul>
+                <li>{{ site.data.trans[page.lang].extensionl1|safe }}</li>
+                <li>{{ site.data.trans[page.lang].extensionl2|safe }}</li>
+                <li>{{ site.data.trans[page.lang].extensionl3|safe }}</li>
+                <li>{{ site.data.trans[page.lang].extensionl4|safe }}</li>
+            </ul>
+        </div>
+    </div>
+    <div class="banner-block-extension"></div>
+</div>
+
+<!-- Language dropdown -->
+<div id="language-dropdown" class="dropdown dropdown-tip has-icons">
+    <ul class="dropdown-menu">
+        {% assign sorted_files = (site.data.trans | sort:0) %}
+        {% for lang in sorted_files %}
+            {% assign lang_code = lang[0] %}
+            {% if lang_code == 'en' %}
+                {% assign url = './' %}
+            {% else %}
+                {% assign url = lang_code %}
+            {% endif %}
+            <li class="{{ lang_code }}"><a href="{{ url }}">{{ site.data.trans[lang_code].name }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+
+<!-- Alphabetical sorting -->
+<div id="alphabetical-dropdown" class="dropdown dropdown-tip">
+    <ul class="dropdown-menu ltr">
+        <span class="alpha-sort">
+            {% assign letters = 'a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z' | split:',' %}
+            {% for letter in letters %}
+            <li><a href="">{{ letter }}</a></li>
+            {% endfor %}
+        </span>
+    </ul>
+</div>
+
+<div id="difficulty-dropdown" class="dropdown dropdown-tip">
+    <ul class="dropdown-menu">
+        <span class="diff-sort">
+            {% assign difficulties = 'easy,medium,hard,impossible' | split:',' %}
+            {% for difficulty in difficulties %}
+                {% capture difficulty_value %}difficulty_{{ difficulty }}{% endcapture %}
+                <li><a href="#">{{ site.data.trans[page.lang][difficulty_value] }}</a></li>
+            {% endfor %}
+        </span>
+    </ul>
+</div>
