@@ -12,13 +12,9 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 
-[{package{,-lock}.json,.travis.yml}]
+[*.yml]
 indent_size = 2
 
-[_trans/*.json]
+[*.md]
 indent_size = 2
-indent_style = tab
-
-[*.html]
-indent_style = tab
 trim_trailing_whitespace = false

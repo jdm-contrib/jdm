@@ -1,12 +1,13 @@
-language: node_js
-node_js:
-  - "7"
-before_script:
-  - npm install del
-  - npm install fs
-  - npm install gulp@3.9.1
-  - npm install gulp-data
-  - npm install gulp-jsonlint
-  - npm install gulp-rename
-  - npm install gulp-swig
-script: gulp
+language: ruby
+rvm:
+- 2.3.3
+
+# Assume bundler is being used, therefore
+# the `install` step will run `bundle install` by default.
+script: ./script/cibuild
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+sudo: false
