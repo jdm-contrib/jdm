@@ -2841,6 +2841,28 @@
     },
 
     {
+        "name": "Habbo",
+        "url": "https://help.habbo.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Log in on the respective site and submit a request to delete your account.",
+        "notes_de": "Melden Sie sich auf der jeweiligen Website an und reichen Sie eine Anfrage zum Löschen Ihres Kontos ein.",
+        "notes_fr": "Connectez-vous sur le site correspondant et envoyez une demande pour supprimer votre compte.",
+        "notes_it": "Accedi al rispettivo sito e invia una richiesta per eliminare il tuo account.",
+        "notes_nl": "Log in op de betreffende site en dien een aanvraag in om uw account te verwijderen.",
+        "domains": [
+            "habbo.com",
+            "habbo.com.br",
+            "habbo.com.tr",
+            "habbo.de",
+            "habbo.es",
+            "habbo.fi",
+            "habbo.fr",
+            "habbo.it",
+            "habbo.nl"
+        ]
+    },
+
+    {
         "name": "Hack This Site",
         "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
         "difficulty": "impossible",
