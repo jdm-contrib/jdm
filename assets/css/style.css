@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color:#D4D8DC;
+    background-color: #D4D8DC;
     font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     margin: 0;
     padding: 0;
@@ -23,10 +23,10 @@ nav {
     color: black;
     direction: ltr;
     font-weight: normal;
-    padding: 15px 0;
-    position: fixed;
     margin: 0 auto;
     opacity: 0.9;
+    padding: 15px 0;
+    position: fixed;
     text-align: center;
     top: 0;
     width: 100%;
@@ -34,8 +34,8 @@ nav {
 }
 
 .language-switch {
-    background-repeat: no-repeat;
     background-position: left center;
+    background-repeat: no-repeat;
     cursor: pointer;
     padding: 8px 10px 8px 29px;
 }
@@ -208,10 +208,10 @@ button {
     background-color: white;
     border: none;
     border-radius: 5px;
-    cursor:pointer;
-    padding: 10px 15px;
+    cursor: pointer;
     font-size: 70%;
     font-weight: lighter;
+    padding: 10px 15px;
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
 }
@@ -220,7 +220,7 @@ button:hover {
     background-color: #FFECEC;
 }
 
-button.reset {
+.reset {
     color: #D04343;
 }
 
@@ -256,13 +256,13 @@ main {
 }
 
 .site-block .site-header {
+    color: white;
+    direction: ltr;
     display: block;
     font-size: 16px;
     font-weight: bold;
-    color: white;
-    padding: 10px;
     line-height: 1;
-    direction: ltr;
+    padding: 10px;
 }
 
 .site-block .site-header:hover {
@@ -306,13 +306,13 @@ main {
     background-color: #EAEBED;
     border: 1px solid #BFC6CC;
     border-top: 0;
+    color: #293840;
+    font-size: 12px;
+    font-weight: bold;
     line-height: 0;
+    margin: 0;
     padding: 15px 10px;
     text-transform: uppercase;
-    font-weight: bold;
-    font-size: 12px;
-    margin: 0;
-    color: #293840;
 }
 
 .site-block .tooltip-content {
