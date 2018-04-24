@@ -137,7 +137,7 @@ $(function(){
                 if (typeof callback === "function") { callback.call(this); }
             });
         });
-    }
+    };
 
     // Banner scroll to bottom
     $(".banner").click(function(e) {
