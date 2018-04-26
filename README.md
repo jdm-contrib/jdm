@@ -3,7 +3,7 @@ JustDeleteMe
 
 A directory of direct links to delete your account from web services.
 
-[![Build Status](https://travis-ci.org/jdm-contrib/justdelete.me.svg?branch=master)](https://travis-ci.org/jdm-contrib/justdelete.me)
+[![Build Status](https://travis-ci.org/jdm-contrib/jdm.svg?branch=master)](https://travis-ci.org/jdm-contrib/jdm)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/53bbffc9bd3c40459200b33736922c6b)](https://www.codacy.com/app/tupaschoal/justdelete-me)
 
 ## Building Locally
