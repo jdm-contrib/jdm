@@ -21,13 +21,13 @@ validated using a mixture of Ruby and Node.js packages and scripts.
 - Clone the repository
 
   ```
-  git clone https://github.com/jdm-contrib/justdelete.me.git
+  git clone https://github.com/jdm-contrib/jdm.git
   ```
 
 - Install dependencies
 
   ```
-  cd justdelete.me
+  cd jdm
   gem install bundler
   bundler install
   ```
