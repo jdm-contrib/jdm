@@ -5587,12 +5587,12 @@
             "simplenote.com"
         ]
     },
-    
+
     {
         "name": "Skillshare",
         "url": "http://www.skillshare.com/settings/account",
         "difficulty": "easy",
-        "notes": "Login to your account, click on your profile's avatar in the top bar, click on 'Account Settings'. click on 'Deactivate Your Account', Confirm by clicking on 'Deactivate Account'.",
+        "notes": "Login to your profile, click on 'Account Settings', click on 'Deactivate Your Account', and confirm by clicking on 'Deactivate Account'.",
         "domains": [
             "skillshare.com"
         ]
