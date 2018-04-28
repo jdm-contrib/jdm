@@ -5589,6 +5589,16 @@
     },
 
     {
+        "name": "Skillshare",
+        "url": "http://www.skillshare.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Login to your profile, click on 'Account Settings', click on 'Deactivate Your Account', and confirm by clicking on 'Deactivate Account'.",
+        "domains": [
+            "skillshare.com"
+        ]
+    },
+
+    {
         "name": "Skoob",
         "url": "http://www.skoob.com.br/usuario/excluir/",
         "difficulty": "easy",
