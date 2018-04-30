@@ -4997,15 +4997,6 @@
     },
 
     {
-        "name": "Potluck",
-        "url": "https://www.potluck.it/settings",
-        "difficulty": "easy",
-        "domains": [
-            "potluck.it"
-        ]
-    },
-
-    {
         "name": "Premiumize.me",
         "url": "https://www.premiumize.me/deleteaccount",
         "difficulty": "easy",
