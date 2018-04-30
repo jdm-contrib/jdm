@@ -1412,16 +1412,6 @@
     },
 
     {
-        "name": "DataJoy",
-        "url": "https://www.getdatajoy.com/user/settings",
-        "difficulty": "easy",
-        "notes": "Click the \"Delete your account\" at the bottom of the settings page and type \"DELETE\" in the popup box.",
-        "domains": [
-            "getdatajoy.com"
-        ]
-    },
-
-    {
         "name": "Day One",
         "url": "http://dayone.me/user/request-account-deletion",
         "difficulty": "easy",
