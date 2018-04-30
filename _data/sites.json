@@ -6888,21 +6888,6 @@
     },
 
     {
-        "name": "Xobni",
-        "url": "https://www.xobni.com/account/settings",
-        "difficulty": "easy",
-        "notes": "“Delete account” link at the bottom of the page.",
-        "notes_fr": "'Supprimer mon compte' lien en bas de la page.",
-        "notes_it": "Il link 'Elimina Account' si trova sul fondo della pagina.",
-        "notes_pt_br": "Link “Delete account” no final da página.",
-        "notes_cat": "Fes clic a l'enllaç “Delete account” al final de la pàgina.",
-        "notes_es": "Haz clic en “Delete account” al final de la página.",
-        "domains": [
-            "xobni.com"
-        ]
-    },
-
-    {
         "name": "Yahoo!",
         "meta": "popular",
         "url": "https://edit.yahoo.com/config/delete_user",
