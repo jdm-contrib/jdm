@@ -1832,15 +1832,6 @@
     },
 
     {
-        "name": "Easel",
-        "url": "https://www.easel.io/users/edit#cancellation",
-        "difficulty": "easy",
-        "domains": [
-            "easel.io"
-        ]
-    },
-
-    {
         "name": "easyJet",
         "url": "http://www.easyjet.com/en/help/contact",
         "difficulty": "hard",
