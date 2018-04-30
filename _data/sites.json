@@ -6678,7 +6678,7 @@
 
     {
         "name": "whistle.im",
-        "url": "https://whistle.im/browser#vcard",
+        "url": "http://whistle.im/browser#vcard",
         "difficulty": "easy",
         "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)",
         "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)",
