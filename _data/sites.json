@@ -5790,18 +5790,6 @@
     },
 
     {
-        "name": "Stypi",
-        "url": "https://code.stypi.com/faq",
-        "difficulty": "impossible",
-        "notes": "If you have an account, you can delete any document by right clicking the file and selecting 'Delete'. If you do not have an account please email support@stypi.com.",
-        "email": "support@stypi.com",
-        "domains": [
-            "stypi.com"
-        ]
-    },
-
-
-    {
         "name": "SuperBiiz",
         "url": "https://www.superbiiz.com/contact.php",
         "difficulty": "hard",
