@@ -1447,15 +1447,6 @@
     },
 
     {
-        "name": "Delicious",
-        "url": "https://delicious.com/settings/deactivate",
-        "difficulty": "easy",
-        "domains": [
-            "delicious.com"
-        ]
-    },
-
-    {
         "name": "Delta Airlines (SkyMiles)",
         "url": "http://www.delta.com/contactus/pages/comment_complaint/index.jsp",
         "difficulty": "medium",
