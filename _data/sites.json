@@ -1566,15 +1566,6 @@
     },
 
     {
-        "name": "diHITT",
-        "url": "http://www.dihitt.com/user/delete_profile",
-        "difficulty": "easy",
-        "domains": [
-            "dihitt.com"
-        ]
-    },
-
-    {
         "name": "Diigo",
         "url": "https://www.diigo.com/",
         "difficulty": "easy",
