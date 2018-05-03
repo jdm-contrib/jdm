@@ -2490,7 +2490,8 @@
     {
         "name": "Gitorious",
         "url": "https://gitorious.org",
-        "difficulty": "easy",
+        "difficulty": "impossible",
+        "notes": "Gitorious is now an archived, read-only copy of the prior code hosting website. Data cannot be altered on this mirror.",
         "domains": [
             "gitorious.org"
         ]
