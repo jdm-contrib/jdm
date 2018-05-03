@@ -5714,15 +5714,6 @@
     },
 
     {
-        "name": "Springpad",
-        "url": "https://springpad.com/delete-account.action",
-        "difficulty": "easy",
-        "domains": [
-            "springpad.com"
-        ]
-    },
-
-    {
         "name": "Square Cash",
         "url": "https://cash.me/login?return_to=support",
         "difficulty": "hard",
