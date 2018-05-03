@@ -2327,15 +2327,6 @@
     },
 
     {
-        "name": "FriendFeed",
-        "url": "https://friendfeed.com/account/delete",
-        "difficulty": "easy",
-        "domains": [
-            "friendfeed.com"
-        ]
-    },
-
-    {
         "name": "Fruux",
         "url": "https://fruux.com/account/login/",
         "difficulty": "easy",
