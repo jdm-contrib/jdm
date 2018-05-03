@@ -2291,22 +2291,6 @@
     },
 
     {
-        "name": "Freenode",
-        "url": "https://ezcrypt.it/ML4n#ej6rorotmsxq7jF8ViyGjTVh",
-        "difficulty": "easy",
-        "notes": "/msg NickServ DROP nick password",
-        "notes_fr": "/msg NickServ DROP pseudo mot-de-passe",
-        "notes_de": "/msg NickServ DROP Nutzername Passwort",
-        "notes_pt_br": "/msg NickServ DROP apelido senha",
-        "notes_cat": "/msg NickServ DROP nom_usuari contrasenya",
-        "notes_es": "/msg NickServ DROP nombre_usuario contraseña",
-        "notes_pl": "/msg NickServ DROP nick hasło",
-        "domains": [
-            "ezcrypt.it"
-        ]
-    },
-
-    {
         "name": "Freesound",
         "url": "http://www.freesound.org/home/delete/",
         "difficulty": "medium",
