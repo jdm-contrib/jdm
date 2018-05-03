@@ -4727,15 +4727,6 @@
     },
 
     {
-        "name": "Pixoona",
-        "url": "http://www.pixoona.com/dashboard#user/delete",
-        "difficulty": "easy",
-        "domains": [
-            "pixoona.com"
-        ]
-    },
-
-    {
         "name": "Player FM",
         "url": "https://player.fm/will-miss-you",
         "difficulty": "medium",
