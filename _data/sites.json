@@ -5965,7 +5965,7 @@
 
     {
         "name": "Topcoder",
-        "url": "http://www.topcoder.com/help/p=636/",
+        "url": "https://www.topcoder.com/",
         "difficulty": "impossible",
         "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
         "email": "support@topcoder.com",
