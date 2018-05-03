@@ -1002,9 +1002,9 @@
 
     {
         "name": "CiteULike",
-        "url": "http://wiki.citeulike.org/index.php/Accounts#How_do_I_delete_my_account.3F",
+        "url": "http://www.citeulike.org",
         "difficulty": "impossible",
-        "notes": "We don't delete old accounts.",
+        "notes": "We don't delete old accounts. You can however delete your own articles, remove yourself from any groups you're a member of, remove your profile information, clear your watchlist, and delete blog articles.",
         "domains": [
             "citeulike.org"
         ]
