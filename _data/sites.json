@@ -4185,17 +4185,6 @@
     },
 
     {
-        "name": "My Opera",
-        "url": "https://my.opera.com/USERNAME/account/delete",
-        "difficulty": "easy",
-        "notes": "Replace <code>USERNAME</code> with your My Opera username in the URL.",
-        "notes_pl": "W podanym odnośniku zastąp <code>USERNAME</code> swoją nazwą użytkownika w usłudze My Opera",
-        "domains": [
-            "opera.com"
-        ]
-    },
-
-    {
         "name": "myJdownloader",
         "url": "http://my.jdownloader.org/",
         "difficulty": "easy",
