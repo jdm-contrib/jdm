@@ -319,15 +319,6 @@
     },
 
     {
-        "name": "App.net",
-        "url": "https://account.app.net/settings/delete/",
-        "difficulty": "easy",
-        "domains": [
-            "app.net"
-        ]
-    },
-
-    {
         "name": "AppFog",
         "url": "https://groups.google.com/forum/#!topic/appfog-users/H9AkHjHFfZk",
         "difficulty": "hard",
