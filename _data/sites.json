@@ -3461,16 +3461,6 @@
     },
 
     {
-        "name": "Kippt",
-        "url": "https://kippt.com/accounts/delete/",
-        "difficulty": "easy",
-        "notes": "Click 'Account deletion page' at the bottom of the account settings page.",
-        "domains": [
-            "kippt.com"
-        ]
-    },
-
-    {
         "name": "Kit.com",
         "url": "https://kit.com/terms#contact",
         "difficulty": "hard",
