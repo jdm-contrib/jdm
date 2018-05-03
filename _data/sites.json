@@ -2193,15 +2193,6 @@
     },
 
     {
-        "name": "Forrst",
-        "url": "http://forrst.com/settings",
-        "difficulty": "easy",
-        "domains": [
-            "forrst.com"
-        ]
-    },
-
-    {
         "name": "Fotka",
         "url": "http://www.fotka.pl/ustawienia/konto_usun",
         "difficulty": "medium",
