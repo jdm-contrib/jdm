@@ -5357,13 +5357,9 @@
 
     {
         "name": "Slideshare",
-        "url": "http://help.slideshare.com/entries/57912-How-do-I-delete-my-SlideShare-account-",
+        "url": "https://www.linkedin.com/help/slideshare/answer/53671?query=delete%20account",
         "difficulty": "easy",
-        "notes": "A direct link is not available as it is based on your username.",
-        "notes_fr": "Un lien direct n'est pas disponible comme le système est basé sur votre pseudo.",
-        "notes_pt_br": "Um link direto não está disponível e é baseado no seu usuário.",
-        "notes_cat": "No hi ha un enllaç directe ja que aquest està basat en el seu nom d'usuari.",
-        "notes_es": "No hay un enlace directo ya que éste está basado en tu nombre de usuario.",
+        "notes": "Sign in to SlideShare, move your cursor over your photo in the top right and select Account Settings, click the Change Password tab on the left, click Delete Account, click 'Yes, delete my account', enter your password and select applicable reasons for deleting this account, then click Delete Account. Note: If you created your SlideShare account through LinkedIn, you'll have to close your LinkedIn account.",
         "domains": [
             "slideshare.com"
         ]
