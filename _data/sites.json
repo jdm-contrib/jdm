@@ -3136,19 +3136,6 @@
     },
 
     {
-        "name": "InfiBot",
-        "url": "https://infibot.com/",
-        "difficulty": "hard",
-        "notes": "Email customer support. Requests are handled within 48 hours.",
-        "notes_pl": "Napisz mail do działu obsługi. Zgłoszenia są obsługiwane w ciągu 48 godzin.",
-        "notes_fr": "Contactez le support du site. Les demandes sont gérés pendant 48 heures.",
-        "email": "customersupport@infibot.com",
-        "domains": [
-            "infibot.com"
-        ]
-    },
-
-    {
         "name": "Ingress",
         "url": "https://support.ingress.com/hc/en-us/articles/206618198-I-want-to-delete-my-account",
         "difficulty": "hard",
