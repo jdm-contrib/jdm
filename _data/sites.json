@@ -3324,15 +3324,6 @@
     },
 
     {
-        "name": "Justin.tv",
-        "url": "http://www.justin.tv/user/close_account",
-        "difficulty": "easy",
-        "domains": [
-            "justin.tv"
-        ]
-    },
-
-    {
         "name": "Keepa",
         "url": "https://keepa.com/#!channels",
         "difficulty": "easy",
