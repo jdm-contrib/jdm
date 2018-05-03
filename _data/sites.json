@@ -2890,16 +2890,6 @@
     },
 
     {
-        "name": "Hide My Ass Mail",
-        "url": "http://www.hidemyass.com/anonymous-email/inbox/settings",
-        "difficulty": "easy",
-        "notes": "The website automatically deletes your account after a predetermined time",
-        "domains": [
-            "hidemyass.com"
-        ]
-    },
-
-    {
         "name": "HighBeam Research",
         "url": "http://www.highbeam.com/Account/Cancel",
         "difficulty": "easy",
