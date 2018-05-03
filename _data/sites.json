@@ -1056,7 +1056,7 @@
 
     {
         "name": "ClickAndBuy",
-        "url": "https://customer.eu.clickandbuy.com/surfer/spring/settings-terminateaccount-flow",
+        "url": "http://clickandbuy.com/faqs",
         "difficulty": "easy",
         "notes": "Login to your account, then click 'delete account' on the page.",
         "notes_fr": "Connectez-vous et cliquez sur « delete account ».",
