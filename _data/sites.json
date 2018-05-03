@@ -2490,15 +2490,9 @@
 
     {
         "name": "Glassdoor",
-        "url": "http://www.glassdoor.com/about/contact_input.htm?opt=cc",
-        "difficulty": "hard",
-        "notes": "Contact customer services and request deletion.",
-        "notes_fr": "Contactez le support pour supprimer votre compte.",
-        "notes_de": "Kontaktiere den Kundensupport und beantrage die Löschung",
-        "notes_it": "Contatta il servizio clienti e richiedi la cancellazione.",
-        "notes_pt_br": "Contate a assistência ao cliente e peça a remoção.",
-        "notes_cat": "Contacti amb assistència al client i demani que esborrin el compte.",
-        "notes_es": "Contacta con asistencia al cliente y pide que borren tu cuenta.",
+        "url": "https://help.glassdoor.com/article/Delete-my-user-account/en_US",
+        "difficulty": "easy",
+        "notes": "Sign in to Glassdoor, click the Glassdoor profile icon in the upper-right-hand side of the page, click Account in the dropdown menu, scroll to the bottom of the page and click Delete Account, and confirm deletion of your account by clicking Delete Account again.",
         "domains": [
             "glassdoor.com"
         ]
