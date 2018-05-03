@@ -5378,8 +5378,9 @@
 
     {
         "name": "SmartRecruiters",
-        "url": "http://help.smartrecruiters.com/customer/portal/articles/1498239-how-can-i-close-my-account-",
-        "difficulty": "hard",
+        "url": "https://help.smartrecruiters.com/Getting_Started/User_settings/How_do_I_close_my_user_account%3F",
+        "difficulty": "impossible",
+        "notes": "You can deactivate your user account, but you cannot delete it.",
         "domains": [
             "smartrecruiters.com"
         ]
