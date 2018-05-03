@@ -3291,21 +3291,6 @@
     },
 
     {
-        "name": "JoliCloud / JoliDrive",
-        "url": "https://drive.jolicloud.com/#/settings/account",
-        "difficulty": "easy",
-        "notes": "Click 'Delete Account' at the botom of the account preference page",
-        "notes_fr": "Cliquez 'Supprimer mon compte' en bas de la page.",
-        "notes_it": "Clicca 'Delete Account' in fondo alla pagina delle preferenze.",
-        "notes_pt_br": "Clique em 'Delete Accout' no final da página de preferências da conta",
-        "notes_cat": "Cliqui a 'Delete Accout' al final de la pàgina de preferències del compte",
-        "notes_ces": "Clique en'Delete Accout' al final de la página de preferencias de la cuenta",
-        "domains": [
-            "jolicloud.com"
-        ]
-    },
-
-    {
         "name": "Jolla Account",
         "url": "https://account.jolla.com/profile/settings/confirm_delete_profile",
         "difficulty": "easy",
