@@ -1726,8 +1726,9 @@
 
     {
         "name": "Dropmark",
-        "url": "http://support.dropmark.com/customer/portal/questions/564826-deleting-my-account",
-        "difficulty": "hard",
+        "url": "https://support.dropmark.com/article/92-how-do-i-delete-my-account",
+        "difficulty": "medium",
+        "notes": "Personal accounts can be deleted from the \"Danger Zone\" section at the bottom of your <a href=\"https://app.dropmark.com/account\">Account page</a>. Note: Before deleting your personal account, you must first <a href=\"https://support.dropmark.com/article/53-transferring-collection-ownership\">transfer ownership</a> or <a href=\"https://support.dropmark.com/article/20-deleting-a-collection\">delete all collections</a> owned by your account.",
         "domains": [
             "dropmark.com"
         ]
