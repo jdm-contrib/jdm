@@ -2358,8 +2358,9 @@
 
     {
         "name": "Gamespot",
-        "url": "https://gamespot.custhelp.com/app/ask",
+        "url": "https://www.gamespot.com/help/#toc-0-14",
         "difficulty": "hard",
+        "email": "support@gamespot.com",
         "notes": "Account deletion requires contacting Customer Support.",
         "notes_fr": "Pour supprimer votre compte contactez le support.",
         "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
