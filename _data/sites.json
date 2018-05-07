@@ -1918,6 +1918,16 @@
     },
 
     {
+        "name": "Epic Games",
+        "url": "http://fortnitehelp.epicgames.com/customer/en/portal/articles/2937300-how-do-i-delete-my-epic-account-",
+        "difficulty": "hard",
+        "notes": "You must contact them <a href=\"http://fortnitehelp.epicgames.com/customer/portal/emails/new\">via their contact form</a>.",
+        "domains": [
+            "epicgames.com"
+        ]
+    },
+
+    {
         "name": "eProject.me",
         "url": "http://eproject.me",
         "difficulty": "hard",
