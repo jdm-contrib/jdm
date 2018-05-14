@@ -421,6 +421,16 @@
             "audiomack.com"
         ]
     },
+    
+    {
+        "name": "Autodesk",
+        "url": "https://knowledge.autodesk.com/contact-support/websupport/account-deletion",
+        "difficulty": "hard",
+        "notes": "Fill out the form to request for your account to be deleted.",
+        "domains": [
+            "autodesk.com"
+        ]
+    },
 
     {
         "name": "AutoScout24",
@@ -3504,6 +3514,17 @@
             "kinja.com"
         ]
     },
+    
+    {
+        "name": "Lingvist",
+        "url": "https://lingvist.com/forum/topic/32/how-to-and-faq/4",
+        "email": "hello@lingvist.io",
+        "difficulty": "hard",
+        "notes": "You must contact Lingvist to request account deletion.",
+        "domains": [
+            "lingvist.com"
+        ]
+    },
 
     {
         "meta": "popular",
@@ -4236,6 +4257,17 @@
         "notes_fr": "Cochez la case pour confirmer, puis cliquez « Change ».",
         "domains": [
             "noip.com"
+        ]
+    },
+    
+    {
+        "name": "The Noun Project",
+        "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
+        "email": "info@thenounproject.com",
+        "difficulty": "hard",
+        "notes": "'Email us at info@thenounproject.com and we'll deactivate your account.'",
+        "domains": [
+            "thenounproject.com"
         ]
     },
 
