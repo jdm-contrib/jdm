@@ -402,7 +402,15 @@
             "assembla.com"
         ]
     },
-
+    
+  {
+        "name": "Aternos",
+        "url": "https://aternos.org/close/",
+        "difficulty": "easy",
+        "domains": [
+            "aternos.org"
+        ]
+    },
     {
         "name": "Atlassian",
         "url": "https://id.atlassian.com/manage/close-account",
