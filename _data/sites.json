@@ -308,6 +308,16 @@
             "ankiweb.net"
         ]
     },
+    
+    {
+        "name": "Any.do",
+        "url": "https://support.any.do/hc/en-us/articles/202759291-How-can-I-delete-my-account-",
+        "difficulty": "medium",
+        "notes": "You can only delete your account via the mobile app: install the app, log in, click Profile, click Delete Account.",
+        "domains": [
+            "any.do"
+        ]
+    },
 
     {
         "name": "AOL / Instant Messenger",
