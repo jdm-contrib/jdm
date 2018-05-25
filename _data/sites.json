@@ -5209,17 +5209,6 @@
             "sedo.com"
         ]
     },
-    
-    {
-        "name": "SpigotMC",
-        "url": "https://www.spigotmc.org/threads/how-can-i-delete-my-account.298730",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account you can only deactivate your account. Go for this to your profile and click the report button on your profile and write delete me and wait.",
-        "notes_de": "Du kannst deinen Account nicht komplett löschen sondern nur deaktivieren. Gehe dazu auf dein Profil und klicke den Reportbutton auf deinem Profil und schreibe delete me",
-        "domains": [
-            "spigotmc.org"
-        ]
-    },
 
     {
         "name": "ShareLaTeX",
@@ -5498,6 +5487,16 @@
         "notes": "Scroll to the bottom of page and click on the 'Delete my account and all of my presentations'.",
         "domains": [
             "speakerdeck.com"
+        ]
+    },
+    {
+        "name": "SpigotMC",
+        "url": "https://www.spigotmc.org/threads/how-can-i-delete-my-account.298730",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account you can only deactivate your account. Go for this to your profile and click the report button on your profile and write delete me and wait.",
+        "notes_de": "Du kannst deinen Account nicht komplett löschen sondern nur deaktivieren. Gehe dazu auf dein Profil und klicke den Reportbutton auf deinem Profil und schreibe delete me",
+        "domains": [
+            "spigotmc.org"
         ]
     },
 
