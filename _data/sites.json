@@ -5209,6 +5209,17 @@
             "sedo.com"
         ]
     },
+    
+    {
+        "name": "SpigotMC",
+        "url": "https://www.spigotmc.org/threads/how-can-i-delete-my-account.298730",
+        "difficulty": "hard",
+        "notes": "Go to your profil and click the report button on your porfil and write delete me and wait.",
+        "notes_de": "Gehe zu deinem Profil und klicke den Reportbutton auf deinem Profil und schreibe delete me",
+        "domains": [
+            "spigotmc.org"
+        ]
+    },
 
     {
         "name": "ShareLaTeX",
