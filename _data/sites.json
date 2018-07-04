@@ -2399,6 +2399,16 @@
     },
 
     {
+        "name": "GetCreditScore",
+        "url": "https://www.getcreditscore.com.au/my-preferences",
+        "difficulty": "easy",
+        "notes": "Select the Delete My Account option on the preferences page and click submit.",
+        "domains": [
+            "getcreditscore.com.au"
+        ]
+    },
+
+    {
         "name": "GFace",
         "url": "https://crytek.kayako.com/Tickets/Submit",
         "difficulty": "hard",
