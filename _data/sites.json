@@ -2713,6 +2713,16 @@
     },
 
     {
+        "name": "GroupMe",
+        "url": "https://app.groupme.com/profile",
+        "difficulty": "easy",
+        "notes": "Go to the GroupMe profile page, then click 'Delete GroupMe Account'. If you are the owner of any groups, you must transfer them to someone else first.",
+        "domains": [
+            "groupme.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Groupon",
         "url": "https://groupon.com/customer_support",
