@@ -1465,6 +1465,17 @@
     },
 
     {
+        "name": "Depositphotos",
+        "url": "depositphotos.com",
+        "difficulty": "hard",
+        "notes": "Enter live chat in the other department and request cancellation of your account or if it is not available use the contact form.",
+        "notes_it": "Entra in live chat nel reparto altro e richiedi la cancellazione del tuo account o se non è disponibile utilizza il modulo di contatto.",
+        "domains": [
+            "depositphotos.com"
+        ]
+    },
+
+    {
         "name": "Desk.com",
         "url": "desk.com",
         "difficulty": "medium",
