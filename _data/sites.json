@@ -3193,15 +3193,9 @@
 
     {
         "name": "iTunes / Apple ID",
-        "url": "http://www.apple.com/support/itunes/contact/",
-        "difficulty": "hard",
-        "notes": "Contact customer services. You will lose access to any media you haven’t downloaded to your computer.",
-        "notes_fr": "Contatcez le support. Vous perdrez l'accès à tout le contenu non téléchargé.",
-        "notes_it": "Contatta il servizio clienti. Perderai l'accesso a qualsiasi file di cui non hai una copia sul computer.",
-        "notes_de": "Kontaktiere den Kundenservice. Du wirst deinen Zugang zu allen Medien verlieren, die du nicht auf deinen Computer heruntergeladen hast.",
-        "notes_cat": "Contacta amb el servei d'assistència. Perdrà l'accés a qualsevol contingut que no hagi descarregat al seu ordinador.",
-        "notes_es": "Contacta con el servicio de asistencia. Perderás el acceso a cualquier contenido que no hayas descargado en tu ordenador.",
-        "notes_pl": "Skontaktuj się z obsługą techniczną. Stracisz dostęp do wszystkich plików, których nie pobrałeś na swoje urządzenie.",
+        "url": "https://privacy.apple.com/",
+        "difficulty": "easy",
+        "notes": "Login with your Apple ID, and then click Get Started under Delete Account",
         "domains": [
             "apple.com"
         ]
