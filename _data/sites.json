@@ -1959,9 +1959,9 @@
 
     {
         "name": "Epic Games",
-        "url": "http://fortnitehelp.epicgames.com/customer/en/portal/articles/2937300-how-do-i-delete-my-epic-account-",
+        "url": "https://epicgames.helpshift.com/a/epic-accounts/?s=epic-account-support&f=how-can-i-disable-my-epic-account&l=en&contact=1",
         "difficulty": "hard",
-        "notes": "You must contact them <a href=\"http://fortnitehelp.epicgames.com/customer/portal/emails/new\">via their contact form</a>.",
+        "notes": "Select 'Delete Epic Games Account' from the dropdown in the contact page",
         "domains": [
             "epicgames.com"
         ]
