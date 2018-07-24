@@ -1456,7 +1456,7 @@
     {
         "name": "Delta Airlines (SkyMiles)",
         "url": "http://www.delta.com/contactus/pages/comment_complaint/index.jsp",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "You can not delete your account on the site. You must use the linked form. Then select SkyMiles → Update SkyMiles Account and request them to close your account.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte sur le site. Vous devez utiliser le formulaire lié. Ensuite, sélectionnez SkyMiles → Mise à jour compte SkyMiles et de leur demander de fermer votre compte.",
         "domains": [
@@ -1478,7 +1478,7 @@
     {
         "name": "Desk.com",
         "url": "desk.com",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "email": "support@desk.com",
         "notes": "Required to send e-mail, but it is quickly responded.",
         "domains": [
@@ -1690,11 +1690,11 @@
     {
         "name": "DOWN",
         "url": "https://www.downapp.com/settings",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "domains": [
             "downapp.com"
         ],
-        "notes": "You need to remove the App in your Facebook settings and email feedback@downapp.com to delete your data.",
+        "notes": "You can delete it in the settings page",
         "email": "feedback@downapp.com"
     },
 
@@ -1872,7 +1872,7 @@
     {
         "name": "Edpuzzle",
         "url": "https://edpuzzle.com",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it"
     },
 
@@ -1959,9 +1959,9 @@
 
     {
         "name": "Epic Games",
-        "url": "http://fortnitehelp.epicgames.com/customer/en/portal/articles/2937300-how-do-i-delete-my-epic-account-",
+        "url": "https://epicgames.helpshift.com/a/epic-accounts/?s=epic-account-support&f=how-can-i-disable-my-epic-account&l=en&contact=1",
         "difficulty": "hard",
-        "notes": "You must contact them <a href=\"http://fortnitehelp.epicgames.com/customer/portal/emails/new\">via their contact form</a>.",
+        "notes": "Select 'Delete Epic Games Account' from the dropdown in the contact page and submit a request. Support will respond to you in about 5 days asking for confirmation",
         "domains": [
             "epicgames.com"
         ]
@@ -2599,7 +2599,7 @@
     {
         "name": "Good.Co",
         "url": "http://www.good.co/",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "On the top bar, click on your photo, go to 'Settings', go to 'Miscellaneous' and then hit 'Cancel Account'.",
         "notes_fr": "Dans le menu en haut, cliquez sur votre photo, allez dans vos parametres, allez dans le menu « Miscellaneous » et puis cliquez sur « Cancel Account ».",
         "domains": [
@@ -3193,15 +3193,9 @@
 
     {
         "name": "iTunes / Apple ID",
-        "url": "http://www.apple.com/support/itunes/contact/",
-        "difficulty": "hard",
-        "notes": "Contact customer services. You will lose access to any media you haven’t downloaded to your computer.",
-        "notes_fr": "Contatcez le support. Vous perdrez l'accès à tout le contenu non téléchargé.",
-        "notes_it": "Contatta il servizio clienti. Perderai l'accesso a qualsiasi file di cui non hai una copia sul computer.",
-        "notes_de": "Kontaktiere den Kundenservice. Du wirst deinen Zugang zu allen Medien verlieren, die du nicht auf deinen Computer heruntergeladen hast.",
-        "notes_cat": "Contacta amb el servei d'assistència. Perdrà l'accés a qualsevol contingut que no hagi descarregat al seu ordinador.",
-        "notes_es": "Contacta con el servicio de asistencia. Perderás el acceso a cualquier contenido que no hayas descargado en tu ordenador.",
-        "notes_pl": "Skontaktuj się z obsługą techniczną. Stracisz dostęp do wszystkich plików, których nie pobrałeś na swoje urządzenie.",
+        "url": "https://privacy.apple.com/",
+        "difficulty": "easy",
+        "notes": "Login with your Apple ID, and then click Get Started under Delete Account",
         "domains": [
             "apple.com"
         ]
@@ -3738,7 +3732,7 @@
     {
         "name": "MailChimp",
         "url": "http://kb.mailchimp.com/article/how-do-i-close-my-account",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "Account Settings → Account Settings Drop-down → Close my account → Type DELETE and press Delete Account button.",
         "notes_pl": "Account Settings → Account Settings Drop-down → Close my account → Wpisz DELETE i kliknij Delete Account.",
         "notes_fr": "« Account Settings » → menu déroulant « Account Settings » → « Close my account » → Tapez « DELETE » et appuyez sur « Delete Account ».",
@@ -3785,9 +3779,9 @@
     {
         "meta": "popular",
         "name": "Match",
-        "url": "http://uk.match.com/myaccount/myunsubscription.php",
-        "difficulty": "medium",
-        "notes": "Login -> Suspend Account -> Enter email & password -> Save -> Delete Account",
+        "url": "https://www.match.com/resign/resign.aspx",
+        "difficulty": "impossible",
+        "notes": "You can only ever deactivate your account",
         "domains": [
             "match.com"
         ]
@@ -4736,7 +4730,7 @@
     {
         "name": "Player FM",
         "url": "https://player.fm/will-miss-you",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "In upper right, click the settings button and select \"Help/FAQ\". Select option \"How do I delete my account and leave Player FM?\" - link will be below. Type \"delete\" in the box and click the button to finalize.",
         "domains": [
             "player.fm"
@@ -5223,13 +5217,13 @@
 
     {
         "name": "RunKeeper",
-        "url": "http://runkeeper.com/I-Love-RunKeeper",
-        "difficulty": "medium",
-        "notes": "After clicking the button, you will have to enter your password, complete a capcha, click another button, AND a confirmation modal dialog.",
-        "notes_it": "Dopo aver cliccato il bottone dovrai: inserire la tua password, completare un capcha, clicare un altro bottone E un dialogo di conferma.",
-        "notes_pt_br": "Após clicar no botão, você terá que digitar sua senha, completar o captcha, clicar em outro botão, E a confirmar.",
-        "notes_cat": "Després de clicar al botó, haurà d'entrar la contrasenya i completar el 'captcha', clicar un altre botó i confirmar a la finestra de diàleg.",
-        "notes_es": "Después de pulsar el botón, deberás entrar la contraseña y completar el 'captcha', pulsar otro botón y confirmar en la ventana de diálogo.",
+        "url": "https://runkeeper.com/delete-account?confirm",
+        "difficulty": "easy",
+        "notes": "Enter your password, select a reason for deletion, complete the captcha, press the delete button and then confirm it in the dialog.",
+        "notes_it": "Inserire la password, selezionare un motivo per la cancellazione, completare il captcha, premere il pulsante Elimina e quindi confermare nella finestra di dialogo.",
+        "notes_pt_br": "Digite sua senha, selecione um motivo para a exclusão, preencha o captcha, pressione o botão delete e confirme-o na caixa de diálogo.",
+        "notes_cat": "Introduïu la vostra contrasenya, seleccioneu un motiu d'eliminació, completeu el captcha, premeu el botó Suprimeix i després confirmeu-lo al diàleg.",
+        "notes_es": "Ingrese su contraseña, seleccione un motivo para la eliminación, complete el captcha, presione el botón Eliminar y luego confírmelo en el cuadro de diálogo.",
         "domains": [
             "runkeeper.com"
         ]
@@ -5792,7 +5786,7 @@
     {
         "name": "SurveyMonkey",
         "url": "http://help.surveymonkey.com/contact-us",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "You have to contact them selecting the issue Login & account details and the issue details Deleting my account",
         "domains": [
             "surveymonkey.com"
@@ -5843,7 +5837,7 @@
     {
         "name": "Tango",
         "url": "http://support.tango.me/entries/23534011-How-do-I-delete-my-Tango-account-",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "In order to delete your account, you have to fill out the form.",
         "domains": [
             "tango.me"
@@ -6618,7 +6612,7 @@
     {
         "name": "workupload",
         "url": "https://workupload.com/contact",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "Write a short mail using their web contact form.",
         "domains": [
             "workupload.com"
@@ -6712,7 +6706,7 @@
         "name": "YouTube",
         "meta": "popular",
         "url": "https://myaccount.google.com/deleteservices",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "You can request your data copy before you delete YouTube account.",
         "domains": [
             "youtube.com"
