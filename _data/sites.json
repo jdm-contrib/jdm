@@ -2987,7 +2987,7 @@
         "name": "Humble Bundle",
         "url": "https://www.humblebundle.com/",
         "difficulty": "hard",
-        "notes": "You have to contact them to request account deletion.",
+        "notes": "You have to contact them to request account deletion and provide three or more transaction IDs from previous orders.",
         "domains": [
             "humblebundle.com"
         ]
