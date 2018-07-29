@@ -6591,14 +6591,9 @@
     {
         "meta": "popular",
         "name": "WordPress.com",
-        "url": "http://en.support.wordpress.com/deleting-accounts/",
-        "difficulty": "impossible",
-        "notes": "“WordPress.com accounts cannot be deleted.” The best you can do is remove any identifying data from your account.",
-        "notes_fr": "Les comptes WordPress ne peuvent pas être supprimé. La meilleure chose à faire est de supprimer vos données perso.",
-        "notes_it": "'Gli account WordPress.com non possono essere eliminati.'. Il massimo che puoi fare è eliminare qualsiasi informazione dall'account.",
-        "notes_pt_br": "“Contas no WordPress.com não podem ser deletadas.” O melhor que você pode fazer é remover qualquer dado pessoal de sua conta.",
-        "notes_cat": "“Els comptes de WordPress.com no poden ser esborrats.” La  millor millor opció és esborrar qualsevol dada personal del compte.",
-        "notes_es": "”Las cuentas de WordPress.com no pueden ser borradas.” La mejor mejor opción es borrar todos los datos personales de la cuenta.",
+        "url": "https://wordpress.com/me/account",
+        "difficulty": "easy",
+        "notes": "You can permanently close your WordPress.com account from your Account Settings screen by clicking on 'Close your account permanently'",
         "domains": [
             "wordpress.com"
         ]
