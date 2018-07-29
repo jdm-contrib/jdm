@@ -2984,6 +2984,16 @@
     },
 
     {
+        "name": "Humble Bundle",
+        "url": "https://www.humblebundle.com/",
+        "difficulty": "hard",
+        "notes": "You have to contact them to request account deletion.",
+        "domains": [
+            "humblebundle.com"
+        ]
+    },
+
+    {
         "name": "Hypejar",
         "url": "http://www.hypejar.com/settings/account",
         "difficulty": "easy",
