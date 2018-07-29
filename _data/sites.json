@@ -2542,13 +2542,8 @@
     {
         "name": "GMX",
         "url": "http://www.gmx.net/",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account, but you can deactivate it. (Start →  Mein Account →  Account stilllegen)",
-        "notes_de": "Du kannst deinen Account nicht löschen, aber du kannst ihn deaktivieren (Start →  Mein Account →  Account stilllegen)",
-        "notes_it": "Non puoi cancellare il tuo account, ma puoi disattivarlo. (Start →  Mein Account →  Account stilllegen)",
-        "notes_pt_br": "Você não pode deletar sua conta, mas você pode desativá-la. (Start →  Mein Account →  Account stilllegen)",
-        "notes_cat": "Vosté no pot esborrar el seu compte, però pot desactivar-lo. (Start →  Mein Account →  Account stilllegen)",
-        "notes_es": "No puedes borrar tu cuenta, pero puedes desactivarla. (Start →  Mein Account →  Account stilllegen)",
+        "difficulty": "easy",
+        "notes": "You can delete your account, by following the steps provided here: 'https://hilfe.gmx.net/account/verwalten/loeschen.html'",
         "domains": [
             "gmx.net"
         ]
