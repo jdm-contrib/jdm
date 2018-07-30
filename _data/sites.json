@@ -2984,6 +2984,16 @@
     },
 
     {
+        "name": "Humble Bundle",
+        "url": "https://www.humblebundle.com/",
+        "difficulty": "hard",
+        "notes": "You must <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\">contact Humble Bundle via their online contact form</a> to request account deletion and provide three or more transaction IDs from previous orders.",
+        "domains": [
+            "humblebundle.com"
+        ]
+    },
+
+    {
         "name": "Hypejar",
         "url": "http://www.hypejar.com/settings/account",
         "difficulty": "easy",
