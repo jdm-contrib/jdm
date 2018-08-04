@@ -2986,8 +2986,8 @@
     {
         "name": "Humble Bundle",
         "url": "https://www.humblebundle.com/",
-        "difficulty": "hard",
-        "notes": "You must <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\">contact Humble Bundle via their online contact form</a> to request account deletion and provide three or more transaction IDs from previous orders.",
+        "difficulty": "impossible",
+        "notes": "You must <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\">contact Humble Bundle via their online contact form</a> to request account deletion and provide three or more transaction IDs from previous orders. They only deactivate your account though and state you can get back at any time.",
         "domains": [
             "humblebundle.com"
         ]
