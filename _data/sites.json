@@ -784,15 +784,6 @@
     },
 
     {
-        "name": "Boxee",
-        "url": "http://bbx.boxee.tv/user/delete",
-        "difficulty": "easy",
-        "domains": [
-            "boxee.tv"
-        ]
-    },
-
-    {
         "name": "British Airways",
         "url": "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
         "difficulty": "hard",
