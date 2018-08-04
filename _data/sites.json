@@ -1478,15 +1478,6 @@
     },
 
     {
-        "name": "Desktoply",
-        "url": "http://desktop.ly/settings",
-        "difficulty": "easy",
-        "domains": [
-            "desktop.ly"
-        ]
-    },
-
-    {
         "name": "Desktoppr",
         "url": "https://www.desktoppr.co/settings",
         "difficulty": "easy",
