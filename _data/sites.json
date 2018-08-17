@@ -1106,7 +1106,6 @@
             "coderedweb.com"
         ]
     },
-
     {
         "name": "Code School",
         "url": "https://www.codeschool.com/account/edit",
@@ -1122,7 +1121,19 @@
             "codeschool.com"
         ]
     },
-
+{
+        "name": "Codestunts",
+        "url": "https://codestunts.com/settings/privacy",
+        "difficulty": "easy",
+        "notes": "Accounts are completely removable, you can register again with same e-mail later.",
+        "notes_fr": "Les comptes sont complètement amovibles, vous pouvez vous enregistrer à nouveau avec le même e-mail ultérieurement.",
+        "notes_it": "Gli account sono completamente rimovibili, è possibile registrarsi di nuovo con la stessa e-mail in seguito.",
+        "notes_es": "Las cuentas son completamente extraíbles, puede volver a registrarse con el mismo correo electrónico más adelante.",
+        "domains": [
+            "codestunts.com",
+            "codestunts.net"
+        ]
+    },
     {
         "name": "Codecademy",
         "url": "https://www.codecademy.com/account/delete_acct",
