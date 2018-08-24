@@ -348,6 +348,16 @@
     },
 
     {
+        "name": "The Artist Union",
+        "url": "https://theartistunion.com/dashboard/account",
+        "difficulty": "easy",
+        "notes": "Login to your account first. Click 'Delete Account' and confirm by clicking 'Ok'.",
+        "domains": [
+            "theartistunion.com"
+        ]
+    },
+
+    {
         "name": "Artsy",
         "url": "http://artsy.net/user/delete",
         "difficulty": "easy",
