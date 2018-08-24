@@ -348,6 +348,16 @@
     },
 
     {
+        "name": "The Artist Union",
+        "url": "https://theartistunion.com/dashboard/account",
+        "difficulty": "easy",
+        "notes": "Login to your account first. Click 'Delete Account' and confirm by clicking 'Ok'.",
+        "domains": [
+            "theartistunion.com"
+        ]
+    },
+
+    {
         "name": "Artsy",
         "url": "http://artsy.net/user/delete",
         "difficulty": "easy",
@@ -5584,19 +5594,6 @@
     },
 
     {
-        "name": "Spring.me",
-        "meta": "popular",
-        "url": "https://springme.zendesk.com/hc/en-us/articles/200234190-How-to-disable-your-Spring-me-account",
-        "difficulty": "medium",
-        "notes": "Your account can't be deleted. It can be disabled using the link, but your data will stay inactive on servers.",
-        "notes_de": "Dein Account kann nicht gelöscht werden. Er kann deaktiviert werden, aber deine Daten werden inaktiv auf den Servern bleiben.",
-        "domains": [
-            "springme.zendesk.com",
-            "spring.me"
-        ]
-    },
-
-    {
         "name": "Square Cash",
         "url": "https://cash.me/login?return_to=support",
         "difficulty": "hard",
@@ -6649,20 +6646,6 @@
         "notes": "On the above URL, click the 'Delete your Yammer account' link in the topright and confirm.",
         "domains": [
             "yammer.com"
-        ]
-    },
-
-    {
-        "name": "Yatado",
-        "url": "http://about.yatedo.com/manage-your-digital-id/",
-        "difficulty": "medium",
-        "notes": "You must request deletion of your Yatado data before deleting the related social account.",
-        "notes_it": "Devi richiedere l'eliminazione dei tuoi dati Yatado prima di eliminare il relativo account social.",
-        "notes_pt_br": "Você deve pedir a remoção de seus dados antes de deletar sua conta social.",
-        "notes_cat": "Haurà de demanar l'eliminació de les dades de Yatado abans d'esborrar el compte.",
-        "notes_es": "Deberás pedir la eliminación de los datos de Yatado antes de borrar la cuenta.",
-        "domains": [
-            "yatedo.com"
         ]
     },
 
