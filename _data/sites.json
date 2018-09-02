@@ -4458,6 +4458,17 @@
     },
 
     {
+        "name": "Overleaf",
+        "url": "https://www.overleaf.com/help/299-how-do-i-delete-my-overleaf-account",
+        "difficulty": "hard",
+        "notes": "You must contact support directly and ask them to delete your account.",
+        "email": "privacy@overleaf.com",
+        "domains": [
+            "overleaf.com"
+        ]
+    },
+
+    {
         "name": "Overstock",
         "url": "https://help.overstock.com/help/s/article/Customer-Care-Contact-Information",
         "difficulty": "hard",
