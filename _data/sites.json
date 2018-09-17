@@ -72,7 +72,7 @@
             "abebooks.com"
         ]
     },
-    
+
     {
         "name": "Abload",
         "url": "http://abload.de/settings.php",
@@ -758,7 +758,7 @@
             "bookbub.com"
         ]
     },
-    
+
     {
         "name": "Booking",
         "url": "https://secure.booking.com/login.en-us.html?tmpl=profile/delete_account",
@@ -888,7 +888,7 @@
             "cacoo.com"
         ]
     },
-    
+
     {
         "name": "CafePress",
         "url": "https://members.cafepress.com/account/closeaccount.aspx",
@@ -1388,7 +1388,7 @@
             "crypto.cat"
         ]
     },
-    
+
     {
         "name": "CryptPad",
         "url": "https://cryptpad.fr/settings/",
@@ -1480,7 +1480,7 @@
             "deezer.com"
         ]
     },
-    
+
     {
         "name": "Delivery Code",
         "difficulty": "medium",
@@ -1744,7 +1744,7 @@
             "dragdis.com"
         ]
     },
-    
+
     {
         "name": "Dreamwidth",
         "url": "https://www.dreamwidth.org/accountstatus",
@@ -2329,7 +2329,7 @@
             "freelancer.com"
         ]
     },
-    
+
     {
         "name": "Freeletics",
         "url": "https://www.freeletics.com/en/settings/account",
@@ -4813,7 +4813,7 @@
             "player.fm"
         ]
     },
-    
+
     {
         "name": "PlayPosit",
         "difficulty": "easy",
@@ -6766,7 +6766,7 @@
             "youtube.com"
         ]
     },
-    
+
     {
         "name": "Yummly",
         "url": "https://www.yummly.com/settings",
