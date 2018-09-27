@@ -4925,6 +4925,17 @@
     },
 
     {
+        "name": "Premera",
+        "url": "https://www.premera.com/",
+        "email": "support@premera.com",
+        "difficulty": "hard",
+        "notes": "Email Premera's support team to request account deletion.",
+        "domains": [
+            "premera.com"
+        ]
+    },
+
+    {
         "name": "Premiumize.me",
         "url": "https://www.premiumize.me/deleteaccount",
         "difficulty": "easy",
