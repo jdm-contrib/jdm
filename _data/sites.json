@@ -4879,6 +4879,14 @@
     },
 
     {
+        "name": "Pocket Casts",
+        "url": "https://support.pocketcasts.com/",
+        "difficulty": "hard",
+        "notes": "If the web player was purchased, access to it will be lost as well",
+        "email": "support@shiftyjelly.com"
+    },
+
+    {
         "name": "Pocoyo Club",
         "url": "https://www.pocoyo.com/en/club/account-cancellation",
         "difficulty": "easy",
