@@ -1426,6 +1426,15 @@
     },
 
     {
+        "name": "DansTonChat",
+        "url": "https://danstonchat.com/user/delete.html",
+        "difficulty": "easy",
+        "domains": [
+            "danstonchat.com"
+        ]
+    },
+
+    {
         "name": "Dark Creations",
         "url": "https://www.darkcreations.org/",
         "difficulty": "impossible",
