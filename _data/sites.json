@@ -6739,6 +6739,17 @@
             "wunderlist.com"
         ]
     },
+    
+    {
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com/gdpr-data/",
+        "difficulty": "hard",
+        "notes": "Click 'Data Deletion Request' and fill in the for. Make sure to specify if you want your posts deleted.",
+        "notes_fr": "Cliquez 'Data Deletion Request' et remplissez le formulaire. Assurez-vous de spécifier si vous voulez que vos posts soient supprimés", 
+        "domains":[
+            "xda-developers.com"
+        ]
+    },
 
     {
         "name": "Xing",
