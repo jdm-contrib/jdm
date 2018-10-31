@@ -564,6 +564,15 @@
     },
 
     {
+        "name": "Basin",
+        "url": "http://usebasin.com/users/edit",
+        "difficulty": "easy",
+        "domains": [
+            "usebasin.com"
+        ]
+    },
+
+    {
         "name": "Battle.net",
         "url": "https://eu.battle.net/support/en/ticket/submit",
         "difficulty": "hard",
