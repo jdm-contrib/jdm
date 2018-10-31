@@ -567,6 +567,7 @@
         "name": "Basin",
         "url": "http://usebasin.com/users/edit",
         "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the page and click the 'Completely obliterate all my data' button",
         "domains": [
             "usebasin.com"
         ]
