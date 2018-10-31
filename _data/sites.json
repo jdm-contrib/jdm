@@ -5405,6 +5405,16 @@
     },
 
     {
+        "name": "Scaleway",
+        "url": "https://cloud.scaleway.com/#/account",
+        "difficulty": "easy",
+        "notes": "On the top right of the page, click 'Delete my acocunt'.",
+        "domains": [
+            "scaleway"
+        ]
+    },
+
+    {
         "name": "ScanMyServer",
         "url": "https://scanmyserver.com/?suspend=1",
         "difficulty": "easy",
@@ -5416,16 +5426,6 @@
         "notes_es": "Entra en tu cuenta y sigue las instrucciones en 'Account Suspension'.",
         "domains": [
             "scanmyserver.com"
-        ]
-    },
-
-    {
-        "name": "Scaleway",
-        "url": "https://cloud.scaleway.com/#/account",
-        "difficulty": "easy",
-        "notes": "On the top right of the page, click 'Delete my acocunt'.",
-        "domains": [
-            "scaleway"
         ]
     },
 
