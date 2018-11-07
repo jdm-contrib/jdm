@@ -677,6 +677,16 @@
     },
 
     {
+        "name": "Blinkist",
+        "url": "https://www.blinkist.com/nc/settings/account/",
+        "difficulty": "easy",
+        "notes": "Click 'I want to delete my account' at the bottom of the page.",
+        "domains": [
+            "blinkist.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Blogger",
         "url": "https://support.google.com/blogger/answer/41932",
