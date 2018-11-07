@@ -4731,6 +4731,17 @@
     },
 
     {
+        "name": "Personal Capital",
+        "url": "https://home.personalcapital.com/page/login/app#/settings",
+        "difficulty": "easy",
+        "notes": "Click 'DELETE USER ACCOUNT' at the bottom of the settings page.",
+        "domains": [
+            "www.personalcapital.com",
+            "home.personalcapital.com"
+        ]
+    },
+
+    {
         "name": "Personello Germany",
         "url": "http://de.personello.com/mypersonello/index/feedback",
         "difficulty": "hard",
