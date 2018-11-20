@@ -192,15 +192,6 @@
     },
 
     {
-        "name": "Album Reminder",
-        "url": "http://www.albumreminder.com/usercenter/deleteaccount/",
-        "difficulty": "easy",
-        "domains": [
-            "albumreminder.com"
-        ]
-    },
-
-    {
         "name": "Alibaba",
         "url": "http://www.alibaba.com/help/contact-us.html",
         "difficulty": "hard",
@@ -5169,15 +5160,6 @@
         "notes_es": "Entra en tu cuenta, ve a la página de configuración y pulsa 'I want to delete my account'.",
         "domains": [
             "rainforestqa.com"
-        ]
-    },
-
-    {
-        "name": "Raptr",
-        "url": "http://raptr.com/account/deactivation",
-        "difficulty": "easy",
-        "domains": [
-            "raptr.com"
         ]
     },
 
