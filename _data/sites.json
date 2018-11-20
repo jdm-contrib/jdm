@@ -507,6 +507,16 @@
     },
 
     {
+        "name": "AwardWallet",
+        "url": "https://awardwallet.com/user/delete",
+        "difficulty": "easy",
+        "notes": "You must enter your password and supply a reason for deleting your account",
+        "domains": [
+            "awardwallet.com"
+        ]
+    },
+
+    {
         "name": "Backblaze",
         "url": "https://secure.backblaze.com/user_account.htm",
         "difficulty": "impossible",
