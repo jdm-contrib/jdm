@@ -496,6 +496,17 @@
     },
 
     {
+        "name": "Avira",
+        "url": "https://answers.avira.com/en/question/how-do-i-delete-my-avira-account-12214?sh=true",
+        "difficulty": "hard",
+        "note": "Contact support to request deletion of your account with the email: support@avira.com",
+        "email": "support@avira.com",
+        "domains": [
+            "avira.com"
+        ]
+    },
+
+    {
         "name": "AwardWallet",
         "url": "https://awardwallet.com/user/delete",
         "difficulty": "easy",
@@ -1937,6 +1948,16 @@
     },
 
     {
+        "name": "eddb",
+        "url": "https://eddb.io/contact",
+        "difficulty": "hard",
+        "notes": "Request deletion in the contact form",
+        "domains": [
+            "eddb.io"
+        ]
+    },
+
+    {
         "name": "Edpuzzle",
         "url": "https://edpuzzle.com",
         "difficulty": "hard",
@@ -2062,6 +2083,16 @@
         "notes": "At the bottom of the account settings page there is a Remove Account button",
         "domains": [
             "espn.com"
+        ]
+    },
+
+    {
+        "name": "eToro",
+        "url": "https://www.etoro.com/settings/account",
+        "difficulty": "easy",
+        "notes": "At the bottom of the page, click the button to close your account, select the reason for your deletion and continue to confirm it.",
+        "domains": [
+            "etoro.com"
         ]
     },
 
@@ -5384,6 +5415,16 @@
     },
 
     {
+        "name": "Scaleway",
+        "url": "https://cloud.scaleway.com/#/account",
+        "difficulty": "easy",
+        "notes": "On the top right of the page, click 'Delete my account'.",
+        "domains": [
+            "scaleway.com"
+        ]
+    },
+
+    {
         "name": "ScanMyServer",
         "url": "https://scanmyserver.com/?suspend=1",
         "difficulty": "easy",
@@ -6506,6 +6547,15 @@
         "difficulty": "easy",
         "domains": [
             "vk.com"
+        ]
+    },
+
+    {
+        "name": "Voat",
+        "url": "https://voat.co/Account/Delete",
+        "difficulty": "easy",
+        "domains": [
+            "voat.co"
         ]
     },
 
