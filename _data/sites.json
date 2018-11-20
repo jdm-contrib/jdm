@@ -1941,7 +1941,7 @@
         "name": "eddb",
         "url": "https://eddb.io/contact",
         "difficulty": "hard",
-        "notes": "Reuqest deletion in the contact form",
+        "notes": "Request deletion in the contact form",
         "domains": [
             "eddb.io"
         ]
@@ -2080,7 +2080,7 @@
         "name": "eToro",
         "url": "https://www.etoro.com/settings/account",
         "difficulty": "easy",
-        "notes": "At the bottom of the page, click the button to close your account, select the reason for your deletion and continue to confirm your deletion",
+        "notes": "At the bottom of the page, click the button to close your account, select the reason for your deletion and continue to confirm it.",
         "domains": [
             "etoro.com"
         ]
@@ -5408,9 +5408,9 @@
         "name": "Scaleway",
         "url": "https://cloud.scaleway.com/#/account",
         "difficulty": "easy",
-        "notes": "On the top right of the page, click 'Delete my acocunt'.",
+        "notes": "On the top right of the page, click 'Delete my account'.",
         "domains": [
-            "scaleway"
+            "scaleway.com"
         ]
     },
 
