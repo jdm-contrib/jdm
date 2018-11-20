@@ -3449,6 +3449,16 @@
     },
 
     {
+        "name": "Keybase.io",
+        "url": "https://keybase.io/account/delete_me",
+        "difficulty": "easy",
+        "notes": "Account is deleted instantly, though username might be kept to keep service functioning properly and avoiding impersonation.",
+        "domains": [
+            "keybase.io"
+        ]
+    },
+
+    {
         "name": "Khan Academy",
         "url": "https://www.khanacademy.org/settings",
         "difficulty": "easy",
