@@ -1249,6 +1249,16 @@
     },
 
     {
+        "name": "Codewars",
+        "url": "https://www.codewars.com/users/edit",
+        "difficulty": "easy",
+        "notes": "Go to your 'Account Settings' and scroll to the bottom to find the 'Delete Account' section",
+        "domains": [
+            "codewars.com"
+        ]
+    },
+
+    {
         "name": "Coinbase",
         "url": "https://www.coinbase.com/settings/security_settings",
         "difficulty": "easy",
@@ -1583,6 +1593,16 @@
     },
 
     {
+        "name": "DEV",
+        "url": "https://dev.to/settings/account",
+        "difficulty": "easy",
+        "notes": "Go to your 'Settings'. On the left select 'Account'. You can 'Remove OAuth Associations' and 'Request Account Deletion', the latter via email.",
+        "domains": [
+            "dev.to"
+        ]
+    },
+
+    {
         "name": "DeviantArt",
         "url": "https://www.deviantart.com/settings/deactivation",
         "difficulty": "medium",
@@ -1629,6 +1649,16 @@
         "notes_pl": "Kliknij 'close my account' i potwierdź podając swoje hasło.",
         "domains": [
             "diasp.eu"
+        ]
+    },
+
+    {
+        "name": "Dice",
+        "url": "https://www.dice.com/dashboard/settings",
+        "difficulty": "easy",
+        "notes": "Go to your 'Settings'. Scroll to the bottom to find the 'Delete Account' section.",
+        "domains": [
+            "dice.com"
         ]
     },
 
@@ -6411,6 +6441,16 @@
         "notes_es": "Para borrar tu cuenta, primera deberás cancelar las suscripciones a todos los cursos.",
         "domains": [
             "udemy.com"
+        ]
+    },
+
+    {
+        "name": "Uncubed",
+        "url": "https://uncubed.com/learn/users/edit",
+        "difficulty": "hard",
+        "notes": "You can deactivate your account from 'Settings', but must contact them to terminate your account",
+        "domains": [
+            "uncubed.com"
         ]
     },
 
