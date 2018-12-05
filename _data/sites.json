@@ -6449,6 +6449,7 @@
         "url": "https://uncubed.com/learn/users/edit",
         "difficulty": "hard",
         "notes": "You can deactivate your account from 'Settings', but must contact them to terminate your account",
+        "email": "team@uncubed.com",
         "domains": [
             "uncubed.com"
         ]
