@@ -6225,6 +6225,14 @@
     },
 
     {
+        "name": "Tokopedia",
+        "difficulty": "impossible",
+        "domains": [
+            "tokopedia.com"
+        ]
+    },
+
+    {
         "name": "Topcoder",
         "url": "https://www.topcoder.com/",
         "difficulty": "impossible",
