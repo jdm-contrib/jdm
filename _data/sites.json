@@ -872,6 +872,15 @@
     },
 
     {
+        "name": "Bukalapak",
+        "difficulty": "easy",
+        "notes": "Open Akun (Account)>BukaBantuan (Open Help)>In Akun & Info Personal (Account & Personal Info), tap Selanjutnya (Next)>Tap Menonaktifkan Akun (Disable Account)>Tap Isi Form Bantuan (Type on Help Form)>Explain the reason why you delete it>Tap Kirim (Send).",
+        "domains": [
+            "bukalapak.com"
+        ]
+    },
+
+    {
         "name": "Bungie.net",
         "url": "http://www.bungie.net/en-US/Forum/Post/66636671/0/0",
         "difficulty": "impossible",
