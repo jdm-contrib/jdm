@@ -4062,6 +4062,14 @@
     },
 
     {
+        "name": "Megaxus",
+        "difficulty": "impossible",
+        "domains": [
+            "megaxus.com"
+        ]
+    },
+
+    {
         "name": "Memrise",
         "url": "http://www.memrise.com/settings/deactivate/",
         "difficulty": "easy",
