@@ -2544,6 +2544,15 @@
     },
 
     {
+        "name": "Gemscool",
+        "difficulty": "hard",
+        "notes": "Account is automatically deleted if inactive for a year.",
+        "domains": [
+            "gemscool.com"
+        ]
+    },
+
+    {
         "name": "Geni",
         "url": "http://www.geni.com/account_settings",
         "difficulty": "medium",
