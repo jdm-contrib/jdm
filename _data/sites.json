@@ -6225,6 +6225,15 @@
     },
 
     {
+        "name": "TikTok",
+        "difficulty": "medium",
+        "notes": "Tap account (with people depicton, on the bottom right edge)>Menu (on top right edge)>Privacy and Settings>Privacy and Safety>Delete Account>Next>Continue>Delete Account.",
+        "domains": [
+            "tiktok.com"
+        ]
+    },
+
+    {
         "name": "TinyDeal",
         "url": "http://help.tinydeal.com/contact-us",
         "difficulty": "impossible",
