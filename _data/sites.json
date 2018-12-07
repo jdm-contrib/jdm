@@ -2738,6 +2738,16 @@
     },
 
     {
+        "name": "GoJek",
+        "url": "https://www.go-jek.com/contact/",
+        "difficulty": "hard",
+        "notes": "Email customer service to request deletion.",
+        "domains": [
+            "go-jek.com"
+        ]
+    },
+
+    {
         "name": "Good Noows",
         "url": "http://goodnoows.com",
         "difficulty": "easy",
