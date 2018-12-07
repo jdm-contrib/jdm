@@ -2825,6 +2825,15 @@
     },
 
     {
+        "name": "Grab",
+        "difficulty": "easy",
+        "notes": "Swipe left to right from the edge of screen, tap the profile picture, scroll down until you see delete account.",
+        "domains": [
+            "grab.com"
+        ]
+    },
+
+    {
         "name": "gPodder",
         "url": "https://www.gpodder.net/account/",
         "difficulty": "easy",
