@@ -5569,6 +5569,16 @@
     },
 
     {
+        "name": "Shopee",
+        "url": "https://www.sharelatex.com/user/settings",
+        "difficulty": "easy",
+        "notes": "Tap Saya (me)>Akun Saya (My account)>Ajukan Penghapusan akun (Submit Account removal/Submit Account Deletion).",
+        "domains": [
+            "shopee.com"
+        ]
+    },
+
+    {
         "name": "Shopify",
         "url": "http://shopify.com/admin/settings/account",
         "difficulty": "easy",
