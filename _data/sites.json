@@ -873,7 +873,7 @@
 
     {
         "name": "Bukalapak",
-        "difficulty": "easy",
+        "difficulty": "medium",
         "notes": "Open Akun (Account)>BukaBantuan (Open Help)>In Akun & Info Personal (Account & Personal Info), tap Selanjutnya (Next)>Tap Menonaktifkan Akun (Disable Account)>Tap Isi Form Bantuan (Type on Help Form)>Explain the reason why you delete it>Tap Kirim (Send).",
         "domains": [
             "bukalapak.com"
@@ -5580,7 +5580,7 @@
     {
         "name": "Shopee",
         "url": "https://www.sharelatex.com/user/settings",
-        "difficulty": "easy",
+        "difficulty": "medium",
         "notes": "Tap Saya (me)>Akun Saya (My account)>Ajukan Penghapusan akun (Submit Account removal/Submit Account Deletion).",
         "domains": [
             "shopee.com"
