@@ -6023,7 +6023,7 @@
 
     {
         "name": "Strava",
-        "url": "https://www.strava.com/settings/privacy",
+        "url": "https://www.strava.com/athlete/delete_your_account",
         "difficulty": "medium",
         "notes": "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account.",
         "notes_it": "Disattivando l'account, tutte le attività verrano cancellate e verrai rimosso da tutte le leaderboars. Strava manterrà un'archivio dei tuoi dati GPS, ma non può essere usato per recuperare il tuo account.",
