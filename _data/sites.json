@@ -6025,11 +6025,7 @@
         "name": "Strava",
         "url": "https://www.strava.com/athlete/delete_your_account",
         "difficulty": "medium",
-        "notes": "Upon deactivation, all of your activities will be deleted and you will be removed from all leaderboards. Strava will keep an archive of your raw GPS data as uploaded to Strava, but the archive cannot be used to restore your account.",
-        "notes_it": "Disattivando l'account, tutte le attività verrano cancellate e verrai rimosso da tutte le leaderboars. Strava manterrà un'archivio dei tuoi dati GPS, ma non può essere usato per recuperare il tuo account.",
-        "notes_pt_br": "Mediante desativação, todas suas atividades serão deletadas e você será removido de todas as leaderboards. Strava manterá um arquivo de seus dados GPS como enviados a Strava, mas o arquivo não poderá ser usado para restaurar sua conta.",
-        "notes_cat": "Mitjançant la desactivació, totes les activitats s'eliminaran i serà eliminat de totes les leaderboards. Strava mantindrà un arxiu amb les dades GPS que s'envien a Strava, però l'arxiu no es podrà utilitzar per restaurar el compte.",
-        "notes_es": "Mediante la desactivación, todas las actividades se eliminarán y será eliminado de todas las leaderboards. Strava mantendrá un archivo con los datos GPS que se envían a Strava, pero el archivo no se podrá utilizar para restaurar la cuenta.",
+        "notes": "Account deletion is irreversible: Your account and data will be permanently deleted, and you will be removed from all clubs, heatmaps, challenges and leaderboards. Some data you created for the community, like public segments or routes, may remain on Strava.",
         "domains": [
             "strava.com"
         ]
