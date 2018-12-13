@@ -4664,6 +4664,18 @@
     },
 
     {
+        "name": "OSBuddy",
+        "url": "https://rsbuddy.com/osbuddy/docs/privacy",
+        "email": "support@rsbuddy.com",
+        "difficulty": "hard",
+        "notes": "You must contact support via your account's registered email address to request deletion.",
+        "domains": [
+            "osbuddy.com",
+            "rsbuddy.com"
+        ]
+    },
+
+    {
         "name": "Osu!",
         "url": "https://osu.ppy.sh/help/wiki/Help_Center",
         "difficulty": "impossible",
