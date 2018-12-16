@@ -148,4 +148,7 @@ $(function(){
         e.preventDefault();
         $("body,html").scrollTo(".about");
     });
+
+    // Auto-focus search field on load
+    $("#search").focus();
 });
