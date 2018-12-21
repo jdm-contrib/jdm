@@ -310,7 +310,7 @@
 
     {
         "name": "AOL / Instant Messenger",
-        "url": "http://cancel.aol.com",
+        "url": "https://aol.mydashboard.oath.com/delete-my-account",
         "difficulty": "easy",
         "domains": [
             "aol.com"
@@ -4307,6 +4307,17 @@
     },
 
     {
+        "name": "Munzee",
+        "url": "https://www.munzee.com/privacy/",
+        "difficulty": "hard",
+        "notes": "\"Send an e-mail to privacy@freezetag.com. Place \“Delete My Account\” in the subject line and include your first name, last name, e-mail address and your social network ID for the social network from which you access our Services (if applicable) in the body of the e-mail (for example, your Facebook user ID).\"",
+        "email": "privacy@freezetag.com",
+        "domains": [
+            "munzee.com"
+        ]
+    },
+
+    {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/account/edit",
         "difficulty": "easy",
@@ -4430,6 +4441,16 @@
         "notes_es": "Contacta con el servicio de asistencia al cliente. No se eliminará completamente, bajo la suposición de que quizás querrás reabrir la cuenta y mantener el historial y las notificaciones.",
         "domains": [
             "netflix.com"
+        ]
+    },
+
+{
+        "name": "Netlify",
+        "url": "https://app.netlify.com/account/settings/general#danger-zone",
+        "difficulty": "easy",
+        "notes": "Press the 'delete' button and then enter your name to confirm.",
+        "domains": [
+            "netlify.com"
         ]
     },
 
