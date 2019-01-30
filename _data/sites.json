@@ -516,6 +516,16 @@
             "backblaze.com"
         ]
     },
+    
+    {
+        "name": "Babbel",
+        "url": "https://home.babbel.com/user-profile/settings",
+        "difficulty": "medium",
+        "notes": "Scroll down, press delete. A confirmation box will show up. You will have to go click the link in the email they send to you to permanently delete your Babbel account.",
+        "domains": [
+            "babble.com"
+        ]
+    },
 
     {
         "name": "Badoo",
