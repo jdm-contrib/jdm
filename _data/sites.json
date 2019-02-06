@@ -6671,6 +6671,16 @@
     },
 
     {
+        "name": "Vidyard",
+        "url": "https://knowledge.vidyard.com",
+        "difficulty": "medium",
+        "notes": "Click \"Get Help\" and request an account deletion.",
+        "domains": [
+            "vidyard.com"
+        ]
+    },
+
+    {
         "name": "Vimeo",
         "url": "https://vimeo.com/settings/goodbye/forever",
         "difficulty": "easy",
