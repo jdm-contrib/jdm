@@ -4445,6 +4445,16 @@
     },
 
     {
+        "name": "Netlify",
+        "url": "https://app.netlify.com/account/settings/general#danger-zone",
+        "difficulty": "easy",
+        "notes": "Press the 'delete' button and then enter your name to confirm.",
+        "domains": [
+            "netlify.com"
+        ]
+    },
+
+    {
         "name": "Netlog",
         "url": "http://en.netlog.com/go/login",
         "difficulty": "easy",
