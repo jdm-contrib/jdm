@@ -4307,6 +4307,17 @@
     },
 
     {
+        "name": "Munzee",
+        "url": "https://www.munzee.com/privacy/",
+        "difficulty": "hard",
+        "notes": "Send an e-mail to privacy@freezetag.com. This email should include your first name, last name, e-mail address and, if applicable, your social network ID for the social network from which you access these services. (for example, your Facebook user ID)",
+        "email": "privacy@freezetag.com",
+        "domains": [
+            "munzee.com"
+        ]
+    },
+
+    {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/account/edit",
         "difficulty": "easy",
