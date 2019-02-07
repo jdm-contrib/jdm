@@ -2037,6 +2037,16 @@
     },
 
     {
+        "name": "ebonus",
+        "url": "https://ebonus.gg/contact",
+        "difficulty": "hard",
+        "notes": "You must request account deletion at https://ebonus.gg/contact. They will ask for confirmation using email, It takes 30 days for the account to be deleted.",
+        "domains": [
+            "ebonus.gg"
+        ]
+    },
+
+    {
         "name": "EdX",
         "url": "https://www.edx.org/student-faq",
         "difficulty": "impossible",
