@@ -6444,7 +6444,7 @@
 
     {
         "name": "Twitch",
-        "url": "https://secure.twitch.tv/user/disable_account",
+        "url": "https://www.twitch.tv/user/delete-account",
         "difficulty": "easy",
         "domains": [
             "twitch.tv"
