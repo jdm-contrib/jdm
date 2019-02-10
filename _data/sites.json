@@ -6674,7 +6674,7 @@
         "name": "Vidyard",
         "url": "https://knowledge.vidyard.com",
         "difficulty": "medium",
-        "notes": "Click \"Get Help\" and request an account deletion.",
+        "notes": "Click \"Get Help\" and request an account deletion, entering your username into the request form.",
         "domains": [
             "vidyard.com"
         ]
