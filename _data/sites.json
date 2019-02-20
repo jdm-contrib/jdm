@@ -3989,6 +3989,17 @@
     },
 
     {
+        "name": "Mailspring",
+        "url": "https://id.getmailspring.com",
+        "difficulty": "easy",
+        "notes": "Sign in → Click the 'Delete your Mailspring ID' button → Confirm",
+        "notes_de": "Anmelden → Auf 'Löschen Sie alle Daten, die Ihrer Mailspring-ID zugeordnet sind' klicken → Bestätigen",
+        "domains": [
+            "getmailspring.com"
+        ]
+    },
+
+    {
         "name": "Mapbox",
         "url": "https://www.mapbox.com/account/billing/",
         "difficulty": "easy",
