@@ -1041,7 +1041,7 @@
 
     {
         "name": "Change.org",
-        "url": "https://www.change.org/account_settings/close_account",
+        "url": "https://www.change.org/account_settings/disable_account",
         "difficulty": "easy",
         "domains": [
             "change.org"
