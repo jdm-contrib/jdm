@@ -3989,6 +3989,17 @@
     },
 
     {
+        "name": "Mailspring",
+        "url": "https://id.getmailspring.com",
+        "difficulty": "easy",
+        "notes": "Sign in → Click the 'Delete your Mailspring ID' button → Confirm",
+        "notes_de": "Anmelden → Auf 'Löschen Sie alle Daten, die Ihrer Mailspring-ID zugeordnet sind' klicken → Bestätigen",
+        "domains": [
+            "getmailspring.com"
+        ]
+    },
+
+    {
         "name": "Mapbox",
         "url": "https://www.mapbox.com/account/billing/",
         "difficulty": "easy",
@@ -5132,6 +5143,17 @@
         "notes_fr": "Il faut contacter le support via le formulaire de contact ou le tchat en ligne.",
         "domains": [
             "points.com"
+        ]
+    },
+
+    {
+        "name": "pon",
+        "url": "https://my.ponlist.de/de/legal",
+        "difficulty": "easy",
+        "notes": "Open the app → Open Settings → Click on your Account's information → Initiate deletion",
+        "notes_de": "App öffnen → Einstellungen öffnen → Auf das eigene Profil klicken → Benutzerkonto schließen",
+        "domains": [
+            "ponlist.de"
         ]
     },
 
