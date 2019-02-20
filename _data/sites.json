@@ -5147,6 +5147,17 @@
     },
 
     {
+        "name": "pon",
+        "url": "https://my.ponlist.de/de/legal",
+        "difficulty": "easy",
+        "notes": "Open the app → Open Settings → Click on your Account's information → Initiate deletion",
+        "notes_de": "App öffnen → Einstellungen öffnen → Auf das eigene Profil klicken → Benutzerkonto schließen",
+        "domains": [
+            "ponlist.de"
+        ]
+    },
+
+    {
         "name": "Porkbun",
         "url": "https://porkbun.com/account",
         "difficulty": "easy",
