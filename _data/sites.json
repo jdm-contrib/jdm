@@ -1333,7 +1333,7 @@
         "name": "Cook It",
         "url": "https://www.chefcookit.com/unsubscribe",
         "difficulty": "impossible",
-        "notes": "It is only possible to permanently disable the automatic subscription fee. Doing so will also set back to 0 your stars.",
+        "notes": "It is only possible to permanently disable the automatic subscription fee. Doing so will also set your stars back to 0.",
         "notes_fr": "Il est seulement possible de désactiver le frais de renouvellement automatique. Lorsque le renouvellement sera désactivé vos étoiles seront remis à 0.",
         "domains": [
             "chefcookit.com"
