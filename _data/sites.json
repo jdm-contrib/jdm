@@ -4819,6 +4819,17 @@
     },
 
     {
+        "name": "Parcello",
+        "url": "https://www.parcello.org/settings",
+        "difficulty": "easy",
+        "notes": "Go to settings, click 'Delete account' underneath 'Miscellaneous'. Confirm this process in the modal. Works within the app as well.",
+        "notes_de": "Einstellungen öffnen → Auf 'Account löschen' unter 'Sonstiges' klicken → Mit 'Ja, Löschen!' bestätigen. Geht auch über die App.",
+        "domains": [
+            "parcello.org"
+        ]
+    },
+
+    {
         "name": "Parkmobile",
         "url": "https://parkmobile.zendesk.com/hc/en-us/articles/203299300-How-do-I-cancel-my-account-",
         "difficulty": "hard",
