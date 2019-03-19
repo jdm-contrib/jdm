@@ -3114,6 +3114,17 @@
     },
 
     {
+        "name": "Heroes of Newerth",
+        "url": "https://www.heroesofnewerth.com/",
+        "difficulty": "hard",
+        "email": "support@heroesofnewerth.com",
+        "notes": "The only way of deleting your account is by sending an e-mail to 'support@heroesofnewerth.com'.",
+        "domains": [
+            "heroesofnewerth.com"
+        ]
+    },
+
+    {
         "name": "Heroku",
         "url": "https://dashboard.heroku.com/account",
         "difficulty": "easy",
