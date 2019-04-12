@@ -3050,7 +3050,7 @@
         "name": "Habitica",
         "url": "https://habitica.com/user/settings/site",
         "difficulty": "easy",
-        "notes": "Login to your account, click the User icon in the top-right corner, click on Settings in the drop-down menu, and click on the red Delete Account button at the bottom of the page.",
+        "notes": "Log in to your account, click the User icon in the top-right corner, click Settings in the drop-down menu, and click the red Delete Account button at the bottom of the page.",
         "domains": [
             "habitica.com"
         ]
