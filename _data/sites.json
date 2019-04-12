@@ -3047,6 +3047,16 @@
     },
 
     {
+        "name": "Habitica",
+        "url": "https://habitica.com/user/settings/site",
+        "difficulty": "easy",
+        "notes": "Log in to your account, click the User icon in the top-right corner, click Settings in the drop-down menu, and click the red Delete Account button at the bottom of the page.",
+        "domains": [
+            "habitica.com"
+        ]
+    },
+
+    {
         "name": "Hack This Site",
         "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
         "difficulty": "impossible",
