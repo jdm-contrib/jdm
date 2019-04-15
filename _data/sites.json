@@ -2536,22 +2536,28 @@
 
     {
         "name": "Gamespot",
-        "url": "https://www.garena.sg/",
+        "url": "https://www.gamespot.com/help/#toc-0-14",
         "difficulty": "hard",
-        "notes": "Accounts are deleted with 6 months of inactivity or by opening a ticket to their support team.",
+        "email": "support@gamespot.com",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
-            "garena.sg"
+            "custhelp.com"
         ]
     },
 
     {
         "name": "Garena",
-        "url": "http://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
-        "difficulty": "easy",
-        "notes": "You will find option to remove your account under Profile - My Account tab, after log in. Removed GG account number is going back to available numbers for new users.",
-        "notes_pl": "Po zalogowaniu się do konta w zakładce Moje konto - Profil znajduje się opcja usuń konto. Usunięty numer GG wraca do puli numerów dostępnych dla nowych użytkowników.",
+        "url": "https://www.garena.sg/",
+        "difficulty": "hard",
+        "notes": "Accounts are deleted with 6 months of inactivity or by opening a ticket to their support team.",
         "domains": [
-            "www.gg.pl"
+            "garena.sg"
         ]
     },
 
