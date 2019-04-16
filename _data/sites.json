@@ -2553,7 +2553,7 @@
 
     {
         "name": "Garena",
-        "url": "https://www.garena.sg/",
+        "url": "https://www.garena.sg/support/",
         "difficulty": "hard",
         "notes": "Accounts are deleted with 6 months of inactivity or by opening a ticket to their support team.",
         "domains": [
