@@ -6188,9 +6188,9 @@
 
     {
         "name": "SurveyMonkey",
-        "url": "http://help.surveymonkey.com/contact-us",
-        "difficulty": "hard",
-        "notes": "You have to contact them selecting the issue Login & account details and the issue details Deleting my account",
+        "url": "https://www.surveymonkey.com/user/account/",
+        "difficulty": "easy",
+        "notes":"Scroll to the bottom of the page and click 'Permanently delete account'. After reviewing the information, click all checkboxes and enter your password. Click 'Yes, delete this account' to confirm.The account and questionnaire data will be definitively excluded within 90 days.",
         "domains": [
             "surveymonkey.com"
         ]
