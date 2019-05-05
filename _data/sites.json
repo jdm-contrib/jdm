@@ -5280,6 +5280,16 @@
     },
 
     {
+        "name": "ProductHunt",
+        "url": "https://www.producthunt.com/my/settings/edit",
+        "difficulty": "easy",
+        "notes": "Go to the account setting, click 'Continue' under 'Delete my Account' and follow from there.",
+        "domains": [
+            "producthunt.com"
+        ]
+    },
+
+    {
         "name": "Prosper",
         "url": "https://www.prosper.com/secure/account/borrower/close_account.aspx",
         "difficulty": "easy",
