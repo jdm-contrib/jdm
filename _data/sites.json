@@ -2366,15 +2366,8 @@
 
     {
         "name": "Flipboard",
-        "url": "https://flipboard.com/support/",
+        "url": "https://accounts.flipboard.com/accounts/remove",
         "difficulty": "easy",
-        "notes": "Go to account management within the app",
-        "notes_fr": "Allez dans les parametres du compte.",
-        "notes_de": "Gehe auf 'Account Management' innerhalb der App.",
-        "notes_it": "Vai su gestione account da dentro l'app",
-        "notes_pt_br": "Vá em account managemente no aplicativo",
-        "notes_cat": "Vés a 'Account Management' dins l'aplicació",
-        "notes_es": "Ve a 'Account Management' dentro de la aplicación",
         "domains": [
             "flipboard.com"
         ]
