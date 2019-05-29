@@ -2260,6 +2260,16 @@
     },
 
     {
+        "name": "Faceit",
+        "url": "https://support.faceit.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "See <a href=\"https://support.faceit.com/hc/en-us/articles/360001449004-How-do-I-get-my-personal-details-deleted-on-FACEIT-\">'How do I get my personal details deleted on FACEIT?'</a>",
+        "domains": [
+            "faceit.com"
+        ]
+    },
+
+    {
         "name": "Facile.it",
         "url": "https://www.facile.it/cancellazione/",
         "difficulty": "easy",
