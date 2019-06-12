@@ -4356,7 +4356,7 @@
 
     {
         "name": "Mozilla/Firefox",
-        "url": "https://oauth.accounts.firefox.com/",
+        "url": "http://accounts.firefox.com/settings/delete_account",
         "difficulty": "easy",
         "notes": "“Cancel your account” link at the bottom of the page.",
         "notes_fr": "Cliquez le lien « Cancel your account » au bas de la page.",
