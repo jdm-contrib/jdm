@@ -5935,6 +5935,17 @@
     },
 
     {
+        "name": "Social Blade",
+        "url": "https://support.socialblade.com/",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account. Customer support will also not delete it upon request.",
+        "notes_de": "Man kann seinen Account nicht löschen. Der Kundenservice löscht ihn auch auf Anfrage nicht.",
+        "domains": [
+            "socialblade.com"
+        ]
+    },
+
+    {
         "name": "Songkick",
         "url": "http://www.songkick.com/settings/account-settings",
         "difficulty": "easy",
