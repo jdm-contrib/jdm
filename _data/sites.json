@@ -1983,9 +1983,9 @@
 
     {
         "name": "easyJet",
-        "url": "http://www.easyjet.com/en/help/contact",
+        "url": "https://www.easyjet.com/en/policy/privacy-promise/request-data-form",
         "difficulty": "hard",
-        "notes": "You have to mail the customer support and request for account deletion.",
+        "notes": "You have to fill out the Data protection request form on their website, providing your identification.",
         "domains": [
             "easyjet.com"
         ]
