@@ -2598,6 +2598,17 @@
     },
 
     {
+        "name": "Gearbest",
+        "url": "http://wap-support.gearbest.com/ticket/ticket/ticket-add",
+        "difficulty": "hard",
+        "notes": "You will need to open a ticket. In the first field, select \"Account Management > Advanced Account Information\" and then send your message requesting the deletion of the account. Within 48 hours, the customer support will return your message asking if you confirm the deletion of the account. You can also contact them <a href=\"mailto:support@gearbest.com\">via email</a>.",
+        "notes_pt_br": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management > Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los <a href=\"mailto:support@gearbest.com\">via e-mail</a>.",
+        "domains": [
+            "gearbest.com"
+        ]
+    },
+
+    {
         "name": "Gemscool",
         "difficulty": "hard",
         "notes": "Account is automatically deleted if inactive for a year.",
@@ -3344,6 +3355,20 @@
         "notes_fr": "Connectez-vous, allez dans vos parametres puis cliquez sur « Delete Account » en bas à gauche.",
         "domains": [
             "imo.im"
+        ]
+    },
+
+    {
+        "name": "IndieGala",
+        "url": "http://docs.indiegala.com/support/contacts.html",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your IndieGala account.",
+        "notes_pt_br": "Entre em contato com o suporte via e-mail e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta IndieGala.",
+        "email": "support@indiegala.com",
+        "email_subject": "[ Permanently Account Deletion Request ]",
+        "email_body": "I have no further interest in using the services provided by IndieGala, so I would like my account to be permanently deleted.",
+        "domains": [
+            "indiegala.com"
         ]
     },
 
