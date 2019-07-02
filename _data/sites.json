@@ -1294,11 +1294,28 @@
 
     {
         "name": "Coinbase",
-        "url": "https://www.coinbase.com/settings/security_settings",
-        "difficulty": "easy",
-        "notes": "Sign in then visit <a href=\"https://www.coinbase.com/settings/security_settings\">https://www.coinbase.com/settings/security_settings</a> and scroll to the bottom to find a button to close you account.",
+        "url": "http://coinbase.com/close_account",
+        "difficulty": "medium",
+        "notes": "Sign in then visit <a href=\"http://coinbase.com/close_account\">http://coinbase.com/close_account</a> and scroll to the bottom to find a button to close you account. In order to be deleted, your account can not have pending transactions.",
+        "notes_pt_br": "Faça login e acesse <a href=\"http://coinbase.com/close_account\">http://coinbase.com/close_account</a>. Role até o final da página para encontrar o botão para fechar sua conta. Para que possa ser excluída, sua conta não deve haver nenhum tipo de transação pendente.",
         "domains": [
             "coinbase.com"
+        ]
+    },
+
+    {
+        "name": "CoinBR/Stratum",
+        "url": "http://stratum.hk/support",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your CoinBR/Stratum account.",
+        "notes_pt_br": "Entre em contato com o suporte via e-mail e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta CoinBR/Stratum.",
+        "email": "support@stratum.hk",
+        "email_subject": "[ Permanently Account Deletion Request ]",
+        "email_body": "I have no further interest in using the services provided by Stratum, so I would like my account to be permanently deleted.",
+        "domains": [
+            "stratum.hk",
+            "coinbr.net",
+            "coinbr.io"
         ]
     },
 
