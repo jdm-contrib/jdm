@@ -690,12 +690,14 @@
 
     {
         "name": "Bitly",
-        "url": "https://bitly.com/a/deactivate_account",
+        "url": "http://app.bitly.com/bitlinks/?actions=deactivate",
         "difficulty": "easy",
-        "notes": "Select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
+        "notes": "Go to \" Profile > Delete Account\" and select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
         "notes_pl": "Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.",
+        "notes_pt_br": "Vá para \" Profile > Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
         "domains": [
-            "bitly.com"
+            "bitly.com",
+            "bit.ly"
         ]
     },
 
