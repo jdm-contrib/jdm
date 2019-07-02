@@ -3160,6 +3160,17 @@
     },
 
     {
+        "name": "Happy Scribe",
+        "url": "http://happyscribe.co/users/edit",
+        "difficulty": "easy",
+        "notes": "Go to \"Settings > Delete Account > Delete my account\".",
+        "notes_pt_br": "Vá para \"Settings > Delete Account > Delete my account\".",
+        "domains": [
+            "happyscribe.co"
+        ]
+    },
+
+    {
         "name": "HelloFax",
         "url": "https://www.hellofax.com/home/myAccount",
         "difficulty": "easy",
