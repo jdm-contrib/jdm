@@ -1250,6 +1250,17 @@
     },
 
     {
+        "name": "Codenvy",
+        "url": "https://codenvy.io/dashboard/#/account",
+        "difficulty": "easy",
+        "notes": "Deletion option can be found in the \"Security\" tab",
+        "domains": [
+            "codenvy.com",
+            "codenvy.io"
+        ]
+    },
+
+    {
         "name": "CodePen",
         "url": "http://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
         "difficulty": "easy",
