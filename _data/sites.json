@@ -5315,6 +5315,16 @@
     },
 
     {
+        "name": "Postman",
+        "url": "https://app.getpostman.com/dashboard/profile",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Click the link -> Click the Delete Account.",
+        "domains": [
+            "getpostman.com"
+        ]
+    },
+
+    {
         "name": "Premera",
         "url": "https://www.premera.com/",
         "email": "support@premera.com",
