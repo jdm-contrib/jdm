@@ -5318,7 +5318,7 @@
         "name": "Postman",
         "url": "https://app.getpostman.com/dashboard/profile",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click the link -> Click the Delete Account.",
+        "notes": "Log into your account, then click the 'Delete Account' button on your profile page.",
         "domains": [
             "getpostman.com"
         ]
