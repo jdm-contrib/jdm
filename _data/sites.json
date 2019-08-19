@@ -3106,6 +3106,19 @@
             "grubhub.com"
         ]
     },
+    
+    {
+        "name": "Guild Wars",
+        "url": "https://help.guildwars2.com/hc/de/requests/new?ticket_form_id=38933",
+        "difficulty": "hard",
+        "notes": "You need create a support ticket and request for them to delete your account. Before your account gets deleted you need to answer why you want the account to be deleted.",
+        "notes_de": "Über ein Support-Ticket kann eine Löschung des Accounts beantragt werden. Bevor der Account gelöscht wird, muss zuerst angegeben werden, warum der Account gelöscht werden soll.",
+        "domains": [
+            "arena.net",
+            "guildwars2.com",
+            "help.guildwars2.com"
+        ]
+    },
 
     {
         "name": "Gumroad",
