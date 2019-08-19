@@ -4648,6 +4648,18 @@
             "myfitnesspal.com"
         ]
     },
+    
+    {
+        "name": "MyFRITZ!",
+        "url": "https://sso.myfritz.net/account/#/delete",
+        "difficulty": "easy",
+        "notes": "Login and select 'Delete Account' in the sidebar in your account settings",
+        "notes_de": "Einloggen und in den Kontoeinstellungen 'Konto löschen' aus der Seitenleiste wählen.",
+        "domains": [
+            "myfritz.net",
+            "sso.myfritz.net"
+        ]
+    },
 
     {
         "name": "myJdownloader",
