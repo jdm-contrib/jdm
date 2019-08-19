@@ -5377,6 +5377,17 @@
             "pivotaltracker.com"
         ]
     },
+    
+    {
+        "name": "Pixabay",
+        "url": "https://pixabay.com/de/accounts/settings/",
+        "difficulty": "easy",
+        "notes": "In your account setting choose 'Delete account'.",
+        "notes_de": "Wähle 'Konto Löschen' in den Kontoeinstellungen.",
+        "domains": [
+            "pixabay.com"
+        ]
+    },
 
     {
         "name": "Pixlr",
