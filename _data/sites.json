@@ -4234,6 +4234,17 @@
             "mapbox.com"
         ]
     },
+    
+    {
+        "name": "Mapstr",
+        "url": "https://mapstr.com/faq.html",
+        "difficulty": "easy",
+        "notes": "Log in to your account in the app, then in the account settings choose 'Delete my account'.",
+        "notes_de": "Melde dich in der App mit deinem Account an. Wähle dann in den Konto-Einstellungen 'Mein Konto löschen'.",
+        "domains": [
+            "mapstr.com"
+        ]
+    },
 
     {
         "name": "Marvel",
@@ -4242,6 +4253,17 @@
         "notes": "Log into your account -> My Account -> click on Delete Account at the bottom of page.",
         "domains": [
             "marvelapp.com"
+        ]
+    },
+    
+    {
+        "name": "Massdrop",
+        "url": "https://helpdesk.massdrop.com/hc/en-us/articles/360019265073-How-do-I-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "Contact support via the online form and ask for your account to be deleted.",
+        "notes_de": "Kontaktiere den Support über das Online-Formular und fordere eine Löschung des Accounts.",
+        "domains": [
+            "drop.com"
         ]
     },
 
