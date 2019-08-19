@@ -112,6 +112,18 @@
             "academia.edu"
         ]
     },
+    
+    {
+        "name": "Acasa",
+        "url": "https://app.helloacasa.com/register/edit",
+        "difficulty": "easy",
+        "notes": "In your account settings choose 'Remove my account' at the bottom.",
+        "notes_de": "Wähle 'Remove my account' in den Account-Einstellungen.",
+        "domains": [
+            "splittable.co",
+            "helloacasa.com"
+        ]
+    },
 
     {
         "name": "Acorns",
