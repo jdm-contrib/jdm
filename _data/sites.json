@@ -4164,6 +4164,16 @@
         ]
     },
     
+    {
+        "name": "MacUpdate",
+        "url": "https://www.macupdate.com/member/account-preferences",
+        "difficulty": "easy",
+        "notes": "In your account preferences select 'Delete all my personal data' in the bottom left. 14 days after your request all your data will be deleted. During the 14 days the delete request may be cancelled.",
+        "notes_de": "In den Account-Einstellungen kann der Account links unten mit 'Delete all my personal data' gelöscht werden. Die Daten werden erst nach einer 14 tägigen Frist gelöscht. Während der 14 Tage kann der Löschvorgang abgebrochen werden.",
+        "domains": [
+            "macupdate.com"
+        ]
+    },
 
     {
         "name": "Magoosh",
