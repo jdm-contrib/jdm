@@ -5070,9 +5070,9 @@
 
     {
         "name": "Overleaf",
-        "url": "https://www.overleaf.com/help/299-how-do-i-delete-my-overleaf-account",
-        "difficulty": "hard",
-        "notes": "You must contact support directly and ask them to delete your account.",
+        "url": "https://www.overleaf.com/user/settings",
+        "difficulty": "easy",
+        "notes": "Select 'Delete your account' at the bottom of the account settings page.",
         "email": "privacy@overleaf.com",
         "domains": [
             "overleaf.com"
