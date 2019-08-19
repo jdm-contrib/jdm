@@ -5398,6 +5398,15 @@
             "pixlr.com"
         ]
     },
+    
+    {
+        "name": "Pixum",
+        "url": "https://int.pixum.com/service/delete-account",
+        "difficulty": "hard",
+        "notes": "Contact support via email and request your account to be deleted.",
+        "notes_de": "Schreibe dem Support per E-Mail und bitte um eine Löschung des Accounts",
+        "email": "service@pixum.com"
+    },
 
     {
         "name": "Player FM",
