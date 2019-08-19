@@ -4867,6 +4867,18 @@
             "nike.com"
         ]
     },
+    
+    {
+        "name": "Ninox",
+        "url": "https://ninoxdb.de/de/support/contactus",
+        "difficulty": "hard",
+        "notes": "Contact Support via the online contact form and request your account to be deleted. Alternatively you can use the support E-Mail address.",
+        "notes_de": "Über das Online-Kontaktformular kann der Support gebeten werden, den Account zu löschen. Alternativ lässt sich auch per E-Mail Kontakt aufnehmen.",
+        "email": "support@ninoxdb.de",
+        "domains": [
+            "ninoxdb.de"
+        ]
+    },
 
     {
         "name": "njal.la",
