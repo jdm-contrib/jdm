@@ -3436,6 +3436,17 @@
     },
 
     {
+        "name": "InfoCasas",
+        "url": "https://www.infocasas.com.uy/dashboard",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your account.",
+        "email": "info@infocasas.com.uy",
+        "domains": [
+            "infocasas.com.uy"
+        ]
+    },
+    
+    {
         "name": "Ingress",
         "url": "https://support.ingress.com/hc/en-us/articles/206618198-I-want-to-delete-my-account",
         "difficulty": "hard",
