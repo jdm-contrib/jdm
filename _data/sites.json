@@ -3616,6 +3616,18 @@
         "notes": "Closing your account will delete your profile and all of your publications. There is no going back, so don't say we didn't warn you.",
         "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود."
     },
+    
+    {
+        "name": "iStudiez",
+        "url": "https://support.istudentpro.com/support/solutions/articles/3000068641-delete-cloud-sync-account",
+        "difficulty": "hard",
+        "notes": "Contact support and ask for your account to be removed.",
+        "notes_de": "Kontaktiere den Support und fordere eine Löschung deines Accounts.",
+        "email": "support@istudentpro.com",
+        "domains": [
+            "istudentpro.com"
+        ]
+    },
 
     {
         "name": "iTunes / Apple ID",
