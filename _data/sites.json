@@ -888,6 +888,18 @@
             "boxcryptor.com"
         ]
     },
+    
+    {
+        "name": "Bring!",
+        "url": "https://getbring.com/#!/contact",
+        "difficulty": "hard",
+        "notes": "Contact support and ask for your account to be deleted.",
+        "notes_de": "Kontaktiere den Support und fordere eine Löschung des Accounts an.",
+        "email": "feedback@getbring.com",
+        "domains": [
+            "getbring.com"
+        ]
+    },
 
     {
         "name": "British Airways",
