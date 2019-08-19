@@ -6691,6 +6691,17 @@
             "telegram.org"
         ]
     },
+    
+    {
+        "name": "Things",
+        "url": "https://support.culturedcode.com/customer/en/portal/articles/2803591-deleting-your-account-data",
+        "difficulty": "easy",
+        "notes": "In the Things app go to Preferences -> Things Cloud and select Edit Account. Then select 'Delete Account'.",
+        "notes_de": "Der Account kann über die Things Einstellungen -> Things Cloud bei 'Account bearbeiten' über 'Account löschen' gelöscht werden.",
+        "domains": [
+            "culturedcode.com"
+        ]
+    },
 
     {
         "name": "Threema",
