@@ -7029,6 +7029,18 @@
             "unfuddle.io"
         ]
     },
+    
+    {
+        "name": "United Domains",
+        "url": "https://www.united-domains.de/support/kontakt-formular/close//",
+        "difficulty": "hard",
+        "notes": "Contact Support and request to delete your account.",
+        "notes_de": "Kontaktiere den Support und fordere eine Löschung des Accounts an.",
+        "email": "support@united-domains.de",
+        "domains": [
+            "united-domains.de"
+        ]
+    },
 
     {
         "name": "Unity ID",
