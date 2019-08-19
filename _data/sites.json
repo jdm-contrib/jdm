@@ -4154,6 +4154,16 @@
             "lumosity.com"
         ]
     },
+    
+    {
+        "name": "MacTrade",
+        "url": "https://www.mactrade.de/goodahead_customer/account/delete/",
+        "difficulty": "easy",
+        "domains": [
+            "mactrade.de"
+        ]
+    },
+    
 
     {
         "name": "Magoosh",
