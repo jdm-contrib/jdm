@@ -6603,6 +6603,18 @@
             "tagged.com"
         ]
     },
+    
+    {
+        "name": "Taiga",
+        "url": "https://tree.taiga.io/user-settings/user-profile",
+        "difficulty": "easy",
+        "notes": "Log in to your user account, go to 'User Settings' and select 'Delete Taiga account' below the save button. Confirm and done.",
+        "notes_de": "Nach dem Einloggen im Menü zu 'User Settings' gehen und dort 'Delete Taiga account' unter dem 'Save' Button auswählen. Bestätigen, fertig.",
+        "domains": [
+            "taiga.io",
+            "tree.taiga.io"
+        ]
+    },
 
     {
         "name": "Tango",
