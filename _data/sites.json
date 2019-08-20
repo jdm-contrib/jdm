@@ -1892,6 +1892,17 @@
             "docusign.com"
         ]
     },
+    
+    {
+        "name": "Doodle",
+        "url": "https://doodle.com/account",
+        "difficulty": "easy",
+        "notes": "In your Doodle account select 'Delete Doodle account' at the bottom of the page.",
+        "notes_de": "Wähle 'Doodle Konto löschen' unten in den Konto-Einstellungen.",
+        "domains": [
+            "doodle.com"
+        ]
+    },
 
     {
         "name": "Douban",
