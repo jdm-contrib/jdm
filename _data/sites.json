@@ -3864,6 +3864,17 @@
             "koding.com"
         ]
     },
+    
+    {
+        "name": "Koingo Software",
+        "url": "https://www.koingosw.com/account/delete.php",
+        "difficulty": "medium",
+        "notes": "Enter your E-Mail in the account deletion form and confirm the deletion in the E-Mail sent to you.",
+        "notes_de": "Fülle das Online-Formular zum Löschen des Accounts mit deiner E-Mail aus und bestätige die Löschung in der gesendeten E-Mail.",
+        "domains": [
+            "koingosw.com"
+        ]
+    },
 
     {
         "name": "Kongregate",
