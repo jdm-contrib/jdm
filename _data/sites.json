@@ -4275,6 +4275,15 @@
     },
 
     {
+        "name": "Mercadolibre Uruguay",
+        "url": "https://myaccount.mercadolibre.com.uy/cancelar-cuenta",
+        "difficulty": "easy",
+        "domains": [
+            "mercadolibre.com.uy"
+        ]
+    },
+
+    {
         "name": "Metacafe",
         "url": "http://www.metacafe.com/feedback/",
         "difficulty": "hard",
