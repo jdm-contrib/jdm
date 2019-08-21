@@ -2140,6 +2140,17 @@
     },
 
     {
+        "name": "Elpais",
+        "url": "https://registro.elpais.com.uy/regasistencia.asp",
+        "difficulty": "hard",
+        "notes": "Complete the form, they will send you an email where you must respond indicating the identity document.",
+        "notes_es": "Complete el formulario, le enviarán un correo electrónico donde deberá responder indicando el documento de identidad.",
+        "domains": [
+            "elpais.com.uy"
+        ]
+    },
+
+    {
         "name": "Endomondo",
         "url": "https://www.endomondo.com/settings/privacy",
         "difficulty": "easy",
