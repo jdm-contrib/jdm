@@ -7161,6 +7161,16 @@
     },
 
     {
+        "name": "WishSimply",
+        "url": "https://wishsimply.com/profile/account-settings",
+        "difficulty": "easy",
+        "notes": "Enter your account password and click on 'DELETE ACCOUNT'.",
+        "domains": [
+            "WishSimply.com"
+        ]
+    },
+
+    {
         "name": "Wix",
         "url": "http://www.wix.com/support/html5/billing/premium-plans/faq/cancel-account-20",
         "difficulty": "easy",
