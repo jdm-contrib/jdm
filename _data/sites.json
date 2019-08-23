@@ -5071,6 +5071,17 @@
             "osu.ppy.sh"
         ]
     },
+    
+    {
+        "name": "Outdooractive",
+        "url": "https://support.outdooractive.com/hc/en-us/articles/201186213-How-can-I-delete-my-community-account-",
+        "difficulty": "hard",
+        "notes": "Contact Support via the online form and request your account to be deleted.",
+        "notes_de": "Kontaktiere den Support über das Online-Formular und fordere eine Löschung des Accounts an.",
+        "domains": [
+            "outdooractive.com"
+        ]
+    },
 
     {
         "name": "Outlook",
