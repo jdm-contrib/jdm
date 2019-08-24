@@ -675,6 +675,16 @@
     },
 
     {
+        "name": "Bidoo",
+        "url": "https://it.bidoo.com",
+        "difficulty": "hard",
+        "notes": "Click the assistance link on the website and fill in the contact form. A representative will mail you to confirm the account deletion.",
+        "domains": [
+            "bidoo.com"
+        ]
+    },
+
+    {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
         "difficulty": "easy",
