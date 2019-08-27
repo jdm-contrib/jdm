@@ -4478,6 +4478,17 @@
     },
 
     {
+        "name": "Mozilla Developer Network (MDN)",
+        "url": "http://bugzilla.mozilla.org/enter_bug.cgi?product=developer.mozilla.org",
+        "difficulty": "hard",
+        "notes": "MDN cannot handle account deletes automatically. In order to delete your account, you will need to create a \"Bug Report\" on <a href=\"http://bugzilla.mozilla.org\">Bugzilla</a> and make your request trough it. If you have made contributions to the <a href=\"http://developer.mozilla.org/docs/Web\">MDN Web Docs</a>, you will also need to specify what you would like to happen with them after deleting your account. Log in to Bugzilla and <a href=\"http://bugzilla.mozilla.org/enter_bug.cgi?product=developer.mozilla.org\">create a bug report</a> to request deletion of your account. (examples: <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> and <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=1353345\">#1353345</a>).",
+        "notes_pt_br": "A MDN não pode processar exclusões de contas de forma automática. Para que seja possível excluir sua conta, você precisará criar um \"Bug Report\" na <a href=\"http://bugzilla.mozilla.org\">Bugzilla</a> e requisitar a exclusão da sua conta a partir de lá. Caso você tenha feito contribuições ao <a href=\"http://developer.mozilla.org/docs/Web\">MDN Web Docs</a>, você também precisará especificar o que gostaria que acontecesse com suas contribuições após a exclusão da sua conta. Faça login na Bugzilla e <a href=\"http://bugzilla.mozilla.org/enter_bug.cgi?product=developer.mozilla.org\">crie um bug report</a> para solicitar a exclusão da sua conta. (exemplos: <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> e <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=1353345\">#1353345</a>)",
+        "domains": [
+            "developer.mozilla.org"
+        ]
+    },
+
+    {
         "name": "Mozilla/Firefox",
         "url": "http://accounts.firefox.com/settings/delete_account",
         "difficulty": "easy",
