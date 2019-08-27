@@ -4285,6 +4285,19 @@
     },
 
     {
+        "name": "Mercado Livre Brasil",
+        "url": "http://myaccount.mercadolivre.com.br/cancelar-conta",
+        "difficulty": "medium",
+        "notes": "Warning: You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Livre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Livre account, your Mercado Pago account will be deleted too. To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estou de acordo\", and confirm your action by clinking \"Aceito\".",
+        "notes_pt_br": "Aviso: Você só poderá cancelar sua conta se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Livre e o Mercado Pago são serviços associados ao mesmo tipo de conta. Se você optar por excluir sua conta no Mercado Livre, sua conta no Mercado Pago também será excluída. Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estou de acordo\" e clique em \"Aceitar\".",
+        "domains": [
+            "mercadolivre.com.br",
+            "mercadopago.com.br",
+            "mercadolivre.com"
+        ]
+    },
+
+    {
         "name": "Metacafe",
         "url": "http://www.metacafe.com/feedback/",
         "difficulty": "hard",
