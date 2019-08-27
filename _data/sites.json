@@ -4279,7 +4279,8 @@
         "url": "https://myaccount.mercadolibre.com.uy/cancelar-cuenta",
         "difficulty": "easy",
         "domains": [
-            "mercadolibre.com.uy"
+            "mercadolibre.com.uy",
+            "mercadopago.com.uy"
         ]
     },
 
