@@ -6194,7 +6194,8 @@
     {
         "name": "Spotify",
         "url": "http://support.spotify.com/close-account",
-        "difficulty": "easy",
+        "difficulty": "hard",
+        "notes": "Go to Account, I want to close my account permanently and reserve 20min of your time to chat with them. If you have a trial or premium, cancel it first at https://www.spotify.com/us/account/subscription/",
         "domains": [
             "spotify.com"
         ]
