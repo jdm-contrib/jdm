@@ -6195,7 +6195,7 @@
         "name": "Spotify",
         "url": "http://support.spotify.com/close-account",
         "difficulty": "hard",
-        "notes": "Go to Account, I want to close my account permanently and reserve 20min of your time to chat with them. If you have a trial or premium, cancel it first at https://www.spotify.com/us/account/subscription/",
+        "notes": "1. Cancel your subscription at https://www.spotify.com/us/account/subscription/ 2. Public playlists will be anonymised, delete any playlists you want. 3. Go to the provided link, Account -> I want to close my account permanently and reserve 20min of your time to chat with them.",
         "domains": [
             "spotify.com"
         ]
