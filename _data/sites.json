@@ -5047,6 +5047,15 @@
     },
 
     {
+        "name": "Patreon",
+        "url": "https://support.patreon.com/hc/en-us/articles/204605915-How-do-I-disable-my-account-",
+        "difficulty": "easy",
+        "domains": [
+            "patreon.com"
+        ]
+    },
+    
+    {
         "name": "Patrick Krempf Reminder",
         "url": "http://reminder.patrickkempf.de/manage.php?do=delaccount",
         "difficulty": "easy",
