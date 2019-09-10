@@ -5485,10 +5485,9 @@
 
     {
         "name": "Public Lab",
-        "url": "https://publiclab.org/profile/edit",
-        "difficulty": "hard",
-        "notes": "E-mail them to request the account deletion.",
-        "email": "web@publiclab.org",
+        "url": "https://publiclab.org/questions/niklasjordan/03-25-2019/how-can-i-delete-a-user-account",
+        "difficulty": "impossible",
+        "notes": "It is currently not possible to delete an account on Public Lab.",
         "domains": [
             "publiclab.org"
         ]
