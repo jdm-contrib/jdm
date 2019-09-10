@@ -6336,6 +6336,16 @@
     },
 
     {
+        "name": "Streamable",
+        "url": "https://support.streamable.com/contact-us",
+        "difficulty": "hard",
+        "notes": "You have to contact support in order to delete your account.",
+        "domains": [
+            "streamable.com"
+        ]
+    },
+
+    {
         "name": "Stripe",
         "url": "https://dashboard.stripe.com/account/data",
         "difficulty": "easy",
