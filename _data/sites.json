@@ -3533,6 +3533,17 @@
             "innogames.com"
         ]
     },
+    
+    {
+        "name": "Inoreader",
+        "url": "https://www.inoreader.com",
+        "difficulty": "easy",
+        "notes": "Select 'Reset or cancel' under preferences and click on 'Cancel account'.",
+        "notes_de": "Gehe zu 'Zurücksetzen oder Abbrechen' in den Einstellungen und wähle 'Konto auflösen'.",
+        "domains": [
+            "inoreader.com"
+        ]
+    },
 
     {
         "name": "Instacast Cloud",
