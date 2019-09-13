@@ -4874,6 +4874,15 @@
         ]
     },
 
+    {
+        "name": "OpenCores",
+        "url": "https://opencores.org/",
+        "difficulty": "impossible",
+        "notes": "Though they state you can mail them, the e-mail bounces back.",
+        "domains": [
+            "opencores.org"
+        ]
+    },
 
     {
         "name": "OpenDNS",
