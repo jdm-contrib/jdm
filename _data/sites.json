@@ -932,6 +932,7 @@
 
     {
         "name": "Bukalapak",
+        "url" : "https://www.bukalapak.com/",
         "difficulty": "medium",
         "notes": "Open Akun (Account)>BukaBantuan (Open Help)>In Akun & Info Personal (Account & Personal Info), tap Selanjutnya (Next)>Tap Menonaktifkan Akun (Disable Account)>Tap Isi Form Bantuan (Type on Help Form)>Explain the reason why you delete it>Tap Kirim (Send).",
         "domains": [
@@ -1660,6 +1661,7 @@
 
     {
         "name": "Delivery Code",
+        "url" : "https://www.deliverycode.com/",
         "difficulty": "medium",
         "notes": "Go to My Account and select Edit Profile and then Delete Account. A confirmation e-mail will be sent to the address on file with a link you must visit.",
         "domains": [
@@ -2713,6 +2715,7 @@
 
     {
         "name": "Gemscool",
+        "url" : "https://www.gemscool.com",
         "difficulty": "hard",
         "notes": "Account is automatically deleted if inactive for a year.",
         "domains": [
@@ -3023,6 +3026,7 @@
 
     {
         "name": "Grab",
+        "url" : "https://www.grab.com/",
         "difficulty": "easy",
         "notes": "Swipe left to right from the edge of screen, tap the profile picture, scroll down until you see delete account.",
         "domains": [
@@ -4390,6 +4394,7 @@
 
     {
         "name": "Megaxus",
+        "url": "http://megaxus.com/",
         "difficulty": "impossible",
         "domains": [
             "megaxus.com"
@@ -5681,6 +5686,7 @@
 
     {
         "name": "PlayPosit",
+        "url": "https://go.playposit.com/",
         "difficulty": "easy",
         "notes": "Click your username in the upper right and select Profile, then Delete Account",
         "domains": [
@@ -7000,6 +7006,7 @@
 
     {
         "name": "TikTok",
+        "url": "https://www.tiktok.com/",
         "difficulty": "medium",
         "notes": "Tap account (with people depicton, on the bottom right edge)>Menu (on top right edge)>Privacy and Settings>Privacy and Safety>Delete Account>Next>Continue>Delete Account.",
         "domains": [
@@ -7029,6 +7036,7 @@
 
     {
         "name": "Tokopedia",
+        "url": "https://www.tokopedia.com/",
         "difficulty": "impossible",
         "domains": [
             "tokopedia.com"
