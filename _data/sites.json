@@ -1646,7 +1646,7 @@
 
     {
         "name": "Depositphotos",
-        "url": "depositphotos.com",
+        "url": "https://depositphotos.com/",
         "difficulty": "hard",
         "notes": "Enter live chat in the other department and request cancellation of your account or if it is not available use the contact form.",
         "notes_it": "Entra in live chat nel reparto altro e richiedi la cancellazione del tuo account o se non è disponibile utilizza il modulo di contatto.",
@@ -1657,7 +1657,7 @@
 
     {
         "name": "Desk.com",
-        "url": "desk.com",
+        "url": "https://desk.com",
         "difficulty": "hard",
         "email": "support@desk.com",
         "notes": "Required to send e-mail, but it is quickly responded.",
