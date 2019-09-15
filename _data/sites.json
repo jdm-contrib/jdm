@@ -3178,9 +3178,9 @@
 
     {
         "name": "HelloWallet",
-        "url": "https://my.hellowallet.com/#MySettings",
+        "url": "https://my.hellowallet.com/",
         "difficulty": "easy",
-        "notes": "Click 'Cancel My Membership' on the above URL and confirm.",
+        "notes": "Login, go to setting, click 'Cancel My Membership' and confirm.",
         "domains": [
             "hellowallet.com"
         ]
