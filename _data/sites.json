@@ -1891,16 +1891,6 @@
     },
 
     {
-        "name": "Dragdis",
-        "url": "https://dragdis.com/Account/Settings/remove",
-        "difficulty": "easy",
-        "notes": "Enter a reason for leaving the service and then click on 'Delete account'.",
-        "domains": [
-            "dragdis.com"
-        ]
-    },
-
-    {
         "name": "Dreamwidth",
         "url": "https://www.dreamwidth.org/accountstatus",
         "difficulty": "medium",
@@ -2032,16 +2022,6 @@
         "notes": "You have to fill out the Data protection request form on their website, providing your identification.",
         "domains": [
             "easyjet.com"
-        ]
-    },
-
-    {
-        "name": "EATags",
-        "url": "https://eatags.com/account/profile",
-        "difficulty": "easy",
-        "notes": "Click on the 'Unregister' button near the bottom of the page. Enter password and click on 'Delete account'.",
-        "domains": [
-            "eatags.com"
         ]
     },
 
@@ -2660,16 +2640,6 @@
         "notes_pt_br": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management > Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los <a href=\"mailto:support@gearbest.com\">via e-mail</a>.",
         "domains": [
             "gearbest.com"
-        ]
-    },
-
-    {
-        "name": "Gemscool",
-        "url" : "https://www.gemscool.com",
-        "difficulty": "hard",
-        "notes": "Account is automatically deleted if inactive for a year.",
-        "domains": [
-            "gemscool.com"
         ]
     },
 
@@ -5014,21 +4984,6 @@
         "notes": "Password is required for deletion. Pastes will be removed and the username cannot be used again. No Recovery after deletion.",
         "domains": [
             "pastebin.com"
-        ]
-    },
-
-    {
-        "name": "Path",
-        "url": "https://path.com",
-        "difficulty": "medium",
-        "notes": "You cannot delete your account from the website. Open the iOS/Android app, go to settings → about → disable account → delete account.",
-        "notes_fr": "Vous ne pouvez pas supprimer votre compte su site web. Ouvrez l'appli iOS/Androis, allez dans les parametres → about → disable account → delete account.",
-        "notes_it": "Non puoi cancellare il tuou account. Apri l'app iOS/Android, vai su go to settings → about → disable account → delete account.",
-        "notes_pt_br": "Você não pode deletar sua conta do site. Abra o aplicativo iOS/Android, vá em settings → about → disable account → delete account.",
-        "notes_cat": "No podrà esborrar el seu compte de la web. Obri l'aplicació d'iOS/Android, vagi a settings → about → disable account → delete account.",
-        "notes_es": "No podrás borrar tu cuenta de la web. Abre la aplicación de iOS/Android, ve a settings → about → disable account → delete account.",
-        "domains": [
-            "path.com"
         ]
     },
 
