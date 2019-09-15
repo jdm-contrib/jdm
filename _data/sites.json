@@ -313,7 +313,7 @@
 
     {
         "name": "Any.do",
-        "url": "https://support.any.do/hc/en-us/articles/202759291-How-can-I-delete-my-account-",
+        "url": "https://support.any.do/account-and-profile/",
         "difficulty": "medium",
         "notes": "You can only delete your account via the mobile app: install the app, log in, click Profile, click Delete Account.",
         "domains": [
@@ -1515,16 +1515,6 @@
     },
 
     {
-        "name": "Cryptocat",
-        "url": "https://crypto.cat/help.html#deleteAccount",
-        "difficulty": "easy",
-        "notes": "In order to delete your Cryptocat account, open the Account menu, navigate to the Settings submenu and click on Delete Account.",
-        "domains": [
-            "crypto.cat"
-        ]
-    },
-
-    {
         "name": "CryptPad",
         "url": "https://cryptpad.fr/settings/",
         "difficulty": "easy",
@@ -1541,22 +1531,6 @@
         "notes": "Login to your account first. Go to 'Settings, then 'Delete Account'. 'Confirm by ticking 'I understand the consequences.' and click 'Delete Account'.",
         "domains": [
             "cybrary.com"
-        ]
-    },
-
-    {
-        "name": "Daily Mile",
-        "url": "http://www.dailymile.com/account/settings/edit",
-        "difficulty": "easy",
-        "notes": "Edit your account and select 'Remove my account'.",
-        "notes_fr": "Modifiez vos infos et selectionnez Remove my account.",
-        "notes_de": "Editiere deinen Account und wähle 'Remove my account'",
-        "notes_it": "Edita il tuo account e clicca il pulsante 'Remove my account'",
-        "notes_pt_br": "Edite sua conta e seleciona 'Remove my account'.",
-        "notes_cat": "Editi el seu compte i seleccioni 'Remove my account'.",
-        "notes_es": "Edita tu cuenta y seleccione 'Remove my account'.",
-        "domains": [
-            "dailymile.com"
         ]
     },
 
@@ -1814,16 +1788,6 @@
     },
 
     {
-        "name": "Disney Movies Anywhere",
-        "url": "https://www.disneymoviesanywhere.com/setting/account/device-management",
-        "difficulty": "easy",
-        "notes": "Log into your account, go to the settings page, click on 'Profile', scroll to the bottom, click 'Delete Account', and 'Yes, delete this account'.",
-        "domains": [
-            "disneymoviesanywhere.com"
-        ]
-    },
-
-    {
         "name": "Disqus",
         "url": "https://disqus.com/home/settings/account/",
         "difficulty": "easy",
@@ -1872,7 +1836,7 @@
 
     {
         "name": "DOWN",
-        "url": "https://www.downapp.com/settings",
+        "url": "https://www.downapp.com/",
         "difficulty": "easy",
         "domains": [
             "downapp.com"
@@ -1911,7 +1875,7 @@
 
     {
         "name": "Drone.io",
-        "url": "https://drone.io/admin",
+        "url": "https://drone.io/",
         "difficulty": "easy",
         "domains": [
             "drone.io"
@@ -2343,7 +2307,7 @@
 
     {
         "name": "Feedly",
-        "url": "https://feedly.com/#erase",
+        "url": "https://feedly.com/i/erase",
         "difficulty": "easy",
         "notes": "Email customer support to request deletion.",
         "notes_fr": "Contactez le support pour supprimer votre compte.",
@@ -3925,7 +3889,7 @@
 
     {
         "name": "Lingvist",
-        "url": "https://lingvist.com/forum/topic/32/how-to-and-faq/4",
+        "url": "https://lingvist.helpscoutdocs.com/article/173-i-dont-want-to-pay-delete-my-account",
         "email": "hello@lingvist.io",
         "difficulty": "hard",
         "notes": "You must contact Lingvist to request account deletion.",
@@ -4608,21 +4572,6 @@
     },
 
     {
-        "name": "Netlog",
-        "url": "http://en.netlog.com/go/login",
-        "difficulty": "easy",
-        "notes": "Select 'settings', then 'account', then 'delete'.",
-        "notes_fr": "Selectionnez « Settings », puis « Account », puis « Delete ».",
-        "notes_it": "Seleziona 'settings', quindi 'account' e infine 'delete'.",
-        "notes_pt_br": "Selecione 'settings', então 'account', e 'delete'.",
-        "notes_cat": "Seleccioni 'settings', a continuació 'account' i 'delete'.",
-        "notes_es": "Selecciona 'settings', a continuación 'account' y 'delete'.",
-        "domains": [
-            "netlog.com"
-        ]
-    },
-
-    {
         "name": "Netology",
         "url": "http://netology.ru",
         "difficulty": "impossible",
@@ -5102,17 +5051,6 @@
         "domains": [
             "picasaweb.google.com",
             "picasa.google.com"
-        ]
-    },
-
-    {
-        "name": "Pinboard",
-        "url": "https://pinboard.in/faq/#close_account",
-        "difficulty": "hard",
-        "notes": "Send us an e-mail from the address that you have registered - we take care of it.",
-        "email": "support@pinboard.in",
-        "domains": [
-            "pinboard.in"
         ]
     },
 
@@ -5619,16 +5557,6 @@
     },
 
     {
-        "name": "Riffle",
-        "url": "https://riffle.uservoice.com/knowledgebase/articles/244346-delete-your-account",
-        "difficulty": "easy",
-        "notes": "On your profile page, click 'Edit Profile' and use the 'Cancel account' button.",
-        "domains": [
-            "riffle.com"
-        ]
-    },
-
-    {
         "name": "Roblox",
         "url": "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
         "difficulty": "impossible",
@@ -5736,20 +5664,6 @@
         "difficulty": "easy",
         "domains": [
             "scribd.com"
-        ]
-    },
-
-    {
-        "name": "Scriptogr.am",
-        "url": "http://scriptogr.am/dashboard/#settings",
-        "difficulty": "easy",
-        "notes": "Click the link 'Delete your account' at the bottom. Note: On your dropbox, the content of this site will not be removed. If needed, you can delete the folder 'Apps/scriptogram' manually.",
-        "notes_it": "Clicca il link 'Delete your account' sul fondo. Nota: Su dropbox il contenuto di questo sito non verrà eliminato. Se necessario, devi eliminare la cartella 'Apps/scriptogram' manualmente",
-        "notes_pt_br": "Clique no link 'Delete your account' no final da página. Nota: No seu dropbox, o conteúdo deste site não será removido. Caso necessário, você pode remover a pastas 'Apps/scriptogram' manualmente.",
-        "notes_cat": "Cliqui a l'enllaç 'Delete your account' al final de la pàgina. Nota: Al teu Dropbox, el contingut d'aquest servei a Dropbox no serà esborrat. Si ho necessita, pot esborrar la carpeta 'Apps/scriptogram' de forma manual.",
-        "notes_es": "Haz clic en el enlace 'Delete your account' al final de la página. Nota: En tu Dropbox, el contenido de este servicio en Dropbox no será borrado. Si lo necessita, puede borrar la carpeta 'Apps/scriptogram' de forma manual.",
-        "domains": [
-            "scriptogr.am"
         ]
     },
 
@@ -6065,7 +5979,7 @@
 
     {
         "name": "SpigotMC",
-        "url": "https://www.spigotmc.org/threads/how-can-i-delete-my-account.298730",
+        "url": "https://www.spigotmc.org/threads/delete-account.205176/",
         "difficulty": "impossible",
         "notes": "You can't delete your account you can only deactivate your account. Go for this to your profile and click the report button on your profile and write delete me and wait.",
         "notes_de": "Du kannst deinen Account nicht komplett löschen sondern nur deaktivieren. Gehe dazu auf dein Profil und klicke den Reportbutton auf deinem Profil und schreibe delete me",
@@ -6190,7 +6104,7 @@
 
     {
         "name": "Stereomood",
-        "url": "http://www.stereomood.com/users/account",
+        "url": "http://www.stereomood.com/",
         "difficulty": "easy",
         "domains": [
             "stereomood.com"
@@ -6383,7 +6297,7 @@
 
     {
         "name": "TED",
-        "url": "https://support.ted.com/customer/en/portal/articles/2581933-deleting-an-account",
+        "url": "https://support.ted.com/hc/en-us/articles/360005310614-TED-Ed-Accounts-and-managing-students",
         "difficulty": "hard",
         "notes": "Contact the TED support team <a href=\"http://support.ted.com/customer/portal/emails/new\">via their online contact form</a> for account deletion requests",
         "domains": [
@@ -6743,7 +6657,7 @@
 
     {
         "name": "Unity ID",
-        "url": "https://support.unity3d.com/hc/en-us/articles/209059926",
+        "url": "https://support.unity3d.com/hc/en-us/articles/360000878446-How-do-I-permanently-delete-my-Unity-account-",
         "difficulty": "impossible",
         "notes": "It is not possible for users to delete their own Unity ID accounts, instead users must contact Unity to disable accounts. Requires that the request come from the email linked to the account.",
         "domains": [
@@ -7051,7 +6965,7 @@
 
     {
         "name": "whistle.im",
-        "url": "http://whistle.im/browser#vcard",
+        "url": "http://whistle.im/",
         "difficulty": "easy",
         "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)",
         "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)",
