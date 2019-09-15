@@ -1604,16 +1604,6 @@
     },
 
     {
-        "name": "Dark Creations",
-        "url": "https://www.darkcreations.org/",
-        "difficulty": "impossible",
-        "notes": "Their community rules state that accounts will never be deleted.",
-        "domains": [
-            "darkcreations.org"
-        ]
-    },
-
-    {
         "name": "Dashlane",
         "url": "https://www.dashlane.com/deleteaccount",
         "difficulty": "easy",
@@ -3308,7 +3298,7 @@
 
     {
         "name": "Hi-Rez Studios",
-        "url": "https://hi-rez.custhelp.com/app/answers/detail/a_id/249/~/removing-your-account",
+        "url": "http://hirezstudios.force.com/support/articles/en_US/Knowledge/Removing-Your-Account/",
         "difficulty": "impossible",
         "domains": [
             "hirezstudios.com"
@@ -3555,15 +3545,6 @@
     },
 
     {
-        "name": "Instacast Cloud",
-        "url": "http://instacastcloud.com/dashboard/dangerzone",
-        "difficulty": "easy",
-        "domains": [
-            "instacastcloud.com"
-        ]
-    },
-
-    {
         "meta": "popular",
         "name": "Instagram",
         "url": "https://instagram.com/accounts/remove/request/permanent/",
@@ -3766,7 +3747,7 @@
 
     {
         "name": "JSFiddle",
-        "url": "http://doc.jsfiddle.net/meta/channels.html?highlight=contact",
+        "url": "http://docs.jsfiddle.net/",
         "difficulty": "hard",
         "notes": "Please email a request if you’d like your account to be deleted.",
         "notes_fr": "Veuillez envoyer votre demande au support à support@jsfiddle.net si vous voulez qu'on supprime votre compte.",
@@ -6035,38 +6016,12 @@
     },
 
     {
-        "meta": "popular",
-        "name": "Readability",
-        "url": "https://www.readability.com/account/delete",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account, but you can deactivate it.",
-        "notes_fr": "Vous ne pouvez pas supprimer votre compte, mais vous pouvez le désactiver.",
-        "notes_it": "Non puoi eliminare il tuo account ma puoi disattivarlo.",
-        "notes_pt_br": "Você não pode deletar sua conta, mas você pode desativá-la.",
-        "notes_cat": "No podrà esborrar el seu compte, pero es podrà desactivar.",
-        "notes_es": "No podrás borrar tu cuenta, pero se podrá desactivar.",
-        "notes_pl": "Nie możesz usunąć swojego konta, ale możesz je deaktywować.",
-        "domains": [
-            "readability.com"
-        ]
-    },
-
-    {
         "name": "Readernaut",
         "url": "https://readernaut.com",
         "difficulty": "easy",
         "notes": "Go to your profile page, and use the 'Delete Your Account' button.",
         "domains": [
             "readernaut.com"
-        ]
-    },
-
-    {
-        "name": "ReadyForZero",
-        "url": "https://www.readyforzero.com/user/settings#readyforzero-account",
-        "difficulty": "easy",
-        "domains": [
-            "readyforzero.com"
         ]
     },
 
