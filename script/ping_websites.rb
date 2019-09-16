@@ -4,7 +4,7 @@
 # Exits 0 on success, exits 1 upon JSON parsing errors
 
 require "net/http"
-require 'json'
+require "json"
 
 # thread pool class
 class ThreadPool
@@ -39,16 +39,13 @@ class ThreadPool
 end
 
 def url_exist(name, url_string)
-    url = URI.parse(URI.encode(url_string.strip))
-    req = Net::HTTP.new(url.host, url.port)
-    req.use_ssl = (url.scheme == 'https')
-    path = url.path unless url.path.empty?
-    res = req.request_head(path || '/')
+    url = URI.parse(url_string.strip)
+    res = Net::HTTP.get_response(url)
     if res.kind_of?(Net::HTTPRedirection)
         # Do nothing
     elsif res.code == "404"
         # Some webpages return 404 even though they properly redirect to login pages
-        STDERR.puts ' Entry: ' + name + ' returned ' + res.to_s
+        STDERR.puts "Entry: #{name} returned #{res.to_s}"
     end
 rescue  Errno::ECONNRESET,
         Errno::ENOENT,
@@ -57,7 +54,7 @@ rescue  Errno::ECONNRESET,
         Net::ReadTimeout,
         SocketError => e
     # All categories where a site is most definitely not operational anymore
-    puts "Rescued: #{e.inspect}"
+    puts "Rescued #{name}: #{e.inspect}"
     false
 rescue OpenSSL::SSL::SSLError
     # Bad website has SSL certificate error, but at least it responds to requests
@@ -77,7 +74,7 @@ begin
             end
         else
             # Forces all entries on the JSON to have an URL
-            STDERR.puts 'Entry: ' + name + ' has no URL'
+            STDERR.puts "Entry: #{name} has no URL"
             exit 1
         end
     end
