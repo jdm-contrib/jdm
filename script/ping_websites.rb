@@ -13,23 +13,23 @@ class ThreadPool
         @jobs = Queue.new
         @pool = Array.new(@size) do |i|
             Thread.new do
-              Thread.current[:id] = i
-              catch(:exit) do
-                loop do
-                  job, args = @jobs.pop
-                  job.call(*args)
+                Thread.current[:id] = i
+                catch(:exit) do
+                    loop do
+                        job, args = @jobs.pop
+                        job.call(*args)
+                    end
                 end
-              end
             end
         end
     end
 
-  # add a job to queue
+    # add a job to queue
     def schedule(*args, &block)
         @jobs << [block, args]
     end
 
-  # run threads and perform jobs from queue
+    # run threads and perform jobs from queue
     def run!
         @size.times do
             schedule { throw :exit }
@@ -50,12 +50,12 @@ def url_exist(name, url_string)
         # Some webpages return 404 even though they properly redirect to login pages
         STDERR.puts ' Entry: ' + name + ' returned ' + res.to_s
     end
-rescue Errno::ECONNRESET,
-       Errno::ENOENT,
-       Errno::ETIMEDOUT,
-       Net::OpenTimeout,
-       Net::ReadTimeout,
-       SocketError => e
+rescue  Errno::ECONNRESET,
+        Errno::ENOENT,
+        Errno::ETIMEDOUT,
+        Net::OpenTimeout,
+        Net::ReadTimeout,
+        SocketError => e
     # All categories where a site is most definitely not operational anymore
     puts "Rescued: #{e.inspect}"
     false
