@@ -6108,6 +6108,19 @@
     },
 
     {
+        "name": "SoloLearn",
+        "url": "https://www.sololearn.com/",
+        "difficulty": "hard",
+        "notes": "E-mail requesting a full deletion. It takes 30 days for it to be irreversible.",
+        "email": "info@sololearn.com",
+        "email_subject": "Delete Account",
+        "email_body": "I want to permanently delete my account from SoloLearn",
+        "domains": [
+            "sololearn.com"
+        ]
+    },
+
+    {
         "name": "Songkick",
         "url": "http://www.songkick.com/settings/account-settings",
         "difficulty": "easy",
