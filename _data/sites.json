@@ -565,7 +565,7 @@
 
     {
         "name": "Bambuser",
-        "url": "https://bambuser.com/settings",
+        "url": "https://bambuser.com/",
         "difficulty": "easy",
         "notes": "Go to your Settings page and scroll down to find 'Deactivate' account. Click on 'Close Account' button, and confirm the account deletion.",
         "notes_fr": "Allez dans vos Parametres et allez jusqu'à Désactiver mon compte. Cliquez Fermer mon compte, et confirmez.",
@@ -1100,7 +1100,8 @@
 
     {
         "name": "Channel 4",
-        "url": "https://4id.channel4.com/account/remove",
+        "url": "https://4id.channel4.com/",
+        "notes": "Login, go to account page and click remove.",
         "difficulty": "easy",
         "domains": [
             "channel4.com"
@@ -1441,10 +1442,10 @@
 
     {
         "name": "Coursera",
-        "url": "https://www.coursera.org/account-settings",
+        "url": "https://www.coursera.org/",
         "difficulty": "easy",
-        "notes": "Delete acccount button is at the bottom of the page.",
-        "notes_es": "El botón para borrar la cuenta está al final de la página.",
+        "notes": "Delete acccount button is at the bottom of the account settings page.",
+        "notes_es": "El botón para borrar la cuenta está al final de la página de configuración de cuenta.",
         "domains": [
             "coursera.org"
         ]
@@ -2397,7 +2398,7 @@
 
     {
         "name": "Flattr",
-        "url": "https://flattr.com/deleteaccount",
+        "url": "https://flattr.com/",
         "difficulty": "easy",
         "domains": [
             "flattr.com"
@@ -2908,7 +2909,7 @@
 
     {
         "name": "GoPetition",
-        "url": "https://www.gopetition.com/accountclosure.php",
+        "url": "https://www.gopetition.com/",
         "difficulty": "easy",
         "notes": "Enter a reason for closing and your password and click delete, however this is more like a deactivation as you can contact them to undelete it",
         "notes_fr": "Saisissez une raison pour fermer et votre mot de passe et cliquez sur supprimer, mais cela est plus comme une désactivation que vous pouvez les contacter pour annuler la suppression",
@@ -3697,7 +3698,7 @@
 
     {
         "name": "Keepa",
-        "url": "https://keepa.com/#!channels",
+        "url": "https://keepa.com/",
         "difficulty": "easy",
         "notes": "Login to your account. Click on 'Settings', then 'Account'. Click 'Yes, delete my account', enter your password and click 'Delete account'.",
         "domains": [
@@ -4049,9 +4050,9 @@
 
     {
         "name": "LoseIt",
-        "url": "http://www.loseit.com/#Settings:Account%20Information^Account%20Information",
+        "url": "http://www.loseit.com/",
         "difficulty": "easy",
-        "notes": "Click “Close account”.",
+        "notes": "Go to the Settings page of your account, then account information and click “Close account”.",
         "domains": [
             "loseit.com"
         ]
@@ -6530,7 +6531,7 @@
     {
         "name": "StatusCake",
         "difficulty": "easy",
-        "url": "https://www.statuscake.com/App/User.php",
+        "url": "https://www.statuscake.com/",
         "notes": "Under 'Account' scroll down and click the red button 'Remove Account'",
         "domains": [
             "statuscake.com"
@@ -7533,7 +7534,7 @@
 
     {
         "name": "WishSimply",
-        "url": "https://wishsimply.com/profile/account-settings",
+        "url": "https://wishsimply.com/",
         "difficulty": "easy",
         "notes": "Enter your account password and click on 'DELETE ACCOUNT'.",
         "domains": [
@@ -7585,7 +7586,7 @@
 
     {
         "name": "Wunderlist",
-        "url": "https://www.wunderlist.com/#/preferences/account",
+        "url": "https://www.wunderlist.com/",
         "difficulty": "easy",
         "notes": "Click 'Delete Account' at the bottom of the account preferences panel.",
         "notes_fr": "Cliquez 'Supprimer mon compte' en bas de la page.",
