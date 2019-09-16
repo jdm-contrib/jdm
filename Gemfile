@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "ffi", ">= 1.9.24"
-gem "jekyll", ">= 3.7.4"
+gem "ffi", ">= 1.11.1"
+gem "jekyll", "= 3.8.6"
 gem "html-proofer"
