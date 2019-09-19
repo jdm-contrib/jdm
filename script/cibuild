@@ -7,7 +7,7 @@ bundle exec htmlproofer ./_site --checks-to-ignore 'LinkCheck'
 
 # Validate JSON
 ./script/validate_json.rb
-#./script/ping_websites.rb
+./script/ping_websites.rb
 
 # Validate all files adhere to .editorconfig
 # Exclude files which should not be checked against .editorconfig
