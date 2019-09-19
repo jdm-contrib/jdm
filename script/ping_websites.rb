@@ -48,6 +48,7 @@ def url_exist(name, url_string)
         STDERR.puts "Entry: #{name} returned #{res.to_s}"
     end
 rescue  Errno::ECONNRESET,
+        Errno::EHOSTUNREACH,
         Errno::ENOENT,
         Errno::ETIMEDOUT,
         Net::OpenTimeout,
