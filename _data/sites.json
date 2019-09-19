@@ -1159,16 +1159,6 @@
     },
 
     {
-        "name": "CiteULike",
-        "url": "http://www.citeulike.org",
-        "difficulty": "impossible",
-        "notes": "We don't delete old accounts. You can however delete your own articles, remove yourself from any groups you're a member of, remove your profile information, clear your watchlist, and delete blog articles.",
-        "domains": [
-            "citeulike.org"
-        ]
-    },
-
-    {
         "name": "ClassPass",
         "url": "https://classpass.com/settings/membership",
         "difficulty": "impossible",
@@ -6842,16 +6832,6 @@
         "notes": "Tap account (with people depicton, on the bottom right edge)>Menu (on top right edge)>Privacy and Settings>Privacy and Safety>Delete Account>Next>Continue>Delete Account.",
         "domains": [
             "tiktok.com"
-        ]
-    },
-
-    {
-        "name": "TinyDeal",
-        "url": "http://help.tinydeal.com/contact-us",
-        "difficulty": "impossible",
-        "notes": "You will most likely be told that it's impossible to delete your account when contacting customer service.",
-        "domains": [
-            "tinydeal.com"
         ]
     },
 
