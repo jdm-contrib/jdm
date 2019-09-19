@@ -1,8 +1,10 @@
 #!/usr/bin/env ruby
 
 # Validates JSON files in the _data directory
-# Exits 0 on success, exits 1 upon JSON parsing errors,
-# and exits 2 if a file's keys are not in alphanumeric order
+# Exits 0 on success
+# Exits 1 upon JSON parsing errors
+# Exits 2 if a file's keys are not in alphanumeric order
+# Exits 3 if any sites.json entries are missing the required 'url' key
 
 require 'json'
 
@@ -23,6 +25,11 @@ json_files.each do |file|
             #   i = 0
             # hence, the key variable holds the actual value
             if File.basename(file) =~ /sites.json/
+                unless key.key?('url')
+                    # Forces all sites.json entries to have a URL key
+                    STDERR.puts "Entry: #{name} has no URL"
+                    exit 3
+                end
                 name = get_transformed_name(key)
                 prev_name = get_transformed_name(json[i - 1])
             else

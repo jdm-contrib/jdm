@@ -1,12 +1,12 @@
 #!/usr/bin/env ruby
 
-# Validates sites.json in the _data directory
-# Exits 0 on success, exits 1 upon JSON parsing errors
+# Prints sites.json entries containing links which may be out of operation or
+# unreachable
 
 require "net/http"
 require "json"
 
-# thread pool class
+# Taken from https://rossta.net/blog/a-ruby-antihero-thread-pool.html
 class ThreadPool
     def initialize(size)
         @size = size
@@ -53,36 +53,22 @@ rescue  Errno::ECONNRESET,
         Net::OpenTimeout,
         Net::ReadTimeout,
         SocketError => e
-    # All categories where a site is most definitely not operational anymore
-    puts "Rescued #{name}: #{e.inspect}"
+    # All categories where a site is most definitely non-operational
+    puts "HTTP request failed to #{name}: #{e.inspect}"
     false
 rescue OpenSSL::SSL::SSLError
-    # Bad website has SSL certificate error, but at least it responds to requests
+    # Websites with certificate errors are responding to requests
     true
 end
 
-begin
-    json = JSON.parse(File.read('_data/sites.json'))
-    pool = ThreadPool.new(20)
-    # check if a website is alive
-    json.each_with_index do |(key, _), i|
-        name = key['name']
-        if key.key?('url')
-            url = key['url']
-            pool.schedule(name, url) do |name , url|
-                url_exist(name, url)
-            end
-        else
-            # Forces all entries on the JSON to have an URL
-            STDERR.puts "Entry: #{name} has no URL"
-            exit 1
-        end
+json = JSON.parse(File.read('_data/sites.json'))
+pool = ThreadPool.new(20)
+# check if a website is alive
+json.each_with_index do |(key, _), i|
+    name = key['name']
+    url = key['url']
+    pool.schedule(name, url) do |name , url|
+        url_exist(name, url)
     end
-    pool.run!
-rescue JSON::ParserError => error
-    STDERR.puts 'JSON parsing error encountered!'
-    STDERR.puts error.backtrace.join("\n")
-    exit 1
 end
-
-exit 0
+pool.run!
