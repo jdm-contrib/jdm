@@ -3117,7 +3117,7 @@
         "name": "Guild Wars",
         "url": "https://help.guildwars2.com/hc/de/requests/new?ticket_form_id=38933",
         "difficulty": "hard",
-        "notes": "You need create a support ticket and request for them to delete your account. Before your account gets deleted you need to answer why you want the account to be deleted.",
+        "notes": "You need to create a support ticket and request for them to delete your account. Before your account gets deleted you need to answer why you want the account to be deleted.",
         "notes_de": "Über ein Support-Ticket kann eine Löschung des Accounts beantragt werden. Bevor der Account gelöscht wird, muss zuerst angegeben werden, warum der Account gelöscht werden soll.",
         "domains": [
             "arena.net",
@@ -4186,6 +4186,8 @@
     {
         "name": "MacTrade",
         "url": "https://www.mactrade.de/goodahead_customer/account/delete/",
+        "notes": "In your user account go to 'Delete Account' and confirm the deletion via the 'Delete account now' button.",
+        "notes_de": "Wähle 'Konto löschen' in deinem Benutzerkonto und bestätige die Löschung mit dem Button 'Benutzerkonto jetzt löschen'.",
         "difficulty": "easy",
         "domains": [
             "mactrade.de"
