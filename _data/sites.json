@@ -2408,13 +2408,8 @@
         "name": "Feedly",
         "url": "https://feedly.com/#erase",
         "difficulty": "easy",
-        "notes": "Email customer support to request deletion.",
-        "notes_fr": "Contactez le support pour supprimer votre compte.",
-        "notes_it": "Contatta il servizio clienti via email per richiedere la cancellazione.",
-        "notes_de": "Schreibe eine mail an den Kundensupport um die Löschung zu beantragen",
-        "notes_pt_br": "Envie um e-mail para a assistência ao cliente para pedir a remoção.",
-        "notes_cat": "Enviï un e-mail a l'assistència al client per demanar l'eliminació del compte.",
-        "notes_es": "Envía un e-mail a la asistencia al cliente para pedir la eliminación de tu cuenta.",
+        "notes": "Log in and click the 'Delete Account' button.",
+        "notes_de": "Melde dich an und klicke auf den 'Account löschen' Button.",
         "domains": [
             "feedly.com"
         ]
