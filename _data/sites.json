@@ -7481,5 +7481,16 @@
         "domains": [
             "codeanywhere.com"
         ]
+    },
+
+    {
+        "name": "Native Instruments",
+        "url": "https://support.native-instruments.com/hc/requests/new",
+        "difficulty": "hard",
+        "notes": "Fill the ticket form and wait for response.",
+        "domains": [
+            "native-instruments.com",
+            "support.native-instruments.com"
+        ]
     }
 ]
