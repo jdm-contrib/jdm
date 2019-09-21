@@ -1272,6 +1272,16 @@
     },
 
     {
+        "name": "Codeanywhere",
+        "url": "https://codeanywhere.com/dashboard",
+        "difficulty": "easy",
+        "notes": "Login then click Delete Account button and enter your password.",
+        "domains": [
+            "codeanywhere.com"
+        ]
+    },
+
+    {
         "name": "Codecademy",
         "url": "https://www.codecademy.com/account/delete_acct",
         "difficulty": "easy",
@@ -4761,6 +4771,17 @@
     },
 
     {
+        "name": "Native Instruments",
+        "url": "https://support.native-instruments.com/hc/requests/new",
+        "difficulty": "hard",
+        "notes": "Fill the ticket form and wait for response.",
+        "domains": [
+            "native-instruments.com",
+            "support.native-instruments.com"
+        ]
+    },
+
+    {
         "name": "Nearpod",
         "url": "http://www.nearpod.com/contact/",
         "difficulty": "hard",
@@ -7705,27 +7726,6 @@
         "email_body": "My first and last name are XXXXXX XXXXXX, my e-mail address is XXXXXX, and my user ID number is XXXXXX",
         "domains": [
             "zynga.com"
-        ]
-    },
-
-    {
-        "name": "Codeanywhere",
-        "url": "https://codeanywhere.com/dashboard",
-        "difficulty": "easy",
-        "notes": "Login then click Delete Account button and enter your password.",
-        "domains": [
-            "codeanywhere.com"
-        ]
-    },
-
-    {
-        "name": "Native Instruments",
-        "url": "https://support.native-instruments.com/hc/requests/new",
-        "difficulty": "hard",
-        "notes": "Fill the ticket form and wait for response.",
-        "domains": [
-            "native-instruments.com",
-            "support.native-instruments.com"
         ]
     }
 ]
