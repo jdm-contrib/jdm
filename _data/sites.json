@@ -4479,7 +4479,7 @@
         "name": "Mint",
         "url": "https://mint.com",
         "difficulty": "easy",
-        "notes": "Go to 'Settings', then 'Sign In & Security', then scroll down to 'Delete your Mint account'. Enter your email and password again and click 'Delete'.",      
+        "notes": "Go to 'Settings', then 'Sign In & Security', then scroll down to 'Delete your Mint account'. Enter your email and password again and click 'Delete'.",
         "domains": [
             "mint.com"
         ]
