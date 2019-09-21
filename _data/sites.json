@@ -5466,6 +5466,16 @@
     },
 
     {
+        "name": "PlantSnap",
+        "url": "https://www.plantsnap.com/support-center/get-in-touch/",
+        "difficulty": "medium",
+        "notes": "To delete your account, open the app on your mobile device and click the \"More\" option button. Then click your profile name, from there you will be able to delete your account. If you require additional help, use the contact form provided on their website.",
+        "domains": [
+            "plantsnap.com"
+        ]
+    },
+
+    {
         "name": "Player FM",
         "url": "https://player.fm/will-miss-you",
         "difficulty": "easy",
