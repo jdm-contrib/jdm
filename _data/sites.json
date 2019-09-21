@@ -5248,6 +5248,16 @@
             "pixlr.com"
         ]
     },
+    
+        {
+        "name": "PlantSnap",
+        "url": "https://www.plantsnap.com/support-center/get-in-touch/",
+        "difficulty": "medium",
+        "notes": "To delete your account, open the app on your mobile device and click the \"More\" option button. Then click your profile name, from there you will be able to delete your account. If you require additional help, use the contact form provided on their website.",
+        "domains": [
+            "plantsnap.com"
+        ]
+    },
 
     {
         "name": "Player FM",
@@ -5256,16 +5266,6 @@
         "notes": "In upper right, click the settings button and select \"Help/FAQ\". Select option \"How do I delete my account and leave Player FM?\" - link will be below. Type \"delete\" in the box and click the button to finalize.",
         "domains": [
             "player.fm"
-        ]
-    },
-    
-    {
-        "name": "PlantSnap",
-        "url": "https://www.plantsnap.com/support-center/get-in-touch/",
-        "difficulty": "medium",
-        "notes": "To delete your account, open the app on your mobile device and click the \"More\" option button. Then click your profile name, from there you will be able to delete your account. If you require additional help, use the contact form provided on their website.",
-        "domains": [
-            "plantsnap.com"
         ]
     },
 
