@@ -114,6 +114,18 @@
     },
 
     {
+        "name": "Acasa",
+        "url": "https://app.helloacasa.com/register/edit",
+        "difficulty": "easy",
+        "notes": "In your account settings choose 'Remove my account' at the bottom.",
+        "notes_de": "Wähle 'Remove my account' in den Account-Einstellungen.",
+        "domains": [
+            "splittable.co",
+            "helloacasa.com"
+        ]
+    },
+
+    {
         "name": "Acorns",
         "url": "https://www.acorns.com/support/contact/",
         "difficulty": "impossible",
@@ -878,6 +890,18 @@
     },
 
     {
+        "name": "Bring!",
+        "url": "https://getbring.com/#!/contact",
+        "difficulty": "hard",
+        "notes": "Contact support and ask for your account to be deleted.",
+        "notes_de": "Kontaktiere den Support und fordere eine Löschung des Accounts an.",
+        "email": "feedback@getbring.com",
+        "domains": [
+            "getbring.com"
+        ]
+    },
+
+    {
         "name": "British Airways",
         "url": "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
         "difficulty": "hard",
@@ -1244,6 +1268,16 @@
         "notes_es": "Empieza una discusión privada con ellos y 'procurarán hacerlo'.",
         "domains": [
             "codeschool.com"
+        ]
+    },
+
+    {
+        "name": "Codeanywhere",
+        "url": "https://codeanywhere.com/dashboard",
+        "difficulty": "easy",
+        "notes": "Login then click Delete Account button and enter your password.",
+        "domains": [
+            "codeanywhere.com"
         ]
     },
 
@@ -1870,6 +1904,17 @@
     },
 
     {
+        "name": "Doodle",
+        "url": "https://doodle.com/account",
+        "difficulty": "easy",
+        "notes": "In your Doodle account select 'Delete Doodle account' at the bottom of the page.",
+        "notes_de": "Wähle 'Doodle Konto löschen' unten in den Konto-Einstellungen.",
+        "domains": [
+            "doodle.com"
+        ]
+    },
+
+    {
         "name": "Douban",
         "url": "http://www.douban.com/accounts/suicide/",
         "difficulty": "easy",
@@ -2373,13 +2418,8 @@
         "name": "Feedly",
         "url": "https://feedly.com/#erase",
         "difficulty": "easy",
-        "notes": "Email customer support to request deletion.",
-        "notes_fr": "Contactez le support pour supprimer votre compte.",
-        "notes_it": "Contatta il servizio clienti via email per richiedere la cancellazione.",
-        "notes_de": "Schreibe eine mail an den Kundensupport um die Löschung zu beantragen",
-        "notes_pt_br": "Envie um e-mail para a assistência ao cliente para pedir a remoção.",
-        "notes_cat": "Enviï un e-mail a l'assistència al client per demanar l'eliminació del compte.",
-        "notes_es": "Envía un e-mail a la asistencia al cliente para pedir la eliminación de tu cuenta.",
+        "notes": "Log in and click the 'Delete Account' button.",
+        "notes_de": "Melde dich an und klicke auf den 'Account löschen' Button.",
         "domains": [
             "feedly.com"
         ]
@@ -3084,6 +3124,19 @@
     },
 
     {
+        "name": "Guild Wars",
+        "url": "https://help.guildwars2.com/hc/de/requests/new?ticket_form_id=38933",
+        "difficulty": "hard",
+        "notes": "You need to create a support ticket and request for them to delete your account. Before your account gets deleted you need to answer why you want the account to be deleted.",
+        "notes_de": "Über ein Support-Ticket kann eine Löschung des Accounts beantragt werden. Bevor der Account gelöscht wird, muss zuerst angegeben werden, warum der Account gelöscht werden soll.",
+        "domains": [
+            "arena.net",
+            "guildwars2.com",
+            "help.guildwars2.com"
+        ]
+    },
+
+    {
         "name": "Gumroad",
         "url": "https://gumroad.com/settings",
         "difficulty": "easy",
@@ -3487,6 +3540,17 @@
     },
 
     {
+        "name": "Inoreader",
+        "url": "https://www.inoreader.com",
+        "difficulty": "easy",
+        "notes": "Select 'Reset or cancel' under preferences and click on 'Cancel account'.",
+        "notes_de": "Gehe zu 'Zurücksetzen oder Abbrechen' in den Einstellungen und wähle 'Konto auflösen'.",
+        "domains": [
+            "inoreader.com"
+        ]
+    },
+
+    {
         "name": "Instacast Cloud",
         "url": "http://instacastcloud.com/dashboard/dangerzone",
         "difficulty": "easy",
@@ -3578,6 +3642,18 @@
         "difficulty": "easy",
         "notes": "Closing your account will delete your profile and all of your publications. There is no going back, so don't say we didn't warn you.",
         "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود."
+    },
+
+    {
+        "name": "iStudiez",
+        "url": "https://support.istudentpro.com/support/solutions/articles/3000068641-delete-cloud-sync-account",
+        "difficulty": "hard",
+        "notes": "Contact support and ask for your account to be removed.",
+        "notes_de": "Kontaktiere den Support und fordere eine Löschung deines Accounts.",
+        "email": "support@istudentpro.com",
+        "domains": [
+            "istudentpro.com"
+        ]
     },
 
     {
@@ -3802,6 +3878,17 @@
         "difficulty": "easy",
         "domains": [
             "koding.com"
+        ]
+    },
+
+    {
+        "name": "Koingo Software",
+        "url": "https://www.koingosw.com/account/delete.php",
+        "difficulty": "medium",
+        "notes": "Enter your E-Mail in the account deletion form and confirm the deletion in the E-Mail sent to you.",
+        "notes_de": "Fülle das Online-Formular zum Löschen des Accounts mit deiner E-Mail aus und bestätige die Löschung in der gesendeten E-Mail.",
+        "domains": [
+            "koingosw.com"
         ]
     },
 
@@ -4107,6 +4194,28 @@
     },
 
     {
+        "name": "MacTrade",
+        "url": "https://www.mactrade.de/goodahead_customer/account/delete/",
+        "notes": "In your user account go to 'Delete Account' and confirm the deletion via the 'Delete account now' button.",
+        "notes_de": "Wähle 'Konto löschen' in deinem Benutzerkonto und bestätige die Löschung mit dem Button 'Benutzerkonto jetzt löschen'.",
+        "difficulty": "easy",
+        "domains": [
+            "mactrade.de"
+        ]
+    },
+
+    {
+        "name": "MacUpdate",
+        "url": "https://www.macupdate.com/member/account-preferences",
+        "difficulty": "easy",
+        "notes": "In your account preferences select 'Delete all my personal data' in the bottom left. 14 days after your request all your data will be deleted. During the 14 days the delete request may be cancelled.",
+        "notes_de": "In den Account-Einstellungen kann der Account links unten mit 'Delete all my personal data' gelöscht werden. Die Daten werden erst nach einer 14 tägigen Frist gelöscht. Während der 14 Tage kann der Löschvorgang abgebrochen werden.",
+        "domains": [
+            "macupdate.com"
+        ]
+    },
+
+    {
         "name": "Magoosh",
         "url": "https://magoosh.zendesk.com/hc/en-us/articles/204307485-How-do-I-delete-my-account-",
         "email": "help@magoosh.com",
@@ -4167,12 +4276,34 @@
     },
 
     {
+        "name": "Mapstr",
+        "url": "https://mapstr.com/faq.html",
+        "difficulty": "easy",
+        "notes": "Log in to your account in the app, then in the account settings choose 'Delete my account'.",
+        "notes_de": "Melde dich in der App mit deinem Account an. Wähle dann in den Konto-Einstellungen 'Mein Konto löschen'.",
+        "domains": [
+            "mapstr.com"
+        ]
+    },
+
+    {
         "name": "Marvel",
         "url": "https://marvelapp.com/account/",
         "difficulty": "easy",
         "notes": "Log into your account -> My Account -> click on Delete Account at the bottom of page.",
         "domains": [
             "marvelapp.com"
+        ]
+    },
+
+    {
+        "name": "Massdrop",
+        "url": "https://helpdesk.massdrop.com/hc/en-us/articles/360019265073-How-do-I-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "Contact support via the online form and ask for your account to be deleted.",
+        "notes_de": "Kontaktiere den Support über das Online-Formular und fordere eine Löschung des Accounts.",
+        "domains": [
+            "drop.com"
         ]
     },
 
@@ -4559,6 +4690,18 @@
     },
 
     {
+        "name": "MyFRITZ!",
+        "url": "https://sso.myfritz.net/account/#/delete",
+        "difficulty": "easy",
+        "notes": "Login and select 'Delete Account' in the sidebar in your account settings",
+        "notes_de": "Einloggen und in den Kontoeinstellungen 'Konto löschen' aus der Seitenleiste wählen.",
+        "domains": [
+            "myfritz.net",
+            "sso.myfritz.net"
+        ]
+    },
+
+    {
         "name": "myJdownloader",
         "url": "http://my.jdownloader.org/",
         "difficulty": "easy",
@@ -4624,6 +4767,17 @@
         "difficulty": "impossible",
         "domains": [
             "napster.com"
+        ]
+    },
+
+    {
+        "name": "Native Instruments",
+        "url": "https://support.native-instruments.com/hc/requests/new",
+        "difficulty": "hard",
+        "notes": "Fill the ticket form and wait for response.",
+        "domains": [
+            "native-instruments.com",
+            "support.native-instruments.com"
         ]
     },
 
@@ -4762,6 +4916,18 @@
         "notes_fr": "Au bas du formulaire du compte, il y a un lien « Deactivate Account ». En le cliquant, il y aura une liste des informations qui expliquent le processus de la désactivation du compte. Toutes les informations seront supprimées.",
         "domains": [
             "nike.com"
+        ]
+    },
+
+    {
+        "name": "Ninox",
+        "url": "https://ninoxdb.de/de/support/contactus",
+        "difficulty": "hard",
+        "notes": "Contact Support via the online contact form and request your account to be deleted. Alternatively you can use the support E-Mail address.",
+        "notes_de": "Über das Online-Kontaktformular kann der Support gebeten werden, den Account zu löschen. Alternativ lässt sich auch per E-Mail Kontakt aufnehmen.",
+        "email": "support@ninoxdb.de",
+        "domains": [
+            "ninoxdb.de"
         ]
     },
 
@@ -4936,6 +5102,17 @@
     },
 
     {
+        "name": "Outdooractive",
+        "url": "https://support.outdooractive.com/hc/en-us/articles/201186213-How-can-I-delete-my-community-account-",
+        "difficulty": "hard",
+        "notes": "Contact Support via the online form and request your account to be deleted.",
+        "notes_de": "Kontaktiere den Support über das Online-Formular und fordere eine Löschung des Accounts an.",
+        "domains": [
+            "outdooractive.com"
+        ]
+    },
+
+    {
         "name": "Outlook",
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy",
@@ -4955,9 +5132,9 @@
 
     {
         "name": "Overleaf",
-        "url": "https://www.overleaf.com/help/299-how-do-i-delete-my-overleaf-account",
-        "difficulty": "hard",
-        "notes": "You must contact support directly and ask them to delete your account.",
+        "url": "https://www.overleaf.com/user/settings",
+        "difficulty": "easy",
+        "notes": "Select 'Delete your account' at the bottom of the account settings page.",
         "email": "privacy@overleaf.com",
         "domains": [
             "overleaf.com"
@@ -5027,6 +5204,18 @@
             "parkmobile.us",
             "parkmobile.com",
             "parkmobile.zendesk.com"
+        ]
+    },
+
+    {
+        "name": "Passdock",
+        "url": "https://api.passdock.com/users/edit",
+        "difficulty": "easy",
+        "notes": "Select 'Delete account' at the bottom of your account info page.",
+        "notes_de": "Klicke 'Account löschen' unten auf der Account-Info-Seite.",
+        "domains": [
+            "passdock.com",
+            "api.passdock.com"
         ]
     },
 
@@ -5159,6 +5348,18 @@
     },
 
     {
+        "name": "Philips Hue",
+        "url": "https://account.meethue.com/account",
+        "difficulty": "easy",
+        "notes": "Click 'Delete Account' on your account page.",
+        "notes_de": "Klicke auf 'Konto löschen' in den Kontoeinstellungen.",
+        "domains": [
+            "meethue.com",
+            "account.meethue.com"
+        ]
+    },
+
+    {
         "name": "PhishTank",
         "url": "https://www.phishtank.com/",
         "difficulty": "impossible",
@@ -5240,6 +5441,17 @@
     },
 
     {
+        "name": "Pixabay",
+        "url": "https://pixabay.com/de/accounts/settings/",
+        "difficulty": "easy",
+        "notes": "In your account setting choose 'Delete account'.",
+        "notes_de": "Wähle 'Konto Löschen' in den Kontoeinstellungen.",
+        "domains": [
+            "pixabay.com"
+        ]
+    },
+
+    {
         "name": "Pixlr",
         "url": "https://pixlr.com/user/settings/",
         "difficulty": "easy",
@@ -5248,7 +5460,17 @@
             "pixlr.com"
         ]
     },
-    
+
+    {
+        "name": "Pixum",
+        "url": "https://int.pixum.com/service/delete-account",
+        "difficulty": "hard",
+        "notes": "Contact support via email and request your account to be deleted.",
+        "notes_de": "Schreibe dem Support per E-Mail und bitte um eine Löschung des Accounts",
+        "email": "service@pixum.com"
+    },
+	
+	
     {
         "name": "PlantSnap",
         "url": "https://www.plantsnap.com/support-center/get-in-touch/",
@@ -6465,6 +6687,18 @@
     },
 
     {
+        "name": "Taiga",
+        "url": "https://tree.taiga.io/user-settings/user-profile",
+        "difficulty": "easy",
+        "notes": "Log in to your user account, go to 'User Settings' and select 'Delete Taiga account' below the save button. Confirm and done.",
+        "notes_de": "Nach dem Einloggen im Menü zu 'User Settings' gehen und dort 'Delete Taiga account' unter dem 'Save' Button auswählen. Bestätigen, fertig.",
+        "domains": [
+            "taiga.io",
+            "tree.taiga.io"
+        ]
+    },
+
+    {
         "name": "Tango",
         "url": "http://support.tango.me/entries/23534011-How-do-I-delete-my-Tango-account-",
         "difficulty": "hard",
@@ -6537,6 +6771,17 @@
         "notes": "Open deactivation page. Enter your phone number and one time password sent to your Telegram account. Delete your account then.",
         "domains": [
             "telegram.org"
+        ]
+    },
+
+    {
+        "name": "Things",
+        "url": "https://support.culturedcode.com/customer/en/portal/articles/2803591-deleting-your-account-data",
+        "difficulty": "easy",
+        "notes": "In the Things app go to Preferences -> Things Cloud and select Edit Account. Then select 'Delete Account'.",
+        "notes_de": "Der Account kann über die Things Einstellungen -> Things Cloud bei 'Account bearbeiten' über 'Account löschen' gelöscht werden.",
+        "domains": [
+            "culturedcode.com"
         ]
     },
 
@@ -6875,6 +7120,18 @@
         "email": "support@unfuddle.com",
         "domains": [
             "unfuddle.io"
+        ]
+    },
+
+    {
+        "name": "United Domains",
+        "url": "https://www.united-domains.de/support/kontakt-formular/close//",
+        "difficulty": "hard",
+        "notes": "Contact Support and request to delete your account.",
+        "notes_de": "Kontaktiere den Support und fordere eine Löschung des Accounts an.",
+        "email": "support@united-domains.de",
+        "domains": [
+            "united-domains.de"
         ]
     },
 
@@ -7451,7 +7708,7 @@
         ]
     },
 
-{
+    {
         "name": "Zenkit",
         "url": "https://zenkit.com/profile",
         "difficulty": "easy",
