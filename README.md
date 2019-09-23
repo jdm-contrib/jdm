@@ -29,7 +29,7 @@ validated using a mixture of Ruby and Node.js packages and scripts.
   ```
   cd jdm
   gem install bundler
-  bundler install
+  bundle install
   ```
 
 **Building the site**
