@@ -7461,6 +7461,17 @@
     },
 
     {
+        "name": "Viva o Linux (VOL)",
+        "url": "http://vivaolinux.com.br/minhaConta.php",
+        "difficulty": "easy",
+        "notes": "Click at \"Excluir conta\", type your password and confirm your action by clicking \"Gravar\".",
+        "notes_pt_br": "Clique em \"Excluir conta\", digite sua senha e clique em \"Gravar\" para confirmar a exclusão da conta.",
+        "domains": [
+            "vivaolinux.com.br"
+        ]
+    },
+
+    {
         "name": "VK/ВКонтакте",
         "url": "http://vk.com/settings?act=deactivate",
         "difficulty": "easy",
