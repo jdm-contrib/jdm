@@ -2515,6 +2515,17 @@
     },
 
     {
+        "name": "Freenom",
+        "url": "http://my.freenom.com/clientarea.php?action=details",
+        "difficulty": "impossible",
+        "notes": "It seems to be impossible to delete an account on this website. (See <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> for more info)<br><br>Even if you cannot delete the account, you can try modifying/deleting some personal information associated with your user profile.",
+        "notes_pt_br": "Parece ser impossível excluir uma conta neste website. (Veja <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> para obter mais detalhes)<br><br>Mesmo não sendo possível excluir a conta, você ainda pode tentar modificar/excluir algumas informações pessoais associadas ao seu perfil de usuário.",
+        "domains": [
+            "freenom.com"
+        ]
+    },
+
+    {
         "name": "Freesound",
         "url": "http://www.freesound.org/home/delete/",
         "difficulty": "medium",
@@ -4722,6 +4733,17 @@
     },
 
     {
+        "name": "Muambator",
+        "url": "http://muambator.com.br/login",
+        "difficulty": "impossible",
+        "notes": "It seems to be impossible to delete an account on this website. (See <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> for more info)<br><br>Even if you cannot delete the account, you can try modifying/deleting some personal information associated with your user profile.",
+        "notes_pt_br": "Parece ser impossível excluir uma conta neste website. (Veja <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> para obter mais detalhes)<br><br>Mesmo não sendo possível excluir a conta, você ainda pode tentar modificar/excluir algumas informações pessoais associadas ao seu perfil de usuário.",
+        "domains": [
+            "muambator.com.br"
+        ]
+    },
+
+    {
         "name": "Multiplay.co.uk",
         "url": "https://multiplay.com/contactus/",
         "difficulty": "hard",
@@ -4992,11 +5014,11 @@
     },
 
     {
-        "name": "njal.la",
-        "url": "https://njal.la/",
-        "difficulty": "hard",
-        "notes": "You have to mail them to request deletion",
-        "email": "contact@njal.la",
+        "name": "Njalla",
+        "url": "http://njal.la/settings/delete",
+        "difficulty": "easy",
+        "notes": "Type your password and confirm your action by clicking \"Delete Account\".",
+        "notes_pt_br": "Digite sua senha e clique em \"Delete Account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "njal.la"
         ]
@@ -6786,6 +6808,18 @@
         "notes": "Open deactivation page. Enter your phone number and one time password sent to your Telegram account. Delete your account then.",
         "domains": [
             "telegram.org"
+        ]
+    },
+
+    {
+        "name": "textPlus",
+        "url": "http://textplus.com",
+        "difficulty": "impossible",
+        "notes": "It seems to be impossible to delete an account on this online service. (See <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> for more info)",
+        "notes_pt_br": "Parece ser impossível excluir uma conta neste serviço online. (Veja <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> para obter mais detalhes)",
+        "domains": [
+            "textplus.com",
+            "nextplus.me"
         ]
     },
 
