@@ -5014,11 +5014,11 @@
     },
 
     {
-        "name": "njal.la",
-        "url": "https://njal.la/",
-        "difficulty": "hard",
-        "notes": "You have to mail them to request deletion",
-        "email": "contact@njal.la",
+        "name": "Njalla",
+        "url": "http://njal.la/settings/delete",
+        "difficulty": "easy",
+        "notes": "Type your password and confirm your action by clicking \"Delete Account\".",
+        "notes_pt_br": "Digite sua senha e clique em \"Delete Account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "njal.la"
         ]
