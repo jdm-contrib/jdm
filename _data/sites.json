@@ -6801,6 +6801,18 @@
     },
 
     {
+        "name": "textPlus",
+        "url": "http://textplus.com",
+        "difficulty": "impossible",
+        "notes": "It seems to be impossible to delete an account on this online service. (See <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> for more info)",
+        "notes_pt_br": "Parece ser impossível excluir uma conta neste serviço online. (Veja <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> para obter mais detalhes)",
+        "domains": [
+            "textplus.com",
+            "nextplus.me"
+        ]
+    },
+
+    {
         "name": "Things",
         "url": "https://support.culturedcode.com/customer/en/portal/articles/2803591-deleting-your-account-data",
         "difficulty": "easy",
