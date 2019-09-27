@@ -7012,6 +7012,16 @@
     },
 
     {
+        "name": "Triptipedia",
+        "url": "https://www.triptipedia.com/account/delete",
+        "notes": "Click on \"Delete my account\" and confirm",
+        "difficulty": "easy",
+        "domains": [
+            "triptipedia.com"
+        ]
+    },
+
+    {
         "name": "Troll and Toad",
         "url": "https://www.trollandtoad.com/contact.php",
         "difficulty": "hard",
