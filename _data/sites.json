@@ -3673,6 +3673,16 @@
     },
 
     {
+        "name": "Journey",
+        "url": "https://journey.cloud",
+        "difficulty": "impossible",
+        "notes": "If you go to the profile settings, you can deactivate the account, but there is always a button for re-enabling it, even if you delete its 'Google Drive' data",
+        "domains": [
+            "journey.cloud"
+        ]
+    },
+
+    {
         "name": "JS Bin",
         "url": "http://jsbin.com/account/delete",
         "difficulty": "easy",
