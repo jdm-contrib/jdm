@@ -3345,21 +3345,6 @@
     },
 
     {
-        "name": "Iceber.gs",
-        "url": "https://iceber.gs/home",
-        "difficulty": "easy",
-        "notes": "On top bar: 'Your name', 'My Account' and just click on 'Delete Account' link at bottom.",
-        "notes_fr": "Sur la barre du haut 'Votre nom', 'Mon compte' et cliquez 'Supprimer mon compte.' ",
-        "notes_it": "Nel menu in alto: 'Tuo nome', 'My Account', e clicca sul link 'Delete Account' in fondo.",
-        "notes_pt_br": "Na barra superior: 'Seu nome', 'My Account' e clique no link 'Delete Account' no final.",
-        "notes_cat": "A la barra superior: 'El seu nom', 'My Account' i faci click a 'Delete Account' al final.",
-        "notes_es": "En la barra superior: 'Tu nombre', 'My Account' y haz clic en 'Delete Account' al final.",
-        "domains": [
-            "iceber.gs"
-        ]
-    },
-
-    {
         "name": "ICQ",
         "url": "http://www.icq.com/delete-account/",
         "difficulty": "easy",
