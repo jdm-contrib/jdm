@@ -3647,6 +3647,17 @@
     },
 
     {
+        "name": "Jimdo",
+        "url": "https://help.jimdo.com/hc/en-us/articles/115005540586-How-do-I-delete-my-Jimdo-account-",
+        "difficulty": "medium",
+        "notes": "You can instantly delete your free account. The paid version requires you to first cancel your subscription.",
+        "notes_de": "Der kostenlose Account kann sofort gelöscht werden. Bei der kostenpflichtigen Variante muss zuerst das Abbo beendet werden.",
+        "domains": [
+            "jimdo.com"
+        ]
+    },
+
+    {
         "name": "Jolla Account",
         "url": "https://account.jolla.com/profile/settings/confirm_delete_profile",
         "difficulty": "easy",
