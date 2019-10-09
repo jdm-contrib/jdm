@@ -2333,6 +2333,16 @@
     },
 
     {
+        "name": "Fast2Pay",
+        "url": "https://www.fast2pay.com.br",
+        "difficulty": "impossible",
+        "notes": "Nowhere on the website or the android app there is a 'My account' page or similar providing a way to delete the account.",
+        "domains": [
+            "fast2pay.com.br"
+        ]
+    },
+
+    {
         "name": "FaucetHub",
         "url": "https://faucethub.io/dashboard/security/deleteaccount",
         "difficulty": "easy",
