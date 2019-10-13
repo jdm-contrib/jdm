@@ -5071,6 +5071,16 @@
             "nowtv.com"
         ]
     },
+    
+    {
+        "name": "NPM Forum",
+        "url": "https://npm.community",
+        "difficulty": "easy",
+        "notes": "Login to your account, click on your avatar then click on username and select 'Preferences'. In the bottom page click on 'Delete My Account' and confirm the deletion.",
+        "domains": [
+            "npm.community"
+        ]
+    },
 
     {
         "name": "Odnoklassniki",
