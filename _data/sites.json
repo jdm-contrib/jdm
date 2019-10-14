@@ -7254,7 +7254,7 @@
         "name": "Uptime Robot",
         "url": "https://uptimerobot.com/dashboard#mySettings",
         "difficulty": "medium",
-        "notes": "Login to your account and click on 'My Settings' or follow the link, In 'Delete Account' section click on 'I still want to delete the account' link & click on 'Send account deletion e-mail'. Check your email and open provided link. lastly confirm deletion by click on 'Delete Account'.",
+        "notes": "Login to your account and click on 'My Settings' or follow the link. On the 'Delete Account' section click on 'I still want to delete the account' link & click on 'Send account deletion e-mail'. Check your email and open provided link. Lastly confirm deletion by click on 'Delete Account'.",
         "domains": [
             "uptimerobot.com"
         ]
