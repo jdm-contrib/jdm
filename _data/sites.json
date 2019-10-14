@@ -6519,8 +6519,8 @@
     {
         "name": "Spotify",
         "url": "http://support.spotify.com/close-account",
-        "difficulty": "hard",
-        "notes": "1. Cancel your subscription at https://www.spotify.com/us/account/subscription/ 2. Public playlists will be anonymised, delete any playlists you want. 3. Go to the provided link, Account -> I want to close my account permanently and reserve 20min of your time to chat with them.",
+        "difficulty": "medium",
+        "notes": "1. Cancel your subscription at https://www.spotify.com/us/account/subscription/ 2. Public playlists will be anonymised, delete any playlists you want. 3. Go to the provided link, Account -> I want to close my account and follow the instructions. The account can still be restored within 7 days of the request.",
         "domains": [
             "spotify.com"
         ]
