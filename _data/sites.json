@@ -3064,6 +3064,16 @@
     },
 
     {
+        "name": "GTmetrix",
+        "url": "https://gtmetrix.com/dashboard/delete_account",
+        "difficulty": "easy",
+        "notes": "Login to your account and click on 'Request Account Deletion' or follow the link, Answer questions and click on 'Continue', Confirm deletion via entering password and click 'Delete Account'.",
+        "domains": [
+            "gtmetrix.com"
+        ]
+    },
+
+    {
         "name": "Guild Wars",
         "url": "https://help.guildwars2.com/hc/de/requests/new?ticket_form_id=38933",
         "difficulty": "hard",
