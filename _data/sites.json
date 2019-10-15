@@ -2722,9 +2722,9 @@
     {
         "name": "Gfycat",
         "url": "https://gfycat.com/support",
-        "email": "support@sigfig.com",
+        "email": "support@gfycat.com",
         "difficulty": "hard",
-        "notes": "You can't delete your account without contacting them. Send them an email from the address used to create the account"
+        "notes": "You can't delete your account without contacting them. Send them an email from the address used to create the account",
         "domains": [
             "gfycat.com"
         ]
