@@ -5564,6 +5564,16 @@
     },
 
     {
+        "name": "pixiv",
+        "url": "https://www.pixiv.net/leave_pixiv.php",
+        "difficulty": "easy",
+        "notes": "It takes 2 weeks to delete an account. You will be unable to re-use the same e-mail during that period. They won't delete \"pixiv ID\".",
+        "domains": [
+            "www.pixiv.net"
+        ]
+    },
+
+    {
         "name": "Pixlr",
         "url": "https://pixlr.com/user/settings/",
         "difficulty": "easy",
