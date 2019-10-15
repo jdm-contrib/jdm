@@ -2720,6 +2720,17 @@
     },
 
     {
+        "name": "Gfycat",
+        "url": "https://gfycat.com/support",
+        "email": "support@sigfig.com",
+        "difficulty": "hard",
+        "notes": "You can't delete your account without contacting them. Send them an email from the address used to create the account"
+        "domains": [
+            "gfycat.com"
+        ]
+    },
+
+    {
         "name": "GHash.IO",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
