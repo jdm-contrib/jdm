@@ -466,6 +466,17 @@
     },
 
     {
+        "name": "Authy",
+        "url": "https://authy.com/account/delete/",
+        "difficulty": "easy",
+        "notes": "Fill out the form, verify your phone number and e-mail. Data will be permanantly deleted after 30 days.",
+        "notes_ru": "Заполните форму, подтвердите свой номер телефона и e-mail. Данные будут удалены через 30 дней.",
+        "domains": [
+            "authy.com"
+        ]
+    },
+
+    {
         "name": "Autodesk",
         "url": "https://knowledge.autodesk.com/contact-support/websupport/account-deletion",
         "difficulty": "hard",
