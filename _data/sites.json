@@ -7347,8 +7347,8 @@
     {
         "name": "vgy.me",
         "url": "https://vgy.me",
-        "difficulty": "impossible",
-        "notes": "Admin once stated in an email that there would be no need to delete an account.",
+        "difficulty": "easy",
+        "notes": "On the Account Details page, there is a Close Account tab.",
         "domains": [
             "vgy.me"
         ]
