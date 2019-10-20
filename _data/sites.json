@@ -555,9 +555,9 @@
 
     {
         "name": "Backblaze",
-        "url": "https://secure.backblaze.com/user_account.htm",
-        "difficulty": "impossible",
-        "notes": "Accounts cannot be deleted, even when contacting customer service. User account credentials will be permanently retained by Backblaze.",
+        "url": "https://secure.backblaze.com/account_settings.htm",
+        "difficulty": "medium",
+        "notes": "Click on delete account and follow the required steps. You must have no outstanding B2 balance and will have to delete most files and settings in your account first.",
         "domains": [
             "backblaze.com"
         ]
@@ -2082,11 +2082,11 @@
 
     {
         "name": "eDreams",
-        "url": "http://www.edreams.com/edreams/english/about/copyright.jhtml",
-        "difficulty": "impossible",
-        "notes": "FAQ states that account can be deleted upon request, but e-mails requesting it are completely ignored.",
-        "notes_pt_br": "FAQ diz que a conta pode ser deletada mediante requisição, mas e-mails que requerem isso são sumariamente ignorados.",
+        "url": "https://www.edreams.co.uk/travel/secure/#accountpreferences/",
+        "difficulty": "easy",
+        "notes": "Click on I want to delete my account",
         "domains": [
+            "edreams.com",
             "edreams.co.uk",
             "edreams.net",
             "edreams.pt"
@@ -3919,9 +3919,9 @@
 
     {
         "name": "Last.fm",
-        "url": "https://www.last.fm/settings/account/delete",
+        "url": "https://www.last.fm/settings/account",
         "difficulty": "impossible",
-        "notes": "After deactivating your account, you are able to restore it at any time by logging in. There does not appear to be a point after which your data is actually purged.",
+        "notes": "Scroll to the bottom of the page and click delete user account. On the following page, enter your password. Your account will then be deleted after 14 days.",
         "domains": [
             "last.fm"
         ]
