@@ -3920,7 +3920,7 @@
     {
         "name": "Last.fm",
         "url": "https://www.last.fm/settings/account",
-        "difficulty": "impossible",
+        "difficulty": "easy",
         "notes": "Scroll to the bottom of the page and click delete user account. On the following page, enter your password. Your account will then be deleted after 14 days.",
         "domains": [
             "last.fm"
