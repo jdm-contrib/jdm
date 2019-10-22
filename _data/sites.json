@@ -137,16 +137,8 @@
 
     {
         "name": "Adobe",
-        "url": "https://helpx.adobe.com/in/contact.html",
-        "difficulty": "hard",
-        "notes": "You have to call them in order to delete your account. Alternatively, you can send them an email.",
-        "notes_fr": "Vous devez les appeler pour supprimer votre compte. Vous pouvez aussi envoyer un email.",
-        "notes_it": "Per eliminare il tuo account dovrai contattarli via telefono. Alternativamente puoi spedire una mail",
-        "notes_pt_br": "Você deve ligar para eles para deletar sua conta. De maneira alternativa, você pode enviá-los um e-mail.",
-        "notes_cat": "S'ha de posar en cotacte amb ells. Mitjançant telèfon o e-mail.",
-        "notes_es": "Tienes que poner en contacto con ellos. Mediante teléfono o e-mail.",
-        "notes_pl": "Możesz zadzwonić lub wysłać email z prośbą o usunięcie konta.",
-        "notes_ar": "يجب عليك أن تتصل بهم لكي تحذف حسابك او أن ترسل لهم بريد الكتروني",
+        "url": "https://account.adobe.com/privacy/delete-account",
+        "difficulty": "easy",
         "domains": [
             "adobe.com"
         ]
