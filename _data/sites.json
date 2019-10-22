@@ -2767,16 +2767,6 @@
     },
 
     {
-        "name": "Gitorious",
-        "url": "https://gitorious.org",
-        "difficulty": "impossible",
-        "notes": "Gitorious is now an archived, read-only copy of the prior code hosting website. Data cannot be altered on this mirror.",
-        "domains": [
-            "gitorious.org"
-        ]
-    },
-
-    {
         "name": "Gizmodo (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
