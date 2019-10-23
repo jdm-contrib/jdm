@@ -4007,6 +4007,17 @@
     },
 
     {
+        "name": "Lime",
+        "url": "https://help.li.me/hc/en/articles/360017597013",
+        "difficulty": "hard",
+        "notes": "You must contact support via your Lime's contact form to request deletion.",
+        "domains": [
+            "li.me",
+            "help.li.me"
+        ]
+    },
+
+    {
         "name": "Lingvist",
         "url": "https://lingvist.helpscoutdocs.com/article/173-i-dont-want-to-pay-delete-my-account",
         "email": "hello@lingvist.io",
