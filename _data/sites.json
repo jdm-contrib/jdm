@@ -1319,6 +1319,16 @@
     },
 
     {
+        "name": "CodersRank",
+        "url": "https://codersrank.io/",
+        "difficulty": "impossible",
+        "notes": "There is no explicit way to delete your account and no response comes back from the contact form",
+        "domains": [
+            "codersrank.io"
+        ]
+    },
+
+    {
         "name": "Coderwall",
         "url": "https://coderwall.com/delete_account",
         "difficulty": "easy",
