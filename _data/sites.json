@@ -1573,6 +1573,17 @@
     },
 
     {
+        "name": "Dailymotion",
+        "url": "http://dailymotion.com/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "Type your password and confirm your action by clicking \"Delete account\".",
+        "notes_pt_br": "Digite sua senha e clique em \"Delete account\" para confirmar a exclusão da sua conta.",
+        "domains": [
+            "dailymotion.com"
+        ]
+    },
+
+    {
         "name": "DansTonChat",
         "url": "https://danstonchat.com/user/delete.html",
         "difficulty": "easy",
@@ -1967,6 +1978,17 @@
         "notes": "Personal accounts can be deleted from the \"Danger Zone\" section at the bottom of your <a href=\"https://app.dropmark.com/account\">Account page</a>. Note: Before deleting your personal account, you must first <a href=\"https://support.dropmark.com/article/53-transferring-collection-ownership\">transfer ownership</a> or <a href=\"https://support.dropmark.com/article/20-deleting-a-collection\">delete all collections</a> owned by your account.",
         "domains": [
             "dropmark.com"
+        ]
+    },
+
+    {
+        "name": "Dubsmash",
+        "url": "http://dubsmash.com/delete-account",
+        "difficulty": "easy",
+        "notes": "Click at \"Delete now\" to confirm the deletion of your account.<br><br>You can also request the deletion of your account via <a href=\"mailto:support@dubsmash.com\">email</a>.",
+        "notes_pt_br": "Clique em \"Delete now\" para confirmar a exclusão da sua conta.<br><br>Você também pode requisitar a exclusão da sua conta via <a href=\"mailto:support@dubsmash.com\">e-mail</a>.",
+        "domains": [
+            "dubsmash.com"
         ]
     },
 
@@ -6168,6 +6190,17 @@
     },
 
     {
+        "name": "Samsung Account",
+        "url": "http://account.samsung.com/membership/contents/profile/delete-samsung-account",
+        "difficulty": "easy",
+        "notes": "Click in the checkbox \"I confirm the conditions above\", click at \"Delete\", type your password and confirm your action by clicking \"Confirm\".",
+        "notes_pt_br": "Marque a opção \"Confirmo as condições acima\", clique em \"Excluir\", digite sua senha e clique em \"Confirmar\" para confirmar a exclusão da sua conta",
+        "domains": [
+            "samsung.com"
+        ]
+    },
+
+    {
         "name": "Scaleway",
         "url": "https://cloud.scaleway.com/#/account",
         "difficulty": "easy",
@@ -6732,6 +6765,24 @@
         "email": "support@superbiiz.com",
         "domains": [
             "superbiiz.com"
+        ]
+    },
+
+    {
+        "name": "Supercell ID",
+        "url": "http://supercell.helpshift.com/a/clash-of-clans/?s=my-account&f=how-do-i-delete-my-account)",
+        "difficulty": "impossible",
+        "notes": "Even after \"deleting\" your account, Supercell will still keep your personal information saved on its servers to, according to them, \"business interests\".",
+        "notes_pt_br": "Mesmo após \"excluir\" sua conta, a Supercell ainda irá manter suas informações pessoas salvas em seus servidores para, segundo eles, \"interesses comerciais\".",
+        "domains": [
+            "boombeach.com",
+            "brawlstars.com",
+            "clashofclans.com",
+            "clashroyale.com",
+            "clashroyaleapp.com",
+            "haydaygame.com",
+            "supercell.com",
+            "supercell.helpshift.com"
         ]
     },
 
