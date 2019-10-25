@@ -6758,6 +6758,17 @@
     },
 
     {
+        "name": "SuperBiiz",
+        "url": "https://www.superbiiz.com/contact.php",
+        "difficulty": "hard",
+        "notes": "You have to email them and request for your account to be deleted.",
+        "email": "support@superbiiz.com",
+        "domains": [
+            "superbiiz.com"
+        ]
+    },
+
+    {
         "name": "Supercell ID",
         "url": "http://supercell.helpshift.com/a/clash-of-clans/?s=my-account&f=how-do-i-delete-my-account)",
         "difficulty": "impossible",
@@ -6772,17 +6783,6 @@
             "haydaygame.com",
             "supercell.com",
             "supercell.helpshift.com"
-        ]
-    },
-
-    {
-        "name": "SuperBiiz",
-        "url": "https://www.superbiiz.com/contact.php",
-        "difficulty": "hard",
-        "notes": "You have to email them and request for your account to be deleted.",
-        "email": "support@superbiiz.com",
-        "domains": [
-            "superbiiz.com"
         ]
     },
 
