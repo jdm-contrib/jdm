@@ -1573,6 +1573,17 @@
     },
 
     {
+        "name": "Dailymotion",
+        "url": "http://dailymotion.com/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "Type your password and confirm your action by clicking \"Delete account\".",
+        "notes_pt_br": "Digite sua senha e clique em \"Delete account\" para confirmar a exclusão da sua conta.",
+        "domains": [
+            "dailymotion.com"
+        ]
+    },
+
+    {
         "name": "DansTonChat",
         "url": "https://danstonchat.com/user/delete.html",
         "difficulty": "easy",
