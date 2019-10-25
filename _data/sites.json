@@ -6179,6 +6179,17 @@
     },
 
     {
+        "name": "Samsung Account",
+        "url": "http://account.samsung.com/membership/contents/profile/delete-samsung-account",
+        "difficulty": "easy",
+        "notes": "Click in the checkbox \"I confirm the conditions above\", click at \"Delete\", type your password and confirm your action by clicking \"Confirm\".",
+        "notes_pt_br": "Marque a opção \"Confirmo as condições acima\", clique em \"Excluir\", digite sua senha e clique em \"Confirmar\" para confirmar a exclusão da sua conta",
+        "domains": [
+            "samsung.com"
+        ]
+    },
+
+    {
         "name": "Scaleway",
         "url": "https://cloud.scaleway.com/#/account",
         "difficulty": "easy",
