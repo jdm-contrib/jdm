@@ -6747,6 +6747,24 @@
     },
 
     {
+        "name": "Supercell ID",
+        "url": "http://supercell.helpshift.com/a/clash-of-clans/?s=my-account&f=how-do-i-delete-my-account)",
+        "difficulty": "impossible",
+        "notes": "Even after \"deleting\" your account, Supercell will still keep your personal information saved on its servers to, according to them, \"business interests\".",
+        "notes_pt_br": "Mesmo após \"excluir\" sua conta, a Supercell ainda irá manter suas informações pessoas salvas em seus servidores para, segundo eles, \"interesses comerciais\".",
+        "domains": [
+            "boombeach.com",
+            "brawlstars.com",
+            "clashofclans.com",
+            "clashroyale.com",
+            "clashroyaleapp.com",
+            "haydaygame.com"
+            "supercell.com",
+            "supercell.helpshift.com"
+        ]
+    },
+
+    {
         "name": "SuperBiiz",
         "url": "https://www.superbiiz.com/contact.php",
         "difficulty": "hard",
