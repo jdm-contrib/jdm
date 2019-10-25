@@ -1971,6 +1971,17 @@
     },
 
     {
+        "name": "Dubsmash",
+        "url": "http://dubsmash.com/delete-account",
+        "difficulty": "easy",
+        "notes": "Click at \"Delete now\" to confirm the deletion of your account.<br><br>You can also request the deletion of your account via <a href=\"mailto:support@dubsmash.com\">email</a>.",
+        "notes_pt_br": "Clique em \"Delete now\" para confirmar a exclusão da sua conta.<br><br>Você também pode requisitar a exclusão da sua conta via <a href=\"mailto:support@dubsmash.com\">e-mail</a>.",
+        "domains": [
+            "dubsmash.com"
+        ]
+    },
+
+    {
         "name": "Duolingo",
         "url": "http://www.duolingo.com/settings/deactivate",
         "difficulty": "easy",
