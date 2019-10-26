@@ -4876,15 +4876,6 @@
     },
 
     {
-        "name": "MyLife.com",
-        "url": "http://www.mylife.com/showDeleteAccount.do",
-        "difficulty": "easy",
-        "domains": [
-            "mylife.com"
-        ]
-    },
-
-    {
         "name": "MyScript",
         "url": "https://sso.myscript.com/v1/api/account/delete/request",
         "difficulty": "easy",
