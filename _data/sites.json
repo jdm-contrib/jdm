@@ -1320,9 +1320,9 @@
 
     {
         "name": "CodersRank",
-        "url": "https://codersrank.io/",
-        "difficulty": "impossible",
-        "notes": "There is no explicit way to delete your account and no response comes back from the contact form",
+        "url": "https://codersrank.io/contact/",
+        "difficulty": "hard",
+        "notes": "Fill in the contact form asking for deletion. They'll ask for you to reply from the signed up e-mail and then delete the account.",
         "domains": [
             "codersrank.io"
         ]
