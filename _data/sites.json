@@ -6004,6 +6004,16 @@
     },
 
     {
+        "name": "RapidAPI",
+        "url": "https://rapidapi.com/",
+        "difficulty": "hard",
+        "notes": "Account can be only deleted with sending request to support",
+        "domains": [
+            "rapidapi.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
