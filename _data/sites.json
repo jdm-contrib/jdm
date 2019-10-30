@@ -6005,9 +6005,10 @@
 
     {
         "name": "RapidAPI",
-        "url": "https://rapidapi.com/",
+        "url": "https://rapidapi.com/contact-us",
         "difficulty": "hard",
         "notes": "Account can be only deleted with sending request to support",
+        "email": "support@rapidapi.com",
         "domains": [
             "rapidapi.com"
         ]
@@ -7509,7 +7510,7 @@
 
     {
         "name": "VSTBuzz",
-        "url": "https://vstbuzz.com",
+        "url": "https://vstbuzz.com/contact/",
         "difficulty": "hard",
         "notes": "Account can be only deleted with sending request to support",
         "domains": [
