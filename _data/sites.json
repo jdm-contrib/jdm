@@ -7488,6 +7488,16 @@
     },
 
     {
+        "name": "VSTBuzz",
+        "url": "https://vstbuzz.com",
+        "difficulty": "hard",
+        "notes": "Account can be only deleted with sending request to support",
+        "domains": [
+            "vstbuzz.com"
+        ]
+    },
+
+    {
         "name": "Walmart",
         "url": "http://help.walmart.com/app/answers/detail/a_id/230/~/how-to-close-your-walmart.com-account",
         "difficulty": "hard",
