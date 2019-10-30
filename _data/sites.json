@@ -4226,6 +4226,17 @@
     },
 
     {
+        "name": "Mail.ru",
+        "url": "https://account.mail.ru/user/delete",
+        "difficulty": "impossible",
+        "notes": "You can deactivate your account and delete all data, but not entirely delete the account itself.",
+        "notes_ru": "Вы не можете удалить свою учётную запись, но можете удалить все её данные.",
+        "domains": [
+            "mail.ru"
+        ]
+    },
+
+    {
         "name": "Mailspring",
         "url": "https://id.getmailspring.com",
         "difficulty": "easy",
