@@ -2463,7 +2463,7 @@
         "name": "Geocaching",
         "url": "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
         "difficulty": "hard",
-        "notes": "To permanently delete your account, you must contact them as the option in your account settings will not delete your geocaching logs."
+        "notes": "To permanently delete your account, you must contact them as the option in your account settings will not delete your geocaching logs.",
         "domains": [
             "geocaching.com",
             "groundspeak.com"
@@ -4268,7 +4268,7 @@
         "url": "https://help.netflix.com/en/node/407",
         "difficulty": "hard",
         "notes": "Cancel your membership, then contact support if you want immediate deletion. Otherwise your account will be conserved for 10 months.",
-        "notes_fr": "Annulez votre abonnement, puis contactez le support si vous souhaitez une suppression immédiate. Sinon, votre compte sera conservé pendant 10 mois."
+        "notes_fr": "Annulez votre abonnement, puis contactez le support si vous souhaitez une suppression immédiate. Sinon, votre compte sera conservé pendant 10 mois.",
         "notes_it": "Contatta il servizio clienti.",
         "notes_pt_br": "Contate a assistência ao cliente. Mesmo assim eles não deletarão sua conta sobre a premissa que talvez você queira retornar em manter seu histórico e recomendações.",
         "notes_cat": "Contacti amb el servei d'assistència al client. No s'eliminarà completament, sota la premisa de que potser voldràs reobrir el compte i mantindre l'historial i les notificacions.",
