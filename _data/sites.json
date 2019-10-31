@@ -4210,6 +4210,17 @@
     },
 
     {
+        "name": "Mail.ru",
+        "url": "https://account.mail.ru/user/delete",
+        "difficulty": "impossible",
+        "notes": "You can deactivate your account and delete all data, but not entirely delete the account itself.",
+        "notes_ru": "Вы не можете удалить свою учётную запись, но можете удалить все её данные.",
+        "domains": [
+            "mail.ru"
+        ]
+    },
+
+    {
         "name": "MailChimp",
         "url": "http://kb.mailchimp.com/article/how-do-i-close-my-account",
         "difficulty": "easy",
@@ -4222,17 +4233,6 @@
         "notes_es": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE y presiona el botón 'Delete Account'.",
         "domains": [
             "mailchimp.com"
-        ]
-    },
-
-    {
-        "name": "Mail.ru",
-        "url": "https://account.mail.ru/user/delete",
-        "difficulty": "impossible",
-        "notes": "You can deactivate your account and delete all data, but not entirely delete the account itself.",
-        "notes_ru": "Вы не можете удалить свою учётную запись, но можете удалить все её данные.",
-        "domains": [
-            "mail.ru"
         ]
     },
 
