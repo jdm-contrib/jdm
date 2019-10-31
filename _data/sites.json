@@ -6361,7 +6361,7 @@
         "name": "Sketchfab",
         "url": "https://sketchfab.com/settings/account",
         "difficulty": "easy",
-        "notes": "You have to click on the button Delete your account, select the consent to delete all content and confirm.",
+        "notes": "You have to click on the button 'Delete your account', select the 'consent to delete all content' and confirm.",
         "domains": [
             "sketchfab.com"
         ]
