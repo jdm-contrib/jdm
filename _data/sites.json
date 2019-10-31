@@ -4200,16 +4200,6 @@
     },
 
     {
-        "name": "mailbox.org",
-        "url": "https://mailbox.org/en/",
-        "difficulty": "easy",
-        "notes": "Account Settings → Delete Account.",
-        "domains": [
-            "mailbox.org"
-        ]
-    },
-
-    {
         "name": "Mail.ru",
         "url": "https://account.mail.ru/user/delete",
         "difficulty": "impossible",
@@ -4217,6 +4207,16 @@
         "notes_ru": "Вы не можете удалить свою учётную запись, но можете удалить все её данные.",
         "domains": [
             "mail.ru"
+        ]
+    },
+
+    {
+        "name": "mailbox.org",
+        "url": "https://mailbox.org/en/",
+        "difficulty": "easy",
+        "notes": "Account Settings → Delete Account.",
+        "domains": [
+            "mailbox.org"
         ]
     },
 
