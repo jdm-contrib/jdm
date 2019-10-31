@@ -7512,7 +7512,7 @@
         "name": "VSTBuzz",
         "url": "https://vstbuzz.com/contact/",
         "difficulty": "hard",
-        "notes": "Account can be only deleted with sending request to support",
+        "notes": "Account can only be deleted by sending request to their support team",
         "domains": [
             "vstbuzz.com"
         ]
