@@ -5977,7 +5977,7 @@
         "name": "RapidAPI",
         "url": "https://rapidapi.com/contact-us",
         "difficulty": "hard",
-        "notes": "Account can be only deleted with sending request to support",
+        "notes": "Account can only be deleted by sending a request to their support team",
         "email": "support@rapidapi.com",
         "domains": [
             "rapidapi.com"
