@@ -5974,6 +5974,17 @@
     },
 
     {
+        "name": "RapidAPI",
+        "url": "https://rapidapi.com/contact-us",
+        "difficulty": "hard",
+        "notes": "Account can only be deleted by sending a request to their support team",
+        "email": "support@rapidapi.com",
+        "domains": [
+            "rapidapi.com"
+        ]
+    },
+
+    {
         "name": "RateYourMusic",
         "url": "http://rateyourmusic.com/account/delete",
         "difficulty": "impossible",
@@ -6343,6 +6354,16 @@
         "notes": "Login to your account, go to account settings and click 'Delete Account'. Confirm by ticking the box, entering your password and click 'Delete Account'.",
         "domains": [
             "simplenote.com"
+        ]
+    },
+
+    {
+        "name": "Sketchfab",
+        "url": "https://sketchfab.com/settings/account",
+        "difficulty": "easy",
+        "notes": "You have to click on the button 'Delete your account', select the 'consent to delete all content' and confirm.",
+        "domains": [
+            "sketchfab.com"
         ]
     },
 
@@ -7484,6 +7505,16 @@
         "notes": "Account can only be deleted from Android or iOS app, not the Voxer website.",
         "domains": [
             "voxer.com"
+        ]
+    },
+
+    {
+        "name": "VSTBuzz",
+        "url": "https://vstbuzz.com/contact/",
+        "difficulty": "hard",
+        "notes": "Account can only be deleted by sending request to their support team",
+        "domains": [
+            "vstbuzz.com"
         ]
     },
 
