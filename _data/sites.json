@@ -4274,7 +4274,7 @@
         "notes_cat": "Contacti amb el servei d'assistència al client. No s'eliminarà completament, sota la premisa de que potser voldràs reobrir el compte i mantindre l'historial i les notificacions.",
         "notes_es": "Contacta con el servicio de asistencia al cliente. No se eliminará completamente, bajo la suposición de que quizás querrás reabrir la cuenta y mantener el historial y las notificaciones.",
         "email": "privacy@netflix.com",
-		"domains": [
+        "domains": [
             "netflix.com"
         ]
     },
