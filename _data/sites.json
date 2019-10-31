@@ -2462,8 +2462,8 @@
     {
         "name": "Geocaching",
         "url": "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
-        "difficulty": "impossible",
-        "notes": "Each member ID on Geocaching.com is a historical record in their system and cannot be deleted. Therefore, your account can only be disabled, not be deleted.",
+        "difficulty": "hard",
+        "notes": "To permanently delete your account, you must contact them as the option in your account settings will not delete your geocaching logs."
         "domains": [
             "geocaching.com",
             "groundspeak.com"
