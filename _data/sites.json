@@ -4666,6 +4666,16 @@
     },
 
     {
+        "name": "Mix.tj",
+        "url": "http://mix.tj/info/contact",
+        "difficulty": "impossible",
+        "notes": "You cant delete your account by yourself, you can only contact with them via email to request for deletion.",
+        "domains": [
+            "mix.tj"
+        ]
+    },
+
+    {
         "name": "MixCloud",
         "url": "http://www.mixcloud.com/myaccount/account/",
         "difficulty": "easy",
