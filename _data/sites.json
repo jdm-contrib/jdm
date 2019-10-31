@@ -5974,6 +5974,17 @@
     },
 
     {
+        "name": "RapidAPI",
+        "url": "https://rapidapi.com/contact-us",
+        "difficulty": "hard",
+        "notes": "Account can be only deleted with sending request to support",
+        "email": "support@rapidapi.com",
+        "domains": [
+            "rapidapi.com"
+        ]
+    },
+
+    {
         "name": "RateYourMusic",
         "url": "http://rateyourmusic.com/account/delete",
         "difficulty": "impossible",
@@ -6000,17 +6011,6 @@
         "notes": "Go to your profile page, and use the 'Delete Your Account' button.",
         "domains": [
             "readernaut.com"
-        ]
-    },
-
-    {
-        "name": "RapidAPI",
-        "url": "https://rapidapi.com/contact-us",
-        "difficulty": "hard",
-        "notes": "Account can be only deleted with sending request to support",
-        "email": "support@rapidapi.com",
-        "domains": [
-            "rapidapi.com"
         ]
     },
 
@@ -6358,6 +6358,16 @@
     },
 
     {
+        "name": "Sketchfab",
+        "url": "https://sketchfab.com/settings/account",
+        "difficulty": "easy",
+        "notes": "You have to click on the button Delete your account, select the consent to delete all content and confirm.",
+        "domains": [
+            "sketchfab.com"
+        ]
+    },
+
+    {
         "name": "Skillshare",
         "url": "http://www.skillshare.com/settings/account",
         "difficulty": "easy",
@@ -6389,16 +6399,6 @@
         "notes_es": "Contacta con la asistencia al cliente. Deberás conocer 5 contactos de su lista, el mes que la cuenta fue creada y el e-mail asociado.",
         "domains": [
             "skype.com"
-        ]
-    },
-
-    {
-        "name": "Sketchfab",
-        "url": "https://sketchfab.com/settings/account",
-        "difficulty": "easy",
-        "notes": "You have to click on the button Delete your account, select the consent to delete all content and confirm.",
-        "domains": [
-            "sketchfab.com"
         ]
     },
 
