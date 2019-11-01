@@ -4267,7 +4267,7 @@
         "name": "Netflix",
         "url": "https://help.netflix.com/en/node/407",
         "difficulty": "hard",
-        "notes": "Cancel your membership, then contact support if you want immediate deletion. Otherwise your account will be conserved for 10 months.",
+        "notes": "Cancel your membership, then contact support if you want immediate deletion, otherwise your account will be automatically deleted in 10 months.",
         "notes_fr": "Annulez votre abonnement, puis contactez le support si vous souhaitez une suppression immédiate. Sinon, votre compte sera conservé pendant 10 mois.",
         "notes_it": "Contatta il servizio clienti.",
         "notes_pt_br": "Contate a assistência ao cliente. Mesmo assim eles não deletarão sua conta sobre a premissa que talvez você queira retornar em manter seu histórico e recomendações.",
