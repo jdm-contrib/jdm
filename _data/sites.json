@@ -7205,9 +7205,9 @@
 
     {
         "name": "Typeform",
-        "url": "https://www.typeform.com/help/submit-ticket/",
-        "notes": "To delete your account and data you need to contact Support.",
-        "difficulty": "hard",
+        "url": "https://help.typeform.com/hc/en-us/articles/360029631211-The-right-to-be-forgotten",
+        "notes": "Follow the steps in the link: Login, then click 'My Account', scroll to the 'Danger Zone', click 'Delete my account' and confirm.",
+        "difficulty": "easy",
         "domains": [
             "typeform.com"
         ]
