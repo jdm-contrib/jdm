@@ -6200,7 +6200,7 @@
 
     {
         "name": "Scaleway",
-        "url": "https://cloud.scaleway.com/#/account",
+        "url": "https://console.scaleway.com/#/account",
         "difficulty": "easy",
         "notes": "On the top right of the page, click 'Delete my account'.",
         "domains": [
