@@ -5034,6 +5034,16 @@
     },
 
     {
+        "name": "Nextdoor",
+        "url": "https://help.nextdoor.com/s/article/How-to-deactivate-or-delete-your-account",
+        "difficulty": "hard",
+        "notes": "Accounts can only be deleted by contacting their support team.",
+        "domains": [
+            "nextdoor.com"
+        ]
+    },
+
+    {
         "name": "Nexus mods",
         "url": "https://www.nexusmods.com/",
         "difficulty": "impossible",
