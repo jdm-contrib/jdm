@@ -2378,6 +2378,16 @@
     },
 
     {
+        "name": "FastTech",
+        "url": "https://support.fasttech.com/general/ACCT",
+        "difficulty": "hard",
+        "notes": "You need to create a ticket to request the deletion of your account.",
+        "domains": [
+            "www.fasttech.com"
+        ]
+    },
+
+    {
         "name": "FaucetHub",
         "url": "https://faucethub.io/dashboard/security/deleteaccount",
         "difficulty": "easy",
