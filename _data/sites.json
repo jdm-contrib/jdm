@@ -5036,8 +5036,8 @@
     {
         "name": "Nextdoor",
         "url": "https://help.nextdoor.com/s/article/How-to-deactivate-or-delete-your-account",
-        "difficulty": "impossible",
-        "notes": "Accounts can only be deleted and/or activated by following the tutorial.",
+        "difficulty": "hard",
+        "notes": "Accounts can only be deleted by contacting their support team.",
         "domains": [
             "nextdoor.com"
         ]
