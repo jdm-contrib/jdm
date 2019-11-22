@@ -1553,6 +1553,17 @@
     },
 
     {
+        "name": "Crypton.sh",
+        "url": "http://crypton.sh/app/account",
+        "difficulty": "easy",
+        "notes": "Scroll down the page, click at \"Delete My Account\", type your password and confirm your action by clicking \"Delete Account\".",
+        "notes_pt_br": "Role a página para baixo, clique em \"Delete My Account\", digite sua senha e clique em \"Delete Account\" para confirmar a exclusão da sua conta.",
+        "domains": [
+            "crypton.sh"
+        ]
+    },
+
+    {
         "name": "CryptPad",
         "url": "https://cryptpad.fr/settings/",
         "difficulty": "easy",
