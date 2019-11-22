@@ -1824,10 +1824,10 @@
 
     {
         "name": "DigitalOcean",
-        "url": "https://cloud.digitalocean.com/settings/account",
+        "url": "http://cloud.digitalocean.com/account/profile/deactivate",
         "difficulty": "easy",
-        "notes": "Check the \"Deactivate Account\" box in the settings.",
-        "notes_pl": "Zaznacz pole \"Deactivate Account\" w ustawieniach.",
+        "notes": "Click in the checkbox \"Purge all of my account data\" and confirm your action by clicking \"Deactivate Account\".",
+        "notes_pt_br": "Marque a opção \"Purge all of my account data\" e clique em \"Deactivate Account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "digitalocean.com"
         ]
