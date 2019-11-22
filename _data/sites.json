@@ -271,6 +271,17 @@
     },
 
     {
+        "name": "Android File Host (AFH)",
+        "url": "http://androidfilehost.com/?w=contact",
+        "difficulty": "hard",
+        "notes": "Contact the customer support using the contact form and request the deletion of your account.",
+        "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "domains": [
+            "androidfilehost.com"
+        ]
+    },
+
+    {
         "name": "Angelist",
         "url": "https://angel.co/settings",
         "difficulty": "easy",
