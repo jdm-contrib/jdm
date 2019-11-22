@@ -2072,6 +2072,24 @@
     },
 
     {
+        "name": "EBANX",
+        "url": "http://ebanx.com",
+        "difficulty": "impossible",
+        "notes": "Customer support says that EBANX accounts can't be deleted, as the information about user transactions (e.g: payments) may be necessary in the future for, according to them, \"legal obligations and legitimate interests\".",
+        "notes_pt_br": "O suporte ao cliente diz que contas EBANX não podem ser excluídas, pois as informações sobre as transações realizadas pelo usuário (exemplo: pagamentos) podem ser futuramente necessárias para, segundo eles, \"legítimos interesses e obrigações legais\".",
+        "domains": [
+            "ebanx.cl",
+            "ebanx.com",
+            "ebanx.com.bo",
+            "ebanx.com.br",
+            "ebanx.com.co",
+            "ebanx.com.ec",
+            "ebanx.com.mx",
+            "ebanx.com.pe"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "eBay",
         "url": "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
