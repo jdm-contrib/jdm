@@ -6085,6 +6085,29 @@
     },
 
     {
+        "name": "RecargaPay",
+        "url": "http://recargapay.com.br/user/close-account",
+        "difficulty": "impossible",
+        "notes": "You can't completely delete your account. On the account closure page, you are informed that after you closing your account, most of your data will be deleted from the system, however it's not specified which data will be kept and why. Closed accounts can also be reactivated at any time by the user.",
+        "notes_pt_br": "Você não pode excluir completamente sua conta. Na página de encerramento, você é informado que, após encerrar sua conta, a maioria dos seus dados serão excluídos do sistema, no entanto, não é especificado quais dados serão mantidos e nem o porquê. Contas encerradas também podem ser reativadas a qualquer momento pelo usuário.",
+        "domains": [
+            "recarga.com",
+            "recarga.helpshift.com",
+            "recargapay.cl",
+            "recargapay.co",
+            "recargapay.com",
+            "recargapay.com.ar",
+            "recargapay.com.br",
+            "recargapay.com.co",
+            "recargapay.com.mx",
+            "recargapay.es",
+            "recargapay.prezly.com",
+            "recargapay.us",
+            "recargapay.workable.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
