@@ -1055,6 +1055,19 @@
     },
 
     {
+        "name": "Celcoin",
+        "url": "http://celcoin.com.br",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, include your full name and Tax ID in your request.",
+        "notes_pt_br": "Envie um e-mail para o suporte ao cliente e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, inclua seu nome completo e CPF na solicitação.",
+        "email": "contato@celcoin.com.br",
+        "domains": [
+            "celcoin.com.br",
+            "suportecelcoin.zendesk.com"
+        ]
+    },
+
+    {
         "name": "cda",
         "url": "https://www.cda.pl/kontakt",
         "difficulty": "hard",
