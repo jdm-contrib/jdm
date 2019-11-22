@@ -4157,6 +4157,18 @@
     },
 
     {
+        "name": "Lolja",
+        "url": "http://lolja.com.br",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your Lolja account.",
+        "notes_pt_br": "Envie um e-mail para o suporte ao cliente e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta Lolja.",
+        "email": "sac@lolja.com.br",
+        "domains": [
+            "lolja.com.br"
+        ]
+    },
+
+    {
         "name": "Lookout",
         "url": "https://www.lookout.com/d/settings",
         "difficulty": "easy",
