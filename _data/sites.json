@@ -7194,6 +7194,21 @@
     },
 
     {
+        "name": "Tutanota",
+        "url": "http://mail.tutanota.com/settings/subscription",
+        "difficulty": "hard",
+        "notes": "Go to \"Delete account\", type your password and confirm your action by clicking \"Delete\".",
+        "notes_pt_br": "Vá para \"Delete account\", digite sua senha e clique em \"Delete\" para confirmar a exclusão da sua conta.",
+        "domains": [
+            "keemail.me",
+            "tuta.io",
+            "tutamail.com",
+            "tutanota.com",
+            "tutanota.de"
+        ]
+    },
+
+    {
         "name": "Twenty20",
         "url": "https://www.twenty20.com/delete-account?t20p=settings.index",
         "difficulty": "easy",
