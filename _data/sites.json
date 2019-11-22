@@ -5623,6 +5623,18 @@
     },
 
     {
+        "name": "PicPay",
+        "url": "http://ajuda.picpay.com/mobile/como-desativar-minha-conta",
+        "difficulty": "impossible",
+        "notes": "PicPay accounts can't be deleted, only disabled.",
+        "notes_pt_br": "Contas do PicPay não podem ser excluídas, apenas desativadas.",
+        "domains": [
+            "picpay.com",
+            "picpay.me"
+        ]
+    },
+
+    {
         "name": "Pinboard",
         "url": "https://pinboard.in/faq/#close_account",
         "difficulty": "hard",
