@@ -7285,7 +7285,7 @@
     {
         "name": "Tutanota",
         "url": "http://mail.tutanota.com/settings/subscription",
-        "difficulty": "hard",
+        "difficulty": "easy",
         "notes": "Go to \"Delete account\", type your password and confirm your action by clicking \"Delete\".",
         "notes_pt_br": "Vá para \"Delete account\", digite sua senha e clique em \"Delete\" para confirmar a exclusão da sua conta.",
         "domains": [
