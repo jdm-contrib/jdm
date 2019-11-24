@@ -271,6 +271,17 @@
     },
 
     {
+        "name": "Android File Host (AFH)",
+        "url": "http://androidfilehost.com/?w=contact",
+        "difficulty": "hard",
+        "notes": "Contact the customer support using the contact form and request the deletion of your account.",
+        "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "domains": [
+            "androidfilehost.com"
+        ]
+    },
+
+    {
         "name": "Angelist",
         "url": "https://angel.co/settings",
         "difficulty": "easy",
@@ -1079,6 +1090,19 @@
     },
 
     {
+        "name": "Celcoin",
+        "url": "http://celcoin.com.br",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, include your full name and Tax ID in your request.",
+        "notes_pt_br": "Envie um e-mail para o suporte ao cliente e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, inclua seu nome completo e CPF na solicitação.",
+        "email": "contato@celcoin.com.br",
+        "domains": [
+            "celcoin.com.br",
+            "suportecelcoin.zendesk.com"
+        ]
+    },
+
+    {
         "name": "CEX.IO",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
@@ -1553,6 +1577,17 @@
     },
 
     {
+        "name": "Crypton.sh",
+        "url": "http://crypton.sh/app/account",
+        "difficulty": "easy",
+        "notes": "Scroll down the page, click at \"Delete My Account\", type your password and confirm your action by clicking \"Delete Account\".",
+        "notes_pt_br": "Role a página para baixo, clique em \"Delete My Account\", digite sua senha e clique em \"Delete Account\" para confirmar a exclusão da sua conta.",
+        "domains": [
+            "crypton.sh"
+        ]
+    },
+
+    {
         "name": "CryptPad",
         "url": "https://cryptpad.fr/settings/",
         "difficulty": "easy",
@@ -1789,10 +1824,10 @@
 
     {
         "name": "DigitalOcean",
-        "url": "https://cloud.digitalocean.com/settings/account",
+        "url": "http://cloud.digitalocean.com/account/profile/deactivate",
         "difficulty": "easy",
-        "notes": "Check the \"Deactivate Account\" box in the settings.",
-        "notes_pl": "Zaznacz pole \"Deactivate Account\" w ustawieniach.",
+        "notes": "Click in the checkbox \"Purge all of my account data\" and confirm your action by clicking \"Deactivate Account\".",
+        "notes_pt_br": "Marque a opção \"Purge all of my account data\" e clique em \"Deactivate Account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "digitalocean.com"
         ]
@@ -2057,6 +2092,24 @@
         "notes": "You have to fill out the Data protection request form on their website, providing your identification.",
         "domains": [
             "easyjet.com"
+        ]
+    },
+
+    {
+        "name": "EBANX",
+        "url": "http://ebanx.com",
+        "difficulty": "impossible",
+        "notes": "Customer support says that EBANX accounts can't be deleted, as the information about user transactions (e.g: payments) may be necessary in the future for, according to them, \"legal obligations and legitimate interests\".",
+        "notes_pt_br": "O suporte ao cliente diz que contas EBANX não podem ser excluídas, pois as informações sobre as transações realizadas pelo usuário (exemplo: pagamentos) podem ser futuramente necessárias para, segundo eles, \"legítimos interesses e obrigações legais\".",
+        "domains": [
+            "ebanx.cl",
+            "ebanx.com",
+            "ebanx.com.bo",
+            "ebanx.com.br",
+            "ebanx.com.co",
+            "ebanx.com.ec",
+            "ebanx.com.mx",
+            "ebanx.com.pe"
         ]
     },
 
@@ -4115,6 +4168,18 @@
     },
 
     {
+        "name": "Lolja",
+        "url": "http://lolja.com.br",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your Lolja account.",
+        "notes_pt_br": "Envie um e-mail para o suporte ao cliente e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta Lolja.",
+        "email": "sac@lolja.com.br",
+        "domains": [
+            "lolja.com.br"
+        ]
+    },
+
+    {
         "name": "Lookout",
         "url": "https://www.lookout.com/d/settings",
         "difficulty": "easy",
@@ -5558,6 +5623,18 @@
     },
 
     {
+        "name": "PicPay",
+        "url": "http://ajuda.picpay.com/mobile/como-desativar-minha-conta",
+        "difficulty": "impossible",
+        "notes": "PicPay accounts can't be deleted, only disabled.",
+        "notes_pt_br": "Contas do PicPay não podem ser excluídas, apenas desativadas.",
+        "domains": [
+            "picpay.com",
+            "picpay.me"
+        ]
+    },
+
+    {
         "name": "Pinboard",
         "url": "https://pinboard.in/faq/#close_account",
         "difficulty": "hard",
@@ -6031,6 +6108,29 @@
     },
 
     {
+        "name": "RecargaPay",
+        "url": "http://recargapay.com.br/user/close-account",
+        "difficulty": "impossible",
+        "notes": "You can't completely delete your account. On the account closure page, you are informed that after you closing your account, most of your data will be deleted from the system, however it's not specified which data will be kept and why. Closed accounts can also be reactivated at any time by the user.",
+        "notes_pt_br": "Você não pode excluir completamente sua conta. Na página de encerramento, você é informado que, após encerrar sua conta, a maioria dos seus dados serão excluídos do sistema, no entanto, não é especificado quais dados serão mantidos e nem o porquê. Contas encerradas também podem ser reativadas a qualquer momento pelo usuário.",
+        "domains": [
+            "recarga.com",
+            "recarga.helpshift.com",
+            "recargapay.cl",
+            "recargapay.co",
+            "recargapay.com",
+            "recargapay.com.ar",
+            "recargapay.com.br",
+            "recargapay.com.co",
+            "recargapay.com.mx",
+            "recargapay.es",
+            "recargapay.prezly.com",
+            "recargapay.us",
+            "recargapay.workable.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
@@ -6212,7 +6312,7 @@
         "url": "http://account.samsung.com/membership/contents/profile/delete-samsung-account",
         "difficulty": "easy",
         "notes": "Click in the checkbox \"I confirm the conditions above\", click at \"Delete\", type your password and confirm your action by clicking \"Confirm\".",
-        "notes_pt_br": "Marque a opção \"Confirmo as condições acima\", clique em \"Excluir\", digite sua senha e clique em \"Confirmar\" para confirmar a exclusão da sua conta",
+        "notes_pt_br": "Marque a opção \"Confirmo as condições acima\", clique em \"Excluir\", digite sua senha e clique em \"Confirmar\" para confirmar a exclusão da sua conta.",
         "domains": [
             "samsung.com"
         ]
@@ -6798,7 +6898,7 @@
 
     {
         "name": "Supercell ID",
-        "url": "http://supercell.helpshift.com/a/clash-of-clans/?s=my-account&f=how-do-i-delete-my-account)",
+        "url": "http://supercell.helpshift.com/a/clash-of-clans/?s=my-account&f=how-do-i-delete-my-account",
         "difficulty": "impossible",
         "notes": "Even after \"deleting\" your account, Supercell will still keep your personal information saved on its servers to, according to them, \"business interests\".",
         "notes_pt_br": "Mesmo após \"excluir\" sua conta, a Supercell ainda irá manter suas informações pessoas salvas em seus servidores para, segundo eles, \"interesses comerciais\".",
@@ -7179,6 +7279,21 @@
         "difficulty": "easy",
         "domains": [
             "tumblr.com"
+        ]
+    },
+
+    {
+        "name": "Tutanota",
+        "url": "http://mail.tutanota.com/settings/subscription",
+        "difficulty": "easy",
+        "notes": "Go to \"Delete account\", type your password and confirm your action by clicking \"Delete\".",
+        "notes_pt_br": "Vá para \"Delete account\", digite sua senha e clique em \"Delete\" para confirmar a exclusão da sua conta.",
+        "domains": [
+            "keemail.me",
+            "tuta.io",
+            "tutamail.com",
+            "tutanota.com",
+            "tutanota.de"
         ]
     },
 
