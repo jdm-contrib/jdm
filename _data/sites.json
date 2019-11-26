@@ -5174,6 +5174,17 @@
     },
 
     {
+        "name": "NordPass",
+        "url": "https://nordpass.com/privacy-policy/#choices-related-to-your-data",
+        "difficulty": "hard",
+        "notes": "\"If you’d like to delete your account or data, please contact us at support@nordpass.com\"",
+        "email": "support@nordpass.com",
+        "domains": [
+            "nordpass.com"
+        ]
+    },
+
+    {
         "name": "The Noun Project",
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
