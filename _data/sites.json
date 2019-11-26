@@ -138,6 +138,8 @@
     {
         "name": "Adclerks",
         "url": "https://adclerks.com/privacy",
+        "email": "support@adclerks.com",
+        "email_subject": "Personal Data Request",
         "difficulty": "hard",
         "notes": "You may close your account at any time and for any reason by sending an email to support@adclerks.com. To access, update, or delete your data you must submit a data access request. Do so directly by emailing them at support@adclerks.com, with the subject \"Personal Data Request\"",
         "domains": [
