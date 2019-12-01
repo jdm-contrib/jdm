@@ -12,7 +12,7 @@
     "extensionl2": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - потребни су неки додатни кораци",
     "extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - не може да се обрише у потпуности без контактирања корисничке подршке",
     "extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - не може да се обрише",
-    "extensionp1": "Наш добар пријатељ <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> нам је помогао да направимо сјајан Google Chrome додатак за JustDeleteMe.",
+    "extensionp1": "Наш добар пријатељ <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> нам је помогао да направимо сјајан Google Chrome додатак за JustDeleteMe.",
     "extensionp2": "Када сте на сајту који је на списку на JustDeleteMe, Chrome додатак ће приказати тачкицу у омни-траци. Клик на тачкицу ће вас одвести на страницу за брисање.",
     "extensionp3": "Да бисте га инсталирали, идите на <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome веб-продавницу</a>.",
     "guide": "Водич",
@@ -35,7 +35,7 @@
     "translationcontrib": "Преводиоци",
     "viewcontrib": "Прикажи све доприносиоце",
     "whatisthis": "Шта је ово?",
-    "whatisthis1": "Многе компаније користе технике <a href=\"http://darkpatterns.org/\">тамног шаблона</a> да би вам отежале брисање ваших налога. JustDeleteMe има за циљ да буде директоријум веза које ће вам олакшати брисање ваших налога са веб сервиса.",
+    "whatisthis1": "Многе компаније користе технике <a href=\"https://darkpatterns.org/\">тамног шаблона</a> да би вам отежале брисање ваших налога. JustDeleteMe има за циљ да буде директоријум веза које ће вам олакшати брисање ваших налога са веб сервиса.",
     "whatisthis2": "Имате сајт за додати? <a href=\"https://github.com/jdm-contrib/jdm\">Форкујте пројекат на Гитхабу</a>.",
     "whatisthis3": "<em>Подношење е-поштом је привремено онемогућено</em>"
 }

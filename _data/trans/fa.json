@@ -12,7 +12,7 @@
     "extensionl2": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - شامل مراحل اضافی",
     "extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - لازم به تماس با خدمات مشتری سایت برای حذف کامل",
     "extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - غیر قابل حذف",
-    "extensionp1": "<a target=\"_blank\" href=\"http://mikerogers.io\">مایک راجرز</a> عزیز با عرضه‌ی یک افزونه‌ی فوق‌العاده برای JustDeleteMe کمک شایانی به ما کرده است.",
+    "extensionp1": "<a target=\"_blank\" href=\"https://mikerogers.io\">مایک راجرز</a> عزیز با عرضه‌ی یک افزونه‌ی فوق‌العاده برای JustDeleteMe کمک شایانی به ما کرده است.",
     "extensionp2": "هنگامی که در یکی از سایت‌های فهرست شده در JustDeleteMe افزونه‌ی کروم یک نقطه‌ی کوچک به نوار آدرس اضافه می‌کند. کلیک روی این نقطه، شما را به صفحه‌ی حذف حساب خواهد برد.",
     "extensionp3": "برای نصب به <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a> بروید.",
     "guide": "راهنما",
@@ -35,7 +35,7 @@
     "translationcontrib": "مشارکت‌کنندگان در ترجمه",
     "viewcontrib": "دیدن همه‌ی مشارکت‌کنندگان",
     "whatisthis": "جریان چیه؟",
-    "whatisthis1":" بسیاری از شرکت‌ها از تکنیک‌هایی با نام <a href=\"http://darkpatterns.org/\">dark pattern</a> استفاده می‌کنند تا حذف حساب‌های کاربری از آنها سخت باشد. هدف JustDeleteMe گردآوری فهرستی برای ساده کردن حذف حساب‌هایتان از سرویس‌های تحت وب است.",
+    "whatisthis1":" بسیاری از شرکت‌ها از تکنیک‌هایی با نام <a href=\"https://darkpatterns.org/\">dark pattern</a> استفاده می‌کنند تا حذف حساب‌های کاربری از آنها سخت باشد. هدف JustDeleteMe گردآوری فهرستی برای ساده کردن حذف حساب‌هایتان از سرویس‌های تحت وب است.",
     "whatisthis2": "سایتی سراغ دارید که فکر می‌کنید جاش تو این فهرست خالی‌ه؟ <a href=\"https://github.com/jdm-contrib/jdm\">در گیت‌هاب کمک کنید</a>.",
     "whatisthis3": "<em>ارسال از راه ایمیل موقتاً غیرفعال است.</em>"
 }

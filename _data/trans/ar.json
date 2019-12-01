@@ -12,7 +12,7 @@
     "extensionl2":"<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - تحتاج مراحل إضافية",
     "extensionl3":"<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - لا يمكن حذفه بصفة نهائية إلا عند الاتصال بالدعم",
     "extensionl4":"<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - لا يمكن حذفه",
-    "extensionp1":"صديقنا<a target=\"_blank\" href=\"http://mikerogers.io\">مايك روجرز</a> ساعدنا في إنشاء إمتداد جوجل كروم ل JustDeleteMe",
+    "extensionp1":"صديقنا<a target=\"_blank\" href=\"https://mikerogers.io\">مايك روجرز</a> ساعدنا في إنشاء إمتداد جوجل كروم ل JustDeleteMe",
     "extensionp2":"عند الدخول لأحد المواقع المعروضة في موقعنا، سيتم إضافة علامة مميزة في شريط العنوان. بالضغظ عليه سيحولك مباشرة إلى صفحة الحذف داخل الموقع المتصفح",
     "extensionp3":"للثتبيث من هنا <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
     "guide":"الدليل",
@@ -35,7 +35,7 @@
     "translationcontrib":"المساهمون في الترجمة",
     "viewcontrib":"آنظر كافة المشاركين",
     "whatisthis":"ما هذا ؟",
-    "whatisthis1":" مجموعة من المواقع تستعمل تقنيات تسمى <a href=\"http://darkpatterns.org/\">dark pattern</a> لتصعب عملية حذف الحساب الخاص بك. JustDeleteMe يريد ان يصبح دليلا لوصلات تسهل عملية الحذف.",
+    "whatisthis1":" مجموعة من المواقع تستعمل تقنيات تسمى <a href=\"https://darkpatterns.org/\">dark pattern</a> لتصعب عملية حذف الحساب الخاص بك. JustDeleteMe يريد ان يصبح دليلا لوصلات تسهل عملية الحذف.",
     "whatisthis2":"هل تعتقد آن هنالك موقع يجب اضافته ؟ <a href=\"https://github.com/jdm-contrib/jdm\"> تابع المشروع على جيت هاب</a>",
     "whatisthis3":" الإضافة بواسطة البريد معطلة مؤقتا"
 }

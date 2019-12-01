@@ -12,7 +12,7 @@
     "extensionl2": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Butuh langkah ekstra untuk dilakukan",
     "extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Tidak bisa dihapus sepenuhnya tanpa menghubungi customer service",
     "extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Tidak bisa dihapus",
-    "extensionp1": "Teman baik kami <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> telah membantu kami merilis Ekstensi Google Chrome untuk JustDeleteMe.",
+    "extensionp1": "Teman baik kami <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> telah membantu kami merilis Ekstensi Google Chrome untuk JustDeleteMe.",
     "extensionp2": "Ketika Anda berada di website yang terdaftar di JustDeleteMe, Ekstensi Chrome akan menambahkan titik kecil di omnibar. Klik titik ini akan membawa Anda ke halaman penghapusan yang relevan.",
     "extensionp3": "Untuk menginstall, masuk ke <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
     "guide": "Petunjuk",
@@ -35,7 +35,7 @@
     "translationcontrib": "Kontributor terjemahan",
     "viewcontrib": "Lihat semua kontributor",
     "whatisthis": "Apa ini?",
-    "whatisthis1": "Beberapa perusahaan menggunakan teknik <a href=\"http://darkpatterns.org/\">dark pattern</a> untuk mempersulit cara penghapusan akun. JustDeleteMe bertujuan menyediakan tautan untuk mempermudah anda menemukan cara menghapus akun dari layanan web.",
+    "whatisthis1": "Beberapa perusahaan menggunakan teknik <a href=\"https://darkpatterns.org/\">dark pattern</a> untuk mempersulit cara penghapusan akun. JustDeleteMe bertujuan menyediakan tautan untuk mempermudah anda menemukan cara menghapus akun dari layanan web.",
     "whatisthis2": "Punya situs yang Anda pikir harus ditambahkan? <a href=\"https://github.com/jdm-contrib/jdm\">Fork proyek di Github</a>.",
     "whatisthis3": "<em>Pengajuan Email untuk sementara dinonaktifkan.</em>"
 }
