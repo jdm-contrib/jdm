@@ -12,7 +12,7 @@
     "extensionl2": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Ilgili bazı ek adımlar",
     "extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Müşteri hizmetleri ile irtibat kurmak'sız silinemez",
     "extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Silinemez",
-    "extensionp1": "Güzel arkadaşımız <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> Google Chrome için bir JustDeleteMe uzantısı yapmamıza yardım etti. ",
+    "extensionp1": "Güzel arkadaşımız <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> Google Chrome için bir JustDeleteMe uzantısı yapmamıza yardım etti. ",
     "extensionp2": "JustDeleteMe'de listelenen bir siteye girerseniz, Google Chrome uzantısı omnibar'a küçük bir nokta koyar. Bu noktaya tıklamak sizi direk o site'nin silme sayfasına gönderir.",
     "extensionp3": "Yüklemek için, sadece <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Mağzası</a>'na girin.",
     "guide": "Rehber",
@@ -35,7 +35,7 @@
     "translationcontrib": "Çeviri için katkıda bulunanlar",
     "viewcontrib": "Bütün katkıda bulunanları görüntüle",
     "whatisthis": "Bu nedir?",
-    "whatisthis1": "Çoğu şirket <a href=\"http://darkpatterns.org/\">dark pattern</a> tekniklerini kullanarak hesabınızı silmenizi zorlaştırıyor. JustDeleteMe kolayca web hizmetlerinizden hesabınızı silmek için bir bağlantı dizini olmayı hedeflemektedir.",
+    "whatisthis1": "Çoğu şirket <a href=\"https://darkpatterns.org/\">dark pattern</a> tekniklerini kullanarak hesabınızı silmenizi zorlaştırıyor. JustDeleteMe kolayca web hizmetlerinizden hesabınızı silmek için bir bağlantı dizini olmayı hedeflemektedir.",
     "whatisthis2": "Bu liste'ye eklenmesi gereken bir site biliyor musunuz? <a href=\"https://github.com/jdm-contrib/jdm\">GitHub projesini fork'layın</a>.",
     "whatisthis3": "<em>Email göndermesi şuan devre dışı</em>"
 }

@@ -12,7 +12,7 @@
     "extensionl2": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> -  Нужны дополнительные действия",
     "extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Невозможно полностью удалить без обращения в службу поддержки",
     "extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Невозможно удалить",
-    "extensionp1": "Наш хороший друг <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> помог нам выпустить прекрасное расширение JustDeleteMe для Google Chrome.",
+    "extensionp1": "Наш хороший друг <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> помог нам выпустить прекрасное расширение JustDeleteMe для Google Chrome.",
     "extensionp2": "Когда вы зайдёте на сайт, который есть в списке JustDeleteMe, расширение добавит маленькую точку в адресную строку. Кликнув на эту точку, вы попадете на подходящую страницу для удаления.",
     "extensionp3": "Для того чтобы установить расширение, просто перейдите в <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
     "guide": "Руководство",
@@ -35,7 +35,7 @@
     "translationcontrib": "Участники перевода",
     "viewcontrib": "Просмотреть список всех участников проекта",
     "whatisthis": "Что это?",
-    "whatisthis1": "Многие компании используют технологию <a href=\"http://darkpatterns.org/\">dark pattern</a> для того, чтобы усложнить процесс удаления аккаунта. Каталог ссылок JustDeleteMe призван помочь вам с легкостью удалить аккаунт с веб-сайта",
+    "whatisthis1": "Многие компании используют технологию <a href=\"https://darkpatterns.org/\">dark pattern</a> для того, чтобы усложнить процесс удаления аккаунта. Каталог ссылок JustDeleteMe призван помочь вам с легкостью удалить аккаунт с веб-сайта",
     "whatisthis2": "Есть сайт, который необходимо добавить? <a href=\"https://github.com/jdm-contrib/jdm\">Форкнуть проект на GitHub</a>.",
     "whatisthis3": "<em>Прием сообщений по электронной почте временно приостановлен</em>"
 }
