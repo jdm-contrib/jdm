@@ -5003,7 +5003,7 @@
         "name": "Napster",
         "url": "https://help.napster.com/hc/en-us/articles/218661367",
         "difficulty": "medium",
-        "notes": "Start a chat and ask for your account to be deleted. You can delete anyone's account like this! Just "I'd like my account to be deleted." -"What email?" -"email@email.email" -"Ok, I have gone ahead and deleted it.",
+        "notes": "Start a chat and ask for your account to be deleted. You can delete anyone's account like this! Just \"I'd like my account to be deleted.\" -\"What email?\" -\"email@email.email\" -\"Ok, I have gone ahead and deleted it.\"",
         "domains": [
             "napster.com"
         ]
