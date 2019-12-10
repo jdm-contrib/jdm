@@ -6549,8 +6549,11 @@
 
     {
         "name": "Slashdot",
-        "url": "http://slashdot.org/faq/#accounts3",
-        "difficulty": "impossible",
+        "url": "https://slashdot.org/faq",
+        "email": "feedback@slashdot.org",
+        "email_subject": "Delete Account",
+        "email_body": "I want to permanently delete my account from Slashdot",
+        "difficulty": "hard",
         "domains": [
             "slashdot.org"
         ]
