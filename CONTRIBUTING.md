@@ -1,6 +1,6 @@
 # Contributing
 
-The sites, urls and additional notes are stored in `sites.json`. If you want to add a site to the list you'll need the following information:
+The sites, urls and additional notes are stored in `_data/sites.json`. If you want to add a site to the list you'll need the following information:
 
 - `name`: The name of the service.
 - `url`: The url of the account-deletion page. If no such page exists, the url should be a contact or help page explaining the process of account deletion.
