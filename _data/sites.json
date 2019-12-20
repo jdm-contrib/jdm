@@ -4917,6 +4917,17 @@
     },
 
     {
+        "name": "Musescore",
+        "url": "https://musescore.com/user/settings/profile",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete account' at the left of the page.",
+        "domains": [
+            "musescore.com",
+            "musescore.org"
+        ]
+    },
+
+    {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/account/edit",
         "difficulty": "easy",
