@@ -1653,6 +1653,16 @@
             "cryptpad.fr"
         ]
     },
+    
+    {
+        "name": "Curve",
+        "url": "https://www.curve.app/",
+        "difficulty": "hard",
+        "notes": "They cannot delete your account immediately as they are obliged by the Money Laundering Regulations 2017 to keep your data for 5 years after you stop using Curve.",
+        "domains": [
+            "curve.app"
+        ]
+    },
 
     {
         "name": "Curve",
