@@ -3926,15 +3926,6 @@
     },
 
     {
-        "name": "Koding",
-        "url": "https://koding.com/Account/Delete",
-        "difficulty": "easy",
-        "domains": [
-            "koding.com"
-        ]
-    },
-
-    {
         "name": "Koingo Software",
         "url": "https://www.koingosw.com/account/delete.php",
         "difficulty": "medium",
