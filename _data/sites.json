@@ -2707,7 +2707,7 @@
 
     {
         "name": "Gamespot",
-        "url": "https://www.gamespot.com/help/#toc-0-14",
+        "url": "http://gamespot.com",
         "difficulty": "hard",
         "email": "support@gamespot.com",
         "notes": "Account deletion requires contacting Customer Support.",
@@ -2718,7 +2718,7 @@
         "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
-            "custhelp.com"
+            "gamespot.com"
         ]
     },
 
