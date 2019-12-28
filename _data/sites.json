@@ -2004,8 +2004,10 @@
 
     {
         "name": "Droplr",
-        "url": "https://d.pr/account",
+        "url": "http://d.pr/settings/profile",
         "difficulty": "easy",
+        "note": "Click at \"Delete Account\", type your email address and confirm your action by clicking \"Delete\".",
+        "notes_pt_br": "Clique em \"Delete Account\", digite seu e-mail e clique em \"Delete\" para confirmar a exclusão da sua conta.",
         "domains": [
             "droplr.com",
             "d.pr"
