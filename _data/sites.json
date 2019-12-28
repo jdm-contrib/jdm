@@ -1503,12 +1503,14 @@
 
     {
         "name": "CrashPlan",
-        "url": "http://support.crashplan.com/",
+        "url": "http://helpdesk.code42.com",
         "difficulty": "hard",
         "notes": "Start a live chat session and a representative will delete your account.",
         "notes_fr": "Démarrez une session Live Chat et un représentant supprimera votre compte.",
+        "notes_pt_br": "Inicie um chat ao vivo e um representante excluirá sua conta.",
         "domains": [
-            "crashplan.com"
+            "crashplan.com",
+            "code42.com"
         ]
     },
 
