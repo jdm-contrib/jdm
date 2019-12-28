@@ -1045,12 +1045,14 @@
     },
 
     {
-        "name": "car2go",
-        "url": "https://www.car2go.com/US/en/#footer-contactus",
+        "name": "Car2Go",
+        "url": "http://car2go.com/US/en/contact",
         "difficulty": "hard",
         "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
         "domains": [
-            "car2go.com"
+            "car2go.com",
+            "drive-now.com",
+            "share-now.com"
         ]
     },
 
