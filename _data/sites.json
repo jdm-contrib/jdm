@@ -2145,7 +2145,7 @@
     },
 
     {
-        "name": "eddb",
+        "name": "EDDB",
         "url": "https://eddb.io/contact",
         "difficulty": "hard",
         "notes": "Request deletion in the contact form",
