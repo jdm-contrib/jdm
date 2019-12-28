@@ -631,13 +631,15 @@
 
     {
         "name": "Basecamp",
-        "url": "https://basecamp.com/help/guides/account/cancel",
+        "url": "http://3.basecamp-help.com/article/156-cancel-your-basecamp-account",
         "difficulty": "easy",
         "notes": "Data will be permanantly deleted after 30 days.",
         "notes_fr": "Les données seront supprimés définitivement dans 30 jours.",
         "notes_pl": "Twoje dane zostaną całkowicie usunięte po upływie 30 dni.",
+        "notes_pt_br": "Os dados serão permanente excluídos após 30 dias.",
         "domains": [
-            "basecamp.com"
+            "basecamp.com",
+            "basecamp-help.com"
         ]
     },
 
