@@ -7671,9 +7671,9 @@
 
     {
         "name": "Vidyard",
-        "url": "https://knowledge.vidyard.com",
-        "difficulty": "medium",
-        "notes": "Click \"Get Help\" and request an account deletion, entering your email into the request form.",
+        "url": "http://knowledge.vidyard.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Click \"Submit a request\" and request an account deletion, entering your email into the request form.",
         "domains": [
             "vidyard.com"
         ]
