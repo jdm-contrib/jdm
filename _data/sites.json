@@ -1297,22 +1297,6 @@
     },
 
     {
-        "name": "Code School",
-        "url": "https://www.codeschool.com/account/edit",
-        "difficulty": "easy",
-        "notes": "Go to your Profile, at the bottom you will find a 'Delete Account' button.",
-        "notes_fr": "Allez dans votre Profil, en bas vous trouverez un bouton 'Delete Account'.",
-        "notes_it": "Inizia una discussione privata con loro e se ne occuperanno loro",
-        "notes_de": "Starte eine private Diskussion mit ihnen und sie 'Kümmern sich drum'.",
-        "notes_pt_br": "Inicie uma discussão privada com eles e eles irão 'cuidar disso'.",
-        "notes_cat": "Comenci una discusió privada amb ells i 'procuraran fer-ho'.",
-        "notes_es": "Empieza una discusión privada con ellos y 'procurarán hacerlo'.",
-        "domains": [
-            "codeschool.com"
-        ]
-    },
-
-    {
         "name": "Codeanywhere",
         "url": "https://codeanywhere.com/dashboard",
         "difficulty": "easy",
@@ -5875,6 +5859,19 @@
         "notes": "Under 'Danger Zone', click 'Delete your account'.",
         "domains": [
             "plex.tv"
+        ]
+    },
+
+    {
+        "name": "Pluralsight",
+        "url": "http://help.pluralsight.com/help/how-do-i-delete-my-account",
+        "difficulty": "easy",
+        "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
+        "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
+        "email": "support@pluralsight.com",
+        "domains": [
+            "codeschool.com",
+            "pluralsight.com"
         ]
     },
 
