@@ -7948,8 +7948,8 @@
 
     {
         "name": "Wix",
-        "url": "http://www.wix.com/support/html5/billing/premium-plans/faq/cancel-account-20",
-        "difficulty": "easy",
+        "url": "http://support.wix.com/en/article/gdpr-permanently-deleting-your-wix-account",
+        "difficulty": "medium",
         "notes": "Delete any built sites and subscriptions then follow the link to a deletion request form. Email is sent straight away with a link to confirm the deletion",
         "domains": [
             "wix.com"
