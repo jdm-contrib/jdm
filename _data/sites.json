@@ -1839,8 +1839,10 @@
 
     {
         "name": "Diigo",
-        "url": "https://www.diigo.com/",
+        "url": "http://diigo.com/setting",
         "difficulty": "easy",
+        "note": "Scroll down the page, click at \"I'd like to delete my account.\", type your password and confirm your action by clicking \"Confirm Delete\".",
+        "notes_pt_br": "Role a página para baixo, clique em \"I'd like to delete my account.\", digite sua senha e clique em \"Confirm Delete\" para confirmar a exclusão da sua conta.",
         "domains": [
             "diigo.com"
         ]
