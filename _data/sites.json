@@ -2135,7 +2135,7 @@
     },
 
     {
-        "name": "ebonus",
+        "name": "eBonus",
         "url": "https://ebonus.gg/contact",
         "difficulty": "hard",
         "notes": "After submitting a contact form, they will ask for confirmation using email. After confirmation, account deletion takes 30 days.",
