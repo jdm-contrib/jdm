@@ -7082,9 +7082,11 @@
 
     {
         "name": "Tango",
-        "url": "http://support.tango.me/entries/23534011-How-do-I-delete-my-Tango-account-",
-        "difficulty": "hard",
-        "notes": "In order to delete your account, you have to fill out the form.",
+        "url": "http://help.tango.me/en/articles/2985296-how-do-i-delete-my-tango-account",
+        "difficulty": "easy",
+        "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
+        "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
+        "email": "support@tango.me",
         "domains": [
             "tango.me"
         ]
