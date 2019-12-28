@@ -5649,10 +5649,13 @@
 
     {
         "name": "Personello Germany",
-        "url": "http://de.personello.com/mypersonello/index/feedback",
+        "url": "http://de.personello.com/service",
         "difficulty": "hard",
         "notes": "It is necessary to contact the support, for example through 'Mein Konto' -> 'Meinung abgeben'.",
-        "notes_de": "Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter 'Mein Konto' -> 'Meinung abgeben'"
+        "notes_de": "Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter 'Mein Konto' -> 'Meinung abgeben'",
+        "domains": [
+            "de.personello.com"
+        ]
     },
 
     {
