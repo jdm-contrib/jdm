@@ -5131,6 +5131,17 @@
     },
 
     {
+        "name": "NextDNS",
+        "url": "https://my.nextdns.io/login",
+        "difficulty": "hard",
+        "notes": "There is a button at the bottom of the page. Use it to contact support and request deletion of your account.",
+        "notes_pt_br": "Há um botão na parte inferior da página. Use-o para entrar em contato com o suporte e solicitar a exclusão da sua conta.",
+        "domains": [
+            "nextdns.io"
+        ]
+    },
+
+    {
         "name": "Nextdoor",
         "url": "https://help.nextdoor.com/s/article/How-to-deactivate-or-delete-your-account",
         "difficulty": "hard",
