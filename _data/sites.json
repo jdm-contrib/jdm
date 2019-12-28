@@ -2587,6 +2587,17 @@
     },
 
     {
+        "name": "FreeBitco.In",
+        "url": "http://freebitco.in",
+        "difficulty": "impossible",
+        "notes": "This website does not provide options that allow the user to delete their account.",
+        "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
+        "domains": [
+            "freebitco.in"
+        ]
+    },
+
+    {
         "name": "FreeCodeCamp",
         "url": "https://www.freecodecamp.org/settings",
         "difficulty": "easy",
