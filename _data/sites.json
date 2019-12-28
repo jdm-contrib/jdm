@@ -836,7 +836,7 @@
 
     {
         "name": "Bodybuilding",
-        "url": "http://www.bodybuilding.com/store/help/delete-bodyspace-account.htm",
+        "url": "http://bodybuilding.com/help?deactivate-account",
         "difficulty": "impossible",
         "notes": "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public.",
         "notes_fr": "Vous pouvez seulement désactiver votre compte en contactant le support.",
@@ -844,6 +844,7 @@
         "notes_pt_br": "Você pode apenas desativar sua conta contatando a assistência ao cliente como explicitado na página de ajuda. Não há como remover permanentemente sua conta ou seus dados, e um perfil publico inativo sempre estará visível ao público.",
         "notes_cat": "Només pots desactivar el compte contactant amb l'Assistència al client. No podràs eliminar mai el compte, només desactivar-lo, els comptes desactivats són visibles al públic.",
         "notes_es": "Solo puedes desactivar la cuenta contactando con Assistència al client. No podrás eliminar nunca la cuenta, solo desactivarla, les cuentas desactivadas son visibles al público.",
+        "email": "privacy@bodybuilding.com",
         "domains": [
             "bodybuilding.com"
         ]
