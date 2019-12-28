@@ -2501,8 +2501,10 @@
 
     {
         "name": "Flattr",
-        "url": "https://flattr.com/",
+        "url": "http://flattr.com/settings/account/delete",
         "difficulty": "easy",
+        "notes": "Type your password and confirm your action by clicking \"Permanently delete account\".",
+        "notes_pt_br": "Digite sua senha e clique em \"Permanently delete account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "flattr.com"
         ]
