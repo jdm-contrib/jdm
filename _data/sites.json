@@ -5248,6 +5248,17 @@
     },
 
     {
+        "name": "Nubank",
+        "url": "http://blog.nubank.com.br/fechar-nuconta-e-facil",
+        "difficulty": "impossible",
+        "notes": "Nubank accounts cannot be deleted, only canceled.",
+        "notes_pt_br": "Contas Nubank não podem ser excluídas, apenas canceladas.",
+        "domains": [
+            "nubank.com.br"
+        ]
+    },
+
+    {
         "name": "Odnoklassniki",
         "url": "http://www.odnoklassniki.ru/regulations",
         "difficulty": "easy",
