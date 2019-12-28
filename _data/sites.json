@@ -4899,8 +4899,8 @@
         "name": "Muambator",
         "url": "http://muambator.com.br/login",
         "difficulty": "impossible",
-        "notes": "It seems to be impossible to delete an account on this website. (See <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> for more info)<br><br>Even if you cannot delete the account, you can try modifying/deleting some personal information associated with your user profile.",
-        "notes_pt_br": "Parece ser impossível excluir uma conta neste website. (Veja <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> para obter mais detalhes)<br><br>Mesmo não sendo possível excluir a conta, você ainda pode tentar modificar/excluir algumas informações pessoais associadas ao seu perfil de usuário.",
+        "notes": "This website does not provide options that allow the user to delete their account.",
+        "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
         "domains": [
             "muambator.com.br"
         ]
