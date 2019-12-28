@@ -5042,6 +5042,17 @@
     },
 
     {
+        "name": "Neon Pagamentos",
+        "url": "http://suporte.neon.com.br/hc/pt-br/articles/360019117253-Quero-cancelar-minha-conta-Como-fa%C3%A7o",
+        "difficulty": "impossible",
+        "notes": "Neon accounts cannot be deleted, only canceled.",
+        "notes_pt_br": "Contas Neon não podem ser excluídas, apenas canceladas.",
+        "domains": [
+            "neon.com.br"
+        ]
+    },
+
+    {
         "name": "Neopets",
         "url": "http://www.neopets.com/help_search.phtml?help_id=4",
         "difficulty": "hard",
