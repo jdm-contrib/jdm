@@ -7136,8 +7136,8 @@
         "name": "textPlus",
         "url": "http://textplus.com",
         "difficulty": "impossible",
-        "notes": "It seems to be impossible to delete an account on this online service. (See <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> for more info)",
-        "notes_pt_br": "Parece ser impossível excluir uma conta neste serviço online. (Veja <a href=\"http://github.com/jdm-contrib/jdm/issues/349\">#349</a> para obter mais detalhes)",
+        "notes": "This website does not provide options that allow the user to delete their account.",
+        "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
         "domains": [
             "textplus.com",
             "nextplus.me"
