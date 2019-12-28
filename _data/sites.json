@@ -2165,7 +2165,8 @@
         "name": "eDreams",
         "url": "https://www.edreams.co.uk/travel/secure/#accountpreferences/",
         "difficulty": "easy",
-        "notes": "Click on I want to delete my account",
+        "notes": "Click on \"I want to delete My Account\".",
+        "notes_pt_br": "Clique em \"I want to delete My Account\".",
         "domains": [
             "edreams.com",
             "edreams.co.uk",
