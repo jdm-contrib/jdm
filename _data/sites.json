@@ -543,9 +543,10 @@
 
     {
         "name": "Avira",
-        "url": "https://answers.avira.com/en/question/how-do-i-delete-my-avira-account-12214?sh=true",
-        "difficulty": "hard",
-        "note": "Contact support to request deletion of your account with the email: support@avira.com",
+        "url": "http://support.avira.com/hc/en-us/articles/360000753557--How-can-I-delete-my-Avira-account",
+        "difficulty": "easy",
+        "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
+        "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
         "email": "support@avira.com",
         "domains": [
             "avira.com"
