@@ -4759,8 +4759,10 @@
 
     {
         "name": "MixCloud",
-        "url": "http://www.mixcloud.com/myaccount/account/",
+        "url": "http://mixcloud.com/settings/delete-account",
         "difficulty": "easy",
+        "notes": "Click at \"Just delete my account\".",
+        "notes_pt_br": "Clique em \"Just delete my account\".",
         "domains": [
             "mixcloud.com"
         ]
