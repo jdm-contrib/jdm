@@ -1816,18 +1816,13 @@
 
     {
         "name": "Digg",
-        "url": "http://digg.com/contact",
-        "difficulty": "hard",
-        "notes": "Contact Digg’s customer support and request for your account to be closed.",
-        "notes_fr": "Contactez le support Digg et demandez la suppresion du compte.",
-        "notes_it": "Contatta il servizio clienti e richiedi che il tuo account sia chiuso.",
-        "notes_de": "Kontaktiere Digg's Kundensupport und beantrage die Löschung deines Accounts.",
-        "notes_pt_br": "Contate a assistência ao cliente da Digg e peça que sua conta seja fechada.",
-        "notes_cat": "Contacti amb l'assistència al client de Digg i demani que es clausuri el seu compte.",
-        "notes_es": "Contacta con asistencia al cliente de Digg y pide que se clausure tu cuenta.",
-        "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie swojego konta",
+        "url": "http://digg.zendesk.com/hc/en-us/articles/233934647-How-do-I-delete-my-account",
+        "difficulty": "easy",
+        "note": "Go to \"Settings > Delete my account\".",
+        "notes_pt_br": "Vá para \"Settings > Delete my account\".",
         "domains": [
-            "digg.com"
+            "digg.com",
+            "digg.zendesk.com"
         ]
     },
 
