@@ -2056,15 +2056,11 @@
 
     {
         "name": "Dwolla",
-        "url": "http://www.dwolla.com/deactivate",
-        "difficulty": "hard",
-        "notes": "All accounts stay in their system for at least 3 years. Remove any banking information before you delete.",
-        "notes_fr": "Tous les comptes restent dans le système pour 3 ans au moins. Enlevez toutes les informations bancaires avant la suppression.",
-        "notes_de": "Alle Accounts bleiben 3 Tage lang in ihrem System. Lösche alle Bank-Informationen bevor du deinen Account löschst.",
-        "notes_it": "Tutti gli account rimangono nei loro sistemi per almeno 3 anni. Rimuovi qualsiasi credenziale bancaria prima di cancellarti.",
-        "notes_pt_br": "Todas as contas permanecem no sistema por pelo menos 3 anos. Remova qualquer informação de bancos antes de deletar.",
-        "notes_cat": "Tots els comptes romandran al sistema durant 3 anys. Esborri qualsevol informació bancaria abans de suprimir el compte.",
-        "notes_es": "Todas las cuentas permanecerán en el sistema durante 3 años. Borra toda información bancaria antes de eliminar tu cuenta.",
+        "url": "http://dwolla.com",
+        "difficulty": "impossible",
+        "note": "Dwolla accounts cannot be deleted, only disabled. To request deactivation of your account, contact support via email.",
+        "notes_pt_br": "Contas Dwolla não podem ser excluídas, apenas desativadas. Para solicitar a desativação da sua conta, entre em contato com o suporte via e-mail.",
+        "email": "support@dwolla.com",
         "domains": [
             "dwolla.com"
         ]
