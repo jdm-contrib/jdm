@@ -3471,15 +3471,6 @@
     },
 
     {
-        "name": "Hypejar",
-        "url": "http://www.hypejar.com/settings/account",
-        "difficulty": "easy",
-        "domains": [
-            "hypejar.com"
-        ]
-    },
-
-    {
         "name": "ICQ",
         "url": "http://www.icq.com/delete-account/",
         "difficulty": "easy",
