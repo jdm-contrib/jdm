@@ -1607,9 +1607,10 @@
 
     {
         "name": "Cybrary",
-        "url": "https://www.cybrary.it/members",
+        "url": "http://app.cybrary.it/settings/account",
         "difficulty": "easy",
-        "notes": "Login to your account first. Go to 'Settings, then 'Delete Account'. 'Confirm by ticking 'I understand the consequences.' and click 'Delete Account'.",
+        "notes": "Go to \"Delete Your Account > Delete Account\".",
+        "notes_pt_br": "Vá para \"Delete Your Account > Delete Account\".",
         "domains": [
             "cybrary.com"
         ]
