@@ -243,7 +243,7 @@
 
     {
         "name": "Amazon",
-        "url": "http://amazon.com/gp/help/customer/contact-us",
+        "url": "https://amazon.com/gp/help/customer/contact-us",
         "difficulty": "hard",
         "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
         "notes_fr": "Pour fermer votre compte, contactez Amazon par mail (par le formulaire de contact) et demandez la fermeture de votre compte.",
@@ -543,7 +543,7 @@
 
     {
         "name": "Avira",
-        "url": "http://support.avira.com/hc/en-us/articles/360000753557--How-can-I-delete-my-Avira-account",
+        "url": "https://support.avira.com/hc/en-us/articles/360000753557--How-can-I-delete-my-Avira-account",
         "difficulty": "easy",
         "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
         "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
@@ -631,7 +631,7 @@
 
     {
         "name": "Basecamp",
-        "url": "http://3.basecamp-help.com/article/156-cancel-your-basecamp-account",
+        "url": "https://3.basecamp-help.com/article/156-cancel-your-basecamp-account",
         "difficulty": "easy",
         "notes": "Data will be permanantly deleted after 30 days.",
         "notes_fr": "Les données seront supprimés définitivement dans 30 jours.",
@@ -836,7 +836,7 @@
 
     {
         "name": "Bodybuilding",
-        "url": "http://bodybuilding.com/help?deactivate-account",
+        "url": "https://www.bodybuilding.com/help?account-inquiries&deactivate-account",
         "difficulty": "impossible",
         "notes": "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public.",
         "notes_fr": "Vous pouvez seulement désactiver votre compte en contactant le support.",
@@ -1054,7 +1054,7 @@
 
     {
         "name": "Car2Go",
-        "url": "http://car2go.com/US/en/contact",
+        "url": "https://www.car2go.com/US/en/contact",
         "difficulty": "hard",
         "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
         "domains": [
@@ -1491,7 +1491,7 @@
 
     {
         "name": "CrashPlan",
-        "url": "http://helpdesk.code42.com",
+        "url": "https://helpdesk.code42.com",
         "difficulty": "hard",
         "notes": "Start a live chat session and a representative will delete your account.",
         "notes_fr": "Démarrez une session Live Chat et un représentant supprimera votre compte.",
@@ -1595,7 +1595,7 @@
 
     {
         "name": "Cybrary",
-        "url": "http://app.cybrary.it/settings/account",
+        "url": "https://app.cybrary.it/settings/account",
         "difficulty": "easy",
         "notes": "Go to \"Delete Your Account > Delete Account\".",
         "notes_pt_br": "Vá para \"Delete Your Account > Delete Account\".",
@@ -1804,7 +1804,7 @@
 
     {
         "name": "Digg",
-        "url": "http://digg.zendesk.com/hc/en-us/articles/233934647-How-do-I-delete-my-account",
+        "url": "https://digg.zendesk.com/hc/en-us/articles/233934647-How-do-I-delete-my-account",
         "difficulty": "easy",
         "note": "Go to \"Settings > Delete my account\".",
         "notes_pt_br": "Vá para \"Settings > Delete my account\".",
@@ -1827,7 +1827,7 @@
 
     {
         "name": "Diigo",
-        "url": "http://diigo.com/setting",
+        "url": "https://www.diigo.com/setting",
         "difficulty": "easy",
         "note": "Scroll down the page, click at \"I'd like to delete my account.\", type your password and confirm your action by clicking \"Confirm Delete\".",
         "notes_pt_br": "Role a página para baixo, clique em \"I'd like to delete my account.\", digite sua senha e clique em \"Confirm Delete\" para confirmar a exclusão da sua conta.",
@@ -1992,7 +1992,7 @@
 
     {
         "name": "Droplr",
-        "url": "http://d.pr/settings/profile",
+        "url": "https://d.pr/settings/profile",
         "difficulty": "easy",
         "note": "Click at \"Delete Account\", type your email address and confirm your action by clicking \"Delete\".",
         "notes_pt_br": "Clique em \"Delete Account\", digite seu e-mail e clique em \"Delete\" para confirmar a exclusão da sua conta.",
@@ -2044,7 +2044,7 @@
 
     {
         "name": "Dwolla",
-        "url": "http://dwolla.com",
+        "url": "https://www.dwolla.com/",
         "difficulty": "impossible",
         "note": "Dwolla accounts cannot be deleted, only disabled. To request deactivation of your account, contact support via email.",
         "notes_pt_br": "Contas Dwolla não podem ser excluídas, apenas desativadas. Para solicitar a desativação da sua conta, entre em contato com o suporte via e-mail.",
@@ -2489,7 +2489,7 @@
 
     {
         "name": "Flattr",
-        "url": "http://flattr.com/settings/account/delete",
+        "url": "https://flattr.com/settings/account/delete",
         "difficulty": "easy",
         "notes": "Type your password and confirm your action by clicking \"Permanently delete account\".",
         "notes_pt_br": "Digite sua senha e clique em \"Permanently delete account\" para confirmar a exclusão da sua conta.",
@@ -2583,7 +2583,7 @@
 
     {
         "name": "FreeBitco.In",
-        "url": "http://freebitco.in",
+        "url": "https://freebitco.in",
         "difficulty": "impossible",
         "notes": "This website does not provide options that allow the user to delete their account.",
         "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
@@ -2604,7 +2604,7 @@
 
     {
         "name": "Freelancer",
-        "url": "http://freelancer.com/support/employer/general",
+        "url": "https://freelancer.com/support/employer/general",
         "difficulty": "hard",
         "notes": "Make sure your account balance is positive, then issue a support ticket requesting to close your account.",
         "notes_fr": "Vous assurez que votre solde est positif, puis créez un ticket de support pour demander la suppression de votre compte.",
@@ -2695,7 +2695,7 @@
 
     {
         "name": "Gamespot",
-        "url": "http://gamespot.com",
+        "url": "https://gamespot.com",
         "difficulty": "hard",
         "email": "support@gamespot.com",
         "notes": "Account deletion requires contacting Customer Support.",
@@ -2722,7 +2722,7 @@
 
     {
         "name": "Gauges",
-        "url": "http://gaug.es",
+        "url": "https://gaug.es",
         "difficulty": "hard",
         "notes": "Contact support and request they delete your account.",
         "notes_fr": "Contactez le support et demandez la suppression de vore compte.",
@@ -4729,9 +4729,9 @@
 
     {
         "name": "MixCloud",
-        "url": "http://mixcloud.com/settings/delete-account",
+        "url": "https://www.mixcloud.com/settings/delete-account/",
         "difficulty": "easy",
-        "notes": "Click at \"Just delete my account\".",
+        "notes": "Click on \"Just delete my account\".",
         "notes_pt_br": "Clique em \"Just delete my account\".",
         "domains": [
             "mixcloud.com"
@@ -5034,7 +5034,7 @@
 
     {
         "name": "Neon Pagamentos",
-        "url": "http://suporte.neon.com.br/hc/pt-br/articles/360019117253-Quero-cancelar-minha-conta-Como-fa%C3%A7o",
+        "url": "https://suporte.neon.com.br/hc/pt-br/articles/360019117253-Quero-cancelar-minha-conta-Como-fa%C3%A7o",
         "difficulty": "impossible",
         "notes": "Neon accounts cannot be deleted, only canceled.",
         "notes_pt_br": "Contas Neon não podem ser excluídas, apenas canceladas.",
@@ -5251,7 +5251,7 @@
 
     {
         "name": "Nubank",
-        "url": "http://blog.nubank.com.br/fechar-nuconta-e-facil",
+        "url": "https://blog.nubank.com.br/fechar-nuconta-e-facil/",
         "difficulty": "impossible",
         "notes": "Nubank accounts cannot be deleted, only canceled.",
         "notes_pt_br": "Contas Nubank não podem ser excluídas, apenas canceladas.",
@@ -5619,7 +5619,7 @@
 
     {
         "name": "Personello Germany",
-        "url": "http://de.personello.com/service",
+        "url": "https://de.personello.com/service",
         "difficulty": "hard",
         "notes": "It is necessary to contact the support, for example through 'Mein Konto' -> 'Meinung abgeben'.",
         "notes_de": "Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter 'Mein Konto' -> 'Meinung abgeben'",
@@ -5841,7 +5841,7 @@
 
     {
         "name": "Pluralsight",
-        "url": "http://help.pluralsight.com/help/how-do-i-delete-my-account",
+        "url": "https://help.pluralsight.com/help/how-do-i-delete-my-account",
         "difficulty": "easy",
         "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
         "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
@@ -7052,7 +7052,7 @@
 
     {
         "name": "Tango",
-        "url": "http://help.tango.me/en/articles/2985296-how-do-i-delete-my-tango-account",
+        "url": "https://help.tango.me/en/articles/2985296-how-do-i-delete-my-tango-account",
         "difficulty": "easy",
         "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
         "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
@@ -7643,7 +7643,7 @@
 
     {
         "name": "Vidyard",
-        "url": "http://knowledge.vidyard.com/hc/en-us/requests/new",
+        "url": "https://knowledge.vidyard.com/hc/en-us/requests/new",
         "difficulty": "hard",
         "notes": "Click \"Submit a request\" and request an account deletion, entering your email into the request form.",
         "domains": [
@@ -7920,7 +7920,7 @@
 
     {
         "name": "Wix",
-        "url": "http://support.wix.com/en/article/gdpr-permanently-deleting-your-wix-account",
+        "url": "https://support.wix.com/en/article/gdpr-permanently-deleting-your-wix-account",
         "difficulty": "medium",
         "notes": "Delete any built sites and subscriptions then follow the link to a deletion request form. Email is sent straight away with a link to confirm the deletion",
         "domains": [
