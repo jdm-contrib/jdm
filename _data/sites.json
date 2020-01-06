@@ -7722,7 +7722,9 @@
     {
         "name": "Zapier",
         "url": "https://zapier.com/app/settings/delete",
-        "difficulty": "medium",
+        "difficulty": "easy",
+        "notes": "Got to the URL, confirm your email. You'll be redirected to the login page. Confirm your email again and enter \"DELETE\" (all caps) In the \"Confirm you want to delete your account\" field.",
+        "notes_pt_br": "Vá para a URL, confirme seu email. Você será redirecionado a página de login. Confirme seu email novamente e digite \"DELETE\" (maiúsculo) no campo \"Confirm you want to delete your account\".",
         "domains": [
             "zapier.com"
         ]
