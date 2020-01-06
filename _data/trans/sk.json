@@ -12,7 +12,7 @@
     "extensionl2": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Nutné kroky naviac",
     "extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Nemožné úplne vymazať bez kontaktovania zakazníckych služieb spoločnosti",
     "extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Nemožné vymazať",
-    "extensionp1": "Náš dobrý priateľ <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> nám pomohol vydať úžasné Google Chrome rozšírenie pre JustDeleteMe.",
+    "extensionp1": "Náš dobrý priateľ <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> nám pomohol vydať úžasné Google Chrome rozšírenie pre JustDeleteMe.",
     "extensionp2": "Ak sa nachádzate na stránke, ktorá je na zozname JustDeleteMe, rozšírenie pridá malú bodku do omnibaru. Kliknutie na bodku vás hneď presmeruje na stránku, kde je možné účet vymazať.",
     "extensionp3": "Ak si chcete nainštalovať rozšírenie jednoducho choďte na stránku <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Obchodu</a>.",
     "guide": "Návod",
@@ -35,7 +35,7 @@
     "translationcontrib": "Ľudia, ktorí pomohli s prekladom",
     "viewcontrib": "Pozrieť všetkých prispievateľov",
     "whatisthis": "O čom je tento projekt?",
-    "whatisthis1": "Mnoho spoločností používa <a href=\"http://darkpatterns.org/\">nekalé praktiky</a>, aby urobili vymazanie účtu náročnejšie. JustDeleteMe má za cieľ byť zoznamom odkazov, ktoré vám umožnia jednoducho vymazať váš účet z internetových služieb.",
+    "whatisthis1": "Mnoho spoločností používa <a href=\"https://darkpatterns.org/\">nekalé praktiky</a>, aby urobili vymazanie účtu náročnejšie. JustDeleteMe má za cieľ byť zoznamom odkazov, ktoré vám umožnia jednoducho vymazať váš účet z internetových služieb.",
     "whatisthis2": "Poznáš stránku, ktorá by sa tu mala nachádzať? <a href=\"https://github.com/jdm-contrib/jdm\">Forkni projekt na GitHub-e</a>.",
     "whatisthis3": "<em>Podanie E-mailu je mimo službu</em>"
 }

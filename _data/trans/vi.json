@@ -12,7 +12,7 @@
     "extensionl2": "<span class=\"dot-wrapper\"><span class=\"dot medium\"></span></span> - Cần thêm một số bước bổ sung",
     "extensionl3": "<span class=\"dot-wrapper\"><span class=\"dot hard\"></span></span> - Không xóa được nếu không liên hệ bộ phận dịch vụ khách hàng",
     "extensionl4": "<span class=\"dot-wrapper\"><span class=\"dot impossible\"></span></span> - Không thể xóa được",
-    "extensionp1": "Người bạn tốt của chúng tôi <a target=\"_blank\" href=\"http://mikerogers.io\">Mike Rogers</a> đã giúp chúng tôi phát hành tiện ích cho Google Chrome của JustDeleteMe.",
+    "extensionp1": "Người bạn tốt của chúng tôi <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> đã giúp chúng tôi phát hành tiện ích cho Google Chrome của JustDeleteMe.",
     "extensionp2": "Khi bạn truy cập một trang web đã được liệt kê tại JustDeleteMe, tiện ích Chrome sẽ hiện một dấu chấm nhỏ trên thanh đường dẫn. Nhấn vào dấu chấm này sẽ đưa bạn tới trang xóa tài khoản.",
     "extensionp3": "Để cài đặt, hãy truy cập <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Cửa hàng tiện ích của Google Chrome</a>.",
     "guide": "Hướng dẫn",
@@ -35,7 +35,7 @@
     "translationcontrib": "Thông dịch viên",
     "viewcontrib": "Xem tất cả các thành viên",
     "whatisthis": "Đây là gì?",
-    "whatisthis1": "Nhiều tổ chức dùng thuật toán <a href=\"http://darkpatterns.org/\">dark pattern</a> làm người dùng khó có thể tìm ra cách xóa hoàn toàn tài khoản của họ. JustDeleteMe được tạo ra nhằm cung cấp những đường dẫn giúp bạn xóa bỏ tài khoản của mình khỏi các dịch vụ web.",
+    "whatisthis1": "Nhiều tổ chức dùng thuật toán <a href=\"https://darkpatterns.org/\">dark pattern</a> làm người dùng khó có thể tìm ra cách xóa hoàn toàn tài khoản của họ. JustDeleteMe được tạo ra nhằm cung cấp những đường dẫn giúp bạn xóa bỏ tài khoản của mình khỏi các dịch vụ web.",
     "whatisthis2": "Bạn nghĩ nên bổ sung đường dẫn cho một dịch vụ mới? <a href=\"https://github.com/jdm-contrib/jdm\">Gia nhập dự án trên GitHub</a>.",
     "whatisthis3": "<em>Tạm thời ngưng việc thêm dịch vụ qua email</em>"
 }

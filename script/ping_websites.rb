@@ -52,6 +52,7 @@ rescue  Errno::ECONNRESET,
         Errno::ETIMEDOUT,
         Net::OpenTimeout,
         Net::ReadTimeout,
+        EOFError,
         SocketError => e
     # All categories where a site is most definitely non-operational
     puts "HTTP request failed to #{name}: #{e.inspect}"
