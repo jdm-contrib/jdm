@@ -6884,15 +6884,6 @@
     },
 
     {
-        "name": "Stereomood",
-        "url": "http://www.stereomood.com/",
-        "difficulty": "easy",
-        "domains": [
-            "stereomood.com"
-        ]
-    },
-
-    {
         "name": "Storenvy",
         "url": "http://www.storenvy.com/account",
         "difficulty": "easy",
