@@ -69,10 +69,10 @@
             <h2>{{ site.data.trans[page.lang].guide }}</h2>
             <p>{{ site.data.trans[page.lang].guideexplanations }}</p>
             <ul>
-                <li class="easy">{{ site.data.trans[page.lang].guideeasy|safe }}</li>
-                <li class="medium">{{ site.data.trans[page.lang].guidemedium|safe }}</li>
-                <li class="hard">{{ site.data.trans[page.lang].guidehard|safe }}</li>
-                <li class="impossible">{{ site.data.trans[page.lang].guideimpossible|safe }}</li>
+                <li class="easy"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_easy|safe }}</span> - {{ site.data.trans[page.lang].guideeasy|safe }}</li>
+                <li class="medium"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_medium|safe }}</span> - {{ site.data.trans[page.lang].guidemedium|safe }}</li>
+                <li class="hard"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_hard|safe }}</span> - {{ site.data.trans[page.lang].guidehard|safe }}</li>
+                <li class="impossible"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_impossible|safe }}</span> - {{ site.data.trans[page.lang].guideimpossible|safe }}</li>
             </ul>
         </div>
     </div>
