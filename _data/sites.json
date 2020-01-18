@@ -3717,6 +3717,17 @@
             "istudentpro.com"
         ]
     },
+    
+    {
+        "name": "itch.io",
+        "url": "https://itch.io/support",
+        "difficulty": "hard",
+        "notes": "You need to contact support via email to get your account deleted.",
+        "domains": [
+            "itch.io"
+        ],
+        "email:": "support@itch.io"
+    },
 
     {
         "name": "iTunes / Apple ID",
