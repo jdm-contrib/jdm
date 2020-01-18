@@ -36,6 +36,5 @@
     "viewcontrib": "ผู้มีส่วนร่วมทั้งหมด",
     "whatisthis": "นี่คืออะไร?",
     "whatisthis1": "หลายบริษัทใช้เทคนิค <a href=\"https://darkpatterns.org/\">dark pattern</a> เพื่อไม่ให้ผู้ใช้สามารถหาวิธีลบบัญชีออกได้โดยง่าย JustDeleteMe ต้องการจะสร้างรายการurlเพื่อให้คุณสามารถลบบัญชีเหล่านี้ได้อย่างง่ายดาย",
-    "whatisthis2": "มีวิธีการลบบัญชีที่อยากจะเพิ่มเติม? <a href=\"https://github.com/jdm-contrib/jdm\">ForkโครงการจากGitHubสิ</a>.",
-    "whatisthis3": "<em>ยกเลิกการรายงานผ่านอีเมล์ช่าวคราว</em>"
+    "whatisthis2": "มีวิธีการลบบัญชีที่อยากจะเพิ่มเติม? <a href=\"https://github.com/jdm-contrib/jdm\">ForkโครงการจากGitHubสิ</a>."
 }
