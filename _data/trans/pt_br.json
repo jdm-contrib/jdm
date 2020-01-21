@@ -1,6 +1,4 @@
 {
-    "banner": "Experimente a nossa nova <span>Extensão do Chrome</span>",
-    "description": "Um diretório de links diretos para deletar sua conta em serviços da web. Descubra como deletar a sua conta no Facebook, Twitter, LinkedIn e outros.",
     "difficulty": "dificuldade",
     "difficulty_easy": "fácil",
     "difficulty_hard": "difícil",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">Difícil</span> - Não pode ser totalmente deletada sem contatar a assistência ao cliente",
     "guideimpossible": "<span class=\"difficulty\">Impossível</span> - Não pode ser deletada",
     "guidemedium": "<span class=\"difficulty\">Média</span> - Alguns passos extras necessários",
-    "help": "Ajude a traduzir",
     "hideinfo": "esconder informações...",
-    "morecontrib": "Mais colaboradores",
     "name": "Português",
     "noinfo": "Nenhuma Informação Disponível",
     "popular": "Popular",
     "sendmail": "Enviar e-mail",
     "showinfo": "exibir informações...",
-    "submit": "Submit a site",
     "tagline": "Um diretório de links diretos para deletar sua conta em serviços da web.",
     "title": "Just Delete Me | Um diretório de links diretos para deletar sua conta em serviços da web.",
-    "translationcontrib": "Colaboradores de Tradução",
-    "viewcontrib": "Ver todos os colaboradores",
     "whatisthis": "O que é isto?",
     "whatisthis1": "Diversas companhias usam técnicas <a href=\"https://darkpatterns.org/\">dark pattern</a> para tornar difícil encontrar como deletar sua conta. JustDeleteMe tem por objetivo ser um diretório de urls que tornem fácil a remoção de sua conta em serviços da web.",
-    "whatisthis2": "Sabe de um site que você acha que deve ser adicionado? <a href=\"https://github.com/jdm-contrib/jdm\">Faça um Fork do projeto no GitHub</a>.",
-    "whatisthis3": "<em>Envio por e-mails está temporariamente desabilitado</em>"
+    "whatisthis2": "Sabe de um site que você acha que deve ser adicionado? <a href=\"https://github.com/jdm-contrib/jdm\">Faça um Fork do projeto no GitHub</a>."
 }

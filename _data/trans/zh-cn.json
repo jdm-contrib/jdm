@@ -1,6 +1,4 @@
 {
-    "banner": "试用新的 <span>Chrome 扩展程序</span>",
-    "description": "一个关于web服务帐号注销链接的目录. 了解如何删除你的Facebook, Twitter, LinkedIn等web服务的帐号",
     "difficulty": "难度分级",
     "difficulty_easy": "简单",
     "difficulty_hard": "困难",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">困难</span> - 联系客服, 才能注销",
     "guideimpossible": "<span class=\"difficulty\">不可能</span> - 不能注销",
     "guidemedium": "<span class=\"difficulty\">一般</span> - 一些必需步骤",
-    "help": "帮助翻译",
     "hideinfo": "收起信息...",
-    "morecontrib": "更多的贡献者",
     "name": "简体中文",
     "noinfo": "无可用信息",
     "popular": "Popular",
     "sendmail": "发送 email",
     "showinfo": "查看信息...",
-    "submit": "添加网站",
     "tagline": "Web服务帐号注销链接的目录.",
     "title": "Just Delete Me | Web服务帐号注销链接的目录.",
-    "translationcontrib": "翻译贡献",
-    "viewcontrib": "查看全部贡献者",
     "whatisthis": "这是什么?",
     "whatisthis1": "很多公司在使用 <a href=\"https://darkpatterns.org/\">dark patterns</a> 技术, 使得找出注销帐号方法变得很困难. JustDeleteMe旨在成为一个链接目录, 帮助你更容易注销web服务帐号.",
-    "whatisthis2": "想添加网站? <a href=\"https://github.com/jdm-contrib/jdm\">Fork the project on GitHub</a>.",
-    "whatisthis3": "<em>Email添加暂时取消</em>"
+    "whatisthis2": "想添加网站? <a href=\"https://github.com/jdm-contrib/jdm\">Fork the project on GitHub</a>."
 }

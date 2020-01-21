@@ -1,6 +1,4 @@
 {
-    "banner": "Prueba nuestra nueva <span>Extensión de Chrome</span>",
-    "description": "Un directorio de enllaces para eliminar sus cuentas de los diferentes servicios de internet. Descubra como eliminar sus cuentas de Facebook, Twitter y otros.",
     "difficulty": "dificultad",
     "difficulty_easy": "fácil",
     "difficulty_hard": "difícil",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">Difícil</span> - No se puede suprimir permanentmente sin contactar con atención al cliente",
     "guideimpossible": "<span class=\"difficulty\">Imposible</span> - No puede ser eliminada",
     "guidemedium": "<span class=\"difficulty\">Media</span> - Se tendrán que hacer algunos pasos extra",
-    "help": "Ayude a traducir",
     "hideinfo": "esconder información",
-    "morecontrib": "Más colaboradores",
     "name": "Español",
     "noinfo": "No hay información disponible",
     "popular": "Popular",
     "sendmail": "Enviar e-mail",
     "showinfo": "mostrar información",
-    "submit": "Submit a site",
     "tagline": "Un directorio de enlaces directos para eliminar sus cuentas en la web",
     "title": "Just Delete Me | Un directorio de enlaces directos para eliminar sus cuentas de los diferentes servicios de internet.",
-    "translationcontrib": "Traductores colaboradores",
-    "viewcontrib": "Ver todos los colaboradores",
     "whatisthis": "¿Que es esto?",
     "whatisthis1": "Numerosas empresas usan una tecnica llamada <a href=\"https://darkpatterns.org/\">dark pattern</a> para dificultar la eliminación de cuentas de usuario en sus servicios web. JustDeleteMe busca ser un directorio donde centralizar los enlaces para eliminar facilmente sus cuentas online.",
-    "whatisthis2": "Crees que se podría poner algun otro servicio web más en la lista? <a href=\"https://github.com/jdm-contrib/jdm\">Haz un Fork del proyecto en GitHub.</a>",
-    "whatisthis3": "<em>El servício de captación de emails está temporalmente inhabilitado</em>"
+    "whatisthis2": "Crees que se podría poner algun otro servicio web más en la lista? <a href=\"https://github.com/jdm-contrib/jdm\">Haz un Fork del proyecto en GitHub.</a>"
 }

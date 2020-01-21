@@ -1,6 +1,4 @@
 {
-    "banner": "Vyskúšaj naše nové rozšírenie <span>Chrome Extension</span>",
-    "description": "Zoznam odkazov na okamžité zmazanie účtov z internetových služieb a sociálnych sietí.Zisti ako si môžeš vymazať účet z Facebooku, Twitteru, LinkedInu accounts a mnoho ďalšich stránok.",
     "difficulty": "náročnosť",
     "difficulty_easy": "ľahké",
     "difficulty_hard": "ťažké",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">Ťažké</span> - Nemožné úplne vymazať bez kontaktovania zakazníckych služieb spoločnosti",
     "guideimpossible": "<span class=\"difficulty\">Nemožné</span> - Nemožné vymazať",
     "guidemedium": "<span class=\"difficulty\">Stredné</span> - Nutné extra kroky naviac",
-    "help": "Pomôž preložiť",
     "hideinfo": "skryť informácie...",
-    "morecontrib": "Ďalší prispievatelia",
     "name": "Slovenčina",
     "noinfo": "Žiadne informácie",
     "popular": "Populárne",
     "sendmail": "Poslať e-mail",
     "showinfo": "ukázať informácie...",
-    "submit": "Pridaj stránku",
     "tagline": "Zoznam odkazov na okamžité zmazanie účtov z internetových služieb.",
     "title": "Just Delete Me | Zoznam odkazov na okamžité zmazanie účtov z internetových služieb",
-    "translationcontrib": "Ľudia, ktorí pomohli s prekladom",
-    "viewcontrib": "Pozrieť všetkých prispievateľov",
     "whatisthis": "O čom je tento projekt?",
     "whatisthis1": "Mnoho spoločností používa <a href=\"https://darkpatterns.org/\">nekalé praktiky</a>, aby urobili vymazanie účtu náročnejšie. JustDeleteMe má za cieľ byť zoznamom odkazov, ktoré vám umožnia jednoducho vymazať váš účet z internetových služieb.",
-    "whatisthis2": "Poznáš stránku, ktorá by sa tu mala nachádzať? <a href=\"https://github.com/jdm-contrib/jdm\">Forkni projekt na GitHub-e</a>.",
-    "whatisthis3": "<em>Podanie E-mailu je mimo službu</em>"
+    "whatisthis2": "Poznáš stránku, ktorá by sa tu mala nachádzať? <a href=\"https://github.com/jdm-contrib/jdm\">Forkni projekt na GitHub-e</a>."
 }

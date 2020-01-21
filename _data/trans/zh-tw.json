@@ -1,6 +1,4 @@
 {
-    "banner": "試用新的 <span>Chrome 應用程式</span>",
-    "description": "一個網路服務帳號刪除連結的目錄。了解如何刪除你在 Facebook、Twitter、LinkedIn 等網路服務的帳號。",
     "difficulty": "難度",
     "difficulty_easy": "簡單",
     "difficulty_hard": "困難",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">困難</span> - 需要聯絡客服才可刪除",
     "guideimpossible": "<span class=\"difficulty\">不可能</span> - 無法刪除",
     "guidemedium": "<span class=\"difficulty\">中等</span> - 需要額外步驟",
-    "help": "協助翻譯",
     "hideinfo": "隱藏訊息...",
-    "morecontrib": "更多的貢獻者",
     "name": "正體中文",
     "noinfo": "無可用訊息",
     "popular": "熱門",
     "sendmail": "寄送 email",
     "showinfo": "查看訊息...",
-    "submit": "提交網站",
     "tagline": "一個網路服務帳號刪除連結的目錄。",
     "title": "Just Delete Me | 一個網路服務帳號刪除連結的目錄。",
-    "translationcontrib": "翻譯貢獻者",
-    "viewcontrib": "查看所有貢獻者",
     "whatisthis": "這是什麼?",
     "whatisthis1": "許多公司使用 <a href=\"https://darkpatterns.org/\">dark pattern</a> 技術，使得很難找到如何刪除你的帳號。 JustDeleteMe 的目標是成為一個網址的目錄，使你能夠輕鬆地從網路服務中刪除帳戶。",
-    "whatisthis2": "想新增網站？ <a href=\"https://github.com/jdm-contrib/jdm\">Fork the project on GitHub</a>.",
-    "whatisthis3": "<em>Email 提交暫停使用</em>"
+    "whatisthis2": "想新增網站？ <a href=\"https://github.com/jdm-contrib/jdm\">Fork the project on GitHub</a>."
 }

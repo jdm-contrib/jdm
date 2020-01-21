@@ -1,6 +1,4 @@
 {
-    "banner": "Try our new <span>Chrome Extension</span>",
-    "description": "A directory of direct links to delete your account from web services and social networks. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.",
     "difficulty": "difficulty",
     "difficulty_easy": "easy",
     "difficulty_hard": "hard",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">Hard</span> - Cannot be fully deleted without contacting customer services",
     "guideimpossible": "<span class=\"difficulty\">Impossible</span> - Cannot be deleted",
     "guidemedium": "<span class=\"difficulty\">Medium</span> - Some extra steps involved",
-    "help": "Help translate",
     "hideinfo": "hide info...",
-    "morecontrib": "More contributors",
     "name": "English",
     "noinfo": "No Info Available",
     "popular": "Popular",
     "sendmail": "Send email",
     "showinfo": "show info...",
-    "submit": "Submit a site",
     "tagline": "A directory of direct links to delete your account from web services.",
     "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
-    "translationcontrib": "Translation contributors",
-    "viewcontrib": "View all contributors",
     "whatisthis": "What is this?",
     "whatisthis1": "Many companies use <a href=\"https://darkpatterns.org/\">dark pattern</a> techniques to make it difficult to find how to delete your account. JustDeleteMe aims to be a directory of urls to enable you to easily delete your account from web services.",
-    "whatisthis2": "Got a site you think should be added? <a href=\"https://github.com/jdm-contrib/jdm\">Fork the project on GitHub</a>.",
-    "whatisthis3": "<em>Email submission is temporarily disabled</em>"
+    "whatisthis2": "Got a site you think should be added? <a href=\"https://github.com/jdm-contrib/jdm\">Fork the project on GitHub</a>."
 }

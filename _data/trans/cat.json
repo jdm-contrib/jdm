@@ -1,6 +1,4 @@
 {
-    "banner": "Prova la nostra nova  <span>Extensió de Chrome</span>",
-    "description": "Un directori d'enllaços per eliminar els teus comptes dels diferents serveis d'internet. Descobreix com eliminar els comptes de Facebook, Twitter i altres.",
     "difficulty": "dificultat",
     "difficulty_easy": "fàcil",
     "difficulty_hard": "difícil",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">Difícil</span> - No es pot suprimir permanentment sense contactar amb atenció al client",
     "guideimpossible": "<span class=\"difficulty\">Impossíble</span> - No pot ser suprimida",
     "guidemedium": "<span class=\"difficulty\">Mitja</span> - S'han de fer alguns passos extra",
-    "help": "Ajuda a traduir",
     "hideinfo": "amagar informació",
-    "morecontrib": "Més col·laboradors",
     "name": "Català",
     "noinfo": "No hi ha informació disponible",
     "popular": "Popular",
     "sendmail": "Envia un e-mail",
     "showinfo": "mostrar informació",
-    "submit": "Submit a site",
     "tagline": "Un directori d'enllaços directes per suprimir els seus comptes de la web.",
     "title": "Just Delete Me | Un directori d'enllaços directes per eliminar els teus comptes dels diferents serveis d'internet.",
-    "translationcontrib": "Traductors col·laboradors",
-    "viewcontrib": "Veure tots els col·laboradors",
     "whatisthis": "Que es això?",
     "whatisthis1": "Nombroses companyies usen una técnica anomenada <a href=\"https://darkpatterns.org/\">dark pattern</a> per dificultar l'eliminació dels comptes d'usuari als seus serveis online. JustDeleteMe busca ser un directori on centralitzar els enllaços per eliminar facilment les vostres comptes de la web.",
-    "whatisthis2": "Creus que es podría posar algun altre servei web a la llista? <a href=\"https://github.com/jdm-contrib/jdm\">Fes un Fork del projecte a GitHub.</a>",
-    "whatisthis3": "<em>El servei de captació d'emails està temporalment inhabilitat</em>"
+    "whatisthis2": "Creus que es podría posar algun altre servei web a la llista? <a href=\"https://github.com/jdm-contrib/jdm\">Fes un Fork del projecte a GitHub.</a>"
 }

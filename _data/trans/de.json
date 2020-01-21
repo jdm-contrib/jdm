@@ -1,6 +1,4 @@
 {
-    "banner": "Testen Sie unsere neue <span>Chrome Erweiterung</span>",
-    "description": "Ein Verzeichnis direkter Links zur Löschung deines Accounts aus verschiedenen Webdiensten wie beispielsweise Facebook, Twitter, LinkedIn, ...",
     "difficulty": "Schwierigkeit",
     "difficulty_easy": "leicht",
     "difficulty_hard": "schwer",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">Schwer</span> - Kann nicht gelöscht werden, ohne den jeweiligen Support zu kontaktieren",
     "guideimpossible": "<span class=\"difficulty\">Unmöglich</span> - Kann nicht gelöscht werden",
     "guidemedium": "<span class=\"difficulty\">Mittel</span> - Einige zusätzliche Schritte sind notwendig",
-    "help": "Hilf uns bei der Übersetzung",
     "hideinfo": "verstecke Info...",
-    "morecontrib": "Weitere Unterstützer",
     "name": "Deutsch",
     "noinfo": "Keine Information verfügbar.",
     "popular": "Beliebt",
     "sendmail": "E-Mail senden",
     "showinfo": "zeige Info...",
-    "submit": "Seite eintragen",
     "tagline": "Ein Verzeichnis direkter Links um deinen Account aus Webdiensten zu löschen",
     "title": "Just Delete Me | Ein Verzeichnis direkter Links zur Löschung deines Accounts aus verschiedenen Webdiensten.",
-    "translationcontrib": "Übersetzungshelfer",
-    "viewcontrib": "Alle Unterstützer",
     "whatisthis": "Was ist das?",
     "whatisthis1": "Viele Firmen nutzen <a href=\"https://darkpatterns.org/\">dark pattern</a>-Techniken, um es schwierig zu machen, deinen Account zu löschen. Das Ziel von JustDeleteMe ist ein Verzeichnis von URLs, damit Sie Ihr Konto bei verschiedenen Webdiensten einfach löschen können.",
-    "whatisthis2": "Fehlt eine Seite, die hinzugefügt werden sollte? <a href=\"https://github.com/jdm-contrib/jdm\">Forke das Projekt auf GitHub</a>.",
-    "whatisthis3": "<em>E-Mail-Vorschläge sind zur Zeit deaktiviert</em>"
+    "whatisthis2": "Fehlt eine Seite, die hinzugefügt werden sollte? <a href=\"https://github.com/jdm-contrib/jdm\">Forke das Projekt auf GitHub</a>."
 }

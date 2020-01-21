@@ -1,6 +1,4 @@
 {
-    "banner": "Probeer de nieuwe <span>Chrome Extension</span>",
-    "description": "Een verzameling van directe links om jouw gebruikersgegevens bij webdiensten te verwijderen. Vindt uit hoe je jouw Facebook, Twitter, LinkedIn en andere gebruikersaccounts kunt verwijderen.",
     "difficulty": "moeilijkheidsgraad",
     "difficulty_easy": "gemakkelijk",
     "difficulty_hard": "moeilijk",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">Hard</span> - Kan niet volledig worden verwijderd zonder contact met de klantenservice",
     "guideimpossible": "<span class=\"difficulty\">Impossible</span> - Kan niet worden verwijderd",
     "guidemedium": "<span class=\"difficulty\">Medium</span> - Extra stappen nodig",
-    "help": "Help vertalen",
     "hideinfo": "verberg informatie...",
-    "morecontrib": "Meer bijdragers",
     "name": "Nederlands",
     "noinfo": "Geen informatie beschikbaar",
     "popular": "Popular",
     "sendmail": "Stuur een e-mail",
     "showinfo": "toon informatie...",
-    "submit": "Dien een website in",
     "tagline": "Een verzameling directe links om jouw account van een webdienst te verwijderen.",
     "title": "Just Delete Me | Een verzameling directe links om jouw gebruikersgegevens bij een webdienst te verwijderen.",
-    "translationcontrib": "Vertalers",
-    "viewcontrib": "Toon alle bijdragers",
     "whatisthis": "Wat is dit?",
     "whatisthis1": "Veel bedrijven gebruiken <a href=\"https://darkpatterns.org/\">dark pattern</a> technieken om het moeilijk te maken te achterhalen hoe jej jouw account kunt verwijderen. JustDeleteMe poogt een verzameling urls te maken om het makkelijk te maken om jouw account te verwijderen van een web dienst.",
-    "whatisthis2": "Heb je een site die je toe wilt voegen? <a href=\"https://github.com/jdm-contrib/jdm\">Fork het project op GitHub</a>.",
-    "whatisthis3": "<em>E-mail versturen is tijdelijk uitgeschakeld</em>"
+    "whatisthis2": "Heb je een site die je toe wilt voegen? <a href=\"https://github.com/jdm-contrib/jdm\">Fork het project op GitHub</a>."
 }

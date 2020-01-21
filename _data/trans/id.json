@@ -1,6 +1,4 @@
 {
-    "banner": "Coba <span>Ekstensi Chrome</span> baru kami",
-    "description": "Direktori yang berisi tautan untuk menghapus akun dari layanan web. Ketahui cara menghapus akun Facebook, Twitter, LinkedIn dan lainnya.",
     "difficulty": "kesulitan",
     "difficulty_easy": "mudah",
     "difficulty_hard": "sulit",
@@ -21,21 +19,15 @@
     "guidehard": "<span class=\"difficulty\">Sulit</span> - Tidak bisa dihapus sepenuhnya tanpa menghubungi customer service",
     "guideimpossible": "<span class=\"difficulty\">Tidak Mungkin</span> - Tidak bisa dihapus",
     "guidemedium": "<span class=\"difficulty\">Sedang</span> - Butuh langkah ekstra untuk dilakukan",
-    "help": "Bantu terjemah",
     "hideinfo": "sembunyikan info...",
-    "morecontrib": "Kontributor lainnya",
     "name": "Bahasa Indonesia",
     "noinfo": "Info Tidak Tersedia",
     "popular": "Popular",
     "sendmail": "Kirim email",
     "showinfo": "lihat info...",
-    "submit": "Masukkan website",
     "tagline": "Direktori yang berisi tautan untuk menghapus akun dari layanan web.",
     "title": "Just Delete Me | Direktori yang berisi tautan untuk menghapus akun dari layanan web.",
-    "translationcontrib": "Kontributor terjemahan",
-    "viewcontrib": "Lihat semua kontributor",
     "whatisthis": "Apa ini?",
     "whatisthis1": "Beberapa perusahaan menggunakan teknik <a href=\"https://darkpatterns.org/\">dark pattern</a> untuk mempersulit cara penghapusan akun. JustDeleteMe bertujuan menyediakan tautan untuk mempermudah anda menemukan cara menghapus akun dari layanan web.",
-    "whatisthis2": "Punya situs yang Anda pikir harus ditambahkan? <a href=\"https://github.com/jdm-contrib/jdm\">Fork proyek di Github</a>.",
-    "whatisthis3": "<em>Pengajuan Email untuk sementara dinonaktifkan.</em>"
+    "whatisthis2": "Punya situs yang Anda pikir harus ditambahkan? <a href=\"https://github.com/jdm-contrib/jdm\">Fork proyek di Github</a>."
 }

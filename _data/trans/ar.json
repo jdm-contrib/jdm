@@ -1,6 +1,4 @@
 {
-    "banner":"إمتداد كروم",
-    "description": "Just Delete Me | دليل وصلات لحذف حساباتك من المواقع التفاعلية. تعرف على كيفية حذف حساباتيكم على الفايسبوك, تويتر و لينكداين وأكثر.",
     "difficulty":"الصعوبة",
     "difficulty_easy":"سهل",
     "difficulty_hard":"صعب",
@@ -21,21 +19,15 @@
     "guidehard":"<span class=\"difficulty\">صعب</span> - لا يمكن مسحه بصفة نهائية حتى تتصل بدعم الموقع",
     "guideimpossible":"<span class=\"difficulty\">مستحيل</span> - لا يمكن حذفه",
     "guidemedium":"<span class=\"difficulty\">متوسط</span> - تحتاج مراحل إضافية",
-    "help":"ساعد في الترجمة",
     "hideinfo":"حجب العلومات...",
-    "morecontrib":"المزيد من المساهمين",
     "name": "العربية",
     "noinfo":"معلومات غير متاحة",
     "popular": "Popular",
     "sendmail":"إرسال رسالة",
     "showinfo":"شاهد المعلومات...",
-    "submit":"إدراج موقع",
     "tagline":"دليل وصلات لحذف حساباتك من المواقع التفاعلية" ,
     "title": "Just Delete Me | دليل وصلات مباشرة لحذف حساباتك من المواقع التفاعلية.",
-    "translationcontrib":"المساهمون في الترجمة",
-    "viewcontrib":"آنظر كافة المشاركين",
     "whatisthis":"ما هذا ؟",
     "whatisthis1":" مجموعة من المواقع تستعمل تقنيات تسمى <a href=\"https://darkpatterns.org/\">dark pattern</a> لتصعب عملية حذف الحساب الخاص بك. JustDeleteMe يريد ان يصبح دليلا لوصلات تسهل عملية الحذف.",
-    "whatisthis2":"هل تعتقد آن هنالك موقع يجب اضافته ؟ <a href=\"https://github.com/jdm-contrib/jdm\"> تابع المشروع على جيت هاب</a>",
-    "whatisthis3":" الإضافة بواسطة البريد معطلة مؤقتا"
+    "whatisthis2":"هل تعتقد آن هنالك موقع يجب اضافته ؟ <a href=\"https://github.com/jdm-contrib/jdm\"> تابع المشروع على جيت هاب</a>"
 }
