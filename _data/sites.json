@@ -7124,15 +7124,6 @@
         ]
     },
     
-    {
-        "name": "Tebex",
-        "url": "https://server.tebex.io/profile/delete",
-        "difficulty": "easy",
-        "notes": "Just click the 'delete profile' button in your account menu",
-        "domains": [
-            "tebex.io"
-        ]
-    },
 
     {
         "name": "TeamViewer",
@@ -7145,6 +7136,16 @@
         "notes_es": "Edit profile (menú situado en la esquina superior izquierda) →  Delete account",
         "domains": [
             "teamviewer.com"
+        ]
+    },
+    
+    {
+        "name": "Tebex",
+        "url": "https://server.tebex.io/profile/delete",
+        "difficulty": "easy",
+        "notes": "Just click the 'delete profile' button in your account menu",
+        "domains": [
+            "tebex.io"
         ]
     },
 
