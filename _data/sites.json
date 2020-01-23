@@ -360,7 +360,7 @@
             "aol.com"
         ]
     },
-    
+
     {
         "name": "Apex Minecraft Hosting",
         "url": "https://billing.apexminecrafthosting.com/submitticket.php",
@@ -1004,7 +1004,7 @@
             "buycott.com"
         ]
     },
-    
+
     {
         "name": "Buycraft",
         "url": "https://server.tebex.io/profile/delete",
@@ -2712,7 +2712,7 @@
             "gamehag.com"
         ]
     },
-    
+
     {
         "name": "GameJolt",
         "url": "http://gamejolt.com",
@@ -3717,16 +3717,16 @@
             "istudentpro.com"
         ]
     },
-    
+
     {
         "name": "itch.io",
         "url": "https://itch.io/support",
         "difficulty": "hard",
         "notes": "You need to contact support via email to get your account deleted.",
+        "email:": "support@itch.io",
         "domains": [
             "itch.io"
-        ],
-        "email:": "support@itch.io"
+        ]
     },
 
     {
@@ -7138,7 +7138,7 @@
             "teamviewer.com"
         ]
     },
-    
+
     {
         "name": "Tebex",
         "url": "https://server.tebex.io/profile/delete",
