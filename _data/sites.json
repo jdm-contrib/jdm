@@ -362,6 +362,16 @@
     },
 
     {
+        "name": "Apex Minecraft Hosting",
+        "url": "https://billing.apexminecrafthosting.com/submitticket.php",
+        "difficulty": "hard",
+        "notes": "You need to log into your billing panel and send a ticket regarding the account deletion. If you only have a multicraft account, you can send a ticket without logging in.",
+        "domains": [
+            "apexminecrafthosting.com"
+        ]
+    },
+
+    {
         "name": "AppFog",
         "url": "https://groups.google.com/forum/#!topic/appfog-users/H9AkHjHFfZk",
         "difficulty": "hard",
@@ -992,6 +1002,16 @@
         "email": "info@buycott.com",
         "domains": [
             "buycott.com"
+        ]
+    },
+
+    {
+        "name": "Buycraft",
+        "url": "https://server.tebex.io/profile/delete",
+        "difficulty": "easy",
+        "notes": "Buycraft was moved to Tebex, just click the 'delete profile' button in your account menu",
+        "domains": [
+            "tebex.io"
         ]
     },
 
@@ -2702,6 +2722,16 @@
     },
 
     {
+        "name": "GameJolt",
+        "url": "http://gamejolt.com",
+        "difficulty": "impossible",
+        "notes": "According to many sources, you can get your account stripped of everything and banned by contacting support, but there is no way to delete your account.",
+        "domains": [
+            "gamejolt.com"
+        ]
+    },
+
+    {
         "name": "Gamespot",
         "url": "https://gamespot.com",
         "difficulty": "hard",
@@ -3705,6 +3735,17 @@
         "email": "support@istudentpro.com",
         "domains": [
             "istudentpro.com"
+        ]
+    },
+
+    {
+        "name": "itch.io",
+        "url": "https://itch.io/support",
+        "difficulty": "hard",
+        "notes": "You need to contact support via email to get your account deleted.",
+        "email:": "support@itch.io",
+        "domains": [
+            "itch.io"
         ]
     },
 
@@ -7116,6 +7157,16 @@
         "notes_es": "Edit profile (menú situado en la esquina superior izquierda) →  Delete account",
         "domains": [
             "teamviewer.com"
+        ]
+    },
+
+    {
+        "name": "Tebex",
+        "url": "https://server.tebex.io/profile/delete",
+        "difficulty": "easy",
+        "notes": "Just click the 'delete profile' button in your account menu",
+        "domains": [
+            "tebex.io"
         ]
     },
 
