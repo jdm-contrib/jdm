@@ -507,9 +507,9 @@
 
     {
         "name": "Autodesk",
-        "url": "https://knowledge.autodesk.com/contact-support/websupport/account-deletion",
-        "difficulty": "hard",
-        "notes": "Fill out the form to request for your account to be deleted.",
+        "url": "https://accounts.autodesk.com/Profile/Security",
+        "difficulty": "easy",
+        "notes": "Go to the bottom of the page, click the button 'Account Deletion' and confirm on 'Delete your Autodesk account and data'.",
         "domains": [
             "autodesk.com"
         ]
