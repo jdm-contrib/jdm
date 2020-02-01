@@ -4360,6 +4360,17 @@
     },
 
     {
+        "name": "Mailfence",
+        "url": "https://kb.mailfence.com/kb/how-can-i-delete-my-account/",
+        "difficulty": "easy",
+        "notes": "Go to 'Settings'->'General'->'Delete Account'.",
+        "domains": [
+            "kb.mailfence.com",
+            "mailfence.com"
+        ]
+    },
+
+    {
         "name": "Mailspring",
         "url": "https://id.getmailspring.com",
         "difficulty": "easy",
