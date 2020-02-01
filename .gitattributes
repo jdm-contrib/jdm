@@ -1,0 +1,11 @@
+# Automatically normalize line endings, error if tab used
+* text eol=lf whitespace=tab-in-indent,tabwidth=4
+
+# Don't diff binary files
+*.ico binary
+*.png binary
+*.jpg binary
+
+# Specify different tabwidth for specific files
+*.md  whitespace=tab-in-indent,tabwidth=2
+*.yml whitespace=tab-in-indent,tabwidth=2
