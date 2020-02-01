@@ -3960,13 +3960,13 @@
     },
 
     {
-        "name": "Kit.com",
-        "url": "https://kit.com/terms#contact",
+        "name": "Kit.co",
+        "url": "https://kit.co/terms#contact",
         "difficulty": "hard",
         "notes": "If you need to contact us for any reason, you can do so by emailing us.",
-        "email": "support@kit.com",
+        "email": "support@kit.co",
         "domains": [
-            "kit.com/"
+            "kit.co"
         ]
     },
 
