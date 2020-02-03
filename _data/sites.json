@@ -7782,6 +7782,17 @@
     },
 
     {
+        "name": "Virtualmaster",
+        "url": "https://www.virtualmaster.com/virtualmaster/en/issues",
+        "difficulty": "hard",
+        "notes": "Log in to your account and contact the customer support using the contact form and request the deletion of your account.",
+        "notes_pt_br": "Entre na sua conta e contate o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "domains": [
+            "virtualmaster.com"
+        ]
+    },
+
+    {
         "name": "Viva o Linux (VOL)",
         "url": "http://vivaolinux.com.br/minhaConta.php",
         "difficulty": "easy",
