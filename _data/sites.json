@@ -6561,6 +6561,17 @@
     },
 
     {
+        "name": "Shorte.st",
+        "url": "https://shorte.st/profile/remove-account",
+        "difficulty": "medium",
+        "notes": "Log in to your account, access the account deletion link specified above, access the confirmation link received by email and select 'Remove Account'. Note: Your created links will remain working and you will not be able to use the same email for creating a new account. So remember to manually delete all your created links first.",
+        "notes_pt_br": "Entre na sua conta, acesse o link de exclusão especificado acima, acesse o link de confirmação recebido por email e selecione 'Remove Account'. Nota: Os links criados irão continuar funcionando e você não poderá usar o mesmo email para criar uma nova conta. Então lembre-se de primeiro apagar manualmente todos os seus links criados.",
+        "domains": [
+            "shorte.st"
+        ]
+    },
+
+    {
         "name": "showRSS",
         "url": "http://showrss.info/",
         "difficulty": "impossible",
