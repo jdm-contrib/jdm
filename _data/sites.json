@@ -231,6 +231,16 @@
     },
 
     {
+        "name": "AliExpress",
+        "url": "https://accounts.aliexpress.com/user/organization/deactive_account.htm",
+        "difficulty": "easy",
+        "notes": "To delete your account, go to the \"My AliExpress\" page, click on \"Account Settings\"->\"Edit Settings\" then \"Edit Member Profile\" and click on \"Deactivate Account\" button. On the deactivation page, there is an option \"Release my account at the same time\", click it and confirm so that data will be permanently deleted along with your account.",
+        "domains": [
+            "aliexpress.com"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "http://alvanista.com/profile/edit",
         "difficulty": "easy",
