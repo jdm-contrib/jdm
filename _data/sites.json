@@ -3007,6 +3007,17 @@
     },
 
     {
+        "name": "GOG",
+        "url": "https://support.gog.com/hc/en-us/articles/212806525-How-can-I-delete-my-account-?product=gog",
+        "difficulty": "hard",
+        "notes": "Email privacy@gog.com and ask to have your account deleted.",
+        "email": "privacy@gog.com",
+        "domains": [
+            "gog.com"
+        ]
+    },
+
+    {
         "name": "Gogo",
         "url": "http://custhelp.gogoinflight.com/",
         "difficulty": "hard",
