@@ -6396,6 +6396,16 @@
     },
 
     {
+        "name": "Revolut",
+        "url": "https://www.revolut.com/help/profile/i-want-to-close-my-revolut-account",
+        "difficulty": "easy",
+        "notes": "Open the Revolut app on your phone, go to the Settings tab, press 'Close account' button and follow the instructions.",
+        "domains": [
+            "revolut.com"
+        ]
+    },
+
+    {
         "name": "Rideindego",
         "url": "https://www.rideindego.com/faq/#how-do-i-cancel-my-pass",
         "difficulty": "impossible",
