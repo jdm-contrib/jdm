@@ -3007,6 +3007,17 @@
     },
 
     {
+        "name": "GOG",
+        "url": "https://support.gog.com/hc/en-us/articles/212806525-How-can-I-delete-my-account-?product=gog",
+        "difficulty": "hard",
+        "notes": "Email privacy@gog.com and ask to have your account deleted.",
+        "email": "privacy@gog.com",
+        "domains": [
+            "gog.com"
+        ]
+    },
+
+    {
         "name": "Gogo",
         "url": "http://custhelp.gogoinflight.com/",
         "difficulty": "hard",
@@ -6381,6 +6392,16 @@
         "notes": "Use the Delete button at the bottom of the page.",
         "domains": [
             "retrospring.net"
+        ]
+    },
+
+    {
+        "name": "Revolut",
+        "url": "https://www.revolut.com/help/profile/i-want-to-close-my-revolut-account",
+        "difficulty": "easy",
+        "notes": "Open the Revolut app on your phone, go to the Settings tab, press 'Close account' button and follow the instructions.",
+        "domains": [
+            "revolut.com"
         ]
     },
 
