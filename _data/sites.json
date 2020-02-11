@@ -7336,6 +7336,19 @@
     },
 
     {
+        "name": "TKirch.dev",
+        "url": "https://tkirch.dev/account-management/",
+        "difficulty": "easy",
+        "notes": "Your account will be deleted after 7 days, if you don't cancel the deletion process before. Created content (such as forum posts) won't be deleted, but your username will be anonymized and protected from re-registration for 363 days.",
+        "notes_de": "Dein Benutzerkonto wird nach Ablauf von 7 Tagen gelöscht, solltest du den Vorgang vorher nicht abbrechen. Erstellte Inhalte (wie etwa Foren-Beiträge) werden nicht gelöscht, jedoch wird dein Benutzername anonymisiert und für 363 Tage vor einer erneuten Registrierung geschützt.",
+        "domains": [
+            "tkirch.dev",
+            "tkirch.de",
+            "tituskirch.de"
+        ]
+    },
+
+    {
         "name": "Todoist",
         "url": "https://www.todoist.com/settings",
         "difficulty": "easy",
