@@ -8100,6 +8100,19 @@
     },
 
     {
+        "name": "Woltlab",
+        "url": "https://www.woltlab.com/account-management/",
+        "difficulty": "easy",
+        "notes": "Your account will be deleted after a 7-day grace period. Created content, like forum posts, will not be deleted. Your username will be anonymized and protected against re-registration for a year.",
+        "domains": [
+            "woltlab.com",
+            "saschamoser.de",
+            "softcreatr.com",
+            "tkirch.dev"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "WordPress.com",
         "url": "https://wordpress.com/me/account",
