@@ -2366,6 +2366,16 @@
     },
 
     {
+        "name": "Eventim",
+        "url": "https://www.eventim.de/helpcenter/",
+        "difficulty": "hard",
+        "notes": "Search for Account, select question 'How can I delete my account', then click on 'This answer was not helpful'. A ticket will be opened.",
+        "domains": [
+            "eventim.de"
+        ]
+    },
+
+    {
         "name": "Evernote",
         "url": "https://www.evernote.com/Deactivate.action",
         "difficulty": "impossible",
