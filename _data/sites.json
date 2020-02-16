@@ -7356,7 +7356,15 @@
             "ticketmaster.com"
         ]
     },
-
+    {
+        "name": "Tidal",
+        "url": "https://support.tidal.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Category: Privacy and Data Requests. NOTE! After you press submit, it says that the request has been sent. On 'Does this article answer your question?' Press 'X No, I need help'!",
+        "domains": [
+            "tidal.com"
+        ]
+    },
     {
         "name": "TikTok",
         "url": "https://www.tiktok.com/",
