@@ -7018,6 +7018,16 @@
     },
 
     {
+        "name": "statcounter",
+        "difficulty": "easy",
+        "url": "https://statcounter.com/close_account.php",
+        "notes": "Click the link, fill in your login info and confirm. It's reversible for 30 days, until your data gets purged.",
+        "domains": [
+            "statcounter.com"
+        ]
+    },
+
+    {
         "name": "StatusCake",
         "difficulty": "easy",
         "url": "https://www.statuscake.com/",
