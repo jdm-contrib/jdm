@@ -46,7 +46,8 @@ def url_exist(name, url_string)
     elsif res.code == "404"
         STDERR.puts "Entry #{name} returned HTTP 404"
     end
-rescue  Errno::ECONNRESET,
+rescue  Errno::EADDRNOTAVAIL,
+        Errno::ECONNRESET,
         Errno::EHOSTUNREACH,
         Errno::ENOENT,
         Errno::ETIMEDOUT,
