@@ -5701,17 +5701,6 @@
     },
 
     {
-        "name": "Penflip",
-        "url": "https://www.penflip.com/profile/account",
-        "difficulty": "easy",
-        "notes": "You only need to click on 'Delete Account' on your account site.",
-        "notes_de": "Auf der Account Seite auf 'Delete Account' klicken.",
-        "domains": [
-            "penflip.com"
-        ]
-    },
-
-    {
         "name": "Penzu",
         "url": "https://penzu.com/app/account/delete",
         "difficulty": "easy",
