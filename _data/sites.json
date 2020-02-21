@@ -8400,5 +8400,17 @@
         "domains": [
             "zynga.com"
         ]
+    },
+
+    {
+        "name": "nTask",
+        "url": "https://support.ntaskmanager.com/support/solutions/articles/43000545051-delete-your-ntask-account",
+        "difficulty": "hard",
+        "notes": "To delete your nTask account, follow this simple procedure:\n\n    Using your registered email for nTask, send a request titled “Account Deletion” to support@ntaskmanager.com mentioning your name and email address\n    Once the request is received, it will take our team 24 hours to process your request",
+        "notes_fr": "Pour supprimer votre compte nTask voici la procédure : \n\n    Avec l'adresse e-mail utilisée pour le compte nTask, envoyer une demande intitulée “Account Deletion” à support@ntaskmanager.com mentionnant votre nom et adresse email\n    Une fois la demande reçue, il faudra 24 heures à nos équipes pour effectuer la demande",
+        "email": "support@ntaskmanager.com?subject=Account Deletion",
+        "domains": [
+            "ntaskmanager.com"
+        ]
     }
 ]
