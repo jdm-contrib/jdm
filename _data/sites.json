@@ -7831,6 +7831,16 @@
     },
 
     {
+        "name": "ViaBox",
+        "url": "https://viabox.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Request the deletion of your account through the link above as a \"general request\". The system might create a support account for your request, so state that you want it to be deleted too.",
+        "domains": [
+            "viabox.com"
+        ]
+    },
+
+    {
         "name": "Viadeo",
         "url": "http://www.viadeo.com/settings/account/?ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
         "difficulty": "easy",
