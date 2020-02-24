@@ -739,6 +739,16 @@
             "behance.net"
         ]
     },
+    
+    {
+        "name": "bet365",
+        "url": "https://help.bet365.com/contact",
+        "difficulty": "hard",
+        "notes": "To delete the account, contact customer service. It is recommended to do it via chat and ask to close the account, as there is no link to do so.",
+        "domains": [
+            "https://www.bet365.com"
+        ]
+    },
 
     {
         "name": "Betterment",
