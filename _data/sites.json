@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "000Webhost",
         "url": "http://000webhost.com/members/profile",
         "difficulty": "easy",
@@ -995,7 +994,7 @@
 
     {
         "name": "Bukalapak",
-        "url" : "https://www.bukalapak.com/",
+        "url": "https://www.bukalapak.com/",
         "difficulty": "medium",
         "notes": "Open Akun (Account)>BukaBantuan (Open Help)>In Akun & Info Personal (Account & Personal Info), tap Selanjutnya (Next)>Tap Menonaktifkan Akun (Disable Account)>Tap Isi Form Bantuan (Type on Help Form)>Explain the reason why you delete it>Tap Kirim (Send).",
         "domains": [
@@ -1102,8 +1101,8 @@
             "camelcamelcamel.com"
         ]
     },
-	
-	{
+
+    {
         "name": "Canva",
         "url": "https://www.canva.com/account",
         "difficulty": "Medium",
@@ -1112,7 +1111,7 @@
             "canva.com"
         ]
     },
-	
+
     {
         "name": "Canva",
         "url": "https://www.canva.com/account",
@@ -1763,7 +1762,7 @@
 
     {
         "name": "Delivery Code",
-        "url" : "https://www.deliverycode.com/",
+        "url": "https://www.deliverycode.com/",
         "difficulty": "medium",
         "notes": "Go to My Account and select Edit Profile and then Delete Account. A confirmation e-mail will be sent to the address on file with a link you must visit.",
         "domains": [
@@ -3192,7 +3191,7 @@
 
     {
         "name": "Grab",
-        "url" : "https://www.grab.com/",
+        "url": "https://www.grab.com/",
         "difficulty": "easy",
         "notes": "Swipe left to right from the edge of screen, tap the profile picture, scroll down until you see delete account.",
         "domains": [
@@ -7209,7 +7208,7 @@
         "name": "SurveyMonkey",
         "url": "https://www.surveymonkey.com/user/account/",
         "difficulty": "easy",
-        "notes":"Scroll to the bottom of the page and click 'Permanently delete account'. After reviewing the information, click all checkboxes and enter your password. Click 'Yes, delete this account' to confirm.The account and questionnaire data will be definitively excluded within 90 days.",
+        "notes": "Scroll to the bottom of the page and click 'Permanently delete account'. After reviewing the information, click all checkboxes and enter your password. Click 'Yes, delete this account' to confirm.The account and questionnaire data will be definitively excluded within 90 days.",
         "domains": [
             "surveymonkey.com"
         ]
@@ -8264,7 +8263,7 @@
         "difficulty": "hard",
         "notes": "Click 'Data Deletion Request' and fill in the form. Make sure to specify if you want your posts deleted.",
         "notes_fr": "Cliquez 'Data Deletion Request' et remplissez le formulaire. Assurez-vous de spécifier si vous voulez que vos posts soient supprimés",
-        "domains":[
+        "domains": [
             "xda-developers.com"
         ]
     },
