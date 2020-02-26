@@ -1103,7 +1103,7 @@
         ]
     },
 
-	{
+    {
         "name": "Canva",
         "url": "https://www.canva.com/account",
         "difficulty": "Medium",
@@ -1113,8 +1113,8 @@
         ]
     },
 
-	{
-		"name": "Car2Go",
+    {
+        "name": "Car2Go",
         "url": "https://www.car2go.com/US/en/contact",
         "difficulty": "hard",
         "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
