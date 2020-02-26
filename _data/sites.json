@@ -1106,7 +1106,7 @@
     {
         "name": "Canva",
         "url": "https://www.canva.com/account",
-        "difficulty": "Medium",
+        "difficulty": "impossible",
         "notes": "There is only an option to Deactivate account. To do this, you must login to your account first, then go to account settings and click 'Deactivate Account'",
         "domains": [
             "canva.com"
@@ -1657,7 +1657,7 @@
     {
         "name": "Curve",
         "url": "https://www.curve.app/",
-        "difficulty": "hard",
+        "difficulty": "medium",
         "notes": "They cannot delete your account immediately as they are obliged by the Money Laundering Regulations 2017 to keep your data for 5 years after you stop using Curve.",
         "domains": [
             "curve.app"
