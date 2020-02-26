@@ -1113,7 +1113,8 @@
     },
 
     {
-        "name": "Canva",
+        <<
+        << << < HEAD "name": "Canva",
         "url": "https://www.canva.com/account",
         "difficulty": "impossible",
         "notes": "There is only an option to Deactivate account. To do this, you must login to your account first, then go to account settings and click 'Deactivate Account'",
@@ -1123,7 +1124,9 @@
     },
 
     {
-        "name": "Car2Go",
+        ===
+        === = >>>
+        >>> > Replace tabs with spaces "name": "Car2Go",
         "url": "https://www.car2go.com/US/en/contact",
         "difficulty": "hard",
         "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
@@ -1660,16 +1663,6 @@
         "notes": "Scroll down to the red 'Delete your account' button and then select 'OK (enter)'",
         "domains": [
             "cryptpad.fr"
-        ]
-    },
-
-    {
-        "name": "Curve",
-        "url": "https://www.curve.app/",
-        "difficulty": "hard",
-        "notes": "They cannot delete your account immediately as they are obliged by the Money Laundering Regulations 2017 to keep your data for 5 years after you stop using Curve.",
-        "domains": [
-            "curve.app"
         ]
     },
 
