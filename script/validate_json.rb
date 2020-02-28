@@ -2,26 +2,18 @@
 
 # Validates JSON files in the _data directory
 # See ExitCodes for actual return value
-# Exits 'SUCCESS' on success
-# Exits 'PARSE_FAILED' upon JSON parsing errors
-# Exits 'UNSORTED' if a file's keys are not in alphanumeric order
-# Exits 'MISSING_URL' if any sites.json entries are missing the required 'url' key
-# Exits 'MISSING_DIFFICULTY' if any sites.json entries are missing the required 'difficulty' key
-# Exits 'MISSING_DOMAINS' if any sites.json entries are missing the required 'domains' key
-# Exits 'MISSING_NAME' if any sites.json entries are missing the required 'name' key
-# Exits 'UNEXPECTED_DIFFICULTY' if field contains unexpected value on 'difficulty' key
 
 require 'json'
 
 module ExitCodes
     SUCCESS = 0
-    PARSE_FAILED = 1
-    UNSORTED = 2
-    MISSING_URL = 3
-    MISSING_DIFFICULTY = 4
-    MISSING_DOMAINS = 5
-    MISSING_NAME = 6
-    UNEXPECTED_DIFFICULTY = 7
+    PARSE_FAILED = 1           # JSON parse errors
+    UNSORTED = 2               # data keys are not in alphanumeric order
+    MISSING_URL = 3            # Entry missing the required 'url' field
+    MISSING_DIFFICULTY = 4     # Entry missing the required 'difficulty' field
+    MISSING_DOMAINS = 5        # Entry missing the required 'domains' field
+    MISSING_NAME = 6           # Entry missing the required 'name' field
+    UNEXPECTED_DIFFICULTY = 7  # Unexpected value for 'difficulty' field
 end
 
 def get_transformed_name(site_object)
