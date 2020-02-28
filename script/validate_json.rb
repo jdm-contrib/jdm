@@ -15,7 +15,7 @@ module ExitCodes
     UNEXPECTED_DIFFICULTY = 7  # Unexpected value for 'difficulty' field
 end
 
-SupportedDifficulties = ["easy","medium","hard","impossible"]
+SupportedDifficulties = ["easy", "medium", "hard", "impossible"]
 
 def get_transformed_name(site_object)
     return site_object['name'].downcase.sub(/^the\s+/, '')
@@ -39,7 +39,9 @@ def validate_website_entry(key, i)
     difficulty = key['difficulty']
     unless SupportedDifficulties.include?(difficulty)
         STDERR.puts "Entry '#{key['name']}' has unexpected 'difficulty' field:"\
-                    "'#{difficulty}'.\n\t Use one of #{SupportedDifficulties}"
+                    "'#{difficulty}'.\n"\
+                    "Use one of the supported difficulty values:\n"\
+                    "\t#{SupportedDifficulties}"
         exit ExitCodes::UNEXPECTED_DIFFICULTY
     end
 end
