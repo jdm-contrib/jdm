@@ -1,13 +1,14 @@
 #!/usr/bin/env ruby
 
 # Validates JSON files in the _data directory
-# Exits 0 on success
-# Exits 1 upon JSON parsing errors
-# Exits 2 if a file's keys are not in alphanumeric order
-# Exits 3 if any sites.json entries are missing the required 'url' key
-# Exits 4 if any sites.json entries are missing the required 'difficulty' key
-# Exits 5 if any sites.json entries are missing the required 'domains' key
-# Exits 6 if any sites.json entries are missing the required 'name' key
+# See ErrorCodes for actual return value
+# Exits 'SUCCESS' on success
+# Exits 'PARSE_FAILED' upon JSON parsing errors
+# Exits 'UNSORTED' if a file's keys are not in alphanumeric order
+# Exits 'MISSING_URL' if any sites.json entries are missing the required 'url' key
+# Exits 'MISSING_DIFFICULTY' if any sites.json entries are missing the required 'difficulty' key
+# Exits 'MISSING_DOMAINS' if any sites.json entries are missing the required 'domains' key
+# Exits 'MISSING_NAME' if any sites.json entries are missing the required 'name' key
 
 require 'json'
 
@@ -27,7 +28,6 @@ end
 
 def error_on_missing_field(name, key, field, exit_code)
     unless key.key?(field)
-        # Forces all sites.json entries to have the provided key
         STDERR.puts "Entry: #{name} has no #{field}"
         exit exit_code
     end
@@ -35,7 +35,6 @@ end
 
 def validate_website_entry(key, i)
     unless key.key?('name')
-        # Forces all sites.json entries to have a name
         STDERR.puts "Entry: #{i} has no name"
         exit ErrorCodes::MISSING_NAME
     end
