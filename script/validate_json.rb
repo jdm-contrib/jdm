@@ -7,6 +7,7 @@
 # Exits 3 if any sites.json entries are missing the required 'url' key
 # Exits 4 if any sites.json entries are missing the required 'difficulty' key
 # Exits 5 if any sites.json entries are missing the required 'domains' key
+# Exits 6 if any sites.json entries are missing the required 'name' key
 
 require 'json'
 
@@ -17,19 +18,31 @@ module ErrorCodes
     MISSING_URL = 3
     MISSING_DIFFICULTY = 4
     MISSING_DOMAINS = 5
+    MISSING_NAME = 6
 end
 
 def get_transformed_name(site_object)
     return site_object['name'].downcase.sub(/^the\s+/, '')
 end
 
-def error_on_missing_field(key, field, exit_code)
-    name = get_transformed_name(key)
+def error_on_missing_field(name, key, field, exit_code)
     unless key.key?(field)
         # Forces all sites.json entries to have the provided key
         STDERR.puts "Entry: #{name} has no #{field}"
         exit exit_code
     end
+end
+
+def validate_website_entry(key, i)
+    unless key.key?('name')
+        # Forces all sites.json entries to have a name
+        STDERR.puts "Entry: #{i} has no name"
+        exit ErrorCodes::MISSING_NAME
+    end
+    name = key['name']
+    error_on_missing_field(name, key, 'url', ErrorCodes::MISSING_URL)
+    error_on_missing_field(name, key, 'difficulty', ErrorCodes::MISSING_DIFFICULTY)
+    error_on_missing_field(name, key, 'domains', ErrorCodes::MISSING_DOMAINS)
 end
 
 json_files = Dir.glob('_data/**/*').select { |f| File.file?(f) }
@@ -43,11 +56,9 @@ json_files.each do |file|
             #   i = 0
             # hence, the key variable holds the actual value
             if File.basename(file) =~ /sites.json/
+                validate_website_entry(key, i)
                 name = get_transformed_name(key)
                 prev_name = get_transformed_name(json[i - 1])
-                error_on_missing_field(key, 'url', ErrorCodes::MISSING_URL)
-                error_on_missing_field(key, 'difficulty', ErrorCodes::MISSING_DIFFICULTY)
-                error_on_missing_field(key, 'domains', ErrorCodes::MISSING_DOMAINS)
             else
                 name = key
                 prev_name = json.keys[i - 1]
