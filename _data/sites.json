@@ -5410,6 +5410,19 @@
     },
 
     {
+        "name": "nTask",
+        "url": "https://support.ntaskmanager.com/support/solutions/articles/43000545051-delete-your-ntask-account",
+        "difficulty": "hard",
+        "notes": "To delete your nTask account, follow this simple procedure: Using your registered email for nTask, send a request titled \"Account Deletion\" to \"support@ntaskmanager.com\" mentioning your name and email address. Once the request is received, it will take 24 hours to process your request",
+        "notes_fr": "Pour supprimer votre compte nTask voici la procédure: Avec l'adresse e-mail utilisée pour le compte nTask, envoyer une demande intitulée \"Account Deletion\" à \"support@ntaskmanager.com\" mentionnant votre nom et adresse email. Une fois la demande reçue, il faudra 24 heures pour effectuer la demande",
+        "email": "support@ntaskmanager.com",
+        "email_subject": "Account Deletion",
+        "domains": [
+            "ntaskmanager.com"
+        ]
+    },
+
+    {
         "name": "Nubank",
         "url": "https://blog.nubank.com.br/fechar-nuconta-e-facil/",
         "difficulty": "impossible",
