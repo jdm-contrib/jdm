@@ -38,8 +38,6 @@ json_files.each do |file|
         json = JSON.parse(File.read(file))
         # check for alphabetical ordering
         json.each_with_index do |(key, _), i|
-            next if i.zero?
-
             # sites.json is an array of objects; this would expand to:
             #   key = { ... }
             #   i = 0
@@ -54,7 +52,7 @@ json_files.each do |file|
                 name = key
                 prev_name = json.keys[i - 1]
             end
-            if prev_name > name
+            if i > 0 && prev_name > name
                 STDERR.puts 'Sorting error in ' + file
                 STDERR.puts 'Keys must be in alphanumeric order. ' + \
                             prev_name + ' needs to come after ' + name
