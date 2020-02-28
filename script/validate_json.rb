@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 # Validates JSON files in the _data directory
-# See ErrorCodes for actual return value
+# See ExitCodes for actual return value
 # Exits 'SUCCESS' on success
 # Exits 'PARSE_FAILED' upon JSON parsing errors
 # Exits 'UNSORTED' if a file's keys are not in alphanumeric order
@@ -13,7 +13,7 @@
 
 require 'json'
 
-module ErrorCodes
+module ExitCodes
     SUCCESS = 0
     PARSE_FAILED = 1
     UNSORTED = 2
@@ -38,17 +38,17 @@ end
 def validate_website_entry(key, i)
     unless key.key?('name')
         STDERR.puts "Entry: #{i} has no name"
-        exit ErrorCodes::MISSING_NAME
+        exit ExitCodes::MISSING_NAME
     end
     name = key['name']
-    error_on_missing_field(name, key, 'url', ErrorCodes::MISSING_URL)
-    error_on_missing_field(name, key, 'difficulty', ErrorCodes::MISSING_DIFFICULTY)
-    error_on_missing_field(name, key, 'domains', ErrorCodes::MISSING_DOMAINS)
+    error_on_missing_field(name, key, 'url', ExitCodes::MISSING_URL)
+    error_on_missing_field(name, key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
+    error_on_missing_field(name, key, 'domains', ExitCodes::MISSING_DOMAINS)
     difficulty = key['difficulty']
     supported_difficulties = ["easy","medium","hard","impossible"]
     unless supported_difficulties.include?(difficulty)
         STDERR.puts "Entry: #{name} has unexpected difficulty: #{difficulty}. Use one of #{supported_difficulties}"
-        exit ErrorCodes::UNEXPECTED_DIFFICULTY
+        exit ExitCodes::UNEXPECTED_DIFFICULTY
     end
 end
 
@@ -74,14 +74,14 @@ json_files.each do |file|
                 STDERR.puts 'Sorting error in ' + file
                 STDERR.puts 'Keys must be in alphanumeric order. ' + \
                             prev_name + ' needs to come after ' + name
-                exit ErrorCodes::UNSORTED
+                exit ExitCodes::UNSORTED
             end
         end
     rescue JSON::ParserError => error
         STDERR.puts 'JSON parsing error encountered!'
         STDERR.puts error.backtrace.join("\n")
-        exit ErrorCodes::PARSE_FAILED
+        exit ExitCodes::PARSE_FAILED
     end
 end
 
-exit ErrorCodes::SUCCESS
+exit ExitCodes::SUCCESS
