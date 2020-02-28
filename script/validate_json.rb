@@ -15,6 +15,8 @@ module ExitCodes
     UNEXPECTED_DIFFICULTY = 7  # Unexpected value for 'difficulty' field
 end
 
+SupportedDifficulties = ["easy","medium","hard","impossible"]
+
 def get_transformed_name(site_object)
     return site_object['name'].downcase.sub(/^the\s+/, '')
 end
@@ -35,9 +37,8 @@ def validate_website_entry(key, i)
     error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
     error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
     difficulty = key['difficulty']
-    supported_difficulties = ["easy","medium","hard","impossible"]
-    unless supported_difficulties.include?(difficulty)
-        STDERR.puts "Entry: #{key['name']} has unexpected difficulty: #{difficulty}. Use one of #{supported_difficulties}"
+    unless SupportedDifficulties.include?(difficulty)
+        STDERR.puts "Entry: #{key['name']} has unexpected difficulty: #{difficulty}. Use one of #{SupportedDifficulties}"
         exit ExitCodes::UNEXPECTED_DIFFICULTY
     end
 end
