@@ -5,6 +5,8 @@
 # Exits 1 upon JSON parsing errors
 # Exits 2 if a file's keys are not in alphanumeric order
 # Exits 3 if any sites.json entries are missing the required 'url' key
+# Exits 4 if any sites.json entries are missing the required 'difficulty' key
+# Exits 5 if any sites.json entries are missing the required 'domains' key
 
 require 'json'
 
@@ -13,6 +15,8 @@ module ErrorCodes
     PARSE_FAILED = 1
     UNSORTED = 2
     MISSING_URL = 3
+    MISSING_DIFFICULTY = 4
+    MISSING_DOMAINS = 5
 end
 
 def get_transformed_name(site_object)
@@ -44,6 +48,8 @@ json_files.each do |file|
                 name = get_transformed_name(key)
                 prev_name = get_transformed_name(json[i - 1])
                 error_on_missing_field(key, 'url', ErrorCodes::MISSING_URL)
+                error_on_missing_field(key, 'difficulty', ErrorCodes::MISSING_DIFFICULTY)
+                error_on_missing_field(key, 'domains', ErrorCodes::MISSING_DOMAINS)
             else
                 name = key
                 prev_name = json.keys[i - 1]
