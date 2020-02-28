@@ -8,6 +8,13 @@
 
 require 'json'
 
+module ErrorCodes
+    SUCCESS = 0
+    PARSE_FAILED = 1
+    UNSORTED = 2
+    MISSING_URL = 3
+end
+
 def get_transformed_name(site_object)
     return site_object['name'].downcase.sub(/^the\s+/, '')
 end
@@ -36,7 +43,7 @@ json_files.each do |file|
             if File.basename(file) =~ /sites.json/
                 name = get_transformed_name(key)
                 prev_name = get_transformed_name(json[i - 1])
-                error_on_missing_field(key, 'url', 3)
+                error_on_missing_field(key, 'url', ErrorCodes::MISSING_URL)
             else
                 name = key
                 prev_name = json.keys[i - 1]
@@ -45,14 +52,14 @@ json_files.each do |file|
                 STDERR.puts 'Sorting error in ' + file
                 STDERR.puts 'Keys must be in alphanumeric order. ' + \
                             prev_name + ' needs to come after ' + name
-                exit 2
+                exit ErrorCodes::UNSORTED
             end
         end
     rescue JSON::ParserError => error
         STDERR.puts 'JSON parsing error encountered!'
         STDERR.puts error.backtrace.join("\n")
-        exit 1
+        exit ErrorCodes::PARSE_FAILED
     end
 end
 
-exit 0
+exit ErrorCodes::SUCCESS
