@@ -20,9 +20,9 @@ def get_transformed_name(site_object)
     return site_object['name'].downcase.sub(/^the\s+/, '')
 end
 
-def error_on_missing_field(name, key, field, exit_code)
+def error_on_missing_field(key, field, exit_code)
     unless key.key?(field)
-        STDERR.puts "Entry: #{name} has no #{field}"
+        STDERR.puts "Entry: #{key['name']} has no #{field}"
         exit exit_code
     end
 end
@@ -32,14 +32,13 @@ def validate_website_entry(key, i)
         STDERR.puts "Entry: #{i} has no name"
         exit ExitCodes::MISSING_NAME
     end
-    name = key['name']
-    error_on_missing_field(name, key, 'url', ExitCodes::MISSING_URL)
-    error_on_missing_field(name, key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
-    error_on_missing_field(name, key, 'domains', ExitCodes::MISSING_DOMAINS)
+    error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
+    error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
+    error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
     difficulty = key['difficulty']
     supported_difficulties = ["easy","medium","hard","impossible"]
     unless supported_difficulties.include?(difficulty)
-        STDERR.puts "Entry: #{name} has unexpected difficulty: #{difficulty}. Use one of #{supported_difficulties}"
+        STDERR.puts "Entry: #{key['name']} has unexpected difficulty: #{difficulty}. Use one of #{supported_difficulties}"
         exit ExitCodes::UNEXPECTED_DIFFICULTY
     end
 end
