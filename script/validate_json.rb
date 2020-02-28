@@ -9,6 +9,7 @@
 # Exits 'MISSING_DIFFICULTY' if any sites.json entries are missing the required 'difficulty' key
 # Exits 'MISSING_DOMAINS' if any sites.json entries are missing the required 'domains' key
 # Exits 'MISSING_NAME' if any sites.json entries are missing the required 'name' key
+# Exits 'UNEXPECTED_DIFFICULTY' if field contains unexpected value on 'difficulty' key
 
 require 'json'
 
@@ -20,6 +21,7 @@ module ErrorCodes
     MISSING_DIFFICULTY = 4
     MISSING_DOMAINS = 5
     MISSING_NAME = 6
+    UNEXPECTED_DIFFICULTY = 7
 end
 
 def get_transformed_name(site_object)
@@ -42,6 +44,12 @@ def validate_website_entry(key, i)
     error_on_missing_field(name, key, 'url', ErrorCodes::MISSING_URL)
     error_on_missing_field(name, key, 'difficulty', ErrorCodes::MISSING_DIFFICULTY)
     error_on_missing_field(name, key, 'domains', ErrorCodes::MISSING_DOMAINS)
+    difficulty = key['difficulty']
+    supported_difficulties = ["easy","medium","hard","impossible"]
+    unless supported_difficulties.include?(difficulty)
+        STDERR.puts "Entry: #{name} has unexpected difficulty: #{difficulty}. Use one of #{supported_difficulties}"
+        exit ErrorCodes::UNEXPECTED_DIFFICULTY
+    end
 end
 
 json_files = Dir.glob('_data/**/*').select { |f| File.file?(f) }
