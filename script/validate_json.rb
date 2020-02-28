@@ -12,6 +12,15 @@ def get_transformed_name(site_object)
     return site_object['name'].downcase.sub(/^the\s+/, '')
 end
 
+def error_on_missing_field(key, field, exit_code)
+    name = get_transformed_name(key)
+    unless key.key?(field)
+        # Forces all sites.json entries to have the provided key
+        STDERR.puts "Entry: #{name} has no #{field}"
+        exit exit_code
+    end
+end
+
 json_files = Dir.glob('_data/**/*').select { |f| File.file?(f) }
 json_files.each do |file|
     begin
@@ -25,13 +34,9 @@ json_files.each do |file|
             #   i = 0
             # hence, the key variable holds the actual value
             if File.basename(file) =~ /sites.json/
-                unless key.key?('url')
-                    # Forces all sites.json entries to have a URL key
-                    STDERR.puts "Entry: #{name} has no URL"
-                    exit 3
-                end
                 name = get_transformed_name(key)
                 prev_name = get_transformed_name(json[i - 1])
+                error_on_missing_field(key, 'url', 3)
             else
                 name = key
                 prev_name = json.keys[i - 1]
