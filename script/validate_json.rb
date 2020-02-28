@@ -23,14 +23,14 @@ end
 
 def error_on_missing_field(key, field, exit_code)
     unless key.key?(field)
-        STDERR.puts "Entry: #{key['name']} has no #{field}"
+        STDERR.puts "Entry '#{key['name']}' has no '#{field}' field"
         exit exit_code
     end
 end
 
 def validate_website_entry(key, i)
     unless key.key?('name')
-        STDERR.puts "Entry: #{i} has no name"
+        STDERR.puts "Entry #{i} has no 'name' field"
         exit ExitCodes::MISSING_NAME
     end
     error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
@@ -38,7 +38,8 @@ def validate_website_entry(key, i)
     error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
     difficulty = key['difficulty']
     unless SupportedDifficulties.include?(difficulty)
-        STDERR.puts "Entry: #{key['name']} has unexpected difficulty: #{difficulty}. Use one of #{SupportedDifficulties}"
+        STDERR.puts "Entry '#{key['name']}' has unexpected 'difficulty' field:"\
+                    "'#{difficulty}'.\n\t Use one of #{SupportedDifficulties}"
         exit ExitCodes::UNEXPECTED_DIFFICULTY
     end
 end
