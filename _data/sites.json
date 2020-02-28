@@ -2128,7 +2128,10 @@
     {
         "name": "DynDNS",
         "url": "https://account.dyn.com/profile/close.html",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "domains": [
+            "dyn.com"
+        ]
     },
 
     {
@@ -2217,7 +2220,10 @@
         "name": "Edpuzzle",
         "url": "https://edpuzzle.com",
         "difficulty": "hard",
-        "notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it"
+        "notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it",
+        "domains": [
+            "edpuzzle.com"
+        ]
     },
 
     {
@@ -2427,7 +2433,10 @@
         "url": "https://www.experiandirect.com/triplealert/Message.aspx?PageTypeID=FAQ&WT.svl=faq&SiteVersionID=473&SiteID=100173&sc=657900&bcd=",
         "difficulty": "hard",
         "notes": "You have to call or email them. They respond to email quickly, however, so it is not that painful.",
-        "email": "support@experiandirect.com"
+        "email": "support@experiandirect.com",
+        "domains": [
+            "experiandirect.com"
+        ]
     },
 
     {
@@ -2453,7 +2462,10 @@
         "url": "https://www.messenger.com",
         "difficulty": "impossible",
         "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, there's no way to delete your account",
-        "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta"
+        "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta",
+        "domains": [
+            "messenger.com"
+        ]
     },
 
     {
@@ -2657,7 +2669,10 @@
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
         "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
         "notes_cat": "Per esborrar el seu compte no ha de pujar res en 3 dies.",
-        "notes_es": "Para borrar tu cuenta no debes subir nada por lo menos 3 días."
+        "notes_es": "Para borrar tu cuenta no debes subir nada por lo menos 3 días.",
+        "domains": [
+            "fotka.pl"
+        ]
     },
 
     {
@@ -3790,7 +3805,10 @@
         "url": "https://issuu.com/home/settings/billing",
         "difficulty": "easy",
         "notes": "Closing your account will delete your profile and all of your publications. There is no going back, so don't say we didn't warn you.",
-        "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود."
+        "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود.",
+        "domains": [
+            "issuu.com"
+        ]
     },
 
     {
@@ -4267,7 +4285,10 @@
         "name": "Linsensuppe",
         "url": "https://www.linsensuppe.de",
         "difficulty": "impossible",
-        "notes": "One cannot even change the password"
+        "notes": "One cannot even change the password",
+        "domains": [
+            "linsensuppe.de"
+        ]
     },
 
     {
@@ -5490,7 +5511,10 @@
         "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
         "difficulty": "impossible",
         "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
-        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt."
+        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt.",
+        "domains": [
+            "openshift.com"
+        ]
     },
 
     {
@@ -5794,14 +5818,20 @@
         "difficulty": "hard",
         "email": "support@photobucket.com",
         "notes": "To delete your account you will have to send an email to support@photobucket.com. Photobucket support will require some information for verification purposes. These include your username, email address, full name, dob, the postal code and country from where you registered your account and a description of a couple of pictures in your account. After your reply the staff will delete your account in 48 hours. According to Photobucket your old pictures cannot be recovered from deleted accounts as they will be completely erased from their servers.",
-        "notes_it": "Per eliminare il tuo account dovrai mandare una mail a support@photobucket.com. La mail deve essere scritta in inglese. Lo staff richiederàil vostro nome utente, indirizzo email, il nome completo, data di nascita, codice postale e paese dal quale avete registrato il vostro account e una descrizione di alcune immagini caricate. L'account verrà cancellato nel giro di 48 ore. Una volta eliminate le immagini non possono essere recuperate in quanto verranno cancellate dai loro servers."
+        "notes_it": "Per eliminare il tuo account dovrai mandare una mail a support@photobucket.com. La mail deve essere scritta in inglese. Lo staff richiederàil vostro nome utente, indirizzo email, il nome completo, data di nascita, codice postale e paese dal quale avete registrato il vostro account e una descrizione di alcune immagini caricate. L'account verrà cancellato nel giro di 48 ore. Una volta eliminate le immagini non possono essere recuperate in quanto verranno cancellate dai loro servers.",
+        "domains": [
+            "photobucket.com"
+        ]
     },
 
     {
         "name": "PHP Classes",
         "url": "http://www.phpclasses.org/faq/#delete-account",
         "difficulty": "impossible",
-        "notes": "They refuse to delete accounts from the site."
+        "notes": "They refuse to delete accounts from the site.",
+        "domains": [
+            "phpclasses.org"
+        ]
     },
 
     {
@@ -5912,7 +5942,10 @@
         "difficulty": "hard",
         "notes": "Contact support via email and request your account to be deleted.",
         "notes_de": "Schreibe dem Support per E-Mail und bitte um eine Löschung des Accounts",
-        "email": "service@pixum.com"
+        "email": "service@pixum.com",
+        "domains": [
+            "pixum.com"
+        ]
     },
 
     {
@@ -6008,7 +6041,10 @@
         "url": "https://support.pocketcasts.com/",
         "difficulty": "hard",
         "notes": "You must request account deletion via email. If the web player was purchased, access to it will be lost as well.",
-        "email": "support@shiftyjelly.com"
+        "email": "support@shiftyjelly.com",
+        "domains": [
+            "pocketcasts.com"
+        ]
     },
 
     {
@@ -6798,7 +6834,10 @@
         "name": "SlimTimer",
         "url": "http://slimtimer.com/",
         "difficulty": "hard",
-        "notes": "Email request required."
+        "notes": "Email request required.",
+        "domains": [
+            "slimtimer.com"
+        ]
     },
 
     {
