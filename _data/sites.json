@@ -1105,7 +1105,7 @@
     {
         "name": "Canva",
         "url": "https://www.canva.com/account",
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "notes": "There is only an option to Deactivate account. To do this, you must login to your account first, then go to account settings and click 'Deactivate Account'",
         "domains": [
             "canva.com"
