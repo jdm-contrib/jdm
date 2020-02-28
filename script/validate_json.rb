@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 # Validates JSON files in the _data directory
-# See ExitCodes for actual return value
 
 require 'json'
 
