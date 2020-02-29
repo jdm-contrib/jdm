@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "000Webhost",
         "url": "http://000webhost.com/members/profile",
         "difficulty": "easy",
@@ -995,7 +994,7 @@
 
     {
         "name": "Bukalapak",
-        "url" : "https://www.bukalapak.com/",
+        "url": "https://www.bukalapak.com/",
         "difficulty": "medium",
         "notes": "Open Akun (Account)>BukaBantuan (Open Help)>In Akun & Info Personal (Account & Personal Info), tap Selanjutnya (Next)>Tap Menonaktifkan Akun (Disable Account)>Tap Isi Form Bantuan (Type on Help Form)>Explain the reason why you delete it>Tap Kirim (Send).",
         "domains": [
@@ -1103,18 +1102,18 @@
         ]
     },
 
-	{
+    {
         "name": "Canva",
         "url": "https://www.canva.com/account",
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "notes": "There is only an option to Deactivate account. To do this, you must login to your account first, then go to account settings and click 'Deactivate Account'",
         "domains": [
             "canva.com"
         ]
     },
 
-	{
-		"name": "Car2Go",
+    {
+        "name": "Car2Go",
         "url": "https://www.car2go.com/US/en/contact",
         "difficulty": "hard",
         "notes": "You need to call customer support and even after that can take weeks before confirmation of deletion",
@@ -1657,8 +1656,8 @@
     {
         "name": "Curve",
         "url": "https://www.curve.app/",
-        "difficulty": "hard",
-        "notes": "They cannot delete your account immediately as they are obliged by the Money Laundering Regulations 2017 to keep your data for 5 years after you stop using Curve.",
+        "difficulty": "medium",
+        "notes": "They cannot delete your account immediately as they are obliged by the Money Laundering Regulations 2017 to keep your data for 5 years after you stop using Curve. Follow instructions here on how to cancel: https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account-",
         "domains": [
             "curve.app"
         ]
@@ -1743,7 +1742,7 @@
 
     {
         "name": "Delivery Code",
-        "url" : "https://www.deliverycode.com/",
+        "url": "https://www.deliverycode.com/",
         "difficulty": "medium",
         "notes": "Go to My Account and select Edit Profile and then Delete Account. A confirmation e-mail will be sent to the address on file with a link you must visit.",
         "domains": [
@@ -2128,7 +2127,10 @@
     {
         "name": "DynDNS",
         "url": "https://account.dyn.com/profile/close.html",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "domains": [
+            "dyn.com"
+        ]
     },
 
     {
@@ -2217,7 +2219,10 @@
         "name": "Edpuzzle",
         "url": "https://edpuzzle.com",
         "difficulty": "hard",
-        "notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it"
+        "notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it",
+        "domains": [
+            "edpuzzle.com"
+        ]
     },
 
     {
@@ -2427,7 +2432,10 @@
         "url": "https://www.experiandirect.com/triplealert/Message.aspx?PageTypeID=FAQ&WT.svl=faq&SiteVersionID=473&SiteID=100173&sc=657900&bcd=",
         "difficulty": "hard",
         "notes": "You have to call or email them. They respond to email quickly, however, so it is not that painful.",
-        "email": "support@experiandirect.com"
+        "email": "support@experiandirect.com",
+        "domains": [
+            "experiandirect.com"
+        ]
     },
 
     {
@@ -2453,7 +2461,10 @@
         "url": "https://www.messenger.com",
         "difficulty": "impossible",
         "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, there's no way to delete your account",
-        "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta"
+        "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta",
+        "domains": [
+            "messenger.com"
+        ]
     },
 
     {
@@ -2657,7 +2668,10 @@
         "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
         "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
         "notes_cat": "Per esborrar el seu compte no ha de pujar res en 3 dies.",
-        "notes_es": "Para borrar tu cuenta no debes subir nada por lo menos 3 días."
+        "notes_es": "Para borrar tu cuenta no debes subir nada por lo menos 3 días.",
+        "domains": [
+            "fotka.pl"
+        ]
     },
 
     {
@@ -3033,14 +3047,9 @@
     {
         "meta": "popular",
         "name": "GoDaddy",
-        "url": "https://www.godaddy.com/help/contact-godaddy-customer-support-20320",
-        "difficulty": "impossible",
-        "notes": "GoDaddy Accounts are apparently retained “to comply with [their] legal obligations” though you are able to clear out most of your information by editing your profile.",
-        "notes_fr": "Les comptes GoDaddy sont guardés « pour satisfaire [leurs] obligations legales ». Cela dit, vous pouvez vider le compte de vos informations en éditant votre profil.",
-        "notes_it": "Gli account GoDaddy sono apparentemente mantenuti per “per rispettare i [loro] obblighi di legge.” ma puoi comunque eliminare la maggior parte delle tue informazioni editando il tuo profilo.",
-        "notes_pt_br": "Contas do GoDaddy são aparentemente retidas “para comparecer com as obrigações legais [deles]” porém você pode remover grande parte de suas informações editando seu perfil.",
-        "notes_cat": "Els comptes de GoDaddy son aparentment retinguts “per complir amb les [seves] obligacions legals ” pots esborrar molta informació editant el teu perfil.",
-        "notes_es": "Las cuentas de GoDaddy son aparentemente retenidos «para cumplir con las [sus] obligaciones legales». Sin embargo, puedes borrar mucha información en editando tu perfil.",
+        "url": "https://account.godaddy.com/preferences",
+        "difficulty": "easy",
+        "notes": "Navigate to account preferences, select to \"Close Account\" and confirm.",
         "domains": [
             "godaddy.com"
         ]
@@ -3177,7 +3186,7 @@
 
     {
         "name": "Grab",
-        "url" : "https://www.grab.com/",
+        "url": "https://www.grab.com/",
         "difficulty": "easy",
         "notes": "Swipe left to right from the edge of screen, tap the profile picture, scroll down until you see delete account.",
         "domains": [
@@ -3795,7 +3804,10 @@
         "url": "https://issuu.com/home/settings/billing",
         "difficulty": "easy",
         "notes": "Closing your account will delete your profile and all of your publications. There is no going back, so don't say we didn't warn you.",
-        "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود."
+        "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود.",
+        "domains": [
+            "issuu.com"
+        ]
     },
 
     {
@@ -4272,7 +4284,10 @@
         "name": "Linsensuppe",
         "url": "https://www.linsensuppe.de",
         "difficulty": "impossible",
-        "notes": "One cannot even change the password"
+        "notes": "One cannot even change the password",
+        "domains": [
+            "linsensuppe.de"
+        ]
     },
 
     {
@@ -5495,7 +5510,10 @@
         "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
         "difficulty": "impossible",
         "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
-        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt."
+        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt.",
+        "domains": [
+            "openshift.com"
+        ]
     },
 
     {
@@ -5799,14 +5817,20 @@
         "difficulty": "hard",
         "email": "support@photobucket.com",
         "notes": "To delete your account you will have to send an email to support@photobucket.com. Photobucket support will require some information for verification purposes. These include your username, email address, full name, dob, the postal code and country from where you registered your account and a description of a couple of pictures in your account. After your reply the staff will delete your account in 48 hours. According to Photobucket your old pictures cannot be recovered from deleted accounts as they will be completely erased from their servers.",
-        "notes_it": "Per eliminare il tuo account dovrai mandare una mail a support@photobucket.com. La mail deve essere scritta in inglese. Lo staff richiederàil vostro nome utente, indirizzo email, il nome completo, data di nascita, codice postale e paese dal quale avete registrato il vostro account e una descrizione di alcune immagini caricate. L'account verrà cancellato nel giro di 48 ore. Una volta eliminate le immagini non possono essere recuperate in quanto verranno cancellate dai loro servers."
+        "notes_it": "Per eliminare il tuo account dovrai mandare una mail a support@photobucket.com. La mail deve essere scritta in inglese. Lo staff richiederàil vostro nome utente, indirizzo email, il nome completo, data di nascita, codice postale e paese dal quale avete registrato il vostro account e una descrizione di alcune immagini caricate. L'account verrà cancellato nel giro di 48 ore. Una volta eliminate le immagini non possono essere recuperate in quanto verranno cancellate dai loro servers.",
+        "domains": [
+            "photobucket.com"
+        ]
     },
 
     {
         "name": "PHP Classes",
         "url": "http://www.phpclasses.org/faq/#delete-account",
         "difficulty": "impossible",
-        "notes": "They refuse to delete accounts from the site."
+        "notes": "They refuse to delete accounts from the site.",
+        "domains": [
+            "phpclasses.org"
+        ]
     },
 
     {
@@ -5917,7 +5941,10 @@
         "difficulty": "hard",
         "notes": "Contact support via email and request your account to be deleted.",
         "notes_de": "Schreibe dem Support per E-Mail und bitte um eine Löschung des Accounts",
-        "email": "service@pixum.com"
+        "email": "service@pixum.com",
+        "domains": [
+            "pixum.com"
+        ]
     },
 
     {
@@ -6013,7 +6040,10 @@
         "url": "https://support.pocketcasts.com/",
         "difficulty": "hard",
         "notes": "You must request account deletion via email. If the web player was purchased, access to it will be lost as well.",
-        "email": "support@shiftyjelly.com"
+        "email": "support@shiftyjelly.com",
+        "domains": [
+            "pocketcasts.com"
+        ]
     },
 
     {
@@ -6803,7 +6833,10 @@
         "name": "SlimTimer",
         "url": "http://slimtimer.com/",
         "difficulty": "hard",
-        "notes": "Email request required."
+        "notes": "Email request required.",
+        "domains": [
+            "slimtimer.com"
+        ]
     },
 
     {
@@ -7194,7 +7227,7 @@
         "name": "SurveyMonkey",
         "url": "https://www.surveymonkey.com/user/account/",
         "difficulty": "easy",
-        "notes":"Scroll to the bottom of the page and click 'Permanently delete account'. After reviewing the information, click all checkboxes and enter your password. Click 'Yes, delete this account' to confirm.The account and questionnaire data will be definitively excluded within 90 days.",
+        "notes": "Scroll to the bottom of the page and click 'Permanently delete account'. After reviewing the information, click all checkboxes and enter your password. Click 'Yes, delete this account' to confirm.The account and questionnaire data will be definitively excluded within 90 days.",
         "domains": [
             "surveymonkey.com"
         ]
@@ -8249,7 +8282,7 @@
         "difficulty": "hard",
         "notes": "Click 'Data Deletion Request' and fill in the form. Make sure to specify if you want your posts deleted.",
         "notes_fr": "Cliquez 'Data Deletion Request' et remplissez le formulaire. Assurez-vous de spécifier si vous voulez que vos posts soient supprimés",
-        "domains":[
+        "domains": [
             "xda-developers.com"
         ]
     },
