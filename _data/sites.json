@@ -3373,16 +3373,6 @@
     },
 
     {
-        "name": "Hackaday.io",
-        "url": "https://hackaday.io/",
-        "difficulty": "easy",
-        "notes": "Login to your account, then go to 'Edit my Account', then 'Delete your account'. You will then be promted to enter your password. Then click delete.",
-        "domains": [
-            "hackaday.io"
-        ]
-    },
-
-    {
         "name": "Hack This Site",
         "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
         "difficulty": "impossible",
@@ -3390,6 +3380,16 @@
         "notes_fr": "Il n'est pas possible de supprimer votre compte de Hack This Site. Le meilleur que vous pouvez faire est d'enlever toutes les informations que vous avez enregistré dans le site.",
         "domains": [
             "hackthissite.org"
+        ]
+    },
+
+    {
+        "name": "Hackaday.io",
+        "url": "https://hackaday.io/",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to 'Edit my Account', then 'Delete your account'. You will then be prompted to enter your password. Then click delete.",
+        "domains": [
+            "hackaday.io"
         ]
     },
 
