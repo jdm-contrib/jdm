@@ -3384,6 +3384,16 @@
     },
 
     {
+        "name": "Hackaday.io",
+        "url": "https://hackaday.io/",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to 'Edit my Account', then 'Delete your account'. You will then be prompted to enter your password. Then click delete.",
+        "domains": [
+            "hackaday.io"
+        ]
+    },
+
+    {
         "name": "Hacker News",
         "url": "http://jacquesmattheij.com/The+Unofficial+HN+FAQ#deleteaccount",
         "difficulty": "impossible",
