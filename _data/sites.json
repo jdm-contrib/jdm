@@ -8131,6 +8131,18 @@
     },
 
     {
+        "name": "WG-Gesucht.de",
+        "url": "https://www.wg-gesucht.de/en/hilfe.html",
+        "difficulty": "easy",
+        "notes": "Please delete your account via \"My Profile - Delete Account\".",
+        "notes_de": "Löschen Sie Ihren Account bitte über \"Mein Profil - Account löschen\".",
+        "notes_es": "Por favor elimine su cuenta vía \"Mi perfil - Eliminar Cuenta\".",
+        "domains": [
+            "wg-gesucht.de"
+        ]
+    },
+
+    {
         "name": "WhatPulse",
         "url": "http://whatpulse.org/my/#home",
         "difficulty": "easy",
