@@ -8134,9 +8134,9 @@
         "name": "WG-Gesucht.de",
         "url": "https://www.wg-gesucht.de/en/hilfe.html",
         "difficulty": "easy",
-        "notes": "Please delete your account via \"My Profile - Delete Account\".",
-        "notes_de": "Löschen Sie Ihren Account bitte über \"Mein Profil - Account löschen\".",
-        "notes_es": "Por favor elimine su cuenta vía \"Mi perfil - Eliminar Cuenta\".",
+        "notes": "How can I delete my account? Please delete your account via \"My Profile - Delete Account\".",
+        "notes_de": "Wie lösche ich meinen Account? Löschen Sie Ihren Account bitte über \"Mein Profil - Account löschen\".",
+        "notes_es": "¿Cómo puedo eliminar mi cuenta? Por favor elimine su cuenta vía \"Mi perfil - Eliminar Cuenta\".",
         "domains": [
             "wg-gesucht.de"
         ]
