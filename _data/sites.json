@@ -5194,7 +5194,7 @@
     {
         "name": "NCBI",
         "url": "https://www.ncbi.nlm.nih.gov/books/NBK3842/",
-        "difficulty": "impossible",
+        "difficulty": "hard",
         "notes": "Accounts will be deleted after 2 years of inactivity",
         "notes_es": "La cuenta será borrada después de dos años de inactividad",
         "domains": [
