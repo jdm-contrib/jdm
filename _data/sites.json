@@ -6537,6 +6537,16 @@
     },
 
     {
+        "name": "Rosetta Stone",
+        "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/27aac3ab-c36e-4457-81d4-9773ba27887e/f1e6ce28-8f84-4cae-9bdd-bc40113d5ee0.html",
+        "difficulty": "hard",
+        "notes": "Submit a personal data deletion request via the support site form using your registered email. Your data will be deleted after some time without any email confirmation. (Note: <a href=\"https://privacyportal-cdn.onetrust.com/dsarwebform/27aac3ab-c36e-4457-81d4-9773ba27887e/a4611d02-cd40-4c80-8efb-af97324e0cc4.html\">California residents must use this form instead!</a>)",
+        "domains": [
+            "rosettastone.com"
+        ]
+    },
+
+    {
         "name": "Rotten Tomatoes",
         "url": "http://rottentomatoes.com/user/account/cancel",
         "difficulty": "easy",
