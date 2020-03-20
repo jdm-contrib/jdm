@@ -1,5 +1,16 @@
 [
     {
+        "name": "/e/",
+        "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
+        "difficulty": "hard",
+        "notes": "Send an email from the /e/ID (&lt;yourmail&gt;@e.email) you want to delete. Optionally, you can describe the reason for the exclusion.",
+        "email": "contact@e.email",
+        "domains": [
+            "e.foundation"
+        ]
+    },
+
+    {
         "name": "000Webhost",
         "url": "http://000webhost.com/members/profile",
         "difficulty": "easy",
