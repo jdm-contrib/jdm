@@ -2135,6 +2135,17 @@
     },
 
     {
+        "name": "/e/",
+        "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
+        "difficulty": "hard",
+        "notes": "Send an email from the /e/ID (&lt;yourmail&gt;@e.email) you want to delete. Optionally, you can describe the reason for the exclusion.",
+        "email": "contact@e.email",
+        "domains": [
+            "e.foundation"
+        ]
+    },
+
+    {
         "name": "EA Origin",
         "url": "https://help.ea.com/en/contact-us/",
         "difficulty": "hard",
@@ -8495,17 +8506,6 @@
         "email_body": "My first and last name are XXXXXX XXXXXX, my e-mail address is XXXXXX, and my user ID number is XXXXXX",
         "domains": [
             "zynga.com"
-        ]
-    },
-    
-    {
-        "name": "/e/",
-        "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
-        "difficulty": "hard",
-        "notes": "Send an email from the /e/ID (&lt;yourmail&gt;@e.email) you want to delete. Optionally, you can describe the reason for the exclusion.",
-        "email": "contact@e.email",
-        "domains": [
-            "e.foundation"
         ]
     }
 ]
