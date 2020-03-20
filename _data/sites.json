@@ -8146,6 +8146,15 @@
     },
 
     {
+        "name": "WG-Gesucht.de",
+        "url": "https://www.wg-gesucht.de/hilfe.html#collapse-account-4",
+        "difficulty": "easy",
+        "domains": [
+            "wg-gesucht.de"
+        ]
+    },
+
+    {
         "name": "WhatPulse",
         "url": "http://whatpulse.org/my/#home",
         "difficulty": "easy",
