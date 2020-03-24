@@ -8300,6 +8300,16 @@
     },
 
     {
+        "name": "WT.Social",
+        "url": "https://wt.social/myaccount/deactivate-account",
+        "difficulty": "easy",
+        "notes": "Only deactivation is possible",
+        "domains": [
+            "wt.social"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "WordPress.com",
         "url": "https://wordpress.com/me/account",
