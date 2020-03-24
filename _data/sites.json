@@ -8321,6 +8321,16 @@
     },
 
     {
+        "name": "WT.Social",
+        "url": "https://wt.social/myaccount/deactivate-account",
+        "difficulty": "impossible",
+        "notes": "Only deactivation is possible",
+        "domains": [
+            "wt.social"
+        ]
+    },
+
+    {
         "name": "Wunderlist",
         "url": "https://www.wunderlist.com/",
         "difficulty": "easy",
