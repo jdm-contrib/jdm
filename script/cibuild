@@ -1,28 +1,12 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-# Build site, validate HTML
-bundle exec jekyll build
-bundle exec htmlproofer ./_site --checks-to-ignore 'LinkCheck'
+# Run jekyll
+./script/run_jekyll.sh
 
 # Validate JSON
 ./script/validate_json.rb
 ./script/ping_websites.rb
 
-# Validate all files adhere to .editorconfig
-# Exclude files which should not be checked against .editorconfig
-# (eg. images, LICENSE, system-generated files, and library files)
-mapfile -t editorconfigargs < <(
-    find . \
-        -type 'f' \
-        ! -name '*.png' \
-        ! -name '*.ico' \
-        ! -name 'LICENSE' \
-        ! -name 'Gemfile.lock' \
-        ! -path './assets/*/libs/*' \
-        ! -path './.bundle/*' \
-        ! -path './.git/*' \
-        ! -path './_site/*' \
-        ! -path './vendor/*' \
-)
-npx @htmlacademy/editorconfig-cli "${editorconfigargs[@]}"
+# Check if files are properly formatted
+./script/check_files_formatting.sh

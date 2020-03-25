@@ -1,13 +1,22 @@
+os: linux
+dist: bionic
 language: ruby
 rvm:
 - 2.6.5
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-script: ./script/cibuild
+cache: bundler
 
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
-sudo: false
+jobs:
+  include:
+    - stage: Run Tests
+      script: ./script/run_jekyll.sh
+      name: "Run jekyll"
+    - script: ./script/validate_json.rb
+      name: "Validate JSON"
+    - script: ./script/ping_websites.rb
+      name: "Ping websites"
+    - script: ./script/check_files_formatting.sh
+      name: "Check Files Formatting"
