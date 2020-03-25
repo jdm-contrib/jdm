@@ -4606,6 +4606,17 @@
     },
 
     {
+        "name": "MeetFrank",
+        "url": "https://meetfrank.com",
+        "email": "team@meetfrank.com",
+        "difficulty": "hard",
+        "notes": "Send the team/company/email of the account you want to delete. No verification (not even from the same sender e-mail) required.",
+        "domains": [
+            "meetfrank.com"
+        ]
+    },
+
+    {
         "name": "Meetup",
         "url": "http://www.meetup.com/account/remove/",
         "difficulty": "easy",
