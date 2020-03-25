@@ -4609,7 +4609,7 @@
         "name": "MeetFrank",
         "url": "https://meetfrank.com",
         "email": "team@meetfrank.com",
-        "difficulty": "easy",
+        "difficulty": "hard",
         "notes": "Send the team/company/email of the account you want to delete. No verification (not even from the same sender e-mail) required.",
         "domains": [
             "meetfrank.com"
