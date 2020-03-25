@@ -4610,7 +4610,7 @@
         "url": "https://meetfrank.com",
         "email": "team@meetfrank.com",
         "difficulty": "easy",
-        "notes": "Send the team/company/email of the account you want to delete. No verification (not even from the same sender e-mail) requiered.",
+        "notes": "Send the team/company/email of the account you want to delete. No verification (not even from the same sender e-mail) required.",
         "domains": [
             "meetfrank.com"
         ]
