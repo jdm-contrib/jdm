@@ -5475,6 +5475,16 @@
     },
 
     {
+        "name": "Nvidia",
+        "url": "https://www.nvidia.com/en-us/privacy-center/delete-data/",
+        "difficulty": "easy",
+        "notes": "Open the link, sign in, click 'Delete my data', click the confirmation link sent to your email, type in DELETE and press ok.",
+        "domains": [
+            "nvidia.com"
+        ]
+    },
+
+    {
         "name": "Odnoklassniki",
         "url": "http://www.odnoklassniki.ru/regulations",
         "difficulty": "easy",
