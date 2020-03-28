@@ -5464,6 +5464,16 @@
     },
 
     {
+        "name": "Nvidia",
+        "url": "https://www.nvidia.com/en-us/privacy-center/delete-data/",
+        "difficulty": "easy",
+        "notes": "Open the link, sign in, click 'Delete my data', click the confirmation link sent to your email, type in DELETE and press ok.",
+        "domains": [
+            "ntaskmanager.com"
+        ]
+    },
+
+    {
         "name": "Nubank",
         "url": "https://blog.nubank.com.br/fechar-nuconta-e-facil/",
         "difficulty": "impossible",
