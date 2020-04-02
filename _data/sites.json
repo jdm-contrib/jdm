@@ -2026,6 +2026,15 @@
     },
 
     {
+        "name": "Dreamstime",
+        "url": "http://www.dreamstime.com/account/edit-profile",
+        "difficulty": "easy",
+        "domains": [
+            "dreamstime.com"
+        ]
+    },
+
+    {
         "name": "Dreamwidth",
         "url": "https://www.dreamwidth.org/accountstatus",
         "difficulty": "medium",
