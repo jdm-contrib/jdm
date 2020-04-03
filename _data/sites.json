@@ -2977,6 +2977,7 @@
         "name": "GitHub",
         "url": "https://github.com/settings/admin",
         "difficulty": "easy",
+        "notes": "Click on 'Delete account' near the bottom of the page and follow the instructions. Some user content will continue to exist anonymously on the website.",
         "domains": [
             "github.com"
         ]
