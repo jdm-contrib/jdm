@@ -18,7 +18,8 @@
 
         {% for entry in site.data.sites %}
             <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
-                <a class="site-header" href="{{ entry.url }}">
+                {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
+                <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% else %}{{entry.url}}{% endif %}">
                     {{ entry.name }}
                 </a>
 

@@ -4,6 +4,7 @@ The sites, urls and additional notes are stored in `_data/sites.json`. If you wa
 
 - `name`: The name of the service.
 - `url`: The url of the account-deletion page. If no such page exists, the url should be a contact or help page explaining the process of account deletion.
+- `url_CODE`: *(optional)* Use the language `CODE` as suffix of the url field to provide language-specific deletion codes, shown on the respective language page.
 - `difficulty`: This is an indicator used on the site to determine the difficulty of account deletion. Use one of:
     - `easy`: Sites with a simple process such as a 'delete account' button
     - `medium`: Sites that do allow account deletion but require you to perform additional steps
