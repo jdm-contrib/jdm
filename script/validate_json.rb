@@ -28,14 +28,7 @@ def error_on_missing_field(key, field, exit_code)
     end
 end
 
-def validate_website_entry(key, i)
-    unless key.key?('name')
-        STDERR.puts "Entry #{i} has no 'name' field"
-        exit ExitCodes::MISSING_NAME
-    end
-    error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
-    error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
-    error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
+def validate_difficulty(key)
     difficulty = key['difficulty']
     unless SupportedDifficulties.include?(difficulty)
         STDERR.puts "Entry '#{key['name']}' has unexpected 'difficulty' field:"\
@@ -44,6 +37,17 @@ def validate_website_entry(key, i)
                     "\t#{SupportedDifficulties}"
         exit ExitCodes::UNEXPECTED_DIFFICULTY
     end
+end
+
+def validate_website_entry(key, i)
+    unless key.key?('name')
+        STDERR.puts "Entry #{i} has no 'name' field"
+        exit ExitCodes::MISSING_NAME
+    end
+    error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
+    error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
+    error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
+    validate_difficulty(key)
 end
 
 json_files = Dir.glob('_data/**/*').select { |f| File.file?(f) }
