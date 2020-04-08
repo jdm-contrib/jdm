@@ -49,6 +49,7 @@ def url_exist(name, url_string)
 rescue  Errno::EADDRNOTAVAIL,
         Errno::ECONNRESET,
         Errno::EHOSTUNREACH,
+        Errno::ENETUNREACH,
         Errno::ENOENT,
         Errno::ETIMEDOUT,
         Net::OpenTimeout,
