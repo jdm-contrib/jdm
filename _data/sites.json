@@ -8191,6 +8191,8 @@
     {
         "name": "WG-Gesucht.de",
         "url": "https://www.wg-gesucht.de/hilfe.html#collapse-account-4",
+        "url_en": "https://www.wg-gesucht.de/en/hilfe.html",
+        "url_es": "https://www.wg-gesucht.de/es/hilfe.html",
         "difficulty": "easy",
         "domains": [
             "wg-gesucht.de"
