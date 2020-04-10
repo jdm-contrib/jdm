@@ -13,9 +13,16 @@ module ExitCodes
     MISSING_DOMAINS = 5        # Entry missing the required 'domains' field
     MISSING_NAME = 6           # Entry missing the required 'name' field
     UNEXPECTED_DIFFICULTY = 7  # Unexpected value for 'difficulty' field
+    UNEXPECTED_LANGUAGE = 8    # Unexpected language code for 'url_code' field
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "impossible"]
+
+def get_supported_languages()
+    return translation_files = Dir.children('_data/trans/').map { |f| f.delete_suffix('.json') }
+end
+
+SupportedLanguages = get_supported_languages()
 
 def get_transformed_name(site_object)
     return site_object['name'].downcase.sub(/^the\s+/, '')
@@ -28,14 +35,7 @@ def error_on_missing_field(key, field, exit_code)
     end
 end
 
-def validate_website_entry(key, i)
-    unless key.key?('name')
-        STDERR.puts "Entry #{i} has no 'name' field"
-        exit ExitCodes::MISSING_NAME
-    end
-    error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
-    error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
-    error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
+def validate_difficulty(key)
     difficulty = key['difficulty']
     unless SupportedDifficulties.include?(difficulty)
         STDERR.puts "Entry '#{key['name']}' has unexpected 'difficulty' field:"\
@@ -44,6 +44,30 @@ def validate_website_entry(key, i)
                     "\t#{SupportedDifficulties}"
         exit ExitCodes::UNEXPECTED_DIFFICULTY
     end
+end
+
+def validate_localized_urls(key)
+    key.keys.each do |entry_key|
+        if entry_key.start_with?('url_') && !SupportedLanguages.any? { |lang| entry_key.eql?("url_#{lang}") }
+            STDERR.puts "Entry '#{key['name']}' has unrecognized language code: "\
+                        "'#{entry_key}'.\n"\
+                        "Use one of the supported languages:\n"\
+                        "\t#{SupportedLanguages}"
+            exit ExitCodes::UNEXPECTED_LANGUAGE
+        end
+    end
+end
+
+def validate_website_entry(key, i)
+    unless key.key?('name')
+        STDERR.puts "Entry #{i} has no 'name' field"
+        exit ExitCodes::MISSING_NAME
+    end
+    error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
+    error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
+    error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
+    validate_difficulty(key)
+    validate_localized_urls(key)
 end
 
 json_files = Dir.glob('_data/**/*').select { |f| File.file?(f) }
