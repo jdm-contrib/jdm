@@ -5572,6 +5572,18 @@
     },
 
     {
+        "name": "Opendesktop",
+        "url": "https://www.opendesktop.org/",
+        "difficulty": "hard",
+        "email": "contact@opendesktop.org",
+        "email_subject": "Account Deletion Request",
+        "notes": "E-mail their support to get the account deleted.",
+        "domains": [
+            "opendesktop.org"
+        ]
+    },
+
+    {
         "name": "OpenDNS",
         "url": "https://dashboard.opendns.com/myaccount/deleteaccount",
         "difficulty": "easy",
