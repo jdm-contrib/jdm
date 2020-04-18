@@ -6765,7 +6765,8 @@
         "name": "Shutterstock",
         "url": "http://submit.shutterstock.com/privacy.mhtml",
         "difficulty": "hard",
-        "notes": "If you wish to delete your account or request that we no longer use your information to provide you services contact us at Privacy@shutterstock.com.",
+        "notes": "If you wish to delete your account or request that they no longer use your information to provide you services, send them an e-mail.",
+        "email": "privacy@shutterstock.com",
         "domains": [
             "shutterstock.com"
         ]
