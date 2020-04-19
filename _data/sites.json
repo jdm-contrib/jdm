@@ -5295,7 +5295,7 @@
         "url": "http://netology.ru",
         "difficulty": "impossible",
         "notes": "It is not possible to delete your account.  The best you can do is delete any personal information that you have stored on their website.",
-        "notes_ru": "Никаких пунктов для удаления профиля нет, и похоже, обращение через техподдержку для такого не предусмотрено; проще потереть все персональные данные с их сайта",
+        "notes_ru": "Никаких пунктов для удаления профиля нет. И похоже, обращение в техподдержку ничего не даст. Проще потереть все персональные данные с сайта",
         "domains": [
             "netology.ru"
         ]
@@ -5505,6 +5505,7 @@
         "notes_pt_br": "Faça login em sua conta, vá até o License Agreement, clique em Delete profile, marque as caixas que você quiser, digite sua senha e pressione o botão Remove.",
         "notes_cat": "Entri al seu compte, baixi fins a 'License Agreement', cliqui a 'Delete profile', marqui les caselles que desitgi, entri la seva clau i faci clic a 'Remove'.",
         "notes_es": "Entra en tu cuenta, desplázate hasta 'License Agreement', pulsa 'Delete profile', marca las casillas que desees, entra tu contraseña y haz clic en 'Remove'.",
+        "notes_ru": "Войдите в ваш аккаунт, прокрутите Лицензионное Соглашение вниз, кликните 'Удалить профиль', поставьте галочки по желанию и жмите кнопку 'Удалить'.",
         "domains": [
             "odnoklassniki.ru"
         ]
@@ -6992,7 +6993,7 @@
         "notes_cn": "ا如果您未提前取消操作，您的使用者帳戶將在 7 天后刪除。創建的內容（如論壇帖子）不會被刪除，但您的使用者名是匿名的，並且不會重新註冊 363 天。",
         "notes_jp": "操作を事前にキャンセルしない場合、7日後にユーザーアカウントが削除されます。フォーラムの投稿など、作成されたコンテンツは削除されませんが、ユーザー名は匿名化され、363 日間の再登録から保護されます。",
         "notes_gr": "Ο λογαριασμός χρήστη σας θα διαγραφεί μετά από 7 ημέρες, εάν δεν ακυρώσετε την εργασία εκ των προτέρων. Το περιεχόμενο που δημιουργείται, όπως οι δημοσιεύσεις του φόρουμ, δεν διαγράφεται, αλλά το όνομα χρήστη σας είναι ανώνυμο και προστατεύεται από την εκ νέου εγγραφή για 363 ημέρες.",
-        "notes_ru": "Ваша учетная запись пользователя будет удалена через 7 дней, если вы не отмените операцию заранее. Созданный контент, например, публикации на форуме, не удаляется, но имя пользователя обезличано и защищено от перерегистрации в течение 363 дней.",
+        "notes_ru": "Ваша учетная запись будет удалена через 7 дней, если вы не отмените операцию заранее. Созданный контент (например, публикации на форуме) не удаляется, но имя пользователя обезличивается и блокируется для повторной регистрации на 363 дня.",
         "notes_pl": "Twoje konto użytkownika zostanie usunięte po 7 dniach, jeśli wcześniej nie anulujesz procesu. Utworzona treść, taka jak posty na forum, nie zostanie usunięta, ale nazwa użytkownika będzie anonimowa i chroniona przed ponowną rejestracją przez 363 dni.",
         "notes_es": "Su cuenta de usuario se eliminará después de 7 días si no cancela el proceso de antemano. El contenido creado, como las publicaciones en el foro, no se eliminará, pero su nombre de usuario será anónimo y protegido contra el nuevo registro durante 363 días.",
         "notes_pt": "Sua conta de usuário será excluída após 7 dias se você não cancelar o processo com antecedência. O conteúdo criado, como postagens em fóruns, não será excluído, mas seu nome de usuário será anonimizado e protegido de novo registro por 363 dias.",
