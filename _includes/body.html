@@ -8,13 +8,13 @@
         <button class="popular">{{ site.data.trans[page.lang].popular }}</button>
         <button data-dropdown="#alphabetical-dropdown" class="az-sort">A - Z</button>
         <button data-dropdown="#difficulty-dropdown" class="diff-sort">{{ site.data.trans[page.lang].difficulty }}</button>
-        <button class="reset">reset</button>
+        <button class="reset">{{ site.data.trans[page.lang].reset }</button>
     </div>
 </div>
 
 <main>
     <section class="sites" id="sites">
-        <p class="no-results">Can't find what you're looking for? <a href='https://github.com/jdm-contrib/jdm'>Help make JustDeleteMe better</a>.</p>
+        <p class="no-results">{{ site.data.trans[page.lang].noresults }}</p>
 
         {% for entry in site.data.sites %}
             <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
@@ -63,8 +63,8 @@
     <div class="info-container">
         <div class="info-block-half">
             <h2>{{ site.data.trans[page.lang].whatisthis }}</h2>
-            <p>{{ site.data.trans[page.lang].whatisthis1|safe}} </p>
-            <p>{{ site.data.trans[page.lang].whatisthis2|safe }} </p>
+            <p>{{ site.data.trans[page.lang].whatisthis1|safe }}</p>
+            <p>{{ site.data.trans[page.lang].whatisthis2|safe }}</p>
         </div>
         <div class="info-block-half">
             <h2>{{ site.data.trans[page.lang].guide }}</h2>
