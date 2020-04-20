@@ -7329,7 +7329,7 @@
     },
 
     {
-        "name": "Svtle",
+        "name": "Svbtle",
         "url": "https://svbtle.com/settings/account",
         "difficulty": "easy",
         "notes": "Click the 'Delete Account' link. After 30 days the data is irreversible to retrieve.",
