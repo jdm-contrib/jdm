@@ -4566,6 +4566,17 @@
     },
 
     {
+        "name": "Maxdome",
+        "url": "https://faq.maxdome.de/frage/mxdallgemein/mxdalleszu/was-ist-maxdome/wo-finde-ich-den-live-chat-von-maxdome",
+        "difficulty": "hard",
+        "notes": "Contact support via the live chat and request the deletion of your account. This is also possible via the <a href=\"https://faq.maxdome.de/kontakt\">contact form</a>, though it could take longer.",
+        "notes_de": "Kontaktiere den Support über den Live Chat und fordere die Löschung deines Kontos. Dies ist auch über das <a href=\"https://faq.maxdome.de/kontakt\">Kontaktformular</a> möglich, dauert aber ggf. länger.",
+        "domains": [
+            "maxdome.de"
+        ]
+    },
+
+    {
         "name": "McAfee",
         "url": "http://home.mcafee.com/supportpages/unsub.aspx",
         "difficulty": "easy",
