@@ -6895,8 +6895,8 @@
     {
         "name": "Slack",
         "url": "https://my.slack.com/account/settings",
-        "difficulty": "easy",
-        "notes": "If you are the Slack team's primary owner you will need to either delete the team or transfer its ownership before deleting your account",
+        "difficulty": "medium",
+        "notes": "If you are the Slack team's primary owner you will need to either delete the team or transfer its ownership before deleting your account. If you're not, you'll need to request a deletion from the workspace admin.",
         "domains": [
             "slack.com"
         ]
