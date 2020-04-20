@@ -7,9 +7,9 @@
     "difficulty_medium":"متوسط",
     "extension":"امتداد من آجل جوجل كروم",
     "extensionguide":"دليل الامتداد",
-    "extensionp1":"صديقنا<a target=\"_blank\" href=\"https://mikerogers.io\">مايك روجرز</a> ساعدنا في إنشاء إمتداد جوجل كروم ل JustDeleteMe",
+    "extensionp1":"صديقنا<a target='_blank' href='https://mikerogers.io'>مايك روجرز</a> ساعدنا في إنشاء إمتداد جوجل كروم ل JustDeleteMe",
     "extensionp2":"عند الدخول لأحد المواقع المعروضة في موقعنا، سيتم إضافة علامة مميزة في شريط العنوان. بالضغظ عليه سيحولك مباشرة إلى صفحة الحذف داخل الموقع المتصفح",
-    "extensionp3":"للثتبيث من هنا <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+    "extensionp3":"للثتبيث من هنا <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
     "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide":"الدليل",
@@ -30,6 +30,6 @@
     "title": "Just Delete Me | دليل وصلات مباشرة لحذف حساباتك من المواقع التفاعلية.",
     "twitter": "Tweet JDM",
     "whatisthis":"ما هذا ؟",
-    "whatisthis1":" مجموعة من المواقع تستعمل تقنيات تسمى <a href=\"https://darkpatterns.org/\">dark pattern</a> لتصعب عملية حذف الحساب الخاص بك. JustDeleteMe يريد ان يصبح دليلا لوصلات تسهل عملية الحذف.",
-    "whatisthis2":"هل تعتقد آن هنالك موقع يجب اضافته ؟ <a href=\"https://github.com/jdm-contrib/jdm\"> تابع المشروع على جيت هاب</a>"
+    "whatisthis1":" مجموعة من المواقع تستعمل تقنيات تسمى <a href='https://darkpatterns.org'>dark pattern</a> لتصعب عملية حذف الحساب الخاص بك. JustDeleteMe يريد ان يصبح دليلا لوصلات تسهل عملية الحذف.",
+    "whatisthis2":"هل تعتقد آن هنالك موقع يجب اضافته ؟ <a href='https://github.com/jdm-contrib/jdm'> تابع المشروع على جيت هاب</a>"
 }

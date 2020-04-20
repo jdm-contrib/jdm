@@ -7,9 +7,9 @@
     "difficulty_medium": "中等",
     "extension": "Google Chrome 應用程式",
     "extensionguide": "應用程式指南",
-    "extensionp1": "我們的好朋友 <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> 協助我們為 JustDeleteMe 製作了一個很棒的 Google Chrome 應用程式。",
+    "extensionp1": "我們的好朋友 <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> 協助我們為 JustDeleteMe 製作了一個很棒的 Google Chrome 應用程式。",
     "extensionp2": "當你進入收錄於 JustDeleteMe 的網站時，Chrome 應用程式將會在在網址列加入一個小圓點。點選該點將帶你到相關刪除頁面。",
-    "extensionp3": "要安裝它，只需進入到 <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome 線上應用程式商店</a>。",
+    "extensionp3": "要安裝它，只需進入到 <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome 線上應用程式商店</a>。",
     "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
     "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide": "指南",
@@ -30,6 +30,6 @@
     "title": "Just Delete Me | 一個網路服務帳號刪除連結的目錄。",
     "twitter": "Tweet JDM",
     "whatisthis": "這是什麼?",
-    "whatisthis1": "許多公司使用 <a href=\"https://darkpatterns.org/\">dark pattern</a> 技術，使得很難找到如何刪除你的帳號。 JustDeleteMe 的目標是成為一個網址的目錄，使你能夠輕鬆地從網路服務中刪除帳戶。",
-    "whatisthis2": "想新增網站？ <a href=\"https://github.com/jdm-contrib/jdm\">Fork the project on GitHub</a>."
+    "whatisthis1": "許多公司使用 <a href='https://darkpatterns.org'>dark pattern</a> 技術，使得很難找到如何刪除你的帳號。 JustDeleteMe 的目標是成為一個網址的目錄，使你能夠輕鬆地從網路服務中刪除帳戶。",
+    "whatisthis2": "想新增網站？ <a href='https://github.com/jdm-contrib/jdm'>Fork the project on GitHub</a>."
 }

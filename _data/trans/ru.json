@@ -7,9 +7,9 @@
     "difficulty_medium": "средний",
     "extension": "Расширение для Google Chrome",
     "extensionguide": "Что означают точки",
-    "extensionp1": "Наш хороший друг <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> помог нам выпустить прекрасное расширение JustDeleteMe для Google Chrome.",
+    "extensionp1": "Наш хороший друг <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> помог нам выпустить прекрасное расширение JustDeleteMe для Google Chrome.",
     "extensionp2": "Когда вы зайдёте на сайт, который есть в списке JustDeleteMe, расширение добавит маленькую точку в адресную строку. Кликнув на эту точку, вы попадете на подходящую страницу для удаления.",
-    "extensionp3": "Для того чтобы установить расширение, просто перейдите в <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+    "extensionp3": "Для того чтобы установить расширение, просто перейдите в <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footer": "Создано <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, и <a href='https://github.com/jdm-contrib'>Команодй поддержки JDM</a> | Форкнуть на <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
     "fork": "Форкнуть&nbsp;на&nbsp;GitHub",
     "guide": "Руководство",
@@ -30,6 +30,6 @@
     "title": "Just Delete Me | Каталог прямых ссылок для удаления вашего аккаунта с различных веб-сайтов",
     "twitter": "Твитнуть о JDM",
     "whatisthis": "Что это?",
-    "whatisthis1": "Многие компании используют технологию <a href=\"https://darkpatterns.org/\">dark pattern</a> для того, чтобы усложнить процесс удаления аккаунта. Каталог ссылок JustDeleteMe призван помочь вам с легкостью удалить аккаунт с веб-сайта",
-    "whatisthis2": "Есть сайт, который необходимо добавить? <a href=\"https://github.com/jdm-contrib/jdm\">Форкнуть проект на GitHub</a>."
+    "whatisthis1": "Многие компании используют технологию <a href='https://darkpatterns.org'>dark pattern</a> для того, чтобы усложнить процесс удаления аккаунта. Каталог ссылок JustDeleteMe призван помочь вам с легкостью удалить аккаунт с веб-сайта",
+    "whatisthis2": "Есть сайт, который необходимо добавить? <a href='https://github.com/jdm-contrib/jdm'>Форкнуть проект на GitHub</a>."
 }

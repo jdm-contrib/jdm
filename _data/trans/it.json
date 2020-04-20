@@ -7,9 +7,9 @@
     "difficulty_medium": "media",
     "extension": "Estensione Google Chrome",
     "extensionguide": "Extension Dot Guide",
-    "extensionp1": "Il nostro amico <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> ci ha aiutato a rilasciare l'estensione di JustDeleteMe per Google Chrome.",
+    "extensionp1": "Il nostro amico <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> ci ha aiutato a rilasciare l'estensione di JustDeleteMe per Google Chrome.",
     "extensionp2": "Quando sei su un sito che è elencato su JustDeleteMe, l'estensione aggiungerà un puntino colorato sulla barra degli indirizzi. Cliccandoci verrai reindirizzato alla pagina per eliminare il tuo account.",
-    "extensionp3": "Per installare l'estensione, procedi su <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+    "extensionp3": "Per installare l'estensione, procedi su <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
     "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide": "Guida",
@@ -30,6 +30,6 @@
     "title": "Just Delete Me | Una directory di link diretti per eliminare il tuo account dai siti web.",
     "twitter": "Tweet JDM",
     "whatisthis": "Cos'è?",
-    "whatisthis1": "Molte compagnie usano strategie di <a href=\"https://darkpatterns.org/\">dark pattern</a> per rendere difficile la possibilità di eliminare il tuo account. JustDeleteMe punta a essere una directory di urls per permetterti di eliminare facilmente il tuo account dai siti web.",
-    "whatisthis2": "Hai trovato un sito che credi dovrebbe essere aggiunto? <a href=\"https://github.com/jdm-contrib/jdm\">Fork the project on GitHub</a>."
+    "whatisthis1": "Molte compagnie usano strategie di <a href='https://darkpatterns.org'>dark pattern</a> per rendere difficile la possibilità di eliminare il tuo account. JustDeleteMe punta a essere una directory di urls per permetterti di eliminare facilmente il tuo account dai siti web.",
+    "whatisthis2": "Hai trovato un sito che credi dovrebbe essere aggiunto? <a href='https://github.com/jdm-contrib/jdm'>Fork the project on GitHub</a>."
 }

@@ -7,9 +7,9 @@
     "difficulty_medium": "stredné",
     "extension": "Google Chrome rozšírenie",
     "extensionguide": "Návod pre bodky rozšírenia",
-    "extensionp1": "Náš dobrý priateľ <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> nám pomohol vydať úžasné Google Chrome rozšírenie pre JustDeleteMe.",
+    "extensionp1": "Náš dobrý priateľ <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> nám pomohol vydať úžasné Google Chrome rozšírenie pre JustDeleteMe.",
     "extensionp2": "Ak sa nachádzate na stránke, ktorá je na zozname JustDeleteMe, rozšírenie pridá malú bodku do omnibaru. Kliknutie na bodku vás hneď presmeruje na stránku, kde je možné účet vymazať.",
-    "extensionp3": "Ak si chcete nainštalovať rozšírenie jednoducho choďte na stránku <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Obchodu</a>.",
+    "extensionp3": "Ak si chcete nainštalovať rozšírenie jednoducho choďte na stránku <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Obchodu</a>.",
     "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
     "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide": "Návod",
@@ -30,6 +30,6 @@
     "title": "Just Delete Me | Zoznam odkazov na okamžité zmazanie účtov z internetových služieb",
     "twitter": "Tweet JDM",
     "whatisthis": "O čom je tento projekt?",
-    "whatisthis1": "Mnoho spoločností používa <a href=\"https://darkpatterns.org/\">nekalé praktiky</a>, aby urobili vymazanie účtu náročnejšie. JustDeleteMe má za cieľ byť zoznamom odkazov, ktoré vám umožnia jednoducho vymazať váš účet z internetových služieb.",
-    "whatisthis2": "Poznáš stránku, ktorá by sa tu mala nachádzať? <a href=\"https://github.com/jdm-contrib/jdm\">Forkni projekt na GitHub-e</a>."
+    "whatisthis1": "Mnoho spoločností používa <a href='https://darkpatterns.org'>nekalé praktiky</a>, aby urobili vymazanie účtu náročnejšie. JustDeleteMe má za cieľ byť zoznamom odkazov, ktoré vám umožnia jednoducho vymazať váš účet z internetových služieb.",
+    "whatisthis2": "Poznáš stránku, ktorá by sa tu mala nachádzať? <a href='https://github.com/jdm-contrib/jdm'>Forkni projekt na GitHub-e</a>."
 }
