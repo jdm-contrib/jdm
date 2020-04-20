@@ -74,13 +74,14 @@ json_files = Dir.glob('_data/**/*').select { |f| File.file?(f) }
 json_files.each do |file|
     begin
         json = JSON.parse(File.read(file))
+        is_sites_json = File.basename(file) =~ /sites.json/
         # check for alphabetical ordering
         json.each_with_index do |(key, _), i|
             # sites.json is an array of objects; this would expand to:
             #   key = { ... }
             #   i = 0
             # hence, the key variable holds the actual value
-            if File.basename(file) =~ /sites.json/
+            if is_sites_json
                 validate_website_entry(key, i)
                 name = get_transformed_name(key)
                 prev_name = get_transformed_name(json[i - 1])
