@@ -1,4 +1,5 @@
 {
+    "about": "About",
     "difficulty": "ความยาก",
     "difficulty_easy": "ง่าย",
     "difficulty_hard": "ยาก",
@@ -6,9 +7,11 @@
     "difficulty_medium": "ปานกลาง",
     "extension": "ส่วนเสริมGoogle Chrome",
     "extensionguide": "คำแนะนำ'จุด'ของส่วนเสริม",
-    "extensionp1": "คุณ <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> ผู้ใจดีได้ช่วยเหลือเราสร้างส่วนเสริมGoogle Chromeอันยอดเยี่ยมสำหรับJustDeleteMeขึ้น",
+    "extensionp1": "คุณ <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> ผู้ใจดีได้ช่วยเหลือเราสร้างส่วนเสริมGoogle Chromeอันยอดเยี่ยมสำหรับJustDeleteMeขึ้น",
     "extensionp2": "เมื่อคุณกำลังใช้งานเว็ปไซต์ที่JustDeleteMeมีข้อมูลอยู่ ส่วนเสริมGoogle Chromeจะแสดง'จุด'ที่omnibar คลิ๊กที่'จุด'ดังกล่าวจะนำคุณไปสู่หน้าสำหรับการลบบัญชี",
-    "extensionp3": "ต้องการติดตั้งส่วนเสริม? กรุณาไปที่นี่ <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+    "extensionp3": "ต้องการติดตั้งส่วนเสริม? กรุณาไปที่นี่ <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
+    "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
+    "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide": "คำแนะนำ",
     "guideeasy": "ขั้นตอนง่ายๆ",
     "guideexplanations": "ลิ้งข้างบนแสดงความยากง่ายในการลบบัญชีด้วยสีที่แตกต่างกัน:",
@@ -18,12 +21,15 @@
     "hideinfo": "ซ่อนข้อมูล...",
     "name": "ไทย",
     "noinfo": "ไม่มีข้อมูล",
+    "noresults": "Can't find what you're looking for? <a href='https://github.com/jdm-contrib/jdm'>Help make JustDeleteMe better</a>.",
     "popular": "ยอดนิยม",
+    "reset": "Reset",
     "sendmail": "ส่งอีเมล์",
     "showinfo": "แสดงข้อมูล...",
     "tagline": "รายการdirect linkสำหรับลบบัญชีจากโลกออนไลน์",
     "title": "Just Delete Me | รายการdirect linkสำหรับลบบัญชีจากโลกออนไลน์",
+    "twitter": "Tweet JDM",
     "whatisthis": "นี่คืออะไร?",
-    "whatisthis1": "หลายบริษัทใช้เทคนิค <a href=\"https://darkpatterns.org/\">dark pattern</a> เพื่อไม่ให้ผู้ใช้สามารถหาวิธีลบบัญชีออกได้โดยง่าย JustDeleteMe ต้องการจะสร้างรายการurlเพื่อให้คุณสามารถลบบัญชีเหล่านี้ได้อย่างง่ายดาย",
-    "whatisthis2": "มีวิธีการลบบัญชีที่อยากจะเพิ่มเติม? <a href=\"https://github.com/jdm-contrib/jdm\">ForkโครงการจากGitHubสิ</a>."
+    "whatisthis1": "หลายบริษัทใช้เทคนิค <a href='https://darkpatterns.org'>dark pattern</a> เพื่อไม่ให้ผู้ใช้สามารถหาวิธีลบบัญชีออกได้โดยง่าย JustDeleteMe ต้องการจะสร้างรายการurlเพื่อให้คุณสามารถลบบัญชีเหล่านี้ได้อย่างง่ายดาย",
+    "whatisthis2": "มีวิธีการลบบัญชีที่อยากจะเพิ่มเติม? <a href='https://github.com/jdm-contrib/jdm'>ForkโครงการจากGitHubสิ</a>."
 }

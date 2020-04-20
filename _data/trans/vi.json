@@ -1,4 +1,5 @@
 {
+    "about": "About",
     "difficulty": "mức độ",
     "difficulty_easy": "dễ",
     "difficulty_hard": "khó",
@@ -6,9 +7,11 @@
     "difficulty_medium": "trung bình",
     "extension": "Tiện ích cho Google Chrome",
     "extensionguide": "Hướng dẫn dùng Tiện ích",
-    "extensionp1": "Người bạn tốt của chúng tôi <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> đã giúp chúng tôi phát hành tiện ích cho Google Chrome của JustDeleteMe.",
+    "extensionp1": "Người bạn tốt của chúng tôi <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> đã giúp chúng tôi phát hành tiện ích cho Google Chrome của JustDeleteMe.",
     "extensionp2": "Khi bạn truy cập một trang web đã được liệt kê tại JustDeleteMe, tiện ích Chrome sẽ hiện một dấu chấm nhỏ trên thanh đường dẫn. Nhấn vào dấu chấm này sẽ đưa bạn tới trang xóa tài khoản.",
-    "extensionp3": "Để cài đặt, hãy truy cập <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Cửa hàng tiện ích của Google Chrome</a>.",
+    "extensionp3": "Để cài đặt, hãy truy cập <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Cửa hàng tiện ích của Google Chrome</a>.",
+    "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
+    "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide": "Hướng dẫn",
     "guideeasy": "Chỉ cần một vài thao tác đơn giản",
     "guideexplanations": "Những đường dẫn trên được đánh dấu bằng màu theo độ khó của việc xóa tài khoản:",
@@ -18,12 +21,15 @@
     "hideinfo": "ẩn thông tin...",
     "name": "Tiếng Việt",
     "noinfo": "Không có thông tin",
+    "noresults": "Can't find what you're looking for? <a href='https://github.com/jdm-contrib/jdm'>Help make JustDeleteMe better</a>.",
     "popular": "Popular",
+    "reset": "Reset",
     "sendmail": "Gửi email",
     "showinfo": "xem thông tin...",
     "tagline": "Danh mục những đường dẫn giúp bạn xóa tài khoản khỏi các dịch vụ web.",
     "title": "Just Delete Me | Danh mục những đường dẫn giúp bạn xóa tài khoản khỏi các dịch vụ web.",
+    "twitter": "Tweet JDM",
     "whatisthis": "Đây là gì?",
-    "whatisthis1": "Nhiều tổ chức dùng thuật toán <a href=\"https://darkpatterns.org/\">dark pattern</a> làm người dùng khó có thể tìm ra cách xóa hoàn toàn tài khoản của họ. JustDeleteMe được tạo ra nhằm cung cấp những đường dẫn giúp bạn xóa bỏ tài khoản của mình khỏi các dịch vụ web.",
-    "whatisthis2": "Bạn nghĩ nên bổ sung đường dẫn cho một dịch vụ mới? <a href=\"https://github.com/jdm-contrib/jdm\">Gia nhập dự án trên GitHub</a>."
+    "whatisthis1": "Nhiều tổ chức dùng thuật toán <a href='https://darkpatterns.org'>dark pattern</a> làm người dùng khó có thể tìm ra cách xóa hoàn toàn tài khoản của họ. JustDeleteMe được tạo ra nhằm cung cấp những đường dẫn giúp bạn xóa bỏ tài khoản của mình khỏi các dịch vụ web.",
+    "whatisthis2": "Bạn nghĩ nên bổ sung đường dẫn cho một dịch vụ mới? <a href='https://github.com/jdm-contrib/jdm'>Gia nhập dự án trên GitHub</a>."
 }

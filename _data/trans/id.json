@@ -1,4 +1,5 @@
 {
+    "about": "About",
     "difficulty": "kesulitan",
     "difficulty_easy": "mudah",
     "difficulty_hard": "sulit",
@@ -6,9 +7,11 @@
     "difficulty_medium": "sedang",
     "extension": "Ekstensi Google Chrome",
     "extensionguide": "Ekstensi Dot Petunjuk",
-    "extensionp1": "Teman baik kami <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> telah membantu kami merilis Ekstensi Google Chrome untuk JustDeleteMe.",
+    "extensionp1": "Teman baik kami <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> telah membantu kami merilis Ekstensi Google Chrome untuk JustDeleteMe.",
     "extensionp2": "Ketika Anda berada di website yang terdaftar di JustDeleteMe, Ekstensi Chrome akan menambahkan titik kecil di omnibar. Klik titik ini akan membawa Anda ke halaman penghapusan yang relevan.",
-    "extensionp3": "Untuk menginstall, masuk ke <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+    "extensionp3": "Untuk menginstall, masuk ke <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
+    "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
+    "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide": "Petunjuk",
     "guideeasy": "Proses simpel",
     "guideexplanations": "Warna tautan di atas menunjukkan level kesulitan akun yang akan dihapus:",
@@ -18,12 +21,15 @@
     "hideinfo": "sembunyikan info...",
     "name": "Bahasa Indonesia",
     "noinfo": "Info Tidak Tersedia",
+    "noresults": "Can't find what you're looking for? <a href='https://github.com/jdm-contrib/jdm'>Help make JustDeleteMe better</a>.",
     "popular": "Popular",
+    "reset": "Reset",
     "sendmail": "Kirim email",
     "showinfo": "lihat info...",
     "tagline": "Direktori yang berisi tautan untuk menghapus akun dari layanan web.",
     "title": "Just Delete Me | Direktori yang berisi tautan untuk menghapus akun dari layanan web.",
+    "twitter": "Tweet JDM",
     "whatisthis": "Apa ini?",
-    "whatisthis1": "Beberapa perusahaan menggunakan teknik <a href=\"https://darkpatterns.org/\">dark pattern</a> untuk mempersulit cara penghapusan akun. JustDeleteMe bertujuan menyediakan tautan untuk mempermudah anda menemukan cara menghapus akun dari layanan web.",
-    "whatisthis2": "Punya situs yang Anda pikir harus ditambahkan? <a href=\"https://github.com/jdm-contrib/jdm\">Fork proyek di Github</a>."
+    "whatisthis1": "Beberapa perusahaan menggunakan teknik <a href='https://darkpatterns.org'>dark pattern</a> untuk mempersulit cara penghapusan akun. JustDeleteMe bertujuan menyediakan tautan untuk mempermudah anda menemukan cara menghapus akun dari layanan web.",
+    "whatisthis2": "Punya situs yang Anda pikir harus ditambahkan? <a href='https://github.com/jdm-contrib/jdm'>Fork proyek di Github</a>."
 }

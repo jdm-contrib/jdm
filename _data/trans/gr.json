@@ -1,4 +1,5 @@
 {
+    "about": "About",
     "difficulty": "δυσκολία",
     "difficulty_easy": "εύκολο",
     "difficulty_hard": "δύσκολο",
@@ -6,9 +7,11 @@
     "difficulty_medium": "μεσαίο",
     "extension": "Πρόσθετο Google Chrome",
     "extensionguide": "Πρόσθετο Οδηγού Κουκίδας",
-    "extensionp1": "Ο καλός μας φίλος <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> μας έχει βοηθήσει να θέσουμε σε κυκλοφορία ένα καταπληκτικό πρόσθετο του Google Chrome για το JustDeleteMe.",
+    "extensionp1": "Ο καλός μας φίλος <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> μας έχει βοηθήσει να θέσουμε σε κυκλοφορία ένα καταπληκτικό πρόσθετο του Google Chrome για το JustDeleteMe.",
     "extensionp2": "Όταν βρίσκεστε σε μια ιστοσελίδα που είναι καταχωρημένη στο JustDeleteMe, το πρόσθετο του Chrome θα προσθέτει μια μικρή κουκίδα στην μπάρα εργασίας. Κάνοντας κλίκ σε αυτή τη κουκίδα, θα οδηγηθείτε στην σχετική σελίδα διαγραφής.",
-    "extensionp3": "Για να το εγκαταστήσετε, απλά πηγαίνετε στο <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+    "extensionp3": "Για να το εγκαταστήσετε, απλά πηγαίνετε στο <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
+    "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
+    "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide": "Οδηγός",
     "guideeasy": "Απλή διαδικασία",
     "guideexplanations": "Οι παραπάνω σύνδεσμοι είναι προγραμματισμένοι με χρώμα για να προσδιορίσουν το επίπεδο δυσκολίας σχετικά με την διαγραφή του λογαριασμού:",
@@ -18,12 +21,15 @@
     "hideinfo": "Απόκρυψη Πληροφοριών...",
     "name": "Ελληνικά",
     "noinfo": "Δεν υπάρχουν διαθέσιμες πληροφορίες",
+    "noresults": "Can't find what you're looking for? <a href='https://github.com/jdm-contrib/jdm'>Help make JustDeleteMe better</a>.",
     "popular": "Δημοφιλή",
+    "reset": "Reset",
     "sendmail": "Στείλτε email",
     "showinfo": "Εμφάνιση πληροφοριών...",
     "tagline": "Ένας κατάλογος άμεσων συνδέσμων για την διαγραφή του λογαριασμού σας από υπηρεσίες στο διαδίκτυο.",
     "title": "Just Delete Me | Ένας κατάλογος άμεσων συνδέσμων για την διαγραφή του λογαριασμού σας από υπηρεσίες στο διαδίκτυο.",
+    "twitter": "Tweet JDM",
     "whatisthis": "Τι είναι αυτό?",
-    "whatisthis1": "Πολλές εταιρείες χρησιμοποιούν <a href=\"https://darkpatterns.org/\">dark pattern</a> τεχνικές προκειμένου να δυσκολευτείτε να βρείτε πως γίνεται η διαγραφή του λογαριασμού σας. Το JustDeleteMe έχει στόχο να είναι ένας κατάλογος με συνδέσμους, για να μπορείτε να διαγράψετε εύκολα τον λογαριασμό σας από διάφορες υπηρεσίες διαδικτύου.",
-    "whatisthis2": "Έχετε υπ’οψιν μια ιστοσελίδα που θα έπρεπε να προστεθεί? <a href=\"https://github.com/jdm-contrib/jdm\">Προωθήστε το project στο GitHub</a>."
+    "whatisthis1": "Πολλές εταιρείες χρησιμοποιούν <a href='https://darkpatterns.org'>dark pattern</a> τεχνικές προκειμένου να δυσκολευτείτε να βρείτε πως γίνεται η διαγραφή του λογαριασμού σας. Το JustDeleteMe έχει στόχο να είναι ένας κατάλογος με συνδέσμους, για να μπορείτε να διαγράψετε εύκολα τον λογαριασμό σας από διάφορες υπηρεσίες διαδικτύου.",
+    "whatisthis2": "Έχετε υπ’οψιν μια ιστοσελίδα που θα έπρεπε να προστεθεί? <a href='https://github.com/jdm-contrib/jdm'>Προωθήστε το project στο GitHub</a>."
 }

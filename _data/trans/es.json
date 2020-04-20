@@ -1,4 +1,5 @@
 {
+    "about": "About",
     "difficulty": "dificultad",
     "difficulty_easy": "fácil",
     "difficulty_hard": "difícil",
@@ -6,9 +7,11 @@
     "difficulty_medium": "media",
     "extension": "Extensión para Google Chrome",
     "extensionguide": "Guía del Punto de la extensión",
-    "extensionp1": "Nuestro buen amigo <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> nos ha ayudado a lanzar esta increíble extensión de Google Chrome para JustDeleteMe.",
+    "extensionp1": "Nuestro buen amigo <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> nos ha ayudado a lanzar esta increíble extensión de Google Chrome para JustDeleteMe.",
     "extensionp2": "Si entras a una web identificada por JustDeleteMe, la extensión te mostrará un punto a la omnibar. Haciendo clic a ese punto, te llevará directamente a la página para borrar tu cuenta.",
-    "extensionp3": "Para instalarla, entre en la <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+    "extensionp3": "Para instalarla, entre en la <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
+    "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
+    "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide": "Guía",
     "guideeasy": "Proceso simple",
     "guideexplanations": "Los enlaces de la parte superior se han clasificado con un código de colores para indicar la dificultad para suprimir la cuenta:",
@@ -18,12 +21,15 @@
     "hideinfo": "esconder información",
     "name": "Español",
     "noinfo": "No hay información disponible",
+    "noresults": "Can't find what you're looking for? <a href='https://github.com/jdm-contrib/jdm'>Help make JustDeleteMe better</a>.",
     "popular": "Popular",
+    "reset": "Reset",
     "sendmail": "Enviar e-mail",
     "showinfo": "mostrar información",
     "tagline": "Un directorio de enlaces directos para eliminar sus cuentas en la web",
     "title": "Just Delete Me | Un directorio de enlaces directos para eliminar sus cuentas de los diferentes servicios de internet.",
+    "twitter": "Tweet JDM",
     "whatisthis": "¿Qué es esto?",
-    "whatisthis1": "Numerosas empresas usan una técnica llamada <a href=\"https://darkpatterns.org/\">dark pattern</a> para dificultar la eliminación de cuentas de usuario en sus servicios web. JustDeleteMe busca ser un directorio donde centralizar los enlaces para eliminar fácilmente sus cuentas online.",
-    "whatisthis2": "Crees que se podría poner algún otro servicio web más en la lista? <a href=\"https://github.com/jdm-contrib/jdm\">Haz un Fork del proyecto en GitHub.</a>"
+    "whatisthis1": "Numerosas empresas usan una técnica llamada <a href='https://darkpatterns.org'>dark pattern</a> para dificultar la eliminación de cuentas de usuario en sus servicios web. JustDeleteMe busca ser un directorio donde centralizar los enlaces para eliminar fácilmente sus cuentas online.",
+    "whatisthis2": "Crees que se podría poner algún otro servicio web más en la lista? <a href='https://github.com/jdm-contrib/jdm'>Haz un Fork del proyecto en GitHub.</a>"
 }

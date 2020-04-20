@@ -1,4 +1,5 @@
 {
+    "about": "About",
     "difficulty": "难度分级",
     "difficulty_easy": "简单",
     "difficulty_hard": "困难",
@@ -6,9 +7,11 @@
     "difficulty_medium": "一般",
     "extension": "Google Chrome 扩展程序",
     "extensionguide": "扩展程序微指南",
-    "extensionp1": "我们的好朋友 <a target=\"_blank\" href=\"https://mikerogers.io\">Mike Rogers</a> 协助我们给JustDeleteMe制作了一个好用的Google Chrome 扩展程序.",
+    "extensionp1": "我们的好朋友 <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> 协助我们给JustDeleteMe制作了一个好用的Google Chrome 扩展程序.",
     "extensionp2": "当你访问已被JustDeleteMe收录的网站时, 这个Chrome 扩展程序将会在全导航栏中添加一个小圆点. 点击小圆点就能跳转到注销页面.",
-    "extensionp3": "安装, 点击前往 <a target=\"_blank\" href=\"https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf\">Chrome Web Store</a>.",
+    "extensionp3": "安装, 点击前往 <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
+    "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
+    "fork": "Fork&nbsp;on&nbsp;GitHub",
     "guide": "指南",
     "guideeasy": "简单操作",
     "guideexplanations": "上述链接的不同颜色表明帐号注销的难度分级:",
@@ -18,12 +21,15 @@
     "hideinfo": "收起信息...",
     "name": "简体中文",
     "noinfo": "无可用信息",
+    "noresults": "Can't find what you're looking for? <a href='https://github.com/jdm-contrib/jdm'>Help make JustDeleteMe better</a>.",
     "popular": "Popular",
+    "reset": "Reset",
     "sendmail": "发送 email",
     "showinfo": "查看信息...",
     "tagline": "Web服务帐号注销链接的目录.",
     "title": "Just Delete Me | Web服务帐号注销链接的目录.",
+    "twitter": "Tweet JDM",
     "whatisthis": "这是什么?",
-    "whatisthis1": "很多公司在使用 <a href=\"https://darkpatterns.org/\">dark patterns</a> 技术, 使得找出注销帐号方法变得很困难. JustDeleteMe旨在成为一个链接目录, 帮助你更容易注销web服务帐号.",
-    "whatisthis2": "想添加网站? <a href=\"https://github.com/jdm-contrib/jdm\">Fork the project on GitHub</a>."
+    "whatisthis1": "很多公司在使用 <a href='https://darkpatterns.org'>dark patterns</a> 技术, 使得找出注销帐号方法变得很困难. JustDeleteMe旨在成为一个链接目录, 帮助你更容易注销web服务帐号.",
+    "whatisthis2": "想添加网站? <a href='https://github.com/jdm-contrib/jdm'>Fork the project on GitHub</a>."
 }
