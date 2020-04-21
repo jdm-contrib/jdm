@@ -11,7 +11,7 @@
     "extensionp2": "When you are on a website that is listed on JustDeleteMe, the Chrome Extension will add a small dot to the omnibar. Clicking on this dot will take you to the relevant delete page.",
     "extensionp3": "To install it, simply proceed to the <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footer": "Made by <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, and the <a href='https://github.com/jdm-contrib'>JDM Contrib Team</a> | Fork on <a href='https://github.com/jdm-contrib/jdm'>GitHub</a>",
-    "fork": "Fork&nbsp;on&nbsp;GitHub",
+    "fork": "Fork on GitHub",
     "guide": "Guide",
     "guideeasy": "Simple process",
     "guideexplanations": "The links above are colour-coded to indicate the difficulty level of account deletion:",
