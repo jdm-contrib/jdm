@@ -8581,6 +8581,16 @@
     },
 
     {
+        "name": "Zoom",
+        "url": "https://zoom.us/account",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to account settings, click cancel account. Confirm at the dialog box.",
+        "domains": [
+            "zoom.us"
+        ]
+    },
+
+    {
         "name": "Zynga",
         "url": "https://zynga.com/privacy/faqs",
         "difficulty": "hard",
