@@ -8198,6 +8198,15 @@
     },
 
     {
+        "name": "Wedbio",
+        "url": "https://wedbio.com/#contact",
+        "difficulty": "hard",
+        "notes": "You have to contact them via the \"contact us form\" to get your account closed.",
+        "domains": [
+            "wedbio.com"
+        ]
+    },
+    {
         "name": "Weebly",
         "url": "https://www.weebly.com/home/account/payment",
         "difficulty": "easy",
