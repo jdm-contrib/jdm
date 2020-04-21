@@ -2450,6 +2450,22 @@
     },
 
     {
+        "name": "Expedia",
+        "url": "https://www.expedia.com/service/#/articles/396/25/12395",
+        "url_de": "https://www.expedia.de/service/#/articles/1067/1017/23667",
+        "url_fr": "https://www.expedia.fr/service/#/articles/1044/25/23514",
+        "difficulty": "hard",
+        "notes": "Contact support via the live chat or the contact form and request the deletion of your account.",
+        "notes_de": "Kontaktiere den Support über den Live Chat oder das Kontaktformular und fordere die Löschung deines Kontos.",
+        "domains": [
+            "expedia.com",
+            "expedia.co.uk",
+            "expedia.de",
+            "expedia.fr"
+        ]
+    },
+
+    {
         "name": "Experian",
         "url": "https://www.experiandirect.com/triplealert/Message.aspx?PageTypeID=FAQ&WT.svl=faq&SiteVersionID=473&SiteID=100173&sc=657900&bcd=",
         "difficulty": "hard",
