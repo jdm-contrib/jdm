@@ -1491,7 +1491,7 @@
 
     {
         "name": "Comment ça marche",
-        "url": "https://www.commentcamarche.net/communaute/remove.php3",
+        "url": "http://www.commentcamarche.net/communaute/remove.php3",
         "difficulty": "medium",
         "notes": "Your messages will remain on the forums.",
         "notes_fr": "Vos messages seront guardés.",
@@ -7213,7 +7213,7 @@
 
     {
         "name": "StepMap",
-        "url": "https://www.stepmap.de/profil.php",
+        "url": "http://www.stepmap.de/profil.php",
         "difficulty": "hard",
         "notes": "To delete your StepMap account, let us know by sending an e-mail with info@stepmap.de and enter your username. The sender address must be your e-mail address that you have subscribed to at StepMap.",
         "notes_de": "Um Deinen StepMap-Account zu löschen, teile uns dies bitte per E-Mail an info@stepmap.de mit und nenne uns Deinen Benutzernamen. Die Absenderadresse muss Deine E-Mail-Adresse sein, mit der Du Dich bei StepMap angemeldet hast.",
@@ -7819,7 +7819,7 @@
 
     {
         "name": "Udacity",
-        "url": "https://forums.udacity.com/answer_link/100044663/",
+        "url": "http://forums.udacity.com/answer_link/100044663/",
         "difficulty": "impossible",
         "notes": "A Udacity employee recommends that you stop using the account, which means there's currently no way of deleting the account.",
         "notes_fr": "Udacity recommande à arrêter votre usage du compte, qui veut dire qu'il n'y a pas de façon de supprimer le compte en ce moment.",
@@ -8266,7 +8266,7 @@
 
     {
         "name": "WhoSay.com",
-        "url": "https://www.whosay.com/settings",
+        "url": "http://www.whosay.com/settings",
         "difficulty": "easy",
         "notes": "Just click 'Deactivate'.",
         "notes_fa": "فقط روی 'Deactivate' کلیک کنید.",
