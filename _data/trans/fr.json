@@ -12,6 +12,7 @@
     "extensionp3": "Pour l'installer, rendez-vous simplement sur le <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Forkez le projet sur GitHub",
     "guide": "Guide",
     "guideeasy": "Processus simple",
     "guideexplanations": "Les liens ci-dessus utilisent un code-couleur pour indiquer le niveau de difficulté de la suppression de compte :",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "Qu'est-ce que c'est ?",
     "whatisthis1": "De nombreuses companies utilisent des techniques appelées <a href='https://darkpatterns.org'>dark patterns (lien en anglais)</a> pour qu'il soit difficile de trouver comment supprimer votre compte. JustDeleteMe veut devenir un annuaire de liens qui vous permette de supprimer facilement vos comptes de différents sites webs.",
-    "whatisthis2": "Vous pensez qu'un site devrait-être ajouté ? <a href='https://github.com/jdm-contrib/jdm'>Forkez le projet sur GitHub</a>."
+    "whatisthis2": "Vous pensez qu'un site devrait-être ajouté ?"
 }

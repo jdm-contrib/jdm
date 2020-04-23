@@ -12,6 +12,7 @@
     "extensionp3": "要安裝它，只需進入到 <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome 線上應用程式商店</a>。",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Fork the project on GitHub",
     "guide": "指南",
     "guideeasy": "簡易操作",
     "guideexplanations": "上述連結不同的顏色用以表示刪除帳號的難易程度：",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "這是什麼?",
     "whatisthis1": "許多公司使用 <a href='https://darkpatterns.org'>dark pattern</a> 技術，使得很難找到如何刪除你的帳號。 JustDeleteMe 的目標是成為一個網址的目錄，使你能夠輕鬆地從網路服務中刪除帳戶。",
-    "whatisthis2": "想新增網站？ <a href='https://github.com/jdm-contrib/jdm'>Fork the project on GitHub</a>."
+    "whatisthis2": "想新增網站？"
 }

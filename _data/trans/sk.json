@@ -12,6 +12,7 @@
     "extensionp3": "Ak si chcete nainštalovať rozšírenie jednoducho choďte na stránku <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Obchodu</a>.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Forkni projekt na GitHub-e",
     "guide": "Návod",
     "guideeasy": "Jednoduchý proces",
     "guideexplanations": "Linky hore sú farebne rozlíšené podľa obtiažnosti vymazania:",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "O čom je tento projekt?",
     "whatisthis1": "Mnoho spoločností používa <a href='https://darkpatterns.org'>nekalé praktiky</a>, aby urobili vymazanie účtu náročnejšie. JustDeleteMe má za cieľ byť zoznamom odkazov, ktoré vám umožnia jednoducho vymazať váš účet z internetových služieb.",
-    "whatisthis2": "Poznáš stránku, ktorá by sa tu mala nachádzať? <a href='https://github.com/jdm-contrib/jdm'>Forkni projekt na GitHub-e</a>."
+    "whatisthis2": "Poznáš stránku, ktorá by sa tu mala nachádzať?"
 }

@@ -12,6 +12,7 @@
     "extensionp3": "Để cài đặt, hãy truy cập <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Cửa hàng tiện ích của Google Chrome</a>.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Gia nhập dự án trên GitHub",
     "guide": "Hướng dẫn",
     "guideeasy": "Chỉ cần một vài thao tác đơn giản",
     "guideexplanations": "Những đường dẫn trên được đánh dấu bằng màu theo độ khó của việc xóa tài khoản:",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "Đây là gì?",
     "whatisthis1": "Nhiều tổ chức dùng thuật toán <a href='https://darkpatterns.org'>dark pattern</a> làm người dùng khó có thể tìm ra cách xóa hoàn toàn tài khoản của họ. JustDeleteMe được tạo ra nhằm cung cấp những đường dẫn giúp bạn xóa bỏ tài khoản của mình khỏi các dịch vụ web.",
-    "whatisthis2": "Bạn nghĩ nên bổ sung đường dẫn cho một dịch vụ mới? <a href='https://github.com/jdm-contrib/jdm'>Gia nhập dự án trên GitHub</a>."
+    "whatisthis2": "Bạn nghĩ nên bổ sung đường dẫn cho một dịch vụ mới?"
 }

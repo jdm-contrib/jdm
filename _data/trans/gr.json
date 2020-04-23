@@ -12,6 +12,7 @@
     "extensionp3": "Για να το εγκαταστήσετε, απλά πηγαίνετε στο <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Προωθήστε το project στο GitHub",
     "guide": "Οδηγός",
     "guideeasy": "Απλή διαδικασία",
     "guideexplanations": "Οι παραπάνω σύνδεσμοι είναι προγραμματισμένοι με χρώμα για να προσδιορίσουν το επίπεδο δυσκολίας σχετικά με την διαγραφή του λογαριασμού:",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "Τι είναι αυτό?",
     "whatisthis1": "Πολλές εταιρείες χρησιμοποιούν <a href='https://darkpatterns.org'>dark pattern</a> τεχνικές προκειμένου να δυσκολευτείτε να βρείτε πως γίνεται η διαγραφή του λογαριασμού σας. Το JustDeleteMe έχει στόχο να είναι ένας κατάλογος με συνδέσμους, για να μπορείτε να διαγράψετε εύκολα τον λογαριασμό σας από διάφορες υπηρεσίες διαδικτύου.",
-    "whatisthis2": "Έχετε υπ’οψιν μια ιστοσελίδα που θα έπρεπε να προστεθεί? <a href='https://github.com/jdm-contrib/jdm'>Προωθήστε το project στο GitHub</a>."
+    "whatisthis2": "Έχετε υπ’οψιν μια ιστοσελίδα που θα έπρεπε να προστεθεί?"
 }

@@ -12,6 +12,7 @@
     "extensionp3": "Да бисте га инсталирали, идите на <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome веб-продавницу</a>.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Форкујте пројекат на Гитхабу",
     "guide": "Водич",
     "guideeasy": "једноставан процес",
     "guideexplanations": "Везе изнад су означене бојама да би приказале ниво тешкоће брисања налога:",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "Шта је ово?",
     "whatisthis1": "Многе компаније користе технике <a href='https://darkpatterns.org'>тамног шаблона</a> да би вам отежале брисање ваших налога. JustDeleteMe има за циљ да буде директоријум веза које ће вам олакшати брисање ваших налога са веб сервиса.",
-    "whatisthis2": "Имате сајт за додати? <a href='https://github.com/jdm-contrib/jdm'>Форкујте пројекат на Гитхабу</a>."
+    "whatisthis2": "Имате сајт за додати?"
 }

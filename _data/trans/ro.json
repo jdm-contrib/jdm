@@ -12,6 +12,7 @@
     "extensionp3": "Pentru a instala extensia intră pe <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Vezi informațiile necesare pe GitHub",
     "guide": "Ghid",
     "guideeasy": "Simplu de șters",
     "guideexplanations": "Linkurile sunt colorate pentru a arăta dificultatea cu care îți poți șterge contul pe respectivul site:",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "Despre proiect",
     "whatisthis1": "Multe companii folosesc tehnica <a href='https://darkpatterns.org'>dark pattern</a> pentru a face cât mai greu procesul de ștergere al contului. JustDeleteMe se dorește a fi un site care te va ajuta să pierzi cât mai puțin timp în cazul în care dorești să ștergi un cont online.",
-    "whatisthis2": "Vrei să apară și alte siteuri? Vezi informațiile necesare <a href='https://github.com/jdm-contrib/jdm'>pe GitHub</a>."
+    "whatisthis2": "Vrei să apară și alte siteuri?"
 }

@@ -12,6 +12,7 @@
     "extensionp3": "Для того чтобы установить расширение, просто перейдите в <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footercredits": "Создано",
     "fork": "Форкнуть на GitHub",
+    "forkproject": "Форкнуть проект на GitHub",
     "guide": "Руководство",
     "guideeasy": "Простой процесс",
     "guideexplanations": "Сслыки выше выделены цветом, для обозначения уровня сложности удаления аккаунта:",
@@ -32,5 +33,5 @@
     "twitter": "Твитнуть о JDM",
     "whatisthis": "Что это?",
     "whatisthis1": "Многие компании используют технологию <a href='https://darkpatterns.org'>dark pattern</a> для того, чтобы усложнить процесс удаления аккаунта. Каталог ссылок JustDeleteMe призван помочь вам с легкостью удалить аккаунт с веб-сайта",
-    "whatisthis2": "Есть сайт, который необходимо добавить? <a href='https://github.com/jdm-contrib/jdm'>Форкнуть проект на GitHub</a>."
+    "whatisthis2": "Есть сайт, который необходимо добавить?"
 }

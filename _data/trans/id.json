@@ -12,6 +12,7 @@
     "extensionp3": "Untuk menginstall, masuk ke <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Fork proyek di Github",
     "guide": "Petunjuk",
     "guideeasy": "Proses simpel",
     "guideexplanations": "Warna tautan di atas menunjukkan level kesulitan akun yang akan dihapus:",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "Apa ini?",
     "whatisthis1": "Beberapa perusahaan menggunakan teknik <a href='https://darkpatterns.org'>dark pattern</a> untuk mempersulit cara penghapusan akun. JustDeleteMe bertujuan menyediakan tautan untuk mempermudah anda menemukan cara menghapus akun dari layanan web.",
-    "whatisthis2": "Punya situs yang Anda pikir harus ditambahkan? <a href='https://github.com/jdm-contrib/jdm'>Fork proyek di Github</a>."
+    "whatisthis2": "Punya situs yang Anda pikir harus ditambahkan?"
 }

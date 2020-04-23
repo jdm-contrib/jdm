@@ -12,6 +12,7 @@
     "extensionp3": "Yüklemek için, sadece <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Mağzası</a>'na girin.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "GitHub projesini fork'layın",
     "guide": "Rehber",
     "guideeasy": "Basit işlem",
     "guideexplanations": "Yukardaki bağlantılar bağlantı silme zorluğunu göstermek için renk-kodludur:",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "Bu nedir?",
     "whatisthis1": "Çoğu şirket <a href='https://darkpatterns.org'>dark pattern</a> tekniklerini kullanarak hesabınızı silmenizi zorlaştırıyor. JustDeleteMe kolayca web hizmetlerinizden hesabınızı silmek için bir bağlantı dizini olmayı hedeflemektedir.",
-    "whatisthis2": "Bu liste'ye eklenmesi gereken bir site biliyor musunuz? <a href='https://github.com/jdm-contrib/jdm'>GitHub projesini fork'layın</a>."
+    "whatisthis2": "Bu liste'ye eklenmesi gereken bir site biliyor musunuz?"
 }

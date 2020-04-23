@@ -12,6 +12,7 @@
     "extensionp3": "Per instal·lar-la, entra a la <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Fes un Fork del projecte a GitHub",
     "guide": "Guia",
     "guideeasy": "Procés simple",
     "guideexplanations": "Els enllaços de la part superior s'han classificat amb un codi de colors per indicar la dificultat per suprimir el compte:",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "Que es això?",
     "whatisthis1": "Nombroses companyies usen una técnica anomenada <a href='https://darkpatterns.org'>dark pattern</a> per dificultar l'eliminació dels comptes d'usuari als seus serveis online. JustDeleteMe busca ser un directori on centralitzar els enllaços per eliminar facilment les vostres comptes de la web.",
-    "whatisthis2": "Creus que es podría posar algun altre servei web a la llista? <a href='https://github.com/jdm-contrib/jdm'>Fes un Fork del projecte a GitHub.</a>"
+    "whatisthis2": "Creus que es podría posar algun altre servei web a la llista?"
 }

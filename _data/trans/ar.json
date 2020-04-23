@@ -12,6 +12,7 @@
     "extensionp3":"للثتبيث من هنا <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": " تابع المشروع على جيت هاب",
     "guide":"الدليل",
     "guideeasy":"عملية سهلة",
     "guideexplanations":"الرصلات ملونة لتعلم المتصفح بمستوى صعوبة حذف حسابك في المواقع المدرجة",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis":"ما هذا ؟",
     "whatisthis1":" مجموعة من المواقع تستعمل تقنيات تسمى <a href='https://darkpatterns.org'>dark pattern</a> لتصعب عملية حذف الحساب الخاص بك. JustDeleteMe يريد ان يصبح دليلا لوصلات تسهل عملية الحذف.",
-    "whatisthis2":"هل تعتقد آن هنالك موقع يجب اضافته ؟ <a href='https://github.com/jdm-contrib/jdm'> تابع المشروع على جيت هاب</a>"
+    "whatisthis2":"هل تعتقد آن هنالك موقع يجب اضافته ؟ "
 }

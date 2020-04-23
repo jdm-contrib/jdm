@@ -12,6 +12,7 @@
     "extensionp3": "Ga naar de <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a> om te installeren.",
     "footercredits": "Made by",
     "fork": "Fork on GitHub",
+    "forkproject": "Fork het project op GitHub",
     "guide": "Gids",
     "guideeasy": "Eenvoudig proces",
     "guideexplanations": "De links hierboven zijn kleur-gecodeerd om de moeilijkheidsgraad voor account verwijdering aan te geven:",
@@ -32,5 +33,5 @@
     "twitter": "Tweet JDM",
     "whatisthis": "Wat is dit?",
     "whatisthis1": "Veel bedrijven gebruiken <a href='https://darkpatterns.org'>dark pattern</a> technieken om het moeilijk te maken te achterhalen hoe jej jouw account kunt verwijderen. JustDeleteMe poogt een verzameling urls te maken om het makkelijk te maken om jouw account te verwijderen van een web dienst.",
-    "whatisthis2": "Heb je een site die je toe wilt voegen? <a href='https://github.com/jdm-contrib/jdm'>Fork het project op GitHub</a>."
+    "whatisthis2": "Heb je een site die je toe wilt voegen?"
 }
