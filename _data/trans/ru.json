@@ -10,7 +10,7 @@
     "extensionp1": "Наш хороший друг <a target='_blank' href='https://mikerogers.io'>Mike Rogers</a> помог нам выпустить прекрасное расширение JustDeleteMe для Google Chrome.",
     "extensionp2": "Когда вы зайдёте на сайт, который есть в списке JustDeleteMe, расширение добавит маленькую точку в адресную строку. Кликнув на эту точку, вы попадете на подходящую страницу для удаления.",
     "extensionp3": "Для того чтобы установить расширение, просто перейдите в <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>Chrome Web Store</a>.",
-    "footer": "Создано <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, и <a href='https://github.com/jdm-contrib'>Команодй поддержки JDM</a>",
+    "footercredits": "Создано <a href='https://robblewis.me'>Robb Lewis</a>, <a href='https://github.com/edpoole'>Ed Poole</a>, и <a href='https://github.com/jdm-contrib'>Команодй поддержки JDM</a>",
     "fork": "Форкнуть на GitHub",
     "guide": "Руководство",
     "guideeasy": "Простой процесс",
