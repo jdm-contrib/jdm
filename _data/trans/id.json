@@ -36,6 +36,8 @@
     "title": "Just Delete Me | Direktori yang berisi tautan untuk menghapus akun dari layanan web.",
     "twitter": "Tweet JDM",
     "whatisthis": "Apa ini?",
-    "whatisthis1": "Beberapa perusahaan menggunakan teknik <a href='https://darkpatterns.org'>dark pattern</a> untuk mempersulit cara penghapusan akun. JustDeleteMe bertujuan menyediakan tautan untuk mempermudah anda menemukan cara menghapus akun dari layanan web.",
+    "whatisthis1": "Beberapa perusahaan menggunakan teknik",
+    "whatisthis2": "dark pattern",
+    "whatisthis3": "untuk mempersulit cara penghapusan akun. JustDeleteMe bertujuan menyediakan tautan untuk mempermudah anda menemukan cara menghapus akun dari layanan web.",
     "whatisthis4": "Punya situs yang Anda pikir harus ditambahkan?"
 }

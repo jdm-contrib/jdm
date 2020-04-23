@@ -36,6 +36,8 @@
     "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
     "twitter": "Tweet JDM",
     "whatisthis": "What is this?",
-    "whatisthis1": "Many companies use <a href='https://darkpatterns.org'>dark pattern</a> techniques to make it difficult to find how to delete your account. JustDeleteMe aims to be a directory of urls to enable you to easily delete your account from web services.",
+    "whatisthis1": "Many companies use",
+    "whatisthis2": "dark pattern",
+    "whatisthis3": "techniques to make it difficult to find how to delete your account. JustDeleteMe aims to be a directory of urls to enable you to easily delete your account from web services.",
     "whatisthis4": "Got a site you think should be added?"
 }

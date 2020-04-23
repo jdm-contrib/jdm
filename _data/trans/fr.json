@@ -36,6 +36,8 @@
     "title": "Just Delete Me | Un annuaire de liens pour supprimer vos comptes de sites webs.",
     "twitter": "Tweet JDM",
     "whatisthis": "Qu'est-ce que c'est ?",
-    "whatisthis1": "De nombreuses companies utilisent des techniques appelées <a href='https://darkpatterns.org'>dark patterns (lien en anglais)</a> pour qu'il soit difficile de trouver comment supprimer votre compte. JustDeleteMe veut devenir un annuaire de liens qui vous permette de supprimer facilement vos comptes de différents sites webs.",
+    "whatisthis1": "De nombreuses companies utilisent des techniques appelées",
+    "whatisthis2": "dark patterns (lien en anglais)",
+    "whatisthis3": "pour qu'il soit difficile de trouver comment supprimer votre compte. JustDeleteMe veut devenir un annuaire de liens qui vous permette de supprimer facilement vos comptes de différents sites webs.",
     "whatisthis4": "Vous pensez qu'un site devrait-être ajouté ?"
 }

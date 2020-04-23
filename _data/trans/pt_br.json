@@ -36,6 +36,8 @@
     "title": "Just Delete Me | Um diretório de links diretos para deletar sua conta em serviços da web.",
     "twitter": "Tweet JDM",
     "whatisthis": "O que é isto?",
-    "whatisthis1": "Diversas companhias usam técnicas <a href='https://darkpatterns.org'>dark pattern</a> para tornar difícil encontrar como deletar sua conta. JustDeleteMe tem por objetivo ser um diretório de urls que tornem fácil a remoção de sua conta em serviços da web.",
+    "whatisthis1": "Diversas companhias usam técnicas",
+    "whatisthis2": "dark pattern",
+    "whatisthis3": "para tornar difícil encontrar como deletar sua conta. JustDeleteMe tem por objetivo ser um diretório de urls que tornem fácil a remoção de sua conta em serviços da web.",
     "whatisthis4": "Sabe de um site que você acha que deve ser adicionado?"
 }
