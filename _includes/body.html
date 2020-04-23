@@ -14,7 +14,7 @@
 
 <main>
     <section class="sites" id="sites">
-        <p class="no-results">{{ site.data.trans[page.lang].noresults }}</p>
+        <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/jdm-contrib/jdm'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
 
         {% for entry in site.data.sites %}
             <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
