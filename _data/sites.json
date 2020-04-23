@@ -1688,7 +1688,7 @@
 
     {
         "name": "Dailymotion",
-        "url": "http://dailymotion.com/settings/delete-account",
+        "url": "https://www.dailymotion.com/settings/delete-account",
         "difficulty": "easy",
         "notes": "Type your password and confirm your action by clicking \"Delete account\".",
         "notes_pt_br": "Digite sua senha e clique em \"Delete account\" para confirmar a exclusão da sua conta.",
@@ -4302,7 +4302,7 @@
     {
         "meta": "popular",
         "name": "LinkedIn",
-        "url": "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
+        "url": "https://www.linkedin.com/help/linkedin/answer/63",
         "difficulty": "medium",
         "notes": "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it.",
         "notes_fr": "Il y a des rapports que LinkedIn continue d'envoyer des e-mails aux gens qui ferment leur compte. Il est bien possible qu'il faudra contactez le support du site pour demander la suppresion de votre compte.",
