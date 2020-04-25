@@ -6,17 +6,26 @@ require 'json'
 
 module ExitCodes
     SUCCESS = 0
-    PARSE_FAILED = 1           # JSON parse errors
-    UNSORTED = 2               # data keys are not in alphanumeric order
-    MISSING_URL = 3            # Entry missing the required 'url' field
-    MISSING_DIFFICULTY = 4     # Entry missing the required 'difficulty' field
-    MISSING_DOMAINS = 5        # Entry missing the required 'domains' field
-    MISSING_NAME = 6           # Entry missing the required 'name' field
-    UNEXPECTED_DIFFICULTY = 7  # Unexpected value for 'difficulty' field
-    UNEXPECTED_LANGUAGE = 8    # Unexpected language code for 'url_code' field
+    PARSE_FAILED = 1               # JSON parse errors
+    UNSORTED = 2                   # data keys are not in alphanumeric order
+    MISSING_URL = 3                # Entry missing the required 'url' field
+    MISSING_DIFFICULTY = 4         # Entry missing the required 'difficulty' field
+    MISSING_DOMAINS = 5            # Entry missing the required 'domains' field
+    MISSING_LANGUAGE_KEYS = 6      # Translation missing required keys
+    MISSING_NAME = 7               # Entry missing the required 'name' field
+    UNEXPECTED_DIFFICULTY = 8      # Unexpected value for 'difficulty' field
+    UNEXPECTED_LANGUAGE = 9        # Unexpected language code for 'url_code' field
+    UNEXPECTED_LANGUAGE_KEY = 10   # Unexpected language key for translation
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "impossible"]
+SupportedLanguageKeys = ["about", "difficulty", "difficulty_easy", "difficulty_hard", "difficulty_impossible",
+                        "difficulty_medium", "extension", "extensionguide", "extensionp1", "extensionp2",
+                        "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits", "fork",
+                        "forkproject", "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible",
+                        "guidemedium", "hideinfo", "mikerogers", "name", "noinfo", "noresults", "noresultshelp",
+                        "popular", "reset", "sendmail", "showinfo", "tagline", "title", "twitter", "whatisthis",
+                        "whatisthis1", "whatisthis2", "whatisthis3", "whatisthis4"]
 
 def get_supported_languages()
     return translation_files = Dir.children('_data/trans/').map { |f| f.delete_suffix('.json') }
@@ -70,23 +79,45 @@ def validate_website_entry(key, i)
     validate_localized_urls(key)
 end
 
+def add_valid_language_key(keys_in_language_json, key, file)
+    if SupportedLanguageKeys.include?(key)
+        keys_in_language_json << key
+    else
+        STDERR.puts "Invalid key '#{key}' for file '#{file}'"
+        exit ExitCodes::UNEXPECTED_LANGUAGE_KEY
+    end
+end
+
+def validate_site_translation(is_sites_json, keys_in_language_json, file)
+    unless is_sites_json
+        unless keys_in_language_json == SupportedLanguageKeys
+            STDERR.puts "Missing language keys in '#{file}': "\
+                        "'#{SupportedLanguageKeys - keys_in_language_json}'"
+            exit ExitCodes::MISSING_LANGUAGE_KEYS
+        end
+    end
+end
+
 json_files = Dir.glob('_data/**/*').select { |f| File.file?(f) }
 json_files.each do |file|
     begin
         json = JSON.parse(File.read(file))
+        is_sites_json = File.basename(file) =~ /sites.json/
+        keys_in_language_json = []
         # check for alphabetical ordering
         json.each_with_index do |(key, _), i|
             # sites.json is an array of objects; this would expand to:
             #   key = { ... }
             #   i = 0
             # hence, the key variable holds the actual value
-            if File.basename(file) =~ /sites.json/
+            if is_sites_json
                 validate_website_entry(key, i)
                 name = get_transformed_name(key)
                 prev_name = get_transformed_name(json[i - 1])
             else
                 name = key
                 prev_name = json.keys[i - 1]
+                add_valid_language_key(keys_in_language_json, key, file)
             end
             if i > 0 && prev_name > name
                 STDERR.puts 'Sorting error in ' + file
@@ -95,6 +126,7 @@ json_files.each do |file|
                 exit ExitCodes::UNSORTED
             end
         end
+        validate_site_translation(is_sites_json, keys_in_language_json, file)
     rescue JSON::ParserError => error
         STDERR.puts 'JSON parsing error encountered!'
         STDERR.puts error.backtrace.join("\n")
