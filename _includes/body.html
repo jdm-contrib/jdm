@@ -14,7 +14,7 @@
 
 <main>
     <section class="sites" id="sites">
-        <p class="no-results">{{ site.data.trans[page.lang].noresults }}</p>
+        <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/jdm-contrib/jdm'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
 
         {% for entry in site.data.sites %}
             <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
@@ -63,8 +63,8 @@
     <div class="info-container">
         <div class="info-block-half">
             <h2>{{ site.data.trans[page.lang].whatisthis }}</h2>
-            <p>{{ site.data.trans[page.lang].whatisthis1|safe }}</p>
-            <p>{{ site.data.trans[page.lang].whatisthis2|safe }}</p>
+            <p>{{ site.data.trans[page.lang].whatisthis1|safe }} <a href='https://darkpatterns.org'>{{ site.data.trans[page.lang].whatisthis2|safe }}</a> {{ site.data.trans[page.lang].whatisthis3|safe }}</p>
+            <p>{{ site.data.trans[page.lang].whatisthis4|safe }} <a href='https://github.com/jdm-contrib/jdm'>{{ site.data.trans[page.lang].forkproject|safe }}</a>.</p>
         </div>
         <div class="info-block-half">
             <h2>{{ site.data.trans[page.lang].guide }}</h2>
@@ -83,9 +83,9 @@
     <div class="banner-content">
         <div class="banner-block-half" id="extension">
             <h2>{{ site.data.trans[page.lang].extension|safe }}</h2>
-            <p>{{ site.data.trans[page.lang].extensionp1|safe }}</p>
-            <p>{{ site.data.trans[page.lang].extensionp2|safe }}</p>
+            <p>{{ site.data.trans[page.lang].extensionp1|safe }} <a target='_blank' href='https://mikerogers.io'>{{ site.data.trans[page.lang].mikerogers|safe }}</a> {{ site.data.trans[page.lang].extensionp2|safe }}</p>
             <p>{{ site.data.trans[page.lang].extensionp3|safe }}</p>
+            <p>{{ site.data.trans[page.lang].extensionp4|safe }} <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>{{ site.data.trans[page.lang].extensionp5|safe }}</a> {{ site.data.trans[page.lang].extensionp6|safe }}.</p>
         </div>
         <div class="banner-block-half">
             <h2>{{ site.data.trans[page.lang].extensionguide|safe }}</h2>
