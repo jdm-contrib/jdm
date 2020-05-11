@@ -540,8 +540,8 @@
     {
         "name": "Autodesk",
         "url": "https://accounts.autodesk.com/Profile/Security",
-        "difficulty": "easy",
-        "notes": "Go to the bottom of the page, click the button 'Account Deletion' and confirm on 'Delete your Autodesk account and data'.",
+        "difficulty": "medium",
+        "notes": "Go to the bottom of the page, click the button 'Account Deletion' and confirm on 'Delete your Autodesk account and data'. Enter your password, then enter a 6-digit code that will be sent to your email and click 'Delete Account'. You can recover the account within 30 days of deleting it. The deletion is completed in 90 days.",
         "domains": [
             "autodesk.com"
         ]
