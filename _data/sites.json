@@ -1049,9 +1049,9 @@
 
     {
         "name": "Buycraft",
-        "url": "https://server.tebex.io/profile/delete",
-        "difficulty": "easy",
-        "notes": "Buycraft was moved to Tebex, just click the 'delete profile' button in your account menu",
+        "url": "https://server.tebex.io",
+        "difficulty": "hard",
+        "notes": "Buycraft was moved to Tebex, contact customer support to request account deletion",
         "domains": [
             "tebex.io"
         ]
@@ -7442,9 +7442,9 @@
 
     {
         "name": "Tebex",
-        "url": "https://server.tebex.io/profile/delete",
-        "difficulty": "easy",
-        "notes": "Just click the 'delete profile' button in your account menu",
+        "url": "https://server.tebex.io",
+        "difficulty": "hard",
+        "notes": "Contact customer support to request account deletion",
         "domains": [
             "tebex.io"
         ]
