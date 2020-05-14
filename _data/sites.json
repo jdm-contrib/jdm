@@ -15,7 +15,7 @@
         "url": "https://000webhost.com/members/profile",
         "difficulty": "easy",
         "notes": "Go to \"Profile > Delete My Account\" and select why you are deleting your account.",
-        "notes_pt_br": "Vá para \"Profile > Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
+        "notes_pt-BR": "Vá para \"Profile > Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
         "domains": [
             "000webhost.com",
             "000webhostapp.com"
@@ -78,8 +78,8 @@
         "notes": "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account.",
         "notes_fr": "Connectez vous, allez dans les parametres, cilquez sur supprimer mon compte. Confirmez en cliquant sur je supprimer mon compte. Et confirmez encore avec supprimer mon compte.",
         "notes_it": "Logga il tuo account, vai su parameters, clicca Delete my account. Conferma cliccando I want to delete my account. E ancora cliccando Delete my 9GAG account.",
-        "notes_pt_br": "Faça login em sua conta, vá em parâmetros, clique em Delete my account. Confirme clicando em I want to delete my account. E novamente em Delete my 9GAG account.",
-        "notes_cat": "Entra al teu compte, ves a paràmetres, fés clic a 'Delete my account'. Confirma clicant a 'I want to delete my account'. I novament a 'Delete my 9GAG account'.",
+        "notes_pt-BR": "Faça login em sua conta, vá em parâmetros, clique em Delete my account. Confirme clicando em I want to delete my account. E novamente em Delete my 9GAG account.",
+        "notes_ca": "Entra al teu compte, ves a paràmetres, fés clic a 'Delete my account'. Confirma clicant a 'I want to delete my account'. I novament a 'Delete my 9GAG account'.",
         "notes_es": "Entra en tu cuenta, ve a parámetros, haz clic en 'Delete my account'. Confirma haciendo clic en 'I want to delete my account'. I de nuevo en 'Delete my 9GAG account'.",
         "notes_pl": "Zaloguj się na swoje konto, przejdź do ustawień, kliknij Delete my account. Potwierdź klikając I want to delete my account. Następnie wprowadź swoje hasło i kliknij Delete my 9GAG account.",
         "domains": [
@@ -151,7 +151,7 @@
         "url": "https://support.adf.ly/hc/en-us/requests/new",
         "difficulty": "hard",
         "notes": "Contact the customer support using the contact form and request the deletion of your account.",
-        "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "notes_pt-BR": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
         "domains": [
             "adf.ly"
         ]
@@ -256,7 +256,7 @@
         "url": "http://alvanista.com/profile/edit",
         "difficulty": "easy",
         "notes": "Follow the link to edit your profile and click cancel account at bottom.",
-        "notes_pt_br": "Use o link de editar o perfil e clique em cancelar conta no fim da página",
+        "notes_pt-BR": "Use o link de editar o perfil e clique em cancelar conta no fim da página",
         "domains": [
             "alvanista.com"
         ]
@@ -267,7 +267,7 @@
         "url": "https://amara.org/profiles/account/",
         "difficulty": "easy",
         "notes": "Just head to the account page and click the red button 'Delete your account' at the bottom left of the page.",
-        "notes_pt_br": "Apenas vá para a página de sua conta e clique no botão 'Delete your account' no canto inferior esquerdo da página.",
+        "notes_pt-BR": "Apenas vá para a página de sua conta e clique no botão 'Delete your account' no canto inferior esquerdo da página.",
         "domains": [
             "amara.org"
         ]
@@ -281,8 +281,8 @@
         "notes_fr": "Pour fermer votre compte, contactez Amazon par mail (par le formulaire de contact) et demandez la fermeture de votre compte.",
         "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
         "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort.",
-        "notes_pt_br": "Para fechar sua conta, contate Amazon por e-mail (usando este modelo de contato) e requira que sua conta seja fechada.",
-        "notes_cat": "Per tancar el seu compte, contacti amb Amazon via e-mail (omplint aquest formulari de contacte) i demanant que es tanqui el seu compte.",
+        "notes_pt-BR": "Para fechar sua conta, contate Amazon por e-mail (usando este modelo de contato) e requira que sua conta seja fechada.",
+        "notes_ca": "Per tancar el seu compte, contacti amb Amazon via e-mail (omplint aquest formulari de contacte) i demanant que es tanqui el seu compte.",
         "notes_es": "Para cerrar tu cuenta, contacta con Amazon via e-mail (rellenando este formulario de contacto) y pidiendo que se cierre tu cuenta.",
         "notes_pl": "Skontakuj się z Amazonem za pomocą formularza kontaktowego i poproś o usunięcie swojego konta.",
         "domains": [
@@ -323,7 +323,7 @@
         "url": "https://androidfilehost.com/?w=contact",
         "difficulty": "hard",
         "notes": "Contact the customer support using the contact form and request the deletion of your account.",
-        "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "notes_pt-BR": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
         "domains": [
             "androidfilehost.com"
         ]
@@ -346,8 +346,8 @@
         "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
         "notes_fr": "ACC ne supprime pas les comptes. Cependant vous pouvez supprimer les informations qui sont dessus et arreter de vous connecter.",
         "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più",
-        "notes_pt_br": "Nós não 'deletamos' ou 'terminamos' contas na ACC. Caso você não queira mais utilizar o site, você pode deletar todas as suas informações pessoas em seu perfil e então parar de logar-se.",
-        "notes_cat": "Nosaltres no 'esborrem' o 'finalitzem' comptes d'ACC. En el cas que no vulgui utilitzar més el lloc, pot esborrar totes les teves dades personals del seu perfil i evitar entrar més.",
+        "notes_pt-BR": "Nós não 'deletamos' ou 'terminamos' contas na ACC. Caso você não queira mais utilizar o site, você pode deletar todas as suas informações pessoas em seu perfil e então parar de logar-se.",
+        "notes_ca": "Nosaltres no 'esborrem' o 'finalitzem' comptes d'ACC. En el cas que no vulgui utilitzar més el lloc, pot esborrar totes les teves dades personals del seu perfil i evitar entrar més.",
         "notes_es": "«Nosotros no 'borramos' o 'finalizamos' cuentas de ACC. En el supuesto que no quieras utilizar más el sitio, puede borrar toda tu información personal de tu perfil y evitar entrar más a tu cuenta.»",
         "domains": [
             "animalcrossingcommunity.com"
@@ -481,8 +481,8 @@
         "notes_fr": "Demandez la suppresion du compte par le support du site.",
         "notes_it": "Richiedi la cancellazione al servizio clienti",
         "notes_de": "Beantrage die Löschung beim Support.",
-        "notes_pt_br": "Peça para que seja deletada pela assistência ao cliente.",
-        "notes_cat": "Demani l'eliminació del compte al servei d'atenció al client.",
+        "notes_pt-BR": "Peça para que seja deletada pela assistência ao cliente.",
+        "notes_ca": "Demani l'eliminació del compte al servei d'atenció al client.",
         "notes_es": "Pide la eliminación de tu cuenta al servicio de atención al cliente.",
         "domains": [
             "asos.de"
@@ -588,7 +588,7 @@
         "url": "https://support.avira.com/hc/en-us/articles/360000753557--How-can-I-delete-my-Avira-account",
         "difficulty": "easy",
         "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
-        "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
+        "notes_pt-BR": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
         "email": "support@avira.com",
         "domains": [
             "avira.com"
@@ -643,8 +643,8 @@
         "notes": "Go to your Settings page and scroll down to find 'Deactivate' account. Click on 'Close Account' button, and confirm the account deletion.",
         "notes_fr": "Allez dans vos Parametres et allez jusqu'à Désactiver mon compte. Cliquez Fermer mon compte, et confirmez.",
         "notes_it": "Vai sulla pagina delle impostazioni e scorri giù fino a trovare 'Deactivate account'. Clicca su il pulsante 'Close Account', e conferma la cancellazione dell'account",
-        "notes_pt_br": "Vá para a página Settings e desça até o final da página e ache 'Deactivate account'. Clique no botão 'Close Account', e confirme.",
-        "notes_cat": "Vagi a la pàgina 'Settings', baixa fins a trobar 'Deactivate account'. Cliqui al botó 'Close Account', i confirmi-ho.",
+        "notes_pt-BR": "Vá para a página Settings e desça até o final da página e ache 'Deactivate account'. Clique no botão 'Close Account', e confirme.",
+        "notes_ca": "Vagi a la pàgina 'Settings', baixa fins a trobar 'Deactivate account'. Cliqui al botó 'Close Account', i confirmi-ho.",
         "notes_es": "Ve a la página 'Settings', desplázate hasta encontrar 'Deactivate account'. Haz clic en el botón 'Close Account', y confirma.",
         "domains": [
             "bambuser.com"
@@ -678,7 +678,7 @@
         "notes": "Data will be permanantly deleted after 30 days.",
         "notes_fr": "Les données seront supprimés définitivement dans 30 jours.",
         "notes_pl": "Twoje dane zostaną całkowicie usunięte po upływie 30 dni.",
-        "notes_pt_br": "Os dados serão permanente excluídos após 30 dias.",
+        "notes_pt-BR": "Os dados serão permanente excluídos após 30 dias.",
         "domains": [
             "basecamp.com",
             "basecamp-help.com"
@@ -788,8 +788,8 @@
         "notes": "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped.",
         "notes_fr": "Dans les parametres du compte cliquez sur supprimer le compte puis sur supprimer le compte. Tous les dépot ainsi que le compte seront immediatement supprimés.",
         "notes_it": "Nel menu al lato, clicca su 'Delete Account' e fai lo stesso sulla pagina di conferma, l'account e i repositories saranno cancellati",
-        "notes_pt_br": "No menu lateral, clique em 'Delete Account' e na página de confirmação clique em 'Delete Account', todos os repositórios e contas serão imediatamente excluídos.",
-        "notes_cat": "Al menú lateral, cliqui a 'Delete Account', a la pagina de confirmació cliqui 'Delete Account', tots els comptes i repositoris serán cancel·lats",
+        "notes_pt-BR": "No menu lateral, clique em 'Delete Account' e na página de confirmação clique em 'Delete Account', todos os repositórios e contas serão imediatamente excluídos.",
+        "notes_ca": "Al menú lateral, cliqui a 'Delete Account', a la pagina de confirmació cliqui 'Delete Account', tots els comptes i repositoris serán cancel·lats",
         "notes_es": "En el menú lateral, haz clic en 'Delete Account', y en la página de confirmación pulsa 'Delete Account', todas tus cuentas y repositorios serán cancelados.",
         "notes_pl": "W menu bocznym kliknij 'Delete Account' i potwierdź klikając przycisk 'Delete Account', wszystkie repozytoria i konto zostaną natychmiast usunięte.",
         "domains": [
@@ -813,7 +813,7 @@
         "difficulty": "easy",
         "notes": "Go to \" Profile > Delete Account\" and select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
         "notes_pl": "Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.",
-        "notes_pt_br": "Vá para \" Profile > Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
+        "notes_pt-BR": "Vá para \" Profile > Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
         "domains": [
             "bitly.com",
             "bit.ly"
@@ -837,7 +837,7 @@
         "difficulty": "impossible",
         "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
-        "notes_cat": "Hauries d'esborrar tot el compte de Google sencer, però si que pots eliminar el teu blog.",
+        "notes_ca": "Hauries d'esborrar tot el compte de Google sencer, però si que pots eliminar el teu blog.",
         "notes_es": "No puedes borrar tu cuenta de Blogger sin borrar toda la cuenta de Google, pero puedes borrar tu blog.",
         "notes_pl": "Nie ma możliwości usunięcia konta w usłudze Blogger bez usuwania całego konta Google. Możesz jedynie usunąć swój blog.",
         "domains": [
@@ -869,7 +869,7 @@
         "url": "https://boardgamegeek.com/geekaccount.php?action=requestdeletion",
         "difficulty": "easy",
         "notes": "Log-in and use the link provided to request account deletion.",
-        "notes_pt_br": "Faça login e use o link fornecido para requerir que a conta seja excluída.",
+        "notes_pt-BR": "Faça login e use o link fornecido para requerir que a conta seja excluída.",
         "notes_pl": "Zaloguj się i użyj podanego odnośnika, aby usunąc swoje konto.",
         "domains": [
             "boardgamegeek.com"
@@ -893,8 +893,8 @@
         "notes": "You can only deactivate your account by contacting support as they state on the help page. There is no way to permanently delete your account or data, and an inactive public profile will always be visible to public.",
         "notes_fr": "Vous pouvez seulement désactiver votre compte en contactant le support.",
         "notes_it": "Puoi solo disattivare l'account contattando il supporto. Non esiste modo di eliminare permanentemente il tuo account o i dati, e un account inattivo resterà comunque visibile al pubblico",
-        "notes_pt_br": "Você pode apenas desativar sua conta contatando a assistência ao cliente como explicitado na página de ajuda. Não há como remover permanentemente sua conta ou seus dados, e um perfil publico inativo sempre estará visível ao público.",
-        "notes_cat": "Només pots desactivar el compte contactant amb l'Assistència al client. No podràs eliminar mai el compte, només desactivar-lo, els comptes desactivats són visibles al públic.",
+        "notes_pt-BR": "Você pode apenas desativar sua conta contatando a assistência ao cliente como explicitado na página de ajuda. Não há como remover permanentemente sua conta ou seus dados, e um perfil publico inativo sempre estará visível ao público.",
+        "notes_ca": "Només pots desactivar el compte contactant amb l'Assistència al client. No podràs eliminar mai el compte, només desactivar-lo, els comptes desactivats són visibles al públic.",
         "notes_es": "Solo puedes desactivar la cuenta contactando con Assistència al client. No podrás eliminar nunca la cuenta, solo desactivarla, les cuentas desactivadas son visibles al público.",
         "email": "privacy@bodybuilding.com",
         "domains": [
@@ -1065,8 +1065,8 @@
         "notes_fr": "Cliquez juste 'Abschicken'.",
         "notes_it": "Clicca semplicemente 'Abschicken'",
         "notes_de": "Einfach auf 'Abschicken' klicken",
-        "notes_pt_br": "Apenas clique em 'Abschicken'",
-        "notes_cat": "Només cal clicar a 'Abschicken'",
+        "notes_pt-BR": "Apenas clique em 'Abschicken'",
+        "notes_ca": "Només cal clicar a 'Abschicken'",
         "notes_es": "Solo tienes que clicar en 'Abschicken'",
         "notes_pl": "Wystarczy, że klikniesz 'Abschicken'",
         "domains": [
@@ -1176,7 +1176,7 @@
         "url": "https://celcoin.com.br",
         "difficulty": "hard",
         "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, include your full name and Tax ID in your request.",
-        "notes_pt_br": "Envie um e-mail para o suporte ao cliente e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, inclua seu nome completo e CPF na solicitação.",
+        "notes_pt-BR": "Envie um e-mail para o suporte ao cliente e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, inclua seu nome completo e CPF na solicitação.",
         "email": "contato@celcoin.com.br",
         "domains": [
             "celcoin.com.br",
@@ -1348,8 +1348,8 @@
         "notes": "You can't delete yourself. You can only change your phone nr. to a bogus number.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte. Vous pouvez seulement donner un faux numéro.",
         "notes_it": "Non puoi eliminarti. Puoi solamente cambiare il tuo numero di telefono con uno inventato",
-        "notes_pt_br": "Você não pode deletar sua conta. Você pode mudar o número de telefone para um número qualquer.",
-        "notes_cat": "No podrà eliminar el compte. Només pots canviar-te el número de telèfon.",
+        "notes_pt-BR": "Você não pode deletar sua conta. Você pode mudar o número de telefone para um número qualquer.",
+        "notes_ca": "No podrà eliminar el compte. Només pots canviar-te el número de telèfon.",
         "notes_es": "No podrá eliminar la cuenta. Solo puedes cambiar tu número de teléfono a un falso.",
         "domains": [
             "coderedweb.com"
@@ -1424,7 +1424,7 @@
         "difficulty": "easy",
         "notes": "Sign in then visit <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
         "notes_fr": "Identifiez-vous puis visitez <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
-        "notes_cat": "Identifica't al lloc web i entra <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
+        "notes_ca": "Identifica't al lloc web i entra <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
         "notes_es": "Identifícate en el sitio web y entra en <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
         "notes_pl": "Zaloguj się i przejdź do <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
         "domains": [
@@ -1447,7 +1447,7 @@
         "url": "https://www.coinbase.com/close_account",
         "difficulty": "medium",
         "notes": "Sign in then visit <a href=\"https://www.coinbase.com/close_account\">https://www.coinbase.com/close_account</a> and scroll to the bottom to find a button to close you account. In order to be deleted, your account can not have pending transactions.",
-        "notes_pt_br": "Faça login e acesse <a href=\"https://www.coinbase.com/close_account\">https://www.coinbase.com/close_account</a>. Role até o final da página para encontrar o botão para fechar sua conta. Para que possa ser excluída, sua conta não deve haver nenhum tipo de transação pendente.",
+        "notes_pt-BR": "Faça login e acesse <a href=\"https://www.coinbase.com/close_account\">https://www.coinbase.com/close_account</a>. Role até o final da página para encontrar o botão para fechar sua conta. Para que possa ser excluída, sua conta não deve haver nenhum tipo de transação pendente.",
         "domains": [
             "coinbase.com"
         ]
@@ -1458,7 +1458,7 @@
         "url": "https://stratum.hk/support",
         "difficulty": "hard",
         "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your CoinBR/Stratum account.",
-        "notes_pt_br": "Entre em contato com o suporte via e-mail e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta CoinBR/Stratum.",
+        "notes_pt-BR": "Entre em contato com o suporte via e-mail e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta CoinBR/Stratum.",
         "email": "support@stratum.hk",
         "email_subject": "[ Permanently Account Deletion Request ]",
         "email_body": "I have no further interest in using the services provided by Stratum, so I would like my account to be permanently deleted.",
@@ -1552,8 +1552,8 @@
         "notes_fr": "Envoyez un mail à abuse@craigslist.org et demandez la suppression du compte. ",
         "notes_it": "Spedisci un email a abuse@craigslist.org e richiedi la cancellazione",
         "notes_de": "Sende eine E-Mail an abuse@craigslist.org und beantrage die Löschung",
-        "notes_pt_br": "Envie um e-mail para abuse@craigslist.org e peça a remoção.",
-        "notes_cat": "Enviï un e-mail a abuse@craigslist.org i demani la supressió del compte.",
+        "notes_pt-BR": "Envie um e-mail para abuse@craigslist.org e peça a remoção.",
+        "notes_ca": "Enviï un e-mail a abuse@craigslist.org i demani la supressió del compte.",
         "notes_es": "Envía un e-mail a abuse@craigslist.org y pide que eliminen tu cuenta.",
         "email": "abuse@craigslist.org",
         "domains": [
@@ -1567,7 +1567,7 @@
         "difficulty": "hard",
         "notes": "Start a live chat session and a representative will delete your account.",
         "notes_fr": "Démarrez une session Live Chat et un représentant supprimera votre compte.",
-        "notes_pt_br": "Inicie um chat ao vivo e um representante excluirá sua conta.",
+        "notes_pt-BR": "Inicie um chat ao vivo e um representante excluirá sua conta.",
         "domains": [
             "crashplan.com",
             "code42.com"
@@ -1649,7 +1649,7 @@
         "url": "https://crypton.sh/app/account",
         "difficulty": "easy",
         "notes": "Scroll down the page, click at \"Delete My Account\", type your password and confirm your action by clicking \"Delete Account\".",
-        "notes_pt_br": "Role a página para baixo, clique em \"Delete My Account\", digite sua senha e clique em \"Delete Account\" para confirmar a exclusão da sua conta.",
+        "notes_pt-BR": "Role a página para baixo, clique em \"Delete My Account\", digite sua senha e clique em \"Delete Account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "crypton.sh"
         ]
@@ -1680,7 +1680,7 @@
         "url": "https://app.cybrary.it/settings/account",
         "difficulty": "easy",
         "notes": "Go to \"Delete Your Account > Delete Account\".",
-        "notes_pt_br": "Vá para \"Delete Your Account > Delete Account\".",
+        "notes_pt-BR": "Vá para \"Delete Your Account > Delete Account\".",
         "domains": [
             "cybrary.com"
         ]
@@ -1691,7 +1691,7 @@
         "url": "https://www.dailymotion.com/settings/delete-account",
         "difficulty": "easy",
         "notes": "Type your password and confirm your action by clicking \"Delete account\".",
-        "notes_pt_br": "Digite sua senha e clique em \"Delete account\" para confirmar a exclusão da sua conta.",
+        "notes_pt-BR": "Digite sua senha e clique em \"Delete account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "dailymotion.com"
         ]
@@ -1733,8 +1733,8 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Vosté pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrem i continuarem utilitzant qualsevol contingut que hagi enviat al nostre servei.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Vosté pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrem i continuarem utilitzant qualsevol contingut que hagi enviat al nostre servei.",
         "notes_es": "«Usted puede parar de usar el servicio en cualquier momento. Nosotros, mantendremos y continuaremos utilizando cualquier contenido que haya enviado a nuestro servicio.»",
         "domains": [
             "kinja.com"
@@ -1822,8 +1822,8 @@
         "notes_fr": "Toutes vos données seront effacées immédiatement. Les comptes peuvent être réactivés pour 30 jours. Après ce periode, ils ne peuvent pas être réactivés.",
         "notes_de": "Alle Daten sind sofort gelöscht. Accounts können innerhalb von 30 Tagen reaktiviert werden. Nach dieser Zeitspanne können sie nicht mehr wiederhergestellt werden.",
         "notes_it": "Tutti i dati saranno immediatamente cancellati. L'account potrà essere riattivato entro 30 giorni, dopodichè non sarà piu recuperabile.",
-        "notes_pt_br": "Todos os dados são apagados imediatamente. Contas podem ser reativadas em até 30 dias, após este prazo não poderão mais ser recuperadas.",
-        "notes_cat": "Totes les seves dades son esborrades inmediatament. Els comptes poden ser reactivats abans de 30 dies, després d'aquest termini no podrà ser reactivat.",
+        "notes_pt-BR": "Todos os dados são apagados imediatamente. Contas podem ser reativadas em até 30 dias, após este prazo não poderão mais ser recuperadas.",
+        "notes_ca": "Totes les seves dades son esborrades inmediatament. Els comptes poden ser reactivats abans de 30 dies, després d'aquest termini no podrà ser reactivat.",
         "notes_es": "Todos tus datos son borrados inmediatamente. Todas las cuentas pueden ser reactivadas antes de 30 días, después de ese plazo no podrá ser recuperada.",
         "notes_pl": "Wszystkie Twoje dane zostana natychmiast usunięte. Jeśli zmienisz zdanie, możesz reaktywować swoje konto w ciągu 30 dni.",
         "domains": [
@@ -1839,8 +1839,8 @@
         "notes_fr": "Il n'y a pas d'informations sur la suppresion des comptes dans le FAQ. La ligne directe dit aussi qu'il n'est pas possible de le faire.",
         "notes_de": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist.",
         "notes_it": "Nessuna informazione nelle FAQ riguardo la cancellazione dell'account, l'operatore al telefono ha confermato che la cancellazione non è possibile.",
-        "notes_pt_br": "Nenhuma informação no FAQ sobre remoção de contas, o operador no telefone disse que deletar não é possível.",
-        "notes_cat": "No hi ha cap informació al FAQ sobre la cancel·lació de comptes, l'operador telefonic diu que no es poden esborrar els comptes.",
+        "notes_pt-BR": "Nenhuma informação no FAQ sobre remoção de contas, o operador no telefone disse que deletar não é possível.",
+        "notes_ca": "No hi ha cap informació al FAQ sobre la cancel·lació de comptes, l'operador telefonic diu que no es poden esborrar els comptes.",
         "notes_es": "No hay información en el FAQ sobre la cancelación de cuentas, el operador telefónico dice que no se pueden borrar las cuentas.",
         "domains": [
             "paket.de"
@@ -1855,8 +1855,8 @@
         "notes_fr": "Cliquez sur fermez mon compte et confirmer avec votre mot de passe.",
         "notes_it": "Clicca chiudi il mio account e conferma inserendo la tua password.",
         "notes_de": "Klicke auf 'close my account' und bestätige dies mit deinem Passwort.",
-        "notes_pt_br": "Clique em 'close my account' e confirme com sua senha.",
-        "notes_cat": "Cliqui a 'close my account' i confirmi-ho amb la seva contrasenya.",
+        "notes_pt-BR": "Clique em 'close my account' e confirme com sua senha.",
+        "notes_ca": "Cliqui a 'close my account' i confirmi-ho amb la seva contrasenya.",
         "notes_es": "Haz clic en 'close my account' y confirmelo con tu contraseña.",
         "notes_pl": "Kliknij 'close my account' i potwierdź podając swoje hasło.",
         "domains": [
@@ -1889,7 +1889,7 @@
         "url": "https://digg.zendesk.com/hc/en-us/articles/233934647-How-do-I-delete-my-account",
         "difficulty": "easy",
         "note": "Go to \"Settings > Delete my account\".",
-        "notes_pt_br": "Vá para \"Settings > Delete my account\".",
+        "notes_pt-BR": "Vá para \"Settings > Delete my account\".",
         "domains": [
             "digg.com",
             "digg.zendesk.com"
@@ -1901,7 +1901,7 @@
         "url": "https://cloud.digitalocean.com/account/profile/deactivate",
         "difficulty": "easy",
         "notes": "Click in the checkbox \"Purge all of my account data\" and confirm your action by clicking \"Deactivate Account\".",
-        "notes_pt_br": "Marque a opção \"Purge all of my account data\" e clique em \"Deactivate Account\" para confirmar a exclusão da sua conta.",
+        "notes_pt-BR": "Marque a opção \"Purge all of my account data\" e clique em \"Deactivate Account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "digitalocean.com"
         ]
@@ -1912,7 +1912,7 @@
         "url": "https://www.diigo.com/setting",
         "difficulty": "easy",
         "note": "Scroll down the page, click at \"I'd like to delete my account.\", type your password and confirm your action by clicking \"Confirm Delete\".",
-        "notes_pt_br": "Role a página para baixo, clique em \"I'd like to delete my account.\", digite sua senha e clique em \"Confirm Delete\" para confirmar a exclusão da sua conta.",
+        "notes_pt-BR": "Role a página para baixo, clique em \"I'd like to delete my account.\", digite sua senha e clique em \"Confirm Delete\" para confirmar a exclusão da sua conta.",
         "domains": [
             "diigo.com"
         ]
@@ -2087,7 +2087,7 @@
         "url": "https://d.pr/settings/profile",
         "difficulty": "easy",
         "note": "Click at \"Delete Account\", type your email address and confirm your action by clicking \"Delete\".",
-        "notes_pt_br": "Clique em \"Delete Account\", digite seu e-mail e clique em \"Delete\" para confirmar a exclusão da sua conta.",
+        "notes_pt-BR": "Clique em \"Delete Account\", digite seu e-mail e clique em \"Delete\" para confirmar a exclusão da sua conta.",
         "domains": [
             "droplr.com",
             "d.pr"
@@ -2109,7 +2109,7 @@
         "url": "https://dubsmash.com/delete-account",
         "difficulty": "easy",
         "notes": "Click at \"Delete now\" to confirm the deletion of your account.<br><br>You can also request the deletion of your account via <a href=\"mailto:support@dubsmash.com\">email</a>.",
-        "notes_pt_br": "Clique em \"Delete now\" para confirmar a exclusão da sua conta.<br><br>Você também pode requisitar a exclusão da sua conta via <a href=\"mailto:support@dubsmash.com\">e-mail</a>.",
+        "notes_pt-BR": "Clique em \"Delete now\" para confirmar a exclusão da sua conta.<br><br>Você também pode requisitar a exclusão da sua conta via <a href=\"mailto:support@dubsmash.com\">e-mail</a>.",
         "domains": [
             "dubsmash.com"
         ]
@@ -2139,7 +2139,7 @@
         "url": "https://www.dwolla.com",
         "difficulty": "impossible",
         "note": "Dwolla accounts cannot be deleted, only disabled. To request deactivation of your account, contact support via email.",
-        "notes_pt_br": "Contas Dwolla não podem ser excluídas, apenas desativadas. Para solicitar a desativação da sua conta, entre em contato com o suporte via e-mail.",
+        "notes_pt-BR": "Contas Dwolla não podem ser excluídas, apenas desativadas. Para solicitar a desativação da sua conta, entre em contato com o suporte via e-mail.",
         "email": "support@dwolla.com",
         "domains": [
             "dwolla.com"
@@ -2163,8 +2163,8 @@
         "notes_fr": "Contactez le support pour demander la suppression du compte. Si vous n'êtes pas americain cela se fait par téléphone.",
         "notes_it": "Contatta il sistema clienti per cancellarti. Se sei fuori dagli Stati Uniti questa azione va effettuata via telefono.",
         "notes_de": "Kontaktiere den Support um die Löschung zu beantragen. Wenn du außerhalb der USA bist, muss dies per Telefon geschehen.",
-        "notes_pt_br": "Contate a assistência ao cliente e peça que sua conta seja deletada. Se você estiver fora dos EUA você deve fazer isso pelo telefone.",
-        "notes_cat": "Contacti amb assistència al client i demani que es clausuri el seu compte. Si vius fora dels EEUU ho hauràs de fer per telèfon.",
+        "notes_pt-BR": "Contate a assistência ao cliente e peça que sua conta seja deletada. Se você estiver fora dos EUA você deve fazer isso pelo telefone.",
+        "notes_ca": "Contacti amb assistència al client i demani que es clausuri el seu compte. Si vius fora dels EEUU ho hauràs de fer per telèfon.",
         "notes_es": "Contacta con asistencia al cliente y pide que se cierre tu cuenta. Si vives fuera de EEUU deberás hacerlo por teléfono.",
         "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie konta.",
         "domains": [
@@ -2187,7 +2187,7 @@
         "url": "https://ebanx.com",
         "difficulty": "impossible",
         "notes": "Customer support says that EBANX accounts can't be deleted, as the information about user transactions (e.g: payments) may be necessary in the future for, according to them, \"legal obligations and legitimate interests\".",
-        "notes_pt_br": "O suporte ao cliente diz que contas EBANX não podem ser excluídas, pois as informações sobre as transações realizadas pelo usuário (exemplo: pagamentos) podem ser futuramente necessárias para, segundo eles, \"legítimos interesses e obrigações legais\".",
+        "notes_pt-BR": "O suporte ao cliente diz que contas EBANX não podem ser excluídas, pois as informações sobre as transações realizadas pelo usuário (exemplo: pagamentos) podem ser futuramente necessárias para, segundo eles, \"legítimos interesses e obrigações legais\".",
         "domains": [
             "ebanx.cl",
             "ebanx.com",
@@ -2209,8 +2209,8 @@
         "notes_fr": "Quelques questions d'opinion sera demandées avant la suppression du compte.",
         "notes_de": "Ein paar Fragen werden dir vor dem Löschen gestellt.",
         "notes_it": "Ti sarà chiesto di compilare qualche questionario prima che l'account sia eliminato",
-        "notes_pt_br": "Algumas perguntas serão feitas antes de deletar sua conta.",
-        "notes_cat": "Se li farà un petit qüestionari abans desborrar el compte.",
+        "notes_pt-BR": "Algumas perguntas serão feitas antes de deletar sua conta.",
+        "notes_ca": "Se li farà un petit qüestionari abans desborrar el compte.",
         "notes_es": "Se le hará un pequeño cuestionario antes de borrar la cuenta.",
         "domains": [
             "ebay.com"
@@ -2252,7 +2252,7 @@
         "url": "https://www.edreams.co.uk/travel/secure/#accountpreferences/",
         "difficulty": "easy",
         "notes": "Click on \"I want to delete My Account\".",
-        "notes_pt_br": "Clique em \"I want to delete My Account\".",
+        "notes_pt-BR": "Clique em \"I want to delete My Account\".",
         "domains": [
             "edreams.com",
             "edreams.co.uk",
@@ -2269,8 +2269,8 @@
         "notes_fr": "Il ne faut pas supprimer votre compte. Un compte edX qui n'est pas utilisé et qui n'a pas d'achèvement de cours disparaîtra.",
         "notes_de": "Es gibt keine Notwendigkeit deinen Account zu löschen. Ein alter, unbenutzter edX Account ohne fertiggestellte Kurse wird automatisch gelöscht.",
         "notes_it": "Non è necessario cancellare il tuo account. Un vecchio, inusato edX account scomparirà da solo",
-        "notes_pt_br": "Não há porque deletar sua conta. Uma conta antiga, e não usada sem cursos completos irá desaparecer.",
-        "notes_cat": "No té perqué esborrar el seu compte. Un compte antic sens ús ni cursos completats serà eliminat.",
+        "notes_pt-BR": "Não há porque deletar sua conta. Uma conta antiga, e não usada sem cursos completos irá desaparecer.",
+        "notes_ca": "No té perqué esborrar el seu compte. Un compte antic sens ús ni cursos completats serà eliminat.",
         "notes_es": "«No hay necesidad de borrar la cuenta. Una cuenta antigua no usada y sin cursos completos será eliminado.»",
         "domains": [
             "edx.org"
@@ -2397,7 +2397,7 @@
         "difficulty": "hard",
         "notes": "You have to contact Etsy. As they've stated, \"when a member closes an account, it becomes inaccessible and will remain deactivated, unless the member requests it reopened. Account information remains securely on file with them, and Etsy has a detailed Privacy Policy that explains how we use members' information. This policy includes a statement regarding data retention.\"",
         "notes_fr": "Vous devez contactez Etsy. Lorsqu'un membre ferme un compte, il devient inaccessible et reste désactivé, à moins que le membre demande sa réouverture. Les informations du compte restent conservées de manière sécuritsée, et Etsy a une politique de confidentialité détaillée expliquant comment ils utilisent les informations des membres. Cette politique inclut une déclaration concernant la conservation des données.",
-        "notes_pt_br": "Tem de contactar o Etsy. Como eles afirmam, quando uma conta é fechada, fica inacessível e desactivada, a menos que o dono da conta a queira reabrir. A informação da conta é guardada pelo Etsy e regulada pela Política de Privacidade. A Política inclui informação sobre retenção de dados.",
+        "notes_pt-BR": "Tem de contactar o Etsy. Como eles afirmam, quando uma conta é fechada, fica inacessível e desactivada, a menos que o dono da conta a queira reabrir. A informação da conta é guardada pelo Etsy e regulada pela Política de Privacidade. A Política inclui informação sobre retenção de dados.",
         "domains": [
             "etsy.com"
         ]
@@ -2440,8 +2440,8 @@
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Evernote, seulement le désactiver temporairement. La désactivation ne supprime pas vos données donc vous devrez les supprimer manuellement avant de syncroniser, puis vous pourrez réaliser la désactivation du compte.",
         "notes_it": "Non puoi eliminare il tuo account Evernote, solo disattivarlo temporaneamente. La disattivazione non cancella nessuno dei tuoi dati quindi dovrai cancellarli manualmente prima di effettuare la disattivazione.",
         "notes_de": "Du kannst deinen Evernote-Account nicht löschen, du kannst ihn nur temporär deaktivieren. Deaktivierung löscht nicht deine Daten, deshalb musst du manuell jede Notiz und persönliche Information löschen. Schließe dann eine Synchronisation ab und deaktiviere deinen Account dann.",
-        "notes_pt_br": "Você não pode deletar sua conta Evernote, apenas desativá-la temporariamente. Desativação não remove seus dados então você terá que remover manualmente todas suas informações, realizar uma sincronização e então desativar sua conta.",
-        "notes_cat": "No pot eliminar un compte d'Evernote, només pot desactivar-la temporalment. La desactivaciò no esborra les seves dades, ho haurà de fer manualment, després sincronitzar i desactivar.",
+        "notes_pt-BR": "Você não pode deletar sua conta Evernote, apenas desativá-la temporariamente. Desativação não remove seus dados então você terá que remover manualmente todas suas informações, realizar uma sincronização e então desativar sua conta.",
+        "notes_ca": "No pot eliminar un compte d'Evernote, només pot desactivar-la temporalment. La desactivaciò no esborra les seves dades, ho haurà de fer manualment, després sincronitzar i desactivar.",
         "notes_es": "No puedes eliminar una cuenta de Evernote, solo puedes desactivarla temporalmente. La desactivación no borra tus datos, lo deberás hacer a mano, y después sincronizalo y desactivalo.",
         "notes_pl": "Nie możesz usunąć konta tylko je tymczasowo zdeaktywować. Deaktywacja nie usuwa żadnych danych - należy to zrobić samemu.",
         "domains": [
@@ -2485,8 +2485,8 @@
         "notes_fr": "Bien que vous puissiez supprimer votre compte facilement, quelques données y compris les messages restent pour jamais, comme déclaré dans le politique de confidentialité.",
         "notes_it": "Mentre puoi eliminare il tuo account facilmente, qualche dato come le chat o i messaggi di gruppo rimarranno nei loro database, come scritto sul loro sito nella pagina Privacy",
         "notes_de": "Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt.",
-        "notes_pt_br": "Você pode deletar sua conta facilmente, porém dados de conversas ficarão armazenados para sempre, como explicitado na Privacidade do site.",
-        "notes_cat": "Pot esborrar el compte facilment, algunes dades com el chat o missatges en grup son guardades per sempre, com s'explica als termes de privacitat del lloc.",
+        "notes_pt-BR": "Você pode deletar sua conta facilmente, porém dados de conversas ficarão armazenados para sempre, como explicitado na Privacidade do site.",
+        "notes_ca": "Pot esborrar el compte facilment, algunes dades com el chat o missatges en grup son guardades per sempre, com s'explica als termes de privacitat del lloc.",
         "notes_es": "Aunque puedes borrar la cuenta facilmente, algunos de los datos como el chat o mensajes en grupo son guardados para siempre, como se explica en los Terminos de privacidad del sitio.",
         "notes_pl": "Możesz usunąć swoje konto, ale zgodnie z polityką prywatności wszystkie dane razem z wiadomościami zostaną w bazie danych na zawsze.",
         "domains": [
@@ -2590,8 +2590,8 @@
         "notes": "Click on your username (top left) → click on 'Profileinstellungen' → 'Account löschen'. All data is fully erased.",
         "notes_it": "Clicca sul tuo username (in alto a sinistra) → clicca su 'Profileinstellungen' → 'Account löschen'. Tutti i dati saranno cancellati.",
         "notes_de": "Klicke auf deinen username (oben rechts) → klicke auf 'Profileinstellungen' → 'Account löschen'. Alle Daten sind augenblicklich gelöscht.",
-        "notes_pt_br": "Clique em seu usuário (topo esquerdo) → clique em 'Profileinstellungen' → 'Account löschen'. Todos os seus dados serão completamente apagados.",
-        "notes_cat": "Cliqui al seu usuari (adalt esquerra) → cliqui a 'Profileinstellungen' → 'Account löschen'. Totes les seves dades seràn eliminades.",
+        "notes_pt-BR": "Clique em seu usuário (topo esquerdo) → clique em 'Profileinstellungen' → 'Account löschen'. Todos os seus dados serão completamente apagados.",
+        "notes_ca": "Cliqui al seu usuari (adalt esquerra) → cliqui a 'Profileinstellungen' → 'Account löschen'. Totes les seves dades seràn eliminades.",
         "notes_es": "Haz clic en tu usuario (arriba a la izquierda) → haz clic en 'Profileinstellungen' → 'Account löschen'. Todos tus datos serán eliminados.",
         "domains": [
             "finanzblick.de"
@@ -2622,7 +2622,7 @@
         "url": "https://flattr.com/settings/account/delete",
         "difficulty": "easy",
         "notes": "Type your password and confirm your action by clicking \"Permanently delete account\".",
-        "notes_pt_br": "Digite sua senha e clique em \"Permanently delete account\" para confirmar a exclusão da sua conta.",
+        "notes_pt-BR": "Digite sua senha e clique em \"Permanently delete account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "flattr.com"
         ]
@@ -2703,9 +2703,9 @@
         "notes_fr": "Pour supprimer votre compte, ne postez rien pendant 3 jours.",
         "notes_it": "Per eliminare il tuo account, non devi pubblicare niente per almeno tre giorni.",
         "notes_de": "Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage.",
-        "notes_pt_br": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
+        "notes_pt-BR": "Para deletar sua conta, você deve postar nada por pelo menos três dias.",
         "notes_pl": "Aby usunąć swoje konto, nie możesz dodawać żadnych treści przez co najmniej trzy dni.",
-        "notes_cat": "Per esborrar el seu compte no ha de pujar res en 3 dies.",
+        "notes_ca": "Per esborrar el seu compte no ha de pujar res en 3 dies.",
         "notes_es": "Para borrar tu cuenta no debes subir nada por lo menos 3 días.",
         "domains": [
             "fotka.pl"
@@ -2727,7 +2727,7 @@
         "url": "https://freebitco.in",
         "difficulty": "impossible",
         "notes": "This website does not provide options that allow the user to delete their account.",
-        "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
+        "notes_pt-BR": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
         "domains": [
             "freebitco.in"
         ]
@@ -2751,8 +2751,8 @@
         "notes_fr": "Vous assurez que votre solde est positif, puis créez un ticket de support pour demander la suppression de votre compte.",
         "notes_de": "Stelle sicher, dass der Kontostand positiv ist, dann erstelle ein Support-Ticket um deinen Account zur Löschung zu beantragen.",
         "notes_it": "Assicurati che il saldo sia positivo, quindi apri un ticket di supporto per chiudere il tuo account.",
-        "notes_pt_br": "Certifique-se de que seu balanço é positivo, então crie um ticket no suporte pedindo que sua conta seja fechada",
-        "notes_cat": "Fixa't si el balanç del compte es positiu, si ho és envía un 'ticket' a l'assistencia demanant que tanquin el seu compte",
+        "notes_pt-BR": "Certifique-se de que seu balanço é positivo, então crie um ticket no suporte pedindo que sua conta seja fechada",
+        "notes_ca": "Fixa't si el balanç del compte es positiu, si ho és envía un 'ticket' a l'assistencia demanant que tanquin el seu compte",
         "notes_es": "Asegurarte de que el saldo de tu cuenta es positivo, y después los envía un tiquet a la asistencia pidiendo que cierren tu cuenta.",
         "domains": [
             "freelancer.com"
@@ -2774,7 +2774,7 @@
         "url": "https://my.freenom.com/clientarea.php?action=details",
         "difficulty": "impossible",
         "notes": "This website does not provide options that allow the user to delete their account.",
-        "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
+        "notes_pt-BR": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
         "domains": [
             "freenom.com"
         ]
@@ -2853,8 +2853,8 @@
         "notes_fr": "Pour supprimer votre compte contactez le support.",
         "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
         "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
-        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "gamespot.com"
@@ -2879,8 +2879,8 @@
         "notes_fr": "Contactez le support et demandez la suppression de vore compte.",
         "notes_it": "Contatta il supporto e richiedi la cancellazione del tuo account.",
         "notes_de": "Kontaktiere den Support und sie löschen deinen Account.",
-        "notes_pt_br": "Contate o suporte e peça que eles excluam sua conta.",
-        "notes_cat": "Contacti amb l'assistència al client i demani que li esborrrin el compte.",
+        "notes_pt-BR": "Contate o suporte e peça que eles excluam sua conta.",
+        "notes_ca": "Contacti amb l'assistència al client i demani que li esborrrin el compte.",
         "notes_es": "Contacta con asistencia al cliente y pide que te borren la cuenta.",
         "email": "support@gaug.es",
         "domains": [
@@ -2896,8 +2896,8 @@
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot deixar d'utilitzar el servei en qualsevol moment. Nosaltres, no obstant continuarém fent servir el Contingut que ha enviat.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Pot deixar d'utilitzar el servei en qualsevol moment. Nosaltres, no obstant continuarém fent servir el Contingut que ha enviat.",
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
@@ -2909,7 +2909,7 @@
         "url": "http://wap-support.gearbest.com/ticket/ticket/ticket-add",
         "difficulty": "hard",
         "notes": "You will need to open a ticket. In the first field, select \"Account Management > Advanced Account Information\" and then send your message requesting the deletion of the account. Within 48 hours, the customer support will return your message asking if you confirm the deletion of the account. You can also contact them <a href=\"mailto:support@gearbest.com\">via email</a>.",
-        "notes_pt_br": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management > Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los <a href=\"mailto:support@gearbest.com\">via e-mail</a>.",
+        "notes_pt-BR": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management > Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los <a href=\"mailto:support@gearbest.com\">via e-mail</a>.",
         "domains": [
             "gearbest.com"
         ]
@@ -2923,8 +2923,8 @@
         "notes_fr": "Supprimez toutes les informations que vous voulez enlever du site. Puis, cliquer sur « Account Settings » et puis « Close Account ».",
         "notes_de": "Lösche die Informationen, die du entfernt haben möchtest, von der Seite. Dann wähle 'Account Settings' und 'Close Account'",
         "notes_it": "Elimina qualsiasi informazione che desideri sia rimossa. Quindi seleziona 'Account Settings' e 'Close Account'",
-        "notes_pt_br": "Delete qualquer informação que você deseja ser removida do site. Então selecione 'Account Settings' e 'Close Account'",
-        "notes_cat": "Elimini qualsevol informació que vulgui que no apareixi al lloc web. Després seleccioni 'Account Settings' i 'Close Account'",
+        "notes_pt-BR": "Delete qualquer informação que você deseja ser removida do site. Então selecione 'Account Settings' e 'Close Account'",
+        "notes_ca": "Elimini qualsevol informació que vulgui que no apareixi al lloc web. Després seleccioni 'Account Settings' i 'Close Account'",
         "notes_es": "Elimina cualquier información que no quieras que aparezca en el sitio web. Luego selecciona 'Account Settings' y 'Close Account'",
         "domains": [
             "geni.com"
@@ -3027,8 +3027,8 @@
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar d'utilitzar el servei en qualsevol moment. Nosaltres seguirem fent servir el Contingut que ha enviat al lloc.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Pot parar d'utilitzar el servei en qualsevol moment. Nosaltres seguirem fent servir el Contingut que ha enviat al lloc.",
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
@@ -3043,8 +3043,8 @@
         "notes_fr": "Utilisez l'adresse e-mail du support du site pour les contacter en demandant la suppresion de votre compte.",
         "notes_de": "Nutze die Support-Mail-Adresse und beantrage die Löschung dort.",
         "notes_it": "Usa l'email del supporto per richiedere la cancellazione del tuo account.",
-        "notes_pt_br": "Use o e-mail de suporte para pedir que encerrem sua conta.",
-        "notes_cat": "Fagi servir l'e-mail d'assistència al client per demanar que tanquem el seu compte",
+        "notes_pt-BR": "Use o e-mail de suporte para pedir que encerrem sua conta.",
+        "notes_ca": "Fagi servir l'e-mail d'assistència al client per demanar que tanquem el seu compte",
         "notes_es": "Usa el e-mail de asistencia al cliente para pedir que cierren tu cuenta",
         "email": "support@sepialabs.com",
         "domains": [
@@ -3133,8 +3133,8 @@
         "notes": "On the top bar, click on 'Your name', then click on the 'Delete Account' button at the bottom of the dialog.",
         "notes_fr": "Dans le menu en haut, cliquez sur votre nom, puis cliquez sur « Delete Account » au bas du dialogue.",
         "notes_it": "Sul menu in alto, clicca sul tuo nome, quindi clicca sul pulsante 'Delete Account' che è posizionato in fondo.",
-        "notes_pt_br": "Na barra superior, clique em 'seu nome', então clique no botão 'Delete Account' no final do diálogo.",
-        "notes_cat": "A la barra superior, cliqui al 'seu nom', després cliqui a 'Delete Account' al final del quadre de diàleg.",
+        "notes_pt-BR": "Na barra superior, clique em 'seu nome', então clique no botão 'Delete Account' no final do diálogo.",
+        "notes_ca": "A la barra superior, cliqui al 'seu nom', després cliqui a 'Delete Account' al final del quadre de diàleg.",
         "notes_es": "En la barra superior, haz clic en 'tu nombre', después haz clic en 'Delete Account', al final del cuadro de diálogo.",
         "domains": [
             "goodnoows.com"
@@ -3189,8 +3189,8 @@
         "notes_fr": "Saisissez une raison pour fermer et votre mot de passe et cliquez sur supprimer, mais cela est plus comme une désactivation que vous pouvez les contacter pour annuler la suppression",
         "notes_de": "Geben Sie einen Grund für die Schließung und Ihr Passwort ein und klicken Sie auf löschen, was jedoch eher wie eine Deaktivierung ist, wie Sie sie es undelete kontaktieren",
         "notes_it": "Inserisci un motivo per la chiusura e la password e fare clic su Elimina, tuttavia questo è più simile a una disattivazione, come si può contattarli per annullare l'eliminazione",
-        "notes_pt_br": "Entre com um motivo para o fechamento e sua senha e clique em excluir, no entanto, este é mais como uma desativação como você pode contatá-los para anular a eliminação",
-        "notes_cat": "Introduir un motiu per al tancament i la contrasenya i feu clic a Suprimeix, però, això s'assembla més a una desactivació com es pot contactar amb ells per restituir-lo de",
+        "notes_pt-BR": "Entre com um motivo para o fechamento e sua senha e clique em excluir, no entanto, este é mais como uma desativação como você pode contatá-los para anular a eliminação",
+        "notes_ca": "Introduir un motiu per al tancament i la contrasenya i feu clic a Suprimeix, però, això s'assembla més a una desactivació com es pot contactar amb ells per restituir-lo de",
         "notes_es": "Introducir un motivo para el cierre y su contraseña y haga clic en Eliminar, sin embargo, esto se parece más a una desactivación como se puede contactar con ellos para deshacer el borrado",
         "domains": [
             "gopetition.com"
@@ -3205,8 +3205,8 @@
         "notes_de": "Wähle einen Grund für die Löschung. Es braucht nur 2 clicks.",
         "notes_fr": "Choisissez la raison de la suppression et cela se fait en 2 cliques.",
         "notes_it": "Logga il tuo account, quindi clicca su 'My Profile'. Vedrai un link 'Close my account'. Cliccaci e segui le istruzioni.",
-        "notes_pt_br": "Selecione um motivo para fechar a conta e irá levar dois cliques.",
-        "notes_cat": "Seleccioni un motiu per tancar el compte, només seran 2 clics",
+        "notes_pt-BR": "Selecione um motivo para fechar a conta e irá levar dois cliques.",
+        "notes_ca": "Seleccioni un motiu per tancar el compte, només seran 2 clics",
         "notes_es": "Seleccione un motivo para cerrar la cuenta, sólo serán 2 clics",
         "domains": [
             "gosquared.com"
@@ -3260,7 +3260,7 @@
         "difficulty": "impossible",
         "notes": "You can't delete your Gravatar Account without deleting your entire WordPress Account.",
         "notes_fr": "Gravatar appartient à WordPress, ce qui veut dire que vous ne pouvez pas supprimer votre compte.",
-        "notes_cat": "No es pot esborrar el seu compte de Gravatar sense borrar tot el compte de WordPress.",
+        "notes_ca": "No es pot esborrar el seu compte de Gravatar sense borrar tot el compte de WordPress.",
         "notes_es": "No puedes borrar tu cuenta de Gravatar sin borrar toda tu cuenta de WordPress.",
         "notes_pl": "Nie ma możliwości usunięcia konta Gravatar bez usunięcia całego konta WordPress.",
         "domains": [
@@ -3317,8 +3317,8 @@
         "notes": "Privacy Policy Letter D: Account e-mail addresses cannot be deleted. However, an Account may be closed and GrubHub will cause the corresponding e-mail address to be scrambled.",
         "notes_fr": "Aucune page n'explique comment supprimer votre compte. Vous devez contacter le support et ils le feront pour vous.",
         "notes_it": "Nessuna pagina spiega come eliminare l'account. Devi contattare il supporto direttamente (il link si trova in fondo alla pagina) e lo faranno al posto tuo.",
-        "notes_pt_br": "Não há uma página explicando como deletar sua conta. Você terá de contatar o suporte diretamente (link no final da página) e eles irão deletá-la para você.",
-        "notes_cat": "No s'explica com eliminar el compte. Haurà de contactar directament amb el servei d'assistència (link al final de la pàgina) i ells li borraran el compte.",
+        "notes_pt-BR": "Não há uma página explicando como deletar sua conta. Você terá de contatar o suporte diretamente (link no final da página) e eles irão deletá-la para você.",
+        "notes_ca": "No s'explica com eliminar el compte. Haurà de contactar directament amb el servei d'assistència (link al final de la pàgina) i ells li borraran el compte.",
         "notes_es": "No hay una explicación en como eliminar las cuentas. Deberás contactar directamente con el servicio de asistencia (enlance al final de la página) y ellos borrarán la cuenta.",
         "email": "accounts@grubhub.com",
         "domains": [
@@ -3438,8 +3438,8 @@
         "notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address.",
         "notes_fr": "Vos contributions resteront sur le site, mais vous pouvez 'vider' votre profil, même votre email.",
         "notes_it": "Le tue donazioni resteranno, ma puoi almeno pulire il tuo profilo -- anche il tuo indirizzo email",
-        "notes_pt_br": "Suas contribuições serão mantidas, mas você pode limpar o seu perfil -- inclusive seu endereço de e-mail.",
-        "notes_cat": "Les seves contribucions es mantindran, però pot netejar el seu perfil -- incloent el seu e-mail.",
+        "notes_pt-BR": "Suas contribuições serão mantidas, mas você pode limpar o seu perfil -- inclusive seu endereço de e-mail.",
+        "notes_ca": "Les seves contribucions es mantindran, però pot netejar el seu perfil -- incloent el seu e-mail.",
         "notes_es": "Tus contribuciones se permanecerán, pero puedes borrar los datos en tu perfil (incluso tu e-mail).",
         "domains": [
             "jacquesmattheij.com"
@@ -3472,7 +3472,7 @@
         "url": "https://www.happyscribe.co/users/edit",
         "difficulty": "easy",
         "notes": "Go to \"Settings > Delete Account > Delete my account\".",
-        "notes_pt_br": "Vá para \"Settings > Delete Account > Delete my account\".",
+        "notes_pt-BR": "Vá para \"Settings > Delete Account > Delete my account\".",
         "domains": [
             "happyscribe.co"
         ]
@@ -3538,8 +3538,8 @@
         "notes": "“Close your account...” link at the bottom of the page.",
         "notes_fr": "Lien 'Fermez mon compte...' en bas de la page.",
         "notes_it": "“Close your account...” link in fondo alla pagina",
-        "notes_pt_br": "Link “Close your account...” no final da página.",
-        "notes_cat": "Clica a l'enllaç “Close your account...” al final de la pàgina.",
+        "notes_pt-BR": "Link “Close your account...” no final da página.",
+        "notes_ca": "Clica a l'enllaç “Close your account...” al final de la pàgina.",
         "notes_es": "Haz clic en el enlace \"Close your account...\" al final de la página.",
         "notes_pl": "Na dole strony kliknij 'Close your account', podaj hasło i zatwierdź przyciskiem.",
         "domains": [
@@ -3581,8 +3581,8 @@
         "notes": "You can remove information and manually quit HOL, but your account stays forever.",
         "notes_fr": "Vous pouvez enlever vos infos perso. mais votre compte restera à vie.",
         "notes_it": "Puoi rimuovere le tue informazioni e effettuare il logout, ma il tuo account resterà li.",
-        "notes_pt_br": "Você pode remover as informações e manualmente sair do HOL, mas sua conta é permanente.",
-        "notes_cat": "Pot esborrar la seva informaciò i manualment sortir d'HOL, però el seu compte es permanent.",
+        "notes_pt-BR": "Você pode remover as informações e manualmente sair do HOL, mas sua conta é permanente.",
+        "notes_ca": "Pot esborrar la seva informaciò i manualment sortir d'HOL, però el seu compte es permanent.",
         "notes_es": "Puedes borrar tu información y manualmente salir de HOL, pero tu cuenta es permanente.",
         "notes_de": "Sie können Ihre daten manuell löschen und HOL schließen, aber Ihre Daten bleiben gespeichert",
         "domains": [
@@ -3711,7 +3711,7 @@
         "url": "https://docs.indiegala.com/support/contacts.html",
         "difficulty": "hard",
         "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your IndieGala account.",
-        "notes_pt_br": "Entre em contato com o suporte via e-mail e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta IndieGala.",
+        "notes_pt-BR": "Entre em contato com o suporte via e-mail e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta IndieGala.",
         "email": "support@indiegala.com",
         "email_subject": "[ Permanently Account Deletion Request ]",
         "email_body": "I have no further interest in using the services provided by IndieGala, so I would like my account to be permanently deleted.",
@@ -3830,8 +3830,8 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
@@ -3918,8 +3918,8 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
@@ -3943,8 +3943,8 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
@@ -3979,8 +3979,8 @@
         "notes_fr": "Loggez vous, tapez votre mot de passe, cliquez sur Delete.",
         "notes_it": "Log in. Digita la password. Premi 'delete'.",
         "notes_de": "Logge dich ein, tippe dein Passwort ein. Klicke auf 'delete'.",
-        "notes_pt_br": "Logue-se. Digite sua senha. Pressione 'delete'.",
-        "notes_cat": "Entri al compte. Posi la seva contrassenya. Presioni 'delete'.",
+        "notes_pt-BR": "Logue-se. Digite sua senha. Pressione 'delete'.",
+        "notes_ca": "Entri al compte. Posi la seva contrassenya. Presioni 'delete'.",
         "notes_es": "Entra en la cuenta. Pon tu contraseña. Pulsa 'delete'.",
         "notes_pl": "Zaloguj się, podaj swoje hasło i kliknij 'delete'.",
         "domains": [
@@ -4014,8 +4014,8 @@
         "notes": "Please email a request if you’d like your account to be deleted.",
         "notes_fr": "Veuillez envoyer votre demande au support à support@jsfiddle.net si vous voulez qu'on supprime votre compte.",
         "notes_it": "Spedisci una email a support@jsfiddle.net se desideri che il tuo account sia cancellato.",
-        "notes_pt_br": "Envie um pedido para support@jsfiddle.net se você deseja que sua conta seja deletada.",
-        "notes_cat": "Enviï un mail a support@jsfiddle.net per demanar que eliminin el seu compte.",
+        "notes_pt-BR": "Envie um pedido para support@jsfiddle.net se você deseja que sua conta seja deletada.",
+        "notes_ca": "Enviï un mail a support@jsfiddle.net per demanar que eliminin el seu compte.",
         "notes_es": "Envía un mail a support@jsfiddle.net para pedir que eliminen tu cuenta.",
         "email": "support@jsfiddle.net",
         "domains": [
@@ -4068,8 +4068,8 @@
         "notes": "You can only deactivate your account. There appears to be no way to permanently delete your account or data.",
         "notes_fr": "Vous ne pouvez que désactiver votre compte. Il ne paraît pas qu'il y ait de façon de supprimer votre compte définitivement.",
         "notes_it": "Puoi solo disattivare il tuo account. Non c'è modo di eliminare il tuo account o le informazioni.",
-        "notes_pt_br": "Você apenas pode desativar sua conta. Aparentemente não há como deletar sua conta ou dados.",
-        "notes_cat": "Només podrà inhabilitar el compte, no hi ha manera de fer-ho permanentment.",
+        "notes_pt-BR": "Você apenas pode desativar sua conta. Aparentemente não há como deletar sua conta ou dados.",
+        "notes_ca": "Només podrà inhabilitar el compte, no hi ha manera de fer-ho permanentment.",
         "notes_es": "Sólo podrás desactivar la cuenta, no hay manera de hacerlo permanentemente.",
         "domains": [
             "kikinteractive.zendesk.com",
@@ -4084,8 +4084,8 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
@@ -4132,8 +4132,8 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
@@ -4254,8 +4254,8 @@
         "notes": "Click 'Profile', then 'Edit', then 'Show advanced settings', and finally check the 'Delete my account' checkbox.",
         "notes_fr": "Cliquez sur « Profile », puis « Edit », puis « Show advanced settings », et enfin cochez la case « Delete my account ».",
         "notes_it": "Clicca 'Profile', quindi 'Edit', quindi 'Show advanced settings', e per ultimo fai un tick su 'Delete my account'",
-        "notes_pt_br": "Clique em 'Profile', então 'Edit', então 'Show advanced settings', e finalmente marque a caixa 'Delete my account'.",
-        "notes_cat": "Cliqui a 'Profile', després 'Edit', 'Show advanced settings', i finalment marqui 'Delete my account'.",
+        "notes_pt-BR": "Clique em 'Profile', então 'Edit', então 'Show advanced settings', e finalmente marque a caixa 'Delete my account'.",
+        "notes_ca": "Cliqui a 'Profile', després 'Edit', 'Show advanced settings', i finalment marqui 'Delete my account'.",
         "notes_es": "Haz clic en 'Profile', después 'Edit', 'Show advanced settings', y finalmente marca 'Delete my account'.",
         "domains": [
             "libre.fm"
@@ -4269,8 +4269,8 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
@@ -4306,7 +4306,7 @@
         "difficulty": "medium",
         "notes": "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it.",
         "notes_fr": "Il y a des rapports que LinkedIn continue d'envoyer des e-mails aux gens qui ferment leur compte. Il est bien possible qu'il faudra contactez le support du site pour demander la suppresion de votre compte.",
-        "notes_cat": "Hi han informes que diuen que LinkedIn segueix enviant correu electrònic a les persones amb comptes tancats. Podria ser necessari posar-se en contacte amb el servei al client per eliminar el compte en lloc de tancar-lo.",
+        "notes_ca": "Hi han informes que diuen que LinkedIn segueix enviant correu electrònic a les persones amb comptes tancats. Podria ser necessari posar-se en contacte amb el servei al client per eliminar el compte en lloc de tancar-lo.",
         "notes_es": "Hay informes que dicen que LinkedIn sigue enviando correo electrónico a las personas con cuentas cerradas. Podría ser necesario ponerte en contacto con el servicio al cliente para eliminar la cuenta en lugar de cerrarla.",
         "domains": [
             "linkedin.com"
@@ -4330,8 +4330,8 @@
         "notes": "Once you delete your journal you have 30 days to undelete it, in case you change your mind. After 30 days, the journal will be permanently deleted and there will be no way to recover it.",
         "notes_fr": "Quand vous supprimez votre Journal vous avez 30 jours pour le restaurer, au cas où vous changez votre avis. Après les 30 jours, le Journal est supprimé définitivement.",
         "notes_it": "Una volta eliminato il tuo Journal hai 30 giorni per recuperarlo, nel caso cambiassi idea. Dopo 30 giorni, il tuo Journal sarà permanentemente cancellato e non ci sarà modo di recuperarlo.",
-        "notes_pt_br": "Uma vez que você tenha deletado seu jornal você tem 30 dias para desfazer a remoção, caso você mude de ideia. Após 30 dias, o seu jornal permanecerá deletado e não haverá como recuperá-lo.",
-        "notes_cat": "Una vegada que hagi eliminat el seu Journal, tindrà 30 dies per tirar enderrera la decisiò. Després de 30 dies el seu contingut serà borrat permanentment i no es podrà recuperar.",
+        "notes_pt-BR": "Uma vez que você tenha deletado seu jornal você tem 30 dias para desfazer a remoção, caso você mude de ideia. Após 30 dias, o seu jornal permanecerá deletado e não haverá como recuperá-lo.",
+        "notes_ca": "Una vegada que hagi eliminat el seu Journal, tindrà 30 dies per tirar enderrera la decisiò. Després de 30 dies el seu contingut serà borrat permanentment i no es podrà recuperar.",
         "notes_es": "Cuando has eliminado tu Journal, tendrás 30 días para cancelar la decisión. Después de 30 días tu contenido será borrado permanentemente y no será posible de recuperarlo.",
         "domains": [
             "livejournal.com"
@@ -4352,7 +4352,7 @@
         "url": "https://lolja.com.br",
         "difficulty": "hard",
         "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your Lolja account.",
-        "notes_pt_br": "Envie um e-mail para o suporte ao cliente e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta Lolja.",
+        "notes_pt-BR": "Envie um e-mail para o suporte ao cliente e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta Lolja.",
         "email": "sac@lolja.com.br",
         "domains": [
             "lolja.com.br"
@@ -4471,8 +4471,8 @@
         "notes_pl": "Account Settings → Account Settings Drop-down → Close my account → Wpisz DELETE i kliknij Delete Account.",
         "notes_fr": "« Account Settings » → menu déroulant « Account Settings » → « Close my account » → Tapez « DELETE » et appuyez sur « Delete Account ».",
         "notes_it": "Account Settings → Account Settings Drop-down → Close my account → Digita DELETE e premi il pulsante Delete Account.",
-        "notes_pt_br": "Account Settings → Account Settings Drop-down → Close my account → Digite DELETE e pressione o botão Delete Account.",
-        "notes_cat": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE i presioni el botó 'Delete Account'.",
+        "notes_pt-BR": "Account Settings → Account Settings Drop-down → Close my account → Digite DELETE e pressione o botão Delete Account.",
+        "notes_ca": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE i presioni el botó 'Delete Account'.",
         "notes_es": "Account Settings → Account Settings Drop-down → Close my account → Marca DELETE y presiona el botón 'Delete Account'.",
         "domains": [
             "mailchimp.com"
@@ -4680,7 +4680,7 @@
         "url": "http://myaccount.mercadolibre.com.ar/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.ar",
             "mercadopago.com.ar"
@@ -4692,7 +4692,7 @@
         "url": "http://myaccount.mercadolibre.com.bo/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.bo"
         ]
@@ -4703,7 +4703,7 @@
         "url": "http://myaccount.mercadolibre.cl/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.cl",
             "mercadopago.cl"
@@ -4715,7 +4715,7 @@
         "url": "http://myaccount.mercadolibre.com.co/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.co",
             "mercadopago.com.co"
@@ -4727,7 +4727,7 @@
         "url": "http://myaccount.mercadolibre.co.cr/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.co.cr"
         ]
@@ -4738,7 +4738,7 @@
         "url": "http://myaccount.mercadolibre.com.ec/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.ec"
         ]
@@ -4749,7 +4749,7 @@
         "url": "http://myaccount.mercadolibre.com.gt/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.gt"
         ]
@@ -4760,7 +4760,7 @@
         "url": "http://myaccount.mercadolibre.com.hn/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.hn"
         ]
@@ -4771,7 +4771,7 @@
         "url": "http://myaccount.mercadolibre.com.mx/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.mx",
             "mercadopago.com.mx"
@@ -4783,7 +4783,7 @@
         "url": "http://myaccount.mercadolibre.com.ni/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.ni"
         ]
@@ -4794,7 +4794,7 @@
         "url": "http://myaccount.mercadolibre.com.pa/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.pa"
         ]
@@ -4805,7 +4805,7 @@
         "url": "http://myaccount.mercadolibre.com.py/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.py"
         ]
@@ -4816,7 +4816,7 @@
         "url": "http://myaccount.mercadolibre.com.pe/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.pe",
             "mercadopago.com.pe"
@@ -4828,7 +4828,7 @@
         "url": "http://myaccount.mercadolibre.com.do/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.do"
         ]
@@ -4839,7 +4839,7 @@
         "url": "http://myaccount.mercadolibre.com.sv/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.sv"
         ]
@@ -4850,7 +4850,7 @@
         "url": "http://myaccount.mercadolibre.com.uy/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.uy",
             "mercadopago.com.uy"
@@ -4862,7 +4862,7 @@
         "url": "http://myaccount.mercadolibre.com.ve/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.ve",
             "mercadopago.com.ve"
@@ -4874,7 +4874,7 @@
         "url": "http://myaccount.mercadolivre.com.br/cancelar-conta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estou de acordo\", and confirm your action by clinking \"Aceito\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Livre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Livre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estou de acordo\" e clique em \"Aceitar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Livre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Livre, sua conta do Mercado Pago também será excluída.",
+        "notes_pt-BR": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estou de acordo\" e clique em \"Aceitar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Livre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Livre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolivre.com.br",
             "mercadopago.com.br",
@@ -4946,7 +4946,7 @@
         "url": "https://www.mixcloud.com/settings/delete-account/",
         "difficulty": "easy",
         "notes": "Click on \"Just delete my account\".",
-        "notes_pt_br": "Clique em \"Just delete my account\".",
+        "notes_pt-BR": "Clique em \"Just delete my account\".",
         "domains": [
             "mixcloud.com"
         ]
@@ -5000,8 +5000,8 @@
         "notes": "If you have registered a Mojang account and would like to delete your account, please visit your account settings page. Please be aware that if your account is deleted, you will no longer be able to log into Mojang services, and will not be able to purchase future Mojang games.",
         "notes_fr": "Si vous avez créé un compte Mojang et vous voulez le supprimer, veuillez visitez vos parametres. Sachez que si vous supprimez votre compte, vous ne pourrez plus vous connecter aux services Mojang, et vous ne pourrez plus acheter les jeux de Mojang à l'avenir.",
         "notes_it": "Se desideri cancellare il tuo account, visita la pagina impostazioni. Se elimini il tuo account, non potrai piu loggare nei servizi Mojang, e non potrai piu acquistare dei giochi Mojang in futuro.",
-        "notes_pt_br": "Se você registrou uma conta Mojango e gostaria de deletá-la, visite a página de configurações da conta. Lembre-se de que se sua conta for deletada, você não poderá mais fazer login nos serviços Mojang, e não poderá adquirir futuros jogos da Mojang.",
-        "notes_cat": "Si vostè es va registrar a Mojang i ara vol esborrar el seu compte, visiti la página de configuració del compte. Tingui en compte que si l'elimina no podrà entrar més amb els serveis de Mojang i no podrà adquirir futurs jocs de Mojang.",
+        "notes_pt-BR": "Se você registrou uma conta Mojango e gostaria de deletá-la, visite a página de configurações da conta. Lembre-se de que se sua conta for deletada, você não poderá mais fazer login nos serviços Mojang, e não poderá adquirir futuros jogos da Mojang.",
+        "notes_ca": "Si vostè es va registrar a Mojang i ara vol esborrar el seu compte, visiti la página de configuració del compte. Tingui en compte que si l'elimina no podrà entrar més amb els serveis de Mojang i no podrà adquirir futurs jocs de Mojang.",
         "notes_es": "Si te habías registrado en Mojang y ahora quieres borrar tu cuenta, visita la página de configuración de la cuenta. Te comunicas que si lo eliminaras, no podrás usar los servicios de Mojang y no podrás comprar juegos de Mojang en el futuro.",
         "domains": [
             "mojang.com"
@@ -5064,7 +5064,7 @@
         "url": "https://bugzilla.mozilla.org/enter_bug.cgi?product=developer.mozilla.org",
         "difficulty": "hard",
         "notes": "Log in to Bugzilla and create a bug report to request the deletion of your account (see examples: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345\">#1353345</a>).</br></br>If you have made contributions to the MDN Web Docs, you will also need to specify what you would like to happen with them after deleting your account.",
-        "notes_pt_br": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> e <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345\">#1353345</a>)</br></br>Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
+        "notes_pt-BR": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> e <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345\">#1353345</a>)</br></br>Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
         "domains": [
             "developer.mozilla.org"
         ]
@@ -5077,8 +5077,8 @@
         "notes": "“Cancel your account” link at the bottom of the page.",
         "notes_fr": "Cliquez le lien « Cancel your account » au bas de la page.",
         "notes_it": "“Cancel your account” in fondo alla pagina.",
-        "notes_pt_br": "Link “Cancel your account” no final da página.",
-        "notes_cat": "“Cancel your account” al final de la pàgina.",
+        "notes_pt-BR": "Link “Cancel your account” no final da página.",
+        "notes_ca": "“Cancel your account” al final de la pàgina.",
         "notes_es": "“Cancel your account” al final de la página.",
         "notes_pl": "Kliknij “Cancel your account” na dole strony.",
         "domains": [
@@ -5092,7 +5092,7 @@
         "url": "https://muambator.com.br/login",
         "difficulty": "impossible",
         "notes": "This website does not provide options that allow the user to delete their account.",
-        "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
+        "notes_pt-BR": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
         "domains": [
             "muambator.com.br"
         ]
@@ -5260,7 +5260,7 @@
         "url": "https://suporte.neon.com.br/hc/pt-br/articles/360019117253-Quero-cancelar-minha-conta-Como-fa%C3%A7o",
         "difficulty": "impossible",
         "notes": "Neon accounts cannot be deleted, only canceled.",
-        "notes_pt_br": "Contas Neon não podem ser excluídas, apenas canceladas.",
+        "notes_pt-BR": "Contas Neon não podem ser excluídas, apenas canceladas.",
         "domains": [
             "neon.com.br"
         ]
@@ -5338,8 +5338,8 @@
         "notes": "Use the form to write to customer services and ask them to close your account.",
         "notes_fr": "Vous pouvez utilisez le formulaire pour écrire au service clients et pour leur demander de supprimer votre compte.",
         "notes_it": "Usa il modulo per scrivere all'assistenza clienti e chiedere la chiusura del tuo account.",
-        "notes_pt_br": "Use o formulário para escrever à assistência ao cliente e peça-os para fechar sua conta.",
-        "notes_cat": "Utilitzi el formulari per escriure a l'assistència al client i demar-lis la clausura del compte.",
+        "notes_pt-BR": "Use o formulário para escrever à assistência ao cliente e peça-os para fechar sua conta.",
+        "notes_ca": "Utilitzi el formulari per escriure a l'assistència al client i demar-lis la clausura del compte.",
         "notes_es": "Usa el formulario para escribir a asistencia al cliente y pideles el cierre de la cuenta.",
         "domains": [
             "nytimes.com"
@@ -5360,7 +5360,7 @@
         "url": "https://my.nextdns.io/login",
         "difficulty": "hard",
         "notes": "There is a button at the bottom of the page. Use it to contact support and request deletion of your account.",
-        "notes_pt_br": "Há um botão na parte inferior da página. Use-o para entrar em contato com o suporte e solicitar a exclusão da sua conta.",
+        "notes_pt-BR": "Há um botão na parte inferior da página. Use-o para entrar em contato com o suporte e solicitar a exclusão da sua conta.",
         "domains": [
             "nextdns.io"
         ]
@@ -5414,7 +5414,7 @@
         "url": "https://njal.la/settings/delete",
         "difficulty": "easy",
         "notes": "Type your password and confirm your action by clicking \"Delete Account\".",
-        "notes_pt_br": "Digite sua senha e clique em \"Delete Account\" para confirmar a exclusão da sua conta.",
+        "notes_pt-BR": "Digite sua senha e clique em \"Delete Account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "njal.la"
         ]
@@ -5490,7 +5490,7 @@
         "url": "https://blog.nubank.com.br/fechar-nuconta-e-facil/",
         "difficulty": "impossible",
         "notes": "Nubank accounts cannot be deleted, only canceled.",
-        "notes_pt_br": "Contas Nubank não podem ser excluídas, apenas canceladas.",
+        "notes_pt-BR": "Contas Nubank não podem ser excluídas, apenas canceladas.",
         "domains": [
             "nubank.com.br"
         ]
@@ -5513,8 +5513,8 @@
         "notes": "Login to your account, scroll License Agreement down, click Delete profile, check any boxes you want, enter password and press Remove button.",
         "notes_fr": "Connectez-vous, faites défiler le contrat, cliquez sur « Delete profile », cochez les cases que vous voulez, entrez votre mot de passe et cliquez sur « Remove ».",
         "notes_it": "Fai il login, scorri il contratto, premi Delete profile, fai il tick sulle caselle che vuoi, inserisci la password e premi il pulsante Remove.",
-        "notes_pt_br": "Faça login em sua conta, vá até o License Agreement, clique em Delete profile, marque as caixas que você quiser, digite sua senha e pressione o botão Remove.",
-        "notes_cat": "Entri al seu compte, baixi fins a 'License Agreement', cliqui a 'Delete profile', marqui les caselles que desitgi, entri la seva clau i faci clic a 'Remove'.",
+        "notes_pt-BR": "Faça login em sua conta, vá até o License Agreement, clique em Delete profile, marque as caixas que você quiser, digite sua senha e pressione o botão Remove.",
+        "notes_ca": "Entri al seu compte, baixi fins a 'License Agreement', cliqui a 'Delete profile', marqui les caselles que desitgi, entri la seva clau i faci clic a 'Remove'.",
         "notes_es": "Entra en tu cuenta, desplázate hasta 'License Agreement', pulsa 'Delete profile', marca las casillas que desees, entra tu contraseña y haz clic en 'Remove'.",
         "notes_ru": "Войдите в ваш аккаунт, прокрутите Лицензионное Соглашение вниз, кликните 'Удалить профиль', поставьте галочки по желанию и жмите кнопку 'Удалить'.",
         "domains": [
@@ -5529,8 +5529,8 @@
         "notes": "Visit your settings page, and select 'Delete Account'",
         "notes_fr": "Visitez vos paramatres et selectionnez « Delete Account ».",
         "notes_it": "Visita la pagina impostazioni, quindi seleziona 'Delete Account'",
-        "notes_pt_br": "Visite a sua página de configurações, e selecione 'Delete Account'",
-        "notes_cat": "Visiti la pàgina de paràmetres, i seleccioni 'Delete Account'",
+        "notes_pt-BR": "Visite a sua página de configurações, e selecione 'Delete Account'",
+        "notes_ca": "Visiti la pàgina de paràmetres, i seleccioni 'Delete Account'",
         "notes_es": "Visita la página de parámetros, y selecciona 'Delete Account'",
         "domains": [
             "okcupid.com"
@@ -5565,8 +5565,8 @@
         "notes_fr": "Vous pouvez désactiver votre compte avec le lien. Cependant, les données ne sont pas supprimées. Même si vous contactez le support du site, il ne supprime pas vos données.",
         "notes_it": "Puoi disattivare il tuo account. Ma i dati non saranno cancellati neanche se contatti il supporto.",
         "notes_de": "Du kannst deinen Account mit dem Link deaktivieren, aber deine Daten werden nicht gelöscht. Auch wenn du den Support kontaktierst, können sie deine Daten nicht löschen.",
-        "notes_pt_br": "Você pode desativar sua conta neste link. Mas os dados não são deletados. Mesmo se você contatar o suporte eles não irão apagar seus dados.",
-        "notes_cat": "Pot desactivar el seu compte amb l'enllaç. Però les dades no poden ser esborrades. Encara que contacti amb Atenció al client no esborraran les seves dades.",
+        "notes_pt-BR": "Você pode desativar sua conta neste link. Mas os dados não são deletados. Mesmo se você contatar o suporte eles não irão apagar seus dados.",
+        "notes_ca": "Pot desactivar el seu compte amb l'enllaç. Però les dades no poden ser esborrades. Encara que contacti amb Atenció al client no esborraran les seves dades.",
         "notes_es": "Puedes desactivar tu cuenta con el enlace. Pero los datos no pueden ser borrados, aunque contacta con atención al cliente no borrarán sus datos.",
         "domains": [
             "onlinetvrecorder.com"
@@ -5940,8 +5940,8 @@
         "notes": "You can't delete your Google Account for Picasa Web Albums without deleting your entire Google Account.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Picassa sans supprimer votre compte Google.",
         "notes_it": "Non puoi eliminare il tuo account Picasa Web Albums senza eliminare l'intero Account Google.",
-        "notes_pt_br": "Você não pode deletar sua conta Picasa sem deletar toda sua Conta Google.",
-        "notes_cat": "No pot esborrar el seu compte a Picasa sense esborrar el seu compte de Google.",
+        "notes_pt-BR": "Você não pode deletar sua conta Picasa sem deletar toda sua Conta Google.",
+        "notes_ca": "No pot esborrar el seu compte a Picasa sense esborrar el seu compte de Google.",
         "notes_es": "No puedes borrar tu cuenta de Picasa sin borrar toda la cuenta de Google.",
         "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze Picasa Web Albums bez usuwania całego konta Google.",
         "domains": [
@@ -5955,7 +5955,7 @@
         "url": "https://ajuda.picpay.com/mobile/como-desativar-minha-conta",
         "difficulty": "impossible",
         "notes": "PicPay accounts can't be deleted, only disabled.",
-        "notes_pt_br": "Contas do PicPay não podem ser excluídas, apenas desativadas.",
+        "notes_pt-BR": "Contas do PicPay não podem ser excluídas, apenas desativadas.",
         "domains": [
             "picpay.com",
             "picpay.me"
@@ -6095,8 +6095,8 @@
         "notes": "Fill out the deletion form",
         "notes_fr": "Completez le formulaire de suppression",
         "notes_it": "Completa il form per l'eliminazione.",
-        "notes_pt_br": "Preencha o formulário de remoção",
-        "notes_cat": "Completi el formulari d'eliminació del compte",
+        "notes_pt-BR": "Preencha o formulário de remoção",
+        "notes_ca": "Completi el formulari d'eliminació del compte",
         "notes_es": "Completa el formulario de eliminación de la cuenta",
         "domains": [
             "pof.com"
@@ -6118,7 +6118,7 @@
         "url": "https://help.pluralsight.com/help/how-do-i-delete-my-account",
         "difficulty": "easy",
         "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
-        "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
+        "notes_pt-BR": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
         "email": "support@pluralsight.com",
         "domains": [
             "codeschool.com",
@@ -6206,8 +6206,8 @@
         "notes": "Log into your account -> Click the link (data fully deleted, not possible to revert this).",
         "notes_fr": "Connectez-vous -> Appuyez le lien (toutes les données sont supprimées définitivement).",
         "notes_it": "Entra nel tuo account -> Clicca il link (informazioni completamente eliminate, operazione non reversibile).",
-        "notes_pt_br": "Faça login em sua conta -> Clique no link (dados totalmente apagados, não é possível reverter).",
-        "notes_cat": "Entri al seu compte -> Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
+        "notes_pt-BR": "Faça login em sua conta -> Clique no link (dados totalmente apagados, não é possível reverter).",
+        "notes_ca": "Entri al seu compte -> Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
         "notes_es": "Entra en tu cuenta -> Haz clic en el enlace (los datos se eliminan permanentmente, no es posible de deshacerlo).",
         "domains": [
             "postcrossing.com"
@@ -6405,8 +6405,8 @@
         "notes": "Login, go to the settings page and click 'I want to delete my account'.",
         "notes_fr": "Connectez-vous, allez dans les parametres et cliquez sur « I want to delete my account ».",
         "notes_it": "Entra, recati nella pagina impostazioni e clicca 'Voglio eliminare il mio account'.",
-        "notes_pt_br": "Faça login, vá na página de configurações e clique 'I want to delete my account'.",
-        "notes_cat": "Entri al seu compte, vagi a la pàgina de configuració i cliqui a 'I want to delete my account'.",
+        "notes_pt-BR": "Faça login, vá na página de configurações e clique 'I want to delete my account'.",
+        "notes_ca": "Entri al seu compte, vagi a la pàgina de configuració i cliqui a 'I want to delete my account'.",
         "notes_es": "Entra en tu cuenta, ve a la página de configuración y pulsa 'I want to delete my account'.",
         "domains": [
             "rainforestqa.com"
@@ -6459,7 +6459,7 @@
         "url": "https://recargapay.com.br/user/close-account",
         "difficulty": "impossible",
         "notes": "You can't completely delete your account. On the account closure page, you are informed that after you closing your account, most of your data will be deleted from the system, however it's not specified which data will be kept and why. Closed accounts can also be reactivated at any time by the user.",
-        "notes_pt_br": "Você não pode excluir completamente sua conta. Na página de encerramento, você é informado que, após encerrar sua conta, a maioria dos seus dados serão excluídos do sistema, no entanto, não é especificado quais dados serão mantidos e nem o porquê. Contas encerradas também podem ser reativadas a qualquer momento pelo usuário.",
+        "notes_pt-BR": "Você não pode excluir completamente sua conta. Na página de encerramento, você é informado que, após encerrar sua conta, a maioria dos seus dados serão excluídos do sistema, no entanto, não é especificado quais dados serão mantidos e nem o porquê. Contas encerradas também podem ser reativadas a qualquer momento pelo usuário.",
         "domains": [
             "recarga.com",
             "recarga.helpshift.com",
@@ -6494,8 +6494,8 @@
         "difficulty": "hard",
         "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username.",
         "notes_it": "Per eliminare il tuo account invia un'e-mail a support@redditgifts.com. Invia l'e-mail dall'indirizzo associato al tuo account ed inserisci il tuo username reddit.",
-        "notes_pt_br": "Caso você decida apagar sua conta você deve enviar um e-mail para support@redditgifts.com. O e-mail deve ser enviado pelo e-mail associado a sua conta e você deve especificar seu usuário reddit.",
-        "notes_cat": "Si decideix desactivar el seu compte haurà de posarse en contacte amb support@redditgifts.com. Haurà d'enviar l'e-mail i nom de l'usuari de Reddit associat al compte de la web.",
+        "notes_pt-BR": "Caso você decida apagar sua conta você deve enviar um e-mail para support@redditgifts.com. O e-mail deve ser enviado pelo e-mail associado a sua conta e você deve especificar seu usuário reddit.",
+        "notes_ca": "Si decideix desactivar el seu compte haurà de posarse en contacte amb support@redditgifts.com. Haurà d'enviar l'e-mail i nom de l'usuari de Reddit associat al compte de la web.",
         "notes_es": "Si decide desactivar tu cuenta tendrás que ponerte en contacto con support@redditgifts.com. Deberás enviar el e-mail y nombre de usuario de Reddit asociado a la cuenta de la web.",
         "email": "support@redditgifts.com",
         "email_body": "My reddit username is XXXXXX",
@@ -6628,8 +6628,8 @@
         "difficulty": "easy",
         "notes": "Bottom link 'Delete Account'",
         "notes_it": "Link sul fondo 'Delete Account'.",
-        "notes_pt_br": "Link no final 'Delete Account'",
-        "notes_cat": "Enllaç al final: 'Delete Account'",
+        "notes_pt-BR": "Link no final 'Delete Account'",
+        "notes_ca": "Enllaç al final: 'Delete Account'",
         "notes_es": "Enlace al final: 'Delete Account'",
         "domains": [
             "rovio.com"
@@ -6652,8 +6652,8 @@
         "difficulty": "easy",
         "notes": "Enter your password, select a reason for deletion, complete the captcha, press the delete button and then confirm it in the dialog.",
         "notes_it": "Inserire la password, selezionare un motivo per la cancellazione, completare il captcha, premere il pulsante Elimina e quindi confermare nella finestra di dialogo.",
-        "notes_pt_br": "Digite sua senha, selecione um motivo para a exclusão, preencha o captcha, pressione o botão delete e confirme-o na caixa de diálogo.",
-        "notes_cat": "Introduïu la vostra contrasenya, seleccioneu un motiu d'eliminació, completeu el captcha, premeu el botó Suprimeix i després confirmeu-lo al diàleg.",
+        "notes_pt-BR": "Digite sua senha, selecione um motivo para a exclusão, preencha o captcha, pressione o botão delete e confirme-o na caixa de diálogo.",
+        "notes_ca": "Introduïu la vostra contrasenya, seleccioneu un motiu d'eliminació, completeu el captcha, premeu el botó Suprimeix i després confirmeu-lo al diàleg.",
         "notes_es": "Ingrese su contraseña, seleccione un motivo para la eliminación, complete el captcha, presione el botón Eliminar y luego confírmelo en el cuadro de diálogo.",
         "domains": [
             "runkeeper.com"
@@ -6675,7 +6675,7 @@
         "url": "https://account.samsung.com/membership/contents/profile/delete-samsung-account",
         "difficulty": "easy",
         "notes": "Click in the checkbox \"I confirm the conditions above\", click at \"Delete\", type your password and confirm your action by clicking \"Confirm\".",
-        "notes_pt_br": "Marque a opção \"Confirmo as condições acima\", clique em \"Excluir\", digite sua senha e clique em \"Confirmar\" para confirmar a exclusão da sua conta.",
+        "notes_pt-BR": "Marque a opção \"Confirmo as condições acima\", clique em \"Excluir\", digite sua senha e clique em \"Confirmar\" para confirmar a exclusão da sua conta.",
         "domains": [
             "samsung.com"
         ]
@@ -6709,8 +6709,8 @@
         "notes": "Login to your account and follow 'Account Suspension' instructions.",
         "notes_fr": "Connectez vous et suivez les instructions de suspension du compte.",
         "notes_it": "Entra nel tuo account e segui le istruzioni 'Account Suspension'.",
-        "notes_pt_br": "Faça login e siga as instruções de 'Account Suspension'.",
-        "notes_cat": "Entri al seu compte i segueixi les instruccions a 'Account Suspension'.",
+        "notes_pt-BR": "Faça login e siga as instruções de 'Account Suspension'.",
+        "notes_ca": "Entri al seu compte i segueixi les instruccions a 'Account Suspension'.",
         "notes_es": "Entra en tu cuenta y sigue las instrucciones en 'Account Suspension'.",
         "domains": [
             "scanmyserver.com"
@@ -6762,8 +6762,8 @@
         "notes": "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'.",
         "notes_fr": "Selectionnez supprimer mon compte. Choisissez la raison et cliquez 'close my shopify store'",
         "notes_it": "Seleziona 'Please cancel my account'. Seleziona un motivo e seleziona 'close my shopify store'.",
-        "notes_pt_br": "Selecione 'Please cancel my account'. Escolha um motivo e selecione 'close my shopify store'.",
-        "notes_cat": "Seleccioni 'Please cancel my account'. Esculli un motiu i seleccioni 'close my shopify store'.",
+        "notes_pt-BR": "Selecione 'Please cancel my account'. Escolha um motivo e selecione 'close my shopify store'.",
+        "notes_ca": "Seleccioni 'Please cancel my account'. Esculli un motiu i seleccioni 'close my shopify store'.",
         "notes_es": "Selecciona 'Please cancel my account'. Selecciona un motivo y pulsa 'close my shopify store'.",
         "domains": [
             "shopify.com"
@@ -6775,7 +6775,7 @@
         "url": "https://shorte.st/profile/remove-account",
         "difficulty": "medium",
         "notes": "Log in to your account, access the account deletion link specified above, access the confirmation link received by email and select 'Remove Account'. Note: Your created links will remain working and you will not be able to use the same email for creating a new account. So remember to manually delete all your created links first.",
-        "notes_pt_br": "Entre na sua conta, acesse o link de exclusão especificado acima, acesse o link de confirmação recebido por email e selecione 'Remove Account'. Nota: Os links criados irão continuar funcionando e você não poderá usar o mesmo email para criar uma nova conta. Então lembre-se de primeiro apagar manualmente todos os seus links criados.",
+        "notes_pt-BR": "Entre na sua conta, acesse o link de exclusão especificado acima, acesse o link de confirmação recebido por email e selecione 'Remove Account'. Nota: Os links criados irão continuar funcionando e você não poderá usar o mesmo email para criar uma nova conta. Então lembre-se de primeiro apagar manualmente todos os seus links criados.",
         "domains": [
             "shorte.st"
         ]
@@ -6808,8 +6808,8 @@
         "notes": "Contact customers services by email or live chat and request deletion.",
         "notes_fr": "Contactez le service clients par e-mail our par le tchat en ligne et demandez la suppression de votre compte.",
         "notes_it": "Contatta il servizio clienti via email o via chat e richiedi la cancellazione.",
-        "notes_pt_br": "Contate a assistência ao cliente por e-mail ou chat ao vivo e peça a remoção.",
-        "notes_cat": "Contacti amb l'assistència al client per e-mail o chat i demani la supressió del compte.",
+        "notes_pt-BR": "Contate a assistência ao cliente por e-mail ou chat ao vivo e peça a remoção.",
+        "notes_ca": "Contacti amb l'assistència al client per e-mail o chat i demani la supressió del compte.",
         "notes_es": "Contacta con la asistencia al cliente por e-mail o chat y pide la supresión de la cuenta.",
         "email": "customerservice@cs.shutterfly.com",
         "domains": [
@@ -6896,8 +6896,8 @@
         "notes": "Contact customer services on chat. You’ll need to know whether you bought services from Skype, you’ll need to verify your signup email address.",
         "notes_fr": "Contactez le service clients. Il vous faudra les noms de 5 de vos contacts, le mois de la création de votre compte, et l'adresse e-mail du compte.",
         "notes_it": "Contatta il servizio clienti. Devi conoscere 5 contatti dalla tua lista contatti, il mese di creazione dell'account e la email con cui ti sei registrato.",
-        "notes_pt_br": "Contate a assistência ao cliente. Você precisará saber 5 contatos da sua lista de contatos, o mês em que sua conta foi criada, e seu e-mail de cadastro.",
-        "notes_cat": "Contacti amb l'assistència al client. Haurà de coneixer 5 contactes de la seva llista, el mes que va ser creat el compte i el e-mail associat.",
+        "notes_pt-BR": "Contate a assistência ao cliente. Você precisará saber 5 contatos da sua lista de contatos, o mês em que sua conta foi criada, e seu e-mail de cadastro.",
+        "notes_ca": "Contacti amb l'assistència al client. Haurà de coneixer 5 contactes de la seva llista, el mes que va ser creat el compte i el e-mail associat.",
         "notes_es": "Contacta con la asistencia al cliente. Deberás conocer 5 contactos de su lista, el mes que la cuenta fue creada y el e-mail asociado.",
         "domains": [
             "skype.com"
@@ -6973,8 +6973,8 @@
         "notes": "Enter username and password and click 'Delete'.",
         "notes_fr": "Entrez votre pseudo et votre mot de passe et cliquez sur supprimer.",
         "notes_it": "Inserisci username e password e clicca 'Delete'.",
-        "notes_pt_br": "Digite seu usuário e senha e clique em 'Delete'.",
-        "notes_cat": "Entri el seu nom d'usuari i contrasenya i faci clic a 'Delete'.",
+        "notes_pt-BR": "Digite seu usuário e senha e clique em 'Delete'.",
+        "notes_ca": "Entri el seu nom d'usuari i contrasenya i faci clic a 'Delete'.",
         "notes_es": "Entra tu nombre de usuario y contraseña y haz clic en 'Delete'.",
         "domains": [
             "snapchat.com"
@@ -7001,7 +7001,7 @@
         "notes_fr": "Votre compte utilisateur sera supprimé après 7 jours si vous n’annulez pas l’opération à l’avance. Le contenu créé, comme les publications de forum, n’est pas supprimé, mais votre nom d’utilisateur est anonymisé et protégé contre la réinscription pendant 363 jours.",
         "notes_ar": "سيتم حذف حساب المستخدم الخاص بك بعد 7 أيام إذا لم تقم بإلغاء العملية مسبقًا. لا يتم حذف المحتوى الذي تم إنشاؤه، مثل منشورات المنتدى، ولكن اسم المستخدم الخاص بك مجهول الهوية ومحمي من إعادة التسجيل لمدة 363 يومًا.",
         "notes_fa": "اگر عملیات را از قبل لغو نکنید ، حساب کاربری شما پس از 7 روز حذف خواهد شد. محتوا ایجاد شده ، مانند ارسال های انجمن ، حذف نمی شود ، اما نام کاربری شما ناشناس است و از ثبت مجدد برای ۳۶۳ روز محافظت می شود.",
-        "notes_cn": "ا如果您未提前取消操作，您的使用者帳戶將在 7 天后刪除。創建的內容（如論壇帖子）不會被刪除，但您的使用者名是匿名的，並且不會重新註冊 363 天。",
+        "notes_zh-CN": "ا如果您未提前取消操作，您的使用者帳戶將在 7 天后刪除。創建的內容（如論壇帖子）不會被刪除，但您的使用者名是匿名的，並且不會重新註冊 363 天。",
         "notes_jp": "操作を事前にキャンセルしない場合、7日後にユーザーアカウントが削除されます。フォーラムの投稿など、作成されたコンテンツは削除されませんが、ユーザー名は匿名化され、363 日間の再登録から保護されます。",
         "notes_gr": "Ο λογαριασμός χρήστη σας θα διαγραφεί μετά από 7 ημέρες, εάν δεν ακυρώσετε την εργασία εκ των προτέρων. Το περιεχόμενο που δημιουργείται, όπως οι δημοσιεύσεις του φόρουμ, δεν διαγράφεται, αλλά το όνομα χρήστη σας είναι ανώνυμο και προστατεύεται από την εκ νέου εγγραφή για 363 ημέρες.",
         "notes_ru": "Ваша учетная запись будет удалена через 7 дней, если вы не отмените операцию заранее. Созданный контент (например, публикации на форуме) не удаляется, но имя пользователя обезличивается и блокируется для повторной регистрации на 363 дня.",
@@ -7044,8 +7044,8 @@
         "notes": "Send a request to legal@sonico.com and request deletion.",
         "notes_fr": "Envoyez une demande de suppression à legal@sonico.com .",
         "notes_it": "Invia la richiesta a legal@sonico.com",
-        "notes_pt_br": "Envie um pedido para legal@sonico.com e peça a remoção.",
-        "notes_cat": "Enviï una petició per esborrar el seu compte a legal@sonico.com.",
+        "notes_pt-BR": "Envie um pedido para legal@sonico.com e peça a remoção.",
+        "notes_ca": "Enviï una petició per esborrar el seu compte a legal@sonico.com.",
         "notes_es": "Envía una petición para borrar tu cuenta a legal@sonico.com.",
         "email": "legal@sonico.com",
         "domains": [
@@ -7082,8 +7082,8 @@
         "notes": "Data created by the user such as posts and tickets will remain and be attributed to the account, even if deleted. The username will not become available.",
         "notes_fr": "Les données crées par l'utilisateur resteront, même après la suppression du compte. Le pseudo ne devient pas disponbile.",
         "notes_it": "I dati creati dall'utente come post e ticket rimarranno attribuiti all'account, anche se cancellato. L'username non sarà più disponibile.",
-        "notes_pt_br": "Dados criads pelo usuário como posts e tickets se manterão atribuídos à conta, mesmo que deletada. O usuário não se tornará disponível.",
-        "notes_cat": "Les dades creades per l'usuari, com els posts i tickets es mantindran atribuits al compte, inclús si es eliminada. El nom d'usuari no estarà disponible.",
+        "notes_pt-BR": "Dados criads pelo usuário como posts e tickets se manterão atribuídos à conta, mesmo que deletada. O usuário não se tornará disponível.",
+        "notes_ca": "Les dades creades per l'usuari, com els posts i tickets es mantindran atribuits al compte, inclús si es eliminada. El nom d'usuari no estarà disponible.",
         "notes_es": "Los datos creados por el usuario, como los posts y tiquets se mantendrán atribuidos a la cuenta, incluso si es eliminada. El nombre de usuario no estará disponible.",
         "domains": [
             "sourceforge.net"
@@ -7147,8 +7147,8 @@
         "notes": "If you haven’t posted on the site, it’s just one click. If you have voted or posted, please contact the Stack Exchange Team: Visit the contact form and select ‘I need to delete my user profile’. After you contact us, the team will reach out with further instructions.",
         "notes_fr": "Si vous n'avez pas posté, il ne faut qu'un clic. Sinon, remplacez votre bio par « please delete me » puis contactez le support du site.",
         "notes_it": "Se non hai effettuato alcuna azione sul sito, basta un click. Altrimenti, edita il tuo 'About me' biografia in 'please delete me' quindi contatta il servizio clienti.",
-        "notes_pt_br": "Se você não postou no site, apenas um clique é necessário. Caso contrário, edite a sua 'About Me' biografia e escreva 'please delete me' e então contate o suporte.",
-        "notes_cat": "Si mai ha publicat al lloc només és un clic. En cas contrari, editi la seva biografia a 'About Me' i escrigui 'please delete me' a continuació contacti amb atenció al client.",
+        "notes_pt-BR": "Se você não postou no site, apenas um clique é necessário. Caso contrário, edite a sua 'About Me' biografia e escreva 'please delete me' e então contate o suporte.",
+        "notes_ca": "Si mai ha publicat al lloc només és un clic. En cas contrari, editi la seva biografia a 'About Me' i escrigui 'please delete me' a continuació contacti amb atenció al client.",
         "notes_es": "Si nunca has publicado en el sitio sólo es un clic. Si no, edita tu biografía en 'About Me' y escribe 'please delete me', luego contacta con atención al cliente.",
         "domains": [
             "stackoverflow.com"
@@ -7161,8 +7161,8 @@
         "difficulty": "impossible",
         "notes": "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”.",
         "notes_it": "Non elimineranno il tuo account ma su richiesta potranno cancellare tutte le tue informazioni.",
-        "notes_pt_br": "Eles não irão deletar sua conta mas mediante pedido eles podem “bagunçar todas suas informações para que você não receba e-mails e nenhuma informação sua esteja disponível a [eles] potenciais fraudes”.",
-        "notes_cat": "No poden esborrar el compte, pero si ho demanes poden “esborrar tota la seva informació per tal de no rebre e-mails i cap de les teves informacions estigui disponibl a [ells] per potencials accions fraudulentes.”.",
+        "notes_pt-BR": "Eles não irão deletar sua conta mas mediante pedido eles podem “bagunçar todas suas informações para que você não receba e-mails e nenhuma informação sua esteja disponível a [eles] potenciais fraudes”.",
+        "notes_ca": "No poden esborrar el compte, pero si ho demanes poden “esborrar tota la seva informació per tal de no rebre e-mails i cap de les teves informacions estigui disponibl a [ells] per potencials accions fraudulentes.”.",
         "notes_es": "No pueden borrar la cuenta, pero si lo pides pueden «borrar toda su información para no recibir e-mails y ninguna de tus informaciones estén disponibles para [ellos] potenciales acciones fraudulentas»",
         "domains": [
             "starbucks.com"
@@ -7206,7 +7206,7 @@
         "notes": "The deletion of your entry can not be undone. All your profile data, contacts, messages and pictures will be permanently removed. Your classmates and contacts can no longer StayFriends contact you.",
         "notes_it": "La cancellazione non può essere annullata. Tutti i tuoi dati, contatti messaggi e foto verrano eliminati permanentemente.",
         "notes_de": "Die Löschung Ihres Eintrages kann nicht rückgängig gemacht werden. Alle Ihre Profildaten, Kontakte Nachrichten und Bilder werden unwiderruflich entfernt. Ihre Mitschüler und Kontakte können nicht mehr über StayFriends Kontakt zu Ihnen aufnehmen.",
-        "notes_cat": "L'eliminació no pot ser anulada. Totes les dades del teu perfil, contactes, missatges i imatges seran eliminades permanentment. Ningú es podrà posar en contacte amb tu.",
+        "notes_ca": "L'eliminació no pot ser anulada. Totes les dades del teu perfil, contactes, missatges i imatges seran eliminades permanentment. Ningú es podrà posar en contacte amb tu.",
         "notes_es": "La eliminación no puede ser anulada. Todos los datos de tu perfil, contactos, mensajes e imágenes serán eliminadas permanentemente. Nadie podrá ponerse en contacto contigo.",
         "domains": [
             "stayfriends.de"
@@ -7293,8 +7293,8 @@
         "notes": "You can reactivate within 14 days. After that the account is deleted.",
         "notes_fr": "Vous pouvez réactiver pour 14 jours. Après le compte est supprimé.",
         "notes_it": "Puoi riattivare il tuo account entro 14 giorni. Dopodichè sarà cancellato.",
-        "notes_pt_br": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
-        "notes_cat": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
+        "notes_pt-BR": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
+        "notes_ca": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
         "notes_es": "Puedes reactivarla en un plazo de 14 días. Después de este fecha la cuenta será borrada.",
         "domains": [
             "stumbleupon.com"
@@ -7317,7 +7317,7 @@
         "url": "https://supercell.helpshift.com/a/clash-of-clans/?s=my-account&f=how-do-i-delete-my-account",
         "difficulty": "impossible",
         "notes": "Even after \"deleting\" your account, Supercell will still keep your personal information saved on its servers to, according to them, \"business interests\".",
-        "notes_pt_br": "Mesmo após \"excluir\" sua conta, a Supercell ainda irá manter suas informações pessoas salvas em seus servidores para, segundo eles, \"interesses comerciais\".",
+        "notes_pt-BR": "Mesmo após \"excluir\" sua conta, a Supercell ainda irá manter suas informações pessoas salvas em seus servidores para, segundo eles, \"interesses comerciais\".",
         "domains": [
             "boombeach.com",
             "brawlstars.com",
@@ -7398,7 +7398,7 @@
         "url": "https://help.tango.me/en/articles/2985296-how-do-i-delete-my-tango-account",
         "difficulty": "easy",
         "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
-        "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
+        "notes_pt-BR": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
         "email": "support@tango.me",
         "domains": [
             "tango.me"
@@ -7432,8 +7432,8 @@
         "difficulty": "easy",
         "notes": "Edit profile (menu item at the top right corner of the page) →  Delete account",
         "notes_it": "Modifica profilo (menu nell'angolo superiore destro della pagina) →  Delete account",
-        "notes_pt_br": "Edit profile (menu no canto do topo à direita da página) →  Delete account",
-        "notes_cat": "Edit profile (menú situat a la cantonada superior esquerra) →  Delete account",
+        "notes_pt-BR": "Edit profile (menu no canto do topo à direita da página) →  Delete account",
+        "notes_ca": "Edit profile (menú situat a la cantonada superior esquerra) →  Delete account",
         "notes_es": "Edit profile (menú situado en la esquina superior izquierda) →  Delete account",
         "domains": [
             "teamviewer.com"
@@ -7455,7 +7455,7 @@
         "url": "https://technorati.com",
         "difficulty": "impossible",
         "notes": "It's not possible to remove your account, but you can remove your blogs.",
-        "notes_pt_br": "Não é possível remover sua conta, mas você pode remover seus blogs.",
+        "notes_pt-BR": "Não é possível remover sua conta, mas você pode remover seus blogs.",
         "domains": [
             "technorati.com"
         ]
@@ -7486,7 +7486,7 @@
         "url": "https://textplus.com",
         "difficulty": "impossible",
         "notes": "This website does not provide options that allow the user to delete their account.",
-        "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
+        "notes_pt-BR": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
         "domains": [
             "textplus.com",
             "nextplus.me"
@@ -7521,8 +7521,8 @@
         "difficulty": "hard",
         "notes": "You must submit a request to close your account via the form.",
         "notes_it": "Devi inviare una richiesta attraverso il form per chiudere il tuo account.",
-        "notes_pt_br": "Você deve enviar um pedido para fechar sua conta pelo formulário.",
-        "notes_cat": "Haurà de sol·licitar que esborrin el seu compte via formulari.",
+        "notes_pt-BR": "Você deve enviar um pedido para fechar sua conta pelo formulário.",
+        "notes_ca": "Haurà de sol·licitar que esborrin el seu compte via formulari.",
         "notes_es": "Deberás solicitar que borren tu cuenta vía formulario.",
         "domains": [
             "ticketmaster.com"
@@ -7665,8 +7665,8 @@
         "notes": "Select 'Delete your account?' option to delete your account",
         "notes_fr": "Selectionnez 'Supprimer mon compte?' pour le supprimer.",
         "notes_it": "Seleziona 'Eliminare il tuo account?' per eliminare il tuo account.",
-        "notes_pt_br": "Selecione a opção 'Delete your account?' para deletar sua conta",
-        "notes_cat": "Seleccioni l'opció 'Delete your account?' per esborrar el seu compte",
+        "notes_pt-BR": "Selecione a opção 'Delete your account?' para deletar sua conta",
+        "notes_ca": "Seleccioni l'opció 'Delete your account?' per esborrar el seu compte",
         "notes_es": "Selecciona la opción 'Delete your account?' para borrar tu cuenta ",
         "domains": [
             "trello.com"
@@ -7736,7 +7736,7 @@
         "url": "http://mail.tutanota.com/settings/subscription",
         "difficulty": "easy",
         "notes": "Go to \"Delete account\", type your password and confirm your action by clicking \"Delete\".",
-        "notes_pt_br": "Vá para \"Delete account\", digite sua senha e clique em \"Delete\" para confirmar a exclusão da sua conta.",
+        "notes_pt-BR": "Vá para \"Delete account\", digite sua senha e clique em \"Delete\" para confirmar a exclusão da sua conta.",
         "domains": [
             "keemail.me",
             "tuta.io",
@@ -7821,8 +7821,8 @@
         "difficulty": "hard",
         "notes": "Yes and no, it depends on which type(s) of accounts, and you will need to delete the accounts in the correct order. All accounts are tied to Ubuntu One's Single Sign-On (login.ubuntu.com), so that is the account you should close last. Everything else, such as Launchpad.net, cloud file storage, AskUbuntu, and other accounts should be closed first if possible. This is especially important if you have any paid services attached, to make sure you won't be billed for anything after closing the accounts. The last step is to delete your Single Sign-On (SSO) account. SSO accounts must be deleted manually by the Ubuntu One staff.",
         "notes_it": "Si e no, dipende dal tipo/i di account, e dovrai eliminare gli account nel giusto order. Tutti gli account sono collegati a Ubuntu One's Single Sign-On (login.ubuntu.com), quindi questo sarà l'ultimo account da chiudere. Tutto il resto, come Launchpad.net, cloud file storage, AskUbuntu e gli altri account devono essere chiusi prima, se possibile. Questo è importante soprattutto se hai qualche servizio a pagamento collegato, per essere sicuro di non ricevere richieste di pagamento dopo la chiusura degli account. L'ultimo passo è eliminare il tuo Single Sign-On (SSO) account. Questo deve essere eliminato manualmente dallo staff di Ubuntu One.",
-        "notes_pt_br": "Sim e não, depende do(s) tipo(s) de conta(s), e você precisará deletar a(s) conta(s) na ordem correta. Todas as contas estão ligadas ao Single Sign-on (login.ubuntu.com) do Ubuntu One, então esta é a conta que você deve fechar por último. De resto, como Launchpad.net, armazenamento de arquivos na nuvem, AskUbuntu, e outras contas devem ser fechadas primeiro se possível. Isto é muito importante se você tem algum serviço pago ligado, para ter certeza que você não será cobrado por qualquer coisa após fechar suas contas. O último passo é fechar sua conta Single Sign-On (SSO). Contas SSO devem ser deletadas manualmente pela equipe do Ubuntu One.",
-        "notes_cat": "Si i no, depén del tipo(s) de compte(s), i l'haurà d'eliminar en l'ordre correcte.  Tots els comptes estan relacionats amb l'inici de sessió únic (login.ubuntu.com) Ubuntu One, aleshores aquesta és l'ultim compte que has de tancar . A més,   l'enmagatzematge d'arxius en el núvo Launchpad.net, AskUbuntu i altres comptes s'han de tancar abans si és possible. Això és molt important si té algun servei de pagament, per assegurar-se que no se li cobrarà res després de tancar els seus comptes. L'últim pas és tancar el compte de Single Sign-On (SSO). Comptes d'SSO han de ser eliminats manualment pel personal d'Ubuntu One.",
+        "notes_pt-BR": "Sim e não, depende do(s) tipo(s) de conta(s), e você precisará deletar a(s) conta(s) na ordem correta. Todas as contas estão ligadas ao Single Sign-on (login.ubuntu.com) do Ubuntu One, então esta é a conta que você deve fechar por último. De resto, como Launchpad.net, armazenamento de arquivos na nuvem, AskUbuntu, e outras contas devem ser fechadas primeiro se possível. Isto é muito importante se você tem algum serviço pago ligado, para ter certeza que você não será cobrado por qualquer coisa após fechar suas contas. O último passo é fechar sua conta Single Sign-On (SSO). Contas SSO devem ser deletadas manualmente pela equipe do Ubuntu One.",
+        "notes_ca": "Si i no, depén del tipo(s) de compte(s), i l'haurà d'eliminar en l'ordre correcte.  Tots els comptes estan relacionats amb l'inici de sessió únic (login.ubuntu.com) Ubuntu One, aleshores aquesta és l'ultim compte que has de tancar . A més,   l'enmagatzematge d'arxius en el núvo Launchpad.net, AskUbuntu i altres comptes s'han de tancar abans si és possible. Això és molt important si té algun servei de pagament, per assegurar-se que no se li cobrarà res després de tancar els seus comptes. L'últim pas és tancar el compte de Single Sign-On (SSO). Comptes d'SSO han de ser eliminats manualment pel personal d'Ubuntu One.",
         "notes_es": "Sí y no, depende del tipo(s) de cuenta(s), y la(s) deberás eliminar en el orden correcto. Todas las cuentas están relacionados con el inicio de sesión único (login.ubuntu.com) Ubuntu One, entonces esta es la última cuenta que tienes que cerrar. Además, el almacenamiento de archivos en la nube Launchpad.net, AskUbuntu y otras cuentas se deberán cerrarán antes si es posible. Esto es muy importante si tienes algún servicio de pago, para asegurarte de que no te le cobrarás nada después de cerrar tus cuentas. el último paso es cerrar la cuenta de Single Sign-On (SSO). Las cuentas de SSO deben ser eliminadas a mano por el personal de Ubuntu One ",
         "domains": [
             "one.ubuntu.com"
@@ -7836,8 +7836,8 @@
         "notes": "A Udacity employee recommends that you stop using the account, which means there's currently no way of deleting the account.",
         "notes_fr": "Udacity recommande à arrêter votre usage du compte, qui veut dire qu'il n'y a pas de façon de supprimer le compte en ce moment.",
         "notes_it": "Un impiegato di Udacity consiglia di smettere di usare l'account, il che significa che non ci sono modi differenti per eliminare l'account.",
-        "notes_pt_br": "Um empregado Udacity recomenda que você pare de usar a conta, o que significa que não há como deletar sua conta atualmente.",
-        "notes_cat": "Un treballador d'Udacity recomana que pari d'utilitzar el compte, això vol dir que no hi ha cap manera d'esborrar el compte de moment.",
+        "notes_pt-BR": "Um empregado Udacity recomenda que você pare de usar a conta, o que significa que não há como deletar sua conta atualmente.",
+        "notes_ca": "Un treballador d'Udacity recomana que pari d'utilitzar el compte, això vol dir que no hi ha cap manera d'esborrar el compte de moment.",
         "notes_es": "Un empleado de Udacity recomienda que pares de utilizar la cuenta, es decir que no hay ninguna manera de borrar la cuenta de momento.",
         "domains": [
             "udacity.com"
@@ -7850,8 +7850,8 @@
         "difficulty": "medium",
         "notes": "In order to delete your account, you need to first unsubscribe from all of your courses.",
         "notes_it": "Per eliminare il tuo account devi prima dis-iscriverti da tutti i tuoi corsi.",
-        "notes_pt_br": "Para deletar sua conta, você precisa se desinscrever de todos os seus cursos.",
-        "notes_cat": "Per esborrar el seu compte, haurà de deixar d'estar subscrit a tots els cursos.",
+        "notes_pt-BR": "Para deletar sua conta, você precisa se desinscrever de todos os seus cursos.",
+        "notes_ca": "Per esborrar el seu compte, haurà de deixar d'estar subscrit a tots els cursos.",
         "notes_es": "Para borrar tu cuenta, primera deberás cancelar las suscripciones a todos los cursos.",
         "domains": [
             "udemy.com"
@@ -7949,8 +7949,8 @@
         "notes": "Scroll down to the bottom of the 'Account Settings' page and click 'Delete Account'",
         "notes_fr": "Tout en bas de la page il y a 'Parametre du compte' cliquez 'Supprimer mon compte'.",
         "notes_it": "Scrolla fino al fondo della pagina 'Impostazioni Accountì e clicca 'Elimina Account'",
-        "notes_pt_br": "Vá até o final da página 'Account Settings' e clique em 'Delete Account'",
-        "notes_cat": "Baixi fins al peu de la pàgina a 'Account Settings' i cliqui a 'Delete Account'",
+        "notes_pt-BR": "Vá até o final da página 'Account Settings' e clique em 'Delete Account'",
+        "notes_ca": "Baixi fins al peu de la pàgina a 'Account Settings' i cliqui a 'Delete Account'",
         "notes_es": "Desplázate hasta el pie de la página en 'Account Settings' y pulsa 'Delete Account",
         "domains": [
             "ustream.tv"
@@ -7964,8 +7964,8 @@
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
         "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
+        "notes_pt-BR": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
+        "notes_ca": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
@@ -8017,8 +8017,8 @@
         "notes": "There's a button on the right, just under the menu.",
         "notes_fr": "La bouton de suppression se trouve sur la droite sous le menu.",
         "notes_it": "C'è un bottone sulla destra, proprio sotto il menu.",
-        "notes_pt_br": "Existe um botão à direita, logo abaixo do menu.",
-        "notes_cat": "Hi ha un botò a la dreta, just a sota del menu.",
+        "notes_pt-BR": "Existe um botão à direita, logo abaixo do menu.",
+        "notes_ca": "Hi ha un botò a la dreta, just a sota del menu.",
         "notes_es": "Hay un botón a la derecha, abajo del menú.",
         "domains": [
             "viadeo.com"
@@ -8051,8 +8051,8 @@
         "notes": "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form.",
         "notes_fr": "La seule façon de supprimer votre compte Vine sans supprimer votre compte Twitter, est de contacter Twitter directement.",
         "notes_it": "L'unico modo per eliminare il tuo account Vine senza eliminare il tuo account Twitter è contattare Twitter attraverso il loro form contatti.",
-        "notes_pt_br": "A única maneira de deletar sua conta Vine sem deletar sua conta no Twitter é contatar o Twitter por meio do formulário de contato.",
-        "notes_cat": "L'unica manera d'esborrar el seu compte de Vine sense esborrar el compte de Twitter es contactar amb Twitter via el seu formulari de contacte.",
+        "notes_pt-BR": "A única maneira de deletar sua conta Vine sem deletar sua conta no Twitter é contatar o Twitter por meio do formulário de contato.",
+        "notes_ca": "L'unica manera d'esborrar el seu compte de Vine sense esborrar el compte de Twitter es contactar amb Twitter via el seu formulari de contacte.",
         "notes_es": "La única manera de borrar tu cuenta de Vine sin borrar la cuenta de Twitter es contactar con Twitter vía su formulario de contacto.",
         "domains": [
             "vine.co"
@@ -8064,7 +8064,7 @@
         "url": "https://www.virtualmaster.com/virtualmaster/en/issues",
         "difficulty": "hard",
         "notes": "Log in to your account and contact the customer support using the contact form and request the deletion of your account.",
-        "notes_pt_br": "Entre na sua conta e contate o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "notes_pt-BR": "Entre na sua conta e contate o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
         "domains": [
             "virtualmaster.com"
         ]
@@ -8075,7 +8075,7 @@
         "url": "https://www.vivaolinux.com.br/minhaConta.php",
         "difficulty": "easy",
         "notes": "Click at \"Excluir conta\", type your password and confirm your action by clicking \"Gravar\".",
-        "notes_pt_br": "Clique em \"Excluir conta\", digite sua senha e clique em \"Gravar\" para confirmar a exclusão da conta.",
+        "notes_pt-BR": "Clique em \"Excluir conta\", digite sua senha e clique em \"Gravar\" para confirmar a exclusão da conta.",
         "domains": [
             "vivaolinux.com.br"
         ]
@@ -8154,8 +8154,8 @@
         "notes": "Site provides no user account management interface or account deletion options.",
         "notes_fr": "Le site ne propose pas la suppression de compte.",
         "notes_it": "Il sito non possiede nessuna interfaccia di gestione utente o possibilità di eliminare l'account",
-        "notes_pt_br": "O site não possui interface de gerenciamento da conta ou opções para remoção da conta.",
-        "notes_cat": "La web no té opcions d'usuari o per esborrar el compte.",
+        "notes_pt-BR": "O site não possui interface de gerenciamento da conta ou opções para remoção da conta.",
+        "notes_ca": "La web no té opcions d'usuari o per esborrar el compte.",
         "notes_es": "El sitio no tiene opciones de configuración o para borrar la cuenta.",
         "domains": [
             "petitions.whitehouse.gov"
@@ -8251,8 +8251,8 @@
         "notes": "From the app: Settings → Account → Delete your account.",
         "notes_fr": "Depuis l'app: Réglages -> Compte -> Supprimer mon compte.",
         "notes_it": "Dall'applicazione: Impostazioni → Account → Elimina il tuo account.",
-        "notes_pt_br": "No aplicativo: Settings → Account → Delete your account.",
-        "notes_cat": "Des de l'aplicació: Settings → Account → Delete your account.",
+        "notes_pt-BR": "No aplicativo: Settings → Account → Delete your account.",
+        "notes_ca": "Des de l'aplicació: Settings → Account → Delete your account.",
         "notes_es": "Desde la aplicación: Settings → Account → Delete your account.",
         "notes_pl": "Z aplikacji: Ustawienia → Konto → Usuń konto.",
         "domains": [
@@ -8278,7 +8278,7 @@
         "difficulty": "easy",
         "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)",
         "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)",
-        "notes_cat": "Menu →  Edit vCard →  Account management →  Delete everything (no es pot tornar endarrera)",
+        "notes_ca": "Menu →  Edit vCard →  Account management →  Delete everything (no es pot tornar endarrera)",
         "notes_es": "Menu →  Edit vCard →  Account management →  Delete everything (no se puede deshacerlo)",
         "domains": [
             "whistle.im"
@@ -8315,8 +8315,8 @@
         "notes": "'A username cannot be deleted.' However, they do have some suggestions.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte.",
         "notes_it": "'Un username non può essere eliminato.'. In ogni caso, ci sono alcuni consigli.",
-        "notes_pt_br": "'Um usuário não pode ser deletado.' Entretanto, eles possuem algumas sugestões.",
-        "notes_cat": "'No es poden esborrar els usuaris.' Però fan algunes suggerencies.",
+        "notes_pt-BR": "'Um usuário não pode ser deletado.' Entretanto, eles possuem algumas sugestões.",
+        "notes_ca": "'No es poden esborrar els usuaris.' Però fan algunes suggerencies.",
         "notes_es": "'No se pueden borrar los usuarios.' Pero hacen algunas sugerencias.",
         "domains": [
             "wikipedia.org"
@@ -8405,8 +8405,8 @@
         "notes": "Click 'Delete Account' at the bottom of the account preferences panel.",
         "notes_fr": "Cliquez 'Supprimer mon compte' en bas de la page.",
         "notes_it": "Clicca 'Elimina Account' sul fondo della pagina delle impostazioni account.",
-        "notes_pt_br": "Clique em 'Delete Account' no final do painel de preferências da conta.",
-        "notes_cat": "Cliqui a 'Delete Account' al final del panell d'opcions del compte.",
+        "notes_pt-BR": "Clique em 'Delete Account' no final do painel de preferências da conta.",
+        "notes_ca": "Cliqui a 'Delete Account' al final del panell d'opcions del compte.",
         "notes_es": "Haz clic en 'Delete Account' al final del panel de opciones de la cuenta.",
         "domains": [
             "wunderlist.com"
@@ -8431,8 +8431,8 @@
         "notes": "Select 'delete my profile' at the bottom of the page.",
         "notes_fr": "Selectionnez 'Supprimer mon compte' en bas de la page.",
         "notes_it": "Seleziona 'elimina il mio profilo' sul fondo della pagina.",
-        "notes_pt_br": "Selecione 'delete my profile' no final da página.",
-        "notes_cat": "Seleccioni 'delete my profile' al final de la pàgina.",
+        "notes_pt-BR": "Selecione 'delete my profile' no final da página.",
+        "notes_ca": "Seleccioni 'delete my profile' al final de la pàgina.",
         "notes_es": "Selecciona 'delete my profile' al final de la página.",
         "domains": [
             "xing.com"
@@ -8513,7 +8513,7 @@
         "url": "https://zapier.com/app/settings/delete",
         "difficulty": "easy",
         "notes": "Go to the URL, confirm your email. You'll be redirected to the login page. Confirm your email again and enter \"DELETE\" (all caps) In the \"Confirm you want to delete your account\" field.",
-        "notes_pt_br": "Vá para a URL, confirme seu email. Você será redirecionado a página de login. Confirme seu email novamente e digite \"DELETE\" (maiúsculo) no campo \"Confirm you want to delete your account\".",
+        "notes_pt-BR": "Vá para a URL, confirme seu email. Você será redirecionado a página de login. Confirme seu email novamente e digite \"DELETE\" (maiúsculo) no campo \"Confirm you want to delete your account\".",
         "domains": [
             "zapier.com"
         ]

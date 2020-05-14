@@ -41,7 +41,7 @@ nav {
 }
 
 .dropdown .ar a,    .ar a    { background-image: url(../icons/flags/ar16.png); }
-.dropdown .cat a,   .cat a   { background-image: url(../icons/flags/cat16.png); }
+.dropdown .ca a,    .ca a    { background-image: url(../icons/flags/ca16.png); }
 .dropdown .de a,    .de a    { background-image: url(../icons/flags/de16.png); }
 .dropdown .en a,    .en a    { background-image: url(../icons/flags/en16.png); }
 .dropdown .es a,    .es a    { background-image: url(../icons/flags/es16.png); }
@@ -52,7 +52,7 @@ nav {
 .dropdown .it a,    .it a    { background-image: url(../icons/flags/it16.png); }
 .dropdown .nl a,    .nl a    { background-image: url(../icons/flags/nl16.png); }
 .dropdown .pl a,    .pl a    { background-image: url(../icons/flags/pl16.png); }
-.dropdown .pt_br a, .pt_br a { background-image: url(../icons/flags/pt_br16.png); }
+.dropdown .pt-BR a, .pt-BR a { background-image: url(../icons/flags/pt-BR16.png); }
 .dropdown .ro a,    .ro a    { background-image: url(../icons/flags/ro16.png); }
 .dropdown .ru a,    .ru a    { background-image: url(../icons/flags/ru16.png); }
 .dropdown .sk a,    .sk a    { background-image: url(../icons/flags/sk16.png); }
@@ -60,11 +60,11 @@ nav {
 .dropdown .th a,    .th a    { background-image: url(../icons/flags/th16.png); }
 .dropdown .tr a,    .tr a    { background-image: url(../icons/flags/tr16.png); }
 .dropdown .vi a,    .vi a    { background-image: url(../icons/flags/vi16.png); }
-.dropdown .zh-cn a, .zh-cn a { background-image: url(../icons/flags/cn16.png); }
-.dropdown .zh-tw a, .zh-tw a { background-image: url(../icons/flags/tw16.png); }
+.dropdown .zh-CN a, .zh-CN a { background-image: url(../icons/flags/zh-CN16.png); }
+.dropdown .zh-TW a, .zh-TW a { background-image: url(../icons/flags/zh-TW16.png); }
 
 #ar    { background-image: url(../icons/flags/ar24.png); }
-#cat   { background-image: url(../icons/flags/cat24.png); }
+#ca    { background-image: url(../icons/flags/ca24.png); }
 #de    { background-image: url(../icons/flags/de24.png); }
 #en    { background-image: url(../icons/flags/en24.png); }
 #es    { background-image: url(../icons/flags/es24.png); }
@@ -75,7 +75,7 @@ nav {
 #it    { background-image: url(../icons/flags/it24.png); }
 #nl    { background-image: url(../icons/flags/nl24.png); }
 #pl    { background-image: url(../icons/flags/pl24.png); }
-#pt_br { background-image: url(../icons/flags/pt_br24.png); }
+#pt-BR { background-image: url(../icons/flags/pt-BR24.png); }
 #ro    { background-image: url(../icons/flags/ro24.png); }
 #ru    { background-image: url(../icons/flags/ru24.png); }
 #sk    { background-image: url(../icons/flags/sk24.png); }
@@ -83,8 +83,8 @@ nav {
 #th    { background-image: url(../icons/flags/th24.png); }
 #tr    { background-image: url(../icons/flags/tr24.png); }
 #vi    { background-image: url(../icons/flags/vi24.png); }
-#zh-cn { background-image: url(../icons/flags/cn24.png); }
-#zh-tw { background-image: url(../icons/flags/tw24.png); }
+#zh-CN { background-image: url(../icons/flags/zh-CN24.png); }
+#zh-TW { background-image: url(../icons/flags/zh-TW24.png); }
 
 nav a {
     color: black;
