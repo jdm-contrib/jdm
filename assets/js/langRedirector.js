@@ -23,7 +23,7 @@
 
     function tryLanguage(lang) {
         _tryLanguage(lang);
-    
+
         // Test first two chars. Maybe we have not local, but more common language?
         lang = lang.slice(0,2);
         _tryLanguage(lang);
