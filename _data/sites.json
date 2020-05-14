@@ -837,7 +837,7 @@
         "difficulty": "impossible",
         "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
-        "notes_cat": "Hauries d'esborrar tot el compte de Google sencer, però si que pots eliminar el teu blog.",
+        "notes_cat": "Haurieu d'esborrar tot el compte de Google. Tanmateix, també podeu esborrar únicament el vostre blog.",
         "notes_es": "No puedes borrar tu cuenta de Blogger sin borrar toda la cuenta de Google, pero puedes borrar tu blog.",
         "notes_pl": "Nie ma możliwości usunięcia konta w usłudze Blogger bez usuwania całego konta Google. Możesz jedynie usunąć swój blog.",
         "domains": [
@@ -2210,7 +2210,7 @@
         "notes_de": "Ein paar Fragen werden dir vor dem Löschen gestellt.",
         "notes_it": "Ti sarà chiesto di compilare qualche questionario prima che l'account sia eliminato",
         "notes_pt_br": "Algumas perguntas serão feitas antes de deletar sua conta.",
-        "notes_cat": "Se li farà un petit qüestionari abans desborrar el compte.",
+        "notes_cat": "Se us realitzarà un petit qüestionari abans d'esborrar el compte.",
         "notes_es": "Se le hará un pequeño cuestionario antes de borrar la cuenta.",
         "domains": [
             "ebay.com"
@@ -2486,7 +2486,7 @@
         "notes_it": "Mentre puoi eliminare il tuo account facilmente, qualche dato come le chat o i messaggi di gruppo rimarranno nei loro database, come scritto sul loro sito nella pagina Privacy",
         "notes_de": "Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt.",
         "notes_pt_br": "Você pode deletar sua conta facilmente, porém dados de conversas ficarão armazenados para sempre, como explicitado na Privacidade do site.",
-        "notes_cat": "Pot esborrar el compte facilment, algunes dades com el chat o missatges en grup son guardades per sempre, com s'explica als termes de privacitat del lloc.",
+        "notes_cat": "Podeu esborrar el compte fàcilment. Tanmateix, algunes dades -com el xat o missatges en grup- són desades per sempre, tal com s'explica en els termes de privadesa del lloc.",
         "notes_es": "Aunque puedes borrar la cuenta facilmente, algunos de los datos como el chat o mensajes en grupo son guardados para siempre, como se explica en los Terminos de privacidad del sitio.",
         "notes_pl": "Możesz usunąć swoje konto, ale zgodnie z polityką prywatności wszystkie dane razem z wiadomościami zostaną w bazie danych na zawsze.",
         "domains": [
@@ -4306,7 +4306,7 @@
         "difficulty": "medium",
         "notes": "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it.",
         "notes_fr": "Il y a des rapports que LinkedIn continue d'envoyer des e-mails aux gens qui ferment leur compte. Il est bien possible qu'il faudra contactez le support du site pour demander la suppresion de votre compte.",
-        "notes_cat": "Hi han informes que diuen que LinkedIn segueix enviant correu electrònic a les persones amb comptes tancats. Podria ser necessari posar-se en contacte amb el servei al client per eliminar el compte en lloc de tancar-lo.",
+        "notes_cat": "Alguns informes indiquen que LinkedIn segueix enviant missatges a les persones que ja han tancat el compte. Pot ser necessari posar-se en contacte amb el servei de suport per esborrar el compte en lloc de tancar-lo.",
         "notes_es": "Hay informes que dicen que LinkedIn sigue enviando correo electrónico a las personas con cuentas cerradas. Podría ser necesario ponerte en contacto con el servicio al cliente para eliminar la cuenta en lugar de cerrarla.",
         "domains": [
             "linkedin.com"
@@ -5285,6 +5285,7 @@
         "difficulty": "hard",
         "notes": "Cancel your membership, then contact support if you want immediate deletion, otherwise your account will be automatically deleted in 10 months.",
         "notes_fr": "Annulez votre abonnement, puis contactez le support si vous souhaitez une suppression immédiate. Sinon, votre compte sera conservé pendant 10 mois.",
+        "notes_cat": "Cancel·leu la vostra subscripció i, a continuació, poseu-vos en contacte amb el servei d'assistència si voleu suprimir-lo immediatament. En cas contrari, el vostre compte se suprimirà automàticament en deu mesos.",
         "email": "privacy@netflix.com",
         "domains": [
             "netflix.com"
@@ -7771,6 +7772,7 @@
         "difficulty": "easy",
         "notes": "Your account is deactivated before being deleted. After 30 days of remaining deactivated it will then be deleted.",
         "notes_fr": "Votre compte est désactivé avant qu'il est supprimé. Il est seulement après 30 jours d'être désactivé qu'un compte est supprimé définitivement.",
+        "notes_cat": "El vostre compte es desactivarà abans de suprimir-lo. Un cop passats 30 dies, s'esborrarà.",
         "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
         "domains": [
             "twitter.com"
