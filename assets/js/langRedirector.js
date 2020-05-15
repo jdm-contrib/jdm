@@ -6,7 +6,7 @@
 
     function redirectTo(lang) {
         const link = document.querySelector(`#language-dropdown > ul > li.${lang} > a`);
-	if (link)
+        if (link)
             link.click();
     }
 
