@@ -31,8 +31,8 @@
 
 
     function tryLanguages() {
-        // We don't have to handle returns from `tryLanguage' because of
-        // this function does redirect if language considered good
+        // We don't have to handle returns from `tryLanguage' because
+        // this function already redirects if a language is considered good
         navigator.languages.forEach(tryLanguage);
     }
 
