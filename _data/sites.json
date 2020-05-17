@@ -8612,5 +8612,15 @@
         "domains": [
             "zynga.com"
         ]
+    },
+    
+    {
+        "name": "Ferox Hosting",
+        "url": "https://tickets.feroxhosting.nl/newissue",
+        "difficulty": "hard",
+        "notes": "You have to create a ticket regarding account deletion and you will be asked to prove ownership of the account.",
+        "domains": [
+            "feroxhosting.nl"
+        ]
     }
 ]
