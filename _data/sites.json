@@ -233,11 +233,12 @@
         "name": "Airdroid",
         "url": "https://www.airdroid.com/en/deleteAccount.html",
         "difficulty": "easy",
-        "notes": "Go to the Account Info page, Click the Delete Account button to delete your AirDroid account."
+        "notes": "Go to the Account Info page, Click the Delete Account button to delete your AirDroid account.",
         "domains": [
             "airdroid.com"
         ]
     },
+
     {
         "name": "Alibaba",
         "url": "https://www.alibaba.com/help/contact-us.html",
