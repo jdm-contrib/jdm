@@ -6692,6 +6692,16 @@
     },
 
     {
+        "name": "Ryanair",
+        "url": "https://web.ryanairemail.com/webApp/dataerasure",
+        "difficulty": "easy",
+        "notes": "Link found in their privacy policy to process account deletion.",
+        "domains": [
+            "ryanair.com"
+        ]
+    },
+    
+    {
         "name": "Samsung Account",
         "url": "https://account.samsung.com/membership/contents/profile/delete-samsung-account",
         "difficulty": "easy",
