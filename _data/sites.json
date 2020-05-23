@@ -4677,6 +4677,16 @@
     },
 
     {
+        "name": "Melodics",
+        "url": "https://melodics.com/support#form-header",
+        "difficulty": "hard",
+        "notes": "Use the form to contact the support team and wait for their reply to confirm.",
+        "domains": [
+            "melodics.com"
+        ]
+    },
+
+    {
         "name": "Memrise",
         "url": "https://www.memrise.com/settings/deactivate/",
         "difficulty": "easy",
