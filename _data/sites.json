@@ -875,6 +875,16 @@
     },
 
     {
+        "name": "Bluejeans",
+        "url": "https://support.bluejeans.com/s/contactsupport",
+        "difficulty": "hard",
+        "notes": "Contact support via the contact form and request deletion of your account.",
+        "domains": [
+            "bluejeans.com"
+        ]
+    },
+
+    {
         "name": "BoardGameGeek",
         "url": "https://boardgamegeek.com/geekaccount.php?action=requestdeletion",
         "difficulty": "easy",
