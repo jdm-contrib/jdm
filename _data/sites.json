@@ -1259,15 +1259,6 @@
     },
 
     {
-        "name": "Cheddar",
-        "url": "https://cheddarapp.com/account",
-        "difficulty": "easy",
-        "domains": [
-            "cheddarapp.com"
-        ]
-    },
-
-    {
         "name": "Chegg",
         "url": "https://www.chegg.com/contactus",
         "difficulty": "hard",
