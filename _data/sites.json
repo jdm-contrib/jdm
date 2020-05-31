@@ -4679,8 +4679,8 @@
     {
         "name": "Melodics",
         "url": "https://melodics.com/support#form-header",
-        "difficulty": "hard",
-        "notes": "Use the form to contact the support team and wait for their reply to confirm.",
+        "difficulty": "impossible",
+        "notes": "It might be possible to delete your account via the contact form, but the support team is known to be unresponsive.",
         "domains": [
             "melodics.com"
         ]
