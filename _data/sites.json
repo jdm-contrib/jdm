@@ -4689,6 +4689,16 @@
     },
 
     {
+        "name": "Mendeley",
+        "url": "https://www.mendeley.com/settings/account",
+        "difficulty": "hard",
+        "notes": "Get to Mendeley and request for account to be closed at the privacy settings. Then contact Elsevier support asking for a deletion there too.",
+        "domains": [
+            "mendeley.com"
+        ]
+    },
+
+    {
         "name": "MePergunte",
         "url": "https://mepergunte.com/perfil/configuracoes/excluir/",
         "difficulty": "easy",
