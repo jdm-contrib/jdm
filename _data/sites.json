@@ -597,7 +597,7 @@
         "name": "Avira",
         "url": "https://support.avira.com/hc/en-us/articles/360000753557--How-can-I-delete-my-Avira-account",
         "difficulty": "easy",
-        "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
+        "notes": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
         "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
         "email": "support@avira.com",
         "domains": [
@@ -1899,7 +1899,7 @@
         "name": "Digg",
         "url": "https://digg.zendesk.com/hc/en-us/articles/233934647-How-do-I-delete-my-account",
         "difficulty": "easy",
-        "note": "Go to \"Settings > Delete my account\".",
+        "notes": "Go to \"Settings > Delete my account\".",
         "notes_pt_br": "Vá para \"Settings > Delete my account\".",
         "domains": [
             "digg.com",
@@ -1922,7 +1922,7 @@
         "name": "Diigo",
         "url": "https://www.diigo.com/setting",
         "difficulty": "easy",
-        "note": "Scroll down the page, click at \"I'd like to delete my account.\", type your password and confirm your action by clicking \"Confirm Delete\".",
+        "notes": "Scroll down the page, click at \"I'd like to delete my account.\", type your password and confirm your action by clicking \"Confirm Delete\".",
         "notes_pt_br": "Role a página para baixo, clique em \"I'd like to delete my account.\", digite sua senha e clique em \"Confirm Delete\" para confirmar a exclusão da sua conta.",
         "domains": [
             "diigo.com"
@@ -2040,7 +2040,7 @@
         "name": "Dreamstime",
         "url": "https://www.dreamstime.com/account/edit-profile",
         "difficulty": "easy",
-        "note": "Click on the \"Delete account\" link towards the bottom of the page and then confirm your action in the opened pop-up.",
+        "notes": "Click on the \"Delete account\" link towards the bottom of the page and then confirm your action in the opened pop-up.",
         "domains": [
             "dreamstime.com"
         ]
@@ -2097,7 +2097,7 @@
         "name": "Droplr",
         "url": "https://d.pr/settings/profile",
         "difficulty": "easy",
-        "note": "Click at \"Delete Account\", type your email address and confirm your action by clicking \"Delete\".",
+        "notes": "Click at \"Delete Account\", type your email address and confirm your action by clicking \"Delete\".",
         "notes_pt_br": "Clique em \"Delete Account\", digite seu e-mail e clique em \"Delete\" para confirmar a exclusão da sua conta.",
         "domains": [
             "droplr.com",
@@ -2149,7 +2149,7 @@
         "name": "Dwolla",
         "url": "https://www.dwolla.com",
         "difficulty": "impossible",
-        "note": "Dwolla accounts cannot be deleted, only disabled. To request deactivation of your account, contact support via email.",
+        "notes": "Dwolla accounts cannot be deleted, only disabled. To request deactivation of your account, contact support via email.",
         "notes_pt_br": "Contas Dwolla não podem ser excluídas, apenas desativadas. Para solicitar a desativação da sua conta, entre em contato com o suporte via e-mail.",
         "email": "support@dwolla.com",
         "domains": [
@@ -6150,7 +6150,7 @@
         "name": "Pluralsight",
         "url": "https://help.pluralsight.com/help/how-do-i-delete-my-account",
         "difficulty": "easy",
-        "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
+        "notes": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
         "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
         "email": "support@pluralsight.com",
         "domains": [
@@ -7449,7 +7449,7 @@
         "name": "Tango",
         "url": "https://help.tango.me/en/articles/2985296-how-do-i-delete-my-tango-account",
         "difficulty": "easy",
-        "note": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
+        "notes": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
         "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
         "email": "support@tango.me",
         "domains": [
