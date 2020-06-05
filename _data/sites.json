@@ -2194,6 +2194,17 @@
     },
 
     {
+      "name": "EatStreet",
+      "url": "https://eatstreet.com/contact",
+      "difficulty": "hard",
+      "notes": "Though you can deactivate your account under \"My Account\", in order to permanently delete your account, you must contact support and request deletion at: customer.service@eatstreet.com.",
+      "email": "customer.service@eatstreet.com",
+      "domains": [
+        "eatstreet.com"
+      ]
+    },
+
+    {
         "name": "EBANX",
         "url": "https://ebanx.com",
         "difficulty": "impossible",
