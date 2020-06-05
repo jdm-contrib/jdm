@@ -426,6 +426,17 @@
     },
 
     {
+        "name": "AppShopper",
+        "url": "https://appshopper.com/about#contact-form",
+        "difficulty": "hard",
+        "notes": "To request account deletion, you must email: support@appshopper.com",
+        "email": "support@appshopper.com",
+        "domains": [
+            "appshopper.com"
+        ]
+    },
+
+    {
         "name": "Arcor.de",
         "url": "https://www.arcor.de/register/admin_kuendigen_pw.jsp",
         "difficulty": "easy",
