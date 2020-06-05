@@ -48,7 +48,7 @@ def validate_accepted_keys(key)
         end
 
         unless SupportedEntryKeys.include?(entry_key)
-            STDERR.puts "Entry '#{key['name']}' has unsupported field:"\
+            STDERR.puts "Entry '#{key['name']}' has unsupported field: "\
                         "'#{entry_key}'.\n"\
                         "Use one of the supported fields:\n"\
                         "\t#{SupportedEntryKeys}"
