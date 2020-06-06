@@ -16,9 +16,12 @@ module ExitCodes
     UNEXPECTED_DIFFICULTY = 8      # Unexpected value for 'difficulty' field
     UNEXPECTED_LANGUAGE = 9        # Unexpected language code for 'url_code' field
     UNEXPECTED_LANGUAGE_KEY = 10   # Unexpected language key for translation
+    UNSUPPORTED_FIELD = 11         # Unsupported field for site entry
+    UNEXPECTED_NOTES = 12          # Unexpected notes key for translation
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "impossible"]
+SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = ["about", "difficulty", "difficulty_easy", "difficulty_hard", "difficulty_impossible",
                         "difficulty_medium", "extension", "extensionguide", "extensionp1", "extensionp2",
                         "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits", "fork",
@@ -35,6 +38,23 @@ SupportedLanguages = get_supported_languages()
 
 def get_transformed_name(site_object)
     return site_object['name'].downcase.sub(/^the\s+/, '')
+end
+
+def validate_accepted_keys(key)
+    key.keys.each do |entry_key|
+        if entry_key.start_with?('url_') || entry_key.start_with?('notes_')
+            # These have their own validation methods
+            next
+        end
+
+        unless SupportedEntryKeys.include?(entry_key)
+            STDERR.puts "Entry '#{key['name']}' has unsupported field: "\
+                        "'#{entry_key}'.\n"\
+                        "Use one of the supported fields:\n"\
+                        "\t#{SupportedEntryKeys}"
+            exit ExitCodes::UNSUPPORTED_FIELD
+        end
+    end
 end
 
 def error_on_missing_field(key, field, exit_code)
@@ -67,16 +87,30 @@ def validate_localized_urls(key)
     end
 end
 
+def validate_localized_notes(key)
+    key.keys.each do |entry_key|
+        if entry_key.start_with?('notes_') && !SupportedLanguages.any? { |lang| entry_key.eql?("notes_#{lang}") }
+            STDERR.puts "Entry '#{key['name']}' has unrecognized notes code: "\
+                        "'#{entry_key}'.\n"\
+                        "Use one of the supported languages:\n"\
+                        "\t#{SupportedLanguages}"
+            exit ExitCodes::UNEXPECTED_NOTES
+        end
+    end
+end
+
 def validate_website_entry(key, i)
     unless key.key?('name')
         STDERR.puts "Entry #{i} has no 'name' field"
         exit ExitCodes::MISSING_NAME
     end
+    validate_accepted_keys(key)
     error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
     error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
     error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
     validate_difficulty(key)
     validate_localized_urls(key)
+    validate_localized_notes(key)
 end
 
 def add_valid_language_key(keys_in_language_json, key, file)
