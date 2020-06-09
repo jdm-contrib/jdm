@@ -3609,6 +3609,17 @@
     },
 
     {
+        "name": "HitBTC",
+        "url": "https://support.hitbtc.com/hc/en-us/requests/new?ticket_form_id=360000029585",
+        "difficulty": "hard",
+        "notes": "Contact the customer support using the contact form and request the deletion of your account. After receiving a response from support, confirm the deletion by replying to that email. Note: Your balance must be empty before doing this process.",
+        "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta. Após receber uma resposta do suporte, confirme a exclusão respondendo ao email. Note: Seu saldo deve estar vazio antes de fazer este processo.",
+        "domains": [
+            "hitbtc.com"
+        ]
+    },
+
+    {
         "name": "HOL Virtual Hogwarts",
         "url": "https://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
