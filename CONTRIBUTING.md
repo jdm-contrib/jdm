@@ -28,7 +28,14 @@ The sites, urls and additional notes are stored in `_data/sites.json`. If you wa
 
 ## Translation
 
-If you want to translate the site:
+If you want to help on the translation of the site, you can read [translation reference](TRANSLATION_REFERENCE.md) to see what each of the keys is describing or translating.
+
+### Modify an existing Translation
+
+Look for the `CODE.json` file in the `_data/trans/` directory where `CODE` is your [short country code](https://en.wikipedia.org/wiki/Country_code)
+
+
+### Add a new translation
 
 1. Create a new `CODE.json` file in the `_data/trans/` directory where `CODE` is your [short country code](https://en.wikipedia.org/wiki/Country_code)
 2. Copy the contents of `en.json` to your new file
