@@ -6183,8 +6183,8 @@
         "name": "Pluralsight",
         "url": "https://help.pluralsight.com/help/how-do-i-delete-my-account",
         "difficulty": "easy",
-        "notes": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
-        "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
+        "notes": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email. NOTE: If you have outstanding payments or disputes or if you aren't comfortable with sharing personal data to confirm deletion, it might be harder",
+        "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail. NOTA: Se você tiver pagamentos ou reclamações pendentes ou se não estiver confortável em compartilhar dados pessoais para confirmar a deleção, pode ser mais difícil",
         "email": "support@pluralsight.com",
         "domains": [
             "codeschool.com",
