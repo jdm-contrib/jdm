@@ -50,6 +50,7 @@ nav {
 .dropdown .gr a,    .gr a    { background-image: url(../icons/flags/gr16.png); }
 .dropdown .id a,    .id a    { background-image: url(../icons/flags/id16.png); }
 .dropdown .it a,    .it a    { background-image: url(../icons/flags/it16.png); }
+.dropdown .kr a,    .kr a    { background-image: url(../icons/flags/kr16.png); }
 .dropdown .nl a,    .nl a    { background-image: url(../icons/flags/nl16.png); }
 .dropdown .pl a,    .pl a    { background-image: url(../icons/flags/pl16.png); }
 .dropdown .pt_br a, .pt_br a { background-image: url(../icons/flags/pt_br16.png); }
@@ -73,6 +74,7 @@ nav {
 #gr    { background-image: url(../icons/flags/gr24.png); }
 #id    { background-image: url(../icons/flags/id24.png); }
 #it    { background-image: url(../icons/flags/it24.png); }
+#kr    { background-image: url(../icons/flags/kr24.png); }
 #nl    { background-image: url(../icons/flags/nl24.png); }
 #pl    { background-image: url(../icons/flags/pl24.png); }
 #pt_br { background-image: url(../icons/flags/pt_br24.png); }
