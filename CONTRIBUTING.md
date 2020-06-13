@@ -34,11 +34,3 @@ If you want to translate the site:
 2. Copy the contents of `en.json` to your new file
 3. Translate each line
 4. Within the `_pages/` directory, copy `_pages/index.html` to a new `CODE.html` file, and update the `lang: CODE` line to match the new page's code
-
-### Style guide for Spanish Translations
-
-Use guillemets (« ») for quoting statements that the website owner has published. Try to address the user as Tú instead of Usted. Write "haz clic" (hacer clic) instead of the verb "cliquear" or "clicar" because the former is the [RAE recommended way](http://lema.rae.es/dpd/srv/search?key=clic) of writing it.
-
-### Guía de estilo para las traducciones españolas
-
-Usa las comillas angulares (« ») para citar las declaraciones de los dueños de los sitios. Usa Tú en vez de Usted con los usarios. Escribe "haz clic" (hacer clic) en vez del verbo "cliquear" o "clicar" porque el primero oración es la manera que es [más recomendable según la RAE](http://lema.rae.es/dpd/srv/search?key=clic).
