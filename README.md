@@ -52,7 +52,9 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 
 Licensed under the MIT License (MIT). See `LICENSE`.
 
-Country Flag Icons Copyright (c) 2013 Go Squared Ltd. http://www.gosquared.com/
+Country Flag Icons Copyright (c) 2017 Go Squared Ltd. http://www.gosquared.com/
+
+DevCenter.me Copyright (c) 2013 Steve Streza
 
 This is a detached fork of the original repo that intends to keep the project
 alive, as the original one was abandoned.
