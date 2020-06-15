@@ -5957,6 +5957,16 @@
     },
 
     {
+        "name": "Pexels",
+        "url": "https://help.pexels.com/hc/en-us/articles/360042822033-How-can-I-delete-my-account-",
+        "notes": "Follow the instructions on the help article to delete your account.",
+        "difficulty": "medium",
+        "domains": [
+            "pexels.com"
+        ]
+    },
+
+    {
         "name": "Philips Hue",
         "url": "https://account.meethue.com/account",
         "difficulty": "easy",
