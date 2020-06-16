@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "難度",
     "difficulty_easy": "簡單",
     "difficulty_hard": "困難",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome 線上應用程式商店",
     "extensionp6": "。",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Fork the project on GitHub",
     "guide": "指南",
     "guideeasy": "簡易操作",
     "guideexplanations": "上述連結不同的顏色用以表示刪除帳號的難易程度：",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "熱門",
+    "pullrequest": "Fork the project on GitHub",
     "reset": "Reset",
     "sendmail": "寄送 email",
     "showinfo": "查看訊息...",

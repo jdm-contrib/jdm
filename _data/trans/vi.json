@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "mức độ",
     "difficulty_easy": "dễ",
     "difficulty_hard": "khó",
@@ -14,8 +15,6 @@
     "extensionp5": "Cửa hàng tiện ích của Google Chrome",
     "extensionp6": "",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Gia nhập dự án trên GitHub",
     "guide": "Hướng dẫn",
     "guideeasy": "Chỉ cần một vài thao tác đơn giản",
     "guideexplanations": "Những đường dẫn trên được đánh dấu bằng màu theo độ khó của việc xóa tài khoản:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Popular",
+    "pullrequest": "Gia nhập dự án trên GitHub",
     "reset": "Reset",
     "sendmail": "Gửi email",
     "showinfo": "xem thông tin...",

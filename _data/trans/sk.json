@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "náročnosť",
     "difficulty_easy": "ľahké",
     "difficulty_hard": "ťažké",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Obchodu",
     "extensionp6": "",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Forkni projekt na GitHub-e",
     "guide": "Návod",
     "guideeasy": "Jednoduchý proces",
     "guideexplanations": "Linky hore sú farebne rozlíšené podľa obtiažnosti vymazania:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Populárne",
+    "pullrequest": "Forkni projekt na GitHub-e",
     "reset": "Reset",
     "sendmail": "Poslať e-mail",
     "showinfo": "ukázať informácie...",

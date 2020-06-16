@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "тешкоћа",
     "difficulty_easy": "лако",
     "difficulty_hard": "тешко",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome веб-продавницу",
     "extensionp6": "",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Форкујте пројекат на Гитхабу",
     "guide": "Водич",
     "guideeasy": "једноставан процес",
     "guideexplanations": "Везе изнад су означене бојама да би приказале ниво тешкоће брисања налога:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Популарно",
+    "pullrequest": "Форкујте пројекат на Гитхабу",
     "reset": "Reset",
     "sendmail": "Пошаљите е-поруку",
     "showinfo": "прикажи податке...",

@@ -9,7 +9,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `tagline`: The slogan of the website
 - `about`: Button that skips to the end of the page until the credits
 - `extension`: Button that takes to the chrome extension
-- `fork`: Button to go to the GitHub repository
+- `contribute`: Button to go to the GitHub repository
 - `twitter`: Button to tweet about JDM
 
 ## Body
@@ -33,7 +33,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `whatisthis`: Title of the section with the explanation about the website
 - `whatisthis[1-3]`: Phrase that describes the website, pieced together as "`whatisthis1` `whatisthis2` `whatisthis3`". `whatisthis2` is the "dark patterns" hyperlink text
 - `whatisthis4`: Second paragraph explaining the website
-- `forkproject`: Text for the hyperlink that takes to the JDM GitHub webpage
+- `pullrequest`: Text for the hyperlink that takes to the JDM GitHub webpage
 - `guide`: Title for the section explaining how difficulties work
 - `guideexplanations`: Sentence introducing the guide
 - `guideeasy`: Short sentence explaining what "easy" means

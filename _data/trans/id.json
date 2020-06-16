@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "kesulitan",
     "difficulty_easy": "mudah",
     "difficulty_hard": "sulit",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Store",
     "extensionp6": "",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Fork proyek di Github",
     "guide": "Petunjuk",
     "guideeasy": "Proses simpel",
     "guideexplanations": "Warna tautan di atas menunjukkan level kesulitan akun yang akan dihapus:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Popular",
+    "pullrequest": "Fork proyek di Github",
     "reset": "Reset",
     "sendmail": "Kirim email",
     "showinfo": "lihat info...",

@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "difficoltà",
     "difficulty_easy": "facile",
     "difficulty_hard": "difficile",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Store",
     "extensionp6": "",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Fork the project on GitHub",
     "guide": "Guida",
     "guideeasy": "Processo semplice",
     "guideexplanations": "I link qui sotto sono colorati in base al livello di difficoltà per eliminare l'account",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Popolari",
+    "pullrequest": "Fork the project on GitHub",
     "reset": "Reset",
     "sendmail": "Invia e-mail",
     "showinfo": "mostra informazioni...",
