@@ -1,6 +1,6 @@
 {
     "about": "Acerca de",
-    "contribute": "Fork en Github",
+    "contribute": "Contribuya en Github",
     "difficulty": "dificultad",
     "difficulty_easy": "fácil",
     "difficulty_hard": "difícil",
@@ -28,7 +28,7 @@
     "noresults": "¿No encuentras lo que buscas?",
     "noresultshelp": "Ayúdanos a mejorar JustDeleteMe",
     "popular": "Popular",
-    "pullrequest": "Haz un Fork del proyecto en GitHub.",
+    "pullrequest": "Haz un 'Pull Request' en GitHub.",
     "reset": "Reiniciar",
     "sendmail": "Enviar e-mail",
     "showinfo": "mostrar información",
