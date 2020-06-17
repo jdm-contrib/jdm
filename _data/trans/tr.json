@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "zorluk",
     "difficulty_easy": "basit",
     "difficulty_hard": "zor",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Mağzası",
     "extensionp6": "'na girin.",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "GitHub projesini fork'layın",
     "guide": "Rehber",
     "guideeasy": "Basit işlem",
     "guideexplanations": "Yukardaki bağlantılar bağlantı silme zorluğunu göstermek için renk-kodludur:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Popular",
+    "pullrequest": "GitHub projesini fork'layın",
     "reset": "Reset",
     "sendmail": "Email gönder",
     "showinfo": "bilgi göster...",

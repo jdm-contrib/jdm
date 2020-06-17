@@ -1,5 +1,6 @@
 {
     "about": "Quant a",
+    "contribute": "Bifurqueu al GitHub",
     "difficulty": "dificultat",
     "difficulty_easy": "senzilla",
     "difficulty_hard": "difícil",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Store",
     "extensionp6": "",
     "footercredits": "Desenvolupat per",
-    "fork": "Bifurqueu al GitHub",
-    "forkproject": "Bifurqueu el projecte a GitHub",
     "guide": "Guia",
     "guideeasy": "Procés senzill",
     "guideexplanations": "Els enllaços de la part superior s'han classificat amb un codi de colors per indicar la dificultat per suprimir el compte:",
@@ -29,6 +28,7 @@
     "noresults": "No trobeu el que busqueu?",
     "noresultshelp": "Ajudeu-nos a fer que JustDeleteMe sigui encara millor",
     "popular": "Popular",
+    "pullrequest": "Bifurqueu el projecte a GitHub",
     "reset": "Restablir",
     "sendmail": "Envieu un missatge electrònic",
     "showinfo": "mostrar informació",

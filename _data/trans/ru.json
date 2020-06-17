@@ -1,5 +1,6 @@
 {
     "about": "Авторы",
+    "contribute": "Форкнуть на GitHub",
     "difficulty": "Сложность",
     "difficulty_easy": "легко",
     "difficulty_hard": "трудно",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Store",
     "extensionp6": "",
     "footercredits": "Создатели:",
-    "fork": "Форкнуть на GitHub",
-    "forkproject": "Форкнуть проект на GitHub",
     "guide": "Справка",
     "guideeasy": "Пара кликов",
     "guideexplanations": "Сслыки выше выделены цветом, для обозначения уровня сложности удаления аккаунта:",
@@ -29,6 +28,7 @@
     "noresults": "Не нашли, что искали?",
     "noresultshelp": "Помогите нам сделать JustDeleteMe ещё лучше",
     "popular": "Популярные",
+    "pullrequest": "Форкнуть проект на GitHub",
     "reset": "Сброс",
     "sendmail": "Отправить e-mail",
     "showinfo": "показать информацию...",

@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "难度分级",
     "difficulty_easy": "简单",
     "difficulty_hard": "困难",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Store",
     "extensionp6": "",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Fork the project on GitHub",
     "guide": "指南",
     "guideeasy": "简单操作",
     "guideexplanations": "上述链接的不同颜色表明帐号注销的难度分级:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Popular",
+    "pullrequest": "Fork the project on GitHub",
     "reset": "Reset",
     "sendmail": "发送 email",
     "showinfo": "查看信息...",

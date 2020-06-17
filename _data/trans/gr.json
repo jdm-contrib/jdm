@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "δυσκολία",
     "difficulty_easy": "εύκολο",
     "difficulty_hard": "δύσκολο",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Store",
     "extensionp6": "",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Προωθήστε το project στο GitHub",
     "guide": "Οδηγός",
     "guideeasy": "Απλή διαδικασία",
     "guideexplanations": "Οι παραπάνω σύνδεσμοι είναι προγραμματισμένοι με χρώμα για να προσδιορίσουν το επίπεδο δυσκολίας σχετικά με την διαγραφή του λογαριασμού:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Δημοφιλή",
+    "pullrequest": "Προωθήστε το project στο GitHub",
     "reset": "Reset",
     "sendmail": "Στείλτε email",
     "showinfo": "Εμφάνιση πληροφοριών...",

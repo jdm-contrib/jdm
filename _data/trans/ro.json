@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "dificultate",
     "difficulty_easy": "ușor",
     "difficulty_hard": "greu",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Store",
     "extensionp6": "",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Vezi informațiile necesare pe GitHub",
     "guide": "Ghid",
     "guideeasy": "Simplu de șters",
     "guideexplanations": "Linkurile sunt colorate pentru a arăta dificultatea cu care îți poți șterge contul pe respectivul site:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Popular",
+    "pullrequest": "Vezi informațiile necesare pe GitHub",
     "reset": "Reset",
     "sendmail": "Trimite email",
     "showinfo": "afișează informații...",

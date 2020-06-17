@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "دشواری",
     "difficulty_easy": "آسان",
     "difficulty_hard": "سخت",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Store",
     "extensionp6": "بروید.",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "در گیت‌هاب کمک کنید",
     "guide": "راهنما",
     "guideeasy": "فرآیند آسان",
     "guideexplanations": "پیوند‌های بالا برپایه‌ی دشواری حذف حساب، رنگ‌بندی شده‌اند:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "محبوب‌ترین‌ها",
+    "pullrequest": "در گیت‌هاب کمک کنید",
     "reset": "Reset",
     "sendmail": "ارسال ایمیل",
     "showinfo": "نمایش توضیحات...",

@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "contribute": "Fork on GitHub",
     "difficulty": "moeilijkheidsgraad",
     "difficulty_easy": "gemakkelijk",
     "difficulty_hard": "moeilijk",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome Web Store",
     "extensionp6": "om te installeren",
     "footercredits": "Made by",
-    "fork": "Fork on GitHub",
-    "forkproject": "Fork het project op GitHub",
     "guide": "Gids",
     "guideeasy": "Eenvoudig proces",
     "guideexplanations": "De links hierboven zijn kleur-gecodeerd om de moeilijkheidsgraad voor account verwijdering aan te geven:",
@@ -29,6 +28,7 @@
     "noresults": "Can't find what you're looking for?",
     "noresultshelp": "Help make JustDeleteMe better",
     "popular": "Popular",
+    "pullrequest": "Fork het project op GitHub",
     "reset": "Reset",
     "sendmail": "Stuur een e-mail",
     "showinfo": "toon informatie...",

@@ -1,5 +1,6 @@
 {
     "about": "정보",
+    "contribute": "GitHub에서 포크하기",
     "difficulty": "난이도",
     "difficulty_easy": "쉬움",
     "difficulty_hard": "어려움",
@@ -14,8 +15,6 @@
     "extensionp5": "Chrome 웹 스토어에",
     "extensionp6": "방문하세요",
     "footercredits": "만든 이들:",
-    "fork": "GitHub에서 포크하기",
-    "forkproject": "Github에서 프로젝트를 포크하세요",
     "guide": "가이드",
     "guideeasy": "간단한 절차",
     "guideexplanations": "위에 보이는 링크들의 색깔은 계정 삭제의 난이도에 따라 다음과 같이 지정되어 있습니다 :",
@@ -29,6 +28,7 @@
     "noresults": "원하는 것을 찾지 못하였습니까?",
     "noresultshelp": "JustDeleteMe의 개선에 도움을 주세요!",
     "popular": "인기도",
+    "pullrequest": "Github에서 프로젝트를 포크하세요",
     "reset": "초기화",
     "sendmail": "메일 보내기",
     "showinfo": "자세히...",
