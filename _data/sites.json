@@ -2195,22 +2195,22 @@
     },
 
     {
-        "name": "easyJet",
-        "url": "https://www.easyjet.com/en/policy/privacy-promise/request-data-form",
-        "difficulty": "hard",
-        "notes": "You have to fill out the Data protection request form on their website, providing your identification.",
-        "domains": [
-            "easyjet.com"
-        ]
-    },
-
-    {
         "name": "EasyEDA",
         "url": "https://easyeda.com/account/user/account/setting/advance",
         "difficulty": "easy",
         "notes": "Log into easyeda.com first, then click on the provided URL. Type 'DELETE' into the input box and click the Delete button.",
         "domains": [
             "easyeda.com"
+        ]
+    },
+
+    {
+        "name": "easyJet",
+        "url": "https://www.easyjet.com/en/policy/privacy-promise/request-data-form",
+        "difficulty": "hard",
+        "notes": "You have to fill out the Data protection request form on their website, providing your identification.",
+        "domains": [
+            "easyjet.com"
         ]
     },
 
