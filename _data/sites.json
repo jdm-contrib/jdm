@@ -4196,15 +4196,6 @@
     },
 
     {
-        "name": "Krrb",
-        "url": "http://krrb.com/settings/disable-account",
-        "difficulty": "easy",
-        "domains": [
-            "krrb.com"
-        ]
-    },
-
-    {
         "name": "Kununu",
         "url": "https://www.kununu.com/user/delete",
         "difficulty": "easy",
