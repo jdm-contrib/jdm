@@ -1740,6 +1740,16 @@
     },
 
     {
+        "name": "DataCamp",
+        "url": "https://www.datacamp.com/profile/account_settings/advanced",
+        "difficulty": "easy",
+        "notes": "Click the red 'delete account' button at the bottom.",
+        "domains": [
+            "datacamp.com"
+        ]
+    },
+
+    {
         "name": "Day One",
         "url": "https://dayone.me/user/request-account-deletion",
         "difficulty": "easy",
