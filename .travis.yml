@@ -2,7 +2,7 @@ os: linux
 dist: bionic
 language: ruby
 rvm:
-- 2.7.1
+- 2.6.6
 cache: bundler
 
 env:
