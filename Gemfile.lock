@@ -12,8 +12,8 @@ GEM
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
-    ffi (1.12.2)
-    ffi (1.12.2-x64-mingw32)
+    ffi (1.13.1)
+    ffi (1.13.1-x64-mingw32)
     forwardable-extended (2.6.0)
     html-proofer (3.15.3)
       addressable (~> 2.3)
@@ -89,7 +89,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  ffi (>= 1.12.2)
+  ffi (>= 1.13.1)
   html-proofer (>= 3.15.3)
   jekyll (= 4.1.0)
 
