@@ -8019,6 +8019,15 @@
     },
 
     {
+        "name": "Unsplash",
+        "url": "https://unsplash.com/account/close",
+        "difficulty": "easy",
+        "domains": [
+            "unsplash.com"
+        ]
+    },
+
+    {
         "name": "UPS",
         "url": "https://www.ups.com/myups/deletereg",
         "difficulty": "easy",
