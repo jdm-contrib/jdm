@@ -6189,6 +6189,16 @@
             "pof.com"
         ]
     },
+
+    {
+        "name": "Plex.tv",
+        "url": "https://plex.tv/users/edit",
+        "difficulty": "easy",
+        "notes": "Under 'Danger Zone', click 'Delete your account'.",
+        "domains": [
+            "plex.tv"
+        ]
+    },
     
     {
         "name": "PlexGuide",
@@ -6200,15 +6210,7 @@
         ]
     },
 
-    {
-        "name": "Plex.tv",
-        "url": "https://plex.tv/users/edit",
-        "difficulty": "easy",
-        "notes": "Under 'Danger Zone', click 'Delete your account'.",
-        "domains": [
-            "plex.tv"
-        ]
-    },
+
 
     {
         "name": "Pluralsight",
