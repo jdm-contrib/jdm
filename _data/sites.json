@@ -6192,7 +6192,7 @@
     
     {
         "name": "PlexGuide",
-        "url": "https://plexguide.com/account/thui-deactivate/"
+        "url": "https://plexguide.com/account/thui-deactivate/",
         "difficulty": "impossible",
         "notes": "Account can only be disabled, with option of contacting support to re-enable account afterwards.",
         "domains": ]
