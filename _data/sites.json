@@ -6201,6 +6201,16 @@
     },
 
     {
+        "name": "PlexGuide",
+        "url": "https://plexguide.com/account/thui-deactivate/",
+        "difficulty": "impossible",
+        "notes": "Account can only be disabled, with option of contacting support to re-enable account afterwards.",
+        "domains": [
+            "plexguide.com"
+        ]
+    },
+
+    {
         "name": "Pluralsight",
         "url": "https://help.pluralsight.com/help/how-do-i-delete-my-account",
         "difficulty": "easy",
