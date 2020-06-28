@@ -1,5 +1,5 @@
-_site/
-.sass-cache/
+_site/github
+.sass-cache/ruby
 .jekyll-metadata
 .bundle/
-vendor/
+vendor/node.js
