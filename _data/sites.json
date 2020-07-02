@@ -3115,6 +3115,17 @@
             "glassdoor.com"
         ]
     },
+    {
+        "name": "Glovo",
+        "url": "https://glovoapp.com/en/support",
+        "difficulty": "medium",
+        "notes": "Enter the support website and click on 'Not related to an order' > 'Account information' > 'Delete my account and data'",
+        "notes_es": "Entrar en la web de soporte y pulsar en 'Not related to an order' > 'Account information' > 'Delete my account and data'",
+        "notes_cat": "Entrar al web de suport i prémer a 'Not related to an order' > 'Account information' > 'Delete my account and data'",
+        "domains": [
+            "glovoapp.com"
+        ]
+    },
 
     {
         "name": "Gmail",
