@@ -1,6 +1,6 @@
 {
     "about": "정보",
-    "contribute": "GitHub에서 포크하기",
+    "contribute": "GitHub에서 기여하기",
     "difficulty": "난이도",
     "difficulty_easy": "쉬움",
     "difficulty_hard": "어려움",
@@ -28,7 +28,7 @@
     "noresults": "원하는 것을 찾지 못하였습니까?",
     "noresultshelp": "JustDeleteMe의 개선에 도움을 주세요!",
     "popular": "인기도",
-    "pullrequest": "Github에서 프로젝트를 포크하세요",
+    "pullrequest": "Github에서 프로젝트에 기여해주세요! Pull Request를 생성하시면 됩니다",
     "reset": "초기화",
     "sendmail": "메일 보내기",
     "showinfo": "자세히...",
