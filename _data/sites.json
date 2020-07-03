@@ -5947,6 +5947,16 @@
     },
 
     {
+        "name": "peopleperhour",
+        "url": "https://www.peopleperhour.com/settings/general",
+        "difficulty": "medium",
+        "notes": "Profile > settings > account > edit > select a reason > deactivate",
+        "domains": [
+            "peopleperhour.com"
+        ]
+    },
+
+    {
         "name": "The Perfect Shave",
         "url": "https://www.perfect-shave.de/einstellungen",
         "difficulty": "easy",
