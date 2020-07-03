@@ -6493,6 +6493,16 @@
             "quora.com"
         ]
     },
+    
+    {
+        "name": "peopleperhour",
+        "url": "https://www.peopleperhour.com/settings/general",
+        "difficulty": "medium",
+        "notes": "Profile > settings > account > edit > select a reason > deactivate",
+        "domains": [
+            "peopleperhour.com"
+        ]
+    },
 
     {
         "name": "radio.fr",
@@ -6592,15 +6602,6 @@
             "recargapay.prezly.com",
             "recargapay.us",
             "recargapay.workable.com"
-        ]
-    },
-    {
-        "name": "peopleperhour",
-        "url": "https://www.peopleperhour.com/settings/general",
-        "difficulty": "medium",
-        "notes": "Profile > settings > account > edit > select a reason > deactivate",
-        "domains": [
-            "peopleperhour.com"
         ]
     },
 
