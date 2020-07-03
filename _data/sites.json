@@ -4469,15 +4469,6 @@
     },
 
     {
-        "name": "Lumi",
-        "url": "https://lumi.do/account/privacy/delete/user",
-        "difficulty": "easy",
-        "domains": [
-            "lumi.do"
-        ]
-    },
-
-    {
         "name": "Lumosity",
         "url": "https://www.lumosity.com/app/v4/settings/account_deletion/new",
         "difficulty": "easy",
