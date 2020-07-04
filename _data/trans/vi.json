@@ -1,6 +1,6 @@
 {
     "about": "Giới thiệu",
-    "contribute": "Fork trên GitHub",
+    "contribute": "Đóng góp trên GitHub",
     "difficulty": "mức độ",
     "difficulty_easy": "dễ",
     "difficulty_hard": "khó",
@@ -28,7 +28,7 @@
     "noresults": "Không tìm thấy thông tin bạn cần?",
     "noresultshelp": "Hãy làm cho JustDeleteMe trở nên tốt hơn",
     "popular": "Phổ biến",
-    "pullrequest": "Gia nhập dự án trên GitHub",
+    "pullrequest": "Tạo một Pull Request trên GitHub",
     "reset": "Reset",
     "sendmail": "Gửi email",
     "showinfo": "xem thông tin...",
