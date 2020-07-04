@@ -2875,6 +2875,19 @@
         ]
     },
 
+        {
+        "name": "GameGleam",
+        "url": "https://www.gamegleam.com",
+        "difficulty": "hard",
+        "email": "support@gamegleam.com",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "domains": [
+            "gamegleam.com"
+        ]
+    },
+    
     {
         "name": "Gamehag",
         "url": "https://www.gamehag.com",
