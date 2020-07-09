@@ -1502,6 +1502,16 @@
     },
 
     {
+        "name": "Cointree",
+        "url": "https://cointree.formstack.com/forms/account_closure_request",
+        "difficulty": "medium",
+        "notes": "Complete the form and wait for their support to delete the account.",
+        "domains": [
+            "cointree.com"
+        ]
+    },
+
+    {
         "name": "Collegeboard",
         "url": "https://pages.collegeboard.org/account-help/how-do-i-delete-my-account",
         "difficulty": "hard",
