@@ -1975,7 +1975,12 @@
         "difficulty": "impossible",
         "notes": "There seems to be no standard way of handling account deletions on discourse-hosted forums.",
         "domains": [
+            "community.containo.us",
             "community.netlify.com",
+            "discourse.gnome.org",
+            "discourse.joplinapp.org",
+            "forum.cloudron.io",
+            "forum.duplicati.com",
             "forum.level1techs.com",
             "forum.rclone.org",
             "forum.restic.net",
