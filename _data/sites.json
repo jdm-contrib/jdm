@@ -5575,6 +5575,17 @@
     },
 
     {
+        "name": "NS1",
+        "url": "https://ns1.com",
+        "difficulty": "hard",
+        "notes": "Email support and request account deletion. They will process your request and email you when it has been deleted.",
+        "email": "support@ns1.com",
+        "domains": [
+            "ns1.com"
+        ]
+    },
+
+    {
         "name": "nTask",
         "url": "https://support.ntaskmanager.com/support/solutions/articles/43000545051-delete-your-ntask-account",
         "difficulty": "hard",
