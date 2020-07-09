@@ -6833,17 +6833,6 @@
     },
 
     {
-        "name": "Sascha Moser - Ein kleiner Blog",
-        "url": "https://saschamoser.de/account-management/",
-        "difficulty": "easy",
-        "notes": "Your account will be deleted after 7 days, if you don't cancel the deletion process before. Created content (such as comments) won't be deleted, but your username will be anonymized.",
-        "notes_de": "Dein Benutzerkonto wird nach Ablauf von 7 Tagen gelöscht, solltest du den Vorgang vorher nicht abbrechen. Erstellte Inhalte (wie etwa Kommentare) werden nicht gelöscht, jedoch wird dein Benutzername anonymisiert.",
-        "domains": [
-            "saschamoser.de"
-        ]
-    },
-
-    {
         "name": "Scaleway",
         "url": "https://console.scaleway.com/#/account",
         "difficulty": "easy",
@@ -8596,6 +8585,17 @@
         "notes_es": "Selecciona 'delete my profile' al final de la página.",
         "domains": [
             "xing.com"
+        ]
+    },
+
+    {
+        "name": "Xops Blog - IT-Security -  Infrastruktur",
+        "url": "https://xopsblog.de/account-management/",
+        "difficulty": "easy",
+        "notes": "Your account will be deleted after 7 days, if you don't cancel the deletion process before. Created content (such as comments) won't be deleted, but your username will be anonymized.",
+        "notes_de": "Dein Benutzerkonto wird nach Ablauf von 7 Tagen gelöscht, solltest du den Vorgang vorher nicht abbrechen. Erstellte Inhalte (wie etwa Kommentare) werden nicht gelöscht, jedoch wird dein Benutzername anonymisiert.",
+        "domains": [
+            "xopsblog.de"
         ]
     },
 
