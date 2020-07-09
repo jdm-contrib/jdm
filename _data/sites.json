@@ -1970,6 +1970,20 @@
     },
 
     {
+        "name": "Discourse",
+        "url": "https://www.discourse.org/",
+        "difficulty": "impossible",
+        "notes": "There seems to be no standard way of handling account deletions on discourse-hosted forums.",
+        "domains": [
+            "community.netlify.com",
+            "forum.level1techs.com",
+            "forum.rclone.org",
+            "forum.restic.net",
+            "forum.syncthing.net"
+        ]
+    },
+
+    {
         "name": "Discshop.fi",
         "url": "https://www.discshop.fi/ota_yhteytta",
         "difficulty": "hard",
