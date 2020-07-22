@@ -1249,6 +1249,16 @@
     },
 
     {
+        "name": "changelly",
+        "url": "https://changelly.com/profile",
+        "notes": "Click on 'Delete account' under 'Email settings'",
+        "difficulty": "easy",
+        "domains": [
+            "changelly.com"
+        ]
+    },
+
+    {
         "name": "Channel 4",
         "url": "https://4id.channel4.com",
         "notes": "Login, go to account page and click remove.",
