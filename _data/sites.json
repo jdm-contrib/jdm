@@ -7411,6 +7411,15 @@
     },
 
     {
+        "name": "Statista",
+        "url": "https://www.statista.com/profile/delete/",
+        "difficulty": "easy",
+        "domains": [
+            "statista.com"
+        ]
+    },
+
+    {
         "name": "StatusCake",
         "difficulty": "easy",
         "url": "https://www.statuscake.com",
