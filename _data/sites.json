@@ -1216,6 +1216,16 @@
     },
 
     {
+        "name": "Cengage",
+        "url": "https://cengage.force.com/s/",
+        "difficulty": "hard",
+        "notes": "Contact support over the phone or via live chat. Your case will need to be escalated to close the account, and it may take a few days. Otherwise, the account will automatically be deleted after 5 years of inactivity.",
+        "domains": [
+            "cengage.com"
+        ]
+    },
+
+    {
         "name": "CEX.IO",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
