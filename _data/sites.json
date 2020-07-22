@@ -7648,6 +7648,16 @@
     },
 
     {
+        "name": "TeamGantt",
+        "url": "https://app.teamgantt.com/admin/account-settings",
+        "difficulty": "easy",
+        "notes": "Go to Account Settings > Subscription > Cancel. Click 'Cancel my subscription and delete my data'",
+        "domains": [
+            "teamgantt.com"
+        ]
+    },
+
+    {
         "name": "TeamViewer",
         "url": "https://login.teamviewer.com",
         "difficulty": "easy",
