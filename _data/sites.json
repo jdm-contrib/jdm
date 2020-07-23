@@ -5968,8 +5968,8 @@
     },
 
     {
-        "name": "Passdock",
-        "url": "https://api.passdock.com/users/edit",
+        "name": "PassDock",
+        "url": "https://api.passdock.net/users/edit",
         "difficulty": "easy",
         "notes": "Select 'Delete account' at the bottom of your account info page.",
         "notes_de": "Klicke 'Account löschen' unten auf der Account-Info-Seite.",
