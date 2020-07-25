@@ -742,17 +742,6 @@
     },
 
     {
-        "name": "Beam",
-        "url": "https://beam.pro/legal/privacy",
-        "difficulty": "hard",
-        "notes": "Remove all personal information from your account, then request deletion by emailing customer services.",
-        "email": "support@beam.pro",
-        "domains": [
-            "beam.pro"
-        ]
-    },
-
-    {
         "name": "Beamly",
         "url": "http://au.beamly.com/account/delete",
         "difficulty": "easy",
