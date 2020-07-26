@@ -8532,19 +8532,6 @@
     },
 
     {
-        "name": "whistle.im",
-        "url": "http://whistle.im",
-        "difficulty": "easy",
-        "notes": "Menu →  Edit vCard →  Account management →  Delete everything (cannot be undone)",
-        "notes_it": "Menu →  Modifica vCard →  Gestione Account →  Elimina tutto (non può essere annullato)",
-        "notes_cat": "Menu →  Edit vCard →  Account management →  Delete everything (no es pot tornar endarrera)",
-        "notes_es": "Menu →  Edit vCard →  Account management →  Delete everything (no se puede deshacerlo)",
-        "domains": [
-            "whistle.im"
-        ]
-    },
-
-    {
         "name": "WhoSay.com",
         "url": "http://www.whosay.com/settings",
         "difficulty": "easy",
