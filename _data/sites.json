@@ -1847,15 +1847,6 @@
     },
 
     {
-        "name": "Desktoppr",
-        "url": "https://www.desktoppr.co/settings",
-        "difficulty": "easy",
-        "domains": [
-            "desktoppr.co"
-        ]
-    },
-
-    {
         "name": "DEV",
         "url": "https://dev.to/settings/account",
         "difficulty": "easy",
