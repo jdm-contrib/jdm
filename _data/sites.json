@@ -883,6 +883,16 @@
             "bluejeans.com"
         ]
     },
+    
+    {
+        "name": "Board Game Arena",
+        "url": "https://boardgamearena.com/preferences?section=account",
+        "difficulty": "easy",
+        "notes": "Log-in, go to your account settings and click 'Delete my BGA account'.",
+        "domains": [
+            "boardgamearena.com"
+        ]
+    },
 
     {
         "name": "BoardGameGeek",
