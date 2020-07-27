@@ -4594,6 +4594,17 @@
     },
 
     {
+        "name": "Lucky Patcher Forum",
+        "url": "https://www.luckypatchers.com/forum/",
+        "difficulty": "impossible",
+        "notes": "The website does not offer any options that allow the account to be deleted.",
+        "notes_pt_br": "O website não disponibiliza nenhuma opção que possibilite a exclusão da conta.",
+        "domains": [
+            "luckypatchers.com"
+        ]
+    },
+
+    {
         "name": "Lufthansa",
         "url": "https://www.lufthansa.com/online/myportal/lh/uk/my_account/profile/update?action=deleteProfileAction",
         "difficulty": "easy",
