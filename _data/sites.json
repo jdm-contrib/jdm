@@ -350,6 +350,16 @@
     },
 
     {
+        "name": "AniList",
+        "url": "https://anilist.co/settings/account",
+        "difficulty": "easy",
+        "notes": "Go to \"Delete User Account > OK, Delete my account\".",
+        "domains": [
+            "anilist.co"
+        ]
+    },
+
+    {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
