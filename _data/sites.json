@@ -7104,6 +7104,16 @@
     },
 
     {
+        "name": "SimpleLogin",
+        "url": "https://app.simplelogin.io/dashboard/setting",
+        "difficulty": "easy",
+        "notes": "Go to \"Delete Account > Yes, delete my account\".",
+        "domains": [
+            "simplelogin.io"
+        ]
+    },
+
+    {
         "name": "Simplenote",
         "url": "https://app.simplenote.com/settings",
         "difficulty": "easy",
