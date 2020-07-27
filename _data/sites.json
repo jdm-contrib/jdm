@@ -7542,6 +7542,18 @@
     },
 
     {
+        "name": "Super Domínios",
+        "url": "https://superdominios.org/contato/",
+        "difficulty": "hard",
+        "notes": "Use the contact form. If you prefer, you can also request deletion of the account via email.",
+        "notes_pt_br": "Use o formulário de contato. Caso prefira, também é possível solicitar a exclusão da conta via e-mail.",
+        "email": "suporte@superdominios.org",
+        "domains": [
+            "superdominios.org"
+        ]
+    },
+
+    {
         "name": "SuperBiiz",
         "url": "https://www.superbiiz.com/contact.php",
         "difficulty": "hard",
