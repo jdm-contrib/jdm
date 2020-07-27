@@ -262,6 +262,17 @@
     },
 
     {
+        "name": "AllCall Forum",
+        "url": "http://bbs.allcall.hk/",
+        "difficulty": "impossible",
+        "notes": "The website does not offer any options that allow the account to be deleted.",
+        "notes_pt_br": "O website não disponibiliza nenhuma opção que possibilite a exclusão da conta.",
+        "domains": [
+            "allcall.hk"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "http://alvanista.com/profile/edit",
         "difficulty": "easy",
@@ -346,6 +357,16 @@
         "notes": "Click delete account once logged in.",
         "domains": [
             "angel.co"
+        ]
+    },
+
+    {
+        "name": "AniList",
+        "url": "https://anilist.co/settings/account",
+        "difficulty": "easy",
+        "notes": "Go to \"Delete User Account > OK, Delete my account\".",
+        "domains": [
+            "anilist.co"
         ]
     },
 
@@ -3994,6 +4015,17 @@
     },
 
     {
+        "name": "Invidious",
+        "url": "https://invidio.us/delete_account",
+        "difficulty": "easy",
+        "notes": "Click \"Yes\" to confirm the deletion of your account.",
+        "notes_pt_br": "Clique em \"Yes\" para confirmar a exclusão da sua conta.",
+        "domains": [
+            "invidio.us"
+        ]
+    },
+
+    {
         "name": "Invision",
         "url": "https://support.invisionapp.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -4558,6 +4590,17 @@
         "domains": [
             "lucidchart.com",
             "lucidpress.com"
+        ]
+    },
+
+    {
+        "name": "Lucky Patcher Forum",
+        "url": "https://www.luckypatchers.com/forum/",
+        "difficulty": "impossible",
+        "notes": "The website does not offer any options that allow the account to be deleted.",
+        "notes_pt_br": "O website não disponibiliza nenhuma opção que possibilite a exclusão da conta.",
+        "domains": [
+            "luckypatchers.com"
         ]
     },
 
@@ -5331,6 +5374,17 @@
         "notes": "Just login and head to the account settings to click on delete account.",
         "domains": [
             "myfitnesspal.com"
+        ]
+    },
+
+    {
+        "name": "MyAnimeList",
+        "url": "https://myanimelist.net/about.php?go=contact",
+        "difficulty": "hard",
+        "notes": "Use the contact form to request deletion from your account.",
+        "notes_pt_br": "Use o formulário de contato para solicitar a exclusão da sua conta.",
+        "domains": [
+            "myanimelist.net"
         ]
     },
 
@@ -6581,6 +6635,16 @@
     },
 
     {
+        "name": "Python Package Index (PyPI)",
+        "url": "https://pypi.org/manage/account/",
+        "difficulty": "easy",
+        "notes": "Go to \"Delete account > Delete your PyPI account\".",
+        "domains": [
+            "pypi.org"
+        ]
+    },
+
+    {
         "name": "Quip",
         "url": "https://www.quipsupport.com/entries/25079898-How-do-I-delete-my-account-",
         "difficulty": "hard",
@@ -7082,6 +7146,16 @@
     },
 
     {
+        "name": "SimpleLogin",
+        "url": "https://app.simplelogin.io/dashboard/setting",
+        "difficulty": "easy",
+        "notes": "Go to \"Delete Account > Yes, delete my account\".",
+        "domains": [
+            "simplelogin.io"
+        ]
+    },
+
+    {
         "name": "Simplenote",
         "url": "https://app.simplenote.com/settings",
         "difficulty": "easy",
@@ -7538,6 +7612,18 @@
         "notes_es": "Puedes reactivarla en un plazo de 14 días. Después de este fecha la cuenta será borrada.",
         "domains": [
             "stumbleupon.com"
+        ]
+    },
+
+    {
+        "name": "Super Domínios",
+        "url": "https://superdominios.org/contato/",
+        "difficulty": "hard",
+        "notes": "Use the contact form. If you prefer, you can also request deletion of the account via email.",
+        "notes_pt_br": "Use o formulário de contato. Caso prefira, também é possível solicitar a exclusão da conta via e-mail.",
+        "email": "suporte@superdominios.org",
+        "domains": [
+            "superdominios.org"
         ]
     },
 
