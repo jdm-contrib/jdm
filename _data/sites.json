@@ -6603,6 +6603,16 @@
     },
 
     {
+        "name": "Python Package Index (PyPI)",
+        "url": "https://pypi.org/manage/account/",
+        "difficulty": "easy",
+        "notes": "Go to \"Delete account > Delete your PyPI account\".",
+        "domains": [
+            "pypi.org"
+        ]
+    },
+
+    {
         "name": "Quip",
         "url": "https://www.quipsupport.com/entries/25079898-How-do-I-delete-my-account-",
         "difficulty": "hard",
