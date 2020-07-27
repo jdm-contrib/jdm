@@ -5335,6 +5335,17 @@
     },
 
     {
+        "name": "MyAnimeList",
+        "url": "https://myanimelist.net/about.php?go=contact",
+        "difficulty": "hard",
+        "notes": "Use the contact form to request deletion from your account.",
+        "notes_pt_br": "Use o formulário de contato para solicitar a exclusão da sua conta.",
+        "domains": [
+            "myanimelist.net"
+        ]
+    },
+
+    {
         "name": "MyFRITZ!",
         "url": "https://sso.myfritz.net/account/#/delete",
         "difficulty": "easy",
