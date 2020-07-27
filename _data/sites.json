@@ -262,6 +262,17 @@
     },
 
     {
+        "name": "AllCall Forum",
+        "url": "http://bbs.allcall.hk/",
+        "difficulty": "impossible",
+        "notes": "The website does not offer any options that allow the account to be deleted.",
+        "notes_pt_br": "O website não disponibiliza nenhuma opção que possibilite a exclusão da conta.",
+        "domains": [
+            "allcall.hk"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "http://alvanista.com/profile/edit",
         "difficulty": "easy",
