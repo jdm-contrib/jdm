@@ -9035,6 +9035,16 @@
     },
 
     {
+        "name": "Zulip",
+        "url": "https://zulipchat.com/help/deactivate-your-account",
+        "difficulty": "easy",
+        "notes": "Navigate to Settings > Your Account > Deactivate Account",
+        "domains": [
+            "zulipchat.com"
+        ]
+    },
+
+    {
         "name": "Zynga",
         "url": "https://zynga.com/privacy/faqs",
         "difficulty": "hard",
