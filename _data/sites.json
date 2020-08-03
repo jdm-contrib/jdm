@@ -8538,6 +8538,16 @@
     },
 
     {
+        "name": "WaniKani",
+        "url": "https://www.wanikani.com/settings/danger_zone",
+        "difficulty": "easy",
+        "notes": "Visit the given link and click on \"Send deletion confirmation mail\". You will recieve a mail on your registered mail address and you can confirm the account deletion from there.",
+        "domains": [
+            "wanikani.com"
+        ]
+    },
+
+    {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
