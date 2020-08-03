@@ -1451,6 +1451,16 @@
     },
 
     {
+        "name": "CodeChef",
+        "url": "https://discuss.codechef.com/t/how-do-i-delete-a-codechef-account/30476",
+        "difficulty": "easy",
+        "notes": "Navigate to the Privacy tab in your edit profile section. Scroll all the way down and click on \"I don’t want to continue with CodeChef\". Alternatively login to codechef and visit \"https://www.codechef.com/users/<username>/discontinue\", after substituting in your username.",
+        "domains": [
+            "codechef.com"
+        ]
+    },
+
+    {
         "name": "Codeforces",
         "url": "https://codeforces.com/blog/entry/69245",
         "difficulty": "impossible",
