@@ -2482,6 +2482,16 @@
     },
 
     {
+        "name": "Element",
+        "url": "https://app.element.io/#/home",
+        "difficulty": "easy",
+        "notes": "Go to \"All Settings\" scroll all the way down, and click on Deactivate Account.",
+        "domains": [
+            "element.io"
+        ]
+    },
+
+    {
         "name": "Elevate",
         "url": "https://elevateapp.com",
         "difficulty": "hard",
