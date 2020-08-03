@@ -2378,8 +2378,8 @@
     {
         "meta": "popular",
         "name": "eBay",
-        "url": "https://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
-        "difficulty": "easy",
+        "url": "https://ocsnext.ebay.com/ocs/ca",
+        "difficulty": "hard",
         "notes": "A few survey questions will be asked prior to account deletion.",
         "notes_fr": "Quelques questions d'opinion sera demandées avant la suppression du compte.",
         "notes_de": "Ein paar Fragen werden dir vor dem Löschen gestellt.",
