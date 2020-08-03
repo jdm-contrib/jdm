@@ -1451,6 +1451,16 @@
     },
 
     {
+        "name": "Codeforces",
+        "url": "https://codeforces.com/blog/entry/69245",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account yet. The feature is being worked on and might become available in the future.",
+        "domains": [
+            "codeforces.com"
+        ]
+    },
+
+    {
         "name": "Codenvy",
         "url": "https://codenvy.io/dashboard/#/account",
         "difficulty": "easy",
