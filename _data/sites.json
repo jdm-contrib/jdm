@@ -1189,7 +1189,7 @@
 
     {
         "name": "Carbonmade",
-        "url": "https://carbonmade.com/account/plan",
+        "url": "https://carbonmade.app/account",
         "difficulty": "easy",
         "notes": "When logged in, use the link to be taken to the deletion page.",
         "domains": [
