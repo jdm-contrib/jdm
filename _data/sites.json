@@ -1188,6 +1188,16 @@
     },
 
     {
+        "name": "Carbonmade",
+        "url": "https://carbonmade.com/account/plan",
+        "difficulty": "easy",
+        "notes": "When logged in, use the link to be taken to the deletion page.",
+        "domains": [
+            "carbonmade.com"
+        ]
+    },
+
+    {
         "name": "CareerBuilder.com",
         "url": "https://www.careerbuilder.com/User/UserConfirmation.aspx",
         "difficulty": "easy",
