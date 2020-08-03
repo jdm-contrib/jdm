@@ -2883,9 +2883,9 @@
 
     {
         "name": "Floatplane",
-        "url": "https://www.floatplane.com/legal/terms",
+        "url": "https://www.floatplane.com/support",
         "difficulty": "hard",
-        "notes": "You need to contanct the Floatplane team through their <a hreaf=\"https://www.floatplane.com/support\">official website</a> to have your account deleted",
+        "notes": "You need to contanct the Floatplane team through their official website to have your account deleted",
         "domains": [
             "floatplane.com"
         ]
@@ -5327,7 +5327,7 @@
         "name": "Mongo Atlas",
         "url": "https://docs.atlas.mongodb.com/tutorial/delete-atlas-account/",
         "difficulty": "hard",
-        "notes": "To delete your MongoDB account you first need to delete all active clusters, projects and organizations linked with your account (<a href=\"https://docs.atlas.mongodb.com/tutorial/delete-atlas-account/\">Instructions here</a>). Then you can send a mail to cloud-account-support@mongodb.com, with the subject line \"Request for Atlas Account Deletion\" from your regitered mail and delete your account",
+        "notes": "To delete your MongoDB account you first need to delete all active clusters, projects and organizations linked with your account. Then you can send a mail to cloud-account-support@mongodb.com, with the subject line \"Request for Atlas Account Deletion\" from your registered mail and delete your account",
         "email": "cloud-account-support@mongodb.com",
         "email_subject": "Request for Atlas Account Deletion",
         "domains": [
@@ -8580,7 +8580,7 @@
         "name": "WaniKani",
         "url": "https://www.wanikani.com/settings/danger_zone",
         "difficulty": "easy",
-        "notes": "Visit the given link and click on \"Send deletion confirmation mail\". You will recieve a mail on your registered mail address and you can confirm the account deletion from there.",
+        "notes": "Visit the given link and click on \"Send deletion confirmation mail\". You will receive a mail on your registered mail address and you can confirm the account deletion from there.",
         "domains": [
             "wanikani.com"
         ]
