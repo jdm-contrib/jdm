@@ -541,6 +541,15 @@
     },
 
     {
+        "name": "AtCoder",
+        "url": "https://atcoder.jp/quit",
+        "difficulty": "easy",
+        "domains": [
+            "atcoder.jp"
+        ]
+    },
+
+    {
         "name": "Aternos",
         "url": "https://aternos.org/close/",
         "difficulty": "easy",
@@ -1447,6 +1456,26 @@
         "notes_fr": "Il faut simplement confirmer que vous voulez supprimmer votre compte.",
         "domains": [
             "codecademy.com"
+        ]
+    },
+
+    {
+        "name": "CodeChef",
+        "url": "https://discuss.codechef.com/t/how-do-i-delete-a-codechef-account/30476",
+        "difficulty": "easy",
+        "notes": "Navigate to the Privacy tab in your edit profile section. Scroll all the way down and click on \"I don’t want to continue with CodeChef\". Alternatively login to codechef and visit \"https://www.codechef.com/users/<username>/discontinue\", after substituting in your username.",
+        "domains": [
+            "codechef.com"
+        ]
+    },
+
+    {
+        "name": "Codeforces",
+        "url": "https://codeforces.com/blog/entry/69245",
+        "difficulty": "impossible",
+        "notes": "You can't delete your account yet. The feature is being worked on and might become available in the future.",
+        "domains": [
+            "codeforces.com"
         ]
     },
 
@@ -2453,6 +2482,16 @@
     },
 
     {
+        "name": "Element",
+        "url": "https://app.element.io/#/home",
+        "difficulty": "easy",
+        "notes": "Go to \"All Settings\" scroll all the way down, and click on Deactivate Account.",
+        "domains": [
+            "element.io"
+        ]
+    },
+
+    {
         "name": "Elevate",
         "url": "https://elevateapp.com",
         "difficulty": "hard",
@@ -2839,6 +2878,16 @@
         "email": "privacy@flixster-inc.com",
         "domains": [
             "flixster.com"
+        ]
+    },
+
+    {
+        "name": "Floatplane",
+        "url": "https://www.floatplane.com/support",
+        "difficulty": "hard",
+        "notes": "You need to contanct the Floatplane team through their official website to have your account deleted",
+        "domains": [
+            "floatplane.com"
         ]
     },
 
@@ -4727,6 +4776,16 @@
     },
 
     {
+        "name": "Mangadex",
+        "url": "https://mangadex.org/thread/178895",
+        "difficulty": "impossible",
+        "notes": "The feature is not yet implemented. You could add your name to the forum post and the admins might eventually come around to it.",
+        "domains": [
+            "mangadex.org"
+        ]
+    },
+
+    {
         "name": "Mapbox",
         "url": "https://www.mapbox.com/account/billing/",
         "difficulty": "easy",
@@ -5271,6 +5330,18 @@
         "email": "support@moneydashboard.com",
         "domains": [
             "moneydashboard.com"
+        ]
+    },
+
+    {
+        "name": "Mongo Atlas",
+        "url": "https://docs.atlas.mongodb.com/tutorial/delete-atlas-account/",
+        "difficulty": "hard",
+        "notes": "To delete your MongoDB account you first need to delete all active clusters, projects and organizations linked with your account. Then you can send a mail to cloud-account-support@mongodb.com, with the subject line \"Request for Atlas Account Deletion\" from your registered mail and delete your account",
+        "email": "cloud-account-support@mongodb.com",
+        "email_subject": "Request for Atlas Account Deletion",
+        "domains": [
+            "mongodb.com"
         ]
     },
 
@@ -8516,6 +8587,16 @@
     },
 
     {
+        "name": "WaniKani",
+        "url": "https://www.wanikani.com/settings/danger_zone",
+        "difficulty": "easy",
+        "notes": "Visit the given link and click on \"Send deletion confirmation mail\". You will receive a mail on your registered mail address and you can confirm the account deletion from there.",
+        "domains": [
+            "wanikani.com"
+        ]
+    },
+
+    {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
@@ -8980,6 +9061,16 @@
         "notes": "Login to your account, go to account settings, click cancel account. Confirm at the dialog box.",
         "domains": [
             "zoom.us"
+        ]
+    },
+
+    {
+        "name": "Zulip",
+        "url": "https://zulipchat.com/help/deactivate-your-account",
+        "difficulty": "easy",
+        "notes": "Navigate to Settings > Your Account > Deactivate Account",
+        "domains": [
+            "zulipchat.com"
         ]
     },
 
