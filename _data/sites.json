@@ -5263,6 +5263,18 @@
             "moneydashboard.com"
         ]
     },
+    
+    {
+        "name": "Mongo Atlas",
+        "url": "https://docs.atlas.mongodb.com/tutorial/delete-atlas-account/",
+        "difficulty": "hard",
+        "notes": "To delete your MongoDB account you first need to delete all active clusters, projects and organizations linked with your account (<a href=\"https://docs.atlas.mongodb.com/tutorial/delete-atlas-account/\">Instructions here</a>). Then you can send a mail to cloud-account-support@mongodb.com, with the subject line \"Request for Atlas Account Deletion\" from your regitered mail and delete your account",
+        "email": "cloud-account-support@mongodb.com",
+        "email_subject": "Request for Atlas Account Deletion",
+        "domains": [
+            "mongodb.com"
+        ]
+    },
 
     {
         "name": "Monster",
