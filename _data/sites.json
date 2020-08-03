@@ -3918,6 +3918,16 @@
     },
 
     {
+        "name": "Indeed",
+        "url": "https://indeed.com",
+        "difficulty": "easy",
+        "notes": "You must login, go to your account settings and then click on the 'Close my account'.",
+        "domains": [
+            "indeed.com"
+        ]
+    },
+
+    {
         "name": "IndieGala",
         "url": "https://docs.indiegala.com/support/contacts.html",
         "difficulty": "hard",
