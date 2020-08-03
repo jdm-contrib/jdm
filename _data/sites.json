@@ -2882,6 +2882,16 @@
     },
 
     {
+        "name": "Floatplane",
+        "url": "https://www.floatplane.com/legal/terms",
+        "difficulty": "hard",
+        "notes": "You need to contanct the Floatplane team through their <a hreaf=\"https://www.floatplane.com/support\">official website</a> to have your account deleted",
+        "domains": [
+            "floatplane.com"
+        ]
+    },
+
+    {
         "name": "Foap",
         "url": "https://www.foap.com/pages/contact",
         "difficulty": "hard",
