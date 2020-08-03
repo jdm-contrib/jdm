@@ -4781,6 +4781,16 @@
     },
 
     {
+        "name": "Mathway",
+        "url": "https://www.mathway.com/settings",
+        "difficulty": "easy",
+        "notes": "Use the link to navigate to your account settings page. Click account, type your password and click delete.",
+        "domains": [
+            "mathway.com"
+        ]
+    },
+
+    {
         "name": "Maxdome",
         "url": "https://faq.maxdome.de/frage/mxdallgemein/mxdalleszu/was-ist-maxdome/wo-finde-ich-den-live-chat-von-maxdome",
         "difficulty": "hard",
