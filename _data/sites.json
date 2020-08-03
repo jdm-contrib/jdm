@@ -4766,6 +4766,16 @@
     },
 
     {
+        "name": "Mangadex",
+        "url": "https://mangadex.org/thread/178895",
+        "difficulty": "impossible",
+        "notes": "The feature is not yet implemented. You could add your name to the forum post and the admins might eventually come around to it.",
+        "domains": [
+            "mangadex.org"
+        ]
+    },
+
+    {
         "name": "Mapbox",
         "url": "https://www.mapbox.com/account/billing/",
         "difficulty": "easy",
