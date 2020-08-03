@@ -541,6 +541,15 @@
     },
 
     {
+        "name": "AtCoder",
+        "url": "https://atcoder.jp/quit",
+        "difficulty": "easy",
+        "domains": [
+            "atcoder.jp"
+        ]
+    },
+
+    {
         "name": "Aternos",
         "url": "https://aternos.org/close/",
         "difficulty": "easy",
