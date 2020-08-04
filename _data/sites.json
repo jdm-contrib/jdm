@@ -1727,6 +1727,16 @@
     },
 
     {
+        "name": "Crowdfire",
+        "url": "https://support.crowdfireapp.com/support/solutions/articles/5000712205-deleting-your-crowdfire-account",
+        "difficulty": "easy",
+        "notes": "Deleted after 48 hours of request",
+        "domains": [
+            "crowdfireapp.com"
+        ]
+    },
+
+    {
         "name": "Crowdin",
         "url": "https://crowdin.com/settings#account",
         "difficulty": "easy",
