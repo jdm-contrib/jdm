@@ -5869,15 +5869,6 @@
     },
 
     {
-        "name": "Sellfy",
-        "url": "https://sellfy.com/user/settings/account",
-        "difficulty": "easy",
-        "domains": [
-            "sellfy.com"
-        ]
-    },
-
-    {
         "name": "The Noun Project",
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
@@ -7218,6 +7209,15 @@
         "notes": "Open a ticket with the customer service using their chat/ticket form and ask them to delete your account.",
         "domains": [
             "scentbird.com"
+        ]
+    },
+
+    {
+        "name": "Sellfy",
+        "url": "https://sellfy.com/user/settings/account",
+        "difficulty": "easy",
+        "domains": [
+            "sellfy.com"
         ]
     },
 
