@@ -3046,6 +3046,16 @@
     },
 
     {
+        "name": "FXhome",
+        "url": "https://fxhome.com/faqs/view/69",
+        "difficulty": "hard",
+        "email": "support@fxhome.com",
+        "domains": [
+            "fxhome.com"
+        ]
+    },
+
+    {
         "name": "Gadu-Gadu",
         "url": "https://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
         "difficulty": "easy",
