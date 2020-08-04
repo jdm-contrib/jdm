@@ -3338,6 +3338,17 @@
             "glassdoor.com"
         ]
     },
+
+    {
+        "name": "Glitch",
+        "url": "https://glitch.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Log in first, go to the url, scroll down and press delete account.",
+        "domains": [
+            "glitch.com"
+        ]
+    },
+
     {
         "name": "Glovo",
         "url": "https://glovoapp.com/en/support",
