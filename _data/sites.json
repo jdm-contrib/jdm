@@ -3931,6 +3931,16 @@
     },
 
     {
+        "name": "Ibotta",
+        "url": "https://help.ibotta.com/hc/en-us/articles/225528727-How-Do-I-Cancel-My-Ibotta-Account-",
+        "difficulty": "hard",
+        "email": "accountsupport@ibotta.com",
+        "domains": [
+            "ibotta.com"
+        ]
+    },
+
+    {
         "name": "ICQ",
         "url": "https://www.icq.com/delete-account/",
         "difficulty": "easy",
