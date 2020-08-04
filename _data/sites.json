@@ -1544,6 +1544,15 @@
     },
 
     {
+        "name": "Codetasty",
+        "url": "https://codetasty.com/settings/security",
+        "difficulty": "easy",
+        "domains": [
+            "codetasty.com"
+        ]
+    },
+
+    {
         "name": "Codewars",
         "url": "https://www.codewars.com/users/edit",
         "difficulty": "easy",
