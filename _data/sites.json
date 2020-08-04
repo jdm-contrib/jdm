@@ -5869,15 +5869,6 @@
     },
 
     {
-        "name": "Sellfy",
-        "url": "https://sellfy.com/user/settings/account",
-        "difficulty": "easy",
-        "domains": [
-            "sellfy.com"
-        ]
-    },
-
-    {
         "name": "The Noun Project",
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
@@ -7236,6 +7227,15 @@
         "difficulty": "hard",
         "domains": [
             "sedo.com"
+        ]
+    },
+
+    {
+        "name": "Sellfy",
+        "url": "https://sellfy.com/user/settings/account",
+        "difficulty": "easy",
+        "domains": [
+            "sellfy.com"
         ]
     },
 
