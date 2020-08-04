@@ -3363,6 +3363,17 @@
         ]
     },
 
+    
+    {
+        "name": "GoFundMe",
+        "url": "https://www.gofundme.com/settings",
+        "difficulty": "easy",
+        "notes": "Log in first, go to the url, scroll down and press delete account.",
+        "domains": [
+            "gofundme.com"
+        ]
+    },
+
     {
         "name": "GOG",
         "url": "https://support.gog.com/hc/en-us/articles/212806525-How-can-I-delete-my-account-?product=gog",
