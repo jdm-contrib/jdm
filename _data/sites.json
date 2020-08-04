@@ -8576,6 +8576,16 @@
     },
 
     {
+        "name": "VSCO",
+        "url": "https://support.vsco.co/hc/en-us/articles/360004196352-How-do-I-delete-my-VSCO-Account-",
+        "difficulty": "easy",
+        "notes": "Deleting your account won't delete your membership.",
+        "domains": [
+            "vsco.co"
+        ]
+    },
+
+    {
         "name": "VSTBuzz",
         "url": "https://vstbuzz.com/contact/",
         "difficulty": "hard",
