@@ -4656,6 +4656,15 @@
     },
 
     {
+        "name": "Listia",
+        "url": "https://help.listia.com/hc/en-us/articles/203895428-How-do-I-delete-close-my-account-",
+        "difficulty": "hard",
+        "domains": [
+            "listia.com"
+        ]
+    },
+
+    {
         "name": "LiveJournal",
         "url": "https://www.livejournal.com/accountstatus.bml",
         "difficulty": "medium",
