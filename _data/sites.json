@@ -7211,16 +7211,7 @@
             "scentbird.com"
         ]
     },
-
-    {
-        "name": "Sellfy",
-        "url": "https://sellfy.com/user/settings/account",
-        "difficulty": "easy",
-        "domains": [
-            "sellfy.com"
-        ]
-    },
-
+    
     {
         "name": "Scribd",
         "url": "https://www.scribd.com/account_settings/preferences",
