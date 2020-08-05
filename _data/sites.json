@@ -1547,6 +1547,7 @@
         "name": "Codetasty",
         "url": "https://codetasty.com/settings/security",
         "difficulty": "easy",
+        "notes": "Log in, press the url, press 'Deactivate Account' which will disable your account for some time and then permanently delete",
         "domains": [
             "codetasty.com"
         ]
@@ -5830,6 +5831,7 @@
         "name": "Nintendo",
         "url": "https://accounts.nintendo.com/withdraw/confirm",
         "difficulty": "easy",
+        "notes": "Scroll down and press deactive and delete, it will be deactived for 30 days and then permanently deleted, if a Nintendo Network ID is linked to the account, it will not be deleted in this process",
         "domains": [
             "nintendo.com"
         ]
@@ -7233,7 +7235,8 @@
     {
         "name": "Sellfy",
         "url": "https://sellfy.com/user/settings/account",
-        "difficulty": "easy",
+        "notes": "Log in first, go to the url and press 'Close Account', all products and orders will be lost, you will have to add a reason why, and depending on the option you will have to further explain",
+        "difficulty": "medium",
         "domains": [
             "sellfy.com"
         ]
