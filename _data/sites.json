@@ -72,6 +72,16 @@
     },
 
     {
+        "name": "99designs",
+        "url": "https://support.99designs.com/hc/en-us/articles/204108919-How-do-I-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "Have to contact them, they will only ask for confirmation",
+        "domains": [
+            "99designs.com"
+        ]
+    },
+
+    {
         "name": "9GAG",
         "url": "https://9gag.com/member/delete",
         "difficulty": "easy",
@@ -1534,6 +1544,16 @@
     },
 
     {
+        "name": "Codetasty",
+        "url": "https://codetasty.com/settings/security",
+        "difficulty": "easy",
+        "notes": "Log in, press the url, press 'Deactivate Account' which will disable your account for some time and then permanently delete",
+        "domains": [
+            "codetasty.com"
+        ]
+    },
+
+    {
         "name": "Codewars",
         "url": "https://www.codewars.com/users/edit",
         "difficulty": "easy",
@@ -1713,6 +1733,16 @@
         "notes": "You can pause your account for $10/mo or cancel your account.",
         "domains": [
             "crowdcast.io"
+        ]
+    },
+
+    {
+        "name": "Crowdfire",
+        "url": "https://support.crowdfireapp.com/support/solutions/articles/5000712205-deleting-your-crowdfire-account",
+        "difficulty": "easy",
+        "notes": "Deleted after 48 hours of request",
+        "domains": [
+            "crowdfireapp.com"
         ]
     },
 
@@ -3036,6 +3066,16 @@
     },
 
     {
+        "name": "FXhome",
+        "url": "https://fxhome.com/faqs/view/69",
+        "difficulty": "hard",
+        "email": "support@fxhome.com",
+        "domains": [
+            "fxhome.com"
+        ]
+    },
+
+    {
         "name": "Gadu-Gadu",
         "url": "https://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
         "difficulty": "easy",
@@ -3299,6 +3339,17 @@
             "glassdoor.com"
         ]
     },
+
+    {
+        "name": "Glitch",
+        "url": "https://glitch.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Log in first, go to the url, scroll down and press delete account.",
+        "domains": [
+            "glitch.com"
+        ]
+    },
+
     {
         "name": "Glovo",
         "url": "https://glovoapp.com/en/support",
@@ -3340,6 +3391,16 @@
         "notes": "Navigate to account preferences, select to \"Close Account\" and confirm.",
         "domains": [
             "godaddy.com"
+        ]
+    },
+
+    {
+        "name": "GoFundMe",
+        "url": "https://www.gofundme.com/settings",
+        "difficulty": "easy",
+        "notes": "Log in first, go to the url, scroll down and press delete account.",
+        "domains": [
+            "gofundme.com"
         ]
     },
 
@@ -3907,6 +3968,16 @@
         "notes": "You must <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\">contact Humble Bundle via their online contact form</a> to request account deletion and provide three or more transaction IDs from previous orders. They only deactivate your account though and state you can get back at any time.",
         "domains": [
             "humblebundle.com"
+        ]
+    },
+
+    {
+        "name": "Ibotta",
+        "url": "https://help.ibotta.com/hc/en-us/articles/225528727-How-Do-I-Cancel-My-Ibotta-Account-",
+        "difficulty": "hard",
+        "email": "accountsupport@ibotta.com",
+        "domains": [
+            "ibotta.com"
         ]
     },
 
@@ -4592,6 +4663,15 @@
         "notes": "One cannot even change the password",
         "domains": [
             "linsensuppe.de"
+        ]
+    },
+
+    {
+        "name": "Listia",
+        "url": "https://help.listia.com/hc/en-us/articles/203895428-How-do-I-delete-close-my-account-",
+        "difficulty": "hard",
+        "domains": [
+            "listia.com"
         ]
     },
 
@@ -5744,6 +5824,16 @@
         "email": "support@ninoxdb.de",
         "domains": [
             "ninoxdb.de"
+        ]
+    },
+
+    {
+        "name": "Nintendo",
+        "url": "https://accounts.nintendo.com/withdraw/confirm",
+        "difficulty": "easy",
+        "notes": "Scroll down and press deactive and delete, it will be deactived for 30 days and then permanently deleted, if a Nintendo Network ID is linked to the account, it will not be deleted in this process",
+        "domains": [
+            "nintendo.com"
         ]
     },
 
@@ -7139,6 +7229,16 @@
         "difficulty": "hard",
         "domains": [
             "sedo.com"
+        ]
+    },
+
+    {
+        "name": "Sellfy",
+        "url": "https://sellfy.com/user/settings/account",
+        "notes": "Log in first, go to the url and press 'Close Account', all products and orders will be lost, you will have to add a reason why, and depending on the option you will have to further explain",
+        "difficulty": "medium",
+        "domains": [
+            "sellfy.com"
         ]
     },
 
@@ -8563,6 +8663,16 @@
         "notes": "Account can only be deleted from Android or iOS app, not the Voxer website.",
         "domains": [
             "voxer.com"
+        ]
+    },
+
+    {
+        "name": "VSCO",
+        "url": "https://support.vsco.co/hc/en-us/articles/360004196352-How-do-I-delete-my-VSCO-Account-",
+        "difficulty": "easy",
+        "notes": "Deleting your account won't delete your membership.",
+        "domains": [
+            "vsco.co"
         ]
     },
 
