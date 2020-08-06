@@ -2708,6 +2708,15 @@
             "expedia.fr"
         ]
     },
+    
+    {
+        "name": "exercism",
+        "url": "https://exercism.io/my/settings/delete_account",
+        "difficulty": "easy",
+        "domains": [
+            "exercism.io"
+        ]
+    },
 
     {
         "name": "Experian",
