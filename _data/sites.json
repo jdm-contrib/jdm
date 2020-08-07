@@ -2694,6 +2694,15 @@
     },
 
     {
+        "name": "exercism",
+        "url": "https://exercism.io/my/settings/delete_account",
+        "difficulty": "easy",
+        "domains": [
+            "exercism.io"
+        ]
+    },
+
+    {
         "name": "Expedia",
         "url": "https://www.expedia.com/service/#/articles/396/25/12395",
         "url_de": "https://www.expedia.de/service/#/articles/1067/1017/23667",
@@ -2706,15 +2715,6 @@
             "expedia.co.uk",
             "expedia.de",
             "expedia.fr"
-        ]
-    },
-    
-    {
-        "name": "exercism",
-        "url": "https://exercism.io/my/settings/delete_account",
-        "difficulty": "easy",
-        "domains": [
-            "exercism.io"
         ]
     },
 
