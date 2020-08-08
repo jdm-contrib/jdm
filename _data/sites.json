@@ -3841,6 +3841,16 @@
     },
 
     {
+        "name": "HelpScout",
+        "url": "https://docs.helpscout.com/article/473-cancel-your-help-scout-account",
+        "difficulty": "easy",
+        "notes": "Login, go to Account and click on Cancel Account",
+        "domains": [
+            "helpscout.com"
+        ]
+    },
+
+    {
         "name": "Heroes of Newerth",
         "url": "https://www.heroesofnewerth.com",
         "difficulty": "hard",
