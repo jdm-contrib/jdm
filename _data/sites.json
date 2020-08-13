@@ -1005,6 +1005,16 @@
     },
 
     {
+        "name": "Bookmark OS",
+        "url": "https://bookmarkos.com/",
+        "difficulty": "impossible",
+        "notes": "There is no option to remove the account.",
+        "domains": [
+            "bookmarkos.com"
+        ]
+    },
+
+    {
         "name": "botlist.space",
         "url": "https://botlist.space/server",
         "difficulty": "hard",
@@ -1159,6 +1169,15 @@
         "difficulty": "easy",
         "domains": [
             "cafepress.com"
+        ]
+    },
+
+    {
+        "name": "CakeReader",
+        "url": "https://cakereader.com/",
+        "difficulty": "impossible",
+        "domains": [
+            "cakereader.com"
         ]
     },
 
@@ -4464,6 +4483,15 @@
     },
 
     {
+        "name": "Klepit",
+        "url": "https://www.klepit.com/?v=10",
+        "difficulty": "impossible",
+        "domains": [
+            "klepit.com"
+        ]
+    },
+
+    {
         "name": "Koingo Software",
         "url": "https://www.koingosw.com/account/delete.php",
         "difficulty": "medium",
@@ -5778,6 +5806,16 @@
         "difficulty": "easy",
         "domains": [
             "newsblur.com"
+        ]
+    },
+
+    {
+        "name": "Newspipe",
+        "url": "https://www.newspipe.org/",
+        "difficulty": "impossible",
+        "notes": "There is a  \"delete your account\" button, but it takes to a 404 page and nothing happens.",
+        "domains": [
+            "newspipe.org"
         ]
     },
 
