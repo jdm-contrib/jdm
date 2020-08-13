@@ -1173,6 +1173,15 @@
     },
 
     {
+        "name": "CakeReader",
+        "url": "https://cakereader.com/",
+        "difficulty": "impossible",
+        "domains": [
+            "cakereader.com"
+        ]
+    },
+
+    {
         "name": "Call of Duty (Activision)",
         "url": "https://www.callofduty.com",
         "difficulty": "impossible",
