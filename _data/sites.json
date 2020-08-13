@@ -1005,6 +1005,16 @@
     },
 
     {
+        "name": "Bookmark OS",
+        "url": "https://bookmarkos.com/",
+        "difficulty": "impossible",
+        "notes": "There is no option to remove the account.",
+        "domains": [
+            "bookmarkos.com"
+        ]
+    },
+
+    {
         "name": "botlist.space",
         "url": "https://botlist.space/server",
         "difficulty": "hard",
