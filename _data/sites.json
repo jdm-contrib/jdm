@@ -5782,6 +5782,16 @@
     },
 
     {
+        "name": "Newspipe",
+        "url": "https://www.newspipe.org/",
+        "difficulty": "impossible",
+        "notes": "There is a  \"delete your account\" button, but it takes to a 404 page and nothing happens.",
+        "domains": [
+            "newspipe.org"
+        ]
+    },
+
+    {
         "name": "NextDNS",
         "url": "https://my.nextdns.io/account",
         "difficulty": "easy",
