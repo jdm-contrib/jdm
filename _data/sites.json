@@ -5822,8 +5822,9 @@
     {
         "name": "Newspipe",
         "url": "https://www.newspipe.org/",
-        "difficulty": "impossible",
-        "notes": "There is a  \"delete your account\" button, but it takes to a 404 page and nothing happens.",
+        "email": "info@newspipe.org",
+        "difficulty": "hard",
+        "notes": "There is a  \"delete your account\" button, but it was not working. Mailing them does.",
         "domains": [
             "newspipe.org"
         ]
