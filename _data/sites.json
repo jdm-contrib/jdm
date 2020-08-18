@@ -1412,6 +1412,17 @@
     },
 
     {
+        "name": "Cloud Convert",
+        "url": "https://cloudconvert.com/delete#",
+        "difficulty": "easy",
+        "notes": "Go to the dashboard > account > details, and fill your username and password. The acount is deleted after 72 hours.",
+        "notes_pt_br": "Vá em \"dashboard\" > \"account\" > \"details\", e preencha seu nome de usuário e senha. A conta é removida após 72 horas.",
+        "domains": [
+            "cloudconvert.com"
+        ]
+    },
+
+    {
         "name": "CloudApp",
         "url": "https://my.cl.ly/account/delete",
         "email": "support@getcloudapp.com",
