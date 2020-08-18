@@ -1412,17 +1412,6 @@
     },
 
     {
-        "name": "CloudApp",
-        "url": "https://my.cl.ly/account/delete",
-        "email": "support@getcloudapp.com",
-        "difficulty": "hard",
-        "notes": "The site claims that you must call their support line (888-988-5036, ext 1), but they deactivated my account over email.",
-        "domains": [
-            "cl.ly"
-        ]
-    },
-    
-    {
         "name": "Cloud Convert",
         "url": "https://cloudconvert.com/delete#",
         "difficulty": "easy",
@@ -1432,7 +1421,18 @@
             "cloudconvert.com"
         ]
     },
-    
+
+    {
+        "name": "CloudApp",
+        "url": "https://my.cl.ly/account/delete",
+        "email": "support@getcloudapp.com",
+        "difficulty": "hard",
+        "notes": "The site claims that you must call their support line (888-988-5036, ext 1), but they deactivated my account over email.",
+        "domains": [
+            "cl.ly"
+        ]
+    },
+
     {
         "name": "Cloudflare",
         "url": "https://support.cloudflare.com/requests/new",
