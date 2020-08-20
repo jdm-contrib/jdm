@@ -8967,9 +8967,9 @@
 
     {
         "name": "Wix",
-        "url": "https://www.wix.com/close-account/index.html",
-        "difficulty": "easy",
-        "notes": "Delete any built sites and subscriptions then follow the link to an account deletion button.",
+        "url": "https://www.wix.com/account/support/permanent-delete",
+        "difficulty": "medium",
+        "notes": "Delete any built sites and subscriptions then follow the link to an account deletion form.",
         "domains": [
             "wix.com"
         ]
