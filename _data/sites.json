@@ -8977,9 +8977,9 @@
 
     {
         "name": "Wix",
-        "url": "https://support.wix.com/en/article/gdpr-permanently-deleting-your-wix-account",
+        "url": "https://www.wix.com/account/support/permanent-delete",
         "difficulty": "medium",
-        "notes": "Delete any built sites and subscriptions then follow the link to a deletion request form. Email is sent straight away with a link to confirm the deletion",
+        "notes": "Delete any built sites and subscriptions then follow the link to an account deletion form.",
         "domains": [
             "wix.com"
         ]
