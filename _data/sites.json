@@ -8837,6 +8837,16 @@
     },
 
     {
+        "name": "Webull",
+        "url": "https://www.webull.com/hc/categories/fq125-How-do-I-delete-my-Webull-account",
+        "difficulty": "easy",
+        "notes": "Must use the mobile application to delete account.",
+        "domains": [
+            "webull.com"
+        ]
+    },
+
+    {
         "name": "Wedbio",
         "url": "https://wedbio.com/#contact",
         "difficulty": "hard",
