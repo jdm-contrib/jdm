@@ -7151,6 +7151,16 @@
     },
 
     {
+        "name": "Robinhood",
+        "url": "https://robinhood.com/contact",
+        "difficulty": "hard",
+        "notes": "Contact support via the link and request acount deletion.",
+        "domains": [
+            "robinhood.com"
+        ]
+    },
+
+    {
         "name": "Roblox",
         "url": "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
         "difficulty": "impossible",
