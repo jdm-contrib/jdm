@@ -7962,7 +7962,7 @@
         "difficulty": "impossible",
         "notes":"There's no provided way to remove an account, just a general-purpose support email that receives no attention.",
         "notes_pt_br":"Não é fornecida nenhuma maneira para remover uma conta, apenas um email de geral de suporte que não recebe atenção.",
-		"email":"support@surveytime.io",
+        "email":"support@surveytime.io",
         "domains": [
             "surveytime.io"
         ]
