@@ -849,7 +849,7 @@
 
     {
         "name": "Bitdefender Central",
-        "url": "https://central.bitdefender.com/account",
+        "url": "https://account.bitdefender.com/delete_account/info",
         "difficulty": "medium",
         "notes": "To delete your account, login, go to the 'My Account' page, click the 'Delete Account' link, click the 'Delete Account' button, and click the 'Send Email' button. A confirmation email will be sent to the account email. Click the 'Delete Account' link in the email sent to you, log into your account, and click the 'Delete Account' button.",
         "domains": [
