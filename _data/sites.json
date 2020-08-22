@@ -6965,6 +6965,18 @@
     },
 
     {
+        "name": "Radiooooo",
+        "url": "https://radiooooo.com/",
+        "difficulty": "hard",
+        "notes":"Account removal must be requested directly by email.",
+        "notes_pt_br":"A remoção da conta deve ser solicitada diretamente por email.",
+        "email":"support@radiooooo.com",
+        "domains": [
+            "radiooooo.com"
+        ]
+    },
+
+    {
         "name": "Raindrop.io",
         "url": "https://raindrop.io/app/#/settings/profile",
         "difficulty": "hard",
@@ -7961,6 +7973,18 @@
         "notes":"Scroll to the bottom of the page and click 'Permanently delete account'. After reviewing the information, click all checkboxes and enter your password. Click 'Yes, delete this account' to confirm.The account and questionnaire data will be definitively excluded within 90 days.",
         "domains": [
             "surveymonkey.com"
+        ]
+    },
+
+    {
+        "name": "Surveytime",
+        "url": "https://surveytime.io/privacy-policy",
+        "difficulty": "impossible",
+        "notes":"There's no provided way to remove an account, just a general-purpose support email that receives no attention.",
+        "notes_pt_br":"Não é fornecida nenhuma maneira para remover uma conta, apenas um email de geral de suporte que não recebe atenção.",
+        "email":"support@surveytime.io",
+        "domains": [
+            "surveytime.io"
         ]
     },
 
