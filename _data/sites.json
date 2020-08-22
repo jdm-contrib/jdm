@@ -416,6 +416,16 @@
     },
 
     {
+        "name": "AnonAddy",
+        "url": "https://app.anonaddy.com/settings",
+        "difficulty": "easy",
+        "notes": "Enter password at the bottom of the page and click 'Delete Account'.",
+        "domains": [
+            "anonaddy.com"
+        ]
+    },
+
+    {
         "name": "Any.do",
         "url": "https://support.any.do/account-and-profile/",
         "difficulty": "medium",
