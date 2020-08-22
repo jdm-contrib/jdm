@@ -6950,7 +6950,7 @@
         "difficulty": "hard",
         "notes":"Account removal must be requested directly by email.",
         "notes_pt_br":"A remoção da conta deve ser solicitada diretamente por email.",
-		"email":"support@radiooooo.com",
+        "email":"support@radiooooo.com",
         "domains": [
             "radiooooo.com"
         ]
