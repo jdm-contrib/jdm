@@ -6030,6 +6030,16 @@
     },
 
     {
+        "name": "OfferUp",
+        "url": "https://offerup.com/accounts/deactivate/",
+        "difficulty": "easy",
+        "notes": "Login to your account, click Delete Account, provide reason for deletion, confirm and complete. Very simple.",
+        "domains": [
+            "offerup.com"
+        ]
+    },
+
+    {
         "name": "OkCupid",
         "url": "https://www.okcupid.com/settings",
         "difficulty": "easy",
