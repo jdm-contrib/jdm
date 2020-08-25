@@ -8970,7 +8970,18 @@
         "notes": "Require your membership number to be sent in the email. This can be found here <a href=\"https://www.which.co.uk/account/#/\">https://www.which.co.uk/account/#/</a>"
     },
 
-    {
+	{
+        "name": "Whizlabs",
+        "url": "https://www.whizlabs.com/contact-us/",
+        "difficulty": "easy",
+        "email": "support@whizlabs.com",
+        "domains": [
+            "whizlabs.com"
+        ],
+        "notes": "Submit a request to delete your account using the contact form provided."
+	},
+
+	{
         "name": "WhoSay.com",
         "url": "http://www.whosay.com/settings",
         "difficulty": "easy",
