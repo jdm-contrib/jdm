@@ -8973,12 +8973,12 @@
     {
         "name": "Whizlabs",
         "url": "https://www.whizlabs.com/contact-us/",
-        "difficulty": "easy",
+        "difficulty": "hard",
+        "notes": "Submit a request to delete your account using the contact form provided.",
         "email": "support@whizlabs.com",
         "domains": [
             "whizlabs.com"
-        ],
-        "notes": "Submit a request to delete your account using the contact form provided."
+        ]
     },
 
     {
