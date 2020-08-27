@@ -2694,8 +2694,9 @@
     },
 
     {
-        "name": "exercism",
-        "url": "https://exercism.io/my/settings/delete_account",
+        "name": "Exercism",
+        "notes": "Login and click 'Delete my Account'. Then click again on the next page to confirm deletion.",
+        "url": "https://exercism.io/my/settings",
         "difficulty": "easy",
         "domains": [
             "exercism.io"
