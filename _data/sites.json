@@ -2732,6 +2732,16 @@
     },
 
     {
+        "name": "Exercism",
+        "notes": "Login and click 'Delete my Account'. Then click again on the next page to confirm deletion.",
+        "url": "https://exercism.io/my/settings",
+        "difficulty": "easy",
+        "domains": [
+            "exercism.io"
+        ]
+    },
+
+    {
         "name": "Expedia",
         "url": "https://www.expedia.com/service/#/articles/396/25/12395",
         "url_de": "https://www.expedia.de/service/#/articles/1067/1017/23667",
