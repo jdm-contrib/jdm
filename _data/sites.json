@@ -3050,7 +3050,7 @@
         "name": "Freelancer",
         "url": "https://www.freelancer.in/users/settings.php#AccountSettings",
         "difficulty": "easy",
-        "notes": "Click Close My Account in Account settings from above link. Complete the short survey, and click Close my account."
+        "notes": "Click Close My Account in Account settings from above link. Complete the short survey, and click Close my account.",
         "domains": [
             "freelancer.com"
         ]
