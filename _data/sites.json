@@ -802,6 +802,16 @@
     },
 
     {
+        "name": "Be Welcome",
+        "url": "https://www.bewelcome.org/deleteprofile",
+        "difficulty": "easy",
+        "notes": "There's a 'Remove profile' option on the side menu at the 'Edit my profile' page. You can even select an option to have your data deleted within 24 hours.",
+        "domains": [
+            "bewelcome.org"
+        ]
+    },
+
+    {
         "name": "Beamly",
         "url": "http://au.beamly.com/account/delete",
         "difficulty": "easy",
