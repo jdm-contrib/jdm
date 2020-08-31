@@ -467,6 +467,16 @@
     },
 
     {
+        "name": "Apple",
+        "url": "https://support.apple.com/es-lamr/HT208504",
+        "difficulty": "easy",
+        "notes": "Follow the steps to request account deletion. It is possible to undo for a few days.",
+        "domains": [
+            "apple.com"
+        ]
+    },
+
+    {
         "name": "AppShopper",
         "url": "https://appshopper.com/about#contact-form",
         "difficulty": "hard",
