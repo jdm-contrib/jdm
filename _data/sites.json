@@ -7367,6 +7367,16 @@
     },
 
     {
+        "name": "Shipito",
+        "url": "https://www.shipito.com/es/help/faq/account-navigation",
+        "difficulty": "hard",
+        "notes": "Create a customer support ticket requesting deletion.",
+        "domains": [
+            "shipito.com"
+        ]
+    },
+
+    {
         "name": "Shopee",
         "url": "https://www.sharelatex.com/user/settings",
         "difficulty": "medium",
