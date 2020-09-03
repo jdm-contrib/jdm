@@ -4110,6 +4110,17 @@
     },
 
     {
+        "name": "Importa Brasil",
+        "url": "https://importabr.com.br/new-content/23",
+        "difficulty": "hard",
+        "notes": "Create a topic to request the deletion of your account.",
+        "notes_pt_br": "Crie um tópico para solicitar a exclusão da sua conta.",
+        "domains": [
+            "importabr.com.br"
+        ]
+    },
+
+    {
         "name": "Indeed",
         "url": "https://indeed.com",
         "difficulty": "easy",
