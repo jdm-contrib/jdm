@@ -4238,17 +4238,6 @@
     },
 
     {
-        "name": "Invidious",
-        "url": "https://invidio.us/delete_account",
-        "difficulty": "easy",
-        "notes": "Click \"Yes\" to confirm the deletion of your account.",
-        "notes_pt_br": "Clique em \"Yes\" para confirmar a exclusão da sua conta.",
-        "domains": [
-            "invidio.us"
-        ]
-    },
-
-    {
         "name": "Invision",
         "url": "https://support.invisionapp.com/hc/en-us/requests/new",
         "difficulty": "hard",
