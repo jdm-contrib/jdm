@@ -2646,9 +2646,9 @@
 
     {
         "name": "Epic Games",
-        "url": "https://epicgames.helpshift.com/a/epic-accounts/?s=epic-account-support&f=how-can-i-disable-my-epic-account&l=en&contact=1",
-        "difficulty": "hard",
-        "notes": "Select 'Delete Epic Games Account' from the dropdown in the contact page and submit a request. Support will respond to you in about 5 days asking for confirmation",
+        "url": "https://www.epicgames.com/help/en-US/epic-accounts-c74/general-support-c79/how-do-i-delete-my-epic-games-account-a3636",
+        "difficulty": "medium",
+        "notes": "Log in to your account. On the \"General Info\" page, scroll to the \"Delete Account\" section, request deletion and follow the steps.",
         "domains": [
             "epicgames.com"
         ]
