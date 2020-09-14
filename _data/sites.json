@@ -8524,14 +8524,9 @@
 
     {
         "name": "Udacity",
-        "url": "http://forums.udacity.com/answer_link/100044663/",
-        "difficulty": "impossible",
-        "notes": "A Udacity employee recommends that you stop using the account, which means there's currently no way of deleting the account.",
-        "notes_fr": "Udacity recommande à arrêter votre usage du compte, qui veut dire qu'il n'y a pas de façon de supprimer le compte en ce moment.",
-        "notes_it": "Un impiegato di Udacity consiglia di smettere di usare l'account, il che significa che non ci sono modi differenti per eliminare l'account.",
-        "notes_pt_br": "Um empregado Udacity recomenda que você pare de usar a conta, o que significa que não há como deletar sua conta atualmente.",
-        "notes_cat": "Un treballador d'Udacity recomana que pari d'utilitzar el compte, això vol dir que no hi ha cap manera d'esborrar el compte de moment.",
-        "notes_es": "Un empleado de Udacity recomienda que pares de utilizar la cuenta, es decir que no hay ninguna manera de borrar la cuenta de momento.",
+        "url": "https://udacity.zendesk.com/hc/en-us/articles/360024003151-How-do-I-request-to-delete-my-account-",
+        "difficulty": "medium",
+        "notes": "After logging in into your Udacity account and clicking on the button \"Delete Your Data\" under \"Personal Information\" you get sent a code by email to verify the deletion. Note that you are still being charged for any courses you are enrolled in!",
         "domains": [
             "udacity.com"
         ]
