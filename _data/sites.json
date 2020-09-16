@@ -1625,10 +1625,10 @@
 
     {
         "name": "Coinbase",
-        "url": "https://www.coinbase.com/close_account",
+        "url": "https://www.coinbase.com/settings/account_activity",
         "difficulty": "medium",
-        "notes": "Sign in then visit <a href=\"https://www.coinbase.com/close_account\">https://www.coinbase.com/close_account</a> and scroll to the bottom to find a button to close you account. In order to be deleted, your account can not have pending transactions.",
-        "notes_pt_br": "Faça login e acesse <a href=\"https://www.coinbase.com/close_account\">https://www.coinbase.com/close_account</a>. Role até o final da página para encontrar o botão para fechar sua conta. Para que possa ser excluída, sua conta não deve haver nenhum tipo de transação pendente.",
+        "notes": "Sign in then visit <a href=\"https://www.coinbase.com/settings/account_activity\">https://www.coinbase.com/settings/account_activity</a> and scroll to the bottom to find a button to close you account. In order to be deleted, your account can not have pending transactions.",
+        "notes_pt_br": "Faça login e acesse <a href=\"https://www.coinbase.com/settings/account_activity\">https://www.coinbase.com/settings/account_activity</a>. Role até o final da página para encontrar o botão para fechar sua conta. Para que possa ser excluída, sua conta não deve haver nenhum tipo de transação pendente.",
         "domains": [
             "coinbase.com"
         ]
