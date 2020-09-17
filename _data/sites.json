@@ -1340,7 +1340,8 @@
     {
         "name": "Change.org",
         "url": "https://www.change.org/account_settings/disable_account",
-        "difficulty": "easy",
+        "difficulty": "impossible",
+        "notes": "There is only an option to disable your account. There is no way to request deletion.",
         "domains": [
             "change.org"
         ]
