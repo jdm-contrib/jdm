@@ -8143,6 +8143,16 @@
     },
 
     {
+        "name": "Technic Platform & Technic Forums",
+        "url": "https://forums.technicpack.net/topic/322688-platform-forum-account-deletion-requests",
+        "difficulty": "medium",
+        "notes": "To delete your forum account reply to the linked topic with the message \"I request that my Technic forum account be deleted.\". To delete your platform account, report yourself with reason \"Other Reason\" and input the message \"I request that my Technic platform account be deleted.\".",
+        "domains": [
+            "technicpack.net"
+        ]
+    },
+
+    {
         "name": "Technorati",
         "url": "https://technorati.com",
         "difficulty": "impossible",
