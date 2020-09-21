@@ -888,6 +888,17 @@
     },
 
     {
+        "name": "Bitfinex",
+        "url": "https://support.bitfinex.com/hc/en-us/articles/115002403694",
+        "url_ru": "https://support.bitfinex.com/hc/ru/articles/115002403694",
+        "difficulty": "medium",
+        "notes": "Visit the Account Settings page from the menu in the top right corner of the Bitfinex platform. Deactivate your Bitfinex account by changing your account status. Finally, confirm this via the confirmation email. This process is irreversible and your data will be retained for as long as needed to meet audit and regulatory purposes.",
+        "domains": [
+            "bitfinex.com"
+        ]
+    },
+
+    {
         "name": "Bitly",
         "url": "http://app.bitly.com/bitlinks/?actions=deactivate",
         "difficulty": "easy",
