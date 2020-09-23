@@ -1868,6 +1868,16 @@
     },
 
     {
+        "name": "Cryptotrader",
+        "url": "https://cryptotrader.org/privacy",
+        "difficulty": "hard",
+        "email": "support@cryptotrader.org",
+        "domains": [
+            "cryptotrader.org"
+        ]
+    },
+
+    {
         "name": "CryptPad",
         "url": "https://cryptpad.fr/settings/",
         "difficulty": "easy",
