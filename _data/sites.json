@@ -7619,16 +7619,6 @@
     },
 
     {
-        "name": "SlimTimer",
-        "url": "http://slimtimer.com",
-        "difficulty": "hard",
-        "notes": "Email request required.",
-        "domains": [
-            "slimtimer.com"
-        ]
-    },
-
-    {
         "name": "SmartRecruiters",
         "url": "https://help.smartrecruiters.com/Getting_Started/User_settings/How_do_I_close_my_user_account%3F",
         "difficulty": "impossible",
