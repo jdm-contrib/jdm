@@ -5528,15 +5528,6 @@
     },
 
     {
-        "name": "Monster",
-        "url": "http://my.monster.com/Account/CancelMembership",
-        "difficulty": "easy",
-        "domains": [
-            "monster.com"
-        ]
-    },
-
-    {
         "name": "Moonpig",
         "url": "https://photobox-mp.custhelp.com",
         "difficulty": "hard",
