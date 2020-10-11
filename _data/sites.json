@@ -7944,6 +7944,16 @@
     },
 
     {
+        "name": "StrongHold Kingdoms",
+        "url": "https://login.strongholdkingdoms.com/ajaxphp/main_ajax.php?event=ChangeGDPR&status=0",
+        "difficulty": "medium",
+        "notes": "Log in, select the option view my account, a dialog will have delete my account button which is then confirmed by the email. After confirming, your GDPR request will takes 2 weeks to be completed. You are able to cancel this deletion request any time within that 2 week processing period by clicking the link below in the confirmation email.",
+        "domains": [
+            "strongholdkingdoms.com"
+        ]
+    },
+
+    {
         "name": "StumbleUpon",
         "url": "https://www.stumbleupon.com/settings/delete-account",
         "difficulty": "easy",
