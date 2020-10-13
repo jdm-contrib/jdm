@@ -8434,9 +8434,12 @@
 
     {
         "name": "Turo",
-        "url": "https://turo.com/us/en/account",
-        "difficulty": "easy",
-        "notes": "Scroll to the bottom of the account page and click 'Close my account.'",
+        "url": "https://support.turo.com/hc/en-us/articles/203991030-How-to-close-your-account",
+        "difficulty": "hard",
+        "notes": "Email accountclosure@turo.com and request that they delete your personal information.",
+        "email": "accountclosure@turo.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete the data associated with my account.",
         "domains": [
             "turo.com"
         ]
