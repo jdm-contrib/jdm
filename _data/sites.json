@@ -7150,6 +7150,16 @@
     },
 
     {
+        "name": "Remind",
+        "url": "https://www.remind.com/settings/profile",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the page and click 'Delete Account'",
+        "domains": [
+            "remind.com"
+        ]
+    },
+
+    {
         "name": "Replay Poker",
         "url": "https://www.replaypoker.com/settings/deactivate",
         "difficulty": "easy",
