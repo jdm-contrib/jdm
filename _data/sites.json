@@ -8433,6 +8433,16 @@
     },
 
     {
+        "name": "Turo",
+        "url": "https://turo.com/us/en/account",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the account page and click 'Close my account.'",
+        "domains": [
+            "turo.com"
+        ]
+    },
+
+    {
         "name": "Tutanota",
         "url": "http://mail.tutanota.com/settings/subscription",
         "difficulty": "easy",
