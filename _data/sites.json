@@ -8578,6 +8578,16 @@
     },
 
     {
+        "name": "Unidays",
+        "url": "https://www.myunidays.com/US/en-US/account/settings/delete",
+        "difficulty": "easy",
+        "notes": "Enter your password and click 'Delete my account'.",
+        "domains": [
+            "myunidays.com"
+        ]
+    },
+
+    {
         "name": "United Domains",
         "url": "https://www.united-domains.de/support/kontakt-formular/close//",
         "difficulty": "hard",
