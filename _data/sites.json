@@ -2945,8 +2945,8 @@
     {
         "name": "Fitbit",
         "url": "https://www.fitbit.com/settings/profile",
-        "difficulty": "easy",
-        "notes": "From the dashboard website, click 'Settings', then scroll down and click 'Delete Account'.",
+        "difficulty": "medium",
+        "notes": "From the dashboard website, click 'Settings', then scroll down and click 'Delete Account'. You'll receive an e-mail with the link for the actual deletion.",
         "domains": [
             "fitbit.com"
         ]
