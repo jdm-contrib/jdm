@@ -2944,9 +2944,9 @@
 
     {
         "name": "Fitbit",
-        "url": "https://help.fitbit.com/articles/en_US/Help_article/1285/",
-        "difficulty": "hard",
-        "notes": "From the mobile app, tap the Account icon and select 'Manage Data' and then 'Delete Account'. Contact Customer Support (phone, chat, or Twitter) if you do not have access to the app.",
+        "url": "https://www.fitbit.com/settings/profile",
+        "difficulty": "easy",
+        "notes": "From the dashboard website, click 'Settings', then scroll down and click 'Delete Account'.",
         "domains": [
             "fitbit.com"
         ]
