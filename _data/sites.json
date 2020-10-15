@@ -7923,6 +7923,16 @@
     },
 
     {
+        "name": "Stock Informer",
+        "url": "https://www.stockinformer.com/myprofile.aspx",
+        "difficulty": "easy",
+        "notes": "Click 'Deactivate Account' at the bottom of the page.",
+        "domains": [
+            "stockinformer.com"
+        ]
+    },
+
+    {
         "name": "Storenvy",
         "url": "https://www.storenvy.com/account",
         "difficulty": "easy",
