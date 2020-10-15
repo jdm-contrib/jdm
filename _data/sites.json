@@ -7113,6 +7113,16 @@
     },
 
     {
+        "name": "Redbubble",
+        "url": "https://www.redbubble.com/account/settings/cancel",
+        "difficulty": "easy",
+        "notes": "Click the button to delete your account.",
+        "domains": [
+            "redbubble.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Reddit",
         "url": "https://ssl.reddit.com/prefs/delete/",
