@@ -6838,6 +6838,16 @@
     },
 
     {
+        "name": "Postmates",
+        "url": "https://support.postmates.com/buyer/contact-us/delete-account",
+        "difficulty": "medium",
+        "notes": "Fill in account information and click 'Report Issue'. Reply to the email sent to you to confirm deletion.",
+        "domains": [
+            "postmates.com"
+        ]
+    },
+
+    {
         "name": "Premera",
         "url": "https://www.premera.com/wa/visitor/",
         "email": "support@premera.com",
