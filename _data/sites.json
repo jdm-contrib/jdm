@@ -2032,7 +2032,7 @@
         "name": "DEV",
         "url": "https://dev.to/settings/account",
         "difficulty": "easy",
-        "notes": "Go to your 'Settings'. On the left select 'Account'. You can 'Remove OAuth Associations' and 'Request Account Deletion', the latter via email.",
+        "notes": "Go to your 'Settings'. On the left select 'Account'. Click 'Delete Account', and follow the instructions sent via email to confirm.",
         "domains": [
             "dev.to"
         ]
