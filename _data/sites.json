@@ -7294,7 +7294,7 @@
     {
         "name": "Runescape",
         "url": "https://www.runescape.com/zendesk/support-form?form=360000041149",
-        "difficulty": "hard",
+        "difficulty": "medium",
         "notes": "Select 'Remove your personal data and permanently disable your account' as your request type and fill out the rest of the form.",
         "domains": [
             "runescape.com"
