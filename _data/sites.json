@@ -7313,9 +7313,9 @@
 
     {
         "name": "Runescape",
-        "url": "http://services.runescape.com/m=rswiki/en/Account_Help",
-        "difficulty": "hard",
-        "notes": "Under 5. Account Settings > A. Account Management > V. Account Deletion. You must mail or fax an affidavit to the Runescape office along with a copy of your legal identification",
+        "url": "https://www.runescape.com/zendesk/support-form?form=360000041149",
+        "difficulty": "medium",
+        "notes": "Select 'Remove your personal data and permanently disable your account' as your request type and fill out the rest of the form.",
         "domains": [
             "runescape.com"
         ]
