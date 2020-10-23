@@ -3372,6 +3372,16 @@
     },
 
     {
+        "name": "GitKraken",
+        "url": "https://app.gitkraken.com/account-info/delete-account",
+        "difficulty": "easy",
+        "notes": "Type in the verification message \"Delete My Account\" as required and confirm deletion.",
+        "domains": [
+            "gitkraken.com"
+        ]
+    },
+
+    {
         "name": "GitLab",
         "url": "https://gitlab.com/profile/account",
         "difficulty": "easy",
