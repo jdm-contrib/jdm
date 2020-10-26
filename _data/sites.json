@@ -4480,6 +4480,16 @@
     },
 
     {
+        "name": "Kaspersky",
+        "url": "https://my.kaspersky.com",
+        "difficulty": "easy",
+        "notes": "Login to your account. Click 'Account Settings' from the dropdown menu where your username (or email) is shown, then use the 'Delete Account' option and enter your password.",
+        "domains": [
+            "kaspersky.com"
+        ]
+    },
+
+    {
         "name": "Keepa",
         "url": "https://keepa.com",
         "difficulty": "easy",
