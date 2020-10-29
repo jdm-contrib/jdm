@@ -6380,9 +6380,9 @@
 
     {
         "name": "Patreon",
-        "url": "https://support.patreon.com/hc/en-us/articles/204605915-How-do-I-disable-my-account-",
+        "url": "https://support.patreon.com/hc/en-us/articles/204605915-Delete-my-Patreon-account",
         "difficulty": "impossible",
-        "notes": "It's easy to disable the account, just follow the link. Note that it doesn't make clear whether the data is actually deleted.",
+        "notes": "Follow the steps on the FAQ link. Note that it takes up to 30 days for full deletion.",
         "domains": [
             "patreon.com"
         ]
