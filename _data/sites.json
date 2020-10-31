@@ -4259,6 +4259,16 @@
     },
 
     {
+        "name": "Internet Archive",
+        "url": "https://archive.org/account/index.php?settings=1",
+        "difficulty": "easy",
+        "notes": "Go to settings, enter your password to unlock modifying settings, click \"Delete Account\".  Your library items will remain unless you remove them before deleting your account.",
+        "domains": [
+            "archive.org"
+        ]
+    },
+
+    {
         "name": "Internetometer",
         "url": "https://internetometer.com",
         "difficulty": "impossible",
