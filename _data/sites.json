@@ -7963,6 +7963,17 @@
     },
 
     {
+        "name": "StickK",
+        "difficulty": "hard",
+        "url": "https://stickk.zendesk.com/hc/en-us/requests/new",
+        "notes": "From the dropdown select \"I'd like to request to end my account\" and then fill in and submit the form.",
+        "domains": [
+            "stickk.com",
+            "stickk.zendesk.com"
+        ]
+    },
+
+    {
         "name": "Stock Informer",
         "url": "https://www.stockinformer.com/myprofile.aspx",
         "difficulty": "easy",
