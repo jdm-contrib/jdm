@@ -2271,6 +2271,16 @@
     },
 
     {
+        "name": "Docker",
+        "url": "https://hub.docker.com/settings/deactivate",
+        "notes": "Log in, under account settings find and use \"Deactivate Account\".",
+        "difficulty": "easy",
+        "domains": [
+            "docker.com"
+        ]
+    },
+
+    {
         "name": "DocuSign",
         "url": "https://support.docusign.com/en/articles/How-do-I-cancel-or-downgrade-my-account#steps",
         "notes": "Follow the instructions at the linked support page; directions vary depending on account type and privileges.",
