@@ -487,6 +487,15 @@
             "appshopper.com"
         ]
     },
+    
+    {
+        "name": "ara.cat",
+        "url": "https://www.ara.cat/usuari/perfil/baixa.html",
+        "difficulty": "easy",
+        "domains": [
+            "ara.cat"
+        ]
+    },
 
     {
         "name": "Arcor.de",
@@ -1285,6 +1294,15 @@
         "notes_fr": "Il faut supprimer les fichiers téléchargés avant de supprimer votre compte.",
         "domains": [
             "careerbuilder.com"
+        ]
+    },
+    
+    {
+        "name": "CCMA (TV3 i CatRàdio)",
+        "url": "https://registreusuari.ccma.cat/usuaris/baixa",
+        "difficulty": "easy",
+        "domains": [
+            "ccma.cat"
         ]
     },
 
@@ -4204,6 +4222,15 @@
         "email": "info@infocasas.com.uy",
         "domains": [
             "infocasas.com.uy"
+        ]
+    },
+    
+    {
+        "name": "InfoJobs",
+        "url": "https://www.infojobs.net/candidate/settings/settings-cancel-account/cancel-account.xhtml",
+        "difficulty": "easy",
+        "domains": [
+            "infojobs.net"
         ]
     },
 
