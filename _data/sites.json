@@ -9512,5 +9512,14 @@
         "domains": [
             "zynga.com"
         ]
+    },
+    
+    {
+        "name": "commun",
+        "url": "https://commun.it/content/cancel_account",
+        "difficulty": "easy",
+        "domains": [
+            "commun.it"
+        ]
     }
 ]
