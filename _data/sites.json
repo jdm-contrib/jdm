@@ -1720,6 +1720,15 @@
     },
 
     {
+        "name": "Commun",
+        "url": "https://commun.it/content/cancel_account",
+        "difficulty": "easy",
+        "domains": [
+            "commun.it"
+        ]
+    },
+
+    {
         "name": "Conte.it",
         "url": "https://www.conte.it/privacy-unsubscribe/",
         "difficulty": "easy",
