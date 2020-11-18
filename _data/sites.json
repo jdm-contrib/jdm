@@ -8088,6 +8088,16 @@
     },
 
     {
+        "name": "StudyMode",
+        "url": "https://www.studymode.com/about-us/contact",
+        "difficulty": "hard",
+        "notes": "You have to contact support in order to delete your account.",
+        "domains": [
+            "studymode.com"
+        ]
+    },
+
+    {
         "name": "StumbleUpon",
         "url": "https://www.stumbleupon.com/settings/delete-account",
         "difficulty": "easy",
