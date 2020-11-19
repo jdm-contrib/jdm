@@ -7173,6 +7173,16 @@
     },
 
     {
+        "name": "RealDebrid",
+        "url": "https://real-debrid.com/support",
+        "difficulty": "hard",
+        "notes": "First, search \"delete account\" in the search bar in order to obtain the \"I want to delete my Real-Debrid account\" entry. Click on it for the instructions for users in premium state. Once your account is no longer premium, proceed to the \"Contact us\" button to create a support ticket requesting to delete your account.",
+        "domains": [
+            "real-debrid.com"
+        ]
+    },
+
+    {
         "name": "RecargaPay",
         "url": "https://recargapay.com.br/user/close-account",
         "difficulty": "impossible",
