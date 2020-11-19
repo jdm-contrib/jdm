@@ -4081,6 +4081,17 @@
             "live.com"
         ]
     },
+    
+    {
+        "name": "HP",
+        "url": "https://www8.hp.com/us/en/privacy/ww-privacy-form.html"
+        "difficulty": "hard",
+        "notes": "Select language > Fill submission > Submit",
+        "domains": [
+            "www8.hp.com",
+            "hp.com"
+        ]
+    },
 
     {
         "name": "Huddle",
