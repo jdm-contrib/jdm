@@ -9331,21 +9331,6 @@
     },
 
     {
-        "name": "Wunderlist",
-        "url": "https://www.wunderlist.com",
-        "difficulty": "easy",
-        "notes": "Click 'Delete Account' at the bottom of the account preferences panel.",
-        "notes_fr": "Cliquez 'Supprimer mon compte' en bas de la page.",
-        "notes_it": "Clicca 'Elimina Account' sul fondo della pagina delle impostazioni account.",
-        "notes_pt_br": "Clique em 'Delete Account' no final do painel de preferências da conta.",
-        "notes_cat": "Cliqui a 'Delete Account' al final del panell d'opcions del compte.",
-        "notes_es": "Haz clic en 'Delete Account' al final del panel de opciones de la cuenta.",
-        "domains": [
-            "wunderlist.com"
-        ]
-    },
-
-    {
         "name": "XDA Developers",
         "url": "https://www.xda-developers.com/gdpr-data/",
         "difficulty": "hard",
