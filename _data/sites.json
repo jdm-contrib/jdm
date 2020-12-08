@@ -4645,6 +4645,16 @@
     },
 
     {
+        "name": "Klarna",
+        "url": "https://www.klarna.com/us/customer-service/",
+        "difficulty": "hard",
+        "notes": "Pay off all your orders (if any), wait 10 days after that, remove your payment information from the app, chat with customer service and tell them you want your marketing sendouts stopped and your personal data deleted.",
+        "domains": [
+            "klarna.com"
+        ]
+    },
+
+    {
         "name": "Klepit",
         "url": "https://www.klepit.com/?v=10",
         "difficulty": "impossible",
