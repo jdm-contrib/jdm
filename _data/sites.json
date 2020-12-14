@@ -815,15 +815,6 @@
     },
 
     {
-        "name": "BBC iD",
-        "url": "https://ssl.bbc.co.uk/id/settings/delete",
-        "difficulty": "easy",
-        "domains": [
-            "bbc.co.uk"
-        ]
-    },
-
-    {
         "name": "Be Welcome",
         "url": "https://www.bewelcome.org/deleteprofile",
         "difficulty": "easy",
