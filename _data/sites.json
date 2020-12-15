@@ -1,21 +1,24 @@
 [
     {
-        "name": "example",
-        "url": "example.com",
-        "difficulty": "easy",
-        "notes": "just a test website",
-        "domains": [
-            "example.test",
-            "example.io"
-        ]
-    },
+    "name": "Google",
+    "url": "https://www.google.com/",
+    "difficulty": "easy",
+    "notes_es": "Ve a https://takeout.google.com/ navegando con una cuenta de Google y selecciona cada servicio de Google del que quieras/necesites los datos. Una vez hecho, haz click en \"Siguiente Paso\" y selecciona entre exportar todo ahora o una vez cada 2 meses durante 1 a\u00f1o. Click en \"Crear Exportaci\u00f3n\" y solo queda esperar hasta que el proceso finalize. Una vez ocurra, simplemente haz click en descargar.",
+    "notes_en": "Go to https://takeout.google.com/ logged in a Google Account and select the data from every Google Service you need/want and click \"Next Step\". Then you can choose between export now or once every 2 months for 1 year, the file type and size. Click \"Create Export\" and wait until the process is finished. Then, just download your data."
+},
     {
-        "name": "test",
-        "url": "test.com",
-        "difficulty": "hard",
-        "notes": "test",
-        "domains": [
-            "test"
-        ]
-    }
+    "name": "Reddit",
+    "url": "https://www.reddit.com/",
+    "difficulty": "easy-medium",
+    "notes_es": "Ve a https://www.reddit.com/settings/data-request navegando loggeado en Reddit. All\u00ed, selecciona entra obtener todos los datos o solo los de un periodo de tiempo y date a solicitar. Una vez hecho, espera a que llegue un mensaje dentro del sistema de mensajes de reddit. Cuando lo haga, simplemente click en \"Descargar aqui\" y con esto hemos acabado. AVISO: solo se puede hacer una solicitud de datos cada 30 dias",
+    "notes_en": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days."
+},
+    {
+    "name": "Telegram",
+    "url": "https://telegram.org/",
+    "difficulty": "easy",
+    "notes_es": "El bot (https://t.me/gdprbot) en Telegram nos indica como obtener toda nuestra informacion en la aplicacion. Para obtener los datos es necesario utilizar Telegram Desktop. Alli, damos a opciones, avanzado, exportar datos de telegram, seleccionamos lo que queramos y obtendremos los datos en formato HTML o JSON.",
+    "notes_en": "The bot (https://t.me/gdprbot) in Telegram show us how to obtain our data in the app. The use of Telegram Desktop is needed in order to get the data. Once there, go to options, settings, advanced, export Telegram data, choose everything you want/need and export it in HTML or JSON format."
+}
+    
 ]
