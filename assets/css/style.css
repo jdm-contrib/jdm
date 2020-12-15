@@ -19,7 +19,7 @@ body {
 }
 
 nav {
-    background-color: #D04343;
+    background-color: #3399FF;
     color: black;
     direction: ltr;
     font-weight: normal;
@@ -101,7 +101,7 @@ nav a:hover, .language-switch:hover, .current {
 
 header {
     background-color: #293840;
-    border-bottom: 5px solid #D04343;
+    border-bottom: 5px solid #3399FF;
     color: #E8E8E8;
     margin-top: 47px;
     padding: 40px 0;
@@ -121,7 +121,7 @@ header h1 {
 }
 
 header h1 span {
-    color: #D04343;
+    color: #3399FF;
 }
 
 .tagline {
@@ -131,7 +131,7 @@ header h1 span {
 }
 
 .button {
-    background: #D04343;
+    background: #3399FF;
     border-radius: 5px;
     color: white;
     display: inline-block;
@@ -149,7 +149,7 @@ header h1 span {
 }
 
 .search {
-    background-color: #D04343;
+    background-color: #3399FF;
     display: none;
     padding: 10px 0;
 }
@@ -229,7 +229,7 @@ button:hover {
 }
 
 main {
-    border-bottom: 4px solid #D04343;
+    border-bottom: 4px solid #3399FF;
 }
 
 .sites {
@@ -291,7 +291,7 @@ main {
 }
 
 .site-block.hard .site-header {
-    background-color: #D04343;
+    background-color: #3399FF;
     border: 1px solid #AC4949;
 }
 .site-block.hard .site-header:hover {
@@ -351,7 +351,7 @@ main {
 
 .site-block.easy .tooltip-toggle.contains-info:hover       { color: #7BAC7B; }
 .site-block.medium .tooltip-toggle.contains-info:hover     { color: #E8C674; }
-.site-block.hard .tooltip-toggle.contains-info:hover       { color: #D04343; }
+.site-block.hard .tooltip-toggle.contains-info:hover       { color: #3399FF; }
 .site-block.impossible .tooltip-toggle.contains-info:hover { color: #2B2B2B; }
 
 .hide-info {
