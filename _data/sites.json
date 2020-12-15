@@ -925,6 +925,15 @@
     },
 
     {
+        "name": "Bitwarden",
+        "url": "https://bitwarden.com/help/article/delete-your-account",
+        "difficulty": "easy",
+        "domains": [
+            "bitwarden.com"
+        ]
+    },
+
+    {
         "name": "Blinkist",
         "url": "https://www.blinkist.com/nc/settings/account/",
         "difficulty": "easy",
