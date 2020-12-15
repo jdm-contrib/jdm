@@ -1,0 +1,21 @@
+[
+    {
+        "name": "example",
+        "url": "example.com",
+        "difficulty": "easy",
+        "notes": "just a test website",
+        "domains": [
+            "example.test",
+            "example.io"
+        ]
+    },
+    {
+        "name": "test",
+        "url": "test.com",
+        "difficulty": "hard",
+        "notes": "test",
+        "domains": [
+            "test"
+        ]
+    }
+]
