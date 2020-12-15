@@ -1,14 +1,15 @@
-JustDeleteMe
+JustGetMyData
 ============
 
-A directory of direct links to delete your account from web services.
+A directory of direct links to get your personal information from web services.
+This is a fork of [Just Delete Me](https://justdeleteme.xyz/)
 
 [![Build Status](https://travis-ci.org/jdm-contrib/jdm.svg?branch=master)](https://travis-ci.org/jdm-contrib/jdm)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/53bbffc9bd3c40459200b33736922c6b)](https://www.codacy.com/app/tupaschoal/justdelete-me)
 
 ## Building Locally
 
-JustDeleteMe is built using [Jekyll](https://jekyllrb.com/) and is linted and
+Just Get My Data is built using [Jekyll](https://jekyllrb.com/) and is linted and
 validated using a mixture of Ruby and Node.js packages and scripts.
 
 **Dependencies:**
@@ -21,13 +22,13 @@ validated using a mixture of Ruby and Node.js packages and scripts.
 - Clone the repository
 
   ```
-  git clone https://github.com/jdm-contrib/jdm.git
+  git clone https://github.com/justgetmydata/jgmd.git
   ```
 
 - Install dependencies
 
   ```
-  cd jdm
+  cd jgmd
   gem install bundler
   bundle install
   ```
@@ -56,5 +57,4 @@ Country Flag Icons Copyright (c) 2017 Go Squared Ltd. http://www.gosquared.com/
 
 DevCenter.me Copyright (c) 2013 Steve Streza
 
-This is a detached fork of the original repo that intends to keep the project
-alive, as the original one was abandoned.
+This is a detached fork of [Just Delete Me](https://justdeleteme.xyz/)
