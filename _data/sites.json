@@ -158,5 +158,33 @@
     "difficulty": "hard",
     "notes_en": "You have to contact with service support",
     "notes_es": "Debes contactar con servicio al cliente"
+},
+{
+    "name": "PornHub",
+    "url": "https://pornhub.com/information/privacy",
+    "difficulty": "medium",
+    "notes_en": "Go to the url provided above and click on the button 'Request a copy of my personal data', at the bottom of the page. They will send you and email to confirm the email address where they will send your data and another to verify your username and password. You will receive your data in about 24 hours.",
+    "notes_es": "Entra en la dirección indicada arriba y haz click en el botón 'Request a copy of my personal data', al final de la página. Te enviarán un email para confirmar la dirección de correo electrónico donde se enviarán los datos y otro para confirmar tu usuario y contraseña. En un periodo de aproximadamente 24 horas recibiras tus datos."
+},
+{
+    "name": "Facebook",
+    "url": "https://www.facebook.com/help/1701730696756992",
+    "difficulty": "easy",
+    "notes_en": "Go to the url provided above and follow the instructions. Logging into your account, you can access a summary of your data or download a copy. The data are categorized by type to help the search and you can download it in JSON or HTML formats.",
+    "notes_es": "Entra en la dirección indicada arriba y sigue las intrucciones. Entrando en tu cuenta, tienes la posibilidad de visualizar un resumen de tus datos o descargar una copia. La información esta clasificada por tipos para ayudar en la búsqueda y podrás descargarla en formato JSON o HTML."
+},
+{
+    "name": "Apple",
+    "url": "https://privacy.apple.com",
+    "difficulty": "easy",
+    "notes_en": "Go to the url provided above and login with your Apple ID. Click on 'Get a copy of my data' and categories will be displayed to select the type of data to download. After selecting, information will be asked to confirm that you are the account's owner. You will recibe a notification when the data its available for download and you will have 2 weeks to do it.",
+    "notes_es": "Entra en la dirección indicada arriba e inicia sesión con tu Apple ID. Haz click en 'Obtener una copia de mis datos' y se mostrarán categorías para seleccionar el tipo de datos a descargar. Trás seleccionar, se preguntará información para confirmar que eres el propietario de la cuenta. Se te notificará cuando los datos estén disponibles para descargar y tendrás 2 semanas para hacerlo."
+},
+{
+    "name": "ING",
+    "url": "https://www.ing.com/Privacy-Statement.htm",
+    "difficulty": "hard",
+    "notes_en": "Go to the url provided above and in section 9 'Contact and questions', you must find the email address associated with your country. You will have to send an email to the corresponding address, stating that you want to obtain a copy of your personal data. You must provide your name, address and ID.",
+    "notes_es": "Entra en la dirección indicada arriba y en la sección 9 'Contacto y preguntas', debes buscar la dirección de email asociada a tu país. Tienes que enviar un correo a la dirección correspondiente, indicando que quieres obtener una copia de tus datos personales. Debes aportar tu nombre, dirección y DNI."
 }
 ]
