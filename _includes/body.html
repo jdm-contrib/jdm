@@ -16,7 +16,8 @@
     <section class="sites" id="sites">
         <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/jdm-contrib/jdm'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
 
-        {% for entry in site.data.sites %}
+        {% assign sites = site.data.sites | sort: 'name' %}
+        {% for entry in sites %}
             <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
                 {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
                 <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% else %}{{entry.url}}{% endif %}">
