@@ -935,6 +935,15 @@
     },
 
     {
+        "name": "Bitwarden",
+        "url": "https://bitwarden.com/help/article/delete-your-account",
+        "difficulty": "easy",
+        "domains": [
+            "bitwarden.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Blogger",
         "url": "https://support.google.com/blogger/answer/41932",
