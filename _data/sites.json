@@ -68,7 +68,7 @@
     {
     "name": "GitHub",
     "url": "https://github.com/",
-    "difficulty": "easy-medium",
+    "difficulty": "medium",
     "notes_en": "Go to https://github.com/settings/admin browsing logged in to GitHub. In the section \"Export account data\" select \"Start report\". Once done, wait for an email to arrive."
 },
     {
@@ -80,7 +80,7 @@
     {
     "name": "Instagram",
     "url": "https://www.instagram.com/",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "notes_en": "Go to https://www.instagram.com/download/request/ browsing logged in Instagram. Select to obtain the data and later it asks for your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours."
 }
     
