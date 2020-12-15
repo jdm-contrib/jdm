@@ -101,29 +101,54 @@
     "difficulty": "hard",
     "notes_en": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form."
 },
-    {
+{
     "name": "MSI",
     "url": "https://es.msi.com/",
     "difficulty": "hard",
     "notes_en": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact privacy-eu@msi.com."
 },
-    {
+{
     "name": "GearBeast",
     "url": "https://www.gearbest.com/",
     "difficulty": "hard",
     "notes_en": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date."
 },
-    {
+{
     "name": "Yoigo",
     "url": "https://www.yoigo.com/",
     "difficulty": "hard",
     "notes_en": "You must to send e-mail to datospersonales@yoigo.com with your DNI scaned by two sides with a request for what right you want to exercise."
 },
-    {
+{
     "name": "Twitter",
     "url": "https://twitter.com/",
     "difficulty": "medium",
     "notes_en": "Go to your account settings (\"Settings and privacy\"), in the \"Account\" section, click on \"Your Twitter data\", then enter your password in \"Download your Twitter data\" and then click \"Confirm \". Once the download is ready, they will send you an email to your associated email account and from there you can download a compressed file of your Twitter data."
+},
+{
+    "name": "Universidad Complutense de Madrid",
+    "url": "https://www.ucm.es/como-ejercer-los-derechos",
+    "difficulty": "hard",
+    "notes_en": "You have to present a request form through E-mail or in person at the registry with your ID.",
+    "notes_es": "Tienes que presentar una solicitud mediante E-mail o en el registro con tu DNI."
+},
+{
+    "name": "eBay",
+    "url": "https://www.sarweb.ebay.com/sar",
+    "difficulty": "easy",
+    "notes_en": "Go to your account settings, then click on \"Request your eBay data\", follow the simple steps and in 7 days you should receive your data back",
+    "notes_es": "Ve a la configuración de la cuenta, y haz click en \"Solicita tus datos de eBay\", sigue los pasos y en 7 días recibirás todos tus datos por correo electrónico"
+},
+{
+    "name": "Tinder",
+    "url": "https://account.gotinder.com/data",
+    "difficulty": "easy",
+    "notes_en": "Go to the url provided above, log-in with your account credentials and provide and e-mail to receive a link to your data",
+    "notes_es": "Ve a la dirección indicada arriba, inicia sesión y da un correo electrónico en el que recibir tus datos"
+},
+{
+    "name": "Wikipedia",
+    "url": "https://www.wikipedia.org/",
+    "difficulty": "impossible"
 }
-    
 ]
