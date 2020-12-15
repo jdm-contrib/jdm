@@ -118,6 +118,12 @@
     "url": "https://www.yoigo.com/",
     "difficulty": "hard",
     "notes_en": "You must to send e-mail to datospersonales@yoigo.com with your DNI scaned by two sides with a request for what right you want to exercise."
+},
+    {
+    "name": "Twitter",
+    "url": "https://twitter.com/",
+    "difficulty": "medium",
+    "notes_en": "Go to your account settings (\"Settings and privacy\"), in the \"Account\" section, click on \"Your Twitter data\", then enter your password in \"Download your Twitter data\" and then click \"Confirm \". Once the download is ready, they will send you an email to your associated email account and from there you can download a compressed file of your Twitter data."
 }
     
 ]
