@@ -144,8 +144,12 @@ header h1 span {
 }
 
 .button:hover {
-    background: #AC4949;
+    background: #004c99;
     cursor: pointer;
+}
+
+.jdm.button:hover {
+    background: #AC4949;
 }
 
 .search {
@@ -221,7 +225,7 @@ button {
 }
 
 button:hover {
-    background-color: #FFECEC;
+    background-color: #cce5fe;
 }
 
 .reset {
@@ -243,7 +247,7 @@ main {
 }
 
 .sites a {
-    color: #D15A58;
+    color: #3399FF;
     text-decoration: none;
 }
 
