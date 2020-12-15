@@ -4,8 +4,7 @@ JustGetMyData
 A directory of direct links to get your personal information from web services.
 This is a fork of [Just Delete Me](https://justdeleteme.xyz/)
 
-[![Build Status](https://travis-ci.org/jdm-contrib/jdm.svg?branch=master)](https://travis-ci.org/jdm-contrib/jdm)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/53bbffc9bd3c40459200b33736922c6b)](https://www.codacy.com/app/tupaschoal/justdelete-me)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3b1d799740f64a85a5616951ef1d5ed3)](https://www.codacy.com/gh/justgetmydata/jgmd/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=justgetmydata/jgmd&amp;utm_campaign=Badge_Grade)
 
 ## Building Locally
 
