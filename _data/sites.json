@@ -9,7 +9,7 @@
     {
     "name": "Reddit",
     "url": "https://www.reddit.com/",
-    "difficulty": "easy-medium",
+    "difficulty": "easy",
     "notes_es": "Ve a https://www.reddit.com/settings/data-request navegando loggeado en Reddit. All\u00ed, selecciona entra obtener todos los datos o solo los de un periodo de tiempo y date a solicitar. Una vez hecho, espera a que llegue un mensaje dentro del sistema de mensajes de reddit. Cuando lo haga, simplemente click en \"Descargar aqui\" y con esto hemos acabado. AVISO: solo se puede hacer una solicitud de datos cada 30 dias",
     "notes_en": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days."
 },
