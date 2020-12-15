@@ -135,6 +135,7 @@
 {
     "name": "eBay",
     "url": "https://www.sarweb.ebay.com/sar",
+    "url_es": "https://www.sarweb.ebay.com/sar",
     "difficulty": "easy",
     "notes_en": "Go to your account settings, then click on \"Request your eBay data\", follow the simple steps and in 7 days you should receive your data back",
     "notes_es": "Ve a la configuración de la cuenta, y haz click en \"Solicita tus datos de eBay\", sigue los pasos y en 7 días recibirás todos tus datos por correo electrónico"
@@ -150,5 +151,12 @@
     "name": "Wikipedia",
     "url": "https://www.wikipedia.org/",
     "difficulty": "impossible"
+},
+{
+    "name": "Board Game Geek",
+    "url": "https://boardgamegeek.com/privacy#toc33",
+    "difficulty": "hard",
+    "notes_en": "You have to contact with service support",
+    "notes_es": "Debes contactar con servicio al cliente"
 }
 ]
