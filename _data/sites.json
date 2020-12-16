@@ -8,14 +8,6 @@
     "notes_es": "Ve a https://takeout.google.com/, inicia sesión con tu cuenta de Google, selecciona los servicios que necesites. Puedes elegir entre exportar ahora o exportar cada 2 meses durante un año."
 },
     {
-    "name": "Amazon",
-    "meta": "popular",
-    "url": "https://www.amazon.com/gp/help/customer/display/",
-    "difficulty": "medium",
-    "notes_es": "Ve a https://www.amazon.es/gp/help/customer/display y abajo, en \"Consulta nuestras p\u00e1ginas de ayuda\", ve a \"Privacidad\" y haz click en \"Solicitar tu informaci\u00f3n personal. All\u00ed, dale a \"Solicitar mis datos\" y selecciona los datos que quieras/necesites. Al darle a \"Enviar Solicitud\" se te enviar\u00e1 un correo a la direcci\u00f3n de la cuenta de Amazon. Simplemente dale a confirmar y te llevar\u00e1 a Amazon, donde te har\u00e1n esperar hasta que tus datos est\u00e9n listos.",
-    "notes_en": "Go to https://www.amazon.com/gp/help/customer/display and down, in browse help topic, go to \"Security & Privacy\" and \"How Do I Request My Data?\". There click \"Request My Data\", choose whatever you need/want and click \"Send Request\". An e-mail will be send to your Amazon linked e-mail to confirm the Data Request. Just click confirm and wait until the data is ready for download."
-},
-    {
     "name": "Reddit",
     "meta": "popular",
     "url": "https://www.reddit.com/settings/data-request",
@@ -39,71 +31,74 @@
 },
     {
     "name": "1688",
-    "url": "https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "url": "https://1688.com",
     "difficulty": "hard",
     "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
     "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
 },
     {
     "name": "Alibaba",
-    "url": "https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "url": "https://alibaba.com",
     "difficulty": "hard",
     "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
     "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
 },
     {
     "name": "Taobao",
-    "url": "https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "url": "https://taobao.com",
     "difficulty": "hard",
     "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
     "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
 },
     {
     "name": "Tmall",
-    "url": "https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "url": "https://tmall.com",
     "difficulty": "hard",
     "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
     "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
 },
     {
     "name": "Steam",
-    "url": "https://store.steampowered.com/privacy_agreement/",
+    "url": "https://steamcommunity.com/",
     "difficulty": "medium",
     "notes_en": "In most cases, you can access, manage, or delete Personal Data in the Privacy Dashboard, but you may also contact Valve with questions or requests by summiting a support ticket.",
     "notes_es": "En la mayoría de casos, puedes acceder y borrar tus datos personales en el Panel de Privacidad, pero puedes contactar con Valve si tienes problemas o preguntas mediante un ticket de soporte"
 },
     {
     "name": "PcComponentes",
-    "url": "https://www.pccomponentes.com/privacidad",
+    "url": "https://www.pccomponentes.com/",
     "difficulty": "hard",
     "notes_en": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to lopd@pccomponentes.com.",
     "notes_es": "Tienes que enviar una solicitud escrita con un documento identificativo a Av. Europa, Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. También puedes realizar la petición por e-mail a lopd@pccomponentes.com"
 },
     {
     "name": "Netflix",
-    "url": "https://www.netflix.com/account/getmyinfo",
+    "url": "https://www.netflix.com/",
     "difficulty": "medium",
     "notes_en": "Go to https://www.netflix.com/account/getmyinfo and follow the instructions."
 },
     {
     "name": "GitHub",
     "meta": "popular",
-    "url": "https://github.com/",
+    "url": "https://github.com/settings/admin",
     "difficulty": "medium",
-    "notes_en": "Go to https://github.com/settings/admin browsing logged in to GitHub. In the section \"Export account data\" select \"Start report\". Once done, wait for an email to arrive."
-},
+    "notes_en": "In the section \"Export account data\" select \"Start report\". Once done, wait for an email to arrive.",
+    "notes_es": " En el apartado \"Exportar datos de cuenta\" selecciona \"Iniciar informe\". Una vez hecho, espera a que llegue un mensaje  de correo electrónico."
+ },
     {
     "name": "WhatsApp",
     "meta": "popular",
     "url": "https://www.whatsapp.com/",
     "difficulty": "easy",
-    "notes_en": "Open the application and go to Settings > Account > Request info. from my account. Select \"Request report \", that concludes the process. NOTICE: The report will be ready in approximately 3 days. When it is available, you will have a few weeks to download it. If you delete your account or modify the phone, the request will be canceled."
+    "notes_en": "Open the application and go to Settings > Account > Request info. from my account. Select \"Request report \", that concludes the process. NOTICE: The report will be ready in approximately 3 days. When it is available, you will have a few weeks to download it. If you delete your account or modify the phone, the request will be canceled.",
+    "notes_es": "Abre la apliacion y diríjase a Ajustes > Cuenta > Solicitar info. de mi cuenta. Selecciona \"Solicitar informe\" y con esto hemos acabado. AVISO: El informe estará listo en aproximadamente 3 días. Cuando esté disponible, tendras unas semanas para descargarlo. Si eliminas tu cuenta o modificas el telefono se cancelará la solicitud."
 },
     {
     "name": "Instagram",
-    "url": "https://www.instagram.com/",
+    "url": "https://www.instagram.com/download/request/",
     "difficulty": "medium",
-    "notes_en": "Go to https://www.instagram.com/download/request/ browsing logged in Instagram. Select to obtain the data and later it asks for your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours."
+    "notes_en": "Select to obtain the data and later it asks for your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours.",
+    "notes_es": "Selecciona obtener los datos y posteriormente te pide el correo y la contraseña. Una vez hecho, espera a que llegue un mensaje dentro del correo. AVISO: solo se puede hacer una solicitud de datos cada 48 horas"
 },
     {
     "name": "Linkedin",
@@ -144,9 +139,10 @@
 {
     "name": "Twitter",
     "meta": "popular",
-    "url": "https://twitter.com/",
+    "url": "https://twitter.com/settings/your_twitter_data",
     "difficulty": "medium",
-    "notes_en": "Go to your account settings (\"Settings and privacy\"), in the \"Account\" section, click on \"Your Twitter data\", then enter your password in \"Download your Twitter data\" and then click \"Confirm \". Once the download is ready, they will send you an email to your associated email account and from there you can download a compressed file of your Twitter data."
+    "notes_en": "Go to your account settings (\"Settings and privacy\"), in the \"Account\" section, click on \"Your Twitter data\", then enter your password in \"Download your Twitter data\" and then click \"Confirm \". Once the download is ready, they will send you an email to your associated email account and from there you can download a compressed file of your Twitter data.",
+    "notes_es": "Ve a la configuración de tu cuenta (\"Configuración y privacidad\"), en la sección \"Cuenta\", haz clic en \"Tus datos de Twitter\", posteriormente introduce tu contraseña en \"Descarga tus datos de Twitter\" y posteriormente haz clic en \"Confirmar\". Una vez que la descarga esté lista, te enviaran un correo electrónico a tu cuenta de correo asociada y desde ahí podras descargar un archivo comprimido de tus datos de Twitter."
 },
 {
     "name": "Universidad Complutense de Madrid",
