@@ -1,6 +1,7 @@
 [
     {
     "name": "Google",
+    "meta": "popular",
     "url": "https://takeout.google.com/",
     "difficulty": "easy",
     "notes_en": "Go to https://takeout.google.com/ logged in a Google Account and select the data from every Google Service you need/want and click \"Next Step\". Then you can choose between export now or once every 2 months for 1 year, the file type and size. Click \"Create Export\" and wait until the process is finished. Then, just download your data.",
@@ -8,6 +9,7 @@
 },
     {
     "name": "Reddit",
+    "meta": "popular",
     "url": "https://www.reddit.com/settings/data-request",
     "difficulty": "easy",
     "notes_en": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days.",
@@ -77,12 +79,14 @@
 },
     {
     "name": "GitHub",
+    "meta": "popular",
     "url": "https://github.com/",
     "difficulty": "medium",
     "notes_en": "Go to https://github.com/settings/admin browsing logged in to GitHub. In the section \"Export account data\" select \"Start report\". Once done, wait for an email to arrive."
 },
     {
     "name": "WhatsApp",
+    "meta": "popular",
     "url": "https://www.whatsapp.com/",
     "difficulty": "easy",
     "notes_en": "Open the application and go to Settings > Account > Request info. from my account. Select \"Request report \", that concludes the process. NOTICE: The report will be ready in approximately 3 days. When it is available, you will have a few weeks to download it. If you delete your account or modify the phone, the request will be canceled."
@@ -131,6 +135,7 @@
 },
 {
     "name": "Twitter",
+    "meta": "popular",
     "url": "https://twitter.com/",
     "difficulty": "medium",
     "notes_en": "Go to your account settings (\"Settings and privacy\"), in the \"Account\" section, click on \"Your Twitter data\", then enter your password in \"Download your Twitter data\" and then click \"Confirm \". Once the download is ready, they will send you an email to your associated email account and from there you can download a compressed file of your Twitter data."
@@ -152,6 +157,7 @@
 },
 {
     "name": "Tinder",
+    "meta": "popular",
     "url": "https://account.gotinder.com/data",
     "difficulty": "easy",
     "notes_en": "Go to the url provided above, log-in with your account credentials and provide and e-mail to receive a link to your data",
@@ -178,6 +184,7 @@
 },
 {
     "name": "Facebook",
+    "meta": "popular",
     "url": "https://www.facebook.com/help/1701730696756992",
     "difficulty": "easy",
     "notes_en": "Go to the url provided above and follow the instructions. Logging into your account, you can access a summary of your data or download a copy. The data are categorized by type to help the search and you can download it in JSON or HTML formats.",
@@ -185,6 +192,7 @@
 },
 {
     "name": "Apple",
+    "meta": "popular",
     "url": "https://privacy.apple.com",
     "difficulty": "easy",
     "notes_en": "Go to the url provided above and login with your Apple ID. Click on 'Get a copy of my data' and categories will be displayed to select the type of data to download. After selecting, information will be asked to confirm that you are the account's owner. You will recibe a notification when the data its available for download and you will have 2 weeks to do it.",
