@@ -208,5 +208,11 @@
     "difficulty": "hard",
     "notes_en": "Go to the url provided above and in section 9 'Contact and questions', you must find the email address associated with your country. You will have to send an email to the corresponding address, stating that you want to obtain a copy of your personal data. You must provide your name, address and ID.",
     "notes_es": "Entra en la dirección indicada arriba y en la sección 9 'Contacto y preguntas', debes buscar la dirección de email asociada a tu país. Tienes que enviar un correo a la dirección correspondiente, indicando que quieres obtener una copia de tus datos personales. Debes aportar tu nombre, dirección y DNI."
+},
+{
+    "name": "BBVA",
+    "url": "https://web.bbva.es/index.html?v=12.3.22#areapersonal/menu/privacidadydatos",
+    "difficulty": "easy",
+    "notes_en": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page."
 }
 ]
