@@ -1,63 +1,73 @@
 [
     {
     "name": "Google",
-    "url": "https://www.google.com/",
+    "url": "https://takeout.google.com/",
     "difficulty": "easy",
-    "notes_en": "Go to https://takeout.google.com/ logged in a Google Account and select the data from every Google Service you need/want and click \"Next Step\". Then you can choose between export now or once every 2 months for 1 year, the file type and size. Click \"Create Export\" and wait until the process is finished. Then, just download your data."
+    "notes_en": "Go to https://takeout.google.com/ logged in a Google Account and select the data from every Google Service you need/want and click \"Next Step\". Then you can choose between export now or once every 2 months for 1 year, the file type and size. Click \"Create Export\" and wait until the process is finished. Then, just download your data.",
+    "notes_es": "Ve a https://takeout.google.com/, inicia sesión con tu cuenta de Google, selecciona los servicios que necesites. Puedes elegir entre exportar ahora o exportar cada 2 meses durante un año."
 },
     {
     "name": "Reddit",
-    "url": "https://www.reddit.com/",
+    "url": "https://www.reddit.com/settings/data-request",
     "difficulty": "easy",
-    "notes_en": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days."
+    "notes_en": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days.",
+    "notes_es": "Ve a https://www.reddit.com/settings/data-request tras haber iniciado sesión en Reddit. Dese ahí, puedes obtener tus datos desde un intervalo de tiempo o todos los datos. Recibirás un mensaje privado con el que podrás descargar los datos."
 },
     {
     "name": "Telegram",
-    "url": "https://telegram.org/",
+    "url": "https://t.me/gdprbot",
     "difficulty": "easy",
-    "notes_en": "The bot (https://t.me/gdprbot) in Telegram show us how to obtain our data in the app. The use of Telegram Desktop is needed in order to get the data. Once there, go to options, settings, advanced, export Telegram data, choose everything you want/need and export it in HTML or JSON format."
+    "notes_en": "The bot (https://t.me/gdprbot) in Telegram show us how to obtain our data in the app. The use of Telegram Desktop is needed in order to get the data. Once there, go to options, settings, advanced, export Telegram data, choose everything you want/need and export it in HTML or JSON format.",
+    "notes_es": "El bot @gdprbot nos guía en el proceso de obtención de datos. Es necesario usar Telegram Desktop. Ve a \"Opciones\", \"Configuración\", \"Avanzado\" y en \"Exportar datos de Telegram\", puedes elegir los datos que necesites, en formato HTML o JSON."
 },
     {
     "name": "Aliexpress",
-    "url": "https://aliexpress.com",
+    "url": "https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
     "difficulty": "hard",
-    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'."
+    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'.",
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
 },
     {
     "name": "1688",
     "url": "https://1688.com",
     "difficulty": "hard",
-    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'."
+    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'.",
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
 },
     {
     "name": "Alibaba",
     "url": "https://alibaba.com",
     "difficulty": "hard",
-    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'."
+    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'.",
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
 },
     {
     "name": "Taobao",
     "url": "https://taobao.com",
     "difficulty": "hard",
-    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'."
+    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'.",
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
 },
     {
     "name": "Tmall",
     "url": "https://tmall.com",
     "difficulty": "hard",
-    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'."
+    "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'.",
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
 },
     {
     "name": "Steam",
     "url": "https://steamcommunity.com/",
     "difficulty": "medium",
-    "notes_en": "In most cases, you can access, manage, or delete Personal Data in the Privacy Dashboard, but you may also contact Valve with questions or requests by summiting a support ticket."
+    "notes_en": "In most cases, you can access, manage, or delete Personal Data in the Privacy Dashboard, but you may also contact Valve with questions or requests by summiting a support ticket.",
+    "notes_es": "En la mayoría de casos, puedes acceder y borrar tus datos personales en el Panel de Privacidad, pero puedes contactar con Valve si tienes problemas o preguntas mediante un ticket de soporte"
 },
     {
     "name": "PcComponentes",
     "url": "https://www.pccomponentes.com/",
     "difficulty": "hard",
-    "notes_en": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to lopd@pccomponentes.com."
+    "notes_en": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to lopd@pccomponentes.com.",
+    "notes_es": "Tienes que enviar una solicitud escrita con un documento identificativo a Av. Europa, Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. También puedes realizar la petición por e-mail a lopd@pccomponentes.com"
 },
     {
     "name": "Netflix",
