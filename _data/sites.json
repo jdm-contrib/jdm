@@ -8,6 +8,14 @@
     "notes_es": "Ve a https://takeout.google.com/, inicia sesión con tu cuenta de Google, selecciona los servicios que necesites. Puedes elegir entre exportar ahora o exportar cada 2 meses durante un año."
 },
     {
+    "name": "Amazon",
+    "meta": "popular",
+    "url": "https://www.amazon.com/gp/help/customer/display/",
+    "difficulty": "medium",
+    "notes_es": "Ve a https://www.amazon.es/gp/help/customer/display y abajo, en \"Consulta nuestras p\u00e1ginas de ayuda\", ve a \"Privacidad\" y haz click en \"Solicitar tu informaci\u00f3n personal. All\u00ed, dale a \"Solicitar mis datos\" y selecciona los datos que quieras/necesites. Al darle a \"Enviar Solicitud\" se te enviar\u00e1 un correo a la direcci\u00f3n de la cuenta de Amazon. Simplemente dale a confirmar y te llevar\u00e1 a Amazon, donde te har\u00e1n esperar hasta que tus datos est\u00e9n listos.",
+    "notes_en": "Go to https://www.amazon.com/gp/help/customer/display and down, in browse help topic, go to \"Security & Privacy\" and \"How Do I Request My Data?\". There click \"Request My Data\", choose whatever you need/want and click \"Send Request\". An e-mail will be send to your Amazon linked e-mail to confirm the Data Request. Just click confirm and wait until the data is ready for download."
+},
+    {
     "name": "Reddit",
     "meta": "popular",
     "url": "https://www.reddit.com/settings/data-request",
