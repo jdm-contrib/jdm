@@ -16,7 +16,7 @@
     <section class="sites" id="sites">
         <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/justgetmydata/jgmd'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
 
-        {% assign sites = site.data.sites | sort: 'name' %}
+        {% assign sites = site.data.sites | sort_natural: 'name' %}
         {% for entry in sites %}
             <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
                 {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
@@ -121,7 +121,7 @@
 <div id="alphabetical-dropdown" class="dropdown dropdown-tip">
     <ul class="dropdown-menu ltr">
         <span class="alpha-sort">
-            {% assign letters = 'a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z' | split:',' %}
+            {% assign letters = 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z' | split:',' %}
             {% for letter in letters %}
             <li><a href="">{{ letter }}</a></li>
             {% endfor %}
