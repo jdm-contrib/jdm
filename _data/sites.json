@@ -9132,7 +9132,7 @@
         "name": "Webex - Free Account",
         "url": "https://settings.webex.com",
         "difficulty": "easy",
-        "notes": "Instructions at https://help.webex.com/en-us/5m4i4y/Delete-Your-Free-Webex-Account#id_111643"
+        "notes": "Instructions at https://help.webex.com/en-us/5m4i4y/Delete-Your-Free-Webex-Account#id_111643",
         "domains": [
             "settings.webex.com"
         ]
