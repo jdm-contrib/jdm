@@ -148,6 +148,10 @@ header h1 span {
     cursor: pointer;
 }
 
+.button.jgmd:hover {
+    background: #004c99;
+}
+
 .search {
     background-color: #D04343;
     display: none;
