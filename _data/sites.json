@@ -222,5 +222,33 @@
     "url": "https://web.bbva.es/index.html?v=12.3.22#areapersonal/menu/privacidadydatos",
     "difficulty": "easy",
     "notes_en": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page."
+},
+{
+    "name": "Booking",
+    "url": "https://www.booking.com/content/dsar.en-gb.html",
+    "difficulty": "medium",
+    "notes_en": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'.",
+    "notes_es": "Ve al formulario indicado en la dirección superior y rellénalo seleccionando la opción 'Right of access to personal data'."
+},
+{
+    "name": "Coinbase",
+    "url": "https://help.coinbase.com/en/pro/privacy-and-security/data-privacy/gdpr-how-to-access-information.html",
+    "difficulty": "easy",
+    "notes_en": "You can log into your Coinbase account and request your data in the Privacy section. You have a full guide in the url above.",
+    "notes_es": "Entrando en tu cuenta de Coinbase puedes solicitar tus datos en la sección Privacidad. Tienes una guía completa en la url superior."
+},
+{
+    "name": "Discord",
+    "url": "https://discord.com",
+    "difficulty": "easy",
+    "notes_en": "You have to log into your Discord account, go to 'Settings > Privacy and security' and click on 'Request all my data'.",
+    "notes_es": "Tienes que iniciar sesión en tu cuenta de Discord, ir a 'Ajustes > Privacidad y seguridad' y hacer click en 'Solicitar todos mis datos'."
+},
+{
+    "name": "GOG",
+    "url": "https://support.gog.com/hc/en-us/requests/new?form=other&product=gog",
+    "difficulty": "hard",
+    "notes_en": "Go to the url provided above and submit a request or send an email to privacy@gog.com.",
+	"notes_es": "Entra en la dirección indicada arriba y envía una solicitud o envía un email a privacy@gog.com."
 }
 ]
