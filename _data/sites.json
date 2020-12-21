@@ -486,6 +486,7 @@
         "url": "https://support.apple.com/es-lamr/HT208504",
         "difficulty": "easy",
         "notes": "Follow the steps to request account deletion. It is possible to undo for a few days.",
+        "notes": "Následujte postup, abyste požádali o smazání svého účtu. Po několik dní bude možné smazání účtu zrušit.",
         "domains": [
             "apple.com"
         ]
@@ -2577,6 +2578,7 @@
         "notes_pt_br": "Algumas perguntas serão feitas antes de deletar sua conta.",
         "notes_cat": "Se us realitzarà un petit qüestionari abans d'esborrar el compte.",
         "notes_es": "Se le hará un pequeño cuestionario antes de borrar la cuenta.",
+        "notes_cz": "Zeptají se vás na několik anketových otázek před smazáním účtu.",
         "domains": [
             "ebay.com"
         ]
@@ -4875,6 +4877,7 @@
         "notes_fr": "Il y a des rapports que LinkedIn continue d'envoyer des e-mails aux gens qui ferment leur compte. Il est bien possible qu'il faudra contactez le support du site pour demander la suppresion de votre compte.",
         "notes_cat": "Alguns informes indiquen que LinkedIn segueix enviant missatges a les persones que ja han tancat el compte. Pot ser necessari posar-se en contacte amb el servei de suport per esborrar el compte en lloc de tancar-lo.",
         "notes_es": "Hay informes que dicen que LinkedIn sigue enviando correo electrónico a las personas con cuentas cerradas. Podría ser necesario ponerte en contacto con el servicio al cliente para eliminar la cuenta en lugar de cerrarla.",
+        "notes_cz": "Existují zprávy o tom, že LinkedIn pokračuje v posílání emailů i lidem se smazaným účtem. Možná budete potřebovat kontaktovat podpoře, aby vám účet smazali místo jeho uzavření.",
         "domains": [
             "linkedin.com"
         ]
@@ -7558,6 +7561,16 @@
             "sellfy.com"
         ]
     },
+    
+    {
+        "name": "Seznam.cz",
+        "url": "https://profil.seznam.cz/gdpr",
+        "difficulty": "easy",
+        "domains": [
+            "seznam.cz"
+        ]
+
+    },
 
     {
         "name": "ShareLaTeX",
@@ -8688,6 +8701,7 @@
         "notes_fr": "Votre compte est désactivé avant qu'il est supprimé. Il est seulement après 30 jours d'être désactivé qu'un compte est supprimé définitivement.",
         "notes_cat": "El vostre compte es desactivarà abans de suprimir-lo. Un cop passats 30 dies, s'esborrarà.",
         "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
+        "notes_cz": "Váš účet je před smazáním deaktivován na 30 dní. Po uplynutí této doby bude smazán.",
         "domains": [
             "twitter.com"
         ]
