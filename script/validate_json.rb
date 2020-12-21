@@ -26,7 +26,7 @@ SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy",
                         "difficulty_medium", "extension", "extensionguide", "extensionp1", "extensionp2",
                         "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits",
                         "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible",
-                        "guidemedium", "hideinfo", "mikerogers", "name", "noinfo", "noresults", "noresultshelp",
+                        "guidemedium", "hideinfo", "jgmd", "mikerogers", "name", "noinfo", "noresults", "noresultshelp",
                         "popular", "pullrequest", "reset", "sendmail", "showinfo", "tagline", "title", "twitter", "whatisthis",
                         "whatisthis1", "whatisthis2", "whatisthis3", "whatisthis4"]
 
