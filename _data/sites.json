@@ -323,6 +323,7 @@
         "url": "https://amazon.com/gp/help/customer/contact-us",
         "difficulty": "hard",
         "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
+        "notes_cz": "Abyste si smazali účet, napište Amazonu přes email (tento kontaktní formulář) a požádejte je o smazání účtu.",
         "notes_fr": "Pour fermer votre compte, contactez Amazon par mail (par le formulaire de contact) et demandez la fermeture de votre compte.",
         "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
         "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort.",
@@ -2871,6 +2872,7 @@
         "notes_cat": "Podeu esborrar el compte fàcilment. Tanmateix, algunes dades -com el xat o missatges en grup- són desades per sempre, tal com s'explica en els termes de privadesa del lloc.",
         "notes_es": "Aunque puedes borrar la cuenta facilmente, algunos de los datos como el chat o mensajes en grupo son guardados para siempre, como se explica en los Terminos de privacidad del sitio.",
         "notes_pl": "Możesz usunąć swoje konto, ale zgodnie z polityką prywatności wszystkie dane razem z wiadomościami zostaną w bazie danych na zawsze.",
+        "notes_cz": "Přestože je jednoduché si smazat svůj účet, nějaké data včetně zpráv tam zůstanou navždy, jak je napsáno v Zásadách ochrany osobních údajů.",
         "domains": [
             "facebook.com"
         ]
@@ -2882,6 +2884,7 @@
         "difficulty": "impossible",
         "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, there's no way to delete your account",
         "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta",
+        "notes_cz": "Pokud jste přihlášeni přes svůj Facebook účet, můžete smazat ten od Facebooku. Pokud jste se registroval přes telefonní číslo, neexistuje žádná cesta jak ho smazat.",
         "domains": [
             "messenger.com"
         ]
