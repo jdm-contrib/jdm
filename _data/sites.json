@@ -486,7 +486,7 @@
         "url": "https://support.apple.com/es-lamr/HT208504",
         "difficulty": "easy",
         "notes": "Follow the steps to request account deletion. It is possible to undo for a few days.",
-        "notes": "Následujte postup, abyste požádali o smazání svého účtu. Po několik dní bude možné smazání účtu zrušit.",
+        "notes_cz": "Následujte postup, abyste požádali o smazání svého účtu. Po několik dní bude možné smazání účtu zrušit.",
         "domains": [
             "apple.com"
         ]
@@ -7569,7 +7569,6 @@
         "domains": [
             "seznam.cz"
         ]
-
     },
 
     {
