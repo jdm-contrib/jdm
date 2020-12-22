@@ -13,7 +13,8 @@
     "url": "https://www.amazon.com/gp/help/customer/display/",
     "difficulty": "medium",
     "notes_es": "Ve a https://www.amazon.es/gp/help/customer/display y abajo, en \"Consulta nuestras p\u00e1ginas de ayuda\", ve a \"Privacidad\" y haz click en \"Solicitar tu informaci\u00f3n personal. All\u00ed, dale a \"Solicitar mis datos\" y selecciona los datos que quieras/necesites. Al darle a \"Enviar Solicitud\" se te enviar\u00e1 un correo a la direcci\u00f3n de la cuenta de Amazon. Simplemente dale a confirmar y te llevar\u00e1 a Amazon, donde te har\u00e1n esperar hasta que tus datos est\u00e9n listos.",
-    "notes_en": "Go to https://www.amazon.com/gp/help/customer/display and down, in browse help topic, go to \"Security & Privacy\" and \"How Do I Request My Data?\". There click \"Request My Data\", choose whatever you need/want and click \"Send Request\". An e-mail will be send to your Amazon linked e-mail to confirm the Data Request. Just click confirm and wait until the data is ready for download."
+    "notes_en": "Go to https://www.amazon.com/gp/help/customer/display and down, in browse help topic, go to \"Security & Privacy\" and \"How Do I Request My Data?\". There click \"Request My Data\", choose whatever you need/want and click \"Send Request\". An e-mail will be send to your Amazon linked e-mail to confirm the Data Request. Just click confirm and wait until the data is ready for download.",
+    "notes_cz": "Go to https://www.amazon.com/gp/help/customer/display and down, in browse help topic, go to \"Security & Privacy\" and \"How Do I Request My Data?\". There click \"Request My Data\", choose whatever you need/want and click \"Send Request\". An e-mail will be send to your Amazon linked e-mail to confirm the Data Request. Just click confirm and wait until the data is ready for download."
 },
     {
     "name": "Reddit",
@@ -21,69 +22,80 @@
     "url": "https://www.reddit.com/settings/data-request",
     "difficulty": "easy",
     "notes_en": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days.",
-    "notes_es": "Ve a https://www.reddit.com/settings/data-request tras haber iniciado sesión en Reddit. Dese ahí, puedes obtener tus datos desde un intervalo de tiempo o todos los datos. Recibirás un mensaje privado con el que podrás descargar los datos."
+    "notes_es": "Ve a https://www.reddit.com/settings/data-request tras haber iniciado sesión en Reddit. Dese ahí, puedes obtener tus datos desde un intervalo de tiempo o todos los datos. Recibirás un mensaje privado con el que podrás descargar los datos.",
+    notes_cz": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days."
 },
     {
     "name": "Telegram",
     "url": "https://t.me/gdprbot",
     "difficulty": "easy",
     "notes_en": "The bot (https://t.me/gdprbot) in Telegram show us how to obtain our data in the app. The use of Telegram Desktop is needed in order to get the data. Once there, go to options, settings, advanced, export Telegram data, choose everything you want/need and export it in HTML or JSON format.",
-    "notes_es": "El bot @gdprbot nos guía en el proceso de obtención de datos. Es necesario usar Telegram Desktop. Ve a \"Opciones\", \"Configuración\", \"Avanzado\" y en \"Exportar datos de Telegram\", puedes elegir los datos que necesites, en formato HTML o JSON."
+    "notes_es": "El bot @gdprbot nos guía en el proceso de obtención de datos. Es necesario usar Telegram Desktop. Ve a \"Opciones\", \"Configuración\", \"Avanzado\" y en \"Exportar datos de Telegram\", puedes elegir los datos que necesites, en formato HTML o JSON.",
+    "notes_cz": "The bot (https://t.me/gdprbot) in Telegram show us how to obtain our data in the app. The use of Telegram Desktop is needed in order to get the data. Once there, go to options, settings, advanced, export Telegram data, choose everything you want/need and export it in HTML or JSON format."
 },
     {
     "name": "Aliexpress",
     "url": "https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
     "difficulty": "hard",
     "notes_en": "Depending on you area you must follow the instructions shown in 'https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
-    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "notes_cz": "Depending on you area you must follow the instructions shown in 'https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'"
 },
     {
     "name": "1688",
     "url": "https://1688.com",
     "difficulty": "hard",
     "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
-    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "notes_cz": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'"
 },
     {
     "name": "Alibaba",
     "url": "https://alibaba.com",
     "difficulty": "hard",
     "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
-    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "notes_cz": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'"
 },
     {
     "name": "Taobao",
     "url": "https://taobao.com",
     "difficulty": "hard",
     "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
-    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "notes_cz": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'"
 },
     {
     "name": "Tmall",
     "url": "https://tmall.com",
     "difficulty": "hard",
     "notes_en": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'",
-    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm"
+    "notes_es": "Dependiendo de donde vivas tendrás que seguir unas instrucciones u otras de https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm",
+    "notes_cz": "Depending on you area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'"
 },
     {
     "name": "Steam",
     "url": "https://steamcommunity.com/",
     "difficulty": "medium",
     "notes_en": "In most cases, you can access, manage, or delete Personal Data in the Privacy Dashboard, but you may also contact Valve with questions or requests by summiting a support ticket.",
-    "notes_es": "En la mayoría de casos, puedes acceder y borrar tus datos personales en el Panel de Privacidad, pero puedes contactar con Valve si tienes problemas o preguntas mediante un ticket de soporte"
+    "notes_es": "En la mayoría de casos, puedes acceder y borrar tus datos personales en el Panel de Privacidad, pero puedes contactar con Valve si tienes problemas o preguntas mediante un ticket de soporte",
+    "notes_cz": "In most cases, you can access, manage, or delete Personal Data in the Privacy Dashboard, but you may also contact Valve with questions or requests by summiting a support ticket."
 },
     {
     "name": "PcComponentes",
     "url": "https://www.pccomponentes.com/",
     "difficulty": "hard",
     "notes_en": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to lopd@pccomponentes.com.",
-    "notes_es": "Tienes que enviar una solicitud escrita con un documento identificativo a Av. Europa, Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. También puedes realizar la petición por e-mail a lopd@pccomponentes.com"
+    "notes_es": "Tienes que enviar una solicitud escrita con un documento identificativo a Av. Europa, Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. También puedes realizar la petición por e-mail a lopd@pccomponentes.com",
+    "notes_cz": "You will have to send a written request with your passport, or another identification document, to  Av. Europa Parcela 2-3, Pol. Ind. Las Salinas 30840 Alhama de Murcia. You can also request the data throught a e-mail to lopd@pccomponentes.com."
 },
     {
     "name": "Netflix",
     "url": "https://www.netflix.com/",
     "difficulty": "medium",
-    "notes_en": "Go to https://www.netflix.com/account/getmyinfo and follow the instructions."
+    "notes_en": "Go to https://www.netflix.com/account/getmyinfo and follow the instructions.",
+    "notes_es": "Go to https://www.netflix.com/account/getmyinfo and follow the instructions.",
+    "notes_cz": "Go to https://www.netflix.com/account/getmyinfo and follow the instructions."
 },
     {
     "name": "GitHub",
@@ -91,7 +103,8 @@
     "url": "https://github.com/settings/admin",
     "difficulty": "medium",
     "notes_en": "In the section \"Export account data\" select \"Start report\". Once done, wait for an email to arrive.",
-    "notes_es": " En el apartado \"Exportar datos de cuenta\" selecciona \"Iniciar informe\". Una vez hecho, espera a que llegue un mensaje  de correo electrónico."
+    "notes_es": " En el apartado \"Exportar datos de cuenta\" selecciona \"Iniciar informe\". Una vez hecho, espera a que llegue un mensaje  de correo electrónico.",
+    "notes_cz": "In the section \"Export account data\" select \"Start report\". Once done, wait for an email to arrive."
  },
     {
     "name": "WhatsApp",
@@ -99,50 +112,64 @@
     "url": "https://www.whatsapp.com/",
     "difficulty": "easy",
     "notes_en": "Open the application and go to Settings > Account > Request info. from my account. Select \"Request report \", that concludes the process. NOTICE: The report will be ready in approximately 3 days. When it is available, you will have a few weeks to download it. If you delete your account or modify the phone, the request will be canceled.",
-    "notes_es": "Abre la apliacion y diríjase a Ajustes > Cuenta > Solicitar info. de mi cuenta. Selecciona \"Solicitar informe\" y con esto hemos acabado. AVISO: El informe estará listo en aproximadamente 3 días. Cuando esté disponible, tendras unas semanas para descargarlo. Si eliminas tu cuenta o modificas el telefono se cancelará la solicitud."
+    "notes_es": "Abre la apliacion y diríjase a Ajustes > Cuenta > Solicitar info. de mi cuenta. Selecciona \"Solicitar informe\" y con esto hemos acabado. AVISO: El informe estará listo en aproximadamente 3 días. Cuando esté disponible, tendras unas semanas para descargarlo. Si eliminas tu cuenta o modificas el telefono se cancelará la solicitud.",
+    "notes_cz": "Open the application and go to Settings > Account > Request info. from my account. Select \"Request report \", that concludes the process. NOTICE: The report will be ready in approximately 3 days. When it is available, you will have a few weeks to download it. If you delete your account or modify the phone, the request will be canceled."
 },
     {
     "name": "Instagram",
     "url": "https://www.instagram.com/download/request/",
     "difficulty": "medium",
     "notes_en": "Select to obtain the data and later it asks for your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours.",
-    "notes_es": "Selecciona obtener los datos y posteriormente te pide el correo y la contraseña. Una vez hecho, espera a que llegue un mensaje dentro del correo. AVISO: solo se puede hacer una solicitud de datos cada 48 horas"
+    "notes_es": "Selecciona obtener los datos y posteriormente te pide el correo y la contraseña. Una vez hecho, espera a que llegue un mensaje dentro del correo. AVISO: solo se puede hacer una solicitud de datos cada 48 horas",
+    "notes_cz": "Select to obtain the data and later it asks for your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours."
 },
     {
     "name": "Linkedin",
     "url": "https://www.linkedin.com/",
     "difficulty": "easy",
-    "notes_en": "1.-Click the  Me icon at the top of your LinkedIn homepage. 2.-Select Settings & Privacy from the dropdown. 3.-Click the Data Privacy on the left rail. 4.-Under the How LinkedIn uses your data section, click Get a copy of your data. 5.-Select the data that you’re looking for and Request archive."
+    "notes_en": "1.-Click the  Me icon at the top of your LinkedIn homepage. 2.-Select Settings & Privacy from the dropdown. 3.-Click the Data Privacy on the left rail. 4.-Under the How LinkedIn uses your data section, click Get a copy of your data. 5.-Select the data that you’re looking for and Request archive.",
+    "notes_es": "1.-Click the  Me icon at the top of your LinkedIn homepage. 2.-Select Settings & Privacy from the dropdown. 3.-Click the Data Privacy on the left rail. 4.-Under the How LinkedIn uses your data section, click Get a copy of your data. 5.-Select the data that you’re looking for and Request archive.",
+    "notes_cz": "1.-Click the  Me icon at the top of your LinkedIn homepage. 2.-Select Settings & Privacy from the dropdown. 3.-Click the Data Privacy on the left rail. 4.-Under the How LinkedIn uses your data section, click Get a copy of your data. 5.-Select the data that you’re looking for and Request archive."
 },
     {
     "name": "Yahoo!",
     "url": "https://es.yahoo.com/",
     "difficulty": "easy",
-    "notes_en": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days."
+    "notes_en": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days.",
+    "notes_es": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days.",
+    "notes_cz": "Go to https://yahoo.mydashboard.oath.com/ with a Yahoo! account, scroll down and select 'Request a download' and on the next page you select all the data you want to download, then add an email that you want notify when the download will be ready, this process may take about 30 days."
 },
     {
     "name": "Microsoft",
     "url": "https://microsoft.com/",
     "difficulty": "hard",
-    "notes_en": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form."
+    "notes_en": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form.",
+    "notes_es": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form.",
+    "notes_cz": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form."
 },
 {
     "name": "MSI",
     "url": "https://es.msi.com/",
     "difficulty": "hard",
-    "notes_en": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact privacy-eu@msi.com."
+    "notes_en": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact privacy-eu@msi.com.",
+    "notes_es": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact privacy-eu@msi.com.",
+    "notes_cz": "To exercise the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data, or others of your rights, or to ask a question about these rights or any other provision of Privacy Policy, or about our Processing of your Personal Data, please use the contact privacy-eu@msi.com."
 },
 {
     "name": "GearBeast",
     "url": "https://www.gearbest.com/",
     "difficulty": "hard",
-    "notes_en": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date."
+    "notes_en": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date.",
+    "notes_es": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date.",
+    "notes_cz": "You may send us an e-mail to support@gearbest.com to exercise your rights. We will respond to your request in a reasonable timeframe. We will take all reasonable steps to ensure that your personal data is correct and up to date."
 },
 {
     "name": "Yoigo",
     "url": "https://www.yoigo.com/",
     "difficulty": "hard",
-    "notes_en": "You must to send e-mail to datospersonales@yoigo.com with your DNI scaned by two sides with a request for what right you want to exercise."
+    "notes_en": "You must to send e-mail to datospersonales@yoigo.com with your DNI scaned by two sides with a request for what right you want to exercise.",
+    "notes_es": "You must to send e-mail to datospersonales@yoigo.com with your DNI scaned by two sides with a request for what right you want to exercise.",
+    "notes_cz": "You must to send e-mail to datospersonales@yoigo.com with your DNI scaned by two sides with a request for what right you want to exercise."
 },
 {
     "name": "Twitter",
@@ -150,14 +177,16 @@
     "url": "https://twitter.com/settings/your_twitter_data",
     "difficulty": "medium",
     "notes_en": "Go to your account settings (\"Settings and privacy\"), in the \"Account\" section, click on \"Your Twitter data\", then enter your password in \"Download your Twitter data\" and then click \"Confirm \". Once the download is ready, they will send you an email to your associated email account and from there you can download a compressed file of your Twitter data.",
-    "notes_es": "Ve a la configuración de tu cuenta (\"Configuración y privacidad\"), en la sección \"Cuenta\", haz clic en \"Tus datos de Twitter\", posteriormente introduce tu contraseña en \"Descarga tus datos de Twitter\" y posteriormente haz clic en \"Confirmar\". Una vez que la descarga esté lista, te enviaran un correo electrónico a tu cuenta de correo asociada y desde ahí podras descargar un archivo comprimido de tus datos de Twitter."
+    "notes_es": "Ve a la configuración de tu cuenta (\"Configuración y privacidad\"), en la sección \"Cuenta\", haz clic en \"Tus datos de Twitter\", posteriormente introduce tu contraseña en \"Descarga tus datos de Twitter\" y posteriormente haz clic en \"Confirmar\". Una vez que la descarga esté lista, te enviaran un correo electrónico a tu cuenta de correo asociada y desde ahí podras descargar un archivo comprimido de tus datos de Twitter.",
+    "notes_cz": "Go to your account settings (\"Settings and privacy\"), in the \"Account\" section, click on \"Your Twitter data\", then enter your password in \"Download your Twitter data\" and then click \"Confirm \". Once the download is ready, they will send you an email to your associated email account and from there you can download a compressed file of your Twitter data."
 },
 {
     "name": "Universidad Complutense de Madrid",
     "url": "https://www.ucm.es/como-ejercer-los-derechos",
     "difficulty": "hard",
     "notes_en": "You have to present a request form through E-mail or in person at the registry with your ID.",
-    "notes_es": "Tienes que presentar una solicitud mediante E-mail o en el registro con tu DNI."
+    "notes_es": "Tienes que presentar una solicitud mediante E-mail o en el registro con tu DNI.",
+    "notes_cz": "You have to present a request form through E-mail or in person at the registry with your ID."
 },
 {
     "name": "eBay",
@@ -165,7 +194,8 @@
     "url_es": "https://www.sarweb.ebay.com/sar",
     "difficulty": "easy",
     "notes_en": "Go to your account settings, then click on \"Request your eBay data\", follow the simple steps and in 7 days you should receive your data back",
-    "notes_es": "Ve a la configuración de la cuenta, y haz click en \"Solicita tus datos de eBay\", sigue los pasos y en 7 días recibirás todos tus datos por correo electrónico"
+    "notes_es": "Ve a la configuración de la cuenta, y haz click en \"Solicita tus datos de eBay\", sigue los pasos y en 7 días recibirás todos tus datos por correo electrónico",
+    "notes_cz": "Go to your account settings, then click on \"Request your eBay data\", follow the simple steps and in 7 days you should receive your data back"
 },
 {
     "name": "Tinder",
@@ -173,7 +203,8 @@
     "url": "https://account.gotinder.com/data",
     "difficulty": "easy",
     "notes_en": "Go to the url provided above, log-in with your account credentials and provide and e-mail to receive a link to your data",
-    "notes_es": "Ve a la dirección indicada arriba, inicia sesión y da un correo electrónico en el que recibir tus datos"
+    "notes_es": "Ve a la dirección indicada arriba, inicia sesión y da un correo electrónico en el que recibir tus datos",
+    "notes_cz": "Go to the url provided above, log-in with your account credentials and provide and e-mail to receive a link to your data"
 },
 {
     "name": "Wikipedia",
@@ -185,14 +216,16 @@
     "url": "https://boardgamegeek.com/privacy#toc33",
     "difficulty": "hard",
     "notes_en": "You have to contact with service support",
-    "notes_es": "Debes contactar con servicio al cliente"
+    "notes_es": "Debes contactar con servicio al cliente",
+    "notes_cz": "You have to contact with service support"
 },
 {
     "name": "PornHub",
     "url": "https://pornhub.com/information/privacy",
     "difficulty": "medium",
     "notes_en": "Go to the url provided above and click on the button 'Request a copy of my personal data', at the bottom of the page. They will send you and email to confirm the email address where they will send your data and another to verify your username and password. You will receive your data in about 24 hours.",
-    "notes_es": "Entra en la dirección indicada arriba y haz click en el botón 'Request a copy of my personal data', al final de la página. Te enviarán un email para confirmar la dirección de correo electrónico donde se enviarán los datos y otro para confirmar tu usuario y contraseña. En un periodo de aproximadamente 24 horas recibiras tus datos."
+    "notes_es": "Entra en la dirección indicada arriba y haz click en el botón 'Request a copy of my personal data', al final de la página. Te enviarán un email para confirmar la dirección de correo electrónico donde se enviarán los datos y otro para confirmar tu usuario y contraseña. En un periodo de aproximadamente 24 horas recibiras tus datos.",
+    "notes_cz": "Go to the url provided above and click on the button 'Request a copy of my personal data', at the bottom of the page. They will send you and email to confirm the email address where they will send your data and another to verify your username and password. You will receive your data in about 24 hours."
 },
 {
     "name": "Facebook",
@@ -200,7 +233,8 @@
     "url": "https://www.facebook.com/help/1701730696756992",
     "difficulty": "easy",
     "notes_en": "Go to the url provided above and follow the instructions. Logging into your account, you can access a summary of your data or download a copy. The data are categorized by type to help the search and you can download it in JSON or HTML formats.",
-    "notes_es": "Entra en la dirección indicada arriba y sigue las intrucciones. Entrando en tu cuenta, tienes la posibilidad de visualizar un resumen de tus datos o descargar una copia. La información esta clasificada por tipos para ayudar en la búsqueda y podrás descargarla en formato JSON o HTML."
+    "notes_es": "Entra en la dirección indicada arriba y sigue las intrucciones. Entrando en tu cuenta, tienes la posibilidad de visualizar un resumen de tus datos o descargar una copia. La información esta clasificada por tipos para ayudar en la búsqueda y podrás descargarla en formato JSON o HTML.",
+    "notes_cz": "Go to the url provided above and follow the instructions. Logging into your account, you can access a summary of your data or download a copy. The data are categorized by type to help the search and you can download it in JSON or HTML formats."
 },
 {
     "name": "Apple",
@@ -208,47 +242,55 @@
     "url": "https://privacy.apple.com",
     "difficulty": "easy",
     "notes_en": "Go to the url provided above and login with your Apple ID. Click on 'Get a copy of my data' and categories will be displayed to select the type of data to download. After selecting, information will be asked to confirm that you are the account's owner. You will recibe a notification when the data its available for download and you will have 2 weeks to do it.",
-    "notes_es": "Entra en la dirección indicada arriba e inicia sesión con tu Apple ID. Haz click en 'Obtener una copia de mis datos' y se mostrarán categorías para seleccionar el tipo de datos a descargar. Trás seleccionar, se preguntará información para confirmar que eres el propietario de la cuenta. Se te notificará cuando los datos estén disponibles para descargar y tendrás 2 semanas para hacerlo."
+    "notes_es": "Entra en la dirección indicada arriba e inicia sesión con tu Apple ID. Haz click en 'Obtener una copia de mis datos' y se mostrarán categorías para seleccionar el tipo de datos a descargar. Trás seleccionar, se preguntará información para confirmar que eres el propietario de la cuenta. Se te notificará cuando los datos estén disponibles para descargar y tendrás 2 semanas para hacerlo.",
+    "notes_cz": "Go to the url provided above and login with your Apple ID. Click on 'Get a copy of my data' and categories will be displayed to select the type of data to download. After selecting, information will be asked to confirm that you are the account's owner. You will recibe a notification when the data its available for download and you will have 2 weeks to do it."
 },
 {
     "name": "ING",
     "url": "https://www.ing.com/Privacy-Statement.htm",
     "difficulty": "hard",
     "notes_en": "Go to the url provided above and in section 9 'Contact and questions', you must find the email address associated with your country. You will have to send an email to the corresponding address, stating that you want to obtain a copy of your personal data. You must provide your name, address and ID.",
-    "notes_es": "Entra en la dirección indicada arriba y en la sección 9 'Contacto y preguntas', debes buscar la dirección de email asociada a tu país. Tienes que enviar un correo a la dirección correspondiente, indicando que quieres obtener una copia de tus datos personales. Debes aportar tu nombre, dirección y DNI."
+    "notes_es": "Entra en la dirección indicada arriba y en la sección 9 'Contacto y preguntas', debes buscar la dirección de email asociada a tu país. Tienes que enviar un correo a la dirección correspondiente, indicando que quieres obtener una copia de tus datos personales. Debes aportar tu nombre, dirección y DNI.",
+    "notes_cz": "Go to the url provided above and in section 9 'Contact and questions', you must find the email address associated with your country. You will have to send an email to the corresponding address, stating that you want to obtain a copy of your personal data. You must provide your name, address and ID."
 },
 {
     "name": "BBVA",
     "url": "https://web.bbva.es/index.html?v=12.3.22#areapersonal/menu/privacidadydatos",
     "difficulty": "easy",
-    "notes_en": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page."
+    "notes_en": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page.",
+    "notes_es": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page.",
+    "notes_cz": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page."
 },
 {
     "name": "Booking",
     "url": "https://www.booking.com/content/dsar.en-gb.html",
     "difficulty": "medium",
     "notes_en": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'.",
-    "notes_es": "Ve al formulario indicado en la dirección superior y rellénalo seleccionando la opción 'Right of access to personal data'."
+    "notes_es": "Ve al formulario indicado en la dirección superior y rellénalo seleccionando la opción 'Right of access to personal data'.",
+    "notes_cz": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'.",
 },
 {
     "name": "Coinbase",
     "url": "https://help.coinbase.com/en/pro/privacy-and-security/data-privacy/gdpr-how-to-access-information.html",
     "difficulty": "easy",
     "notes_en": "You can log into your Coinbase account and request your data in the Privacy section. You have a full guide in the url above.",
-    "notes_es": "Entrando en tu cuenta de Coinbase puedes solicitar tus datos en la sección Privacidad. Tienes una guía completa en la url superior."
+    "notes_es": "Entrando en tu cuenta de Coinbase puedes solicitar tus datos en la sección Privacidad. Tienes una guía completa en la url superior.",
+    "notes_cz": "You can log into your Coinbase account and request your data in the Privacy section. You have a full guide in the url above."
 },
 {
     "name": "Discord",
     "url": "https://discord.com",
     "difficulty": "easy",
     "notes_en": "You have to log into your Discord account, go to 'Settings > Privacy and security' and click on 'Request all my data'.",
-    "notes_es": "Tienes que iniciar sesión en tu cuenta de Discord, ir a 'Ajustes > Privacidad y seguridad' y hacer click en 'Solicitar todos mis datos'."
+    "notes_es": "Tienes que iniciar sesión en tu cuenta de Discord, ir a 'Ajustes > Privacidad y seguridad' y hacer click en 'Solicitar todos mis datos'.",
+    "notes_cz": "You have to log into your Discord account, go to 'Settings > Privacy and security' and click on 'Request all my data'."
 },
 {
     "name": "GOG",
     "url": "https://support.gog.com/hc/en-us/requests/new?form=other&product=gog",
     "difficulty": "hard",
     "notes_en": "Go to the url provided above and submit a request or send an email to privacy@gog.com.",
-	"notes_es": "Entra en la dirección indicada arriba y envía una solicitud o envía un email a privacy@gog.com."
+	"notes_es": "Entra en la dirección indicada arriba y envía una solicitud o envía un email a privacy@gog.com.",
+	"notes_cz": "Go to the url provided above and submit a request or send an email to privacy@gog.com."
 }
 ]
