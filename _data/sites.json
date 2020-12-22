@@ -323,6 +323,7 @@
         "url": "https://amazon.com/gp/help/customer/contact-us",
         "difficulty": "hard",
         "notes": "To close your account, contact Amazon by email (via this contact form) and request that your account be closed.",
+        "notes_cz": "Abyste si smazali účet, napište Amazonu přes email (tento kontaktní formulář) a požádejte je o smazání účtu.",
         "notes_fr": "Pour fermer votre compte, contactez Amazon par mail (par le formulaire de contact) et demandez la fermeture de votre compte.",
         "notes_it": "Per chiudere il tuo account, contatta amazon via mail (utilizzando il form contattaci) richiedendo di chiudere il tuo account",
         "notes_de": "Um deinen Account zu löschen, kontaktiere den Support über den Link und beantrage die Löschung dort.",
@@ -485,6 +486,7 @@
         "url": "https://support.apple.com/es-lamr/HT208504",
         "difficulty": "easy",
         "notes": "Follow the steps to request account deletion. It is possible to undo for a few days.",
+        "notes_cz": "Následujte postup, abyste požádali o smazání svého účtu. Po několik dní bude možné smazání účtu zrušit.",
         "domains": [
             "apple.com"
         ]
@@ -2576,6 +2578,7 @@
         "notes_pt_br": "Algumas perguntas serão feitas antes de deletar sua conta.",
         "notes_cat": "Se us realitzarà un petit qüestionari abans d'esborrar el compte.",
         "notes_es": "Se le hará un pequeño cuestionario antes de borrar la cuenta.",
+        "notes_cz": "Zeptají se vás na několik anketových otázek před smazáním účtu.",
         "domains": [
             "ebay.com"
         ]
@@ -2871,6 +2874,7 @@
         "notes_cat": "Podeu esborrar el compte fàcilment. Tanmateix, algunes dades -com el xat o missatges en grup- són desades per sempre, tal com s'explica en els termes de privadesa del lloc.",
         "notes_es": "Aunque puedes borrar la cuenta facilmente, algunos de los datos como el chat o mensajes en grupo son guardados para siempre, como se explica en los Terminos de privacidad del sitio.",
         "notes_pl": "Możesz usunąć swoje konto, ale zgodnie z polityką prywatności wszystkie dane razem z wiadomościami zostaną w bazie danych na zawsze.",
+        "notes_cz": "Přestože je jednoduché si smazat svůj účet, nějaké data včetně zpráv tam zůstanou navždy, jak je napsáno v Zásadách ochrany osobních údajů.",
         "domains": [
             "facebook.com"
         ]
@@ -2882,6 +2886,7 @@
         "difficulty": "impossible",
         "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, there's no way to delete your account",
         "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta",
+        "notes_cz": "Pokud jste přihlášeni přes svůj Facebook účet, můžete smazat ten od Facebooku. Pokud jste se registroval přes telefonní číslo, neexistuje žádná cesta jak ho smazat.",
         "domains": [
             "messenger.com"
         ]
@@ -4872,6 +4877,7 @@
         "notes_fr": "Il y a des rapports que LinkedIn continue d'envoyer des e-mails aux gens qui ferment leur compte. Il est bien possible qu'il faudra contactez le support du site pour demander la suppresion de votre compte.",
         "notes_cat": "Alguns informes indiquen que LinkedIn segueix enviant missatges a les persones que ja han tancat el compte. Pot ser necessari posar-se en contacte amb el servei de suport per esborrar el compte en lloc de tancar-lo.",
         "notes_es": "Hay informes que dicen que LinkedIn sigue enviando correo electrónico a las personas con cuentas cerradas. Podría ser necesario ponerte en contacto con el servicio al cliente para eliminar la cuenta en lugar de cerrarla.",
+        "notes_cz": "Existují zprávy o tom, že LinkedIn pokračuje v posílání emailů i lidem se smazaným účtem. Možná budete potřebovat kontaktovat podpoře, aby vám účet smazali místo jeho uzavření.",
         "domains": [
             "linkedin.com"
         ]
@@ -7557,6 +7563,15 @@
     },
 
     {
+        "name": "Seznam.cz",
+        "url": "https://profil.seznam.cz/gdpr",
+        "difficulty": "easy",
+        "domains": [
+            "seznam.cz"
+        ]
+    },
+
+    {
         "name": "ShareLaTeX",
         "url": "https://www.sharelatex.com/user/settings",
         "difficulty": "easy",
@@ -8685,6 +8700,7 @@
         "notes_fr": "Votre compte est désactivé avant qu'il est supprimé. Il est seulement après 30 jours d'être désactivé qu'un compte est supprimé définitivement.",
         "notes_cat": "El vostre compte es desactivarà abans de suprimir-lo. Un cop passats 30 dies, s'esborrarà.",
         "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
+        "notes_cz": "Váš účet je před smazáním deaktivován na 30 dní. Po uplynutí této doby bude smazán.",
         "domains": [
             "twitter.com"
         ]
