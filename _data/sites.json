@@ -23,7 +23,7 @@
     "difficulty": "easy",
     "notes_en": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days.",
     "notes_es": "Ve a https://www.reddit.com/settings/data-request tras haber iniciado sesión en Reddit. Dese ahí, puedes obtener tus datos desde un intervalo de tiempo o todos los datos. Recibirás un mensaje privado con el que podrás descargar los datos.",
-    notes_cz": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days."
+    "notes_cz": "Go to https://www.reddit.com/settings/data-request while being logged in Reddit. Once there, click on getting the data from a range of time or all. Then, wait for the private message in reddit, click in \"Download here\" and we are done. WARNING: you can only do a data request once every 30 days."
 },
     {
     "name": "Telegram",
