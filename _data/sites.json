@@ -2809,16 +2809,9 @@
 
     {
         "name": "Evernote",
-        "url": "https://www.evernote.com/Deactivate.action",
-        "difficulty": "impossible",
-        "notes": "You cannot delete your Evernote account, just deactivate it temporarily. Deactivation does not remove your data so you will have to manually delete all notes and personal info, perform a sync and then deactivate the account.",
-        "notes_fr": "Vous ne pouvez pas supprimer votre compte Evernote, seulement le désactiver temporairement. La désactivation ne supprime pas vos données donc vous devrez les supprimer manuellement avant de syncroniser, puis vous pourrez réaliser la désactivation du compte.",
-        "notes_it": "Non puoi eliminare il tuo account Evernote, solo disattivarlo temporaneamente. La disattivazione non cancella nessuno dei tuoi dati quindi dovrai cancellarli manualmente prima di effettuare la disattivazione.",
-        "notes_de": "Du kannst deinen Evernote-Account nicht löschen, du kannst ihn nur temporär deaktivieren. Deaktivierung löscht nicht deine Daten, deshalb musst du manuell jede Notiz und persönliche Information löschen. Schließe dann eine Synchronisation ab und deaktiviere deinen Account dann.",
-        "notes_pt_br": "Você não pode deletar sua conta Evernote, apenas desativá-la temporariamente. Desativação não remove seus dados então você terá que remover manualmente todas suas informações, realizar uma sincronização e então desativar sua conta.",
-        "notes_cat": "No pot eliminar un compte d'Evernote, només pot desactivar-la temporalment. La desactivaciò no esborra les seves dades, ho haurà de fer manualment, després sincronitzar i desactivar.",
-        "notes_es": "No puedes eliminar una cuenta de Evernote, solo puedes desactivarla temporalmente. La desactivación no borra tus datos, lo deberás hacer a mano, y después sincronizalo y desactivalo.",
-        "notes_pl": "Nie możesz usunąć konta tylko je tymczasowo zdeaktywować. Deaktywacja nie usuwa żadnych danych - należy to zrobić samemu.",
+        "url": "https://help.evernote.com/hc/en-us/articles/360056549574-Permanently-close-your-Evernote-account",
+        "difficulty": "easy",
+        "notes": "Sign in to account settings, click 'Account Status', click 'Close your Evernote Account', read carefully and accept.",
         "domains": [
             "evernote.com"
         ]
