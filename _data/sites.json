@@ -5171,6 +5171,18 @@
     },
 
     {
+        "name": "Mbed",
+        "url": "https://forums.mbed.com/t/how-do-i-delete-my-mbed-account/10235",
+        "difficulty": "hard",
+        "notes": "Contact support and ask for your account to be deleted.",
+        "notes_it": "Contatta il supporto via email e richiedi la cancellazione.",
+        "email": "accounts@mbed.com",
+        "domains": [
+            "mbed.com"
+        ]
+    },
+
+    {
         "name": "McAfee",
         "url": "https://home.mcafee.com/supportpages/unsub.aspx",
         "difficulty": "easy",
