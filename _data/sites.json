@@ -5171,6 +5171,15 @@
     },
 
     {
+        "name": "Mbed",
+        "url": "https://os.mbed.com/account/edit/account-options/",
+        "difficulty": "easy",
+        "domains": [
+            "mbed.com"
+        ]
+    },
+
+    {
         "name": "McAfee",
         "url": "https://home.mcafee.com/supportpages/unsub.aspx",
         "difficulty": "easy",
