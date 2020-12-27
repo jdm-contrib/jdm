@@ -6477,9 +6477,9 @@
 
     {
         "name": "Patreon",
-        "url": "https://support.patreon.com/hc/en-us/articles/204605915-Delete-my-Patreon-account",
-        "difficulty": "impossible",
-        "notes": "Follow the steps on the FAQ link. Note that it takes up to 30 days for full deletion.",
+        "url": "https://privacy.patreon.com/policies?modal=take-control",
+        "difficulty": "easy",
+        "notes": "Log in, and open the link. Click 'Erase', and proceed to press buttons. Deletion is delayed by 14 days. Data about the deletion is shared with Transcend Inc.",
         "domains": [
             "patreon.com"
         ]
