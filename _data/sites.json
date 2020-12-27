@@ -8738,6 +8738,26 @@
     },
 
     {
+        "name": "Ubiquiti",
+        "url": "https://www.ui.com/global-request/",
+        "url_cz": "https://www.ui.com/gdpr-request/",
+        "url_de": "https://www.ui.com/gdpr-request/",
+        "url_es": "https://www.ui.com/gdpr-request/",
+        "url_fr": "https://www.ui.com/gdpr-request/",
+        "url_it": "https://www.ui.com/gdpr-request/",
+        "url_nl": "https://www.ui.com/gdpr-request/",
+        "url_pl": "https://www.ui.com/gdpr-request/",
+        "url_ro": "https://www.ui.com/gdpr-request/",
+        "url_sk": "https://www.ui.com/gdpr-request/",
+        "notes": "Open a ticket with support using the email address associated with the account.",
+        "notes_it": "Apri un ticket di supporto utilizzando l'indirizzo email associato all'account.",
+        "difficulty": "hard",
+        "domains": [
+            "ui.com"
+        ]
+    },
+
+    {
         "name": "Ubuntu One",
         "url": "https://login.ubuntu.com/+faq#can-i-delete-my-ubuntu-one-account",
         "difficulty": "hard",
