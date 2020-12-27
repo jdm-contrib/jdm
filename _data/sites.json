@@ -2196,6 +2196,7 @@
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "easy",
         "notes": "If you're a server owner, you'll need to either <a href=\"https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-\">delete the server</a>, or <a href=\"https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-\">transfer ownership</a> for account deletion to succeed.",
+        "notes_it": "Se sei il proprietario di un server, dovrai <a href=\"https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-\">eliminare il server</a>, o <a href=\"https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-\">trasferire la proprietà</a> affinché l'eliminazione dell'account abbia successo.",
         "domains": [
             "discordapp.com"
         ]
@@ -2522,6 +2523,7 @@
         "url": "https://easyeda.com/account/user/account/setting/advance",
         "difficulty": "easy",
         "notes": "Log into easyeda.com first, then click on the provided URL. Type 'DELETE' into the input box and click the Delete button.",
+        "notes_it": "Sciogli o trasferisci i tuoi team e progetti prima di eliminare il tuo account. Anche i tuoi account LCSC e JLCPCB verranno eliminati!",
         "domains": [
             "easyeda.com"
         ]
