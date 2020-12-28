@@ -9160,6 +9160,16 @@
     },
 
     {
+        "name": "Webex - Free Account",
+        "url": "https://help.webex.com/en-us/5m4i4y/Delete-Your-Free-Webex-Account#id_111643",
+        "difficulty": "easy",
+        "notes": "Just follow the settings to find the delete account button and click it",
+        "domains": [
+            "settings.webex.com"
+        ]
+    },
+
+    {
         "name": "Webull",
         "url": "https://www.webull.com/hc/categories/fq125-How-do-I-delete-my-Webull-account",
         "difficulty": "easy",
