@@ -8749,6 +8749,17 @@
     },
 
     {
+        "name": "Ubiquiti",
+        "url": "https://www.ui.com/global-request/",
+        "notes": "Open a ticket with support using the email address associated with the account.",
+        "notes_it": "Apri un ticket di supporto utilizzando l'indirizzo email associato all'account.",
+        "difficulty": "hard",
+        "domains": [
+            "ui.com"
+        ]
+    },
+
+    {
         "name": "Ubuntu One",
         "url": "https://login.ubuntu.com/+faq#can-i-delete-my-ubuntu-one-account",
         "difficulty": "hard",
