@@ -9130,9 +9130,9 @@
 
     {
         "name": "Webex - Free Account",
-        "url": "https://settings.webex.com",
+        "url": "https://help.webex.com/en-us/5m4i4y/Delete-Your-Free-Webex-Account#id_111643",
         "difficulty": "easy",
-        "notes": "Instructions at https://help.webex.com/en-us/5m4i4y/Delete-Your-Free-Webex-Account#id_111643",
+        "notes": "Just follow the settings to find the delete account button and click it",
         "domains": [
             "settings.webex.com"
         ]
