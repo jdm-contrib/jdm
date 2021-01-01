@@ -7079,6 +7079,16 @@
     },
 
     {
+        "name": "Pulseway",
+        "url": "https://my.pulseway.com/main/account",
+        "difficulty": "medium",
+        "notes": "At the bottom of the page click 'Delete Account'. You will need a code sent to the 'Work E-Mail' listed on the same page (can be changed without confirmation).",
+        "domains": [
+            "pulseway.com"
+        ]
+    },
+
+    {
         "name": "Pushover",
         "url": "https://pushover.net/settings/delete_account",
         "difficulty": "easy",
