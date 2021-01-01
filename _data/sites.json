@@ -8525,6 +8525,16 @@
     },
 
     {
+        "name": "Uswitch",
+        "url": "https://www.uswitch.com/account/settings",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the 'Account Settings' page and click 'Delete Account'",
+        "domains": [
+            "uswitch.com"
+        ]
+    },
+
+    {
         "name": "Valleywag (Gawker Media)",
         "url": "https://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
