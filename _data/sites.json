@@ -7407,6 +7407,14 @@
     },
 
     {
+        "name": "Ripe NCC",
+        "url": "https://www.ripe.net",
+        "difficulty": "impossible",
+        "domains": [
+            "ripe.net"
+        ]
+    },
+    {
         "name": "Robinhood",
         "url": "https://robinhood.com/contact",
         "difficulty": "hard",
