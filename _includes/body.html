@@ -19,7 +19,7 @@
         {% assign sites = site.data.sites | sort_natural: 'name' %}
         {% for entry in sites %}
             <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
-                {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
+                {% capture lang_url %}url_{{ page.short }}{% endcapture %}
                 <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% else %}{{entry.url}}{% endif %}">
                     {{ entry.name }}
                 </a>
@@ -36,7 +36,7 @@
                     {% endif %}
                 </p>
 
-                {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
+                {% capture lang_notes %}notes_{{ page.short }}{% endcapture %}
                 {% if entry.notes or entry[lang_notes] %}
                     <div class="tooltip-content">
                         {% if entry[lang_notes] %}
@@ -106,13 +106,15 @@
     <ul class="dropdown-menu">
         {% assign sorted_files = (site.data.trans | sort:0) %}
         {% for lang in sorted_files %}
-            {% assign lang_code = lang[0] %}
-            {% if lang_code == 'en-GB' %}
+            {% assign full_code = lang[0] %}
+            {% assign x = full_code | split: "-" %}
+            {% capture short_code %}{{x[0]}}{% endcapture %}
+            {% if full_code == 'en-GB' %}
                 {% assign url = './' %}
             {% else %}
-                {% assign url = lang_code %}
+                {% assign url = short_code %}
             {% endif %}
-            <li class="{{ lang_code }}"><a href="{{ url }}">{{ site.data.trans[lang_code].name }}</a></li>
+            <li class="{{ full_code }}"><a href="{{ url }}">{{ site.data.trans[full_code].name }}</a></li>
         {% endfor %}
     </ul>
 </div>
