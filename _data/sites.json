@@ -267,7 +267,7 @@
     "difficulty": "medium",
     "notes_en": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'.",
     "notes_es": "Ve al formulario indicado en la dirección superior y rellénalo seleccionando la opción 'Right of access to personal data'.",
-    "notes_cz": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'.",
+    "notes_cz": "Go to the form provided in the url above and fill it selecting the option 'Right of access to personal data'."
 },
 {
     "name": "Coinbase",
@@ -297,6 +297,6 @@
     "name": "Adobe",
     "url": "https://www.adobe.com/privacy/privacy-contact.html#form",
     "difficulty": "hard",
-    "notes_en": "Go to the URL provided above and submit a request.",
+    "notes_en": "Go to the URL provided above and submit a request."
 }
 ]

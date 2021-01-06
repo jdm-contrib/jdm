@@ -42,7 +42,7 @@ def url_exist(name, url_string)
     url = URI.parse(url_string.strip)
     res = Net::HTTP.get_response(url)
     if res.kind_of?(Net::HTTPRedirection)
-        # Do nothing
+        puts "Warning: entry #{name} redirected"
     elsif res.code == "404"
         STDERR.puts "Entry #{name} returned HTTP 404"
     end

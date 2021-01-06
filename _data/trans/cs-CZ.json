@@ -1,6 +1,5 @@
 {
     "about": "O projektu",
-    "link_jdm": "Navštivte JustDeleteMe",
     "contribute": "Zapojte se na GitHubu",
     "difficulty": "obtížnost",
     "difficulty_easy": "jednoduché",
@@ -23,6 +22,7 @@
     "guideimpossible": "Data nemůžou být staženy",
     "guidemedium": "Potřeba provést několik kroků navíc",
     "hideinfo": "skrýt podrobnosti...",
+    "link_jdm": "Navštivte JustDeleteMe",
     "mikerogers": "Mike Rogers",
     "name": "Čeština",
     "noinfo": "Žádné podrobnosti k dispozici",

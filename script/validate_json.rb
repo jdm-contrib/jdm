@@ -26,7 +26,7 @@ SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy",
                         "difficulty_medium", "extension", "extensionguide", "extensionp1", "extensionp2",
                         "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits",
                         "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible",
-                        "guidemedium", "hideinfo", "mikerogers", "name", "noinfo", "noresults", "noresultshelp",
+                        "guidemedium", "hideinfo", "link_jdm", "mikerogers", "name", "noinfo", "noresults", "noresultshelp",
                         "popular", "pullrequest", "reset", "sendmail", "showinfo", "tagline", "title", "twitter", "whatisthis",
                         "whatisthis1", "whatisthis2", "whatisthis3", "whatisthis4"]
 
@@ -61,6 +61,12 @@ def error_on_missing_field(key, field, exit_code)
     unless key.key?(field)
         STDERR.puts "Entry '#{key['name']}' has no '#{field}' field"
         exit exit_code
+    end
+end
+
+def warning_on_missing_field(key, field)
+    unless key.key?(field)
+        STDERR.puts "Entry '#{key['name']}' has no '#{field}' field"
     end
 end
 
@@ -107,7 +113,7 @@ def validate_website_entry(key, i)
     validate_accepted_keys(key)
     error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
     error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
-    error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
+    warning_on_missing_field(key, 'domains')
     validate_difficulty(key)
     validate_localized_urls(key)
     validate_localized_notes(key)

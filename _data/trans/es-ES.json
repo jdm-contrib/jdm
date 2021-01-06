@@ -1,6 +1,5 @@
 {
     "about": "Acerca de",
-    "link_jdm": "Visitar JustDeleteMe",
     "contribute": "Contribuya en Github",
     "difficulty": "dificultad",
     "difficulty_easy": "fácil",
@@ -23,6 +22,7 @@
     "guideimpossible": "No se pueden obtener",
     "guidemedium": "Se tendrán que hacer algunos pasos extra",
     "hideinfo": "esconder información",
+    "link_jdm": "Visitar JustDeleteMe",
     "mikerogers": "Mike Rogers",
     "name": "Español",
     "noinfo": "No hay información disponible",

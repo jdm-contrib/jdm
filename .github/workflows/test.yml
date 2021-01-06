@@ -1,0 +1,13 @@
+name: test
+on: [push]
+jobs:
+  ping-websites:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1.61.1
+        with:
+          bundler-cache: true
+          ruby-version: 2.7
+      - name: Ping Websites
+        run: $GITHUB_WORKSPACE/script/ping_websites.rb
