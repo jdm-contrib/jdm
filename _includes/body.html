@@ -107,7 +107,7 @@
         {% assign sorted_files = (site.data.trans | sort:0) %}
         {% for lang in sorted_files %}
             {% assign lang_code = lang[0] %}
-            {% if lang_code == 'en' %}
+            {% if lang_code == 'en-GB' %}
                 {% assign url = './' %}
             {% else %}
                 {% assign url = lang_code %}
