@@ -298,5 +298,11 @@
     "url": "https://www.adobe.com/privacy/privacy-contact.html#form",
     "difficulty": "hard",
     "notes_en": "Go to the URL provided above and submit a request."
+},
+{
+    "name": "Twitch",
+    "url": "https://www.twitch.tv/p/legal/privacy-notice/",
+    "difficulty": "hard",
+    "notes_en": "Send an email to privacy@twitch.tv and include your email address, name, address, and telephone number and specify all relevant background"
 }
 ]
