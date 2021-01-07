@@ -51,7 +51,7 @@ If you want to help, do read our [contributing](CONTRIBUTING.md) guidelines.
 Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
 
 ## On Media
-- https://www.vice.com/en/article/88avkp/this-simple-tool-will-help-you-see-what-websites-know-about-you
+- [Vice](https://www.vice.com/en/article/88avkp/this-simple-tool-will-help-you-see-what-websites-know-about-you)
 
 ## License
 
