@@ -43,10 +43,12 @@ nav {
 .dropdown .cs-CZ a,    .cs-CZ a    { background-image: url(../icons/flags/cs-CZ16.png); }
 .dropdown .en-GB a,    .en-GB a    { background-image: url(../icons/flags/en-GB16.png); }
 .dropdown .es-ES a,    .es-ES a    { background-image: url(../icons/flags/es-ES16.png); }
+.dropdown .pt-BR a,    .pt-BR a    { background-image: url(../icons/flags/pt-BR16.png); }
 
 #cs-CZ    { background-image: url(../icons/flags/cs-CZ24.png); }
 #en-GB    { background-image: url(../icons/flags/en-GB24.png); }
 #es-ES    { background-image: url(../icons/flags/es-ES24.png); }
+#pt-BR    { background-image: url(../icons/flags/pt-BR24.png); }
 
 nav a {
     color: black;
