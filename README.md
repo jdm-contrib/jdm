@@ -1,7 +1,7 @@
 JustGetMyData
 ============
 
-A directory of direct links to get your personal information from web services.
+A directory of direct links for you to obtain your personal information from web services.
 This is a fork of [Just Delete Me](https://justdeleteme.xyz/)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3b1d799740f64a85a5616951ef1d5ed3)](https://www.codacy.com/gh/justgetmydata/jgmd/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=justgetmydata/jgmd&amp;utm_campaign=Badge_Grade)
@@ -43,6 +43,7 @@ Tests are run via the "cibuild" script, and can be run via `./script/cibuild`
 
 ## Contributing
 
+You can translate the main text of the page by contributing on [Crowdin](https://crowdin.com/project/jgmd)
 If you want to help, do read our [contributing](CONTRIBUTING.md) guidelines.
 
 ## Misc
