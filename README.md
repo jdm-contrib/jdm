@@ -55,6 +55,7 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 - [Webtekno](https://www.webtekno.com/sitelerin-depoladigi-kisisel-bilgileri-nasil-alabilirsiniz-h104601.html)
 - [Vice (Spanish)](https://www.vice.com/es/article/88avkp/sencilla-herramienta-ayudara-ver-lo-que-sitios-web-saben-sobre-ti)
 - [Raketa.hu](https://raketa.hu/adatok-amiket-a-cegek-gyujtenek-rolunk)
+- [Wafera](https://www.wafera.com/2021/01/this-tool-will-help-you-know-what.html)
 
 ## License
 
