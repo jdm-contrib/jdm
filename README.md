@@ -52,6 +52,9 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 
 ## On Media
 - [Vice](https://www.vice.com/en/article/88avkp/this-simple-tool-will-help-you-see-what-websites-know-about-you)
+- [Webtekno](https://www.webtekno.com/sitelerin-depoladigi-kisisel-bilgileri-nasil-alabilirsiniz-h104601.html)
+- [Vice (Spanish)](https://www.vice.com/es/article/88avkp/sencilla-herramienta-ayudara-ver-lo-que-sitios-web-saben-sobre-ti)
+- [Raketa.hu](https://raketa.hu/adatok-amiket-a-cegek-gyujtenek-rolunk)
 
 ## License
 
@@ -62,3 +65,5 @@ Country Flag Icons Copyright (c) 2017 Go Squared Ltd. http://www.gosquared.com/
 DevCenter.me Copyright (c) 2013 Steve Streza
 
 This is a detached fork of [Just Delete Me](https://justdeleteme.xyz/)
+
+Created by Students of the [Complutense University of Madrid](https://www.ucm.es/) as a project for the Ethics, Legislation and Profession course. You can find more info [here](https://wikis.fdi.ucm.es/ELP/Trabajo:JustGetMyData).
