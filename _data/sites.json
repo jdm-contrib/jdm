@@ -42,6 +42,13 @@
     "notes_cz": "Depending on you area you must follow the instructions shown in 'https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'"
 },
     {
+    "name": "Snapchat",
+    "meta": "popular",
+    "url": "https://support.snapchat.com/en-US/a/download-my-data",
+    "difficulty": "easy",
+    "notes_en": "Log into your account on accounts.snapchat.com, click \"My Data\", once you submit your request, Snapchat send you a download link via email to the verified email address associated with your account."
+},
+    {
     "name": "1688",
     "url": "https://1688.com",
     "difficulty": "hard",
