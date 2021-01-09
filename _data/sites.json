@@ -6318,6 +6318,18 @@
     },
 
     {
+        "name": "OpenInvest",
+        "url": "https://www.openinvest.com/terms-of-service",
+        "difficulty": "hard",
+        "notes": "Email them telling them you want to delete your account. They will retain some information as necessary to \"comply with our legal obligations, resolve disputes and enforce our agreements\" (from their TOS and Privacy Policy), but most data will be deleted within 30 days.",
+        "email": "support@openinvest.com",
+        "domains": [
+            "openinvest.com",
+            "openinvest.co"
+        ]
+    },
+
+    {
         "name": "OpenShift",
         "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
         "difficulty": "impossible",
