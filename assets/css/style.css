@@ -46,6 +46,7 @@ nav {
 .dropdown .pt-BR a,    .pt-BR a    { background-image: url(../icons/flags/pt-BR16.png); }
 .dropdown .tr-TR a,    .tr-TR a    { background-image: url(../icons/flags/tr-TR16.png); }
 .dropdown .de-DE a,    .de-DE a    { background-image: url(../icons/flags/de-DE16.png); }
+.dropdown .fr-FR a,    .fr-FR a    { background-image: url(../icons/flags/fr-FR16.png); }
 
 #cs-CZ    { background-image: url(../icons/flags/cs-CZ24.png); }
 #en-GB    { background-image: url(../icons/flags/en-GB24.png); }
@@ -53,6 +54,7 @@ nav {
 #pt-BR    { background-image: url(../icons/flags/pt-BR24.png); }
 #tr-TR    { background-image: url(../icons/flags/tr-TR24.png); }
 #de-DE    { background-image: url(../icons/flags/de-DE24.png); }
+#fr-FR    { background-image: url(../icons/flags/fr-FR24.png); }
 
 nav a {
     color: black;
