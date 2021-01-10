@@ -59,6 +59,8 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 - [NTV (Turkish)](https://www.ntv.com.tr/teknoloji/internet-sitelerinde-depolanan-verilerinizi-kopyalamanin-kolay-yolu-justgetmydata,MRKREYsoekaGXjf3D-KGtQ)
 - [Komando (English)](https://www.komando.com/security-privacy/justgetmydata-data-collection-tool/773214/)
 - [LiGNUx.com (Spanish)](https://lignux.com/justgetmydata-accede-a-tus-datos-de-distintos-servicios-web/)
+- [Les Numeriques (French)](https://www.lesnumeriques.com/vie-du-net/justgetmydata-le-site-qui-vous-aide-a-recuperer-une-copie-de-vos-donnees-personnelles-n159037.html)
+- [Aroged (English)](https://www.aroged.com/2021/01/10/justgetmydata-the-site-that-helps-you-get-a-copy-of-your-personal-data/)
 
 ## License
 
