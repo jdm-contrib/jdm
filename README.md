@@ -51,14 +51,14 @@ If you want to help, do read our [contributing](CONTRIBUTING.md) guidelines.
 Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
 
 ## On Media
-- [Vice](https://www.vice.com/en/article/88avkp/this-simple-tool-will-help-you-see-what-websites-know-about-you)
-- [Webtekno](https://www.webtekno.com/sitelerin-depoladigi-kisisel-bilgileri-nasil-alabilirsiniz-h104601.html)
+- [Vice (English)](https://www.vice.com/en/article/88avkp/this-simple-tool-will-help-you-see-what-websites-know-about-you)
+- [Webtekno (Turkish)](https://www.webtekno.com/sitelerin-depoladigi-kisisel-bilgileri-nasil-alabilirsiniz-h104601.html)
 - [Vice (Spanish)](https://www.vice.com/es/article/88avkp/sencilla-herramienta-ayudara-ver-lo-que-sitios-web-saben-sobre-ti)
-- [Raketa.hu](https://raketa.hu/adatok-amiket-a-cegek-gyujtenek-rolunk)
-- [Wafera](https://www.wafera.com/2021/01/this-tool-will-help-you-know-what.html)
+- [Raketa.hu (Hungarian)](https://raketa.hu/adatok-amiket-a-cegek-gyujtenek-rolunk)
+- [Wafera (Arabic)](https://www.wafera.com/2021/01/this-tool-will-help-you-know-what.html)
 - [NTV (Turkish)](https://www.ntv.com.tr/teknoloji/internet-sitelerinde-depolanan-verilerinizi-kopyalamanin-kolay-yolu-justgetmydata,MRKREYsoekaGXjf3D-KGtQ)
-- [Komando](https://www.komando.com/security-privacy/justgetmydata-data-collection-tool/773214/)
-- [LiGNUx.com](https://lignux.com/justgetmydata-accede-a-tus-datos-de-distintos-servicios-web/)
+- [Komando (English)](https://www.komando.com/security-privacy/justgetmydata-data-collection-tool/773214/)
+- [LiGNUx.com (Spanish)](https://lignux.com/justgetmydata-accede-a-tus-datos-de-distintos-servicios-web/)
 
 ## License
 
