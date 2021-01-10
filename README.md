@@ -57,6 +57,8 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 - [Raketa.hu](https://raketa.hu/adatok-amiket-a-cegek-gyujtenek-rolunk)
 - [Wafera](https://www.wafera.com/2021/01/this-tool-will-help-you-know-what.html)
 - [NTV (Turkish)](https://www.ntv.com.tr/teknoloji/internet-sitelerinde-depolanan-verilerinizi-kopyalamanin-kolay-yolu-justgetmydata,MRKREYsoekaGXjf3D-KGtQ)
+- [Komando](https://www.komando.com/security-privacy/justgetmydata-data-collection-tool/773214/)
+- [LiGNUx.com](https://lignux.com/justgetmydata-accede-a-tus-datos-de-distintos-servicios-web/)
 
 ## License
 
