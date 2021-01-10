@@ -5,6 +5,7 @@
 *.ico binary
 *.png binary
 *.jpg binary
+*.pdf binary
 
 # Specify different tabwidth for specific files
 *.md  whitespace=tab-in-indent,tabwidth=2
