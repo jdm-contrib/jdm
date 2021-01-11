@@ -4793,6 +4793,15 @@
     },
 
     {
+        "name": "LetyShops",
+        "url": "https://letyshops.com/user/delete",
+        "difficulty": "easy",
+        "domains": [
+            "letyshops.com"
+        ]
+    },
+
+    {
         "name": "Liberland",
         "url": "https://liberland.org",
         "difficulty": "impossible",
