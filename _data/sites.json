@@ -7868,16 +7868,6 @@
     },
 
     {
-        "name": "Smashcast",
-        "url": "https://www.smashcast.tv",
-        "difficulty": "easy",
-        "notes": "Access your user settings page, click the \"Delete Account...\" link. Check each of the boxes that appear, enter your account password, and complete the captcha to confirm account deletion.",
-        "domains": [
-            "smashcast.tv"
-        ]
-    },
-
-    {
         "name": "Snapchat",
         "url": "https://www.snapchat.com/a/delete_account",
         "difficulty": "easy",
