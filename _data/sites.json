@@ -8730,6 +8730,16 @@
     },
 
     {
+        "name": "Tweek",
+        "url": "https://tweek.so/calendar/help",
+        "difficulty": "easy",
+        "notes": "Follow the instructions on the help article to delete your account.",
+        "domains": [
+            "tweek.so"
+        ]
+    },
+
+    {
         "name": "Twenty20",
         "url": "https://www.twenty20.com/delete-account?t20p=settings.index",
         "difficulty": "easy",
