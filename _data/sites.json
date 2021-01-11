@@ -8657,6 +8657,16 @@
             "tutanota.de"
         ]
     },
+    
+    {
+        "name": "Tweek",
+        "url": "https://tweek.so/calendar/help",
+        "difficulty": "easy",
+        "notes": "Follow the instructions on the help article to delete your account.",
+        "domains": [
+            "tweek.so"
+        ]
+    },
 
     {
         "name": "Twenty20",
