@@ -61,6 +61,7 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 - [LiGNUx.com (Spanish)](https://lignux.com/justgetmydata-accede-a-tus-datos-de-distintos-servicios-web/)
 - [Les Numeriques (French)](https://www.lesnumeriques.com/vie-du-net/justgetmydata-le-site-qui-vous-aide-a-recuperer-une-copie-de-vos-donnees-personnelles-n159037.html)
 - [Aroged (English)](https://www.aroged.com/2021/01/10/justgetmydata-the-site-that-helps-you-get-a-copy-of-your-personal-data/)
+- [אלכסון (Hebrew)](https://alaxon.co.il/fomo/%D7%9E%D7%94-%D7%99%D7%95%D7%93%D7%A2%D7%99%D7%9D-%D7%A2%D7%9C%D7%99%D7%A0%D7%95/)
 
 ## License
 
