@@ -13,7 +13,7 @@
     {
         "name": "000Webhost",
         "url": "https://000webhost.com/members/profile",
-        "difficulty": "easy",
+        "difficulty": "easy",s
         "notes": "Go to \"Profile > Delete My Account\" and select why you are deleting your account.",
         "notes_pt_br": "Vá para \"Profile > Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
         "domains": [
@@ -7864,16 +7864,6 @@
         "notes": "You can deactivate your user account, but you cannot delete it.",
         "domains": [
             "smartrecruiters.com"
-        ]
-    },
-
-    {
-        "name": "Smashcast",
-        "url": "https://www.smashcast.tv",
-        "difficulty": "easy",
-        "notes": "Access your user settings page, click the \"Delete Account...\" link. Check each of the boxes that appear, enter your account password, and complete the captcha to confirm account deletion.",
-        "domains": [
-            "smashcast.tv"
         ]
     },
 
