@@ -66,6 +66,7 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 - [![](assets/icons/flags/en-US16.png) Tech Times](https://www.techtimes.com/articles/255795/20210111/data-privacy-protection-see-what-websites.htm)
 - [![](assets/icons/flags/tr-TR16.png) Samsun Haber Hatti](https://www.samsunhaberhatti.com/haber/hangi-site-bilgilerinizi-depoluyor/202824)
 - [![](assets/icons/flags/sr16.png) Mondo](https://mondo.rs/MobIT/Tips-and-tricks/a1421782/kako-obrisati-profil-drustvene-mreze-facebook-twitter-amazon-whatsapp-problem-instagram.html)
+- [![](assets/icons/flags/en-GB16.png) Digital Information World](https://www.digitalinformationworld.com/2021/01/justgetmydata-provides-users-with.html#)
 
 
 ## License
