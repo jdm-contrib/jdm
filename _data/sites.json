@@ -8540,21 +8540,21 @@
     },
 
     {
+        "name": "Tokopedia",
+        "url": "https://www.tokopedia.com",
+        "difficulty": "impossible",
+        "domains": [
+            "tokopedia.com"
+        ]
+    },
+
+    {
         "name": "Too Good To Go",
         "url": "https://space.toogoodtogo.com/privacy",
         "difficulty": "easy",
         "notes": "Click on Delete your account, enter your email. Then click on the confirmation link in the email. Alternatively, you can delete your account in the app settings.",
         "domains": [
             "toogoodtogo.com"
-        ]
-    },
-
-    {
-        "name": "Tokopedia",
-        "url": "https://www.tokopedia.com",
-        "difficulty": "impossible",
-        "domains": [
-            "tokopedia.com"
         ]
     },
 
