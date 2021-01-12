@@ -65,6 +65,12 @@
     "notes_cz": "Depending on your area you must follow the instructions shown in https://www.alibabagroup.com/en/contact/law_e_commerce?spm=a271m.8038972.0.0.5a916d82MwfIzm'"
 },
     {
+    "name": "Huawei",
+    "url": "https://consumer.huawei.com/en/support/content/en-us00746223/",
+    "difficulty": "medium",
+    "notes_en": "Log in to your HUAWEI ID and then click Privacy Centre > Request Your Data. When you request a copy of your data, Huawei will prepare the data you have requested. After the data is ready, you can download it to your device. The data will be available for download for 21 days. If you need to download the data after the expiry date, you need to submit a new request.",
+},
+    {
     "name": "Taobao",
     "url": "https://taobao.com",
     "difficulty": "hard",
