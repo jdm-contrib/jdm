@@ -46,7 +46,7 @@
     "meta": "popular",
     "url": "https://support.snapchat.com/en-US/a/download-my-data",
     "difficulty": "easy",
-    "notes_en": "Log into your account on accounts.snapchat.com, click \"My Data\", once you submit your request, Snapchat send you a download link via email to the verified email address associated with your account."
+    "notes_en": "Log into your account on accounts.snapchat.com and click on \"My Data\". Once you submit your request, Snapchat will send you a download link via email to the verified email address associated with your account."
 },
     {
     "name": "1688",
@@ -68,7 +68,7 @@
     "name": "Huawei",
     "url": "https://consumer.huawei.com/en/support/content/en-us00746223/",
     "difficulty": "medium",
-    "notes_en": "Log in to your HUAWEI ID and then click Privacy Centre > Request Your Data. When you request a copy of your data, Huawei will prepare the data you have requested. After the data is ready, you can download it to your device. The data will be available for download for 21 days. If you need to download the data after the expiry date, you need to submit a new request."
+    "notes_en": "Log in to your HUAWEI ID and then click Privacy Centre > Request Your Data. When you request a copy of your data, Huawei will prepare the data you have requested. After the data is ready, you can download it to your device and will be available for 21 days. If you need to download the data after the expiry date, you need to submit a new request."
 },
     {
     "name": "Taobao",
@@ -132,9 +132,9 @@
     "name": "Instagram",
     "url": "https://www.instagram.com/download/request/",
     "difficulty": "medium",
-    "notes_en": "Select to obtain the data and later it asks for your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours.",
-    "notes_es": "Selecciona obtener los datos y posteriormente te pide el correo y la contraseña. Una vez hecho, espera a que llegue un mensaje dentro del correo. AVISO: solo se puede hacer una solicitud de datos cada 48 horas",
-    "notes_cz": "Select to obtain the data and later it asks for your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours."
+    "notes_en": "Select 'Obtain the data' and fill in your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours.",
+    "notes_es": "Selecciona 'Obtener los datos' y rellena tu email y contraseña. Una vez hecho, espera a que llegue un mensaje dentro del correo. AVISO: solo se puede hacer una solicitud de datos cada 48 horas",
+    "notes_cz": "Select 'Obtain the data' and fill in your email and password. Once done, wait for a message to arrive in the mail. WARNING: you can only do a data request once every 48 hours."
 },
     {
     "name": "Linkedin",
@@ -156,9 +156,9 @@
     "name": "Microsoft",
     "url": "https://microsoft.com/",
     "difficulty": "hard",
-    "notes_en": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form.",
-    "notes_es": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form.",
-    "notes_cz": "Not all personal data processed by Microsoft can be accessed or controlled using the tools above. If you want to access or control personal data processed by Microsoft, that the above tools are not available or directly through the Microsoft products you use, you can always contact Microsoft at the address in the section How to contact us or using our web form."
+    "notes_en": "Not all personal data can be accessed using the tools above. If you want to access all the data it is needed to contact them using 'How to contact with us' or using their web form..",
+    "notes_es": "No todos los datos personales se pueden acceder a través de las herramientas enlazadas. Si quieres acceder a todos los datos que posee Microsoft es necesario contactar con ellos utilizando 'Contactar con nosotros'.",
+    "notes_cz": "Not all personal data can be accessed using the tools above. If you want to access all the data it is needed to contact them using 'How to contact with us' or using their web form.."
 },
 {
     "name": "MSI",
@@ -236,9 +236,9 @@
     "name": "PornHub",
     "url": "https://pornhub.com/information/privacy",
     "difficulty": "medium",
-    "notes_en": "Go to the url provided above and click on the button 'Request a copy of my personal data', at the bottom of the page. They will send you and email to confirm the email address where they will send your data and another to verify your username and password. You will receive your data in about 24 hours.",
+    "notes_en": "Go to the url provided above and click on the button 'Request a copy of my personal data', at the bottom of the page. They will send you an email to confirm the email address where they will send your data and another to verify your username and password. You will receive your data in about 24 hours.",
     "notes_es": "Entra en la dirección indicada arriba y haz click en el botón 'Request a copy of my personal data', al final de la página. Te enviarán un email para confirmar la dirección de correo electrónico donde se enviarán los datos y otro para confirmar tu usuario y contraseña. En un periodo de aproximadamente 24 horas recibiras tus datos.",
-    "notes_cz": "Go to the url provided above and click on the button 'Request a copy of my personal data', at the bottom of the page. They will send you and email to confirm the email address where they will send your data and another to verify your username and password. You will receive your data in about 24 hours."
+    "notes_cz": "Go to the url provided above and click on the button 'Request a copy of my personal data', at the bottom of the page. They will send you an email to confirm the email address where they will send your data and another to verify your username and password. You will receive your data in about 24 hours."
 },
 {
     "name": "Facebook",
@@ -262,17 +262,17 @@
     "name": "ING",
     "url": "https://www.ing.com/Privacy-Statement.htm",
     "difficulty": "hard",
-    "notes_en": "Go to the url provided above and in section 9 'Contact and questions', you must find the email address associated with your country. You will have to send an email to the corresponding address, stating that you want to obtain a copy of your personal data. You must provide your name, address and ID.",
+    "notes_en": "Go to the url provided above and in section 9, 'Contact and questions', you must find the email address associated with your country. You will have to send an email to the corresponding address, stating that you want to obtain a copy of your personal data. You must provide your name, address and ID.",
     "notes_es": "Entra en la dirección indicada arriba y en la sección 9 'Contacto y preguntas', debes buscar la dirección de email asociada a tu país. Tienes que enviar un correo a la dirección correspondiente, indicando que quieres obtener una copia de tus datos personales. Debes aportar tu nombre, dirección y DNI.",
-    "notes_cz": "Go to the url provided above and in section 9 'Contact and questions', you must find the email address associated with your country. You will have to send an email to the corresponding address, stating that you want to obtain a copy of your personal data. You must provide your name, address and ID."
+    "notes_cz": "Go to the url provided above and in section 9, 'Contact and questions', you must find the email address associated with your country. You will have to send an email to the corresponding address, stating that you want to obtain a copy of your personal data. You must provide your name, address and ID."
 },
 {
     "name": "BBVA",
     "url": "https://web.bbva.es/index.html?v=12.3.22#areapersonal/menu/privacidadydatos",
     "difficulty": "easy",
-    "notes_en": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page.",
-    "notes_es": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page.",
-    "notes_cz": "On 'My profile' section, click on 'Security and privacy'. It will aperance a new page, you must to access to 'Privacity and Data' and click on 'Get Portability'. Just only need to keep wait for a file with your data in the same page."
+    "notes_en": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacity and Data', click on 'Get Portability' and wait until it's done.",
+    "notes_es": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacity and Data', click on 'Get Portability' and wait until it's done.",
+    "notes_cz": "On 'My profile' section, click on 'Security and privacy'. Go to 'Privacity and Data', click on 'Get Portability' and wait until it's done.",
 },
 {
     "name": "Booking",
