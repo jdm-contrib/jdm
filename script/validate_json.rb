@@ -27,7 +27,7 @@ SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy",
                         "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits",
                         "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible",
                         "guidemedium", "hideinfo", "link_jdm", "mikerogers", "name", "noinfo", "noresults", "noresultshelp",
-                        "popular", "pullrequest", "reset", "sendmail", "showinfo", "tagline", "title", "twitter", "whatisthis",
+                        "popular", "pullrequest", "reset", "sendmail", "showinfo", "tagline", "title", "translate","twitter", "whatisthis",
                         "whatisthis1", "whatisthis2", "whatisthis3", "whatisthis4"]
 
 def get_supported_languages()
