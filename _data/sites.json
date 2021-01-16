@@ -221,8 +221,18 @@
 },
 {
     "name": "Wikipedia",
-    "url": "https://www.wikipedia.org/",
-    "difficulty": "impossible"
+    "url": "https://en.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
+    "url_es": "https://es.wikipedia.org/w/api.php?action=query&meta=userinfo&uiprop=email%7Cregistrationdate%7Crights%7Cgroups%7Coptions%7Ceditcount%7Clatestcontrib",
+    "difficulty": "easy",
+    "notes_en": "Everything is accesible through an API link. For other wikipedias, you can change the language changing the url.",
+    "notes_es": "Toda tu información está accesible la API. Puedes cambiar el idioma de Wikipedia cambiando la url."
+},
+{
+    "name": "Wikimedia",
+    "url": "https://www.mediawiki.org/wiki/API:Userinfo",
+    "difficulty": "hard",
+    "notes_en": "Wikipedia's data access is easy, but other data from Wikimedia like donation history can only be retrieved through email to privacy@wikimedia.org",
+    "notes_es": "Acceder a tu información de Wikipedia es fácil, pero acceder a otros datos de la fundación Wikimedia, como el historial de donaciones, sólo puede hacerse mediante correo a privacy@wikimedia.org"
 },
 {
     "name": "Board Game Geek",
