@@ -9401,6 +9401,16 @@
     },
 
     {
+        "name": "Wish",
+        "url": "https://www.wish.com/settings/account",
+        "difficulty": "medium",
+        "notes": "You will have to edit your 'Country' in the profile to be a country covered by e.g. GDPR (for example, France). Otherwise, you will not see the 'Permanently delete account' option when you click on 'Manage Account' (you will only see 'Deactivate account').",
+        "domains": [
+            "wish.com"
+        ]
+    },
+
+    {
         "name": "WishSimply",
         "url": "https://wishsimply.com",
         "difficulty": "easy",
