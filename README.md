@@ -62,7 +62,7 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 - [![](assets/icons/flags/fr-FR16.png) Les Numeriques](https://www.lesnumeriques.com/vie-du-net/justgetmydata-le-site-qui-vous-aide-a-recuperer-une-copie-de-vos-donnees-personnelles-n159037.html)
 - [![](assets/icons/flags/en-US16.png) Aroged](https://www.aroged.com/2021/01/10/justgetmydata-the-site-that-helps-you-get-a-copy-of-your-personal-data/)
 - [![](assets/icons/flags/he-IL16.png) אלכסון](https://alaxon.co.il/fomo/%D7%9E%D7%94-%D7%99%D7%95%D7%93%D7%A2%D7%99%D7%9D-%D7%A2%D7%9C%D7%99%D7%A0%D7%95/)
-- [![](assets/icons/flags/en-US16.png)_techgamingreport (English)](https://www.techgamingreport.com/justgetmydata-the-web-site-that-aids-you-receive-a-duplicate-of-your-private-details/)
+- [![](assets/icons/flags/en-US16.png)Tech Gaming Report](https://www.techgamingreport.com/justgetmydata-the-web-site-that-aids-you-receive-a-duplicate-of-your-private-details/)
 - [![](assets/icons/flags/en-US16.png) Tech Times](https://www.techtimes.com/articles/255795/20210111/data-privacy-protection-see-what-websites.htm)
 - [![](assets/icons/flags/tr-TR16.png) Samsun Haber Hatti](https://www.samsunhaberhatti.com/haber/hangi-site-bilgilerinizi-depoluyor/202824)
 - [![](assets/icons/flags/sr16.png) Mondo](https://mondo.rs/MobIT/Tips-and-tricks/a1421782/kako-obrisati-profil-drustvene-mreze-facebook-twitter-amazon-whatsapp-problem-instagram.html)
@@ -73,7 +73,7 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 
 Licensed under the MIT License (MIT). See `LICENSE`.
 
-Country Flag Icons Copyright (c) 2017 Go Squared Ltd. http://www.gosquared.com/
+Country Flag Icons Copyright (c) 2017 Go Squared Ltd. https://www.gosquared.com/resources/flag-icons/
 
 DevCenter.me Copyright (c) 2013 Steve Streza
 
