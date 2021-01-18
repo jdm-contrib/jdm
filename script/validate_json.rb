@@ -24,7 +24,7 @@ SupportedDifficulties = ["easy", "medium", "hard", "impossible"]
 SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy", "difficulty_hard", "difficulty_impossible",
                         "difficulty_medium", "extension", "extensionguide", "extensionp1", "extensionp2",
-                        "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits",
+                        "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits", "footerlicense",
                         "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible",
                         "guidemedium", "hideinfo", "link_jdm", "mikerogers", "name", "noinfo", "noresults", "noresultshelp",
                         "popular", "pullrequest", "reset", "sendmail", "showinfo", "tagline", "title", "translate","twitter", "whatisthis",
