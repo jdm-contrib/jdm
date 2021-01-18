@@ -373,13 +373,6 @@
     "notes_es": "Entra en la dirección indicada arriba y haz click en 'Haz clic aquí para solicitar acceso a los datos personales' y rellena un formulario o envía un email a compliance@mozilla.com."
 },
 {
-    "name": "eBay",
-    "url": "https://www.ebayinc.com/company/privacy-center/privacy-contact/",
-    "difficulty": "easy",
-    "notes_en": "Go to the 'Account' tab in your eBay account and under 'Personal information and privacy', select 'Request your eBay data'.",
-    "notes_es": "Ve a la pestaña 'Cuenta' en tu cuenta de eBay y en 'Datos personales y privacidad', selecciona 'Solicita tus datos de eBay'."
-},
-{
     "name": "Craigslist",
     "url": "https://www.craigslist.org/about/privacy.policy",
     "difficulty": "hard",
