@@ -320,18 +320,70 @@
     "name": "Adobe",
     "url": "https://www.adobe.com/privacy/privacy-contact.html#form",
     "difficulty": "hard",
-    "notes_en": "Go to the URL provided above and submit a request."
+    "notes_en": "Go to the URL provided above and submit a request.",
+    "notes_es": "Entra en la dirección indicada arriba y rellena el formulario."
 },
 {
     "name": "Twitch",
     "url": "https://www.twitch.tv/p/legal/privacy-notice/",
     "difficulty": "hard",
-    "notes_en": "Send an email to privacy@twitch.tv and include your email address, name, address, and telephone number and specify all relevant background"
+    "notes_en": "Send an email to privacy@twitch.tv and include your name, address, telephone number and all relevant background.",
+    "notes_es": "Envía un email a privacy@twitch.tv incluyendo tu nombre, dirección, número de telefono y otros datos relevantes."
 },
 {
     "name": "Spacehey",
     "url": "https://spacehey.com/settings",
     "difficulty": "medium",
-    "notes_en": "Go to the URL provided above and click on, 'Please send us an email'."
+    "notes_en": "Go to the URL provided above and click on, 'Please send us an email'.",
+    "notes_es": "Entra en la dirección indicada arriba y haz click en, 'Please send us an email'."
+},
+{
+    "name": "Badoo",
+    "url": "https://badoo.com/feedback",
+    "difficulty": "hard",
+    "notes_en": "Go to the url provided above and submit a request, picking 'General question' as subject, or send an email to DPO@corp.badoo.com.",
+    "notes_es": "Entra en la dirección indicada arriba y envía una solicitud, selecionando como asunto 'Pregunta general', o envía un email a DPO@corp.badoo.com."
+},
+{
+    "name": "Zoom",
+    "url": "https://zoom.us/gdpr",
+    "difficulty": "hard",
+    "notes_en": "Send an email requesting a copy of your data to privacy@zoom.us.",
+    "notes_es": "Envía un email pidiendo una copia de tus datos a privacy@zoom.us."
+},
+{
+    "name": "Spotify",
+    "url": "https://www.spotify.com/us/account/privacy/",
+    "difficulty": "easy",
+    "notes_en": "You have to log into your Spotify account, go to 'Profile > Account > Privacy settings' and follow the steps at the bottom of the page.",
+    "notes_es": "Tienes que iniciar sesión en tu cuenta de Spotify, ir a 'Perfil > Cuenta > Ajustes de privacidad' y seguir los pasos al final de la página."
+},
+{
+    "name": "Tiktok",
+    "url": "https://www.tiktok.com/legal/report/privacy",
+    "difficulty": "medium",
+    "notes_en": "Go to the form provided in the url above and fill it selecting the option 'Request information or an action regarding the account data'.",
+    "notes_es": "Ve al formulario indicado en la dirección superior y rellénalo seleccionando la opción 'Solicitar información o una acción relativa a los datos de la cuenta'."
+},
+{
+    "name": "Mozilla",
+    "url": "https://www.mozilla.org/privacy/#contact",
+    "difficulty": "medium",
+    "notes_en": "Go to the url provided abobe and click on 'See here for Data Subject Access Requests' and fill a form or send an email to compliance@mozilla.com.",
+    "notes_es": "Entra en la dirección indicada arriba y haz click en 'Haz clic aquí para solicitar acceso a los datos personales' y rellena un formulario o envía un email a compliance@mozilla.com."
+},
+{
+    "name": "eBay",
+    "url": "https://www.ebayinc.com/company/privacy-center/privacy-contact/",
+    "difficulty": "easy",
+    "notes_en": "Go to the 'Account' tab in your eBay account and under 'Personal information and privacy', select 'Request your eBay data'.",
+    "notes_es": "Ve a la pestaña 'Cuenta' en tu cuenta de eBay y en 'Datos personales y privacidad', selecciona 'Solicita tus datos de eBay'."
+},
+{
+    "name": "Craigslist",
+    "url": "https://www.craigslist.org/about/privacy.policy",
+    "difficulty": "hard",
+    "notes_en": "Send an email requesting a copy of your data to privacy@craigslist.org.",
+    "notes_es": "Envía un email pidiendo una copia de tus datos a privacy@craigslist.org."
 }
 ]
