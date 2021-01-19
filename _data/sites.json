@@ -6219,6 +6219,16 @@
     },
 
     {
+        "name": "Octopus",
+        "url": "https://octopus.do/sitemap/support/help",
+        "difficulty": "easy",
+        "notes": "Hit the button with the user icon in the top-right. Navigate to the 'Settings' tab and pick 'Delete my account'.",
+        "domains": [
+            "octopus.do"
+        ]
+    },
+
+    {
         "name": "Odnoklassniki",
         "url": "https://odnoklassniki.ru/regulations",
         "difficulty": "easy",
