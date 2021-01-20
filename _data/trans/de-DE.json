@@ -1,7 +1,7 @@
 {
     "about": "Über",
     "contribute": "Auf GitHub beitragen",
-    "difficulty": "Schwierigkeit",
+    "difficulty": "Schwierigkeitsgrad",
     "difficulty_easy": "einfach",
     "difficulty_hard": "schwer",
     "difficulty_impossible": "unmöglich",
@@ -24,7 +24,7 @@
     "hideinfo": "Informationen ausblenden...",
     "link_jdm": "Besuchen Sie JustDeleteMe",
     "mikerogers": "Mike Rogers",
-    "name": "Deutsche",
+    "name": "Englisch",
     "noinfo": "Weitere Informationen nicht vorhanden",
     "noresults": "Finden Sie nicht, wonach Sie suchen?",
     "noresultshelp": "Hilf mit, JustGetMyData zu verbessern",
