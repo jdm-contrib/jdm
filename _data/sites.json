@@ -190,6 +190,16 @@
     },
 
     {
+        "name": "AdvCash",
+        "url": "https://wallet.advcash.com/pages/profile#",
+        "difficulty": "easy",
+        "notes": "Go to the profile page and click the button to delete account",
+        "domains": [
+            "advcash.com"
+        ]
+    },
+
+    {
         "name": "Airbnb",
         "url": "https://www.airbnb.com/help/article/240/how-do-i-cancel-my-account",
         "difficulty": "hard",
