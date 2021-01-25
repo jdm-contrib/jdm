@@ -3,3 +3,4 @@ collections:
   pages:
     output: true
     permalink: /:categories/:title:output_ext
+destination: ./build
