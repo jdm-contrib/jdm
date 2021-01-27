@@ -67,6 +67,7 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 - [![](assets/icons/flags/tr-TR16.png) Samsun Haber Hatti](https://www.samsunhaberhatti.com/haber/hangi-site-bilgilerinizi-depoluyor/202824)
 - [![](assets/icons/flags/sr16.png) Mondo](https://mondo.rs/MobIT/Tips-and-tricks/a1421782/kako-obrisati-profil-drustvene-mreze-facebook-twitter-amazon-whatsapp-problem-instagram.html)
 - [![](assets/icons/flags/en-GB16.png) Digital Information World](https://www.digitalinformationworld.com/2021/01/justgetmydata-provides-users-with.html#)
+- [![](assets/icons/flags/en-US16.png) fourstateshomepage.com](https://www.fourstateshomepage.com/news/justgetmydata-com-shows-site-where-personal-information-may-be-listed/)
 
 
 ## License
