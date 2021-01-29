@@ -170,6 +170,16 @@
     },
 
     {
+        "name": "ActiveCampaign",
+        "url": "https://ac.activehosted.com/f/2175",
+        "difficulty": "hard",
+        "notes": "For account deletion requests or requests to remove all account information, submit the <a href='https://ac.activehosted.com/f/2175'>Data Subject Rights Request form</a>. When asked \"What would you like to initiate with us?\" choose the option <b>I want to be forgotten, and want my personal data erased</b> in .",
+        "domains": [
+            "activehosted.com"
+        ]
+    },
+
+    {
         "name": "Adfly",
         "url": "https://support.adf.ly/hc/en-us/requests/new",
         "difficulty": "hard",
