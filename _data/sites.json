@@ -7616,10 +7616,9 @@
     },
     {
         "name": "Shutterstock",
-        "url": "https://submit.shutterstock.com/privacy.mhtml",
-        "difficulty": "hard",
-        "notes": "If you wish to delete your account or request that they no longer use your information to provide you services, send them an e-mail.",
-        "email": "privacy@shutterstock.com",
+        "url": "https://www.shutterstock.com/account/profile",
+        "difficulty": "easy",
+        "notes": "Go to your <a href='//www.shutterstock.com/account/profile'>account details</a> and press <a href='//accounts.shutterstock.com/remove'>Delete my account</a> and confirm.",
         "domains": [
             "shutterstock.com"
         ],
