@@ -8315,7 +8315,6 @@
         "url": "https://www.shutterstock.com/account/profile",
         "difficulty": "easy",
         "notes": "Go to your <a href='//www.shutterstock.com/account/profile'>account details</a> and press <a href='//accounts.shutterstock.com/remove'>Delete my account</a> and confirm.",
-        "notes_tr": "Hesabınızı silmek isterseniz veya size hizmet sağlamak için artık bilgilerinizi kullanmamalarını talep ederseniz, onlara bir e-posta gönderin.",
         "domains": [
             "shutterstock.com"
         ]
