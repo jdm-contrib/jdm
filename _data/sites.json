@@ -4915,6 +4915,18 @@
     },
 
     {
+        "name": "Keeper",
+        "url": "https://www.keepersecurity.com/privacypolicy.html?t=v#:~:text=You%20may%20deactivate%20your%20Keeper%20Security%20account%20and%20delete%20your%20personally%20identifiable%20information%20at%20any%20time%20by%20contacting%20us%20at%20support%40keepersecurity.com%20clearly%20indicating%20that%20you%20wish%20to%20deactivate%20and%20delete%20such%20information.",
+        "email": "support@keepersecurity.com",
+        "difficulty": "hard",
+        "notes": "You may deactivate your Keeper Security account and delete your personally identifiable information at any time by contacting their support at support@keepersecurity.com clearly indicating that you wish to delete your account.",
+        "domains": [
+            "keeper.io",
+            "keepersecurity.com"
+        ]
+    },
+
+    {
         "name": "Keybase.io",
         "url": "https://keybase.io/account/delete_me",
         "difficulty": "easy",
