@@ -9101,6 +9101,16 @@
     },
 
     {
+        "name": "Textures.com",
+        "url": "https://www.textures.com/my-account/delete",
+        "difficulty": "easy",
+        "notes": "If you want to permanently delete your Textures.com account, go to the <a href='https://www.textures.com/my-account/delete'><b>Delete Account</b> tab on your account</a> fill out your password and press <b>Delete My Account</b>.",
+        "domains": [
+            "textures.com"
+        ]
+    },
+
+    {
         "name": "Things",
         "url": "https://support.culturedcode.com/customer/en/portal/articles/2803591-deleting-your-account-data",
         "difficulty": "easy",
