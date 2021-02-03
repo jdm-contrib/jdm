@@ -6501,11 +6501,10 @@
     },
 
     {
-        "name": "Nexus mods",
-        "url": "https://www.nexusmods.com",
-        "difficulty": "impossible",
-        "notes": "Accounts can only be closed, but not deleted.",
-        "notes_tr": "Hesap yalnızca kapatılabilir, ancak tamamen silinemez.",
+        "name": "Nexus Mods",
+        "url": "https://help.nexusmods.com/article/25-how-do-i-delete-my-account",
+        "difficulty": "easy",
+        "notes": "Accounts can be deleted by following the instructions on the link",
         "domains": [
             "nexusmods.com"
         ]
