@@ -9517,6 +9517,16 @@
     },
 
     {
+        "name": "Ubisoft",
+        "url": "https://account.ubisoft.com/en-US/account-information/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "ubisoft.com",
+            "ubi.com"
+        ]
+    },
+
+    {
         "name": "Ubuntu One",
         "url": "https://login.ubuntu.com/+faq#can-i-delete-my-ubuntu-one-account",
         "difficulty": "hard",
