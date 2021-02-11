@@ -550,8 +550,11 @@
 
     {
         "name": "ara.cat",
-        "url": "https://www.ara.cat/usuari/perfil/baixa.html",
-        "difficulty": "easy",
+        "url": "https://www.ara.cat/",
+        "email": "home@ara.cat",
+        "email_subject": "Delete ARA account",
+        "email_body": "Please delete my ARA account which was registered under the e-mail:",
+        "difficulty": "hard",
         "domains": [
             "ara.cat"
         ]
