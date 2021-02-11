@@ -2221,18 +2221,6 @@
     },
 
     {
-        "name": "Desk.com",
-        "url": "https://desk.com",
-        "difficulty": "hard",
-        "email": "support@desk.com",
-        "notes": "Required to send e-mail, but it is quickly responded.",
-        "notes_tr": "E-posta göndermeniz gerekir, ancak hızlıca cevaplanıyorlar.",
-        "domains": [
-            "desk.com"
-        ]
-    },
-
-    {
         "name": "DEV",
         "url": "https://dev.to/settings/account",
         "difficulty": "easy",
