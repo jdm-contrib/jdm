@@ -4394,6 +4394,17 @@
     },
 
     {
+        "name": "Houzz",
+        "url": "https://help.houzz.com/s/article/How-do-I-delete-my-account",
+        "difficulty": "hard",
+        "notes": "Your Houzz > Edit Profile and Settings > Advanced Settings > Deactivate Houzz Account (at the bottom of the page)",
+        "email": "EUprivacy@houzz.com",
+        "domains": [
+            "houzz.com"
+        ]
+    },
+
+    {
         "name": "HP",
         "url": "https://www8.hp.com/us/en/privacy/ww-privacy-form.html",
         "difficulty": "hard",
