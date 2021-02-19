@@ -1123,6 +1123,16 @@
     },
 
     {
+        "name": "Bohemia Interactive",
+        "url": "https://support.bohemia.net/",
+        "difficulty": "hard",
+        "notes": "Submit a support ticket to them at the URL and they will send you an email asking to confirm after which the account will be deleted.",
+        "domains": [
+            "bohemia.net"
+        ]
+    },
+
+    {
         "name": "BookBub",
         "url": "https://www.bookbub.com/contact/new",
         "difficulty": "hard",
@@ -8039,6 +8049,16 @@
         "notes_tr": "Hesap silmek mümkün değildir. 'Şu anda oyuncuların hesaplarını silme özelliğine sahip değiliz. Artık hesabınızda oynamak istemiyorsanız, siz tekrar oynamaya hazır olana kadar devre dışı kalacaktır. '",
         "domains": [
             "www.roblox.com"
+        ]
+    },
+
+    {
+        "name": "Rockstar Games Social Club",
+        "url": "https://support.rockstargames.com/account/",
+        "difficulty": "hard",
+        "notes": "Click on the delete account and information button on the support page to submit a ticket. They will then email you asking you to confirm a few details of your account which you have to reply to, after that the account will be deleted.",
+        "domains": [
+            "rockstargames.com"
         ]
     },
 
