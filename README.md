@@ -13,7 +13,7 @@ validated using a mixture of Ruby and Node.js packages and scripts.
 
 **Dependencies:**
 
-- [Ruby](https://www.ruby-lang.org) (>=2.6.6)
+- [Ruby](https://www.ruby-lang.org) (>=2.7.2)
 - [Node.js](https://nodejs.org)
 
 **Installation**
