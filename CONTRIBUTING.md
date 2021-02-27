@@ -10,7 +10,7 @@ The sites, urls and additional notes are stored in `_data/sites.json`. If you wa
     - `medium`: Sites that do allow account deletion but require you to perform additional steps
     - `hard`: Sites that require you to contact customer services or those that don't allow automatic or easy account deletion
     - `impossible`: For sites where it's basically impossible to totally delete your account, even if you contact them
-- `notes`: *(optional)* Notes will be shown when someone hovers on that service. Notes may include additional information you might need to delete your account (e.g. Skype) or consequences of deleting your account (e.g. iTunes).
+- `notes`: *(optional)* Notes will be shown when someone hovers on that service. Notes may include additional information you might need to delete your account (e.g. Skype) or consequences of deleting your account (e.g. iTunes). If you are drastically changing existing notes, do delete its translations, unless you have proficiency in one or more of them.
 - `notes_CODE`: *(optional)* Use the language `CODE` as suffix of the `notes` field to provide language-specific instructions, shown on the respective language page.
 - `email`: *(optional)* If you have to send an email to a company to cancel your account, add the email address here. We'll do the rest.
 - `email_subject`: *(optional)* Set the subject for the email link. If unset, the default text is "Account Deletion Request".
