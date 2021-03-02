@@ -3074,6 +3074,16 @@
     },
 
     {
+        "name": "Experian UK",
+        "url": "https://prodmove.experian.co.uk/",
+        "difficulty": "easy",
+        "notes": "Head to 'Your Subscriptions' and click the 'Close your Experian Account' button. This will cancel any subscriptions and closes your account.",
+        "domains": [
+            "experian.co.uk"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
@@ -6083,6 +6093,16 @@
         "email": "support@moneydashboard.com",
         "domains": [
             "moneydashboard.com"
+        ]
+    },
+
+    {
+        "name": "Money Saving Expert",
+        "url": "https://clubs.moneysavingexpert.com/cheapenergyclub/my-account",
+        "difficulty": "easy",
+        "notes": "Just login to your account, select 'My Account', scroll to the bottom, select 'Settings' and click 'Close Account'",
+        "domains": [
+            "moneysavingexpert.com"
         ]
     },
 
