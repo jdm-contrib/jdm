@@ -3074,6 +3074,16 @@
     },
 
     {
+        "name": "Experian UK",
+        "url": "https://prodmove.experian.co.uk/",
+        "difficulty": "easy",
+        "notes": "Head to 'Your Subscriptions' and click the 'Close your Experian Account' button. This will cancel any subscriptions and closes your account.",
+        "domains": [
+            "experian.co.uk"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
