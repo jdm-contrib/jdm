@@ -9688,6 +9688,16 @@
     },
 
     {
+        "name": "Uphold",
+        "url": "https://support.uphold.com/hc/en-us/articles/360043652251-How-to-close-your-account-and-delete-your-data",
+        "difficulty": "hard",
+        "notes": "To close your account, you must withdraw all funds. Next, contact Uphold support using their online support request form. They will then send you a response email with more information/instructions.",
+        "domains": [
+            "uphold.com"
+        ]
+    },
+
+    {
         "name": "UPS",
         "url": "https://www.ups.com/myups/deletereg",
         "difficulty": "easy",
