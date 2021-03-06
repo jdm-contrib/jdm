@@ -4324,8 +4324,9 @@
 
     {
         "name": "Hi-Rez Studios",
-        "url": "http://hirezstudios.force.com/support/articles/en_US/Knowledge/Removing-Your-Account/",
-        "difficulty": "impossible",
+        "url": "https://my.hirezstudios.com/security",
+        "difficulty": "hard",
+        "notes": "Go to the link provided, make sure the email address is verified and on the Security Tab click \"CLICK HERE TO REQUEST AN ACCOUNT DELETION OR MAKE AN ACCOUNT DATA REQUEST\" and follow the steps on the screen.",
         "domains": [
             "hirezstudios.com"
         ]
