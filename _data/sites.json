@@ -5989,24 +5989,13 @@
             "live.com"
         ]
     },
-
+    
     {
         "name": "Microsoft Office 365",
         "url": "https://office.com/myaccount",
         "difficulty": "easy",
         "domains": [
             "office.com"
-        ]
-    },
-
-    {
-        "name": "Mint",
-        "url": "https://mint.com",
-        "difficulty": "easy",
-        "notes": "Go to 'Settings', then 'Sign In & Security', then scroll down to 'Delete your Mint account'. Enter your email and password again and click 'Delete'.",
-        "notes_tr": "\"Ayarlar\" sayfasına girin ve ardından \"Giriş & Güvenlik\" kısmına girin. Aşağı kaydırın ve \"Mint hesabınızı silin\" tuşuna tıklayın. E-posta adresinizi ve şifrenizi girin, ardından \"Sil\" tuşuna tıklayın.",
-        "domains": [
-            "mint.com"
         ]
     },
     
@@ -6018,7 +6007,18 @@
             "mindmeister.com"
         ]
     },
-
+    
+    {
+        "name": "Mint",
+        "url": "https://mint.com",
+        "difficulty": "easy",
+        "notes": "Go to 'Settings', then 'Sign In & Security', then scroll down to 'Delete your Mint account'. Enter your email and password again and click 'Delete'.",
+        "notes_tr": "\"Ayarlar\" sayfasına girin ve ardından \"Giriş & Güvenlik\" kısmına girin. Aşağı kaydırın ve \"Mint hesabınızı silin\" tuşuna tıklayın. E-posta adresinizi ve şifrenizi girin, ardından \"Sil\" tuşuna tıklayın.",
+        "domains": [
+            "mint.com"
+        ]
+    },
+    
     {
         "name": "MisterWong",
         "url": "https://www.mister-wong.de",
