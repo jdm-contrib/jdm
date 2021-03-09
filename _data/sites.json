@@ -3935,6 +3935,17 @@
     },
 
     {
+        "name": "Gorila",
+        "url": "https://app.gorila.com.br/app/configuracoes-da-conta/pessoal/preferencias",
+        "difficulty": "easy",
+        "notes": "Login, go to your account configuration and click delete account",
+        "notes_pt_br": "Faça o login, vá para as configurações da sua conta e clique em excluir conta",
+        "domains": [
+            "gorila.com.br"
+        ]
+    },
+
+    {
         "name": "GoSquared",
         "url": "https://www.gosquared.com/home/account/close",
         "difficulty": "easy",
