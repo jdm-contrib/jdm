@@ -6000,6 +6000,15 @@
     },
 
     {
+        "name": "MindMeister",
+        "url": "https://www.mindmeister.com/account/close",
+        "difficulty": "easy",
+        "domains": [
+            "mindmeister.com"
+        ]
+    },
+
+    {
         "name": "Mint",
         "url": "https://mint.com",
         "difficulty": "easy",
