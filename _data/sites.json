@@ -6321,6 +6321,17 @@
     },
 
     {
+        "name": "MyPlate",
+        "url": "https://livestrong.zendesk.com/hc/en-us/articles/205147450-How-do-I-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "Send a request to the customer service team, including your account username or email address.",
+        "domains": [
+            "livestrong.com",
+            "livestrong.zendesk.com"
+        ]
+    },
+
+    {
         "name": "MyScript",
         "url": "https://sso.myscript.com/v1/api/account/delete/request",
         "difficulty": "easy",
