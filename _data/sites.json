@@ -4990,7 +4990,7 @@
 
     {
         "name": "Kik",
-        "url": "https://help.kik.com/hc/en-us/articles/115006077428-Deactivate-your-account",
+        "url": "https://ws.kik.com/delete",
         "difficulty": "impossible",
         "notes": "You can only deactivate your account. There appears to be no way to permanently delete your account or data.",
         "notes_tr": "Yalnızca hesabınızı devre dışı bırakabilirsiniz. Hesabınızı veya verilerinizi kalıcı olarak silmenin bir yolu yok gibi görünüyor.",
