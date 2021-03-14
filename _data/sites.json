@@ -299,11 +299,9 @@
 
     {
         "name": "Alibaba",
-        "url": "https://www.alibaba.com/help/contact-us.html",
-        "difficulty": "hard",
-        "notes": "Despite what it says in their FAQ there is actually no automatic way to delete your account. But they do see to be happy to do it if you ask them - you can contact them via <a href=\"https://www.alibaba.com/help/contact-us.html\">their Contact Us page</a>.",
-        "notes_tr": "SSS'larında yazdıklarına rağmen, hesabınızı silmenin aslında otomatik bir yolu yoktur. Ancak onlara sorarsanız memnuniyetle hesabınızı silecekler. - Onlara, kendi sitelerindeki İletişim sayfasından iletişime geçebilirsiniz.",
-        "notes_fr": "Malgré la suggestion du FAQ, il n'y a pas au fait de façon automatique de supprimer votre compte. Cela dit, ils me semblent contents de le faire si vous le demandez - vous pouvez les contactez via <a href=\"https://www.alibaba.com/help/contact-us.html\">https://www.alibaba.com/help/contact-us.html</a>.",
+        "url": "https://accounts.alibaba.com/user/organization/manage_person_profile.htm",
+        "difficulty": "easy",
+        "notes": "To delete your account, go to \"My Account\" page, click on \"Member Profile\" and then, \"Deactivate Account\"",
         "domains": [
             "alibaba.com"
         ]
