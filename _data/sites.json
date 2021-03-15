@@ -9994,6 +9994,15 @@
     },
 
     {
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/settings",
+        "difficulty": "impossible",
+        "notes": "You can close your account by going to Login > Close Account. Note that this doesn't delete it nor anything related to it and trying to log back in reactivates it instantly",
+        "domains": [
+            "wattpad.com"
+        ]
+    },
+    {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
