@@ -9996,7 +9996,7 @@
     {
         "name": "Wattpad",
         "url": "https://www.wattpad.com/settings",
-        "difficulty": "easy",
+        "difficulty": "impossible",
         "notes": "Login > Close Account",
         "domains": [
             "wattpad.com"
