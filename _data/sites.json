@@ -9994,6 +9994,16 @@
     },
 
     {
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/settings",
+        "difficulty": "easy",
+        "notes": "Login > Close Account",
+        "domains": [
+            "wattpad.com"
+        ]
+    },
+    
+    {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
