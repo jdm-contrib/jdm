@@ -9997,7 +9997,7 @@
         "name": "Wattpad",
         "url": "https://www.wattpad.com/settings",
         "difficulty": "impossible",
-        "notes": "Login > Close Account",
+        "notes": "You can close your account by going to Login > Close Account. Note that this doesn't delete it nor anything related to it and trying to log back in reactivates it instantly",
         "domains": [
             "wattpad.com"
         ]
