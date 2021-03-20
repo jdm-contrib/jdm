@@ -1207,12 +1207,10 @@
 
     {
         "name": "Bring!",
-        "url": "https://getbring.com/#!/contact",
-        "difficulty": "hard",
-        "notes": "Contact support and ask for your account to be deleted.",
-        "notes_tr": "Destek ekibine başvurup, hesabınızı silmek istediğinizi söyleyin.",
-        "notes_de": "Kontaktiere den Support und fordere eine Löschung des Accounts an.",
-        "email": "feedback@getbring.com",
+        "url": "https://go.getbring.com/?link=https%3A%2F%2Fdeeplink.getbring.com%2Fview%2Fdeleteaccount&apn=ch.publisheria.bring&isi=580669177&ibi=ch.publisheria.bring",
+        "difficulty": "medium",
+        "notes": "Log in to the account you'd like to delete and click the link on the same device.",
+        "notes_de": "Um deinen Account endgültig zu löschen, melde dich mit dem Account an, den du löschen möchtest, und klicke den Link auf dem selben Gerät.",
         "domains": [
             "getbring.com"
         ]
