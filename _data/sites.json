@@ -8517,6 +8517,16 @@
     },
 
     {
+        "name": "SleeveYourGames",
+        "url": "https://www.sleeveyourgames.com/feedback",
+        "difficulty": "hard",
+        "notes": "Write on the FAQ requesting for deletion, they will reply asking which e-mail you used to sign-up, then you provide and it gets deleted.",
+        "domains": [
+            "sleeveyourgames.com"
+        ]
+    },
+
+    {
         "name": "Slideshare",
         "url": "https://www.linkedin.com/help/slideshare/answer/53671?query=delete%20account",
         "difficulty": "easy",
@@ -8524,16 +8534,6 @@
         "notes_tr": "SlideShare'de oturum açın, imlecinizi sağ üstteki fotoğrafınızın üzerine getirin ve \"Hesap Ayarları\" seçeneğini seçin, soldaki \"Şifreyi Değiştir\" sekmesini tıklayın, \"Hesabı Sil\" ve ardından \"Evet, hesabımı sil\" tuşuna tıklayarak şifrenizi girin ve silme için uygun nedenleri seçin. Son olarak \"Hesabı Sil\" öğesini tıklayın. Not: SlideShare hesabınızı LinkedIn aracılığıyla oluşturduysanız, LinkedIn hesabınızı kapatmanız gerekir.",
         "domains": [
             "slideshare.com"
-        ]
-    },
-
-    {
-        "name": "SleeveYourGames",
-        "url": "https://www.sleeveyourgames.com/feedback",
-        "difficulty": "hard",
-        "notes": "Write on the FAQ requesting for deletion, they will reply asking which e-mail you used to sign-up, then you provide and it gets deleted.",
-        "domains": [
-            "sleeveyourgames.com"
         ]
     },
 
