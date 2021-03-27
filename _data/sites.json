@@ -1656,6 +1656,17 @@
     },
 
     {
+        "name": "Club Penguin Rewritten",
+        "url": "https://cprewritten.net/help/",
+        "email": "privacy@cprewritten.net",
+        "difficulty": "impossible",
+        "notes": "There is no option on the website to delete, you can try emailing their privacy or support email but they never reply to either after months.",
+        "domains": [
+            "cprewritten.net"
+        ]
+    },
+
+    {
         "name": "CNET Download",
         "url": "https://cbsi.secure.force.com/CBSi/submitcase?template=template_cnet&referer=cnet.com&cfs=SFS_1",
         "difficulty": "hard",
