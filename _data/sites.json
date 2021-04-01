@@ -8928,6 +8928,16 @@
     },
 
     {
+        "name": "StreamYard",
+        "url": "https://streamyard.com/account/settings",
+        "difficulty": "easy",
+        "notes": "Click the delete account button, confirm and enter the 6-digit code sent to your e-mail to finalize",
+        "domains": [
+            "streamyard.com"
+        ]
+    },
+
+    {
         "name": "Stripe",
         "url": "https://dashboard.stripe.com/account/data",
         "difficulty": "easy",
