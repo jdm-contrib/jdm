@@ -29,7 +29,7 @@
         "url": "https://www.123rf.com/support/support-answer.php?id=8817",
         "difficulty": "hard",
         "notes": "The only way to delete an account is to send an e-mail to customer support agents.",
-        "notes_fr": "L’unique façon de supprimer un compte est d’envoyer un email au service client.",
+        "notes_fr": "L’unique façon de supprimer un compte esstret d’envoyer un email au service client.",
         "email": "frsales@123rf.com",
         "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX, I want my account to be deleted because of XXXXXX. I request and authorize you to remove my profile from 123rf.com and delete all my content with you. I wish to terminate the 123RF Contributor Agreement and agree to the Terms and Conditions as set in the Contributor Agreement for the termination process.",
         "domains": [
@@ -8924,6 +8924,16 @@
         "notes_tr": "Hesabınızı silmek için destek ile iletişime geçmelisiniz.",
         "domains": [
             "streamable.com"
+        ]
+    },
+
+    {
+        "name": "StreamYard",
+        "url": "https://streamyard.com/account/settings",
+        "difficulty": "easy",
+        "notes": "Click the delete account button, confirm and enter the 6-digit code sent to your e-mail to finalize",
+        "domains": [
+            "streamyard.com"
         ]
     },
 
