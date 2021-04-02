@@ -9614,6 +9614,16 @@
     },
 
     {
+        "name": "twoseven",
+        "url": "https://twoseven.xyz/help/faq",
+        "notes": "The instructions are the the bottom of their FAQs",
+        "difficulty": "easy",
+        "domains": [
+            "twoseven.xyz"
+        ]
+    },
+
+    {
         "name": "Typeform",
         "url": "https://help.typeform.com/hc/en-us/articles/360029631211-The-right-to-be-forgotten",
         "notes": "Follow the steps in the link: Login, then click 'My Account', scroll to the 'Danger Zone', click 'Delete my account' and confirm.",
