@@ -191,6 +191,16 @@
     },
 
     {
+        "name": "Ada",
+        "url": "https://ada.com/help/360000319269/",
+        "difficulty": "easy",
+        "notes": "Just click delete and all your account data is erased",
+        "domains": [
+            "ada.com"
+        ]
+    },
+
+    {
         "name": "Adfly",
         "url": "https://support.adf.ly/hc/en-us/requests/new",
         "difficulty": "hard",
