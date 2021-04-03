@@ -456,6 +456,15 @@
     },
 
     {
+        "name": "Animoto",
+        "url": "https://animoto.com/account",
+        "difficulty": "easy",
+        "notes": "Open the link and click Delete Account",
+        "domains": [
+            "animoto.com"
+        ]
+    },
+    {
         "name": "AnkiApp",
         "url": "https://join.ankiapp.com",
         "difficulty": "easy",
