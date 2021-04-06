@@ -1668,7 +1668,7 @@
         "name": "Cloudflare",
         "url": "https://dash.cloudflare.com/profile/delete-user",
         "difficulty": "medium",
-        "notes": "You must have no domains, add-ons, payment methods or ongoing investigations attached to your account prior account deletion.",
+        "notes": "You must have no domains, add-ons, payment methods or ongoing investigations attached to your account prior to account deletion.",
         "domains": [
             "cloudflare.com"
         ]
