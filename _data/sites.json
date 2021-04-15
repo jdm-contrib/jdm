@@ -9356,6 +9356,16 @@
     },
 
     {
+        "name": "Toggl Track",
+        "url": "https://track.toggl.com/profile",
+        "difficulty": "easy",
+        "notes": "Scroll down the profile page and click 'Close Account'",
+        "domains": [
+            "toggl.com"
+        ]
+    },
+
+    {
         "name": "Tokopedia",
         "url": "https://www.tokopedia.com",
         "difficulty": "impossible",
