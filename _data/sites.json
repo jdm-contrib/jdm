@@ -9356,6 +9356,16 @@
     },
 
     {
+        "name": "Toggl Track",
+        "url": "https://track.toggl.com/profile",
+        "difficulty": "easy",
+        "notes": "Scroll down the profile page and click 'Close Account'",
+        "domains": [
+            "toggl.com"
+        ]
+    },
+
+    {
         "name": "Tokopedia",
         "url": "https://www.tokopedia.com",
         "difficulty": "impossible",
@@ -9415,16 +9425,6 @@
         "notes_tr": "Önce hesabınıza giriş yapın. \"Hesabımı Kapat\" onay kutusunu işaretleyerek ve \"Hesabı Kapat\" tuşuna tıklayarak onaylayın.",
         "domains": [
             "thetracktor.com"
-        ]
-    },
-
-    {
-        "name": "Toggl Track",
-        "url": "https://track.toggl.com/profile",
-        "difficulty": "easy",
-        "notes": "Scroll down the profile page and click 'Close Account'",
-        "domains": [
-            "toggl.com"
         ]
     },
 
