@@ -9419,6 +9419,16 @@
     },
 
     {
+        "name": "Toggl Track",
+        "url": "https://track.toggl.com/profile",
+        "difficulty": "easy",
+        "notes": "Scroll down the profile page and click 'Close Account'",
+        "domains": [
+            "toggl.com"
+        ]
+    },
+
+    {
         "name": "Trakt",
         "url": "https://trakt.tv/settings/data",
         "difficulty": "easy",
