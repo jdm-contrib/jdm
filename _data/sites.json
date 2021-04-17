@@ -10163,6 +10163,16 @@
     },
 
     {
+        "name": "Webtickets",
+        "url": "https://www.webtickets.co.za/v2/FAQ.aspx?itemid=1505441537",
+        "difficulty": "hard",
+        "notes": "Fill in the form requesting the deletion of your account",
+        "domains": [
+            "webtickets.co.za"
+        ]
+    },
+
+    {
         "name": "Webull",
         "url": "https://www.webull.com/hc/categories/fq125-How-do-I-delete-my-Webull-account",
         "difficulty": "easy",
