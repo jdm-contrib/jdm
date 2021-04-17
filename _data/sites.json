@@ -7883,6 +7883,16 @@
     },
 
     {
+        "name": "Rail Europe",
+        "url": "https://www.raileurope.com/account/settings",
+        "difficulty": "easy",
+        "notes": "Go to account settings and click the 'Delete my account' button at the top right corner",
+        "domains": [
+            "raileurope.com"
+        ]
+    },
+ 
+    {
         "name": "Raindrop.io",
         "url": "https://raindrop.io/app/#/settings/profile",
         "difficulty": "hard",
