@@ -119,6 +119,17 @@
     },
 
     {
+        "name": "Abacashi",
+        "url": "https://abacashi.com/contact",
+        "difficulty": "hard",
+        "email": "contato@abacashi.com",
+        "notes": "Either use the contact form or e-mail them directly asking for the account to be deleted",
+        "domains": [
+            "abacashi.com"
+        ]
+    },
+
+    {
         "name": "AbeBooks",
         "url": "https://www.abebooks.com/customer-support/",
         "difficulty": "hard",
