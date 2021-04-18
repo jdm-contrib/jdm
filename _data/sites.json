@@ -7826,6 +7826,17 @@
     },
 
     {
+        "name": "Quantic Foundry",
+        "url": "https://quanticfoundry.com/",
+        "difficulty": "hard",
+        "notes": "Email their support team asking for account deletion.",
+        "email": "team@quanticfoundry.com",
+        "domains": [
+            "quanticfoundry.com"
+        ]
+    },
+
+    {
         "name": "Quip",
         "url": "https://www.quipsupport.com/entries/25079898-How-do-I-delete-my-account-",
         "difficulty": "hard",
