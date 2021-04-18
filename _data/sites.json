@@ -6173,6 +6173,16 @@
     },
 
     {
+        "name": "Money Lover",
+        "url": "https://web.moneylover.me",
+        "difficulty": "easy",
+        "notes": "Go to the menu on the top left corner, click 'My Account' then 'Delete Account' on the bottom of the dialog and confirm.",
+        "domains": [
+            "moneylover.me"
+        ]
+    },
+
+    {
         "name": "Money Saving Expert",
         "url": "https://clubs.moneysavingexpert.com/cheapenergyclub/my-account",
         "difficulty": "easy",
