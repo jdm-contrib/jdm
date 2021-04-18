@@ -4491,6 +4491,16 @@
     },
 
     {
+        "name": "HowLongToBeat",
+        "url": "https://howlongtobeat.com/",
+        "difficulty": "easy",
+        "notes": "Go to 'My Account' > 'Options', click 'Delete Profile & Data' and confirm.",
+        "domains": [
+            "howlongtobeat.com"
+        ]
+    },
+
+    {
         "name": "HP",
         "url": "https://www8.hp.com/us/en/privacy/ww-privacy-form.html",
         "difficulty": "hard",
