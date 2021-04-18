@@ -5347,6 +5347,16 @@
     },
 
     {
+        "name": "Linktree",
+        "url": "https://linktr.ee/admin/account",
+        "difficulty": "easy",
+        "notes": "Go to your account details, scroll down to the 'Danger Zone' and click 'Delete Account'.",
+        "domains": [
+            "linktr.ee"
+        ]
+    },
+
+    {
         "name": "Linsensuppe",
         "url": "https://www.linsensuppe.de",
         "difficulty": "impossible",
