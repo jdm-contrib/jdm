@@ -8364,6 +8364,15 @@
     },
 
     {
+        "name": "Scratch",
+        "url": "https://scratch.mit.edu/accounts/settings/delete_account_confirmation/",
+        "difficulty": "easy",
+        "notes": "Click on 'Yes, next step', and follow the prompt",
+        "domains": [
+            "scratch.mit.edu"
+        ]
+    },
+    {
         "name": "Scribd",
         "url": "https://www.scribd.com/account_settings/preferences",
         "difficulty": "easy",
