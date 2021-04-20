@@ -119,6 +119,17 @@
     },
 
     {
+        "name": "Abacashi",
+        "url": "https://abacashi.com/contact",
+        "difficulty": "hard",
+        "email": "contato@abacashi.com",
+        "notes": "Either use the contact form or e-mail them directly asking for the account to be deleted",
+        "domains": [
+            "abacashi.com"
+        ]
+    },
+
+    {
         "name": "AbeBooks",
         "url": "https://www.abebooks.com/customer-support/",
         "difficulty": "hard",
@@ -3713,7 +3724,7 @@
 
     {
         "name": "GitHub",
-        "url": "https://github.com/settings/admin",
+        "url": "https://github.com/settings/admin#:~:text=Delete%20account",
         "difficulty": "easy",
         "notes": "Click on 'Delete account' near the bottom of the page and follow the instructions. Some user content will continue to exist anonymously on the website.",
         "notes_tr": "Sayfanın altındaki \"Hesabı Sil\" tuşuna tıklayın ve yönergeleri takip edin. Bazı kullanıcı içerikleri web sitesinde anonim olarak bulunmaya devam edecek.",
@@ -4476,6 +4487,16 @@
         "email": "EUprivacy@houzz.com",
         "domains": [
             "houzz.com"
+        ]
+    },
+
+    {
+        "name": "HowLongToBeat",
+        "url": "https://howlongtobeat.com/",
+        "difficulty": "easy",
+        "notes": "Go to 'My Account' > 'Options', click 'Delete Profile & Data' and confirm.",
+        "domains": [
+            "howlongtobeat.com"
         ]
     },
 
@@ -5336,6 +5357,16 @@
     },
 
     {
+        "name": "Linktree",
+        "url": "https://linktr.ee/admin/account",
+        "difficulty": "easy",
+        "notes": "Go to your account details, scroll down to the 'Danger Zone' and click 'Delete Account'.",
+        "domains": [
+            "linktr.ee"
+        ]
+    },
+
+    {
         "name": "Linsensuppe",
         "url": "https://www.linsensuppe.de",
         "difficulty": "impossible",
@@ -6162,6 +6193,16 @@
     },
 
     {
+        "name": "Money Lover",
+        "url": "https://web.moneylover.me",
+        "difficulty": "easy",
+        "notes": "Go to the menu on the top left corner, click 'My Account' then 'Delete Account' on the bottom of the dialog and confirm.",
+        "domains": [
+            "moneylover.me"
+        ]
+    },
+
+    {
         "name": "Money Saving Expert",
         "url": "https://clubs.moneysavingexpert.com/cheapenergyclub/my-account",
         "difficulty": "easy",
@@ -6258,11 +6299,10 @@
 
     {
         "name": "Muambator",
-        "url": "https://muambator.com.br/login",
-        "difficulty": "impossible",
-        "notes": "This website does not provide options that allow the user to delete their account.",
-        "notes_tr": "Bu web sitesi, kullanıcının hesabını silmesine izin veren seçenekler sunmamaktadır.",
-        "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
+        "url": "https://www.muambator.com.br/perfil/minha-conta/",
+        "difficulty": "easy",
+        "notes": "On your account page, scroll to the bottom and click on the red button to delete it.",
+        "notes_pt_br": "Na página da sua conta, vá até o final e clique no botão vermelho 'Excluir'",
         "domains": [
             "muambator.com.br"
         ]
@@ -7815,6 +7855,17 @@
     },
 
     {
+        "name": "Quantic Foundry",
+        "url": "https://quanticfoundry.com/",
+        "difficulty": "hard",
+        "notes": "Email their support team asking for account deletion.",
+        "email": "team@quanticfoundry.com",
+        "domains": [
+            "quanticfoundry.com"
+        ]
+    },
+
+    {
         "name": "Quip",
         "url": "https://www.quipsupport.com/entries/25079898-How-do-I-delete-my-account-",
         "difficulty": "hard",
@@ -9356,6 +9407,16 @@
     },
 
     {
+        "name": "Toggl Track",
+        "url": "https://track.toggl.com/profile",
+        "difficulty": "easy",
+        "notes": "Scroll down the profile page and click 'Close Account'",
+        "domains": [
+            "toggl.com"
+        ]
+    },
+
+    {
         "name": "Tokopedia",
         "url": "https://www.tokopedia.com",
         "difficulty": "impossible",
@@ -10149,6 +10210,16 @@
         "notes_tr": "Hesabı sil düğmesini bulmak için ayarları takip edin ve tıklayın.",
         "domains": [
             "settings.webex.com"
+        ]
+    },
+
+    {
+        "name": "Webtickets",
+        "url": "https://www.webtickets.co.za/v2/FAQ.aspx?itemid=1505441537",
+        "difficulty": "hard",
+        "notes": "Fill in the form requesting the deletion of your account",
+        "domains": [
+            "webtickets.co.za"
         ]
     },
 
