@@ -3505,6 +3505,16 @@
     },
 
     {
+        "name": "Funimation",
+        "url": "https://help.funimation.com/hc/en-us/articles/360046541711-How-do-I-delete-or-close-my-account-",
+        "difficulty": "hard",
+        "notes": "In the Submit a Request form, under \"How can we help you?,\" choose \"Subscription”, then \"Cancel or Delete Account\", and enter a brief description of your request in the “Description” field.",
+        "domains": [
+            "https://www.funimation.com/"
+        ]
+    },
+
+    {
         "name": "FXhome",
         "url": "https://fxhome.com/faqs/view/69",
         "difficulty": "hard",
