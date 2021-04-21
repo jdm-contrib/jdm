@@ -2727,6 +2727,16 @@
     },
 
     {
+        "name": "Dynadot",
+        "url": "https://www.dynadot.com/community/help/question/close-dynadot-account",
+        "difficulty": "hard",
+        "notes": "Deletion can only be done via email. First, you must make sure the account has no active services from Dynadot (domains, VPS or Email Hosting, SSL certificates, Website Builders, etc.). Active domains must be deleted (this takes up to 30 days), or moved to another account/registrar. Once all services have been removed, send an email to accounts@dynadot.com from your email in which the account is registered under.",
+        "email": "accounts@dynadot.com",
+        "domains": [
+            "dynadot.com"
+        ]
+    },
+    {
         "name": "DynDNS",
         "url": "https://account.dyn.com/profile/close.html",
         "difficulty": "easy",
@@ -4219,6 +4229,15 @@
         ]
     },
 
+    {
+        "name": "Hack The Box",
+        "url": "https://app.hackthebox.eu/profile/settings",
+        "difficulty": "easy",
+        "notes": "On the page, click 'Delete Account'.",
+        "domains": [
+            "hackthebox.eu"
+        ]
+    },
     {
         "name": "Hack This Site",
         "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
