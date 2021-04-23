@@ -10424,6 +10424,16 @@
     },
 
     {
+        "name": "Windscribe",
+        "url": "https://windscribe.com/myaccount",
+        "difficulty": "easy",
+        "notes": "Go to your account page, the delete button is small, you can find it under the 'joining date'. Also, their privacy policy states they'll store your username, password, email(if provided) even after account deletion.",
+        "domains": [
+            "windscribe.com"
+        ]
+    },
+
+    {
         "name": "Wish",
         "url": "https://www.wish.com/settings/account",
         "difficulty": "medium",
