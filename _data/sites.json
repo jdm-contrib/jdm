@@ -2888,7 +2888,7 @@
         "name": "EdX",
         "url": "https://account.edx.org/#delete-account",
         "difficulty": "medium",
-        "notes": "Go to the account deletion page and select Delete Account. If you have logged in through a social account, you'll first have to unlink them, reset your password then delete the account.",
+        "notes": "Go to the account deletion page and select Delete Account. If you have logged in through a social media account, you'll first have to unlink them, reset your password then delete the account.",
         "notes_tr": "Hesap silme sayfasına gidin ve Hesabı Sil'i seçin. Bir sosyal hesap üzerinden oturum açtıysanız, önce bunların bağlantısını kaldırmanız, şifrenizi sıfırlamanız ve ardından hesabı silmeniz gerekir.",
         "notes_fr": "Accédez à la page de suppression de compte et sélectionnez Supprimer le compte. Si vous vous êtes connecté via un compte social, vous devrez d'abord les dissocier, réinitialiser votre mot de passe puis supprimer le compte.",
         "notes_de": "Gehen Sie zur Seite zum Löschen des Kontos und wählen Sie Konto löschen. Wenn Sie sich über ein soziales Konto angemeldet haben, müssen Sie zuerst die Verknüpfung aufheben, Ihr Passwort zurücksetzen und dann das Konto löschen.",
