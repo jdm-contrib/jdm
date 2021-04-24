@@ -9157,7 +9157,8 @@
         "name": "Surfshark",
         "url": "https://surfshark.com/privacy-policy",
         "difficulty": "hard",
-        "notes": "\"If you would like to edit your information or permanently delete your account, you can email us at support@surfshark.com.\"",
+        "notes": "Send a mail to them requesting for account deletion",
+        "email": "support@surfshark.com",
         "domains": [
             "surfshark.com"
         ]
