@@ -2886,16 +2886,9 @@
 
     {
         "name": "EdX",
-        "url": "https://www.edx.org/student-faq",
-        "difficulty": "impossible",
-        "notes": "There's no need to delete your account. An old, unused edX account with no course completions associated with it will disappear.",
-        "notes_tr": "Hesabınızı silmenize gerek yoktur. Kurs tamamlamaları olmayan ve eski, kullanılmamış bir edX hesabı kendiliğinden kaybolacaktır.",
-        "notes_fr": "Il ne faut pas supprimer votre compte. Un compte edX qui n'est pas utilisé et qui n'a pas d'achèvement de cours disparaîtra.",
-        "notes_de": "Es gibt keine Notwendigkeit deinen Account zu löschen. Ein alter, unbenutzter edX Account ohne fertiggestellte Kurse wird automatisch gelöscht.",
-        "notes_it": "Non è necessario cancellare il tuo account. Un vecchio, inusato edX account scomparirà da solo",
-        "notes_pt_br": "Não há porque deletar sua conta. Uma conta antiga, e não usada sem cursos completos irá desaparecer.",
-        "notes_cat": "No té perqué esborrar el seu compte. Un compte antic sens ús ni cursos completats serà eliminat.",
-        "notes_es": "«No hay necesidad de borrar la cuenta. Una cuenta antigua no usada y sin cursos completos será eliminado.»",
+        "url": "https://account.edx.org/#delete-account",
+        "difficulty": "medium",
+        "notes": "Go to the account deletion page and select Delete Account. If you have logged in through a social media account, you'll first have to unlink them, reset your password then delete the account.",
         "domains": [
             "edx.org"
         ]
@@ -6759,6 +6752,16 @@
     },
 
     {
+        "name": "NordVPN",
+        "url": "https://support.nordvpn.com/FAQ/1521982312/How-can-I-delete-my-account.htm",
+        "difficulty": "hard",
+        "notes": "Fill the form on the site to request deletion.",
+        "domains": [
+            "nordvpn.com"
+        ]
+    },
+
+    {
         "name": "The Noun Project",
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
@@ -7816,6 +7819,17 @@
         "notes_tr": "Hesabınıza giriş yapın, \"Ayarlar\" \"Hesabımı Sil\", neden ayrıldığınızı yazın, şifrenizi ve etkinse 2 faktörlü kimlik doğrulama kodunuzu girip \"Sil\" tuşuna tıklayın",
         "domains": [
             "protonmail.com"
+        ]
+    },
+
+    {
+        "name": "ProtonVPN",
+        "url": "https://account.protonvpn.com/account",
+        "difficulty": "easy",
+        "notes": "Click on the Delete Account button and follow the steps.",
+        "domains": [
+            "protonvpn.com",
+            "account.protonvpn.com"
         ]
     },
 
@@ -9132,6 +9146,17 @@
             "haydaygame.com",
             "supercell.com",
             "supercell.helpshift.com"
+        ]
+    },
+
+    {
+        "name": "Surfshark",
+        "url": "https://surfshark.com/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Send a mail to them requesting for account deletion.",
+        "email": "support@surfshark.com",
+        "domains": [
+            "surfshark.com"
         ]
     },
 
