@@ -6860,9 +6860,9 @@
         "name": "O'Reilly",
         "url": "https://www.oreilly.com/",
         "difficulty": "hard",
-        "notes": "The only way to delete an account is to send an e-mail to customer support agents.",
-        "email": "support@oreilly.com",
-        "email_body": "I want my account linked to this email be deleted. I request and authorize you to remove my profile from oreilly.com and delete all my content with you.",
+        "notes": "The only way to delete an account is to send an e-mail to privacy mail, as instruction on their privacy policy section 6.2 (https://www.oreilly.com/privacy.html).",
+        "email": "privacy@oreilly.com",
+        "email_body": "I want my account linked to this email be deleted. I request and authorize you to remove my profile from oreilly.com and delete all my information with your company across all platforms.",
         "domains": [
             "oreilly.com"
         ]
