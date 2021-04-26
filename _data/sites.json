@@ -212,6 +212,16 @@
     },
 
     {
+        "name": "Adafruit",
+        "url": "https://accounts.adafruit.com/users/security",
+        "difficulty": "easy",
+        "notes": "Just click delete and confirm.",
+        "domains": [
+            "adafruit.com"
+        ]
+    },
+
+    {
         "name": "Adfly",
         "url": "https://support.adf.ly/hc/en-us/requests/new",
         "difficulty": "hard",
