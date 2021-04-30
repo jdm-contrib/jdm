@@ -1364,6 +1364,16 @@
     },
 
     {
+        "name": "Cabify",
+        "url": "https://cabify.com",
+        "difficulty": "hard",
+        "notes": "Login and go to Contact us -> My Account, payment method, and invoices -> I want to delete my account. Write a message and it will create a ticket.",
+        "domains": [
+            "cabify.com"
+        ]
+    },
+
+    {
         "name": "Cacoo",
         "url": "https://cacoo.com/unsubscribe",
         "difficulty": "easy",
