@@ -599,17 +599,6 @@
     },
 
     {
-        "name": "Arcor.de",
-        "url": "https://www.arcor.de/register/admin_kuendigen_pw.jsp",
-        "difficulty": "easy",
-        "notes": "Only viable if you have online accounts only.",
-        "notes_tr": "Yalnızca çevrim içi hesaplarınız varsa geçerlidir.",
-        "domains": [
-            "arcor.de"
-        ]
-    },
-
-    {
         "name": "ArmorGames",
         "url": "https://armorgames.com/settings/delete-account",
         "difficulty": "easy",
