@@ -5523,6 +5523,16 @@
     },
 
     {
+        "name": "Lutris",
+        "url": "https://lutris.net",
+        "notes": "After logging in, click on your profile picture in the top right. Then, click on 'Edit Profile,' once on that page, click 'Delete my account.'",
+        "difficulty": "easy",
+        "domains": [
+            "lutris.net"
+        ]
+    },
+
+    {
         "name": "Lyft",
         "url": "https://account.lyft.com/privacy/data",
         "notes": "Log-in to your Lyft account on the website and request for deletion. Cannot be done via the app",
