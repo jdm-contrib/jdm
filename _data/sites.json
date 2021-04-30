@@ -2533,17 +2533,6 @@
     },
 
     {
-        "name": "Dock.io",
-        "url": "https://app.dock.io/settings",
-        "notes": "Log in, go to settings and click 'Delete my account'. Confirm by clicking 'Yes, delete my account'.",
-        "notes_tr": "Giriş yapın, ayarlara girin ve \"Hesabımı Sil\" tuşuna tıklayın. Onaylamak için \"Evet, hesabımı sil\" tuşuna tıklayın.",
-        "difficulty": "easy",
-        "domains": [
-            "dock.io"
-        ]
-    },
-
-    {
         "name": "Docker",
         "url": "https://hub.docker.com/settings/deactivate",
         "notes": "Log in, under account settings find and use \"Deactivate Account\".",
