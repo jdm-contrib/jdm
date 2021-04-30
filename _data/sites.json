@@ -599,17 +599,6 @@
     },
 
     {
-        "name": "Arcor.de",
-        "url": "https://www.arcor.de/register/admin_kuendigen_pw.jsp",
-        "difficulty": "easy",
-        "notes": "Only viable if you have online accounts only.",
-        "notes_tr": "Yalnızca çevrim içi hesaplarınız varsa geçerlidir.",
-        "domains": [
-            "arcor.de"
-        ]
-    },
-
-    {
         "name": "ArmorGames",
         "url": "https://armorgames.com/settings/delete-account",
         "difficulty": "easy",
@@ -1370,6 +1359,16 @@
         "notes_pl": "Wystarczy, że klikniesz 'Abschicken'",
         "domains": [
             "ress.at"
+        ]
+    },
+
+    {
+        "name": "Cabify",
+        "url": "https://cabify.com",
+        "difficulty": "hard",
+        "notes": "Login and go to Contact us -> My Account, payment method, and invoices -> I want to delete my account. Write a message and it will create a ticket.",
+        "domains": [
+            "cabify.com"
         ]
     },
 
@@ -2530,17 +2529,6 @@
         "difficulty": "easy",
         "domains": [
             "dnsimple.com"
-        ]
-    },
-
-    {
-        "name": "Dock.io",
-        "url": "https://app.dock.io/settings",
-        "notes": "Log in, go to settings and click 'Delete my account'. Confirm by clicking 'Yes, delete my account'.",
-        "notes_tr": "Giriş yapın, ayarlara girin ve \"Hesabımı Sil\" tuşuna tıklayın. Onaylamak için \"Evet, hesabımı sil\" tuşuna tıklayın.",
-        "difficulty": "easy",
-        "domains": [
-            "dock.io"
         ]
     },
 
