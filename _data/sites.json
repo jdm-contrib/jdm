@@ -1425,10 +1425,9 @@
 
     {
         "name": "Canva",
-        "url": "https://www.canva.com/account",
-        "difficulty": "impossible",
-        "notes": "There is only an option to Deactivate account. To do this, you must login to your account first, then go to account settings and click 'Deactivate Account'",
-        "notes_tr": "Sadece hesabınızı devre dışı bırakmak için bir seçenek var. Bunu yapmak için, ilk olarak hesabınıza giriş yapmalısınız ve ardından \"Hesap Ayarları\" kısmına girip \"Hesabı Devre Dışı bırak\" tuşuna basmanız gerekir",
+        "url": "https://www.canva.com/settings/login-and-security",
+        "difficulty": "easy",
+        "notes": "At the bottom of the page click on the button that says 'Delete account.' There will be a 14 day waiting period, after this period, all your account data will be deleted.",
         "domains": [
             "canva.com"
         ]
