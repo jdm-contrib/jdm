@@ -1119,6 +1119,15 @@
     },
 
     {
+        "name": "Board Games Online",
+        "url": "https://boardgamesonline.net/",
+        "difficulty": "impossible",
+        "domains": [
+            "boardgamesonline.net"
+        ]
+    },
+
+    {
         "name": "BoardGameGeek",
         "url": "https://boardgamegeek.com/geekaccount.php?action=requestdeletion",
         "difficulty": "easy",
@@ -1425,10 +1434,9 @@
 
     {
         "name": "Canva",
-        "url": "https://www.canva.com/account",
-        "difficulty": "impossible",
-        "notes": "There is only an option to Deactivate account. To do this, you must login to your account first, then go to account settings and click 'Deactivate Account'",
-        "notes_tr": "Sadece hesabınızı devre dışı bırakmak için bir seçenek var. Bunu yapmak için, ilk olarak hesabınıza giriş yapmalısınız ve ardından \"Hesap Ayarları\" kısmına girip \"Hesabı Devre Dışı bırak\" tuşuna basmanız gerekir",
+        "url": "https://www.canva.com/settings/login-and-security",
+        "difficulty": "easy",
+        "notes": "At the bottom of the page click on the button that says 'Delete account.' There will be a 14 day waiting period, after this period, all your account data will be deleted.",
         "domains": [
             "canva.com"
         ]
@@ -2592,6 +2600,15 @@
         "difficulty": "easy",
         "domains": [
             "draftin.com"
+        ]
+    },
+
+    {
+        "name": "Drawpile",
+        "url": "https://drawpile.net/accounts/delete/",
+        "difficulty": "easy",
+        "domains": [
+            "drawpile.net"
         ]
     },
 
@@ -6110,6 +6127,18 @@
         "difficulty": "easy",
         "domains": [
             "mindmeister.com"
+        ]
+    },
+
+    {
+        "name": "Minecraft",
+        "url": "https://https://help.minecraft.net/hc/en-us/requests/new",
+        "notes": "On this page, chose the dropdown boxes that apply. As for the email address you supply; ideally use the one in which the account is associated with. If you don't have access to that email anymore, use a different email. However, be prepared to supply the transaction ID for the purchase of the account, or any other valid proof-of-purchase.",
+        "difficulty": "hard",
+        "domains": [
+            "minecraft.net",
+            "help.minecraft.net",
+            "account.mojang.com"
         ]
     },
 
