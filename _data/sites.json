@@ -5701,7 +5701,7 @@
         "url": "https://mastodon.social/settings/delete",
         "difficulty": "easy",
         "notes": "Login -> Account Settings -> Security > Delete Account",
-        "notes_tr": "Giriş yapın, \"Hesap Ayarları\" \"Güvenlik\" \"Hesabı Sil\" tuşuna tıklayın",
+        "notes_tr": "Giriş.netın, \"Hesap Ayarları\" \"Güvenlik\" \"Hesabı Sil\" tuşuna tıklayın",
         "domains": [
             "mastodon.social"
         ]
@@ -5831,6 +5831,18 @@
         "difficulty": "impossible",
         "domains": [
             "megaxus.com"
+        ]
+    },
+
+    {
+        "name": "Minecraft",
+        "url": "https://https://help.minecraft.net/hc/en-us/requests/new",
+        "notes": "On this page, chose the dropdown boxes that apply. As for the email address you supply; ideally use the one in which the account is associated with. If you don't have access to that email anymore, use a different email. However, be prepared to supply the transaction ID for the purchase of the account, or any other valid proof-of-purchase.",
+        "difficulty": "hard",
+        "domains": [
+            "minecraft.net",
+            "help.minecraft.net",
+            "account.mojang.com"
         ]
     },
 
