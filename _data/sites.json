@@ -1119,6 +1119,15 @@
     },
 
     {
+        "name": "Board Games Online",
+        "url": "https://boardgamesonline.net/",
+        "difficulty": "impossible",
+        "domains": [
+            "boardgamesonline.net"
+        ]
+    },
+
+    {
         "name": "BoardGameGeek",
         "url": "https://boardgamegeek.com/geekaccount.php?action=requestdeletion",
         "difficulty": "easy",
@@ -2591,6 +2600,15 @@
         "difficulty": "easy",
         "domains": [
             "draftin.com"
+        ]
+    },
+
+    {
+        "name": "Drawpile",
+        "url": "https://drawpile.net/accounts/delete/",
+        "difficulty": "easy",
+        "domains": [
+            "drawpile.net"
         ]
     },
 
