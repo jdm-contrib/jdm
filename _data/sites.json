@@ -1761,6 +1761,16 @@
     },
 
     {
+        "name": "Codeberg",
+        "url": "https://codeberg.org/user/settings/account",
+        "difficulty": "easy",
+        "notes": "Log into your account, go to settings -> account and type in your password to delete your account.",
+        "domains": [
+            "codeberg.org"
+        ]
+    },
+
+    {
         "name": "Codecademy",
         "url": "https://www.codecademy.com/account/delete_acct",
         "difficulty": "easy",
@@ -7191,6 +7201,17 @@
         "notes_de": "Um den Account löschen zu können, müssen Sie zunächst alle aktiven Webseiten löschen, oder diese an jemand anderen übertragen.",
         "domains": [
             "pantheon.io"
+        ]
+    },
+
+    {
+        "name": "Papara",
+        "url": "https://www.papara.com/",
+        "difficulty": "hard",
+        "notes": "You need to call the customer support in order to get your account deleted.",
+        "notes_tr": "Hesabınızı kapatmak için müşteri hizmetleriyle telefon ile iletişime geçin.",
+        "domains": [
+            "papara.com"
         ]
     },
 
