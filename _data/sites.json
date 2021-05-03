@@ -3545,6 +3545,22 @@
     },
 
     {
+        "name": "Gameforge",
+        "url": "https://gameforge.com/support",
+        "difficulty": "hard",
+        "notes": "You have to contact support in order to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "notes_de": "Sie müssen den Support kontaktieren, um Ihr Konto zu löschen.",
+        "notes_es": "Tienes que ponerte en contacto con el servicio de asistencia para eliminar tu cuenta.",
+        "notes_tr": "Hesabınızı silmek için müşteri desteği ile iletişime geçmeniz gerekiyor.",
+        "email": "support@gameforge.com",
+        "domains": [
+            "gameforge.com",
+            "support.gameforge.com"
+        ]
+    },
+
+    {
         "name": "GameGleam",
         "url": "https://www.gamegleam.com",
         "difficulty": "hard",
