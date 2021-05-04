@@ -4423,6 +4423,17 @@
     },
 
     {
+        "name": "Hepsiburada",
+        "url": "https://www.hepsiburada.com/cozummerkezi/sikca-sorulan-sorular-detay/220",
+        "difficulty": "hard",
+        "notes": "You have to fill out a request form in order to get your account deleted.",
+        "notes_tr": "Hesabınızı kapatmak için destek talebi oluşturmanız gerekiyor.",
+        "domains": [
+            "hepsiburada.com"
+        ]
+    },
+
+    {
         "name": "Heroes of Newerth",
         "url": "https://www.heroesofnewerth.com",
         "difficulty": "hard",
