@@ -10925,10 +10925,10 @@
 
     {
         "name": "ÇiçekSepeti",
-        "url": "https://cdn03.ciceksepeti.com/images/Ciceksepeti_KVKK_Basvuru_Formu_06022019.docx",
+        "url": "https://www.ciceksepeti.com/gizlilik-sozlesmesi",
         "difficulty": "hard",
-        "notes": "In order to delete your account you have to email them and fill out their \"KVKK\" form and send them an email. The form is only in Turkish.",
-        "notes_tr": "Hesabınızı silmek için \"KVKK\" formunu doldurup onlara email aracılığı ile göndermeniz gerekiyor. Form sadece Türkçe'dir.",
+        "notes": "In order to delete your account you have to email them and fill out their \"KVKK\" form and send them an email. <a href=\"https://cdn03.ciceksepeti.com/images/Ciceksepeti_KVKK_Basvuru_Formu_06022019.docx\">The form is only in Turkish</a>.",
+        "notes_tr": "Hesabınızı silmek için \"KVKK\" formunu doldurup onlara email aracılığı ile göndermeniz gerekiyor. <a href=\"https://cdn03.ciceksepeti.com/images/Ciceksepeti_KVKK_Basvuru_Formu_06022019.docx\">Form sadece Türkçe'dir</a>.",
         "email": "kvkk@ciceksepeti.com",
         "email_subject": "Hesap Silme Talebi",
         "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
