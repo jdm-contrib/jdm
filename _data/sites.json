@@ -3810,6 +3810,15 @@
     },
 
     {
+        "name": "Gittigidiyor",
+        "url": "http://www.gittigidiyor.com/uyelik-iptali",
+        "difficulty": "easy",
+        "domains": [
+            "gittigidiyor.com"
+        ]
+    },
+
+    {
         "name": "Gizmodo (Gawker Media)",
         "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
@@ -5309,6 +5318,20 @@
     },
 
     {
+        "name": "Letgo",
+        "url": "https://www.letgo.com/en-tr/contact",
+        "url_tr": "https://www.letgo.com/tr-tr/contact",
+        "url_es": "https://www.letgo.com/es-es/contact",
+        "difficulty": "hard",
+        "notes": "To delete your account you have to go to \"I have a question about my account\"->\"Delete\" and write your request. You will get a return later on.",
+        "notes_tr": "Hesabınızı silmek için formda \"Hesabım hakkında sorum var\"->\"Sil\" ve dilekçenizi yazmanız gerekiyor. Biraz zaman geçtikten sonra cevap alacaksınız.",
+        "notes_es": "Para eliminar tu cuenta tienes que ir a \"Tengo una pregunta sobre mi cuenta\" -> \"Eliminar\" y escribir tu solicitud. Más adelante recibirás una respuesta.",
+        "domains": [
+            "letgo.com"
+        ]
+    },
+
+    {
         "name": "Letterboxd",
         "url": "https://letterboxd.com/user/disableaccount/",
         "difficulty": "easy",
@@ -6518,6 +6541,15 @@
         "difficulty": "easy",
         "domains": [
             "myspace.com"
+        ]
+    },
+
+    {
+        "name": "N11",
+        "url": "https://www.n11.com/hesabim/uyelik-iptali",
+        "difficulty": "easy",
+        "domains": [
+            "n11.com"
         ]
     },
 
@@ -8439,6 +8471,15 @@
         "notes_tr": "Hesap silme işlemini başlatmak için gizlilik politikalarında bulunan bağlantıyı kullanın.",
         "domains": [
             "ryanair.com"
+        ]
+    },
+
+    {
+        "name": "Sahibinden",
+        "url": "https://banaozel.sahibinden.com/bilgilerim/uyelik-iptali",
+        "difficulty": "easy",
+        "domains": [
+            "sahibinden.com"
         ]
     },
 
