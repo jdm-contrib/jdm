@@ -5475,6 +5475,20 @@
     },
 
     {
+        "name": "Linus Tech Tips",
+        "url": "https://linustechtips.com/privacy/",
+        "difficulty": "hard",
+        "notes": "You have to contact a staff member in the forum to have your account deleted.",
+        "notes_ru": "Чтобы удалить ваш аккаунт, вам необходимо связаться с админом форума.",
+        "notes_de": "Sie müssen einen Administratoren im Forum kontaktieren, um Ihr Konto löschen zu lassen.",
+        "notes_fr": "Pour supprimer votre compte, vous devez contacter un membre du personnel du forum.",
+        "notes_tr": "Hesabınızı silinmesi için forum moderatörleriyle iletişime geçmeniz gerekiyor.",
+        "domains": [
+            "linustechtips.com"
+        ]
+    },
+
+    {
         "name": "Listia",
         "url": "https://help.listia.com/hc/en-us/articles/203895428-How-do-I-delete-close-my-account-",
         "difficulty": "hard",
@@ -8347,6 +8361,22 @@
         "notes_tr": "Profil sayfanızda \"Profili Düzenle\" tuşuna tıklayın ve \"Hesabı İptal Et\" düğmesini kullanın.",
         "domains": [
             "riffle.com"
+        ]
+    },
+
+    {
+        "name": "Riot Games",
+        "url": "https://support-valorant.riotgames.com/hc/en-us/requests/new?ticket_form_id=360004036693",
+        "difficulty": "hard",
+        "notes": "To delete your account, you need to open a support request from any game's support page. If your account is verified by the algorithm, you can use <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">self service option</a>.",
+        "notes_tr": "Hesabınızı silmek için her hangi bir oyunun destek sayfasından destek isteği açmanız gerekiyor. Hesabınız algoritma tarafından onaylandıysa, <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">kendiniz de silebilirsiniz</a>.",
+        "notes_fr": "Pour supprimer votre compte, vous devez ouvrir une demande d'assistance à partir de la page d'assistance de n'importe quel jeu. Si votre compte est vérifié par l'algorithme, vous pouvez utiliser <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">option de libre-service</a>",
+        "notes_ru": "Чтобы удалить свой аккаунт, необходимо открыть запрос в службу поддержки на странице поддержки любой игры. Если ваш аккаунт подтвержден алгоритмом, вы можете воспользоваться <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">вариантом самообслуживания</a>.",
+        "domains": [
+            "riotgames.com",
+            "playvalorant.com",
+            "leagueoflegends.com",
+            "playruneterra.com"
         ]
     },
 
