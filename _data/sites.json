@@ -3810,6 +3810,15 @@
     },
 
     {
+        "name": "Gittigidiyor",
+        "url": "http://www.gittigidiyor.com/uyelik-iptali",
+        "difficulty": "easy",
+        "domains": [
+            "gittigidiyor.com"
+        ]
+    },
+
+    {
         "name": "Gizmodo (Gawker Media)",
         "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
@@ -4410,6 +4419,17 @@
         "notes_tr": "Giriş yapın, \"Hesap\" yerine girin ve \"Hesabı İptal Et\" tuşuna tıklayın",
         "domains": [
             "helpscout.com"
+        ]
+    },
+
+    {
+        "name": "Hepsiburada",
+        "url": "https://www.hepsiburada.com/cozummerkezi/sikca-sorulan-sorular-detay/220",
+        "difficulty": "hard",
+        "notes": "You have to fill out a request form in order to get your account deleted.",
+        "notes_tr": "Hesabınızı kapatmak için destek talebi oluşturmanız gerekiyor.",
+        "domains": [
+            "hepsiburada.com"
         ]
     },
 
@@ -5305,6 +5325,20 @@
         "notes_tr": "Hesabınızı silemezsiniz, ancak ilerlemenizi sıfırlamak için yeni bir oturum oluşturabilirsiniz",
         "domains": [
             "leetcode.com"
+        ]
+    },
+
+    {
+        "name": "Letgo",
+        "url": "https://www.letgo.com/en-tr/contact",
+        "url_tr": "https://www.letgo.com/tr-tr/contact",
+        "url_es": "https://www.letgo.com/es-es/contact",
+        "difficulty": "hard",
+        "notes": "To delete your account you have to go to \"I have a question about my account\"->\"Delete\" and write your request. You will get a return later on.",
+        "notes_tr": "Hesabınızı silmek için formda \"Hesabım hakkında sorum var\"->\"Sil\" ve dilekçenizi yazmanız gerekiyor. Biraz zaman geçtikten sonra cevap alacaksınız.",
+        "notes_es": "Para eliminar tu cuenta tienes que ir a \"Tengo una pregunta sobre mi cuenta\" -> \"Eliminar\" y escribir tu solicitud. Más adelante recibirás una respuesta.",
+        "domains": [
+            "letgo.com"
         ]
     },
 
@@ -6518,6 +6552,15 @@
         "difficulty": "easy",
         "domains": [
             "myspace.com"
+        ]
+    },
+
+    {
+        "name": "N11",
+        "url": "https://www.n11.com/hesabim/uyelik-iptali",
+        "difficulty": "easy",
+        "domains": [
+            "n11.com"
         ]
     },
 
@@ -8439,6 +8482,15 @@
         "notes_tr": "Hesap silme işlemini başlatmak için gizlilik politikalarında bulunan bağlantıyı kullanın.",
         "domains": [
             "ryanair.com"
+        ]
+    },
+
+    {
+        "name": "Sahibinden",
+        "url": "https://banaozel.sahibinden.com/bilgilerim/uyelik-iptali",
+        "difficulty": "easy",
+        "domains": [
+            "sahibinden.com"
         ]
     },
 
@@ -10879,6 +10931,20 @@
         "email_body": "My first and last name are XXXXXX XXXXXX, my e-mail address is XXXXXX, and my user ID number is XXXXXX",
         "domains": [
             "zynga.com"
+        ]
+    },
+
+    {
+        "name": "ÇiçekSepeti",
+        "url": "https://www.ciceksepeti.com/gizlilik-sozlesmesi",
+        "difficulty": "hard",
+        "notes": "In order to delete your account you have to email them and fill out their \"KVKK\" form and send them an email. <a href=\"https://cdn03.ciceksepeti.com/images/Ciceksepeti_KVKK_Basvuru_Formu_06022019.docx\">The form is only in Turkish</a>.",
+        "notes_tr": "Hesabınızı silmek için \"KVKK\" formunu doldurup onlara email aracılığı ile göndermeniz gerekiyor. <a href=\"https://cdn03.ciceksepeti.com/images/Ciceksepeti_KVKK_Basvuru_Formu_06022019.docx\">Form sadece Türkçe'dir</a>.",
+        "email": "kvkk@ciceksepeti.com",
+        "email_subject": "Hesap Silme Talebi",
+        "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
+        "domains": [
+            "ciceksepeti.com"
         ]
     }
 ]
