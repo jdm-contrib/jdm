@@ -6731,15 +6731,9 @@
 
     {
         "name": "New York Times",
-        "url": "https://myaccount.nytimes.com/membercenter/help.html",
+        "url": "https://www.nytimes.com/data-subject-request",
         "difficulty": "hard",
-        "notes": "Use the form to write to customer services and ask them to close your account.",
-        "notes_tr": "Müşteri hizmetlerine yazmak ve onlardan hesabınızı kapatmalarını istemek için destek formunu kullanın.",
-        "notes_fr": "Vous pouvez utilisez le formulaire pour écrire au service clients et pour leur demander de supprimer votre compte.",
-        "notes_it": "Usa il modulo per scrivere all'assistenza clienti e chiedere la chiusura del tuo account.",
-        "notes_pt_br": "Use o formulário para escrever à assistência ao cliente e peça-os para fechar sua conta.",
-        "notes_cat": "Utilitzi el formulari per escriure a l'assistència al client i demar-lis la clausura del compte.",
-        "notes_es": "Usa el formulario para escribir a asistencia al cliente y pideles el cierre de la cuenta.",
+        "notes": "Use the form to request deletion of all of your personal data, they will only do it if law mandates like GDPR (Europe), otherwise account will just be deactivated. You might be required to confirm the request by mail or another form of contact.",
         "domains": [
             "nytimes.com"
         ]
