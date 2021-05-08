@@ -6206,7 +6206,7 @@
 
     {
         "name": "Minecraft",
-        "url": "https://https://help.minecraft.net/hc/en-us/requests/new",
+        "url": "https://help.minecraft.net/hc/en-us/requests/new",
         "notes": "On this page, chose the dropdown boxes that apply. As for the email address you supply; ideally use the one in which the account is associated with. If you don't have access to that email anymore, use a different email. However, be prepared to supply the transaction ID for the purchase of the account, or any other valid proof-of-purchase.",
         "difficulty": "hard",
         "domains": [
