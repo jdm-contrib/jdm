@@ -10664,6 +10664,16 @@
     },
 
     {
+        "name": "Wizards of the Coast",
+        "url": "https://support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000108786",
+        "difficulty": "hard",
+        "notes": "Fill up the form requesting deletion. The customer support will reach back asking for tens of information to confirm deletion in each service they have. Provide what you can/remember and it eventually gets deleted.",
+        "domains": [
+            "wizards.com"
+        ]
+    },
+
+    {
         "name": "WolframAlpha.com",
         "url": "https://www.wolframalpha.com/fbfaqs.html",
         "difficulty": "hard",
