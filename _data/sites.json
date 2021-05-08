@@ -7620,10 +7620,10 @@
 
     {
         "name": "Pixlr",
-        "url": "https://pixlr.com/user/settings/",
-        "difficulty": "easy",
+        "url": "https://pixlr.com/terms-of-use/#:~:text=You%20may%20also%20delete%20Your,data%20related%20to%20Your%20Account.",
+        "difficulty": "hard",
+        "email": "info@pixlr.com",
         "notes": "Click on 'Remove account'.",
-        "notes_tr": "\"Hesabı Kaldır\" tuşuna tıklayın.",
         "domains": [
             "pixlr.com"
         ]
