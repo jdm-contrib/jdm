@@ -7180,11 +7180,9 @@
 
     {
         "name": "Outdooractive",
-        "url": "https://support.outdooractive.com/hc/en-us/articles/201186213-How-can-I-delete-my-community-account-",
-        "difficulty": "hard",
-        "notes": "Contact Support via the online form and request your account to be deleted.",
-        "notes_tr": "Destek ekibine başvurup, hesabınızı silmek istediğinizi söyleyin.",
-        "notes_de": "Kontaktiere den Support über das Online-Formular und fordere eine Löschung des Accounts an.",
+        "url": "https://www.outdooractive.com/en/k/how-do-i-delete-my-community-account-/50323147/#:~:text=Go%20to%20your%20page%20by,then%20select%20%22Delete%20Profile%22.",
+        "difficulty": "easy",
+        "notes": "Follow the instructions provided to navigate to your profile and find the delete account button.",
         "domains": [
             "outdooractive.com"
         ]
