@@ -2774,14 +2774,14 @@
         "name": "EA Origin",
         "url": "https://help.ea.com/en/contact-us/",
         "difficulty": "hard",
-        "notes": "Contact customer services to request deletion. If you're outside the US this must be by phone.",
-        "notes_tr": "Silme talebi için müşteri hizmetleriyle iletişime geçin. ABD dışındaysanız, telefonla iletişime geçmeniz gerekir.",
-        "notes_fr": "Contactez le support pour demander la suppression du compte. Si vous n'êtes pas americain cela se fait par téléphone.",
-        "notes_it": "Contatta il sistema clienti per cancellarti. Se sei fuori dagli Stati Uniti questa azione va effettuata via telefono.",
-        "notes_de": "Kontaktiere den Support um die Löschung zu beantragen. Wenn du außerhalb der USA bist, muss dies per Telefon geschehen.",
-        "notes_pt_br": "Contate a assistência ao cliente e peça que sua conta seja deletada. Se você estiver fora dos EUA você deve fazer isso pelo telefone.",
-        "notes_cat": "Contacti amb assistència al client i demani que es clausuri el seu compte. Si vius fora dels EEUU ho hauràs de fer per telèfon.",
-        "notes_es": "Contacta con asistencia al cliente y pide que se cierre tu cuenta. Si vives fuera de EEUU deberás hacerlo por teléfono.",
+        "notes": "Contact customer services to request deletion.",
+        "notes_tr": "Silme talebi için müşteri hizmetleriyle iletişime geçin.",
+        "notes_fr": "Contactez le support pour demander la suppression du compte.",
+        "notes_it": "Contatta il sistema clienti per cancellarti.",
+        "notes_de": "Kontaktiere den Support um die Löschung zu beantragen.",
+        "notes_pt_br": "Contate a assistência ao cliente e peça que sua conta seja deletada.",
+        "notes_cat": "Contacti amb assistència al client i demani que es clausuri el seu compte.",
+        "notes_es": "Contacta con asistencia al cliente y pide que se cierre tu cuenta.",
         "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie konta.",
         "domains": [
             "ea.com"
@@ -7288,6 +7288,24 @@
     },
 
     {
+        "name": "Paradox Plaza",
+        "url": "https://support.paradoxplaza.com/hc/en-us/requests/new?ticket_form_id=360000086974",
+        "difficulty": "hard",
+        "notes": "You need to select \"GDPR - Request for Account Deletion\" in the form and fill in your details.",
+        "notes_de": "Sie müssen \"GDPR - Request for Account Deletion\" im Formular auswählen und dann Ihre Daten eingeben.",
+        "notes_tr": "Destek formunda \"GDPR - Request for Account Deletion\" seçeneğine basıp bilgilerinizi doldurmanız gerekiyor.",
+        "notes_ru": "Вам необходимо выбрать \"GDPR - Request for Account Deletion\" в форме и заполнить свои данные.",
+        "notes_fr": "Vous devez sélectionner \"GDPR - Request for Account Deletion\" dans le formulaire et remplir vos coordonnées.",
+        "notes_es": "Debe seleccionar \"GDPR - Request for Account Deletion\" en el formulario y rellenar sus datos",
+        "domains": [
+            "paradoxplaza.com",
+            "crusaderkings.com",
+            "citiesskylines.com",
+            "heartsofiron4.com"
+        ]
+    },
+
+    {
         "name": "Parcello",
         "url": "https://www.parcello.org/settings",
         "difficulty": "easy",
@@ -10296,6 +10314,16 @@
         "notes_pt_br": "Clique em \"Excluir conta\", digite sua senha e clique em \"Gravar\" para confirmar a exclusão da conta.",
         "domains": [
             "vivaolinux.com.br"
+        ]
+    },
+
+    {
+        "name": "Vivaldi",
+        "url": "https://help.vivaldi.com/services/account/delete-account-on-vivaldi-net/",
+        "difficulty": "medium",
+        "domains": [
+            "vivaldi.com",
+            "vivaldi.net"
         ]
     },
 
