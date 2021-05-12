@@ -8395,9 +8395,8 @@
     {
         "name": "Roblox",
         "url": "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
-        "difficulty": "impossible",
-        "notes": "Not possible. 'We currently do not have a feature for players to delete their accounts. If you no longer wish to play on your account, it will remain inactive until you're ready to play again.'",
-        "notes_tr": "Hesap silmek mümkün değildir. 'Şu anda oyuncuların hesaplarını silme özelliğine sahip değiliz. Artık hesabınızda oynamak istemiyorsanız, siz tekrar oynamaya hazır olana kadar devre dışı kalacaktır. '",
+        "difficulty": "hard",
+        "notes": "Only possible if you live on a place with regulations that require deletion.",
         "domains": [
             "www.roblox.com"
         ]
