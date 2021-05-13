@@ -6228,6 +6228,16 @@
     },
 
     {
+        "name": "Miro",
+        "url": "https://miro.com/app/settings/user-profile/",
+        "difficulty": "easy",
+        "notes": "Click \"Delete my profile\" in the profile settings page. An e-mail with a verification code is sent to you, with which you can deactivate the account.",
+        "domains": [
+            "miro.com"
+        ]
+    },
+
+    {
         "name": "MisterWong",
         "url": "https://www.mister-wong.de",
         "email": "support@mister-wong.de",
