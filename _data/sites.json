@@ -7158,6 +7158,22 @@
     },
 
     {
+        "name": "OpenStreetMaps",
+        "url": "https://wiki.openstreetmap.org/wiki/FAQ#How_can_I_close_my_account.3F",
+        "difficulty": "hard",
+        "notes": "You need to email an admin with the same email you used to register in order to delete your account.",
+        "notes_de": "Um ihr Konto zu löschen, müssen sie mit derselben E-mail mit welcher Sie sich registriert haben, eine E-Mail an einen Administratoren senden.",
+        "notes_tr": "Hesabınızı kapatmak için bir admine kayıt olduğunuz email adresiyle email atmanız gerekiyor.",
+        "notes_fr": "Vous devez envoyer un courriel à un administrateur avec le même courriel que vous avez utilisé pour vous inscrire afin de supprimer votre compte.",
+        "notes_ru": "Чтобы удалить ваш аккаунт, вам необходимо отправить емейл к одному администратору с тем же емейлом, который вы использовали при регистрации.",
+        "notes_es": "Para eliminar su cuenta, debe enviar un correo electrónico a un administrador con la misma dirección que utilizó para registrarse",
+        "email": "support@openstreetmap.org",
+        "domains": [
+            "openstreetmap.org"
+        ]
+    },
+
+    {
         "name": "Orkut",
         "url": "https://support.google.com/orkut/",
         "difficulty": "easy",
