@@ -7885,8 +7885,8 @@
     {
         "name": "Rail Europe",
         "url": "https://www.raileurope.com/account/settings",
-        "difficulty": "easy",
-        "notes": "Go to account settings and click the 'Delete my account' button at the top right corner",
+        "difficulty": "hard",
+        "notes": "Go to account settings and click the 'Delete my account' button at the top right corner. This will open a ticket for them to delete your account and it will eventually be processed.",
         "domains": [
             "raileurope.com"
         ]
