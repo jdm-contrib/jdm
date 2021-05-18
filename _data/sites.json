@@ -2212,6 +2212,16 @@
     },
 
     {
+        "name": "danwin1210.me",
+        "url": "https://danwin1210.me/mail/manage_account.php",
+        "difficulty": "easy",
+        "notes": "You can either disable or remove your account. After removal, username is free to be taken again.",
+        "domains": [
+            "danwin1210.me"
+        ]
+    },
+
+    {
         "name": "Dashlane",
         "url": "https://www.dashlane.com/deleteaccount",
         "difficulty": "easy",
