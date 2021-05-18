@@ -234,6 +234,15 @@
     },
 
     {
+        "name": "AdGuard",
+        "url": "https://my.adguard.com/en/settings.html#delete",
+        "difficulty": "easy",
+        "domains": [
+            "adguard.com"
+        ]
+    },
+
+    {
         "name": "Adobe",
         "url": "https://account.adobe.com/privacy/delete-account",
         "difficulty": "easy",
