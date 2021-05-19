@@ -1059,6 +1059,16 @@
     },
 
     {
+        "name": "BlackSpigot",
+        "url": "https://blackspigot.com/threads/delete-account.9291/",
+        "difficulty": "impossible",
+        "notes": "As noted on the forum, account removals are not an option.",
+        "domains": [
+            "blackspigot.com"
+        ]
+    },
+
+    {
         "name": "Blinkist",
         "url": "https://www.blinkist.com/nc/settings/account/",
         "difficulty": "easy",
