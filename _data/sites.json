@@ -60,6 +60,16 @@
     },
 
     {
+        "name": "4PDA",
+        "url": "4pda.ru",
+        "difficulty": "impossible",
+        "domains": [
+            "4pda.ru",
+            "4pda.to"
+        ]
+    },
+
+    {
         "name": "4shared",
         "url": "https://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
