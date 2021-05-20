@@ -1615,6 +1615,15 @@
     },
 
     {
+        "name": "ChatForma",
+        "url": "chatforma.com",
+        "difficulty": "impossible",
+        "domains": [
+            "chatforma.com"
+        ]
+    },
+
+    {
         "name": "Cheap Ass Gamer",
         "url": "https://www.cheapassgamer.com/index.php?app=core&module=help&do=01&HID=15",
         "difficulty": "hard",
