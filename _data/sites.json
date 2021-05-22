@@ -410,6 +410,7 @@
         "url": "https://www.amazon.com/privacy/data-deletion",
         "difficulty": "easy",
         "notes": "Scroll down, select a reason, tick the checkbox, click on \"Close My Account\" and follow the link in the confirmation e-mail.",
+        "notes_ru": "Прокрутите вниз, выберите причину, отметьте флажок «Закрыть мою учетную запись» и следуйте ссылке в электронной почте подтверждения.",
         "notes_tr": "Aşağı kaydırın, bir sebep seçin ve onay kutusunu işaretleyip \"Hesabı Kapat\" tuşuna tıklayın ve ardından onaylama e-postasına tıklayın.",
         "domains": [
             "amazon.ae",
@@ -1100,6 +1101,7 @@
         "notes_cat": "Haurieu d'esborrar tot el compte de Google. Tanmateix, també podeu esborrar únicament el vostre blog.",
         "notes_es": "No puedes borrar tu cuenta de Blogger sin borrar toda la cuenta de Google, pero puedes borrar tu blog.",
         "notes_pl": "Nie ma możliwości usunięcia konta w usłudze Blogger bez usuwania całego konta Google. Możesz jedynie usunąć swój blog.",
+        "notes_ru": "Вы не можете удалить учетную запись Blogger без удаления всей учетной записи Google. Но вы можете удалить свой блог.",
         "domains": [
             "blogger.com"
         ]
@@ -2904,6 +2906,7 @@
         "notes_cat": "Se us realitzarà un petit qüestionari abans d'esborrar el compte.",
         "notes_es": "Se le hará un pequeño cuestionario antes de borrar la cuenta.",
         "notes_cz": "Zeptají se vás na několik anketových otázek před smazáním účtu.",
+        "notes_ru": "До удаления учетной записи вам будут заданы несколько вопросов.",
         "domains": [
             "ebay.com"
         ]
@@ -3220,6 +3223,7 @@
         "notes_es": "Aunque puedes borrar la cuenta facilmente, algunos de los datos como el chat o mensajes en grupo son guardados para siempre, como se explica en los Terminos de privacidad del sitio.",
         "notes_pl": "Możesz usunąć swoje konto, ale zgodnie z polityką prywatności wszystkie dane razem z wiadomościami zostaną w bazie danych na zawsze.",
         "notes_cz": "Přestože je jednoduché si smazat svůj účet, nějaké data včetně zpráv tam zůstanou navždy, jak je napsáno v Zásadách ochrany osobních údajů.",
+        "notes_ru": "Хотя вы можете легко удалить свой аккаунт, некоторые данные, включая сообщения, останутся навсегда, это указано в политике конфиденциальности веб-сайта.",
         "domains": [
             "facebook.com"
         ]
@@ -3976,6 +3980,7 @@
         "difficulty": "easy",
         "notes": "Navigate to account preferences, select to \"Close Account\" and confirm.",
         "notes_tr": "Hesap seçeneklerine ilerleyin, \"Hesabı Kapat\" tuşuna tıklayın ve onaylayın.",
+        "notes_ru": "Перейдите к настройкам учетных записей, выберите «Закрыть учетную запись» и подтвердите.",
         "domains": [
             "godaddy.com"
         ]
@@ -4228,6 +4233,7 @@
         "notes": "According to Groupon's privacy statement, you have to contact support directly and ask them to delete your account.",
         "notes_tr": "Groupon'un gizlilik beyanına göre, doğrudan destek ile iletişime geçmeniz ve onlardan hesabınızı silmesini istemeniz gerekir.",
         "notes_fr": "Selon le politique de confidentialité de Groupon, vous devez contacter le support du site directement pour demander la suppresion de votre compte.",
+        "notes_ru": "Согласно заявлению конфиденциальности Groupon, вам необходимо напрямую связаться с поддержкой и попросить их удалить свою учетную запись.",
         "domains": [
             "groupon.com"
         ]
@@ -5506,6 +5512,7 @@
         "notes_cat": "Alguns informes indiquen que LinkedIn segueix enviant missatges a les persones que ja han tancat el compte. Pot ser necessari posar-se en contacte amb el servei de suport per esborrar el compte en lloc de tancar-lo.",
         "notes_es": "Hay informes que dicen que LinkedIn sigue enviando correo electrónico a las personas con cuentas cerradas. Podría ser necesario ponerte en contacto con el servicio al cliente para eliminar la cuenta en lugar de cerrarla.",
         "notes_cz": "Existují zprávy o tom, že LinkedIn pokračuje v posílání emailů i lidem se smazaným účtem. Možná budete potřebovat kontaktovat podpoře, aby vám účet smazali místo jeho uzavření.",
+        "notes_ru": "Есть сообщения, которые LinkedIn продолжают присылать по электронной почте людям с закрытой учетной записью. Возможно, вам придется связаться с службой поддержки для удаления учетной записи вместо закрытия.",
         "domains": [
             "linkedin.com"
         ]
@@ -5846,6 +5853,7 @@
         "difficulty": "impossible",
         "notes": "You can only ever deactivate your account",
         "notes_tr": "Yalnızca hesabınızı devre dışı bırakabilirsiniz",
+        "notes_ru": "Вы можете только деактивировать свой аккаунт.",
         "domains": [
             "match.com"
         ]
@@ -6748,6 +6756,7 @@
         "notes_tr": "Üyeliğinizi iptal edin, ardından derhal silinmesini istiyorsanız destek ile iletişime geçin, aksi takdirde hesabınız 10 ay içinde otomatik olarak silinecektir.",
         "notes_fr": "Annulez votre abonnement, puis contactez le support si vous souhaitez une suppression immédiate. Sinon, votre compte sera conservé pendant 10 mois.",
         "notes_cat": "Cancel·leu la vostra subscripció i, a continuació, poseu-vos en contacte amb el servei d'assistència si voleu suprimir-lo immediatament. En cas contrari, el vostre compte se suprimirà automàticament en deu mesos.",
+        "notes_ru": "Отмените свое членство, затем обратитесь в службу поддержки, если вы хотите немедленное удаление, в ином случае ваша учетная запись будет автоматически удалена через 10 месяцев.",
         "email": "privacy@netflix.com",
         "domains": [
             "netflix.com"
@@ -7689,6 +7698,7 @@
         "difficulty": "medium",
         "notes": "On the Account Settings, click 'Delete Account', state reason and click 'Next', then 'Send email'. You need to check the e-mail and confirm the deletion.",
         "notes_tr": "\"Hesap Ayarları\" sayfasında \"Hesabı Sil\" tuşuna tıklayın, nedeni belirtin ve \"Sonraki\" \"E-posta Gönder\" tuşuna tıklayın. E-posta kutunuzu kontrol etmeniz ve silme işlemini onaylamanız gerekir.",
+        "notes_ru": "В настройках учетной записи нажмите «Удалить учетную запись», выберите причину и нажмите «Далее», затем «отправить электронную почту». Вам нужно будет проверить электронную почту и подтвердить удаление.",
         "domains": [
             "pinterest.com"
         ]
@@ -8346,6 +8356,7 @@
         "difficulty": "hard",
         "notes": "You cannot delete your Reddit account; you can only deactivate it. Content posted to Reddit (posts and comments) must be deleted individually beforehand. If you are an EU citizen, see the 'Reddit (GDPR) entry on JustDeleteMe.",
         "notes_tr": "Reddit hesabınızı silemezsiniz; sadece devre dışı bırakabilirsiniz. Reddit'e gönderilen içerik (gönderiler ve yorumlar) tek tek silinmelidir. AB vatandaşı iseniz, kişisel verilerinizin e-posta yoluyla silinmesini talep edebilirsiniz.",
+        "notes_ru": "Вы не можете удалить свою учетную запись Reddit; Вы можете только деактивировать ее. Данные, размещенные на Reddit (посты и комментарии), должны быть удалены вами заранее. Если вы являетесь гражданином ЕС, см. Reddit (GDPR) на JustDeleteMe.",
         "domains": [
             "reddit.com"
         ]
@@ -8357,6 +8368,7 @@
         "url": "https://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&subject=GDPR / CCPA - u/[please enter your username here]&message=I am requesting deletion of my account and relate information under GDPR.",
         "difficulty": "hard",
         "notes": "Content posted to Reddit (posts and comments) must be deleted individually beforehand. As an EU citizen, do not use the normal deactivation process. Send a message with the provided link instead.",
+        "notes_ru": "Данные, размещенные на Reddit (посты и комментарии), должны быть удалены вами заранее. Как гражданин ЕС, не используйте стандартный процесс деактивации. Вместо этого отправьте сообщение с предоставленной ссылкой.",
         "domains": [
             "reddit.com"
         ]
@@ -8929,6 +8941,7 @@
         "notes_pt_br": "Contate a assistência ao cliente. Você precisará saber 5 contatos da sua lista de contatos, o mês em que sua conta foi criada, e seu e-mail de cadastro.",
         "notes_cat": "Contacti amb l'assistència al client. Haurà de coneixer 5 contactes de la seva llista, el mes que va ser creat el compte i el e-mail associat.",
         "notes_es": "Contacta con la asistencia al cliente. Deberás conocer 5 contactos de su lista, el mes que la cuenta fue creada y el e-mail asociado.",
+        "notes_ru": "Свяжитесь со службой поддержки в чате. Вам необходимо проверить, купили ли вы услуги из Skype, а также вам нужно будет подтвердить ваш указанный адрес электронной почты.",
         "domains": [
             "skype.com"
         ]
@@ -9352,6 +9365,7 @@
         "difficulty": "easy",
         "notes": "Account owners only, not team members can delete the account. Balances and pending invoices all need to be resolved before the account is permanently closed. Cannot be reversed.",
         "notes_tr": "Yalnızca hesap sahipleri (ekip üyeleri değil) hesabı silebilir. Hesap kalıcı olarak kapatılmadan önce bakiyelerin ve bekleyen faturaların tamamının çözülmesi gerekir. Tersine çevrilemez.",
+        "notes_ru": "Только владельцы аккаунта, а не члены команды могут удалить вашу учетную запись. Остатки и незавершенные счета должны быть разрешены до того, как учетная запись будет навсегда закрыта. Не может быть отменено.",
         "meta": "popular",
         "domains": [
             "stripe.com"
@@ -10010,6 +10024,7 @@
         "notes_cat": "El vostre compte es desactivarà abans de suprimir-lo. Un cop passats 30 dies, s'esborrarà.",
         "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
         "notes_cz": "Váš účet je před smazáním deaktivován na 30 dní. Po uplynutí této doby bude smazán.",
+        "notes_ru": "Ваша учетная запись деактивируется перед удалением. После деактивированных 30 дней, он будет удален.",
         "domains": [
             "twitter.com"
         ]
@@ -10742,6 +10757,7 @@
         "notes_pt_br": "'Um usuário não pode ser deletado.' Entretanto, eles possuem algumas sugestões.",
         "notes_cat": "'No es poden esborrar els usuaris.' Però fan algunes suggerencies.",
         "notes_es": "'No se pueden borrar los usuarios.' Pero hacen algunas sugerencias.",
+        "notes_ru": "«Имя пользователя не может быть удалено». Однако у них есть несколько предложений.",
         "domains": [
             "wikipedia.org"
         ]
@@ -10833,6 +10849,7 @@
         "difficulty": "easy",
         "notes": "You can permanently close your WordPress.com account from your Account Settings screen by clicking on 'Close your account permanently'",
         "notes_tr": "WordPress.com hesabınızı \"Hesap Ayarları\" ekranınızdan \"Kalıcı olarak hesabı kapat\" öğesini tıklayarak kalıcı olarak kapatabilirsiniz",
+        "notes_ru": "Вы можете навсегда закрыть свою учетную запись WordPress.com с экрана настроек вашей учетной записи, нажав на «Закрыть учетную запись навсегда»",
         "domains": [
             "wordpress.com"
         ]
@@ -10946,6 +10963,7 @@
         "difficulty": "easy",
         "notes": "You can request your data copy before you delete YouTube account.",
         "notes_tr": "YouTube hesabınızı silmeden önce verilerinizin bir kopyasını talep edebilirsiniz.",
+        "notes_ru": "Вы можете запросить копию данных перед удалением учетной записи YouTube.",
         "domains": [
             "youtube.com"
         ]
