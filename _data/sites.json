@@ -6852,6 +6852,15 @@
     },
 
     {
+        "name": "NiceHash",
+        "url": "http://nicehash.com/my/settings/security",
+        "difficulty": "easy",
+        "domains": [
+            "nicehash.com"
+        ]
+    },
+
+    {
         "name": "Nike+",
         "url": "https://secure-nikeplus.nike.com/plus/settings/",
         "difficulty": "easy",
