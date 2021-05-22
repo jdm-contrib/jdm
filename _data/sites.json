@@ -3763,6 +3763,16 @@
     },
 
     {
+        "name": "GetContact",
+        "url": "https://www.getcontact.com/manage",
+        "difficulty": "medium",
+        "notes": "You need to login on the website via WhatsApp, Telegram or SMS and then proceed to deletion.",
+        "domains": [
+            "getcontact.com"
+        ]
+    },
+
+    {
         "name": "GetCreditScore",
         "url": "https://www.getcreditscore.com.au/my-preferences",
         "difficulty": "easy",
@@ -3770,16 +3780,6 @@
         "notes_tr": "Tercihler sayfasında \"Hesabımı Sil\" seçeneğini seçin ve \"Gönder\" tuşuna tıklayın.",
         "domains": [
             "getcreditscore.com.au"
-        ]
-    },
-
-    {
-        "name": "GetContact",
-        "url": "https://www.getcontact.com/manage",
-        "difficulty": "medium",
-        "notes": "You need to login on the website via WhatsApp, Telegram or SMS and then proceed to deletion.",
-        "domains": [
-            "getcontact.com"
         ]
     },
 
