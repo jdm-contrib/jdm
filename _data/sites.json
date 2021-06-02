@@ -9663,7 +9663,7 @@
             "telegram.org"
         ]
     },
-    
+
     {
         "name": "TEMPO",
         "url": "https://tempo.eu.com",
@@ -9672,6 +9672,7 @@
         "domains": [
             "tempo.eu.com",
             "k.tempocrypto.com"
+        ]
     },
 
     {
