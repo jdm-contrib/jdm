@@ -9665,6 +9665,17 @@
     },
 
     {
+        "name": "TEMPO",
+        "url": "https://tempo.eu.com",
+        "difficulty": "impossible",
+        "notes": "No options to delete the account on website or app. Customer service asks for validation (phone number) but account is not actually deleted.",
+        "domains": [
+            "tempo.eu.com",
+            "k.tempocrypto.com"
+        ]
+    },
+
+    {
         "name": "textPlus",
         "url": "https://textplus.com",
         "difficulty": "impossible",
