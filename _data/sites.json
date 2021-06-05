@@ -9674,6 +9674,16 @@
             "k.tempocrypto.com"
         ]
     },
+    
+    {
+        "name": "Teuxdeux",
+        "url": "https://teuxdeux.com/account/request-delete",
+        "difficulty": "easy",
+        "notes": "Check your email. There will be the url for permanently deleting your account.",
+        "domains": [
+            "teuxdeux.com"
+        ]
+    },
 
     {
         "name": "textPlus",
