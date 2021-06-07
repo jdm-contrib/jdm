@@ -5382,6 +5382,16 @@
     },
 
     {
+        "name": "Ludum Dare",
+        "url": "https://ldjam.com/",
+        "difficulty": "impossible",
+        "notes": "You can't even change your username, email, or delete your posts.",
+        "domains": [
+            "https://ldjam.com/"
+        ]
+    },
+
+    {
         "name": "League of Legends",
         "url": "https://support-leagueoflegends.riotgames.com/hc/en-us/articles/202647784-Account-Deletion-FAQ",
         "difficulty": "hard",
