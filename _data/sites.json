@@ -8067,6 +8067,15 @@
     },
 
     {
+        "name": "ProMods",
+        "url": "https://promods.net/",
+        "difficulty": "impossible",
+        "domains": [
+            "https://promods.net/"
+        ]
+    },
+
+    {
         "name": "Prosper",
         "url": "https://www.prosper.com/secure/account/borrower/close_account.aspx",
         "difficulty": "easy",
