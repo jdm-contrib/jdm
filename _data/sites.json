@@ -5658,6 +5658,16 @@
     },
 
     {
+        "name": "Ludum Dare",
+        "url": "https://ldjam.com/",
+        "difficulty": "impossible",
+        "notes": "You can't even change your username, email, or delete your posts.",
+        "domains": [
+            "https://ldjam.com/"
+        ]
+    },
+
+    {
         "name": "Lufthansa",
         "url": "https://www.lufthansa.com/online/myportal/lh/uk/my_account/profile/update?action=deleteProfileAction",
         "difficulty": "easy",
@@ -8053,6 +8063,15 @@
         "notes_tr": "Hesap ayarına gidin, \"Hesabımı Sil\" altında \"Devam Et\" seçeneğini tıklayın ve oradan devam edin.",
         "domains": [
             "producthunt.com"
+        ]
+    },
+
+    {
+        "name": "ProMods",
+        "url": "https://promods.net/",
+        "difficulty": "impossible",
+        "domains": [
+            "https://promods.net/"
         ]
     },
 
