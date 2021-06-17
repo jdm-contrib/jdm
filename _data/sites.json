@@ -1649,6 +1649,16 @@
     },
 
     {
+        "name": "Checksub",
+        "url": "https://www.checksub.com",
+        "difficulty": "hard",
+        "notes": "Contact the customer support to delete your account.",
+        "domains": [
+            "checksub.com"
+        ]
+    },
+
+    {
         "name": "Chegg",
         "url": "https://www.chegg.com/contactus",
         "difficulty": "hard",
