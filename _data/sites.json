@@ -817,6 +817,16 @@
     },
 
     {
+        "name": "AXS",
+        "url": "https://support.axs.com/hc/en-gb/articles/360017655079-Can-you-delete-my-data-",
+        "difficulty": "hard",
+        "notes": "Fill out the form requesting data deletion and then go to your e-mail to confirm the request. It takes a couple weeks for them to process the request.",
+        "domains": [
+            "axs.com"
+        ]
+    },
+
+    {
         "name": "Babbel",
         "url": "https://home.babbel.com/user-profile/settings",
         "difficulty": "medium",
