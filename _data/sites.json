@@ -7198,8 +7198,7 @@
         "name": "OpenCores",
         "url": "https://opencores.org",
         "difficulty": "impossible",
-        "notes": "Though they state you can mail them, the e-mail bounces back.",
-        "notes_tr": "Kendilerine e-posta atabileceğinizi belirtmelerine rağmen, e-posta geri döner.",
+        "notes": "Though they state you can mail them, the e-mail is never answered.",
         "domains": [
             "opencores.org"
         ]
