@@ -2435,7 +2435,7 @@
         "name": "DiceCloud",
         "url": "https://dicecloud.com/",
         "difficulty": "impossible",
-        "notes": "No settings on website to delete your account and the contact form is not answered.",
+        "notes": "There are no settings on the website to delete your account and the contact form is never answered.",
         "domains": [
             "dicecloud.com"
         ]
