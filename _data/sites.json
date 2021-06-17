@@ -7198,7 +7198,7 @@
         "name": "OpenCores",
         "url": "https://opencores.org",
         "difficulty": "impossible",
-        "notes": "Though they state you can mail them, the e-mail is never answered.",
+        "notes": "They recommend e-mailing them, but the e-mail is never answered.",
         "domains": [
             "opencores.org"
         ]
