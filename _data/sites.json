@@ -2432,6 +2432,16 @@
     },
 
     {
+        "name": "DiceCloud",
+        "url": "https://dicecloud.com/",
+        "difficulty": "impossible",
+        "notes": "No settings on website to delete your account and the contact form is not answered.",
+        "domains": [
+            "dicecloud.com"
+        ]
+    },
+
+    {
         "name": "dict.cc",
         "url": "https://users.dict.cc/my-account/close-account",
         "difficulty": "easy",
