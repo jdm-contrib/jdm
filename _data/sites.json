@@ -1653,6 +1653,7 @@
         "url": "https://www.checksub.com",
         "difficulty": "hard",
         "notes": "Contact the customer support to delete your account.",
+        "email": "team@checksub.com",
         "domains": [
             "checksub.com"
         ]
