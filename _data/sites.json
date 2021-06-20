@@ -3984,8 +3984,13 @@
     {
         "name": "Glyph / Trion Worlds / Gamigo",
         "url": "https://support.gamigo.com/hc/en-us/articles/204884188-How-do-I-delete-my-Glyph-account-",
-        "difficulty": "hard",
-        "notes": "Open a support ticket as detailed on the linked page. Alternatively, as specified in the gamigo US Inc. privacy policy, you can email dataprotection-us-inc@gamigo.com to request your data erasure pursuant to Art. 17 GDPR",
+        "difficulty": "medium",
+        "notes": "In order to delete your account, you have to log in, go to \"Security and Privacy\" and press \"Delete my account\" and enter a code that has been sent to you with email.",
+        "notes_de": "Um Ihr Konto zu löschen, müssen Sie sich einloggen, zu \"Sicherheit und Datenschutz\" gehen und auf \"Mein Konto löschen\" drücken und einen Code eingeben, der Ihnen per E-Mail zugesandt wurde",
+        "notes_tr": "Hesabınızı silmek için oturum açmanız, \"Security and Privacy\" menüsüne gitmeniz ve \"Delete my account\" butonuna basmanız ve size e-posta ile gönderilen bir kodu girmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte, vous devez vous connecter, aller sur \"Sécurité et intimité\", cliquer sur \"Supprimer mon compte\" et entrer un code qui vous a été envoyé par e-mail.",
+        "notes_es": "Para eliminar su cuenta, tiene que iniciar sesión, ir a \"Security and Privacy\" y pulsar \"Delete my account\" e introducir un código que se le ha enviado por correo electrónico.",
+        "notes_ru": "Для того чтобы удалить ваш аккаунт, вам необходимо войти в существующую учетную запись, перейти в раздел \"Security and Privacy\" в настройках, нажать \"Delete my account\" и ввести код, который был выслан вам по электронной почте.",
         "domains": [
             "trionworlds.com",
             "gamigo.com"
