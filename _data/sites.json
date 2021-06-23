@@ -1090,6 +1090,16 @@
     },
 
     {
+        "name": "Blinkee",
+        "url": "https://blinkee.city/en-pl/faq",
+        "difficulty": "hard",
+        "email": "contact.pl@blinkee.city",
+        "domains": [
+            "blinkee.city"
+		]
+    },
+
+    {
         "name": "Blinkist",
         "url": "https://www.blinkist.com/nc/settings/account/",
         "difficulty": "easy",
