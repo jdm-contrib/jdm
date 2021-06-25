@@ -11230,5 +11230,16 @@
         "domains": [
             "ciceksepeti.com"
         ]
+    },
+    
+    {
+        "name": "Sonos",
+        "url": "https://www.sonos.com/en-us/legal/privacy#legal-privacy-contact",
+        "difficulty": "hard",
+        "notes": "In order to delete your account you have to email them",
+        "email": "privacy@sonos.com",
+        "domains": [
+            "sonos.com"
+        ]
     }
 ]
