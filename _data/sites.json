@@ -6244,6 +6244,17 @@
     },
 
     {
+        "name": "myESET",
+        "url": "https://my.eset.com/account",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account page there is a Delete account button",
+        "domains": [
+            "eset.com",
+            "my.eset.com"
+        ]
+    },
+
+    {
         "name": "MyFRITZ!",
         "url": "https://sso.myfritz.net/account/#/delete",
         "difficulty": "easy",
