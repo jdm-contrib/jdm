@@ -358,6 +358,17 @@
     },
 
     {
+        "name": "AlienwareArena",
+        "url": "https://www.alienwarearena.com/faq-contact#Contact1",
+        "difficulty": "hard",
+        "notes": "Contact the customer support using the contact email and request the deletion of your account.",
+        "email": "contact@alienwarearena.com",
+        "domains": [
+            "alienwarearena.com"
+        ]
+    },
+
+    {
         "name": "AliExpress",
         "url": "https://accounts.aliexpress.com/user/organization/deactive_account.htm",
         "difficulty": "easy",
