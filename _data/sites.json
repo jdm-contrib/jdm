@@ -4947,6 +4947,16 @@
     },
 
     {
+        "name": "Intel",
+        "url": "https://www.intel.com/content/www/us/en/secure/my-intel/frequently-asked-questions.html",
+        "difficulty": "easy",
+        "notes": "Navigate to your profile settings, click the pencil icon on the top right corner and then \"Request personal data deletion\". The account will be immediately deleted and you'll get a e-mai confirming the action.",
+        "domains": [
+            "intel.com"
+        ]
+    },
+
+    {
         "name": "Internet Archive",
         "url": "https://archive.org/account/index.php?settings=1",
         "difficulty": "easy",
