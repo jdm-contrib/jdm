@@ -9188,6 +9188,17 @@
     },
 
     {
+        "name": "Sonos",
+        "url": "https://www.sonos.com/en-us/legal/privacy#legal-privacy-contact",
+        "difficulty": "hard",
+        "notes": "In order to delete your account you have to email them",
+        "email": "privacy@sonos.com",
+        "domains": [
+            "sonos.com"
+        ]
+    },
+
+    {
         "name": "SoundCloud",
         "url": "https://soundcloud.com/settings/account#delete-user",
         "difficulty": "easy",
@@ -11240,17 +11251,6 @@
         "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
         "domains": [
             "ciceksepeti.com"
-        ]
-    },
-    
-    {
-        "name": "Sonos",
-        "url": "https://www.sonos.com/en-us/legal/privacy#legal-privacy-contact",
-        "difficulty": "hard",
-        "notes": "In order to delete your account you have to email them",
-        "email": "privacy@sonos.com",
-        "domains": [
-            "sonos.com"
         ]
     }
 ]
