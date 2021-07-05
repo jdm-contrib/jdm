@@ -5296,6 +5296,17 @@
     },
 
     {
+        "name": "Kinguin",
+        "url": "https://www.kinguin.net/about-us",
+        "difficulty": "hard",
+        "notes": "Have to contact them, they first will try to convince you not to delete your account, but if you keep trying, they can delete your account",
+        "notes_es": "Tienes que ponerte en contacto con ellos, al principio intentarán convencerte de que no borres tu cuenta, pero si continuas intentándolo, pueden borrártela.",
+        "domains": [
+            "kinguin.net"
+        ]
+    },
+
+    {
         "name": "Kinja (Gawker Media)",
         "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
