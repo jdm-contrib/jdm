@@ -8832,6 +8832,16 @@
     },
 
     {
+        "name": "Seagate",
+        "url": "https://myportal.seagate.com/consumer-identity/profile/",
+        "difficulty": "medium",
+        "notes": "Log in, go to the URL, press 'Delete Account and Product Registrations', and press 'Delete'. You should receive an email asking you to confirm account deletion.",
+        "domains": [
+            "seagate.com"
+        ]
+    },
+
+    {
         "name": "Sedo",
         "url": "https://sedo-us1.custhelp.com/app/answers/detail/a_id/350/~/how-can-i-close-my-account",
         "difficulty": "hard",
