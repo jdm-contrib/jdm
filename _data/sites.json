@@ -8814,6 +8814,16 @@
     },
 
     {
+        "name": "Scholly",
+        "url": "https://search.myscholly.com/settings",
+        "difficulty": "easy",
+        "notes": "Log in, go to the URL, open 'Account Details' > 'Delete Account', and press 'Yes' to confirm. Scholly will immediately log you out and your credentials will no longer work.",
+        "domains": [
+            "myscholly.com"
+        ]
+    },
+
+    {
         "name": "Scratch",
         "url": "https://scratch.mit.edu/accounts/settings/delete_account_confirmation/",
         "difficulty": "easy",
