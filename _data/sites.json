@@ -8850,6 +8850,16 @@
             "sellfy.com"
         ]
     },
+    
+    {
+        "name": "SetApp",
+        "url": "https://my.setapp.com/account",
+        "difficulty": "easy",
+        "notes": "Log in, go to the URL, press 'Delete account', and enter your password to confirm. Your account becomes unavailable and all the data in it is deleted.",
+        "domains": [
+            "setapp.com"
+        ]
+    },
 
     {
         "name": "Seznam.cz",
