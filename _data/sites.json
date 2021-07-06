@@ -3357,6 +3357,16 @@
     },
 
     {
+        "name": "FastWeb",
+        "url": "https://www.fastweb.com/login",
+        "difficulty": "easy",
+        "notes": "Go to the URL and log in with your credentials. Go to 'My Account' > 'Account' and select 'Delete My Account'. Answer 'Yes' to the prompt. FastWeb will immediately log you out, and your credentials will no longer work.",
+        "domains": [
+            "fastweb.com"
+        ]
+    },
+
+    {
         "name": "FaucetHub",
         "url": "https://faucethub.io/dashboard/security/deleteaccount",
         "difficulty": "easy",
