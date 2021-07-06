@@ -9727,6 +9727,16 @@
     },
 
     {
+        "name": "Target",
+        "url": "https://contactus.target.com/",
+        "notes": "Target cannot delete your account, but they can disable it with the option to reenable later. The best you can do is to remove all personal information from the account, then contact Target to disable it. You may also wish to change the account's email to a temporary email address, and then forget this address when your Target account is disabled. Log in, scroll to the bottom, select 'Help' > 'Contact Us' > 'Target.com Order Experience'. This will allow you to chat, email, or call a customer service representative. Tell the rep you wish to disable your account.",
+        "difficulty": "impossible",
+        "domains": [
+            "target.com"
+        ]
+    },
+
+    {
         "name": "TargetProcess",
         "url": "https://www.targetprocess.com",
         "email": "support@targetprocess.com",
