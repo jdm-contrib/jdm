@@ -3213,7 +3213,7 @@
     {
         "name": "Evite",
         "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/516d7c8e-88ca-4311-b9d9-a6a1aa23be02/5eb62c40-d057-4621-93ca-9842142c3443.html",
-        "difficulty": "easy",
+        "difficulty": "hard",
         "notes": "Go to the URL, select 'Delete My Info' as the request type, and fill out the form with your account information. Open the email they send you and confirm. Wait a few days while they review your request.",
         "domains": [
             "evite.com"
