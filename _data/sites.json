@@ -8835,6 +8835,17 @@
     },
 
     {
+        "name": "ScholarshipPoints",
+        "url": "https://www.edvisors.com/delete-request/",
+        "difficulty": "hard",
+        "notes": "Go to the URL and fill out the form with the information associated with your account. Wait a few hours for their email confirmation.",
+        "domains": [
+            "scholarshippoints.com",
+            "edvisors.com"
+        ]
+    },
+
+    {
         "name": "Scholly",
         "url": "https://search.myscholly.com/settings",
         "difficulty": "easy",
