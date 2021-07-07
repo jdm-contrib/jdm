@@ -10583,6 +10583,15 @@
     },
 
     {
+        "name": "Vidio.com",
+        "url": "https://support.vidio.com/support/solutions/articles/43000060322--delete-account",
+        "difficulty": "impossible",
+        "domains": [
+            "vidio.com"
+        ]
+    },
+
+    {
         "name": "Vidyard",
         "url": "https://knowledge.vidyard.com/hc/en-us/requests/new",
         "difficulty": "hard",
