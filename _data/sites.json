@@ -3013,6 +3013,17 @@
     },
 
     {
+        "name": "Edvisors/ScholarshipPoints",
+        "url": "https://www.edvisors.com/delete-request/",
+        "difficulty": "hard",
+        "notes": "Go to the URL and fill out the form with the information associated with your account. Edvisors will respond with a confirmation email. Click the enclosed link and fill out the next form. Between a few hours and 45 days later, Edvisors should send a confirmation email that your account has been deleted.",
+        "domains": [
+            "edvisors.com",
+            "scholarshippoints.com"
+        ]
+    },
+
+    {
         "name": "EdX",
         "url": "https://account.edx.org/#delete-account",
         "difficulty": "medium",
@@ -8831,17 +8842,6 @@
         "notes_tr": "Müşteri hizmetleriyle sohbet/destek formunu kullanarak bir destek talebi açın ve hesabınızı silmelerini isteyin.",
         "domains": [
             "scentbird.com"
-        ]
-    },
-
-    {
-        "name": "ScholarshipPoints",
-        "url": "https://www.edvisors.com/delete-request/",
-        "difficulty": "hard",
-        "notes": "Go to the URL and fill out the form with the information associated with your account. Edvisors will respond with a confirmation email. Click the enclosed link and fill out the next form. Between a few hours and 45 days later, Edvisors should send a confirmation email that your account has been deleted.",
-        "domains": [
-            "scholarshippoints.com",
-            "edvisors.com"
         ]
     },
 
