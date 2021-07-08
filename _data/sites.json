@@ -8838,7 +8838,7 @@
         "name": "ScholarshipPoints",
         "url": "https://www.edvisors.com/delete-request/",
         "difficulty": "hard",
-        "notes": "Go to the URL and fill out the form with the information associated with your account. Wait a few hours for their email confirmation.",
+        "notes": "Go to the URL and fill out the form with the information associated with your account. When their confirmation email arrives, click the the included link and fill out that form. Wait up to 45 days for Edvisors to honor your request.",
         "domains": [
             "scholarshippoints.com",
             "edvisors.com"
