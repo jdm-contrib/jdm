@@ -7239,6 +7239,16 @@
     },
 
     {
+        "name": "OfficeDepot",
+        "url": "https://www.officedepot.com/ccpa/landing.do",
+        "difficulty": "hard",
+        "notes": "Note that their privacy policy states that only California residents may have their information deleted permanently. They may actually delete all accounts that request it. Go to the URL and fill out the form with the information pertaining to your account. Open the 'Delete My Information' section and check the box next to 'Delete my consumer data'. Submit the form and wait for their confirmation email to arrive.",
+        "domains": [
+            "officedepot.com"
+        ]
+    },
+
+    {
         "name": "OkCupid",
         "url": "https://www.okcupid.com/settings",
         "difficulty": "easy",
