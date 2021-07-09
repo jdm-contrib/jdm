@@ -9864,6 +9864,19 @@
     },
 
     {
+        "name": "Ten Percent Happier",
+        "url": "https://support.tenpercent.com/article/22-how-do-i-delete-my-account",
+        "difficulty": "hard",
+        "notes": "Cancel any subscriptions associated with yout account. Then you must send an email to Ten Percent support to have them delete your account. They will delete the account associated with the email address from which you send the request. Once their confirmation email arrives, your credentials will no longer work.",
+        "email": "support@tenpercent.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "I would like to delete my account.",
+        "domains": [
+            "tenpercent.com"
+        ]
+    },
+
+    {
         "name": "Teuxdeux",
         "url": "https://teuxdeux.com/account/request-delete",
         "difficulty": "easy",
