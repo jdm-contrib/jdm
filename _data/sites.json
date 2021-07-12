@@ -8430,6 +8430,18 @@
     },
 
     {
+        "name": "RayWenderlich",
+        "url": "https://accounts.raywenderlich.com/profile",
+        "difficulty": "hard",
+        "notes": "Send an email to support@razeware.com with your account username and email address. Within a few business days, you should receive confirmation that your account was deleted.",
+        "email": "support@razeware.com",
+        "email_subject": "Account deletion request",
+        "domains": [
+            "raywenderlich.com"
+        ]
+    },
+
+    {
         "name": "Razer",
         "url": "https://razer-id.razerzone.com/account/delete",
         "difficulty": "easy",
