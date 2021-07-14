@@ -3222,6 +3222,16 @@
     },
 
     {
+        "name": "Evite",
+        "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/516d7c8e-88ca-4311-b9d9-a6a1aa23be02/5eb62c40-d057-4621-93ca-9842142c3443.html",
+        "difficulty": "hard",
+        "notes": "Go to the URL, select 'Delete My Info' as the request type, and fill out the form with your account information. Open the email they send you and confirm. Wait a few days while they review your request. You should eventually receive email confirmation that your account was deleted, after which your login credentials will no longer work.",
+        "domains": [
+            "evite.com"
+        ]
+    },
+
+    {
         "name": "Exercism",
         "notes": "Login and click 'Delete my Account'. Then click again on the next page to confirm deletion.",
         "notes_tr": "Giriş yapın ve \"Hesabımı Sil\" tuşuna tıklayın. Ve bir sonraki sayfada tekrar tıklayarak silmeyi onaylayın.",
