@@ -200,6 +200,15 @@
             "acorns.com"
         ]
     },
+    
+    {
+    	"name": "Acronis",
+    	"url": "https://account.acronis.com/#/profile/",
+    	"difficulty": "easy",
+    	"domains": [
+    		"acronis.com"
+    	]
+    },    
 
     {
         "name": "ActiveCampaign",
