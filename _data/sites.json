@@ -202,6 +202,15 @@
     },
 
     {
+        "name": "Acronis",
+        "url": "https://account.acronis.com/#/profile/",
+        "difficulty": "easy",
+        "domains": [
+            "acronis.com"
+        ]
+    },
+
+    {
         "name": "ActiveCampaign",
         "url": "https://ac.activehosted.com/f/2175",
         "difficulty": "hard",
