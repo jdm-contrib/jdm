@@ -5514,7 +5514,7 @@
         "name": "LeetCode",
         "url": "https://support.leetcode.com/hc/en-us/requests/new",
         "difficulty": "hard",
-        "notes": "Go to the URL to submit an account deletion request. Include the USERNAME and EMAIL ADDRESS associated with your account. When you receive email confirmation, your account credentials will no longer work.",
+        "notes": "Log in to your LeetCode account, go to the URL to submit an account deletion request. Include in your request the USERNAME and EMAIL ADDRESS associated with your account. When you receive email confirmation, your account credentials will no longer work.",
         "domains": [
             "leetcode.com"
         ]
