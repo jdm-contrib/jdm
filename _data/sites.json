@@ -5656,20 +5656,6 @@
             "linktr.ee"
         ]
     },
-    
-    {
-        "name": "Terms of Service; Didn't Read",
-        "url": "https://edit.tosdr.org/users/edit",
-        "difficulty": "easy",
-        "notes": "Log-in, then go to Menu > Settings, scroll down and click 'Cancel my account'. Your contributions will stay and will be switched to an anonymous account.",
-        "domains": [
-            "status.tosdr.org",
-            "forum.tosdr.org",
-            "edit.tosdr.org",
-            "tosdr.org"
-        ]
-    },
-    
 
     {
         "name": "Linsensuppe",
@@ -9921,6 +9907,19 @@
         ]
     },
 
+    {
+        "name": "Terms of Service; Didn't Read",
+        "url": "https://edit.tosdr.org/users/edit",
+        "difficulty": "easy",
+        "notes": "Log-in, then go to Menu > Settings, scroll down and click 'Cancel my account'. Your contributions will stay and will be switched to an anonymous account.",
+        "domains": [
+            "status.tosdr.org",
+            "forum.tosdr.org",
+            "edit.tosdr.org",
+            "tosdr.org"
+        ]
+    },
+    
     {
         "name": "Teuxdeux",
         "url": "https://teuxdeux.com/account/request-delete",
