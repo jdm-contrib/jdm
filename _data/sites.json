@@ -5511,11 +5511,10 @@
     },
 
     {
-        "name": "Leetcode",
-        "url": "https://leetcode.com",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account, though you can create a new session to reset your progress",
-        "notes_tr": "Hesabınızı silemezsiniz, ancak ilerlemenizi sıfırlamak için yeni bir oturum oluşturabilirsiniz",
+        "name": "LeetCode",
+        "url": "https://support.leetcode.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Go to the URL to submit an account deletion request. Include the USERNAME and EMAIL ADDRESS associated with your account. When you receive email confirmation, your account credentials will no longer work.",
         "domains": [
             "leetcode.com"
         ]
