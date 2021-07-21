@@ -5646,7 +5646,17 @@
             "linkedin.com"
         ]
     },
-
+    
+    {
+        "name": "Linktree",
+        "url": "https://linktr.ee/admin/account",
+        "difficulty": "easy",
+        "notes": "Go to your account details, scroll down to the 'Danger Zone' and click 'Delete Account'.",
+        "domains": [
+            "linktr.ee"
+        ]
+    },
+    
     {
         "name": "Terms of Service; Didn't Read",
         "url": "https://edit.tosdr.org/users/edit",
@@ -5660,15 +5670,6 @@
         ]
     },
     
-    {
-        "name": "Linktree",
-        "url": "https://linktr.ee/admin/account",
-        "difficulty": "easy",
-        "notes": "Go to your account details, scroll down to the 'Danger Zone' and click 'Delete Account'.",
-        "domains": [
-            "linktr.ee"
-        ]
-    },
 
     {
         "name": "Linsensuppe",
