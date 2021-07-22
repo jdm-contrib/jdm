@@ -1212,6 +1212,16 @@
     },
 
     {
+        "name": "bobatea",
+        "url":"https://git.boba.best/user/settings/account",
+        "difficulty": "easy",
+        "notes": "Log-in, go to Settings > Account then at the bottom you can delete your account.",
+        "domains": [
+            "git.boba.best"
+        ]
+    },
+
+    {
         "name": "BodBot",
         "url": "https://www.bodbot.com/Account_Settings.html",
         "difficulty": "easy",
