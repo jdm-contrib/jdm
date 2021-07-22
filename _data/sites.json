@@ -5134,6 +5134,18 @@
     },
 
     {
+        "name": "Intelius People Finder",
+        "url": "https://www.intelius.com/dashboard/support/contact",
+        "difficulty": "hard",
+        "notes": "Send an email to Intelius support to request account deletion.",
+        "email": "support@mailer.intelius.com",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "intelius.com"
+        ]
+    },
+
+    {
         "name": "Internet Archive",
         "url": "https://archive.org/account/index.php?settings=1",
         "difficulty": "easy",
