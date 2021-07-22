@@ -10783,7 +10783,7 @@
         "notes": "Business Account users must contact their company administrator. Peronal account users must send an email to Vuforia Support to request account deletion.",
         "email": "vuforia-support@ptc.com",
         "email_subject": "Account Deletion Request",
-        "email_body": "Hello, I have a Chalk account for personal use. I would like my information deleted and my account closed, please. My account email address is <EMAIL_ADDRESS>.",
+        "email_body": "Hello, I have a Chalk account for personal use. I would like my information deleted and my account closed, please. My account email address is <EMAIL_ADDRESS>. Thank you.",
         "domains": [
             "ptc.com",
             "vuforia.com"
