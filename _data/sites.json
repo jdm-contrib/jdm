@@ -10778,12 +10778,9 @@
 
     {
         "name": "Vuforia Chalk",
-        "url": "https://support.ptc.com/help/vuforia/chalk_app_center/#page/Vuforia_Chalk_Admin_Center%2Fcommon%2Fget_help.html%23",
+        "url": "https://www.ptc.com/en/contact-us",
         "difficulty": "hard",
-        "notes": "Business Account users must contact their company administrator. Peronal account users must send an email to Vuforia Support to request account deletion.",
-        "email": "vuforia-support@ptc.com",
-        "email_subject": "Account Deletion Request",
-        "email_body": "Hello, I have a Chalk account for personal use. I would like my information deleted and my account closed, please. My account email address is <EMAIL_ADDRESS>. Thank you.",
+        "notes": "Business Account users must contact their company administrator. Peronal account users must contact PTC to request account deletion. Go to the URL, enter your personal information as associated with your Chalk account, and request account deletion.",
         "domains": [
             "ptc.com",
             "vuforia.com"
