@@ -4923,6 +4923,29 @@
     },
 
     {
+        "name": "Invidious",
+        "url": "https://redirect.invidious.io/preferences",
+        "difficulty": "easy",
+        "notes": "Login through your instance, go to your preferences and click 'Delete account' at the bottom of the page.",
+        "domains": [
+            "yewtu.be",
+            "invidious.snopyta.org",
+            "invidious.kavin.rocks",
+            "vid.puffyan.us",
+            "invidious.exonip.de",
+            "ytprivate.com",
+            "invidious.silkky.cloud",
+            "invidious-us.kavin.rocks",
+            "inv.riverside.rocks",
+            "y.com.cm",
+            "ytb.trom.tf",
+            "invidious.s1gm4.eu",
+            "invidious.namazso.eu",
+            "yt.cyberhost.uk"
+        ]
+    },
+
+    {
         "name": "InfoCasas",
         "url": "https://www.infocasas.com.uy/dashboard",
         "difficulty": "hard",
