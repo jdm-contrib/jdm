@@ -4923,6 +4923,18 @@
     },
 
     {
+        "name": "InfoCasas",
+        "url": "https://www.infocasas.com.uy/dashboard",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your account.",
+        "notes_tr": "Müşteri desteği ile e-posta yoluyla iletişime geçin ve hesabınızın silinmesini isteyin. Hesabınızı tanımlamaları için, hesabınızı oluştururken kullandığınız e-posta adresiyle istekte bulunun.",
+        "email": "info@infocasas.com.uy",
+        "domains": [
+            "infocasas.com.uy"
+        ]
+    },
+    
+    {
         "name": "Invidious",
         "url": "https://redirect.invidious.io/preferences",
         "difficulty": "easy",
@@ -4945,17 +4957,6 @@
         ]
     },
 
-    {
-        "name": "InfoCasas",
-        "url": "https://www.infocasas.com.uy/dashboard",
-        "difficulty": "hard",
-        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your account.",
-        "notes_tr": "Müşteri desteği ile e-posta yoluyla iletişime geçin ve hesabınızın silinmesini isteyin. Hesabınızı tanımlamaları için, hesabınızı oluştururken kullandığınız e-posta adresiyle istekte bulunun.",
-        "email": "info@infocasas.com.uy",
-        "domains": [
-            "infocasas.com.uy"
-        ]
-    },
 
     {
         "name": "InfoJobs",
