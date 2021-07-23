@@ -2663,6 +2663,18 @@
     },
 
     {
+        "name": "Disroot",
+        "url": "https://user.disroot.org/pwm/private/",
+        "difficulty": "easy",
+        "notes": "Go to the home page, click the user icon then press 'Delete my Account', nobody will be able to use the same username after deletion.",
+        "domains": [
+            "disroot.org",
+            "user.disroot.org",
+            "mail.disroot.org"
+        ]
+    },
+
+    {
         "name": "DNSimple",
         "url": "https://dnsimple.com/user/cancellation",
         "difficulty": "easy",
