@@ -9384,6 +9384,18 @@
     },
 
     {
+        "name": "Speedtest",
+        "url": "https://help.speedtest.net/hc/en-us/articles/360035679994-How-do-I-delete-my-data-GDPR-",
+        "difficulty": "hard",
+        "notes": "The only way to delete your speedtest account is by emailing their support team.",
+        "email": "support@speedtest.net",
+        "domains": [
+            "speedtest.net",
+            "help.speedtest.net"
+        ]
+    },
+
+    {
         "name": "SpigotMC",
         "url": "https://www.spigotmc.org/threads/delete-account.205176/",
         "difficulty": "impossible",
