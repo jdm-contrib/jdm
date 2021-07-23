@@ -4711,6 +4711,16 @@
     },
 
     {
+        "name": "Hooked",
+        "url": "https://www.hookedapp.com/",
+        "difficulty": "impossible",
+        "notes": "Hooked's privacy policy contains no provisions for deleting personal information once that information has been given, unless that information is inaccurate or the user is less than eighteen years of age. Falsely representing your age to get an account deleted is not recommended.",
+        "domains": [
+            "hookedapp.com"
+        ]
+    },
+
+    {
         "name": "Hostelsclub",
         "url": "https://www.hostelsclub.com",
         "difficulty": "impossible",
