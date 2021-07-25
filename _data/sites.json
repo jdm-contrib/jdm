@@ -606,9 +606,7 @@
         "name": "Apple",
         "url": "https://support.apple.com/es-lamr/HT208504",
         "difficulty": "easy",
-        "notes": "Follow the steps to request account deletion. It is possible to undo for a few days.",
-        "notes_tr": "Hesabınızın silinmesini talep etmek için adımları uygulayın. Birkaç gün içinde işlemi iptal etmek mümkün.",
-        "notes_cz": "Následujte postup, abyste požádali o smazání svého účtu. Po několik dní bude možné smazání účtu zrušit.",
+        "notes": "Follow the steps to request account deletion. It is possible to undo for a few days. If you have bought a developer license, it's impossible to delete your account.",
         "domains": [
             "apple.com"
         ]
