@@ -7715,6 +7715,17 @@
     },
 
     {
+        "name": "pdfFiller",
+        "url": "https://www.pdffiller.com/en/account/settings",
+        "difficulty": "easy",
+        "notes": "Log in to your account, then go to 'Settings' tab and click 'Delete Account'.",
+        "notes_pl": "Zaloguj się na swoje konto, potem przejdź do 'Settings' i kliknij 'Delete Account'.",
+        "domains": [
+            "www.pdffiller.com"
+        ]
+    },
+
+    {
         "name": "Peak",
         "url": "https://peak.net",
         "difficulty": "hard",
