@@ -6618,6 +6618,17 @@
     },
 
     {
+        "name": "monkeyType",
+        "url": "https://github.com/Miodec/monkeytype/discussions/1563#discussioncomment-910925",
+        "difficulty": "hard",
+        "notes": "To delete your account, you have to email them or request it on Discord: Miodec#1512.",
+        "email": "jack@monkeytype.com",
+        "domains": [
+            "monkeytype.com"
+        ]
+    },
+
+    {
         "name": "Monster",
         "url": "http://my.monster.com/Account/CancelMembership",
         "difficulty": "easy",
