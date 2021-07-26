@@ -608,7 +608,9 @@
         "difficulty": "easy",
         "notes": "Follow the steps to request account deletion. It is possible to undo for a few days. If you have bought a developer license, it's impossible to delete your account.",
         "domains": [
-            "apple.com"
+            "apple.com",
+            "developer.apple.com",
+            "icloud.com"
         ]
     },
 
