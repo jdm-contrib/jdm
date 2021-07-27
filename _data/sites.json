@@ -736,7 +736,7 @@
         "name": "Atlassian",
         "url": "https://id.atlassian.com/manage/close-account",
         "difficulty": "medium",
-        "notes": "You needs to visit my.atlassian.com and designate a different user as a billing and technical contact if your account is the primary billing contact for one or more products",
+        "notes": "You need to visit my.atlassian.com and designate a different user as a billing and technical contact if your account is the primary billing contact for one or more products",
         "domains": [
             "atlassian.com",
             "my.atlassian.com"
