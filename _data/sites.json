@@ -4768,7 +4768,17 @@
             "houzz.com"
         ]
     },
-
+    
+    {   
+        "name": "Hover",
+        "url": "https://help.hover.com/hc/en-us/articles/222421328-Canceling-services-with-Hover",
+        "difficulty": "easy",
+        "notes": "Removing your account with Hover.com is as easy as canceling your service.",
+        "domains": [
+            "hover.com"
+        ]
+    },
+    
     {
         "name": "HowLongToBeat",
         "url": "https://howlongtobeat.com/",
