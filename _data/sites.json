@@ -4772,8 +4772,9 @@
     {
         "name": "Hover",
         "url": "https://help.hover.com/hc/en-us/articles/222421328-Canceling-services-with-Hover",
-        "difficulty": "easy",
-        "notes": "Removing your account with Hover.com is as easy as canceling your service.",
+        "difficulty": "hard",
+        "notes": "First Cancel your service with Hover.com. Then proceeed to contact Customer support to submit a request for account deletion.",
+        "email": "help@hover.com",
         "domains": [
             "hover.com"
         ]
