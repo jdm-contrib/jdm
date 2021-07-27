@@ -11438,6 +11438,17 @@
             "zoho.com"
         ]
     },
+    
+    {
+        "name": "ZombieLink",
+        "url": "https://zombiesrungame.com/zombielink/account",
+        "difficulty": "easy",
+        "notes": "Scroll down to 'Delete and Reset Account' and click the red link: 'delete your account'",
+        "notes_pl": "Zjedź w dół do 'Delete and Reset Account' i kliknij na czerwony link: 'delete your account",
+        "domains": [
+            "zombiesrungame.com"
+        ]
+    },
 
     {
         "name": "Zoom",
