@@ -4,6 +4,7 @@
         "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
         "difficulty": "easy",
         "notes": "Profile > settings > delete account > confirm",
+        "notes_ru": "Профиль > настройки > удалить аккаунт > подтвердить.",
         "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
         "domains": [
             "e.foundation",
@@ -16,6 +17,7 @@
         "url": "https://000webhost.com/members/profile",
         "difficulty": "easy",
         "notes": "Go to \"Profile > Delete My Account\" and select why you are deleting your account.",
+        "notes_ru": "Перейдите в Профиль > «Удалить мою учетную запись» и выберите, почему вы удаляете свою учетную запись.",
         "notes_tr": "\"Profil\" kısmına girip \"Hesabımı Sil\" seçeneğini seçin ve ardından neden hesabınızı sileceğinizi belirtin.",
         "notes_pt_br": "Vá para \"Profile > Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
         "domains": [
@@ -30,6 +32,7 @@
         "difficulty": "hard",
         "notes": "The only way to delete an account is to send an e-mail to customer support agents.",
         "notes_fr": "L’unique façon de supprimer un compte est d’envoyer un email au service client.",
+        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
         "email": "frsales@123rf.com",
         "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX, I want my account to be deleted because of XXXXXX. I request and authorize you to remove my profile from 123rf.com and delete all my content with you. I wish to terminate the 123RF Contributor Agreement and agree to the Terms and Conditions as set in the Contributor Agreement for the termination process.",
         "domains": [
@@ -42,6 +45,7 @@
         "url": "https://my.1password.com/profile",
         "difficulty": "easy",
         "notes": "Login to your account, go to profile, click 'Permanently Delete Account'. Confirm by entering 'I am sure' and click 'Delete Account'.",
+        "notes_ru": "Войдите в свою учетную запись, перейдите в профиль, нажмите «Удалить учетную запись навсегда». Подтвердите, введя «Я уверен» и нажав «Удалить учетную запись».",
         "notes_tr": "Hesabınıza giriş yapın, profile girin, \"Kalıcı Olarak Hesabımı Sil\" seçeneğine tıklayın. \"Eminim\" yazarak onaylayın ve \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "1password.com"
@@ -53,6 +57,7 @@
         "url": "https://280daily.com/settings/delete",
         "difficulty": "easy",
         "notes": "Enter your account password and click on 'DELETE ACCOUNT'.",
+        "notes_ru": "Введите пароль от своей учетной записи и нажмите «УДАЛИТЬ УЧЕТНУЮ ЗАПИСЬ».",
         "notes_tr": "Hesap şifrenizi girin ve \"Hesabı Sil\" tuşuna basın.",
         "domains": [
             "280daily.com"
@@ -83,6 +88,7 @@
         "url": "https://500px.com/settings",
         "difficulty": "hard",
         "notes": "On Account Settings, under \"Please choose your issue below\", select \"Delete Account\", fill the form and submit.",
+        "notes_ru": "В настройках учетной записи в разделе «Выберите проблему ниже» выберите «Удалить учетную запись», заполните форму и отправьте.",
         "notes_tr": "\"Hesap Ayarları\" kısmında, \"Lütfen sorununuzu seçin\" altında, \"Hesabı Sil\" seçeneğini seçin, formu doldurun ve yollayın.",
         "domains": [
             "500px.com"
@@ -94,6 +100,7 @@
         "url": "https://help.7digital.com/hc/en-gb/requests/new",
         "difficulty": "hard",
         "notes": "Email customer service using their web contact form and ask them to delete your account.",
+        "notes_ru": "Отправьте электронное письмо в службу поддержки, используя контактную форму в Интернете, и попросите удалить вашу учетную запись.",
         "notes_tr": "Sitelerindeki web iletişim formunu kullanarak müşteri hizmetlerine e-posta gönderin ve hesabınızı silmenizi isteyin.",
         "domains": [
             "7digital.com"
@@ -105,6 +112,7 @@
         "url": "https://support.99designs.com/hc/en-us/articles/204108919-How-do-I-delete-my-account-",
         "difficulty": "hard",
         "notes": "Have to contact them, they will only ask for confirmation",
+        "notes_ru": "Свяжитесь с ними, они только попроят подтверждения.",
         "notes_tr": "Onlarla iletişim kurmanız gerekecek, sadece onayınızı isteyecekler",
         "domains": [
             "99designs.com"
@@ -116,6 +124,7 @@
         "url": "https://9gag.com/member/delete",
         "difficulty": "easy",
         "notes": "Login to your account, go to parameters, click Delete my account. Confirm by clicking I want to delete my account. And again by clicking Delete my 9GAG account.",
+        "notes_ru": "Войдите в свою учетную запись, перейдите в параметры, нажмите «Удалить мою учетную запись». Подтвердите, нажав «Я хочу удалить свою учетную запись» и снова нажав «Удалить мою учетную запись 9GAG».",
         "notes_tr": "Hesabınıza giriş yapın, parameterlere girin, \"Hesabımı Sil\" seçeneğine tıklayın. Ardından tekrar \"Hesabımı silmek istiyorum\" tuşuna, ve son olarak \"Hesabımı Sil\" seçeneğine tıklayın.",
         "notes_fr": "Connectez vous, allez dans les parametres, cilquez sur supprimer mon compte. Confirmez en cliquant sur je supprimer mon compte. Et confirmez encore avec supprimer mon compte.",
         "notes_it": "Logga il tuo account, vai su parameters, clicca Delete my account. Conferma cliccando I want to delete my account. E ancora cliccando Delete my 9GAG account.",
@@ -134,6 +143,7 @@
         "difficulty": "hard",
         "email": "contato@abacashi.com",
         "notes": "Either use the contact form or e-mail them directly asking for the account to be deleted",
+        "notes_ru": "Используйте контактную форму, или отправьте электронное письмо напрямую с просьбой удалить учетную запись.",
         "domains": [
             "abacashi.com"
         ]
@@ -144,6 +154,7 @@
         "url": "https://www.abebooks.com/customer-support/",
         "difficulty": "hard",
         "notes": "Select 'Something else' and then 'Close my account' and fill out the e-mail form.",
+        "notes_ru": "Выберите «Что-то еще», затем «Закрыть мою учетную запись» и заполните форму электронной почты.",
         "notes_tr": "\"Başka bir şey\" seçeneğini seçin, ardından \"Hesabımı Kapat\" tuşuna basın ve e-posta formunu doldurun.",
         "domains": [
             "abebooks.com"
@@ -182,6 +193,7 @@
         "url": "https://app.helloacasa.com/register/edit",
         "difficulty": "easy",
         "notes": "In your account settings choose 'Remove my account' at the bottom.",
+        "notes_ru": "В настройках вашей учетной записи выберите снизу «Удалить мою учетную запись».",
         "notes_tr": "\"Hesap Ayarları\" kısmında, en altta bulunan \"Hesabımı Kaldır\" seçeneğini seçin.",
         "notes_de": "Wähle 'Remove my account' in den Account-Einstellungen.",
         "domains": [
@@ -195,6 +207,7 @@
         "url": "https://www.acorns.com/support/contact/",
         "difficulty": "impossible",
         "notes": "You have to contact customer support to deactivate your account. Can be reactivated again.",
+        "notes_ru": "Вам необходимо связаться со службой поддержки, чтобы деактивировать свою учетную запись. Может быть снова активирована.",
         "notes_tr": "Hesabınızı devre dışı bırakmak için müşteri desteğine başvurmanız gerekiyor. Hesap sonradan tekrar aktifleştirilebilir.",
         "domains": [
             "acorns.com"
@@ -215,6 +228,7 @@
         "url": "https://ac.activehosted.com/f/2175",
         "difficulty": "hard",
         "notes": "For account deletion requests or requests to remove all account information, submit the <a href='https://ac.activehosted.com/f/2175'>Data Subject Rights Request form</a>. When asked \"What would you like to initiate with us?\" choose the option <b>I want to be forgotten, and want my personal data erased</b> in .",
+        "notes_ru": "Для запроса на удаление учетной записи или запроса на удаление всей информации учетной записи отправьте форму запроса прав субъекта данных. На вопрос: «Что бы вы хотели принять с нами?» выберите вариант «Я хочу, чтобы меня забыли, и хочу, чтобы мои личные данные были удалены».",
         "domains": [
             "activehosted.com"
         ]
@@ -225,6 +239,7 @@
         "url": "https://ada.com/help/360000319269/",
         "difficulty": "easy",
         "notes": "Just click delete and all your account data is erased",
+        "notes_ru": "Нажмите «Удалить», и все данные вашей учетной записи будут удалены.",
         "domains": [
             "ada.com"
         ]
@@ -235,6 +250,7 @@
         "url": "https://accounts.adafruit.com/users/security",
         "difficulty": "easy",
         "notes": "Just click delete and confirm.",
+        "notes_ru": "Нажмите «Удалить» и подтвердите.",
         "domains": [
             "adafruit.com"
         ]
@@ -246,6 +262,7 @@
         "difficulty": "hard",
         "notes": "Contact the customer support using the contact form and request the deletion of your account.",
         "notes_tr": "İletişim formunu kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
+        "notes_ru": "Свяжитесь со службой поддержки, используя контактную форму, и запросите удаление вашей учетной записи.",
         "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
         "domains": [
             "adf.ly"
@@ -275,6 +292,7 @@
         "url": "https://wallet.advcash.com/pages/profile#",
         "difficulty": "easy",
         "notes": "Go to the profile page and click the button to delete account",
+        "notes_ru": "Перейдите на страницу профиля и нажмите кнопку «Удалить», чтобы удалить аккаунт.",
         "domains": [
             "advcash.com"
         ]
@@ -285,6 +303,7 @@
         "url": "https://www.airbnb.com/help/article/240/how-do-i-cancel-my-account",
         "difficulty": "hard",
         "notes": "Your account can be deleted <a href=\"https://www.airbnb.com/help/contact_us\">by contacting support</a>, although some pertinent information may be retained as legally required.",
+        "notes_ru": "Вашу учетную запись можно удалить, обратившись в службу поддержки, однако некоторая важная информация может быть сохранена в соответствии с требованиями закона.",
         "notes_tr": "Hesabınız iletişim formundan silinebilir, ancak bazı bilgiler yasal olarak gerektiğinden dolayı tutulabilir.",
         "domains": [
             "airbnb.ae",
@@ -350,6 +369,7 @@
         "url": "https://www.airdroid.com/en/deleteAccount.html",
         "difficulty": "easy",
         "notes": "Go to the Account Info page, Click the Delete Account button to delete your AirDroid account.",
+        "notes_ru": "Перейдите на страницу информации об учетной записи, нажмите кнопку «Удалить учетную запись», чтобы удалить свою учетную запись AirDroid.",
         "notes_tr": "\"Hesap bilgisi\" sayfasına gidin, ve ardından AirDroid hesabınızı silmek için \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "airdroid.com"
@@ -361,6 +381,7 @@
         "url": "https://accounts.alibaba.com/user/organization/manage_person_profile.htm",
         "difficulty": "easy",
         "notes": "To delete your account, go to \"My Account\" page, click on \"Member Profile\" and then, \"Deactivate Account\"",
+        "notes_ru": "Чтобы удалить свою учетную запись, перейдите на страницу «Моя учетная запись», нажмите «Профиль участника», а затем «Деактивировать учетную запись».",
         "domains": [
             "alibaba.com"
         ]
@@ -382,6 +403,7 @@
         "url": "https://accounts.aliexpress.com/user/organization/deactive_account.htm",
         "difficulty": "easy",
         "notes": "To delete your account, go to the \"My AliExpress\" page, click on \"Account Settings\"->\"Edit Settings\" then \"Edit Member Profile\" and click on \"Deactivate Account\" button. On the deactivation page, there is an option \"Release my account at the same time\", click it and confirm so that data will be permanently deleted along with your account.",
+        "notes_ru": "Чтобы удалить свою учетную запись, перейдите на страницу «Мой AliExpress», нажмите «Настройки учетной записи» -> «Изменить настройки», затем «Изменить профиль участника» и нажмите кнопку «Деактивировать учетную запись». На странице деактивации есть опция «Освободить мою учетную запись в то же время», щелкните ее и подтвердите, чтобы данные были окончательно удалены вместе с вашей учетной записью.",
         "notes_tr": "Hesabınızı silmek için, \"AliExpress'im\" sayfasına gidin, \"Hesap Ayarları\" \"Ayarları Düzenle\" \"Üye Profilini Düzenle\" \"Hesabı Devre Dışı bırak\" seçeneğini seçin. Hesabınızı devre dışı bırakma sayfasında, \"Aynı zamanda hesabımı iptal et\" isimli bir seçenek bulunuyor. Buna basın ve onaylayın, böylece tüm verileriniz hesabınızla birlikte kalıcı olarak silinecek.",
         "domains": [
             "aliexpress.com"
@@ -393,6 +415,7 @@
         "url": "http://bbs.allcall.hk/",
         "difficulty": "impossible",
         "notes": "The website does not offer any options that allow the account to be deleted.",
+        "notes_ru": "Веб-сайт не предлагает никаких опций, позволяющих удалить учетную запись.",
         "notes_tr": "Bu web sitesi hesabınızın silinmesi için herhangi bir seçenek sunmuyor.",
         "notes_pt_br": "O website não disponibiliza nenhuma opção que possibilite a exclusão da conta.",
         "domains": [
@@ -405,6 +428,7 @@
         "url": "http://alvanista.com/profile/edit",
         "difficulty": "easy",
         "notes": "Follow the link to edit your profile and click cancel account at bottom.",
+        "notes_ru": "Перейдите по ссылке, чтобы отредактировать свой профиль, и нажмите внизу отменить учетную запись.",
         "notes_tr": "Profilinizi düzenlemek için bağlantıya tıklayın ve sayfanın altındaki \"Hesabı İptal Et\" seçeneğini seçin.",
         "notes_pt_br": "Use o link de editar o perfil e clique em cancelar conta no fim da página",
         "domains": [
@@ -417,6 +441,7 @@
         "url": "https://amara.org/profiles/account/",
         "difficulty": "easy",
         "notes": "Just head to the account page and click the red button 'Delete your account' at the bottom left of the page.",
+        "notes_ru": "Просто перейдите на страницу учетной записи и нажмите красную кнопку «Удалить учетную запись» в левом нижнем углу страницы.",
         "notes_tr": "Hesap sayfasına girin ve sayfanın sol altındaki kırmızı \"Hesabınızı Silin\" tuşuna basın.",
         "notes_pt_br": "Apenas vá para a página de sua conta e clique no botão 'Delete your account' no canto inferior esquerdo da página.",
         "domains": [
@@ -458,6 +483,7 @@
         "url": "https://portal.aws.amazon.com/gp/aws/manageYourAccount?#productToCancel",
         "difficulty": "easy",
         "notes": "You must login before visiting the link.",
+        "notes_ru": "Вы должны войти перед переходом по ссылке.",
         "notes_tr": "Bağlantıyı ziyaret etmeden önce giriş yapmalısınız.",
         "notes_fr": "Il faut que vous vous connectez avant d'utiliser le lien.",
         "notes_pl": "Musisz się zalogować przed wejściem w link.",
@@ -471,6 +497,7 @@
         "url": "https://androidfilehost.com/?w=contact",
         "difficulty": "hard",
         "notes": "Contact the customer support using the contact form and request the deletion of your account.",
+        "notes_ru": "Свяжитесь со службой поддержки клиентов, используя контактную форму, и запросите удаление вашей учетной записи.",
         "notes_tr": "İletişim formunu kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
         "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
         "domains": [
@@ -483,6 +510,7 @@
         "url": "https://angel.co/settings",
         "difficulty": "easy",
         "notes": "Click delete account once logged in.",
+        "notes_ru": "После входа, нажмите «Удалить учетную запись».",
         "notes_tr": "Giriş yaptıktan sonra \"Hesabı Sil\" tuşuna basın.",
         "domains": [
             "angel.co"
@@ -494,6 +522,7 @@
         "url": "https://anilist.co/settings/account",
         "difficulty": "easy",
         "notes": "Go to \"Delete User Account > OK, Delete my account\".",
+        "notes_ru": "Перейдите к «Удалить учетную запись пользователя > ОК, Удалить мою учетную запись».",
         "notes_tr": "\"Kullanıcı Hesabını Sil\" \"Tamam, Hesabımı Sil\" tuşuna basın.",
         "domains": [
             "anilist.co"
@@ -505,6 +534,7 @@
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
         "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
+        "notes_ru": "Мы не «удаляем» и не «закрываем» учетные записи на ACC. Если вы больше не хотите использовать сайт, вы можете удалить всю личную информацию из своего профиля, а затем прекратить заходить на учетную запись.",
         "notes_tr": "ACC üzerindeki hesapları \"silmiyoruz\" veya \"son vermiyoruz\". Eğer web sitesini bir daha kullanmak istemiyorsanız, profilinizden tüm kişisel bilgileri silip bir daha giriş yapmayabilirsiniz.",
         "notes_fr": "ACC ne supprime pas les comptes. Cependant vous pouvez supprimer les informations qui sont dessus et arreter de vous connecter.",
         "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più",
@@ -521,6 +551,7 @@
         "url": "https://animoto.com/account",
         "difficulty": "easy",
         "notes": "Open the link and click Delete Account",
+        "notes_ru": "Откройте ссылку и нажмите «Удалить учетную запись».",
         "domains": [
             "animoto.com"
         ]
@@ -530,6 +561,7 @@
         "url": "https://join.ankiapp.com",
         "difficulty": "easy",
         "notes": "Log in to your account and click 'Delete Account'. Confirm by entering your password and click 'OK'. You cannot delete your account via web.ankiapp.com - please visit join.ankiapp.com instead.",
+        "notes_ru": "Войдите в свою учетную запись и нажмите «Удалить учетную запись». Подтвердите ввод пароля и нажмите «ОК». Если вы не можете удалить свою учетную запись через web.ankiapp.com - посетите join.ankiapp.com.",
         "notes_tr": "Hesabınıza giriş yapın ve \"Hesabı Sil\" tuşuna basın. Onaylamak için şifrenizi girin ve \"Tamam\" seçeneğini seçin. Hesabınızı web.ankiapp.com üzerinden silemezsiniz, lütfen onun yerine join.ankiapp.com sitesini ziyaret edin.",
         "domains": [
             "ankiapp.com"
@@ -541,6 +573,7 @@
         "url": "https://ankiweb.net/account/remove",
         "difficulty": "easy",
         "notes": "Confirm by entering your e-mail address and click 'Remove'.",
+        "notes_ru": "Подтвердите, введя свой адрес электронной почты и нажмите «Удалить».",
         "notes_tr": "E-posta adresinizi girerek onaylayın ve sonrasında \"Sil\" tuşuna basın.",
         "domains": [
             "ankiweb.net"
@@ -552,6 +585,7 @@
         "url": "https://app.anonaddy.com/settings",
         "difficulty": "easy",
         "notes": "Enter password at the bottom of the page and click 'Delete Account'.",
+        "notes_ru": "Введите пароль и внизу страницы нажмите «Удалить учетную запись».",
         "notes_tr": "Sayfanın altında şifrenizi girin ve \"Hesabı Sil\" tuşuna basın.",
         "domains": [
             "anonaddy.com"
@@ -563,6 +597,7 @@
         "url": "https://support.any.do/account-and-profile/",
         "difficulty": "medium",
         "notes": "You can only delete your account via the mobile app: install the app, log in, click Profile, click Delete Account.",
+        "notes_ru": "Вы можете удалить свою учетную запись только через мобильное приложение: установите приложение, войдите в систему, нажмите «Профиль», затем «Удалить учетную запись».",
         "notes_tr": "Hesabınızı yalnızca mobil uygulamadan silebilirsiniz: Uygulamayı indirin, giriş yapın, \"Profil\" yerine girin ve \"Hesabı Sil\" tuşuna basın.",
         "domains": [
             "any.do"
@@ -583,6 +618,7 @@
         "url": "https://billing.apexminecrafthosting.com/submitticket.php",
         "difficulty": "hard",
         "notes": "You need to log into your billing panel and send a ticket regarding the account deletion. If you only have a multicraft account, you can send a ticket without logging in.",
+        "notes_ru": "Вам необходимо войти в свою биллинговую панель и отправить заявку на удаление учетной записи. Если у вас только «multicraft account», вы можете отправить тикет без входа в систему.",
         "notes_tr": "Faturalandırma panelinize giriş yapıp, hesabınızın silinmesi için talep göndermeniz gerekir. Eğer sadece multicraft hesabınız varsa, giriş yapmadan talep gönderebilirsiniz.",
         "domains": [
             "apexminecrafthosting.com"
@@ -594,6 +630,7 @@
         "url": "https://groups.google.com/forum/#!topic/appfog-users/H9AkHjHFfZk",
         "difficulty": "hard",
         "notes": "Remove all applications and services from your account, then request deletion by emailing customer services.",
+        "notes_ru": "Удалите все приложения и службы из своей учетной записи, а затем запросите удаление, отправив электронное письмо в службу поддержки.",
         "notes_tr": "Hesabınızdaki tüm uygulamaları ve hizmetleri kaldırın, ardından müşteri hizmetlerine e-posta göndererek hesabınızın silinmesini talep edin.",
         "notes_fr": "Enlevez toutes les applications et tous les services de votre compte, puis demandez la suppression de votre compte en envoyant un e-mail au service clients.",
         "email": "support@appfog.com",
@@ -607,10 +644,12 @@
         "url": "https://support.apple.com/en-us/HT208504",
         "difficulty": "easy",
         "notes": "Follow the steps to request account deletion. It is possible to undo for a few days. If you have bought a developer license, it's impossible to delete your account.",
+        "notes_ru": "Следуйте инструкциям, чтобы запросить удаление учетной записи. Отменить можно за несколько дней.",
         "domains": [
             "apple.com",
             "developer.apple.com",
-            "icloud.com"
+            "icloud.com",
+            "appleid.apple.com"
         ]
     },
 
@@ -619,6 +658,7 @@
         "url": "https://appshopper.com/about#contact-form",
         "difficulty": "hard",
         "notes": "To request account deletion, you must email: support@appshopper.com",
+        "notes_ru": "Чтобы запросить удаление учетной записи, вы должны написать на электронную почту: support@appshopper.com",
         "notes_tr": "Hesap silme işlemi için, e-posta göndermeniz gerekir.",
         "email": "support@appshopper.com",
         "domains": [
@@ -652,6 +692,7 @@
         "url": "https://theartistunion.com/dashboard/account",
         "difficulty": "easy",
         "notes": "Login to your account first. Click 'Delete Account' and confirm by clicking 'Ok'.",
+        "notes_ru": "Сначала войдите в свою учетную запись. Нажмите «Удалить учетную запись» и подтвердите, нажав «ОК».",
         "notes_tr": "Önce hesabınıza giriş yapın. \"Hesabı Sil\" \"Tamam\" tuşuna tıklayarak onaylayın.",
         "domains": [
             "theartistunion.com"
@@ -672,6 +713,7 @@
         "url": "https://asgardia.space",
         "difficulty": "impossible",
         "notes": "You have to send an e-mail and request for account deletion, which might take up to 10 days. By some accounts, the site administrators will not follow up on deletion requests, leading to no follow-up.",
+        "notes_ru": "Вам необходимо отправить электронное письмо и запросить удаление учетной записи, что может занять до 10 дней. В некоторых учетных записях администраторы сайта не отслеживают запросы на удаление, что не приводит к последующим действиям.",
         "notes_tr": "E-posta gönderip hesabınızın silinmesini talep etmeniz gerekir, ki 10 güne kadar sürebilir. Bazı hesaplarda, site yöneticileri silme taleplerini kontrol etmeyeceklerdir.",
         "email": "support@asgardia.space",
         "domains": [
@@ -694,6 +736,7 @@
         "difficulty": "hard",
         "notes": "Request deletion from customer services.",
         "notes_tr": "Müşteri hizmetlerinden hesabınızın silinmesini talep edin.",
+        "notes_ru": "Запросить удаление из службы поддержки.",
         "notes_fr": "Demandez la suppresion du compte par le support du site.",
         "notes_it": "Richiedi la cancellazione al servizio clienti",
         "notes_de": "Beantrage die Löschung beim Support.",
@@ -748,6 +791,7 @@
         "url": "https://audiomack.com/dashboard#delete-account",
         "difficulty": "easy",
         "notes": "Click the delete account link in the bottom left corner",
+        "notes_ru": "Щелкните на ссылку удаления учетной записи в левом нижнем углу.",
         "notes_tr": "Sol alt köşede \"Hesabı Sil\" bağlantısına tıklayın",
         "domains": [
             "audiomack.com"
@@ -759,8 +803,8 @@
         "url": "https://authy.com/account/delete/",
         "difficulty": "medium",
         "notes": "Fill out the form, verify your phone number and e-mail. Data will be permanently deleted after 30 days.",
-        "notes_tr": "Formu doldurun, telefon numaranızı ve e-posta adresinizi doğrulayın. 30 gün sonra veriler kalıcı olarak silinecek.",
         "notes_ru": "Заполните форму, подтвердите свой номер телефона и e-mail. Данные будут удалены через 30 дней.",
+        "notes_tr": "Formu doldurun, telefon numaranızı ve e-posta adresinizi doğrulayın. 30 gün sonra veriler kalıcı olarak silinecek.",
         "domains": [
             "authy.com"
         ]
@@ -771,6 +815,7 @@
         "url": "https://accounts.autodesk.com/Profile/Security",
         "difficulty": "medium",
         "notes": "Go to the bottom of the page, click the button 'Account Deletion' and confirm on 'Delete your Autodesk account and data'. Enter your password, then enter a 6-digit code that will be sent to your email and click 'Delete Account'. You can recover the account within 30 days of deleting it. The deletion is completed in 90 days.",
+        "notes_ru": "Внизу страницы нажмите кнопку «Удаление учетной записи» и подтвердите «Удалить свою учетную запись и данные Autodesk». Введите свой пароль, затем введите 6-значный код, который будет отправлен на вашу электронную почту, и нажмите «Удалить учетную запись». Вы можете восстановить учетную запись в течение 30 дней после ее удаления. Удаление завершается через 90 дней.",
         "notes_tr": "Sayfanın en altına gidin, \"Hesap Silme Talebi\" tuşuna tıklayın ve \"Autodesk hesabınızı ve verileri silin\" seçeneğinden onaylayın. Şifrenizi girin, ve e-posta adresinize gönderilecek olan 6 haneli kodu girip \"Hesabı Sil\" tuşuna tıklayın. Hesabınızı 30 gün içerisinde silinmesinden kurtarabilirsiniz. Hesap silme işlemi 90 gün içinde tamamlanır.",
         "domains": [
             "autodesk.com"
@@ -808,6 +853,7 @@
         "url": "https://my.avast.com",
         "difficulty": "easy",
         "notes": "Login, go to \"Profile Details\" tab, and simply click on the \"Delete Account\" button.",
+        "notes_ru": "Войдите в систему, перейдите на вкладку «Детали профиля» и нажмите кнопку «Удалить учетную запись».",
         "notes_tr": "Giriş yapın, \"Profil Detayları\" sekmesine gidin ve kolayca \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "assembla.com"
@@ -819,6 +865,7 @@
         "url": "https://support.avira.com/hc/en-us/articles/360000753557--How-can-I-delete-my-Avira-account",
         "difficulty": "easy",
         "notes": "Follow the instructions provided in the article. If you prefer, you can also request deletion of your account via email.",
+        "notes_ru": "Следуйте инструкциям, приведенным в статье. При желании вы также можете запросить удаление своей учетной записи по электронной почте.",
         "notes_tr": "Makalede gösterilen talimatları takip edin. Eğer isterseniz, e-posta ile hesabınızın silinmesini de talep edebilirsiniz.",
         "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
         "email": "support@avira.com",
@@ -832,6 +879,7 @@
         "url": "https://awardwallet.com/user/delete",
         "difficulty": "easy",
         "notes": "You must enter your password and supply a reason for deleting your account",
+        "notes_ru": "Вы должны ввести свой пароль и указать причину удаления вашей учетной записи.",
         "notes_tr": "Şifrenizi girip, hesabınızın silme nedenini belirtmeniz gerekir",
         "domains": [
             "awardwallet.com"
