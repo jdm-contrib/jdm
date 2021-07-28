@@ -4770,6 +4770,17 @@
     },
 
     {
+        "name": "Hover",
+        "url": "https://help.hover.com/hc/en-us/articles/222421328-Canceling-services-with-Hover",
+        "difficulty": "hard",
+        "notes": "First Cancel your service with Hover.com. Then proceeed to contact Customer support to submit a request for account deletion.",
+        "email": "help@hover.com",
+        "domains": [
+            "hover.com"
+        ]
+    },
+
+    {
         "name": "HowLongToBeat",
         "url": "https://howlongtobeat.com/",
         "difficulty": "easy",
