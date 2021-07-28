@@ -881,6 +881,15 @@
     },
 
     {
+        "name": "Balance",
+        "url": "https://balanceapp.com/balance-privacy",
+        "difficulty": "hard",
+        "notes": "Send an email to their Privacy address. Within 24 hours, a support representative should respond to your request.",
+        "email": "privacy@balanceapp.com",
+        "email_subject": "Account Information Deletion Request"
+    },
+
+    {
         "name": "Bambuser",
         "url": "https://bambuser.com",
         "difficulty": "easy",
