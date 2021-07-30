@@ -8875,6 +8875,16 @@
     },
 
     {
+        "name": "Scavify",
+        "url": "https://www.scavify.com/",
+        "difficulty": "impossible",
+        "notes": "The \"Delete Account\" button in account settings does not work; pressing the button simply redirects to Scavify's home page. Their privacy policy makes no mention of the ability to delete your personal information. The best you can do is to change your account email address and password and forget the credentials.",
+        "domains": [
+            "scavify.com"
+        ]
+    },
+
+    {
         "name": "Scentbird",
         "url": "https://scentbird.zendesk.com/hc/en-us/articles/115004536388-How-do-I-cancel-my-subscription-",
         "difficulty": "hard",
