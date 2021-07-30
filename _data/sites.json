@@ -884,9 +884,12 @@
         "name": "Balance",
         "url": "https://balanceapp.com/balance-privacy",
         "difficulty": "hard",
-        "notes": "Send an email to their Privacy address. Within 24 hours, a support representative should respond to your request.",
+        "notes": "Send an email to their Privacy address. Within 24 hours, a support representative should respond to your request and ask for confirmation. Once they receive and respond to your request confirmation, your login credentials should no longer work.",
         "email": "privacy@balanceapp.com",
-        "email_subject": "Account Information Deletion Request"
+        "email_subject": "Account Information Deletion Request",
+        "domains": [
+            "balanceapp.com"
+        ]
     },
 
     {
