@@ -4807,6 +4807,16 @@
     },
 
     {
+        "name": "Hotspot Shield",
+        "url": "?",
+        "difficulty": "impossible",
+        "domains": [
+            "hotspotshield.com",
+            "support.hotspotshield.com"
+        ]
+    },
+
+    {
         "name": "Houzz",
         "url": "https://help.houzz.com/s/article/How-do-I-delete-my-account",
         "difficulty": "hard",
