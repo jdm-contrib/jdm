@@ -8212,6 +8212,18 @@
     },
 
     {
+        "name": "Pokémon GO",
+        "url": "https://niantic.helpshift.com/a/pokemon-go/?s=account-sign-in&f=how-do-i-delete-my-pokemon-go-account&l=en&p=web",
+        "difficulty": "hard",
+        "notes": "Go to https://niantic.helpshift.com/a/pokemon-go/?p=web&contact=1 , fill in your email and username, then select Delete My Accout from the drop down menu and fill in the required fields, then you'll get an email to verify the deletion. After replying with the code it may take several weeks to process.",
+        "domains": [
+            "niantic.helpshift.com",
+            "gorelease-assets.nianticstatic.com",
+            "nianticlabs.com"
+        ]
+    },
+
+    {
         "name": "pon",
         "url": "https://my.ponlist.de/de/legal",
         "difficulty": "easy",
@@ -9011,6 +9023,16 @@
         "notes_es": "Entra en tu cuenta y sigue las instrucciones en 'Account Suspension'.",
         "domains": [
             "scanmyserver.com"
+        ]
+    },
+
+    {
+        "name": "Scavify",
+        "url": "https://www.scavify.com/",
+        "difficulty": "impossible",
+        "notes": "The \"Delete Account\" button in account settings does not work; pressing the button simply redirects to Scavify's home page. Their privacy policy makes no mention of the ability to delete your personal information. The best you can do is to change your account email address and password and forget the credentials.",
+        "domains": [
+            "scavify.com"
         ]
     },
 
