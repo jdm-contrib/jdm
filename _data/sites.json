@@ -4808,8 +4808,9 @@
 
     {
         "name": "Hotspot Shield",
-        "url": "?",
-        "difficulty": "impossible",
+        "url": "",
+        "difficulty": "hard",
+        "notes": "If you're a paid user, you can contact support. If you're a free user, it's only possible if you have regulations that require deletion."
         "domains": [
             "hotspotshield.com",
             "support.hotspotshield.com"
