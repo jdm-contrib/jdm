@@ -4829,6 +4829,17 @@
     },
 
     {
+        "name": "Hotspot Shield",
+        "url": "https://www.hotspotshield.com",
+        "difficulty": "hard",
+        "notes": "If you're a paid user, you can contact support. If you're a free user, it's only possible if you have regulations that require deletion.",
+        "domains": [
+            "hotspotshield.com",
+            "support.hotspotshield.com"
+        ]
+    },
+
+    {
         "name": "Houzz",
         "url": "https://help.houzz.com/s/article/How-do-I-delete-my-account",
         "difficulty": "hard",
