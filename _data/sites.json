@@ -8200,18 +8200,6 @@
     },
 
     {
-        "name": "Pokémon Trainer Club",
-        "url": "https://support.pokemon.com/hc/en-us/articles/360000965826-How-do-I-delete-my-Pok%C3%A9mon-Trainer-Club-account-",
-        "difficulty": "easy",
-        "notes": "Go to https://club.pokemon.com/us/pokemon-trainer-club/edit-profile/ scroll down to the bottom and click 'Request Data Deletion', enter the required fields and you'll then get a confirmation email.",
-        "domains": [
-            "support.pokemon.com",
-            "pokemon.com",
-            "club.pokemon.com"
-        ]
-    },
-
-    {
         "name": "Pokémon GO",
         "url": "https://niantic.helpshift.com/a/pokemon-go/?s=account-sign-in&f=how-do-i-delete-my-pokemon-go-account&l=en&p=web",
         "difficulty": "hard",
@@ -8220,6 +8208,18 @@
             "niantic.helpshift.com",
             "gorelease-assets.nianticstatic.com",
             "nianticlabs.com"
+        ]
+    },
+
+    {
+        "name": "Pokémon Trainer Club",
+        "url": "https://support.pokemon.com/hc/en-us/articles/360000965826-How-do-I-delete-my-Pok%C3%A9mon-Trainer-Club-account-",
+        "difficulty": "easy",
+        "notes": "Go to https://club.pokemon.com/us/pokemon-trainer-club/edit-profile/ scroll down to the bottom and click 'Request Data Deletion', enter the required fields and you'll then get a confirmation email.",
+        "domains": [
+            "support.pokemon.com",
+            "pokemon.com",
+            "club.pokemon.com"
         ]
     },
 
