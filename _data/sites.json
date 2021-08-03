@@ -377,6 +377,16 @@
     },
 
     {
+        "name": "Algolia",
+        "url": "https://www.algolia.com/account/details",
+        "difficulty": "easy",
+        "notes": "Go to your account settings, scroll to the bottom of Account Details, and select the Delete button next to \"Delete Account\".",
+        "domains": [
+            "algolia.com"
+        ]
+    },
+
+    {
         "name": "Alibaba",
         "url": "https://accounts.alibaba.com/user/organization/manage_person_profile.htm",
         "difficulty": "easy",
@@ -927,6 +937,18 @@
         "notes_ru": "Зайдите в 'Настройки', затем слева нажмите 'Удалить', укажите причину удаления и подтвердите выбор нажав кнопку 'Подтвердить'.",
         "domains": [
             "badoo.com"
+        ]
+    },
+
+    {
+        "name": "Balance",
+        "url": "https://balanceapp.com/balance-privacy",
+        "difficulty": "hard",
+        "notes": "Send an email to their Privacy address. Within 24 hours, a support representative should respond to your request and ask for confirmation. Once they receive and respond to your request confirmation, your login credentials should no longer work.",
+        "email": "privacy@balanceapp.com",
+        "email_subject": "Account Information Deletion Request",
+        "domains": [
+            "balanceapp.com"
         ]
     },
 
@@ -4807,6 +4829,17 @@
     },
 
     {
+        "name": "Hotspot Shield",
+        "url": "https://www.hotspotshield.com",
+        "difficulty": "hard",
+        "notes": "If you're a paid user, you can contact support. If you're a free user, it's only possible if you have regulations that require deletion.",
+        "domains": [
+            "hotspotshield.com",
+            "support.hotspotshield.com"
+        ]
+    },
+
+    {
         "name": "Houzz",
         "url": "https://help.houzz.com/s/article/How-do-I-delete-my-account",
         "difficulty": "hard",
@@ -8200,6 +8233,30 @@
     },
 
     {
+        "name": "Pokémon GO",
+        "url": "https://niantic.helpshift.com/a/pokemon-go/?s=account-sign-in&f=how-do-i-delete-my-pokemon-go-account&l=en&p=web",
+        "difficulty": "hard",
+        "notes": "Go to https://niantic.helpshift.com/a/pokemon-go/?p=web&contact=1 , fill in your email and username, then select Delete My Accout from the drop down menu and fill in the required fields, then you'll get an email to verify the deletion. After replying with the code it may take several weeks to process.",
+        "domains": [
+            "niantic.helpshift.com",
+            "gorelease-assets.nianticstatic.com",
+            "nianticlabs.com"
+        ]
+    },
+
+    {
+        "name": "Pokémon Trainer Club",
+        "url": "https://support.pokemon.com/hc/en-us/articles/360000965826-How-do-I-delete-my-Pok%C3%A9mon-Trainer-Club-account-",
+        "difficulty": "easy",
+        "notes": "Go to https://club.pokemon.com/us/pokemon-trainer-club/edit-profile/ scroll down to the bottom and click 'Request Data Deletion', enter the required fields and you'll then get a confirmation email.",
+        "domains": [
+            "support.pokemon.com",
+            "pokemon.com",
+            "club.pokemon.com"
+        ]
+    },
+
+    {
         "name": "pon",
         "url": "https://my.ponlist.de/de/legal",
         "difficulty": "easy",
@@ -8999,6 +9056,16 @@
         "notes_es": "Entra en tu cuenta y sigue las instrucciones en 'Account Suspension'.",
         "domains": [
             "scanmyserver.com"
+        ]
+    },
+
+    {
+        "name": "Scavify",
+        "url": "https://www.scavify.com/",
+        "difficulty": "impossible",
+        "notes": "The \"Delete Account\" button in account settings does not work; pressing the button simply redirects to Scavify's home page. Their privacy policy makes no mention of the ability to delete your personal information. The best you can do is to change your account email address and password and forget the credentials.",
+        "domains": [
+            "scavify.com"
         ]
     },
 
