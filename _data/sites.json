@@ -7242,7 +7242,7 @@
         "name": "OfficeDepot",
         "url": "https://www.officedepot.com/ccpa/landing.do",
         "difficulty": "hard",
-        "notes": "Note that while their privacy policy states that California residents may have their information deleted permanently, it does not specify whether they delete other accounts also. Go to the URL and fill out the form with the information pertaining to your account. Open the 'Delete My Information' section and check the box next to 'Delete my consumer data'. Submit the form and wait for their confirmation email to arrive.",
+        "notes": "Note that while their privacy policy states that California residents may have their information deleted permanently, it does not specify whether they delete other accounts also. Go to the URL and fill out the form with the information pertaining to your account. Open the 'Delete My Information' section and check the box next to 'Delete my consumer data'. Submit the form and wait for an email to arrive. Click the link in the email. If after 24 hours your account is not deleted, you might have to reach out to their customer support and present their Privacy Policy to have them act.",
         "domains": [
             "officedepot.com"
         ]
