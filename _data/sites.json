@@ -5136,10 +5136,10 @@
     {
         "name": "Intelius People Finder",
         "url": "https://www.intelius.com/dashboard/support/contact",
-        "difficulty": "hard",
-        "notes": "Send an email to Intelius support to request account deletion. A support representative will eventually respond with instructions on how to delete your account. Follow these directions CAREFULLY, as they describe a process that is VERY similar to a Public Records Opt Out. That is a separate thing. Note: The request process may include selecting your public records from a list. If your records do not appear, scroll to the bottom of the list and click the link to \"continue with your CCPA request\". Click the link in the resulting email confirmation. After 24 hours, your login credentials should no longer work.",
+        "difficulty": "impossible",
+        "notes": "While Intellius will not delete your account login, you can request to have your records removed. Send an email to Intelius support to request deletion. A support representative will eventually respond with instructions on how to delete your account. Follow these directions CAREFULLY, as they describe a process that is VERY similar to a Public Records Opt Out, which does not necessarily involve data deletion. Note: The request process may include selecting your public records from a list. If your records do not appear, scroll to the bottom of the list and click the link to \"continue with your CCPA request\". Click the link in the resulting email confirmation. Within 24 hours, your records should no longer appear on Intelius, barring extenuating circumstances. To permanently close your account, the best option is to change and forget your login credentials.",
         "email": "support@mailer.intelius.com",
-        "email_subject": "Account Deletion Request",
+        "email_subject": "Information Deletion Request",
         "domains": [
             "intelius.com"
         ]
