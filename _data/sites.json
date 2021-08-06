@@ -5341,6 +5341,19 @@
     },
 
     {
+        "name": "Jobscan",
+        "url": "https://www.jobscan.co/privacy",
+        "difficulty": "hard",
+        "notes": "Contact customer support to request account deletion. They should respond and delete your account within 30 days, after which your login credentials will no longer work.",
+        "email": "support@jobscan.co",
+        "email_subject": "Request for Permanent Removal of Personal Information",
+        "email_body": "Hello,%0D%0A%0D%0AI would like to permanently remove my account and information from Jobscan, as per your Privacy Policy. My account email address is XXXXXXXXXXX.%0D%0A%0D%0AThank you",
+        "domains": [
+            "jobscan.co"
+        ]
+    },
+
+    {
         "name": "Jolla Account",
         "url": "https://account.jolla.com/profile/settings/confirm_delete_profile",
         "difficulty": "easy",
