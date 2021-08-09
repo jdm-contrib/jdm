@@ -2311,15 +2311,6 @@
     },
 
     {
-        "name": "CryptFolio",
-        "url": "https://cryptfolio.com/user#user_delete",
-        "difficulty": "easy",
-        "domains": [
-            "cryptfolio.com"
-        ]
-    },
-
-    {
         "name": "Crypton.sh",
         "url": "https://crypton.sh/app/account",
         "difficulty": "easy",
