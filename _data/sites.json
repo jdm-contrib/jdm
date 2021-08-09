@@ -7143,7 +7143,7 @@
 
     {
         "name": "New Relic",
-        "url": "https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-maintenance/delete-your-new-relic-account",
+        "url": "https://docs.newrelic.com/docs/accounts/accounts-billing/account-setup/downgradecancel-account/#cancel-simple-org",
         "difficulty": "easy",
         "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account. Select the confirmation prompt.",
         "notes_tr": "New Relic menü çubuğundan, \"Hesap\" \"Aboneliği Yükselt\" \"Hesabı İptal Et\" tuşuna tıklayın. Ardından onaylayın.",
