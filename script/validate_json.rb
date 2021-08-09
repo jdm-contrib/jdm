@@ -27,8 +27,8 @@ SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy",
                         "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits",
                         "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible",
                         "guidemedium", "hideinfo", "jgmd", "mikerogers", "name", "noinfo", "noresults", "noresultshelp",
-                        "popular", "pullrequest", "reset", "search", "sendmail", "showinfo", "tagline", "title", "twitter", "whatisthis",
-                        "whatisthis1", "whatisthis2", "whatisthis3", "whatisthis4"]
+                        "popular", "pullrequest", "reset", "search", "sendmail", "showinfo", "tagline", "title", "twitter",
+                        "whatisthis", "whatisthis1", "whatisthis2", "whatisthis3", "whatisthis4"]
 
 def get_supported_languages()
     return translation_files = Dir.children('_data/trans/').map { |f| f.delete_suffix('.json') }
