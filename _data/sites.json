@@ -7869,7 +7869,7 @@
 
     {
         "name": "pdfFiller",
-        "url": "https://www.pdffiller.com/en/account/settings",
+        "url": "https://www.pdffiller.com/en/login/signin?ref=%2Fen%2Faccount%2Fsettings",
         "difficulty": "easy",
         "notes": "Log in to your account, then go to 'Settings' tab and click 'Delete Account'.",
         "notes_pl": "Zaloguj się na swoje konto, potem przejdź do 'Settings' i kliknij 'Delete Account'.",
