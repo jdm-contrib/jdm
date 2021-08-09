@@ -6014,7 +6014,7 @@
 
     {
         "name": "MacTrade",
-        "url": "https://www.mactrade.de/goodahead_customer/account/delete/",
+        "url": "https://www.mactrade.de/account/profile#confirmDeleteAccountModal",
         "notes": "In your user account go to 'Delete Account' and confirm the deletion via the 'Delete account now' button.",
         "notes_tr": "Kullanıcı hesabınızda \"Hesabı Sil\" kısmına girin ve \"Hesabınızı Şimdi Silin\" tuşuna tıklayarak silmeyi onaylayın.",
         "notes_de": "Wähle 'Konto löschen' in deinem Benutzerkonto und bestätige die Löschung mit dem Button 'Benutzerkonto jetzt löschen'.",
