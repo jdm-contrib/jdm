@@ -3976,7 +3976,7 @@
 
     {
         "name": "GetCreditScore",
-        "url": "https://www.getcreditscore.com.au/my-preferences",
+        "url": "https://www.getcreditscore.com.au",
         "difficulty": "easy",
         "notes": "Select the Delete My Account option on the preferences page and click submit.",
         "notes_tr": "Tercihler sayfasında \"Hesabımı Sil\" seçeneğini seçin ve \"Gönder\" tuşuna tıklayın.",
