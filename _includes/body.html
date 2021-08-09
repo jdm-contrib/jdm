@@ -1,6 +1,6 @@
 <div class="search">
     <div class="search-container">
-        <input type="text" id="search">
+        <input type="text" id="search" placeholder="Search">
         <label for="search">search</a>
     </div>
 
@@ -20,7 +20,8 @@
             <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
                 {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
                 <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% else %}{{entry.url}}{% endif %}">
-                    {{ entry.name }}
+                    <span class="name">{{ entry.name }}</span>
+                    <img class="icon" src="{{ site.baseurl }}/assets/icons/link.svg" />
                 </a>
 
                 <p class="site-difficulty">
