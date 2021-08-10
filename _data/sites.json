@@ -8989,10 +8989,12 @@
             "rovio.com"
         ]
     },
+
+    {
         "name": "Rituals.com",
         "url": "https://service.rituals.com/s/contact?topic=a2L4L0000008xwDUAQ&language=de&country=DE",
         "difficulty": "medium",
-        "notes": "you have to claim a GDPR case for the right to delete your data.",
+        "notes": "You have to claim a GDPR case for the right to delete your data.",
         "notes_tr": "verilerinizi silme hakkı için bir GDPR davası talep etmeniz gerekir.",
         "notes_it": "devi rivendicare un caso GDPR per il diritto di cancellare i tuoi dati.",
         "notes_pt_br": "você deve reivindicar um caso GDPR para o direito de excluir seus dados.",
@@ -9000,9 +9002,7 @@
         "notes_de" "Sie müssen einen DSGVO-Fall bzgl. des Rechts auf Löschung eigener Daten eröffnen.",
         "domains": [
             "rituals.com"
-        ]
-    {
-        
+        ]   
     },
 
     {
