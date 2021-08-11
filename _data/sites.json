@@ -377,6 +377,18 @@
     },
 
     {
+        "name": "AirMeet",
+        "url": "https://help.airmeet.com/support/solutions/articles/82000443799-how-to-delete-airmeet-community-account-",
+        "difficulty": "hard",
+        "notes": "Click the purple question mark button and then request account deletion via the Airmeet Chat Support. Alternatively, you can email support@airmeet.com.",
+        "notes_pt_br": "Clique no botão roxo com um ponto de interrogação no canto inferior direito da página e inicie um Airmeet Chat Support. Alternativamente, envie um e-mail para support@airmeet.com.",
+        "email": "support@airmeet.com",
+        "domains": [
+            "airmeet.com"
+        ]
+    },
+
+    {
         "name": "Algolia",
         "url": "https://www.algolia.com/account/details",
         "difficulty": "easy",
@@ -1653,7 +1665,7 @@
 
     {
         "name": "CDON.COM",
-        "url": "https://cdon.eu/#support-hub",
+        "url": "https://cdon.eu/support",
         "difficulty": "hard",
         "notes": "Contact customer service via the support e-mail form and request deletion of your account under General Questions.",
         "notes_tr": "Destek e-posta formunu kullanarak müşteri hizmetleri ile iletişim kurun ve \"Genel Sorular\" altında hesabınızın silinmesini talep edin.",
@@ -1740,7 +1752,7 @@
 
     {
         "name": "ChatForma",
-        "url": "chatforma.com",
+        "url": "https://www.chatforma.com/",
         "difficulty": "impossible",
         "domains": [
             "chatforma.com"
@@ -2299,15 +2311,6 @@
     },
 
     {
-        "name": "CryptFolio",
-        "url": "https://cryptfolio.com/user#user_delete",
-        "difficulty": "easy",
-        "domains": [
-            "cryptfolio.com"
-        ]
-    },
-
-    {
         "name": "Crypton.sh",
         "url": "https://crypton.sh/app/account",
         "difficulty": "easy",
@@ -2428,7 +2431,7 @@
 
     {
         "name": "Deadspin (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -3896,7 +3899,7 @@
 
     {
         "name": "Gawker (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -3964,7 +3967,7 @@
 
     {
         "name": "GetCreditScore",
-        "url": "https://www.getcreditscore.com.au/my-preferences",
+        "url": "https://www.getcreditscore.com.au",
         "difficulty": "easy",
         "notes": "Select the Delete My Account option on the preferences page and click submit.",
         "notes_tr": "Tercihler sayfasında \"Hesabımı Sil\" seçeneğini seçin ve \"Gönder\" tuşuna tıklayın.",
@@ -4068,7 +4071,7 @@
 
     {
         "name": "Gizmodo (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -4795,6 +4798,16 @@
     },
 
     {
+        "name": "Hooked (Deals)",
+        "url": "https://www.hookedapp.com/",
+        "difficulty": "impossible",
+        "notes": "Hooked's privacy policy contains no provisions for deleting personal information once that information has been given, unless that information is inaccurate or the user is less than eighteen years of age. Falsely representing your age to get an account deleted is not recommended. The best that you can do is to forget your login credentials. If you re-used your account password elsewhere, be sure to change your password on those sites. (Changing your Hooked account password is also impossible.)",
+        "domains": [
+            "hookedapp.com"
+        ]
+    },
+
+    {
         "name": "Hostelsclub",
         "url": "https://www.hostelsclub.com",
         "difficulty": "impossible",
@@ -5124,6 +5137,18 @@
     },
 
     {
+        "name": "Intelius People Finder",
+        "url": "https://www.intelius.com/dashboard/support/contact",
+        "difficulty": "impossible",
+        "notes": "While Intellius will not delete your account login, you can request to have your records removed. Send an email to Intelius support to request deletion. A support representative will eventually respond with instructions on how to delete your account. Follow these directions CAREFULLY, as they describe a process that is VERY similar to a Public Records Opt Out, which does not necessarily involve data deletion. Note: The request process may include selecting your public records from a list. If your records do not appear, scroll to the bottom of the list and click the link to \"continue with your CCPA request\". Click the link in the resulting email confirmation. Within 24 hours, your records should no longer appear on Intelius, barring extenuating circumstances. To permanently close your account, the best option is to change and forget your login credentials.",
+        "email": "support@mailer.intelius.com",
+        "email_subject": "Information Deletion Request",
+        "domains": [
+            "intelius.com"
+        ]
+    },
+
+    {
         "name": "Internet Archive",
         "url": "https://archive.org/account/index.php?settings=1",
         "difficulty": "easy",
@@ -5182,7 +5207,7 @@
 
     {
         "name": "IO9 (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5277,7 +5302,7 @@
 
     {
         "name": "Jalopnik (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5304,7 +5329,7 @@
 
     {
         "name": "Jezebel (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5327,6 +5352,19 @@
         "notes_de": "Der kostenlose Account kann sofort gelöscht werden. Bei der kostenpflichtigen Variante muss zuerst das Abbo beendet werden.",
         "domains": [
             "jimdo.com"
+        ]
+    },
+
+    {
+        "name": "Jobscan",
+        "url": "https://www.jobscan.co/privacy",
+        "difficulty": "hard",
+        "notes": "Contact customer support to request account deletion. They should respond and delete your account within 30 days, after which your login credentials will no longer work.",
+        "email": "support@jobscan.co",
+        "email_subject": "Request for Permanent Removal of Personal Information",
+        "email_body": "Hello,%0D%0A%0D%0AI would like to permanently remove my account and information from Jobscan, as per your Privacy Policy. My account email address is XXXXXXXXXXX.%0D%0A%0D%0AThank you",
+        "domains": [
+            "jobscan.co"
         ]
     },
 
@@ -5487,7 +5525,7 @@
 
     {
         "name": "Kinja (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5559,7 +5597,7 @@
 
     {
         "name": "Kotaku (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5730,7 +5768,7 @@
 
     {
         "name": "Lifehacker (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5967,7 +6005,7 @@
 
     {
         "name": "MacTrade",
-        "url": "https://www.mactrade.de/goodahead_customer/account/delete/",
+        "url": "https://www.mactrade.de/account/profile#confirmDeleteAccountModal",
         "notes": "In your user account go to 'Delete Account' and confirm the deletion via the 'Delete account now' button.",
         "notes_tr": "Kullanıcı hesabınızda \"Hesabı Sil\" kısmına girin ve \"Hesabınızı Şimdi Silin\" tuşuna tıklayarak silmeyi onaylayın.",
         "notes_de": "Wähle 'Konto löschen' in deinem Benutzerkonto und bestätige die Löschung mit dem Button 'Benutzerkonto jetzt löschen'.",
@@ -7096,7 +7134,7 @@
 
     {
         "name": "New Relic",
-        "url": "https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-maintenance/delete-your-new-relic-account",
+        "url": "https://docs.newrelic.com/docs/accounts/accounts-billing/account-setup/downgradecancel-account/#cancel-simple-org",
         "difficulty": "easy",
         "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account. Select the confirmation prompt.",
         "notes_tr": "New Relic menü çubuğundan, \"Hesap\" \"Aboneliği Yükselt\" \"Hesabı İptal Et\" tuşuna tıklayın. Ardından onaylayın.",
@@ -7403,6 +7441,16 @@
         "notes_tr": "Hesabınıza giriş yapın, \"Hesabı Sil\" öğesini tıklayın, silme nedenini belirtin, \"Onayla\" tuşuna tıklayın ve tamamlayın. Oldukça basit.",
         "domains": [
             "offerup.com"
+        ]
+    },
+
+    {
+        "name": "OfficeDepot",
+        "url": "https://www.officedepot.com/ccpa/landing.do",
+        "difficulty": "hard",
+        "notes": "Note that while their privacy policy states that California residents may have their information deleted permanently, it does not specify whether they delete other accounts also. Go to the URL and fill out the form with the information pertaining to your account. Open the 'Delete My Information' section and check the box next to 'Delete my consumer data'. Submit the form and wait for an email to arrive. Click the link in the email. If after 24 hours your account is not deleted, you might have to reach out to their customer support and present their Privacy Policy to have them act.",
+        "domains": [
+            "officedepot.com"
         ]
     },
 
@@ -7821,7 +7869,7 @@
 
     {
         "name": "pdfFiller",
-        "url": "https://www.pdffiller.com/en/account/settings",
+        "url": "https://www.pdffiller.com/en/login/signin?ref=%2Fen%2Faccount%2Fsettings",
         "difficulty": "easy",
         "notes": "Log in to your account, then go to 'Settings' tab and click 'Delete Account'.",
         "notes_pl": "Zaloguj się na swoje konto, potem przejdź do 'Settings' i kliknij 'Delete Account'.",
@@ -8150,17 +8198,6 @@
         "notes_tr": "\"Tehlikeli Bölge\" \"Hesabınızı Silin\" tuşuna tıklayın.",
         "domains": [
             "plex.tv"
-        ]
-    },
-
-    {
-        "name": "PlexGuide",
-        "url": "https://plexguide.com/account/thui-deactivate/",
-        "difficulty": "impossible",
-        "notes": "Account can only be disabled, with option of contacting support to re-enable account afterwards.",
-        "notes_tr": "Hesap, yalnızca daha sonra hesabı yeniden etkinleştirmek için destekle iletişime geçme imkanı ile devre dışı bırakılabilir.",
-        "domains": [
-            "plexguide.com"
         ]
     },
 
@@ -10785,7 +10822,7 @@
 
     {
         "name": "Valleywag (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -10992,6 +11029,17 @@
         "notes_tr": "Hesap yalnızca destek ekibine istek gönderilerek silinebilir",
         "domains": [
             "vstbuzz.com"
+        ]
+    },
+
+    {
+        "name": "Vuforia Chalk",
+        "url": "https://support.ptc.com/help/vuforia/chalk_app_center/#page/Vuforia_Chalk_Admin_Center%2Fcommon%2Fget_help.html%23",
+        "difficulty": "hard",
+        "notes": "Business Account users must contact their company administrator. Peronal Account users must contact PTC by phone to request account deletion. (The email address provided at the URL does not accept mail.) Call 1-877-275-4782, press 2 for Support Services, 9 for an operator, and ask them to delete your account. They should pass your information to the Vuforia team to delete your account. After about two weeks, your login credentials should no longer work in the Chalk app.",
+        "domains": [
+            "ptc.com",
+            "vuforia.com"
         ]
     },
 
