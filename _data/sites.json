@@ -9648,6 +9648,16 @@
     },
 
     {
+        "name": "Spreadshirt",
+        "url": "https://my.spreadshirt.com/account/contact",
+        "difficulty": "medium",
+        "notes": "Click 'Delete account' on the page, confirm with your password.",
+        "domains": [
+            "spreadshirt.com"
+        ]
+    },
+
+    {
         "name": "Square Cash",
         "url": "https://cash.me/login?return_to=support",
         "difficulty": "hard",
