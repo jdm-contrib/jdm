@@ -3641,7 +3641,7 @@
         "url": "https://fontawesome.com/privacy",
         "difficulty": "hard",
         "email": "privacy@fontawesome.com",
-        "notes": "Canceling a PRO acconut deletes the account. Free accounts must send an e-mail.",
+        "notes": "Cancelling a PRO account already deletes it. Free accounts must be deleted by sending an e-mail.",
         "domains": [
             "fontawesome.com"
         ]
