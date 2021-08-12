@@ -3637,6 +3637,17 @@
     },
 
     {
+        "name": "Fontawesome",
+        "url": "https://fontawesome.com/privacy",
+        "difficulty": "hard",
+        "email": "privacy@fontawesome.com",
+        "notes": "Cancelling a PRO account already deletes it. Free accounts must be deleted by sending an e-mail.",
+        "domains": [
+            "fontawesome.com"
+        ]
+    },
+
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
