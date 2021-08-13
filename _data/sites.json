@@ -10398,6 +10398,16 @@
     },
 
     {
+        "name": "TradingView",
+        "url": "https://www.tradingview.com/u/account/#settings-profile",
+        "difficulty": "easy",
+        "notes": "Login to your account. Click on \"Learn more about Account Deletion\". Press \"Yes, delete account\". Fill in your password",
+        "domains": [
+            "tradingview.com"
+        ]
+    },
+
+    {
         "name": "Trakt",
         "url": "https://trakt.tv/settings/data",
         "difficulty": "easy",
@@ -10702,6 +10712,19 @@
         "notes_es": "Para borrar tu cuenta, primera deberás cancelar las suscripciones a todos los cursos.",
         "domains": [
             "udemy.com"
+        ]
+    },
+
+    {
+        "name": "Ultimate Guitar",
+        "url": "https://support.turo.com/hc/en-us/articles/203991030-How-to-close-your-account",
+        "difficulty": "hard",
+        "notes": "Email privacy@ultimate-guitar.com and request that they delete your personal information.",
+        "email": "privacy@ultimate-guitar.com",
+        "email_subject": "Request To Delete My Account From Your Database",
+        "email_body": "I have an account in your database with the username ……………. and the email address that is linked to the account is ………………..\nI request that you kindly delete my account from your database and also wipe all notifications if any.",
+        "domains": [
+            "ultimate-guitar.com"
         ]
     },
 
