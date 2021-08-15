@@ -3637,17 +3637,6 @@
     },
 
     {
-        "name": "Fontawesome",
-        "url": "https://fontawesome.com/privacy",
-        "difficulty": "hard",
-        "email": "privacy@fontawesome.com",
-        "notes": "Cancelling a PRO account already deletes it. Free accounts must be deleted by sending an e-mail.",
-        "domains": [
-            "fontawesome.com"
-        ]
-    },
-
-    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
@@ -4904,18 +4893,6 @@
         "domains": [
             "www8.hp.com",
             "hp.com"
-        ]
-    },
-
-    {
-        "name": "HTC",
-        "url": "https://www.htc.com/us/terms/privacy",
-        "difficulty": "hard",
-        "email": "global-privacy@htc.com",
-        "domains": [
-            "viveport.com",
-            "htcsense.com",
-            "htc.com"
         ]
     },
 
@@ -8937,6 +8914,22 @@
     },
 
     {
+        "name": "Rituals.com",
+        "url": "https://service.rituals.com/s/contact?topic=a2L4L0000008xwDUAQ&language=de&country=DE",
+        "difficulty": "hard",
+        "notes": "You have to claim a GDPR case for the right to delete your data.",
+        "notes_tr": "verilerinizi silme hakkı için bir GDPR davası talep etmeniz gerekir.",
+        "notes_it": "devi rivendicare un caso GDPR per il diritto di cancellare i tuoi dati.",
+        "notes_pt_br": "você deve reivindicar um caso GDPR para o direito de excluir seus dados.",
+        "notes_es": "tiene que reclamar un caso GDPR por el derecho a eliminar sus datos.",
+        "notes_de": "Sie müssen einen DSGVO-Fall bzgl. des Rechts auf Löschung eigener Daten eröffnen.",
+        "domains": [
+            "rituals.com"
+        ]   
+    },
+
+
+    {
         "name": "Robinhood",
         "url": "https://robinhood.com/contact",
         "difficulty": "hard",
@@ -9671,16 +9664,6 @@
     },
 
     {
-        "name": "Spreadshirt",
-        "url": "https://my.spreadshirt.com/account/contact",
-        "difficulty": "easy",
-        "notes": "Click 'Delete account' on the page, confirm with your password.",
-        "domains": [
-            "spreadshirt.com"
-        ]
-    },
-
-    {
         "name": "Square Cash",
         "url": "https://cash.me/login?return_to=support",
         "difficulty": "hard",
@@ -10398,16 +10381,6 @@
     },
 
     {
-        "name": "TradingView",
-        "url": "https://www.tradingview.com/u/account/#settings-profile",
-        "difficulty": "easy",
-        "notes": "Login to your account. Click on \"Learn more about Account Deletion\". Press \"Yes, delete account\". Fill in your password",
-        "domains": [
-            "tradingview.com"
-        ]
-    },
-
-    {
         "name": "Trakt",
         "url": "https://trakt.tv/settings/data",
         "difficulty": "easy",
@@ -10712,19 +10685,6 @@
         "notes_es": "Para borrar tu cuenta, primera deberás cancelar las suscripciones a todos los cursos.",
         "domains": [
             "udemy.com"
-        ]
-    },
-
-    {
-        "name": "Ultimate Guitar",
-        "url": "https://support.turo.com/hc/en-us/articles/203991030-How-to-close-your-account",
-        "difficulty": "hard",
-        "notes": "Email privacy@ultimate-guitar.com and request that they delete your personal information.",
-        "email": "privacy@ultimate-guitar.com",
-        "email_subject": "Request To Delete My Account From Your Database",
-        "email_body": "I have an account in your database with the username ……………. and the email address that is linked to the account is ………………..\nI request that you kindly delete my account from your database and also wipe all notifications if any.",
-        "domains": [
-            "ultimate-guitar.com"
         ]
     },
 
