@@ -9243,6 +9243,17 @@
         ]
     },
 
+     {
+        "name": "Shein",
+        "url": "https://shein.com/robot",
+        "difficulty": "hard",
+        "notes": ".",
+        "notes_fr": ".",
+        "domains": [
+            "shein.com"
+        ]
+    },
+    
     {
         "name": "Shipito",
         "url": "https://www.shipito.com/es/help/faq/account-navigation",
