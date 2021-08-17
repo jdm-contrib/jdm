@@ -9247,8 +9247,10 @@
         "name": "Shein",
         "url": "https://shein.com/robot",
         "difficulty": "hard",
-        "notes": ".",
-        "notes_fr": ".",
+        "notes": "Click on the link, then click on "Contact Agent", select"Unsubscribe and delete". Finally fill in the various fields and then press "Submit".
+⚠️ It is imperative to give a reason for deleting an account for it to work.",
+        "notes_fr": "Cliquez sur le lien, cliquez ensuite sur "Contacter l'agent", sélectionnez "Se désabonner et supprimer". Enfin remplissez les différents champs puis appuyez sur "Soumettre".
+⚠️ Il faut impérativement donner un motif de suppression de compte pour que cela fonctionne.",
         "domains": [
             "shein.com"
         ]
