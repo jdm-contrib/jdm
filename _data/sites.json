@@ -10092,6 +10092,15 @@
     },
 
     {
+        "name": "Tastebuds",
+        "url": "https://tastebuds.fm/user_deletions/confirm_delete_reason",
+        "difficulty": "easy",
+        "domains": [
+            "tastebuds.fm"
+        ]
+    },
+
+    {
         "name": "Teachoo",
         "url": "https://www.teachoo.com/contact/",
         "difficulty": "hard",
