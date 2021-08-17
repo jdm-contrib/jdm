@@ -9247,15 +9247,12 @@
         "name": "Shein",
         "url": "https://shein.com/robot",
         "difficulty": "hard",
-        "notes": "Click on the link, then click on "Contact Agent", select"Unsubscribe and delete". Finally fill in the various fields and then press "Submit".
-⚠️ It is imperative to give a reason for deleting an account for it to work.",
-        "notes_fr": "Cliquez sur le lien, cliquez ensuite sur "Contacter l'agent", sélectionnez "Se désabonner et supprimer". Enfin remplissez les différents champs puis appuyez sur "Soumettre".
-⚠️ Il faut impérativement donner un motif de suppression de compte pour que cela fonctionne.",
+        "notes": "Click on the link, then click on \"Contact Agent\", select \"Unsubscribe and delete\". Finally fill in the various fields and then press \"Submit\". ⚠️ It is imperative to give a reason for deleting an account for it to work.",
+        "notes_fr": "Cliquez sur le lien, cliquez ensuite sur \"Contacter l'agent\", sélectionnez \"Se désabonner et supprimer\". Enfin remplissez les différents champs puis appuyez sur \"Soumettre\". ⚠️ Il faut impérativement donner un motif de suppression de compte pour que cela fonctionne.",
         "domains": [
             "shein.com"
         ]
     },
-    
     {
         "name": "Shipito",
         "url": "https://www.shipito.com/es/help/faq/account-navigation",
@@ -11627,8 +11624,8 @@
         "name": "Zalando",
         "url": "https://www.zalando.co.uk/myaccount/privacy/",
         "difficulty": "easy",
-        "notes": "Click on the link, log in and then click on the "Delete your account" tab. Finally, click on "Request account and data deletion".",
-        "notes_fr": "Cliquez sur le lien, connectez-vous puis cliquez sur l'onglet "Supprimer votre compte". Enfin, cliquez sur "Demander la suppression du compte et des données".",
+        "notes": "Click on the link, log in and then click on the \"Delete your account\" tab. Finally, click on \"Request account and data deletion\".",
+        "notes_fr": "Cliquez sur le lien, connectez-vous puis cliquez sur l'onglet \"Supprimer votre compte\". Enfin, cliquez sur \"Demander la suppression du compte et des données\".",
         "domains": [
             "zalando.be"
             "zalando.fr"
@@ -11655,7 +11652,6 @@
             "zalando.ch"
         ]
     },
-    
     {
         "name": "Zapier",
         "url": "https://zapier.com/app/settings/delete",
