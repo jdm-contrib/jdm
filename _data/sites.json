@@ -11611,6 +11611,39 @@
     },
 
     {
+        "name": "Zalando",
+        "url": "https://www.zalando.co.uk/myaccount/privacy/",
+        "difficulty": "easy",
+        "notes": "Click on the link, log in and then click on the "Delete your account" tab. Finally, click on "Request account and data deletion".",
+        "notes_fr": "Cliquez sur le lien, connectez-vous puis cliquez sur l'onglet "Supprimer votre compte". Enfin, cliquez sur "Demander la suppression du compte et des données".",
+        "domains": [
+            "zalando.be"
+            "zalando.fr"
+            "zalando.co.uk"
+            "zalando.at"
+            "zalando.hr"
+            "zalando.cz"
+            "zalando.dk"
+            "zalando.ee"
+            "zalando.fi"
+            "zalando.de"
+            "zalando.ie"
+            "zalando.it"
+            "zalando.lv"
+            "zalando.lt"
+            "zalando.lu"
+            "zalando.nl"
+            "zalando.no"
+            "zalando.pl"
+            "zalando.sk"
+            "zalando.si"
+            "zalando.es"
+            "zalando.se"
+            "zalando.ch"
+        ]
+    },
+    
+    {
         "name": "Zapier",
         "url": "https://zapier.com/app/settings/delete",
         "difficulty": "easy",
