@@ -8912,6 +8912,16 @@
     },
 
     {
+        "name": "Ring",
+        "url": "https://account.ring.com/account/data-requests",
+        "difficulty": "medium",
+        "notes": "Go to the URL, sign into your account, and select \"Delete Data\" near the bottom. Reenter your password, select \"Confirm Deletion,\" and then wait for up to 30 days for your request to be processed. When your information has been deleted, your account credentials will no longer work.",
+        "domains": [
+            "ring.com"
+        ]
+    },
+
+    {
         "name": "Riot Games",
         "url": "https://support-valorant.riotgames.com/hc/en-us/requests/new?ticket_form_id=360004036693",
         "difficulty": "hard",
