@@ -37,12 +37,16 @@
                 </p>
 
                 {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
-                {% if entry.notes or entry[lang_notes] or entry.email %}
+                {% if entry.notes or entry[lang_notes] or entry.email or entry.difficulty == 'easy' %}
                     <div class="tooltip-content">
                         {% if entry[lang_notes] %}
                             {{ entry[lang_notes] }}
                         {% elsif entry.notes %}
                             {{ entry.notes }}
+                        {% elsif entry.email %}
+                            {{ site.data.trans[page.lang].defaultnote_email }}
+                        {% elsif entry.difficulty == 'easy' %}
+                            {{ site.data.trans[page.lang].defaultnote_easy }}
                         {% endif %}
                         {% if entry.email %}
                             {% if entry.notes or entry[lang_notes] %}

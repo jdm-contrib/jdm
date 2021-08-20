@@ -22,7 +22,7 @@ end
 
 SupportedDifficulties = ["easy", "medium", "hard", "impossible"]
 SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
-SupportedLanguageKeys = ["about", "contribute", "difficulty", "difficulty_easy", "difficulty_hard", "difficulty_impossible",
+SupportedLanguageKeys = ["about", "contribute", "defaultnote_easy", "defaultnote_email", "difficulty", "difficulty_easy", "difficulty_hard", "difficulty_impossible",
                         "difficulty_medium", "extension", "extensionguide", "extensionp1", "extensionp2",
                         "extensionp3", "extensionp4", "extensionp5", "extensionp6", "footercredits",
                         "guide", "guideeasy", "guideexplanations", "guidehard", "guideimpossible",

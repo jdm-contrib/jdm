@@ -1,6 +1,8 @@
 {
     "about": "About",
     "contribute": "Fork on GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "難度",
     "difficulty_easy": "簡單",
     "difficulty_hard": "困難",
