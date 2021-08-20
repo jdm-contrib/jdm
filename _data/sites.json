@@ -9111,8 +9111,7 @@
         "name": "Scaleway",
         "url": "https://console.scaleway.com/#/account",
         "difficulty": "easy",
-        "notes": "On the top right of the page, click 'Delete my account'.",
-        "notes_tr": "Sayfanın sağ üst tarafında, \"Hesabımı Sil\" seçeneğini tıklayın.",
+        "notes": "Go to the organization view and click the red 'deactivate organisation'.",
         "domains": [
             "scaleway.com"
         ]
