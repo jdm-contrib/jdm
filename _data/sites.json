@@ -1410,7 +1410,7 @@
         "name": "Brain.fm",
         "url": "https://www.brain.fm/privacy",
         "difficulty": "hard",
-        "notes": "Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a 1-2 day delay while they process your request, after which your login credentials will stop working.",
+        "notes": "Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working.",
         "email": "privacy@brain.fm",
         "email_subject": "Account Deletion Request",
         "domains": [
