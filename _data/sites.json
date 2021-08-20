@@ -1419,6 +1419,18 @@
     },
 
     {
+        "name": "Brain.fm",
+        "url": "https://www.brain.fm/privacy",
+        "difficulty": "hard",
+        "notes": "Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working.",
+        "email": "privacy@brain.fm",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "brain.fm"
+        ]
+    },
+
+    {
         "name": "Bring!",
         "url": "https://go.getbring.com/?link=https%3A%2F%2Fdeeplink.getbring.com%2Fview%2Fdeleteaccount&apn=ch.publisheria.bring&isi=580669177&ibi=ch.publisheria.bring",
         "difficulty": "medium",
