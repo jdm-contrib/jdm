@@ -1,6 +1,8 @@
 {
     "about": "O projekte",
     "contribute": "Zapoj sa na GitHub-e",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "náročnosť",
     "difficulty_easy": "ľahké",
     "difficulty_hard": "ťažké",
