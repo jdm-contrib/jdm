@@ -1088,17 +1088,6 @@
             "https://www.bet365.com"
         ]
     },
-
-    {
-        "name": "Betterment",
-        "url": "https://www.betterment.com",
-        "difficulty": "impossible",
-        "notes": "Account can only be closed, but not trule deleted.",
-        "notes_tr": "Hesap yalnızca kapatılabilir, ancak tamamen silinemez.",
-        "domains": [
-            "betterment.com"
-        ]
-    },
 	
 	{
         "name": "Bethesda",
@@ -1108,6 +1097,17 @@
         "email": "privacy@support.zenimax.com",
         "domains": [
             "bethesda.net"
+        ]
+    },
+
+    {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "difficulty": "impossible",
+        "notes": "Account can only be closed, but not trule deleted.",
+        "notes_tr": "Hesap yalnızca kapatılabilir, ancak tamamen silinemez.",
+        "domains": [
+            "betterment.com"
         ]
     },
 
