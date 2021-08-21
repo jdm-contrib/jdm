@@ -1106,7 +1106,7 @@
         "difficulty": "hard",
         "notes": "To delete the account, login first on Bethesda.net, then click on the above link and select Bethesda as the product (note that the page takes a while to load), then select 'Delete Personal Information and Account' and fill out the form, this will send a prefilled support contact form for account deletion. You may also send an email to privacy@support.zenimax.com ",
         "email": "privacy@support.zenimax.com",
-		"domains": [
+        "domains": [
             "bethesda.net"
         ]
     },
