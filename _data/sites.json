@@ -1099,6 +1099,16 @@
             "betterment.com"
         ]
     },
+	
+	{
+        "name": "Bethesda",
+        "url": "https://help.bethesda.net/app/incident10/?prod=711&cat=1220",
+        "difficulty": "hard",
+        "notes": "To delete the account, login first on Bethesda.net, then click on the above link and select Bethesda as the product (note that the page takes a while to load), then select 'Delete Personal Information and Account' and fill out the form, this will send a prefilled support contact form for account deletion. ",
+        "domains": [
+            "bethesda.net"
+        ]
+    },
 
     {
         "name": "Bidoo",
