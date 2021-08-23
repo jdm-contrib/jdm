@@ -1,6 +1,8 @@
 {
     "about": "Acerca de",
     "contribute": "Contribuya en Github",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "dificultad",
     "difficulty_easy": "fácil",
     "difficulty_hard": "difícil",
@@ -31,6 +33,7 @@
     "popular": "Popular",
     "pullrequest": "Haz un 'Pull Request' en GitHub.",
     "reset": "Reiniciar",
+    "search": "Buscar",
     "sendmail": "Enviar e-mail",
     "showinfo": "mostrar información",
     "tagline": "Un directorio de enlaces directos para eliminar sus cuentas en la web",

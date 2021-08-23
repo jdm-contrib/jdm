@@ -1,6 +1,8 @@
 {
     "about": "About",
     "contribute": "Fork on GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "ความยาก",
     "difficulty_easy": "ง่าย",
     "difficulty_hard": "ยาก",
@@ -31,6 +33,7 @@
     "popular": "ยอดนิยม",
     "pullrequest": "ForkโครงการจากGitHubสิ",
     "reset": "Reset",
+    "search": "ค้น",
     "sendmail": "ส่งอีเมล์",
     "showinfo": "แสดงข้อมูล...",
     "tagline": "รายการdirect linkสำหรับลบบัญชีจากโลกออนไลน์",

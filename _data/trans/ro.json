@@ -1,6 +1,8 @@
 {
     "about": "About",
     "contribute": "Fork on GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "dificultate",
     "difficulty_easy": "ușor",
     "difficulty_hard": "greu",
@@ -31,6 +33,7 @@
     "popular": "Popular",
     "pullrequest": "Vezi informațiile necesare pe GitHub",
     "reset": "Reset",
+    "search": "Căutare",
     "sendmail": "Trimite email",
     "showinfo": "afișează informații...",
     "tagline": "Linkuri directe către paginile unde îți poți șterge contul de pe diverse servicii online.",

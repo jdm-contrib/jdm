@@ -1,6 +1,8 @@
 {
     "about": "Info",
     "contribute": "Fork on GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "difficoltà",
     "difficulty_easy": "facile",
     "difficulty_hard": "difficile",
@@ -31,6 +33,7 @@
     "popular": "Popolari",
     "pullrequest": "Crea un fork del progetto su GitHub",
     "reset": "Reset",
+    "search": "Ricerca",
     "sendmail": "Invia e-mail",
     "showinfo": "mostra informazioni...",
     "tagline": "Una directory di link diretti per eliminare il tuo account dai siti web.",

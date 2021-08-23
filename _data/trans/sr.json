@@ -1,6 +1,8 @@
 {
     "about": "About",
     "contribute": "Fork on GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "тешкоћа",
     "difficulty_easy": "лако",
     "difficulty_hard": "тешко",
@@ -31,6 +33,7 @@
     "popular": "Популарно",
     "pullrequest": "Форкујте пројекат на Гитхабу",
     "reset": "Reset",
+    "search": "Претрага",
     "sendmail": "Пошаљите е-поруку",
     "showinfo": "прикажи податке...",
     "tagline": "Директоријум директних веза за брисање ваших налога са разних веб сервиса.",

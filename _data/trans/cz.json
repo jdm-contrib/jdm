@@ -1,6 +1,8 @@
 {
     "about": "O projektu",
     "contribute": "Zapojte se na GitHubu",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "obtížnost",
     "difficulty_easy": "jednoduché",
     "difficulty_hard": "těžké",
@@ -31,6 +33,7 @@
     "popular": "Populární",
     "pullrequest": "Vytvořit Pull Request na GitHubu",
     "reset": "Resetovat",
+    "search": "Hledání",
     "sendmail": "Poslat e-mail",
     "showinfo": "zobrazit podrobnosti...",
     "tagline": "Seznam odkazů na smazání účtů z internetových služeb.",

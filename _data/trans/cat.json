@@ -1,6 +1,8 @@
 {
     "about": "Quant a",
     "contribute": "Contribuir a GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "dificultat",
     "difficulty_easy": "senzilla",
     "difficulty_hard": "difícil",
@@ -31,6 +33,7 @@
     "popular": "Popular",
     "pullrequest": "Sol·licitud d'estirada a GitHub",
     "reset": "Restablir",
+    "search": "Buscar",
     "sendmail": "Envieu un missatge electrònic",
     "showinfo": "mostrar informació",
     "tagline": "Un directori d'enllaços directes per suprimir els vostres comptes de la web.",

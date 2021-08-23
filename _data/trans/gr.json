@@ -1,6 +1,8 @@
 {
     "about": "Σχετικά",
     "contribute": "Συμμετοχή στο GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "δυσκολία",
     "difficulty_easy": "εύκολο",
     "difficulty_hard": "δύσκολο",
@@ -31,6 +33,7 @@
     "popular": "Δημοφιλή",
     "pullrequest": "Προωθήστε το project στο GitHub",
     "reset": "Επαναφορά",
+    "search": "Αναζήτηση",
     "sendmail": "Στείλτε email",
     "showinfo": "Εμφάνιση πληροφοριών...",
     "tagline": "Ένας κατάλογος άμεσων συνδέσμων για την διαγραφή του λογαριασμού σας από υπηρεσίες στο διαδίκτυο.",

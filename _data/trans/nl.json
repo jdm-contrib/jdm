@@ -1,6 +1,8 @@
 {
     "about": "About",
     "contribute": "Fork on GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "moeilijkheidsgraad",
     "difficulty_easy": "gemakkelijk",
     "difficulty_hard": "moeilijk",
@@ -31,6 +33,7 @@
     "popular": "Popular",
     "pullrequest": "Fork het project op GitHub",
     "reset": "Reset",
+    "search": "Zoeken",
     "sendmail": "Stuur een e-mail",
     "showinfo": "toon informatie...",
     "tagline": "Een verzameling directe links om jouw account van een webdienst te verwijderen.",

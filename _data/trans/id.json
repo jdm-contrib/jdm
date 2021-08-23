@@ -1,6 +1,8 @@
 {
     "about": "About",
     "contribute": "Fork on GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "kesulitan",
     "difficulty_easy": "mudah",
     "difficulty_hard": "sulit",
@@ -31,6 +33,7 @@
     "popular": "Popular",
     "pullrequest": "Fork proyek di Github",
     "reset": "Reset",
+    "search": "Mencari",
     "sendmail": "Kirim email",
     "showinfo": "lihat info...",
     "tagline": "Direktori yang berisi tautan untuk menghapus akun dari layanan web.",

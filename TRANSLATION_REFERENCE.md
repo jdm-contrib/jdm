@@ -23,10 +23,13 @@ This is a reference guide for translating, so that one can see where each key fi
 - `difficulty_medium`: Word for "medium" difficulty
 - `difficulty_hard`: Word for "hard" difficulty
 - `difficulty_impossible`: Word for "impossible" difficulty
+- `search`: Placeholder text for the general search field
 - `sendmail`: Text for hyperlink that opens up the new mail to be composed
 - `showinfo`: Text for button that shows notes of an entry
 - `hideinfo`: Text for button that hides notes of an entry
 - `noinfo`: Text shown when entry has no notes
+- `defaultnote_easy`: Text shown when entry has no notes and deletion is accomplished by going to the linked URL
+- `defaultnote_email`: Text shown when entry has no notes and deletion is accomplished by emailing a company representative
 
 ## Footer
 

@@ -1,6 +1,8 @@
 {
     "about": "About",
     "contribute": "Fork on GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "难度分级",
     "difficulty_easy": "简单",
     "difficulty_hard": "困难",
@@ -31,6 +33,7 @@
     "popular": "Popular",
     "pullrequest": "Fork the project on GitHub",
     "reset": "Reset",
+    "search": "搜索",
     "sendmail": "发送 email",
     "showinfo": "查看信息...",
     "tagline": "Web服务帐号注销链接的目录.",

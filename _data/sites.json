@@ -1090,6 +1090,17 @@
     },
 
     {
+        "name": "Bethesda",
+        "url": "https://help.bethesda.net/app/incident10/?prod=711&cat=1220",
+        "difficulty": "hard",
+        "notes": "To delete the account, login first on Bethesda.net, then click on the above link and select Bethesda as the product (note that the page takes a while to load), then select 'Delete Personal Information and Account' and fill out the form, this will send a prefilled support contact form for account deletion. You may also send an email to privacy@support.zenimax.com ",
+        "email": "privacy@support.zenimax.com",
+        "domains": [
+        "bethesda.net"
+        ]
+    },
+
+    {
         "name": "Betterment",
         "url": "https://www.betterment.com",
         "difficulty": "impossible",
@@ -1419,6 +1430,18 @@
     },
 
     {
+        "name": "Brain.fm",
+        "url": "https://www.brain.fm/privacy",
+        "difficulty": "hard",
+        "notes": "Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working.",
+        "email": "privacy@brain.fm",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "brain.fm"
+        ]
+    },
+
+    {
         "name": "Bring!",
         "url": "https://go.getbring.com/?link=https%3A%2F%2Fdeeplink.getbring.com%2Fview%2Fdeleteaccount&apn=ch.publisheria.bring&isi=580669177&ibi=ch.publisheria.bring",
         "difficulty": "medium",
@@ -1665,7 +1688,7 @@
 
     {
         "name": "CDON.COM",
-        "url": "https://cdon.eu/#support-hub",
+        "url": "https://cdon.eu/support",
         "difficulty": "hard",
         "notes": "Contact customer service via the support e-mail form and request deletion of your account under General Questions.",
         "notes_tr": "Destek e-posta formunu kullanarak müşteri hizmetleri ile iletişim kurun ve \"Genel Sorular\" altında hesabınızın silinmesini talep edin.",
@@ -1752,7 +1775,7 @@
 
     {
         "name": "ChatForma",
-        "url": "chatforma.com",
+        "url": "https://www.chatforma.com/",
         "difficulty": "impossible",
         "domains": [
             "chatforma.com"
@@ -2311,15 +2334,6 @@
     },
 
     {
-        "name": "CryptFolio",
-        "url": "https://cryptfolio.com/user#user_delete",
-        "difficulty": "easy",
-        "domains": [
-            "cryptfolio.com"
-        ]
-    },
-
-    {
         "name": "Crypton.sh",
         "url": "https://crypton.sh/app/account",
         "difficulty": "easy",
@@ -2440,7 +2454,7 @@
 
     {
         "name": "Deadspin (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -3646,6 +3660,17 @@
     },
 
     {
+        "name": "Fontawesome",
+        "url": "https://fontawesome.com/privacy",
+        "difficulty": "hard",
+        "email": "privacy@fontawesome.com",
+        "notes": "Cancelling a PRO account already deletes it. Free accounts must be deleted by sending an e-mail.",
+        "domains": [
+            "fontawesome.com"
+        ]
+    },
+
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
@@ -3908,7 +3933,7 @@
 
     {
         "name": "Gawker (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -3976,7 +4001,7 @@
 
     {
         "name": "GetCreditScore",
-        "url": "https://www.getcreditscore.com.au/my-preferences",
+        "url": "https://www.getcreditscore.com.au",
         "difficulty": "easy",
         "notes": "Select the Delete My Account option on the preferences page and click submit.",
         "notes_tr": "Tercihler sayfasında \"Hesabımı Sil\" seçeneğini seçin ve \"Gönder\" tuşuna tıklayın.",
@@ -4080,7 +4105,7 @@
 
     {
         "name": "Gizmodo (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -4906,6 +4931,18 @@
     },
 
     {
+        "name": "HTC",
+        "url": "https://www.htc.com/us/terms/privacy",
+        "difficulty": "hard",
+        "email": "global-privacy@htc.com",
+        "domains": [
+            "viveport.com",
+            "htcsense.com",
+            "htc.com"
+        ]
+    },
+
+    {
         "name": "Huddle",
         "url": "https://huddle.zendesk.com/hc/en-us/articles/200124703-How-do-I-cancel-my-Huddle-account-",
         "difficulty": "hard",
@@ -5216,7 +5253,7 @@
 
     {
         "name": "IO9 (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5311,7 +5348,7 @@
 
     {
         "name": "Jalopnik (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5338,7 +5375,7 @@
 
     {
         "name": "Jezebel (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5534,7 +5571,7 @@
 
     {
         "name": "Kinja (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5606,7 +5643,7 @@
 
     {
         "name": "Kotaku (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -5777,7 +5814,7 @@
 
     {
         "name": "Lifehacker (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -6014,7 +6051,7 @@
 
     {
         "name": "MacTrade",
-        "url": "https://www.mactrade.de/goodahead_customer/account/delete/",
+        "url": "https://www.mactrade.de/account/profile#confirmDeleteAccountModal",
         "notes": "In your user account go to 'Delete Account' and confirm the deletion via the 'Delete account now' button.",
         "notes_tr": "Kullanıcı hesabınızda \"Hesabı Sil\" kısmına girin ve \"Hesabınızı Şimdi Silin\" tuşuna tıklayarak silmeyi onaylayın.",
         "notes_de": "Wähle 'Konto löschen' in deinem Benutzerkonto und bestätige die Löschung mit dem Button 'Benutzerkonto jetzt löschen'.",
@@ -7143,7 +7180,7 @@
 
     {
         "name": "New Relic",
-        "url": "https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-maintenance/delete-your-new-relic-account",
+        "url": "https://docs.newrelic.com/docs/accounts/accounts-billing/account-setup/downgradecancel-account/#cancel-simple-org",
         "difficulty": "easy",
         "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account. Select the confirmation prompt.",
         "notes_tr": "New Relic menü çubuğundan, \"Hesap\" \"Aboneliği Yükselt\" \"Hesabı İptal Et\" tuşuna tıklayın. Ardından onaylayın.",
@@ -7878,7 +7915,7 @@
 
     {
         "name": "pdfFiller",
-        "url": "https://www.pdffiller.com/en/account/settings",
+        "url": "https://www.pdffiller.com/en/login/signin?ref=%2Fen%2Faccount%2Fsettings",
         "difficulty": "easy",
         "notes": "Log in to your account, then go to 'Settings' tab and click 'Delete Account'.",
         "notes_pl": "Zaloguj się na swoje konto, potem przejdź do 'Settings' i kliknij 'Delete Account'.",
@@ -8207,17 +8244,6 @@
         "notes_tr": "\"Tehlikeli Bölge\" \"Hesabınızı Silin\" tuşuna tıklayın.",
         "domains": [
             "plex.tv"
-        ]
-    },
-
-    {
-        "name": "PlexGuide",
-        "url": "https://plexguide.com/account/thui-deactivate/",
-        "difficulty": "impossible",
-        "notes": "Account can only be disabled, with option of contacting support to re-enable account afterwards.",
-        "notes_tr": "Hesap, yalnızca daha sonra hesabı yeniden etkinleştirmek için destekle iletişime geçme imkanı ile devre dışı bırakılabilir.",
-        "domains": [
-            "plexguide.com"
         ]
     },
 
@@ -8909,6 +8935,16 @@
     },
 
     {
+        "name": "Ring",
+        "url": "https://account.ring.com/account/data-requests",
+        "difficulty": "medium",
+        "notes": "Go to the URL, sign into your account, and select \"Delete Data\" near the bottom. Reenter your password, select \"Confirm Deletion,\" and then wait for up to 30 days for your request to be processed. When your information has been deleted, your account credentials will no longer work.",
+        "domains": [
+            "ring.com"
+        ]
+    },
+
+    {
         "name": "Riot Games",
         "url": "https://support-valorant.riotgames.com/hc/en-us/requests/new?ticket_form_id=360004036693",
         "difficulty": "hard",
@@ -8930,6 +8966,21 @@
         "difficulty": "impossible",
         "domains": [
             "ripe.net"
+        ]
+    },
+
+    {
+        "name": "Rituals.com",
+        "url": "https://service.rituals.com/s/contact?topic=a2L4L0000008xwDUAQ&language=de&country=DE",
+        "difficulty": "hard",
+        "notes": "You have to claim a GDPR case for the right to delete your data.",
+        "notes_tr": "verilerinizi silme hakkı için bir GDPR davası talep etmeniz gerekir.",
+        "notes_it": "devi rivendicare un caso GDPR per il diritto di cancellare i tuoi dati.",
+        "notes_pt_br": "você deve reivindicar um caso GDPR para o direito de excluir seus dados.",
+        "notes_es": "tiene que reclamar un caso GDPR por el derecho a eliminar sus datos.",
+        "notes_de": "Sie müssen einen DSGVO-Fall bzgl. des Rechts auf Löschung eigener Daten eröffnen.",
+        "domains": [
+            "rituals.com"
         ]
     },
 
@@ -9093,8 +9144,7 @@
         "name": "Scaleway",
         "url": "https://console.scaleway.com/#/account",
         "difficulty": "easy",
-        "notes": "On the top right of the page, click 'Delete my account'.",
-        "notes_tr": "Sayfanın sağ üst tarafında, \"Hesabımı Sil\" seçeneğini tıklayın.",
+        "notes": "Go to the organization view and click the red 'deactivate organisation'.",
         "domains": [
             "scaleway.com"
         ]
@@ -9222,6 +9272,17 @@
         "notes_tr": "Ayarlar sayfasının altındaki \"Hesabınızı Silin\" öğesini tıklayın ve açılır kutuya 'DELETE' yazın.",
         "domains": [
             "sharelatex.com"
+        ]
+    },
+
+    {
+        "name": "Shein",
+        "url": "https://shein.com/robot",
+        "difficulty": "hard",
+        "notes": "Click on the link, then click on \"Contact Agent\", select \"Unsubscribe and delete\". Finally fill in the various fields and then press \"Submit\". ⚠️ It is imperative to give a reason for deleting an account for it to work.",
+        "notes_fr": "Cliquez sur le lien, cliquez ensuite sur \"Contacter l'agent\", sélectionnez \"Se désabonner et supprimer\". Enfin remplissez les différents champs puis appuyez sur \"Soumettre\". ⚠️ Il faut impérativement donner un motif de suppression de compte pour que cela fonctionne.",
+        "domains": [
+            "shein.com"
         ]
     },
 
@@ -9668,6 +9729,16 @@
     },
 
     {
+        "name": "Spreadshirt",
+        "url": "https://my.spreadshirt.com/account/contact",
+        "difficulty": "easy",
+        "notes": "Click 'Delete account' on the page, confirm with your password.",
+        "domains": [
+            "spreadshirt.com"
+        ]
+    },
+
+    {
         "name": "Square Cash",
         "url": "https://cash.me/login?return_to=support",
         "difficulty": "hard",
@@ -10064,6 +10135,15 @@
     },
 
     {
+        "name": "Tastebuds",
+        "url": "https://tastebuds.fm/user_deletions/confirm_delete_reason",
+        "difficulty": "easy",
+        "domains": [
+            "tastebuds.fm"
+        ]
+    },
+
+    {
         "name": "Teachoo",
         "url": "https://www.teachoo.com/contact/",
         "difficulty": "hard",
@@ -10385,6 +10465,16 @@
     },
 
     {
+        "name": "TradingView",
+        "url": "https://www.tradingview.com/u/account/#settings-profile",
+        "difficulty": "easy",
+        "notes": "Login to your account. Click on \"Learn more about Account Deletion\". Press \"Yes, delete account\". Fill in your password",
+        "domains": [
+            "tradingview.com"
+        ]
+    },
+
+    {
         "name": "Trakt",
         "url": "https://trakt.tv/settings/data",
         "difficulty": "easy",
@@ -10693,6 +10783,19 @@
     },
 
     {
+        "name": "Ultimate Guitar",
+        "url": "https://www.ultimate-guitar.com/about/privacy.htm",
+        "difficulty": "hard",
+        "notes": "Email privacy@ultimate-guitar.com and request that they delete your personal information.",
+        "email": "privacy@ultimate-guitar.com",
+        "email_subject": "Request To Delete My Account From Your Database",
+        "email_body": "I have an account in your database with the username ……………. and the email address that is linked to the account is ………………..\nI request that you kindly delete my account from your database and also wipe all notifications if any.",
+        "domains": [
+            "ultimate-guitar.com"
+        ]
+    },
+
+    {
         "name": "Uncubed",
         "url": "https://uncubed.com/learn/users/edit",
         "difficulty": "hard",
@@ -10842,7 +10945,7 @@
 
     {
         "name": "Valleywag (Gawker Media)",
-        "url": "https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
+        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
         "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
         "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
@@ -11556,6 +11659,38 @@
         "notes_tr": "Sayfanın altındaki \"Hesabınızı silmek için buraya tıklayın\" tuşuna tıklayın.",
         "domains": [
             "yummly.com"
+        ]
+    },
+
+    {
+        "name": "Zalando",
+        "url": "https://www.zalando.co.uk/myaccount/privacy/",
+        "difficulty": "easy",
+        "notes": "Click on the link, log in and then click on the \"Delete your account\" tab. Finally, click on \"Request account and data deletion\".",
+        "notes_fr": "Cliquez sur le lien, connectez-vous puis cliquez sur l'onglet \"Supprimer votre compte\". Enfin, cliquez sur \"Demander la suppression du compte et des données\".",
+        "domains": [
+            "zalando.be",
+            "zalando.fr",
+            "zalando.co.uk",
+            "zalando.at",
+            "zalando.hr",
+            "zalando.cz",
+            "zalando.dk",
+            "zalando.ee",
+            "zalando.de",
+            "zalando.ie",
+            "zalando.it",
+            "zalando.lv",
+            "zalando.lt",
+            "zalando.lu",
+            "zalando.nl",
+            "zalando.no",
+            "zalando.pl",
+            "zalando.sk",
+            "zalando.si",
+            "zalando.es",
+            "zalando.se",
+            "zalando.ch"
         ]
     },
 
