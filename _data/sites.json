@@ -1056,7 +1056,6 @@
         ]
     },
 
-
     {
         "name": "Be Welcome",
         "url": "https://www.bewelcome.org/deleteprofile",
@@ -1421,6 +1420,17 @@
             "botlist.space"
         ]
     },
+
+    {
+        "name": "Bountysource",
+        "url": "https://github.com/bountysource/core/issues/409",
+        "difficulty": "hard",
+        "note": "There's no way through the website to delete an account or team, but email support@bountysource.com and they'll (eventually) delete it.",
+        "domains": [
+            "bountysource.com"
+        ]
+    },
+
 
     {
         "name": "Box",
