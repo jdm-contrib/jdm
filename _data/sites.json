@@ -1431,7 +1431,6 @@
         ]
     },
 
-
     {
         "name": "Box",
         "meta": "popular",
@@ -1578,6 +1577,16 @@
         "notes_pl": "Wystarczy, że klikniesz 'Abschicken'",
         "domains": [
             "ress.at"
+        ]
+    },
+
+    {
+        "name": "CA Cert",
+        "url": "http://wiki.cacert.org/FAQ/AccountRemoval",
+        "difficulty": "difficult",
+        "notes": "Support have to be emailed with a request and it may be months before the account is deleted, depending on circumstance.",
+        "domains": [
+            "cacert.org"
         ]
     },
 
