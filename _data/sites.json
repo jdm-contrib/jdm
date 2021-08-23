@@ -1973,6 +1973,15 @@
     },
 
     {
+        "name": "Code Academy",
+        "url": "https://help.codecademy.com/hc/en-us/articles/220801347-How-to-Delete-Your-Account",
+        "difficulty": "easy",
+        "domains": [
+            "codeacademy.com"
+        ]
+    },
+
+    {
         "name": "Code Red",
         "url": "https://cne.coderedweb.com",
         "difficulty": "impossible",
