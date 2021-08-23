@@ -1046,6 +1046,17 @@
     },
 
     {
+        "name": "BBC",
+        "url": "https://account.bbc.com/account/settings/delete",
+        "difficulty": "easy",
+        "notes": "Same account also covers BBC iPlayer and BBC Sounds.",
+        "domains": [
+            "bbc.com",
+            "bbc.co.uk"
+        ]
+    },
+
+    {
         "name": "Be Welcome",
         "url": "https://www.bewelcome.org/deleteprofile",
         "difficulty": "easy",
