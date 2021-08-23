@@ -5933,8 +5933,8 @@
         "name": "Lnk.Bio",
         "url": "https://help.lnk.bio/en/articles/4300436-how-do-i-delete-my-account",
         "difficulty": "hard",
-	"notes": "Log in and request deletion via the chat service using the button on the lower right corner.",
-	"notes_pt_br": "Inicie sessão e solicite deleção da conta através do serviço de bate-papo disponível através do botão no canto inferior direito.",
+        "notes": "Log in and request deletion via the chat service using the button on the lower right corner.",
+        "notes_pt_br": "Inicie a sessão e solicite deleção da conta através do serviço de bate-papo, disponível através do botão no canto inferior direito.",
         "domains": [
             "lnk.bio"
         ]
