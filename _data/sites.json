@@ -10867,11 +10867,11 @@
 
     {
         "name": "Unity ID",
-        "url": "https://support.unity3d.com/hc/en-us/articles/360000878446-How-do-I-permanently-delete-my-Unity-account-",
-        "difficulty": "hard",
-        "notes": "It is not possible for users to delete their own Unity ID accounts, instead users must contact Unity to disable accounts. Requires that the request come from the email linked to the account.",
-        "notes_tr": "Kullanıcıların kendi Unity ID hesaplarını silmesi mümkün değildir, bunun yerine kullanıcılar hesapları devre dışı bırakmak için Unity ile iletişime geçmelidir. İsteğin hesaba bağlı e-postadan gelmesini gerektirir.",
+        "url": "https://id.unity.com/en/account/edit",
+        "difficulty": "easy",
+        "notes": "Click 'Request to Delete Your Account' at the bottom of the account settings page.",
         "domains": [
+            "unity.com",
             "unity3d.com"
         ]
     },
