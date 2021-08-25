@@ -1425,7 +1425,7 @@
         "name": "Bountysource",
         "url": "https://github.com/bountysource/core/issues/409",
         "difficulty": "hard",
-        "note": "There's no way through the website to delete an account or team, but email support@bountysource.com and they'll (eventually) delete it.",
+        "notes": "There's no way through the website to delete an account or team, but email support@bountysource.com and they'll (eventually) delete it.",
         "domains": [
             "bountysource.com"
         ]
@@ -9477,6 +9477,16 @@
         "notes_tr": "\"Hesabınızı Silin\" düğmesini tıklamanız, \"Tüm içeriği silme izni\" ve \"Onayla\" seçeneğini seçmeniz gerekir.",
         "domains": [
             "sketchfab.com"
+        ]
+    },
+
+    {
+        "name": "Skiddle",
+        "url": "https://www.skiddle.com/skiddlepeople/removeaccount.php",
+        "difficulty": "medium",
+        "notes": "Follow the link above, or alternatively check the bottom of the notification settings page.",
+        "domains": [
+            "skiddle.com"
         ]
     },
 
