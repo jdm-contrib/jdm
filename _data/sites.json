@@ -1425,7 +1425,8 @@
         "name": "Bountysource",
         "url": "https://github.com/bountysource/core/issues/409",
         "difficulty": "hard",
-        "notes": "There's no way through the website to delete an account or team, but email support@bountysource.com and they'll (eventually) delete it.",
+        "notes": "Only possible via e-mail, where they'll (eventually) delete the account.",
+        "email":  "support@bountysource.com",
         "domains": [
             "bountysource.com"
         ]
