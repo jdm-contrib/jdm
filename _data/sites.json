@@ -1586,6 +1586,7 @@
         "url": "http://wiki.cacert.org/FAQ/AccountRemoval",
         "difficulty": "hard",
         "notes": "Support have to be emailed with a request and it may be months before the account is deleted, depending on circumstance.",
+        "email": "support@cacert.org",
         "domains": [
             "cacert.org"
         ]
@@ -9484,7 +9485,7 @@
     {
         "name": "Skiddle",
         "url": "https://www.skiddle.com/skiddlepeople/removeaccount.php",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "Follow the link above, or alternatively check the bottom of the notification settings page.",
         "domains": [
             "skiddle.com"
