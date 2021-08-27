@@ -1422,6 +1422,17 @@
     },
 
     {
+        "name": "Bountysource",
+        "url": "https://github.com/bountysource/core/issues/409",
+        "difficulty": "hard",
+        "notes": "Only possible via e-mail, where they'll (eventually) delete the account.",
+        "email":  "support@bountysource.com",
+        "domains": [
+            "bountysource.com"
+        ]
+    },
+
+    {
         "name": "Box",
         "meta": "popular",
         "url": "https://app.box.com/account",
@@ -1567,6 +1578,17 @@
         "notes_pl": "Wystarczy, że klikniesz 'Abschicken'",
         "domains": [
             "ress.at"
+        ]
+    },
+
+    {
+        "name": "CA Cert",
+        "url": "http://wiki.cacert.org/FAQ/AccountRemoval",
+        "difficulty": "hard",
+        "notes": "Support have to be emailed with a request and it may be months before the account is deleted, depending on circumstance.",
+        "email": "support@cacert.org",
+        "domains": [
+            "cacert.org"
         ]
     },
 
@@ -1949,6 +1971,15 @@
         "notes_tr": "Hesabınızın silinmesi için desteğe başvurmalısınız. \"CNET Kaydı\" kategorisini seçin",
         "domains": [
             "cnet.com"
+        ]
+    },
+
+    {
+        "name": "Code Academy",
+        "url": "https://help.codecademy.com/hc/en-us/articles/220801347-How-to-Delete-Your-Account",
+        "difficulty": "easy",
+        "domains": [
+            "codeacademy.com"
         ]
     },
 
@@ -9459,6 +9490,16 @@
         "notes_tr": "\"Hesabınızı Silin\" düğmesini tıklamanız, \"Tüm içeriği silme izni\" ve \"Onayla\" seçeneğini seçmeniz gerekir.",
         "domains": [
             "sketchfab.com"
+        ]
+    },
+
+    {
+        "name": "Skiddle",
+        "url": "https://www.skiddle.com/skiddlepeople/removeaccount.php",
+        "difficulty": "easy",
+        "notes": "Follow the link above, or alternatively check the bottom of the notification settings page.",
+        "domains": [
+            "skiddle.com"
         ]
     },
 
