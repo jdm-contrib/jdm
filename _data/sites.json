@@ -10515,6 +10515,15 @@
             "trac.torproject.org"
         ]
     },
+    {
+        "name": "Torn",
+        "url": "https://www.torn.com/preferences.php#tab=accountClosure",
+        "difficulty": "easy",
+        "notes": "Login to your account first before deleting, you will lose all access to the account",
+        "domains": [
+            "torn.com"
+        ]
+    },
 
     {
         "name": "The Tracktor",
