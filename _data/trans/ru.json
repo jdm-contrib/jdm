@@ -1,6 +1,8 @@
 {
     "about": "Авторы",
     "contribute": "Форкнуть на GitHub",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "Сложность",
     "difficulty_easy": "легко",
     "difficulty_hard": "трудно",

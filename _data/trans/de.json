@@ -1,6 +1,8 @@
 {
     "about": "Über",
     "contribute": "Auf GitHub beitragen",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "Schwierigkeit",
     "difficulty_easy": "leicht",
     "difficulty_hard": "schwer",

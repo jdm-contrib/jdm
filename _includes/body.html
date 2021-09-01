@@ -37,15 +37,22 @@
                 </p>
 
                 {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
-                {% if entry.notes or entry[lang_notes] %}
+                {% if entry.notes or entry[lang_notes] or entry.email or entry.difficulty == 'easy' %}
                     <div class="tooltip-content">
                         {% if entry[lang_notes] %}
                             {{ entry[lang_notes] }}
-                        {% else %}
+                        {% elsif entry.notes %}
                             {{ entry.notes }}
+                        {% elsif entry.email %}
+                            {{ site.data.trans[page.lang].defaultnote_email }}
+                        {% elsif entry.difficulty == 'easy' %}
+                            {{ site.data.trans[page.lang].defaultnote_easy }}
                         {% endif %}
                         {% if entry.email %}
-                            <br><a href="mailto:{{ entry.email }}?Subject={% if entry.email_subject %}{{ entry.email_subject | replace: ' ', '%20' }}{% else %}Account%20Deletion%20Request{% endif %}&body={% if entry.email_body %}{{ entry.email_body | replace: ' ', '%20' }}{% else %}Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX{% endif %}">{{ site.data.trans[page.lang].sendmail }} &raquo;</a>
+                            {% if entry.notes or entry[lang_notes] %}
+                                <br>
+                            {% endif %}
+                            <a href="mailto:{{ entry.email }}?Subject={% if entry.email_subject %}{{ entry.email_subject | replace: ' ', '%20' }}{% else %}Account%20Deletion%20Request{% endif %}&body={% if entry.email_body %}{{ entry.email_body | replace: ' ', '%20' }}{% else %}Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX{% endif %}">{{ site.data.trans[page.lang].sendmail }} &raquo;</a>
                         {% endif %}
                     </div>
                     <a href="#" class="tooltip-toggle contains-info">

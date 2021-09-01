@@ -1,6 +1,8 @@
 {
     "about": "About",
     "contribute": "Contribua no GitHub",
+    "defaultnote_easy": "Visite a página do link e delete a sua conta.",
+    "defaultnote_email": "Envie um e-mail para o endereço fornecido e solicite a que a conta seja deletada.",
     "difficulty": "dificuldade",
     "difficulty_easy": "fácil",
     "difficulty_hard": "difícil",

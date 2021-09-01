@@ -1,4 +1,4 @@
-exclude: [CONTRIBUTING.md, Gemfile, Gemfile.lock, LICENSE, README.md, script, vendor]
+exclude: [CNAME, CONTRIBUTING.md, Gemfile, Gemfile.lock, LICENSE, README.md, script, TRANSLATION_REFERENCE.md, vendor]
 collections:
   pages:
     output: true

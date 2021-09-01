@@ -1,0 +1,13 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>JustDeleteMe</ShortName>
+    <Description>
+        A directory of direct links to delete your account from web services.
+    </Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image width="64" height="64" type="image/png">
+        https://justdeleteme.xyz/assets/icons/apple-touch-icon-72x72-precomposed.png
+    </Image>
+    <Url type="text/html" method="get" template="https://justdeleteme.xyz/#{searchTerms}"/>
+    <moz:SearchForm>https://justdeleteme.xyz</moz:SearchForm>
+</OpenSearchDescription>

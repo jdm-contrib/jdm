@@ -1,6 +1,8 @@
 {
     "about": "정보",
     "contribute": "GitHub에서 기여하기",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "난이도",
     "difficulty_easy": "쉬움",
     "difficulty_hard": "어려움",

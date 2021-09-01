@@ -1,6 +1,8 @@
 {
     "about": "Hakkında",
     "contribute": "GitHub'da Katkıda Bulunun",
+    "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "zorluk",
     "difficulty_easy": "kolay",
     "difficulty_hard": "zor",
