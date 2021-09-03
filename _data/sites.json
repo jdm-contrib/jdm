@@ -1497,6 +1497,17 @@
     },
 
     {
+        "name": "BrutX",
+        "url": "https://help.brutx.com/hc/fr/articles/360020090299-Sécurité-confidentialité-des-données",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account.",
+        "email": "bonjour@brutx.com",
+        "domains": [
+            "www.brutx.com"
+        ]
+    },
+
+    {
         "name": "Buffer",
         "url": "https://bufferapp.com/app/account/leave",
         "difficulty": "easy",
