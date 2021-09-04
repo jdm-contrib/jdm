@@ -5415,6 +5415,16 @@
     },
 
     {
+        "name": "JB Hi-Fi",
+        "url": "https://support.jbhifi.com.au/hc/en-au/requests/new",
+        "difficulty": "hard",
+        "notes": "Submit a request to their support asking for account deletion. Select 'My JB Account' as your request type and 'Account Issues' as your account enquiry type.
+        "domains": [
+            "jbhifi.com.au"
+        ]
+    },
+
+    {
         "name": "JDate.com",
         "url": "http://www.jdate.com",
         "difficulty": "easy",
@@ -5422,8 +5432,6 @@
         "notes_tr": "\"Üyelik Yönetimi\" altında \"Profilimi Sil\" tuşuna tıklayın. Anketi doldurun ve göndererek profilinizi silin.",
         "domains": [
             "jdate.com"
-        ]
-    },
 
     {
         "name": "Jezebel (Gawker Media)",
