@@ -1197,6 +1197,16 @@
     },
 
     {
+        "name": "Bittrex",
+        "url": "https://bittrex.zendesk.com/hc/en-us/requests/new?ticket_form_id=114093958171",
+        "difficulty": "Hard",
+        "notes": "The only way to delete an account is to send a customer support request, select 'Close account' and fill the form, you will then recieve an email ironically asking you to create a Bittrex support account password so you can follow the status of your request.",
+        "domains": [
+            "global.bittrex.com",
+        ]
+    },
+
+    {
         "name": "Bitwarden",
         "url": "https://bitwarden.com/help/article/delete-your-account",
         "difficulty": "easy",
