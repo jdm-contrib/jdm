@@ -10158,6 +10158,18 @@
     },
 
     {
+        "name": "Swappa.com",
+        "url": "https://swappa.com/contact",
+        "difficulty": "hard",
+        "notes": "Email customer service and tell them you want your account deleted.",
+        "email": "help@swappa.com",
+        "email_body": "To request deletion, you must email: help@swappa.com",
+        "domains": [
+            "swappa.com"
+        ]
+    },
+
+    {
         "name": "Tablondeanuncios.com",
         "url": "https://www.tablondeanuncios.com/mis-anuncios/",
         "difficulty": "easy",
