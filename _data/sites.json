@@ -299,6 +299,16 @@
     },
 
     {
+        "name": "Aeria Games",
+        "url": "https://www.aeriagames.com",
+        "difficulty": "easy",
+        "notes": "Login, go to your profile settings on the top right, then go to the 'Account' tab, and then click 'Delete my Account' ",
+        "domains": [
+            "www.aeriagames.com"
+        ]
+    },
+
+    {
         "name": "Airbnb",
         "url": "https://www.airbnb.com/help/article/240/how-do-i-cancel-my-account",
         "difficulty": "hard",
