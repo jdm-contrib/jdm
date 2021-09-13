@@ -302,7 +302,7 @@
         "name": "Aeria Games",
         "url": "https://www.aeriagames.com",
         "difficulty": "easy",
-        "notes": "Login, go to your profile settings on the top right, then go to the 'Account' tab, and then click 'Delete my Account' ",
+        "notes": "Login, go to your profile settings on the top right, then go to the 'Account' tab and click 'Delete my Account'",
         "domains": [
             "www.aeriagames.com"
         ]
@@ -1209,10 +1209,10 @@
     {
         "name": "Bittrex",
         "url": "https://bittrex.zendesk.com/hc/en-us/requests/new?ticket_form_id=114093958171",
-        "difficulty": "Hard",
-        "notes": "The only way to delete an account is to send a customer support request, select 'Close account' and fill the form, you will then recieve an email ironically asking you to create a Bittrex support account password so you can follow the status of your request.",
+        "difficulty": "hard",
+        "notes": "The only way to delete an account is to send a customer support request, select 'Close account' and fill the form, you will then receive an email ironically asking you to create a Bittrex support account password so you can follow the status of your request.",
         "domains": [
-            "global.bittrex.com",
+            "global.bittrex.com"
         ]
     },
 
