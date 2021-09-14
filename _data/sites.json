@@ -2968,6 +2968,16 @@
     },
 
     {
+        "name": "Drizly",
+        "url": "https://privacyportal.onetrust.com/webform/d3790e60-9408-4ab8-9ac6-511ad32593a0/edb91c18-e5fd-42cb-a0ce-4b1832410687",
+        "difficulty": "hard",
+        "notes": "Fill out the form and/or email them through their contact page: https://drizly.com/contact-us. They will email you promptly to let you know that your account has been deleted.",
+        "domains": [
+            "drizly.com"
+        ]
+    },
+
+    {
         "name": "Drone.io",
         "url": "https://drone.io",
         "difficulty": "easy",
