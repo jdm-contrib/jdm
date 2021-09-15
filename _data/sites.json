@@ -299,6 +299,16 @@
     },
 
     {
+        "name": "Aeria Games",
+        "url": "https://www.aeriagames.com",
+        "difficulty": "easy",
+        "notes": "Login, go to your profile settings on the top right, then go to the 'Account' tab and click 'Delete my Account'",
+        "domains": [
+            "www.aeriagames.com"
+        ]
+    },
+
+    {
         "name": "Airbnb",
         "url": "https://www.airbnb.com/help/article/240/how-do-i-cancel-my-account",
         "difficulty": "hard",
@@ -1197,6 +1207,16 @@
     },
 
     {
+        "name": "Bittrex",
+        "url": "https://bittrex.zendesk.com/hc/en-us/requests/new?ticket_form_id=114093958171",
+        "difficulty": "hard",
+        "notes": "The only way to delete an account is to send a customer support request, select 'Close account' and fill the form, you will then receive an email ironically asking you to create a Bittrex support account password so you can follow the status of your request.",
+        "domains": [
+            "global.bittrex.com"
+        ]
+    },
+
+    {
         "name": "Bitwarden",
         "url": "https://bitwarden.com/help/article/delete-your-account",
         "difficulty": "easy",
@@ -1493,6 +1513,17 @@
         "notes_tr": "İletişim formundaki \"Diğer\" kategorisinden hesap silme talebi gönderilmelidir.",
         "domains": [
             "browserstack.com"
+        ]
+    },
+
+    {
+        "name": "BrutX",
+        "url": "https://help.brutx.com/hc/fr/articles/360020090299",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account.",
+        "email": "bonjour@brutx.com",
+        "domains": [
+            "brutx.com"
         ]
     },
 
@@ -2933,6 +2964,16 @@
         "difficulty": "easy",
         "domains": [
             "dribbble.com"
+        ]
+    },
+
+    {
+        "name": "Drizly",
+        "url": "https://privacyportal.onetrust.com/webform/d3790e60-9408-4ab8-9ac6-511ad32593a0/edb91c18-e5fd-42cb-a0ce-4b1832410687",
+        "difficulty": "hard",
+        "notes": "Fill out the form and/or email them through their contact page: https://drizly.com/contact-us. They will email you promptly to let you know that your account has been deleted.",
+        "domains": [
+            "drizly.com"
         ]
     },
 
@@ -5411,6 +5452,16 @@
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
+        ]
+    },
+
+    {
+        "name": "JB Hi-Fi",
+        "url": "https://support.jbhifi.com.au/hc/en-au/requests/new",
+        "difficulty": "hard",
+        "notes": "Submit a request to their support asking for account deletion. Select 'My JB Account' as your request type and 'Account Issues' as your account enquiry type.",
+        "domains": [
+            "jbhifi.com.au"
         ]
     },
 
@@ -10133,6 +10184,18 @@
         "notes_tr": "\"Hesap Ayarları\" sayfanızdaki \"Hesabımı İptal Et\" bağlantısını kullanın. E-posta onayı gerektirir.",
         "domains": [
             "swagbucks.com"
+        ]
+    },
+
+    {
+        "name": "Swappa.com",
+        "url": "https://swappa.com/contact",
+        "difficulty": "hard",
+        "notes": "Email customer service and tell them you want your account deleted.",
+        "email": "help@swappa.com",
+        "email_body": "To request deletion, you must email: help@swappa.com",
+        "domains": [
+            "swappa.com"
         ]
     },
 
