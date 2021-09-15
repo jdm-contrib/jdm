@@ -6370,7 +6370,7 @@
         "name": "McAfee",
         "url": "https://home.mcafee.com/",
         "difficulty": "hard",
-        "notes": "Call customer support. You must call McAfee customer support and unsubscribe, which cancels your account. Be sure to have your state ID or driver's license available, as you will be asked questions to verify your identity.",
+        "notes": "You must call McAfee customer support and unsubscribe, which cancels your account. Be sure to have your state ID or driver's license available, as you will be asked questions to verify your identity.",
         "domains": [
             "mcafee.com"
         ]
