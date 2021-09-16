@@ -6368,8 +6368,9 @@
 
     {
         "name": "McAfee",
-        "url": "https://home.mcafee.com/supportpages/unsub.aspx",
-        "difficulty": "easy",
+        "url": "https://home.mcafee.com/",
+        "difficulty": "hard",
+        "notes": "You must call McAfee customer support and unsubscribe, which cancels your account. Be sure to have your state ID or driver's license available, as you will be asked questions to verify your identity.",
         "domains": [
             "mcafee.com"
         ]
