@@ -7849,6 +7849,16 @@
     },
 
     {
+        "name": "OVHcloud UK",
+        "url": "https://www.ovh.co.uk/personal-data-protection/exercise-your-rights?lsdDoc=exercising-your-rights",
+        "difficulty": "medium",
+        "notes": "This is for UK account holders only. Ensure that you have terminated all products and services before filling the form and deleting your account. You need to provide proof of identity.",
+        "domains": [
+            "ovh.co.uk"
+        ]
+    },
+
+    {
         "name": "Pandora",
         "url": "https://www.pandora.com/settings/info",
         "difficulty": "easy",
