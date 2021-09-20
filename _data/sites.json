@@ -1816,6 +1816,15 @@
     },
 
     {
+        "name": "Challonge",
+        "url": "https://challonge.com/settings/delete_account",
+        "difficulty": "easy",
+        "domains": [
+            "challonge.com"
+        ]
+    },
+
+    {
         "name": "Change.org",
         "url": "https://www.change.org/account_settings/disable_account",
         "difficulty": "impossible",
