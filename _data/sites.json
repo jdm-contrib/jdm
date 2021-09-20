@@ -5420,6 +5420,15 @@
     },
 
     {
+        "name": "ITV",
+        "url": "https://www.itv.com/hub/user/profile",
+        "difficulty": "easy",
+        "domains": [
+            "itv.com"
+        ]
+    },
+
+    {
         "name": "iubenda",
         "url": "https://www.iubenda.com/en/account",
         "difficulty": "easy",
