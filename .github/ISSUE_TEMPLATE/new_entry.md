@@ -7,10 +7,12 @@ assignees: ''
 
 ---
 
-# Backstory
+## Backstory
+
 <!-- Tell a bit about how you approached the deletion request and how it went -->
 
-# Data
+## Data
+
 <!-- Fill in the fields below, delete any optional ones that do not apply or that you don't have the information -->
 
 - `name`: <!-- The name of the service -->
