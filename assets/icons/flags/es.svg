@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16" height="12" version="1.1" viewBox="0 85.333 16 12" xmlns="http://www.w3.org/2000/svg">
- <path d="m0 85.333h16v12h-16z" fill="#ffda44" style="stroke-width:.033146"/>
- <g transform="matrix(.03125 0 0 .035156 0 82.331)" fill="#d80027">
-  <path d="m0 85.388h512v113.78h-512zm0 227.56h512v113.78h-512z"/>
- </g>
+<svg viewBox="0 0 16 12" xmlns="http://www.w3.org/2000/svg">
+ <path d="m0 0h16v12h-16z" fill="#da121a"/>
+ <path d="m0 4h16v4h-16z" fill="#ffc400"/>
 </svg>

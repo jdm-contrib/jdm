@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16" height="12" version="1.1" viewBox="0 85.333 16 12" xmlns="http://www.w3.org/2000/svg">
- <g stroke-width=".033145">
-  <path d="m0 85.33h16v12h-16z" fill="#fff"/>
-  <path d="m9 85.333h-2v5h-7v2h7v5h2v-5h7v-2h-7z" fill="#d80027"/>
-  <path transform="translate(0,85.333)" d="m12.307 8 3.6934 2.3926v-2.3926zm-2.3066 1.041v2.9551h4.332z" fill="#0052b4"/>
-  <path transform="translate(0,85.333)" d="m10 8 6 3.9961v-1.1055l-4.4902-2.8906z" fill="#d80027"/>
-  <path transform="translate(0,85.333)" d="m0 8v1.8477l2.8223-1.8477zm6 0.494-5.2031 3.5021h5.2031z" fill="#0052b4"/>
-  <path transform="translate(0,85.333)" d="m4.4902 8-4.4902 2.8906v1.1055l6-3.9961z" fill="#d80027"/>
-  <path transform="translate(0,85.333)" d="m1.668 0 4.332 2.961v-2.961zm-1.668 1.6016v2.3984h3.6934z" fill="#0052b4"/>
-  <path transform="translate(0,85.333)" d="m0-0.0039062v1.1074l4.4902 2.8965h1.5098z" fill="#d80027"/>
-  <path transform="translate(0,85.333)" d="m10 0v3.506l5.2031-3.506zm6 2.1465-2.8223 1.8535h2.8223z" fill="#0052b4"/>
-  <path transform="translate(0,85.333)" d="m16 0-6 4h1.5098l4.4902-2.8965z" fill="#d80027"/>
- </g>
- <rect x="5.8075" y="89.593" width=".0010381" height=".74017" fill="#d80027"/>
+<svg viewBox="0 0 16 12" xmlns="http://www.w3.org/2000/svg">
+ <path d="m0 0h16v12h-16z" fill="#eee"/>
+ <path d="m9 3e-3 -2-3e-3v5h-7v2h7v5h2v-5h7v-2h-7z" fill="#cf1b2b"/>
+ <path d="m1.7 0 4.3 3v-3zm8.3 0v3.5l5.2-3.5zm-10 1.6v2.4h3.7zm16 0.55-2.8 1.85h2.8zm-16 5.85v1.85l2.8-1.85zm12.3 0 3.7 2.4v-2.4zm-6.3 0.5-5.2 3.5h5.2zm4 0.5v3h4.3z" fill="#00247d"/>
+ <path d="m0 0v1.1l4.5 2.9h1.5zm16 0-6 4h1.5l4.5-2.9zm-11.5 8-4.5 2.9v1.1l6-4zm5.5 0 6 4v-1.1l-4.5-2.9z" fill="#cf1b2b"/>
 </svg>

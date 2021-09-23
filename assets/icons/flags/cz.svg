@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16" height="12" version="1.1" viewBox="0 85.333 16 12" xmlns="http://www.w3.org/2000/svg">
- <g stroke-width=".033146">
-  <path d="m0 85.333h16v12h-16z" fill="#11457e"/>
-  <path d="m16 91.333v6h-16l6.7245-6z" fill="#d7141a"/>
-  <path d="m16 85.333v6h-9.2755l-6.7245-6z" fill="#fff"/>
- </g>
+<svg viewBox="0 0 16 12" xmlns="http://www.w3.org/2000/svg">
+ <path d="m0 0h16v12h-16z" fill="#11457e"/>
+ <path d="m16 6v6h-16l7-6z" fill="#d7141a"/>
+ <path d="m16 0v6h-9l-7-6z" fill="#eee"/>
 </svg>
