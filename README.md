@@ -51,7 +51,8 @@ Search functionality modified from [DevCenter.me](https://github.com/stevestreza
 
 Licensed under the MIT License (MIT). See `LICENSE`.
 
-Country Flag Icons Copyright (c) 2017 Go Squared Ltd. http://www.gosquared.com/
+Flags modified from [country-flag-icons](https://gitlab.com/catamphetamine/country-flag-icons),
+MIT licensed, Copyright (c) 2020 Nikolay Kuchumov.
 
 DevCenter.me Copyright (c) 2013 Steve Streza
 

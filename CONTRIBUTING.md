@@ -42,6 +42,7 @@ Look for the `CODE.json` file in the `_data/trans/` directory where `CODE` is yo
 2. Copy the contents of `en.json` to your new file
 3. Translate each line
 4. Within the `_pages/` directory, copy `_pages/index.html` to a new `CODE.html` file, and update the `lang: CODE` line to match the new page's code
-5. Visit [gosquared/flags](https://github.com/gosquared/flags/tree/master/flags/flags-iso/shiny) and get the shiny 16px and 24px flags for your language.
-6. Save the flag icons onto `assets/icons` as `CODE16.png` and `CODE24.png`, where `CODE` is your short country code.
-7. On `assets/css/style.css` insert a `dropdown` and a `background-image` that reference these flags.
+5. Visit [catamphetamine/country-flag-icons](https://gitlab.com/catamphetamine/country-flag-icons/-/tree/master/3x2) and get a suitable SVG flag for your language.
+  i. If you know how, feel free to optimize this flag for display at 16px. If you don't though don't worry someone else can check that later.
+6. Save the flag icon onto `assets/icons/flags` as `CODE.svg`, where `CODE` is your short country code.
+7. In `assets/css/style.css` insert a `dropdown` and a `background-image` that reference these flags.
