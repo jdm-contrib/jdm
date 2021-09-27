@@ -1517,6 +1517,17 @@
     },
 
     {
+        "name": "Brut",
+        "url": "https://www.brut.media/us/terms",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account.",
+        "email": "support-web@brut.media",
+        "domains": [
+            "brut.media"
+        ]
+    },
+
+    {
         "name": "BrutX",
         "url": "https://help.brutx.com/hc/fr/articles/360020090299",
         "difficulty": "hard",
@@ -11115,6 +11126,17 @@
         "notes_tr": "\"Hesap Ayarları\" sayfasının altına gidin ve \"Hesabı Sil\" tuşuna tıklayın",
         "domains": [
             "uswitch.com"
+        ]
+    },
+
+    {
+        "name": "Uxcel",
+        "url": "https://help.uxcel.com/en/articles/4634446-can-i-delete-my-uxcel-account",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account.",
+        "email": "learn@uxcel.com",
+        "domains": [
+            "uxcel.com"
         ]
     },
 
