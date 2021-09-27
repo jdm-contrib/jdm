@@ -7,10 +7,12 @@ assignees: ''
 
 ---
 
-# Backstory
+## Backstory
+
 <!-- Tell a bit about how you noticed the deletion process changed -->
 
-# Data
+## Data
+
 <!-- Check the fields that changed below and provide the new value -->
 
 - [ ] `name`: <!-- New name -->

@@ -1,5 +1,4 @@
-JustDeleteMe
-============
+# JustDeleteMe
 
 A directory of direct links to delete your account from web services.
 
@@ -10,50 +9,49 @@ A directory of direct links to delete your account from web services.
 JustDeleteMe is built using [Jekyll](https://jekyllrb.com/) and is linted and
 validated using a mixture of Ruby and Node.js packages and scripts.
 
-**Dependencies:**
+### Dependencies
 
 - [Ruby](https://www.ruby-lang.org) (>=2.7.2)
 - [Node.js](https://nodejs.org)
 
-**Installation**
+### Installation
 
 - Clone the repository
 
-  ```
+  ```sh
   git clone https://github.com/jdm-contrib/jdm.git
   ```
 
 - Install dependencies
 
-  ```
+  ```sh
   cd jdm
   gem install bundler
   bundle install
   ```
 
-**Building the site**
+### Building the site
 
 Just run `jekyll serve`
 
-**Testing**
+### Testing
 
 Tests are run via the "cibuild" script, and can be run via `./script/cibuild`
 
 ## Contributing
 
 If you want to help, do read our [contributing](CONTRIBUTING.md) guidelines.
-
-## Misc
-
-Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me).
+To help with translating, also see our [translation](TRANSLATION_REFERENCE.md)
+guidelines.
 
 ## License
 
-Licensed under the MIT License (MIT). See `LICENSE`.
+Project licensed under the [MIT License](LICENSE) (MIT). This is a detached
+fork of the [original repo](https://github.com/justdeleteme/justdelete.me)
+that intends to keep the project alive, as the original one was abandoned.
 
-Country Flag Icons Copyright (c) 2017 Go Squared Ltd. http://www.gosquared.com/
+Flags modified from [gosquared/flags](https://github.com/gosquared/flags),
+MIT licensed, Copyright (c) 2017 Go Squared Ltd.
 
-DevCenter.me Copyright (c) 2013 Steve Streza
-
-This is a detached fork of the original repo that intends to keep the project
-alive, as the original one was abandoned.
+Search functionality modified from [DevCenter.me](https://github.com/stevestreza/DevCenter.me),
+MIT licensed, Copyright (c) 2013 Steve Streza.

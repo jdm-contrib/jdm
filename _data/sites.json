@@ -299,6 +299,16 @@
     },
 
     {
+        "name": "Aeria Games",
+        "url": "https://www.aeriagames.com",
+        "difficulty": "easy",
+        "notes": "Login, go to your profile settings on the top right, then go to the 'Account' tab and click 'Delete my Account'",
+        "domains": [
+            "www.aeriagames.com"
+        ]
+    },
+
+    {
         "name": "Airbnb",
         "url": "https://www.airbnb.com/help/article/240/how-do-i-cancel-my-account",
         "difficulty": "hard",
@@ -1197,6 +1207,16 @@
     },
 
     {
+        "name": "Bittrex",
+        "url": "https://bittrex.zendesk.com/hc/en-us/requests/new?ticket_form_id=114093958171",
+        "difficulty": "hard",
+        "notes": "The only way to delete an account is to send a customer support request, select 'Close account' and fill the form, you will then receive an email ironically asking you to create a Bittrex support account password so you can follow the status of your request.",
+        "domains": [
+            "global.bittrex.com"
+        ]
+    },
+
+    {
         "name": "Bitwarden",
         "url": "https://bitwarden.com/help/article/delete-your-account",
         "difficulty": "easy",
@@ -1792,6 +1812,15 @@
         "notes_pl": "Nie ma możliwości usunięcia konta bez kontaktu z obsługą. W temacie wpisz wiadomości 'Delete Account'",
         "domains": [
             "cex.io"
+        ]
+    },
+
+    {
+        "name": "Challonge",
+        "url": "https://challonge.com/settings/delete_account",
+        "difficulty": "easy",
+        "domains": [
+            "challonge.com"
         ]
     },
 
@@ -2944,6 +2973,16 @@
         "difficulty": "easy",
         "domains": [
             "dribbble.com"
+        ]
+    },
+
+    {
+        "name": "Drizly",
+        "url": "https://privacyportal.onetrust.com/webform/d3790e60-9408-4ab8-9ac6-511ad32593a0/edb91c18-e5fd-42cb-a0ce-4b1832410687",
+        "difficulty": "hard",
+        "notes": "Fill out the form and/or email them through their contact page: https://drizly.com/contact-us. They will email you promptly to let you know that your account has been deleted.",
+        "domains": [
+            "drizly.com"
         ]
     },
 
@@ -5390,6 +5429,16 @@
     },
 
     {
+        "name": "ITV",
+        "url": "https://www.itv.com/hub/user/profile",
+        "difficulty": "easy",
+        "notes": "Use the delete account option at the bottom of the page.",
+        "domains": [
+            "itv.com"
+        ]
+    },
+
+    {
         "name": "iubenda",
         "url": "https://www.iubenda.com/en/account",
         "difficulty": "easy",
@@ -5422,6 +5471,16 @@
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
+        ]
+    },
+
+    {
+        "name": "JB Hi-Fi",
+        "url": "https://support.jbhifi.com.au/hc/en-au/requests/new",
+        "difficulty": "hard",
+        "notes": "Submit a request to their support asking for account deletion. Select 'My JB Account' as your request type and 'Account Issues' as your account enquiry type.",
+        "domains": [
+            "jbhifi.com.au"
         ]
     },
 
@@ -6328,8 +6387,9 @@
 
     {
         "name": "McAfee",
-        "url": "https://home.mcafee.com/supportpages/unsub.aspx",
-        "difficulty": "easy",
+        "url": "https://home.mcafee.com/",
+        "difficulty": "hard",
+        "notes": "You must call McAfee customer support and unsubscribe, which cancels your account. Be sure to have your state ID or driver's license available, as you will be asked questions to verify your identity.",
         "domains": [
             "mcafee.com"
         ]
@@ -7804,6 +7864,16 @@
         "notes_fr": "Vous devez contactez le support directement pour leur demander d'invalider votre compte. Cependant, vos donnéés des transcations ne peuvent pas être supprimées.",
         "domains": [
             "overstock.com"
+        ]
+    },
+
+    {
+        "name": "OVHcloud UK",
+        "url": "https://www.ovh.co.uk/personal-data-protection/exercise-your-rights?lsdDoc=exercising-your-rights",
+        "difficulty": "medium",
+        "notes": "This is for UK account holders only. Ensure that you have terminated all products and services before filling the form and deleting your account. You need to provide proof of identity.",
+        "domains": [
+            "ovh.co.uk"
         ]
     },
 
@@ -10148,6 +10218,18 @@
     },
 
     {
+        "name": "Swappa.com",
+        "url": "https://swappa.com/contact",
+        "difficulty": "hard",
+        "notes": "Email customer service and tell them you want your account deleted.",
+        "email": "help@swappa.com",
+        "email_body": "To request deletion, you must email: help@swappa.com",
+        "domains": [
+            "swappa.com"
+        ]
+    },
+
+    {
         "name": "Tablondeanuncios.com",
         "url": "https://www.tablondeanuncios.com/mis-anuncios/",
         "difficulty": "easy",
@@ -11049,6 +11131,16 @@
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
+        ]
+    },
+
+    {
+        "name": "Vans.com",
+        "url": "https://www.vans.com/utility/contact-us.html",
+        "difficulty": "hard",
+        "notes": "Email customer service through the link and tell them you want your account deleted.",
+        "domains": [
+            "vans.com"
         ]
     },
 
