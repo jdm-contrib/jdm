@@ -9478,6 +9478,16 @@
             "shopify.com"
         ]
     },
+    
+    {
+        "name": "Shop Your Way",
+        "url": "https://www.shopyourway.com/secured/people/user/000/settings/account",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, then from the left column, click on Account and follow the link to delete your account. Your account will be deleted within 14 days. Note that deleting your account does not cancel your rewards membership.",
+        "domains": [
+            "shopyourway.com"
+        ]
+    },
 
     {
         "name": "Shorte.st",
