@@ -9453,6 +9453,16 @@
     },
 
     {
+        "name": "Shop Your Way",
+        "url": "https://www.shopyourway.com/secured/people/user/000/settings/account",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, then from the left column, click on Account and follow the link to delete your account. Your account will be deleted within 14 days. Note that deleting your account does not cancel your rewards membership.",
+        "domains": [
+            "shopyourway.com"
+        ]
+    },
+
+    {
         "name": "Shopee",
         "url": "https://www.sharelatex.com/user/settings",
         "difficulty": "medium",
@@ -9476,15 +9486,6 @@
         "notes_es": "Selecciona 'Please cancel my account'. Selecciona un motivo y pulsa 'close my shopify store'.",
         "domains": [
             "shopify.com"
-        ]
-    },
-    {
-        "name": "Shop Your Way",
-        "url": "https://www.shopyourway.com/secured/people/user/000/settings/account",
-        "difficulty": "easy",
-        "notes": "Visit the linked page, then from the left column, click on Account and follow the link to delete your account. Your account will be deleted within 14 days. Note that deleting your account does not cancel your rewards membership.",
-        "domains": [
-            "shopyourway.com"
         ]
     },
 
