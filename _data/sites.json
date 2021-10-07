@@ -7390,9 +7390,8 @@
 
     {
         "name": "Nexus Mods",
-        "url": "https://help.nexusmods.com/article/25-how-do-i-delete-my-account",
+        "url": "https://users.nexusmods.com/account/security",
         "difficulty": "easy",
-        "notes": "Accounts can be deleted by following the instructions on the link",
         "domains": [
             "nexusmods.com"
         ]
