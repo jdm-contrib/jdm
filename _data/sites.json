@@ -720,18 +720,6 @@
     },
 
     {
-        "name": "The Artist Union",
-        "url": "https://theartistunion.com/dashboard/account",
-        "difficulty": "easy",
-        "notes": "Login to your account first. Click 'Delete Account' and confirm by clicking 'Ok'.",
-        "notes_ru": "Сначала войдите в свою учетную запись. Нажмите «Удалить учетную запись» и подтвердите, нажав «ОК».",
-        "notes_tr": "Önce hesabınıza giriş yapın. \"Hesabı Sil\" \"Tamam\" tuşuna tıklayarak onaylayın.",
-        "domains": [
-            "theartistunion.com"
-        ]
-    },
-
-    {
         "name": "Artsy",
         "url": "https://www.artsy.net/user/delete",
         "difficulty": "easy",
@@ -2484,7 +2472,7 @@
         "name": "CVS Pharmacy",
         "url": "https://www.cvs.com/account/account-management.jsp",
         "difficulty": "medium",
-        "notes": "They allow account deletions under the CCPA, but only for California residents. However, the way they check your location is simply a ZIP code of your choosing. You can imput any California ZIP (ex. 94102) and they will allow you to delete your account. Visit the linked page, and select 'CA residents: request or delete personal information.' Enter any California ZIP code, then click 'Delete my info and account', and finally 'Yes, delete my info and account'.",
+        "notes": "They allow account deletions under the CCPA, but only for California residents. However, the way they check your location is simply a ZIP code of your choosing. You can input any California ZIP (ex. 94102) and they will allow you to delete your account. Visit the linked page, and select 'CA residents: request or delete personal information.' Enter any California ZIP code, then click 'Delete my info and account', and finally 'Yes, delete my info and account'.",
         "domains": [
             "cvs.com"
         ]
