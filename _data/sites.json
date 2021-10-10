@@ -2937,6 +2937,16 @@
     },
 
     {
+        "name": "Dr. Martens",
+        "url": "https://www.drmartens.com/us/en/faq",
+        "difficulty": "hard",
+        "notes": "Send an email stating that you want them to close your account. Include: full name on account, full billing address and registered email address. Once they confirm deletion it may take 7-10 days to take effect. ",
+        "domains": [
+            "drmartens.com"
+        ]
+    },
+
+    {
         "name": "Draft",
         "url": "https://draftin.com/draft/users/edit",
         "difficulty": "easy",
