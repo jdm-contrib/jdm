@@ -990,11 +990,10 @@
     },
 
     {
-        "name": "Barnes and Noble",
+        "name": "Barnes & Noble",
         "url": "http://www.barnesandnoble.com/customerservice/contactus",
-        "difficulty": "impossible",
-        "notes": "It is not possible to delete your Barnes and Noble account. The best you can do is delete any personal information that you have stored on their website.",
-        "notes_tr": "Barnes and Noble hesabınızı silmeniz mümkün değildir. Yapabileceğiniz en iyi şey, sitede bulunan kişisel verileri silmektir.",
+        "difficulty": "medium",
+        "notes": "Visit the linked page, scroll to the bottom to 'Data Rights Request' and click on 'Submit a Request'. Complete and submit the form.",
         "domains": [
             "barnesandnoble.com"
         ]
@@ -1415,17 +1414,6 @@
         "notes_tr": "Hesabınızı kaldırmanın bir yolu yok.",
         "domains": [
             "bookmarkos.com"
-        ]
-    },
-
-    {
-        "name": "botlist.space",
-        "url": "https://botlist.space/server",
-        "difficulty": "hard",
-        "notes": "You need to request deletion of your account data by contacting a 'Website Staff' via their Discord server.",
-        "notes_tr": "Discord sunucusu aracılığıyla bir 'Web Sitesi Personeli' ile iletişime geçerek hesap verilerinizin silinmesini talep etmeniz gerekir.",
-        "domains": [
-            "botlist.space"
         ]
     },
 
@@ -1972,13 +1960,12 @@
 
     {
         "name": "CloudApp",
-        "url": "https://my.cl.ly/account/delete",
-        "email": "support@getcloudapp.com",
-        "difficulty": "hard",
-        "notes": "The site claims that you must call their support line (888-988-5036, ext 1), but they deactivated my account over email.",
-        "notes_tr": "Bu site, hesabınızı kendilerinin telefon numarasını aramak zorunda kalarak (888-988-5036, ardından 1'i tuşlayın) iptal ettirmeyi iddia ediyor, fakat benim hesabımı e-posta üzerinden devre dışı bıraktılar.",
+        "url": "https://share.getcloudapp.com/dashboard",
+        "difficulty": "easy",
+        "notes": "Visit the linked page. Click your name in the top right corner, then click 'Settings'. In the left column, select 'Account Details' and click the red 'Remove account' button.",
         "domains": [
-            "cl.ly"
+            "cl.ly",
+            "getcloudapp.com"
         ]
     },
 
@@ -2020,15 +2007,6 @@
         "notes_tr": "Hesabınızın silinmesi için desteğe başvurmalısınız. \"CNET Kaydı\" kategorisini seçin",
         "domains": [
             "cnet.com"
-        ]
-    },
-
-    {
-        "name": "Code Academy",
-        "url": "https://help.codecademy.com/hc/en-us/articles/220801347-How-to-Delete-Your-Account",
-        "difficulty": "easy",
-        "domains": [
-            "codeacademy.com"
         ]
     },
 
@@ -2525,7 +2503,7 @@
         "name": "Dashlane",
         "url": "https://www.dashlane.com/deleteaccount",
         "difficulty": "easy",
-        "notes": "You have to enter your mailadress and have to choose a 'why are you leaving' answer'. To verify this step you'll become a mail with a security code to fill into the form. After that your account is deleted.",
+        "notes": "After entering the email address and selecting a reason for deletion, you will receive a security code by email. Enter the security code. After that, the account will be irretrievably deleted.",
         "notes_tr": "E-posta adresinizi girip \"Neden ayrılıyorsunuz\" sorusuna cevap seçmeniz gerekir. Bu adımı onaylamak için e-postanıza gelecek olan güvenlik kodunu forma girmeniz gerekir. Bittikten sonra hesabınız silinecektir.",
         "notes_de": "Nach Angabe der E-Mail-Adresse und der Auswahl eines Grunds der Löschung, erhält man per Mail einen Sicherheitscode. Dieser wird im Löschformular eingetragen und abgeschickt. Danach wird der Account unwiederbringlich gelöscht.",
         "domains": [
@@ -2766,6 +2744,17 @@
         "domains": [
             "discordapp.com",
             "discord.com"
+        ]
+    },
+
+    {
+        "name": "discordlist.space",
+        "url": "https://discord.gg/GjEWBQE",
+        "difficulty": "hard",
+        "notes": "You need to request deletion of your account data by contacting a 'Website Staff' via their Discord server.",
+        "notes_tr": "Discord sunucusu aracılığıyla bir 'Web Sitesi Personeli' ile iletişime geçerek hesap verilerinizin silinmesini talep etmeniz gerekir.",
+        "domains": [
+            "discordlist.space"
         ]
     },
 
@@ -3238,10 +3227,9 @@
 
     {
         "name": "Edpuzzle",
-        "url": "https://edpuzzle.com",
-        "difficulty": "hard",
-        "notes": "click on the contrat popup on the bottom of the screen and fill out the form, an admin will email asking for your username and will then delete it",
-        "notes_tr": "Ekranın altındaki açılır penceresine tıklayın ve formu doldurun, bir yönetici kullanıcı adınızı isteyen bir e-posta gönderecek ve ardından silecektir",
+        "url": "https://edpuzzle.com/profile",
+        "difficulty": "easy",
+        "notes": "Scroll the bottom of the linked page and click 'Delete account'. Student accounts can only be deleted by request of a school teacher or administrator, or after 18 months of account inactivity. See their support article for more information: https://support.edpuzzle.com/hc/en-us/articles/4407364156557-How-Do-I-Delete-My-Account-",
         "domains": [
             "edpuzzle.com"
         ]
@@ -3328,18 +3316,6 @@
         "notes_es": "Complete el formulario, le enviarán un correo electrónico donde deberá responder indicando el documento de identidad.",
         "domains": [
             "elpais.com.uy"
-        ]
-    },
-
-    {
-        "name": "Endomondo",
-        "url": "https://www.endomondo.com/settings/privacy",
-        "difficulty": "easy",
-        "notes": "Select 'Close Profile' at the bottom of the page, select any reason for closing your profile. After that you have to complete the process by clicking a link in an email sent to you.",
-        "notes_tr": "Sayfanın altından \"Profili Kapat\" seçeneğini seçin ve hesabınızı kapatmak için bir sebep belirtin. Sonrasında, e-postanıza gelecek olan onaylama bağlantısına tıklayıp işlemini onaylamanız gerekecek.",
-        "notes_fr": "Selectionnez une raison pour la suppression de votre compte. Puis, vouz pourrez terminer le processus en cliquant sur un lien que vous recevrez par e-mail.",
-        "domains": [
-            "endomondo.com"
         ]
     },
 
@@ -5390,10 +5366,9 @@
 
     {
         "name": "IRCCloud",
-        "url": "https://www.irccloud.com",
+        "url": "https://www.irccloud.com/?/settings=account",
         "difficulty": "easy",
-        "notes": "Go to IRCCloud, sign in, click 'Settings', scroll down, enter your password in 'Delete your account', and confirm.",
-        "notes_tr": "IRCCloud'a gidin, oturum açın, \"Ayarlar\" seçeneğini tıklayın, aşağı kaydırın, \"Hesabınızı Silin\" alanına şifrenizi girin ve onaylayın.",
+        "notes": "On the linked page, click 'Delete your account'.",
         "domains": [
             "irccloud.com"
         ]
@@ -7817,8 +7792,10 @@
 
     {
         "name": "Osu!",
-        "url": "https://osu.ppy.sh/help/wiki/Help_Center",
-        "difficulty": "impossible",
+        "url": "https://osu.ppy.sh/wiki/en/Help_Centre/Account#can-i-delete-my-account?",
+        "email": "privacy@ppy.sh",
+        "difficulty": "hard",
+        "notes": "You can only request account deletion by sending an email.",
         "domains": [
             "osu.ppy.sh"
         ]
@@ -9389,8 +9366,10 @@
 
     {
         "name": "Sedo",
-        "url": "https://sedo-us1.custhelp.com/app/answers/detail/a_id/350/~/how-can-i-close-my-account",
+        "url": "https://sedo.com/us/about-us/policies/protecting-your-privacy/",
+        "email": "contact@sedo.com",
         "difficulty": "hard",
+        "notes": "You can only request account deletion by sending an email. \"Upon your request, we will deactivate and delete your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, email contact@sedo.com. Your account will be deactivated and deleted as soon as reasonably possible after we receive your request but no later than 30 days.\"",
         "domains": [
             "sedo.com"
         ]
