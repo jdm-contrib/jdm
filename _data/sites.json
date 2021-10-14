@@ -5604,6 +5604,17 @@
             "kaspersky.com"
         ]
     },
+    
+    {
+        "name": "Kakao",
+        "url": "https://accounts.kakao.com/weblogin/deactivate",
+        "difficulty": "medium",
+        "notes": "Click the 'Settings' button on the KakaoTalk app, enter 'General Settings', 'Privacy', and 'Manage My Personal Info' in the drop-down menu, and click the 'Unregister Form KakaoTalk' menu to delete account. Note: If you don't use other Kakao linked services, you will immediately switch to delete your Kakao account. If you re-register multiple times, you may be denied account creation.",
+        "notes_kr": "카카오톡 앱에서 '설정' 버튼을 탭합니다, 그리고 드롭다운에서 '전체설정', '개인/보안', '개인정보 관리' 순으로 메뉴를 진입한 후 '카카오톡 탈퇴' 메뉴를 탭하여 탈퇴합니다. 참고: 다른 카카오 연계 서비스를 사용하지 않을 경우 바로 카카오 계정 탈퇴로 전환됩니다. 여러 차례 재가입을 계속할 경우 가입이 거부될 수 있습니다. ",
+        "domains": [
+            "kakao.com"
+        ]
+    },
 
     {
         "name": "Keepa",
@@ -7468,6 +7479,17 @@
         "notes": "Fill the form on the site to request deletion. Alternatively, use the Live Chat service to request deletion, located at the bottom right of the form.",
         "domains": [
             "nordvpn.com"
+        ]
+    },
+    
+    {
+        "name": "NAVER",
+        "url": "https://nid.naver.com/user2/help/myInfo",
+        "difficulty": "medium",
+        "notes": "You can delete it by clicking 'Delete account and data' at the bottom left of the My Info page. Note: Re-registration is not possible with a deleted ID, and posts written on the bulletin board are not automatically deleted. So, make it private or delete it before you delete it. ",
+        "notes_kr": "내 정보 페이지 왼쪽 하단의 '회원탈퇴 바로가기'를 클릭하여 탈퇴하실 수 있습니다. 참고: 탈퇴 전 주의사항은 https://help.naver.com/support/contents/contents.help?serviceNo=532&categoryNo=10114 를 참조하세요.",
+        "domains": [
+            "naver.com"
         ]
     },
 
