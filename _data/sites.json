@@ -7487,7 +7487,7 @@
         "url": "https://nid.naver.com/user2/help/myInfo",
         "difficulty": "medium",
         "notes": "You can delete it by clicking 'Delete account and data' at the bottom left of the My Info page. Note: Re-registration is not possible with a deleted ID, and posts written on the bulletin board are not automatically deleted. So, make it private or delete it before you delete it. ",
-        "notes_kr": "내 정보 페이지 왼쪽 하단의 '회원탈퇴 바로가기'를 클릭하여 탈퇴하실 수 있습니다. 참고: 탈퇴 전 주의사항은 https://help.naver.com/support/contents/contents.help?serviceNo=532&categoryNo=10114 를 참조하세요.",
+        "notes_kr": "내 정보 페이지 왼쪽 하단의 '회원탈퇴 바로가기'를 클릭하여 탈퇴하실 수 있습니다. 참고: 탈퇴 전 주의사항은 고객센터의 <a href='https://help.naver.com/support/contents/contents.help?serviceNo=532&categoryNo=10114'>네이버 회원탈퇴 방법</a> 도움말을 참조하세요.",
         "domains": [
             "naver.com"
         ]
