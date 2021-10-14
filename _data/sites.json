@@ -5595,17 +5595,6 @@
     },
 
     {
-        "name": "Kaspersky",
-        "url": "https://my.kaspersky.com",
-        "difficulty": "easy",
-        "notes": "Login to your account. Click 'Account Settings' from the dropdown menu where your username (or email) is shown, then use the 'Delete Account' option and enter your password.",
-        "notes_tr": "Hesabınıza giriş yapın. Kullanıcı adınızın (veya e-postanızın) gösterildiği açılır menüden \"Hesap Ayarları\" tuşuna tıklayın, ardından \"Hesabı Sil\" seçeneğini kullanın ve şifrenizi girin.",
-        "domains": [
-            "kaspersky.com"
-        ]
-    },
-    
-    {
         "name": "Kakao",
         "url": "https://accounts.kakao.com/weblogin/deactivate",
         "difficulty": "medium",
@@ -5613,6 +5602,17 @@
         "notes_kr": "카카오톡 앱에서 '설정' 버튼을 탭합니다, 그리고 드롭다운에서 '전체설정', '개인/보안', '개인정보 관리' 순으로 메뉴를 진입한 후 '카카오톡 탈퇴' 메뉴를 탭하여 탈퇴합니다. 참고: 다른 카카오 연계 서비스를 사용하지 않을 경우 바로 카카오 계정 탈퇴로 전환됩니다. 만약 일부 서비스를 사용하고 있었다면 해당 서비스를 모두 탈퇴한 후, 제공된 링크를 클릭하여 카카오 계정을 탈퇴하여 주세요. ",
         "domains": [
             "kakao.com"
+        ]
+    },
+
+    {
+        "name": "Kaspersky",
+        "url": "https://my.kaspersky.com",
+        "difficulty": "easy",
+        "notes": "Login to your account. Click 'Account Settings' from the dropdown menu where your username (or email) is shown, then use the 'Delete Account' option and enter your password.",
+        "notes_tr": "Hesabınıza giriş yapın. Kullanıcı adınızın (veya e-postanızın) gösterildiği açılır menüden \"Hesap Ayarları\" tuşuna tıklayın, ardından \"Hesabı Sil\" seçeneğini kullanın ve şifrenizi girin.",
+        "domains": [
+            "kaspersky.com"
         ]
     },
 
@@ -7222,6 +7222,17 @@
     },
 
     {
+        "name": "NAVER",
+        "url": "https://nid.naver.com/user2/help/myInfo",
+        "difficulty": "medium",
+        "notes": "You can delete it by clicking 'Delete account and data' at the bottom left of the My Info page. Note: Re-registration is not possible with a deleted ID, and posts written on the bulletin board are not automatically deleted. So, make it private or delete it before you delete it. ",
+        "notes_kr": "내 정보 페이지 왼쪽 하단의 '회원탈퇴 바로가기'를 클릭하여 탈퇴하실 수 있습니다. 참고: 탈퇴 전 주의사항은 고객센터의 <a href='https://help.naver.com/support/contents/contents.help?serviceNo=532&categoryNo=10114'>네이버 회원탈퇴 방법</a> 도움말을 참조하세요.",
+        "domains": [
+            "naver.com"
+        ]
+    },
+
+    {
         "name": "NCBI",
         "url": "https://www.ncbi.nlm.nih.gov/books/NBK3842/",
         "difficulty": "hard",
@@ -7479,17 +7490,6 @@
         "notes": "Fill the form on the site to request deletion. Alternatively, use the Live Chat service to request deletion, located at the bottom right of the form.",
         "domains": [
             "nordvpn.com"
-        ]
-    },
-    
-    {
-        "name": "NAVER",
-        "url": "https://nid.naver.com/user2/help/myInfo",
-        "difficulty": "medium",
-        "notes": "You can delete it by clicking 'Delete account and data' at the bottom left of the My Info page. Note: Re-registration is not possible with a deleted ID, and posts written on the bulletin board are not automatically deleted. So, make it private or delete it before you delete it. ",
-        "notes_kr": "내 정보 페이지 왼쪽 하단의 '회원탈퇴 바로가기'를 클릭하여 탈퇴하실 수 있습니다. 참고: 탈퇴 전 주의사항은 고객센터의 <a href='https://help.naver.com/support/contents/contents.help?serviceNo=532&categoryNo=10114'>네이버 회원탈퇴 방법</a> 도움말을 참조하세요.",
-        "domains": [
-            "naver.com"
         ]
     },
 
@@ -9568,7 +9568,7 @@
             "sigfig.com"
         ]
     },
-    
+
     {
         "name": "Signal",
         "url": "https://support.signal.org/hc/en-us/articles/360007061192-Delete-Account",
