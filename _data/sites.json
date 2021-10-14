@@ -5609,8 +5609,8 @@
         "name": "Kakao",
         "url": "https://accounts.kakao.com/weblogin/deactivate",
         "difficulty": "medium",
-        "notes": "Click the 'Settings' button on the KakaoTalk app, enter 'General Settings', 'Privacy', and 'Manage My Personal Info' in the drop-down menu, and click the 'Unregister Form KakaoTalk' menu to delete account. Note: If you don't use other Kakao linked services, you will immediately switch to delete your Kakao account. If you re-register multiple times, you may be denied account creation.",
-        "notes_kr": "카카오톡 앱에서 '설정' 버튼을 탭합니다, 그리고 드롭다운에서 '전체설정', '개인/보안', '개인정보 관리' 순으로 메뉴를 진입한 후 '카카오톡 탈퇴' 메뉴를 탭하여 탈퇴합니다. 참고: 다른 카카오 연계 서비스를 사용하지 않을 경우 바로 카카오 계정 탈퇴로 전환됩니다. 여러 차례 재가입을 계속할 경우 가입이 거부될 수 있습니다. ",
+        "notes": "Click the 'Settings' button on the KakaoTalk app, enter 'General Settings', 'Privacy', and 'Manage My Personal Info' in the drop-down menu, and click the 'Unregister Form KakaoTalk' menu to delete account. Note: If you don't use other Kakao linked services, you will immediately switch to delete your Kakao account. If you were using some services, delete all of them, and then click the provided link to delete your Kakao account. ",
+        "notes_kr": "카카오톡 앱에서 '설정' 버튼을 탭합니다, 그리고 드롭다운에서 '전체설정', '개인/보안', '개인정보 관리' 순으로 메뉴를 진입한 후 '카카오톡 탈퇴' 메뉴를 탭하여 탈퇴합니다. 참고: 다른 카카오 연계 서비스를 사용하지 않을 경우 바로 카카오 계정 탈퇴로 전환됩니다. 만약 일부 서비스를 사용하고 있었다면 해당 서비스를 모두 탈퇴한 후, 제공된 링크를 클릭하여 카카오 계정을 탈퇴하여 주세요. ",
         "domains": [
             "kakao.com"
         ]
