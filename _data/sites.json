@@ -9568,6 +9568,16 @@
             "sigfig.com"
         ]
     },
+    
+    {
+        "name": "Signal",
+        "url": "https://support.signal.org/hc/en-us/articles/360007061192-Delete-Account",
+        "difficulty": "easy",
+        "notes": "In Signal, tap your 'profile' > 'Account' > 'Delete account'. And Enter your Signal number, Tap 'Delete account'.",
+        "domains": [
+            "signal.org"
+        ]
+    },
 
     {
         "name": "Simple Machines",
