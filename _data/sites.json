@@ -11158,6 +11158,18 @@
     },
 
     {
+        "name": "Utry.me",
+        "url": "https://shop.utryme.com/kontaktformular",
+        "difficulty": "hard",
+        "notes": "Contact the customer support via email and request the deletion of your account.",
+        "notes_de": "Kontaktieren Sie den Kundenservice per E-Mail, um die Entfernung Ihres Nutzerkontos anzufragen.",
+		"email": "service@utryme.com",
+        "domains": [
+            "utry.me"
+        ]
+    },
+
+    {
         "name": "Uxcel",
         "url": "https://help.uxcel.com/en/articles/4634446-can-i-delete-my-uxcel-account",
         "difficulty": "hard",
