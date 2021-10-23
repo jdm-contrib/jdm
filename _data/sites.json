@@ -8922,6 +8922,15 @@
     },
 
     {
+        "name": "RealPython",
+        "url": "https://realpython.com/account/delete/",
+        "difficulty": "easy",
+        "domains": [
+            "realpython.com"
+        ]
+    },
+
+    {
         "name": "RecargaPay",
         "url": "https://recargapay.com.br/user/close-account",
         "difficulty": "impossible",
