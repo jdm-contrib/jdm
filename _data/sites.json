@@ -3682,6 +3682,16 @@
     },
 
     {
+        "name": "Fiverr",
+        "url": "https://www.fiverr.com/support_tickets/new/account_and_security",
+        "difficulty": "hard",
+        "notes": "For each checkbox, choose: <ul><li><strong>Category:<strong> \"Data and privacy\"</li><li><strong>Topic:<strong> \"Permanently delete my personal data\"</li><br>Click on the little link \"here\" under the light blue box. Fill the fields and submit request, soon, an account manager will answer you and process your request.",
+        "domains": [
+            "fiverr.com"
+        ]
+    },
+
+    {
         "name": "Flattr",
         "url": "https://flattr.com/settings/account/delete",
         "difficulty": "easy",
@@ -9418,6 +9428,17 @@
     },
 
     {
+        "name": "SensCritique",
+        "url": "https://www.senscritique.com/parametres/compte-suppression",
+        "difficulty": "easy",
+        "notes": "Log in, go to the url. Fill your password and click on \"Valider\". Click on the blue text button \"Je souhaite supprimer mon compte et ma collection\". Your account will be deleted in 7 days.",
+        "notes_fr": "Connectez-vous, cliquez sur le lien. Remplissez votre mot-de-passe et cliquez sur \"Valider\". Clickez sur le bouton textuel \"Je souhaite supprimer mon compte et ma collection\". Votre compte sera supprimé dans les 7 jours.",
+        "domains": [
+            "senscritique.com"
+        ]
+    },
+
+    {
         "name": "SetApp",
         "url": "https://my.setapp.com/account",
         "difficulty": "easy",
@@ -9433,6 +9454,16 @@
         "difficulty": "easy",
         "domains": [
             "seznam.cz"
+        ]
+    },
+
+    {
+        "name": "Shadow",
+        "url": "https://account.shadow.tech/home/security",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete my shadow account\" at the bottom of the security page. Confirm by clicking yes and enter your password.",
+        "domains": [
+            "shadow.tech"
         ]
     },
 
@@ -10274,6 +10305,16 @@
         "email_body": "To request deletion, you must email: help@swappa.com",
         "domains": [
             "swappa.com"
+        ]
+    },
+
+    {
+        "name": "Synology",
+        "url": "https://account.synology.com/en-us/profile",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to profile. Scroll to the bottom and click on the \"Proceed\" link. Type your password, check the checkbox and click on the next button. Finally, choose a reason and click on \"Delete Account\". Your account will be deleted in 10 days.",
+        "domains": [
+            "account.synology.com"
         ]
     },
 
