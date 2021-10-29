@@ -10617,8 +10617,9 @@
 
     {
         "name": "Tokopedia",
-        "url": "https://www.tokopedia.com",
-        "difficulty": "impossible",
+        "url": "tokopedia.com/help/article/apakah-saya-dapat-menghapus-akun-tokopedia",
+        "difficulty": "hard",
+        "notes": "Must contact Customer Service. NOTE: Email and mobile number cannot be reused or in other accounts.",
         "domains": [
             "tokopedia.com"
         ]
