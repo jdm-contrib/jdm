@@ -6310,6 +6310,39 @@
     },
 
     {
+        "name": "MapMyFitness",
+        "url": "https://www.mapmyfitness.com/account/delete",
+        "difficulty": "easy",
+        "notes": "This will also delete the profiles for MapMyRun, MapMyWalk, and/or MapMyFitness that are associated with the same email",
+        "notes_ru": "Это также удалит профили для MapMyRun, MapMyWalk и / или MapMyFitness, связанные с одним и тем же адресом электронной почты.",
+        "domains": [
+            "mapmyfitness.com"
+        ]
+    },
+
+    {
+        "name": "MapMyRun",
+        "url": "https://www.mapmyrun.com/account/delete",
+        "difficulty": "easy",
+        "notes": "This will also delete the profiles for MapMyRun, MapMyWalk, and/or MapMyFitness that are associated with the same email",
+        "notes_ru": "Это также удалит профили для MapMyRun, MapMyWalk и / или MapMyFitness, связанные с одним и тем же адресом электронной почты.",
+        "domains": [
+            "mapmyrun.com"
+        ]
+    },
+    
+    {
+        "name": "MapMyWalk",
+        "url": "https://www.mapmywalk.com/account/delete",
+        "difficulty": "easy",
+        "notes": "This will also delete the profiles for MapMyRun, MapMyWalk, and/or MapMyFitness that are associated with the same email",
+        "notes_ru": "Это также удалит профили для MapMyRun, MapMyWalk и / или MapMyFitness, связанные с одним и тем же адресом электронной почты.",
+        "domains": [
+            "mapmywalk.com"
+        ]
+    },
+
+    {
         "name": "Mapstr",
         "url": "https://mapstr.com/faq.html",
         "difficulty": "easy",
