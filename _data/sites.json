@@ -9251,8 +9251,9 @@
 
     {
         "name": "Rotten Tomatoes",
-        "url": "https://rottentomatoes.com/user/account/cancel",
-        "difficulty": "easy",
+        "url": "https://support.fandango.com/contact/contact-us-fandango-rkksORSDO",
+        "difficulty": "hard",
+        "notes": "If you want to delete an account you’ve created on Rotten Tomatoes, please contact an agent on live chat or fill out the email contact form.",
         "domains": [
             "rottentomatoes.com"
         ]
