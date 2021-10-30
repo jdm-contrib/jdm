@@ -7833,6 +7833,16 @@
     },
 
     {
+        "name": "OpenWeather",
+        "url": "https://home.openweathermap.org/privacy/notifications#del_poll_modal",
+        "difficulty": "easy",
+        "notes": "Main website may still show you logged in after deletion (compared to the account management site). In that case, cookies need to cleared.",
+        "domains": [
+            "openweathermap.org"
+        ]
+    },
+
+    {
         "name": "Orkut",
         "url": "https://support.google.com/orkut/",
         "difficulty": "easy",
