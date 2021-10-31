@@ -29,9 +29,9 @@
 <body lang="{{ page.lang }}"{% if rtl %} dir="rtl"{% endif %}>
 
 <nav>
-    <!-- begin language switcher -->
-    <span class="language-switch" href="#" data-dropdown="#language-dropdown" id="{{ page.lang }}">{{ site.data.trans[page.lang].name }}</span>
-    <!-- end language switcher -->
+    <a class="language-switch" href="#" data-dropdown="#language-dropdown">
+        <img class="icon" src="{{ site.baseurl }}/assets/icons/language.svg" alt="A|文"/>
+    </a>
     <a href="#about" class="info">{{ site.data.trans.[page.lang].about }}</a>
 </nav>
 
