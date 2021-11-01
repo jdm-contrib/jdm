@@ -1213,6 +1213,17 @@
     },
 
     {
+        "name": "Bkool",
+        "url": "https://support.bkool.com/hc/en-us/articles/360024682171-Privacy-policy",
+        "difficulty": "hard",
+        "notes": "To delete an account, the user must write to the following email address: dpo@bkool.com",
+        "email": "dpo@bkool.com",
+        "domains": [
+            "bkool.com"
+        ]
+    },
+
+    {
         "name": "BlackSpigot",
         "url": "https://blackspigot.com/threads/delete-account.9291/",
         "difficulty": "impossible",
