@@ -3939,7 +3939,7 @@
         "name": "G2A",
         "url": "https://id.g2a.com/panel/account-details/delete-account",
         "difficulty": "easy",
-        "notes": "You will find a delete account button under 'My Account' > 'Account details' click it and accept, you will then recieve an email requiring you to confirm the account deletion, confirm it, then your account will be deleted if you do not login in the 14 days.",
+        "notes": "You will find a delete account button under 'My Account' > 'Account details' click it and accept, you will then receive an email requiring you to confirm the account deletion. Confirm it, then your account will be deleted if you do not login in the next 14 days.",
         "domains": [
             "g2a.com"
         ]
