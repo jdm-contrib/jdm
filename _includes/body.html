@@ -109,7 +109,7 @@
 </div>
 
 <!-- Language dropdown -->
-<div id="language-dropdown" class="dropdown dropdown-tip">
+<div id="language-dropdown" class="language-dropdown dropdown dropdown-tip dropdown-relative">
     <ul class="dropdown-menu">
         {% assign sorted_files = (site.data.trans | sort:0) %}
         {% for lang in sorted_files %}
