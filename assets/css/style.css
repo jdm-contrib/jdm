@@ -38,6 +38,16 @@ nav {
     padding: 12px 10px 8px 12px;
 }
 
+.language-dropdown {
+    height: 100%;
+    position: fixed;
+}
+
+.language-dropdown > .dropdown-menu {
+    max-height: calc(95% - 52px);
+    overflow-y: auto;
+}
+
 nav a {
     color: black;
     font-weight: normal;
