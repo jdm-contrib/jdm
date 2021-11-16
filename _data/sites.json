@@ -7250,6 +7250,16 @@
     },
 
     {
+        "name": "Nandos",
+        "url": "https://help.nandos.co.uk/hc/en-gb/requests/new",
+        "difficulty": "hard",
+        "notes": "Contact Customer support to delete your account, referencing GDPR in the subject or body. After 14 days, your account will be deleted permanently.",
+        "domains": [
+            "nandos.com"
+        ]
+    },
+
+    {
         "name": "NaNoWriMo",
         "url": "https://nanowrimo.org/account_settings",
         "difficulty": "easy",
