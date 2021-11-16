@@ -10923,6 +10923,16 @@
     },
 
     {
+        "name": "TryHackMe",
+        "url": "https://tryhackme.com/profile",
+        "difficulty": "easy",
+        "notes": "Under the profile page navigate to the \"other\" tab, then select \"Delete My Account\".",
+        "domains": [
+            "tryhackme.com"
+        ]
+    },
+
+    {
         "name": "Tumblr",
         "url": "https://www.tumblr.com/account/delete",
         "difficulty": "easy",
