@@ -119,6 +119,19 @@
         ]
     },
 
+	    {
+        "name": "9anime",
+        "url": "https://9anime.to/user/delete",
+        "difficulty": "easy",
+        "domains": [
+            "9anime.to",
+            "9anime.id",
+            "9anime.cz",
+            "9anime.ws",
+            "9anime.me"
+        ]
+    },
+
     {
         "name": "9GAG",
         "url": "https://9gag.com/member/delete",
@@ -310,11 +323,9 @@
 
     {
         "name": "Airbnb",
-        "url": "https://www.airbnb.com/help/article/240/how-do-i-cancel-my-account",
-        "difficulty": "hard",
-        "notes": "Your account can be deleted <a href=\"https://www.airbnb.com/help/contact_us\">by contacting support</a>, although some pertinent information may be retained as legally required.",
-        "notes_ru": "Вашу учетную запись можно удалить, обратившись в службу поддержки, однако некоторая важная информация может быть сохранена в соответствии с требованиями закона.",
-        "notes_tr": "Hesabınız iletişim formundan silinebilir, ancak bazı bilgiler yasal olarak gerektiğinden dolayı tutulabilir.",
+        "url": "https://www.airbnb.com/privacy/manage-your-data",
+        "difficulty": "medium",
+        "notes": "On the linked page, click the 'Request to delete your account' button. Complete the form, then click 'Delete account'. You may receive a follow-up email to verify your identity.",
         "domains": [
             "airbnb.ae",
             "airbnb.at",
@@ -432,11 +443,9 @@
 
     {
         "name": "AliExpress",
-        "url": "https://accounts.aliexpress.com/user/organization/deactive_account.htm",
+        "url": "https://privacy.aliexpress.com/home#/request/delete",
         "difficulty": "easy",
-        "notes": "To delete your account, go to the \"My AliExpress\" page, click on \"Account Settings\"->\"Edit Settings\" then \"Edit Member Profile\" and click on \"Deactivate Account\" button. On the deactivation page, there is an option \"Release my account at the same time\", click it and confirm so that data will be permanently deleted along with your account.",
-        "notes_ru": "Чтобы удалить свою учетную запись, перейдите на страницу «Мой AliExpress», нажмите «Настройки учетной записи» -> «Изменить настройки», затем «Изменить профиль участника» и нажмите кнопку «Деактивировать учетную запись». На странице деактивации есть опция «Освободить мою учетную запись в то же время», щелкните ее и подтвердите, чтобы данные были окончательно удалены вместе с вашей учетной записью.",
-        "notes_tr": "Hesabınızı silmek için, \"AliExpress'im\" sayfasına gidin, \"Hesap Ayarları\" \"Ayarları Düzenle\" \"Üye Profilini Düzenle\" \"Hesabı Devre Dışı bırak\" seçeneğini seçin. Hesabınızı devre dışı bırakma sayfasında, \"Aynı zamanda hesabımı iptal et\" isimli bir seçenek bulunuyor. Buna basın ve onaylayın, böylece tüm verileriniz hesabınızla birlikte kalıcı olarak silinecek.",
+        "notes": "Visit the linked page and click the red 'Delete my account' button. Type \"agree\" in the provided text box, then click 'Delete'.",
         "domains": [
             "aliexpress.com"
         ]
@@ -991,7 +1000,7 @@
 
     {
         "name": "Barnes & Noble",
-        "url": "http://www.barnesandnoble.com/customerservice/contactus",
+        "url": "https://www.barnesandnoble.com/account/manage/settings/",
         "difficulty": "medium",
         "notes": "Visit the linked page, scroll to the bottom to 'Data Rights Request' and click on 'Submit a Request'. Complete and submit the form.",
         "domains": [
@@ -1181,12 +1190,9 @@
 
     {
         "name": "Bitly",
-        "url": "http://app.bitly.com/bitlinks/?actions=deactivate",
+        "url": "https://app.bitly.com/settings/profile/",
         "difficulty": "easy",
-        "notes": "Go to \" Profile > Delete Account\" and select why you are deleting your account. Your account will be deleted but all your shortlinks will remain.",
-        "notes_tr": "\"Profil\" \"Hesabı Sil\" kısmına girin ve ardından neden hesabınızı sileceğinizi seçin. Hesabınız silinecek fakat tüm kısaltılmış linkler geçerli kalacak.",
-        "notes_pl": "Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.",
-        "notes_pt_br": "Vá para \" Profile > Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
+        "notes": "At the bottom of the linked page, click the red 'Delete Account' button. Select an option specifying why you want to leave Bitly, and confirm your action by typing \"DELETE ACCOUNT\", then click 'Delete Account' again.",
         "domains": [
             "bitly.com",
             "bit.ly"
@@ -1823,9 +1829,10 @@
 
     {
         "name": "Change.org",
-        "url": "https://www.change.org/account_settings/disable_account",
-        "difficulty": "impossible",
-        "notes": "There is only an option to disable your account. There is no way to request deletion.",
+        "url": "https://help.change.org/s/article/How-do-I-close-my-Change-org-account",
+        "difficulty": "hard",
+        "notes": "Send an email from the address you registered with asking to have your account deleted.",
+        "email": "help@change.org",
         "domains": [
             "change.org"
         ]
@@ -1844,9 +1851,8 @@
 
     {
         "name": "Channel 4",
-        "url": "https://4id.channel4.com",
-        "notes": "Login, go to account page and click remove.",
-        "notes_tr": "Giriş yapın, hesap sayfanıza girin ve \"Sil\" tuşuna basın.",
+        "url": "https://4id.channel4.com/account?intcmp=header_my4_account_settings#!/close",
+        "notes": "Visit the linked page and click 'Close my account'.",
         "difficulty": "easy",
         "domains": [
             "channel4.com"
@@ -3778,10 +3784,9 @@
 
     {
         "name": "Fontawesome",
-        "url": "https://fontawesome.com/privacy",
-        "difficulty": "hard",
-        "email": "privacy@fontawesome.com",
-        "notes": "Cancelling a PRO account already deletes it. Free accounts must be deleted by sending an e-mail.",
+        "url": "https://fontawesome.com/account",
+        "difficulty": "easy",
+        "notes": "Near the bottom of the linked page, click the red 'Delete Account' link. Confirm your password, then click 'Delete Account' again. If you have Font Awesome Pro, canceling your subscription will also start the process of deleting your account.",
         "domains": [
             "fontawesome.com"
         ]
@@ -6107,6 +6112,18 @@
     },
 
     {
+        "name": "LogMeIn / Hamachi",
+        "url": "https://support.logmeininc.com/hamachi/help/how-do-i-contact-hamachi-customer-support",
+        "difficulty": "hard",
+        "notes": "Scroll to the bottom of the given URL, open a new ticket and ask for account deletion",
+        "domains": [
+            "logme.in",
+            "logmeininc.com",
+            "logmein.com"
+        ]
+    },
+
+    {
         "name": "Lolja",
         "url": "https://lolja.com.br",
         "difficulty": "hard",
@@ -7533,11 +7550,9 @@
 
     {
         "name": "NoIP",
-        "url": "https://www.noip.com/members/account/delete.php",
+        "url": "https://my.noip.com/account",
         "difficulty": "easy",
-        "notes": "Check the box to confirm and then click 'Change'.",
-        "notes_tr": "Onay kutusunu işaretleyerek onaylayın ve \"Değiştir\" tuşuna tıklayın.",
-        "notes_fr": "Cochez la case pour confirmer, puis cliquez « Change ».",
+        "notes": "At the bottom of the linked page, click the 'Delete Account' button. Check the 'I understand' box, then click 'Confirm'.",
         "domains": [
             "noip.com"
         ]
