@@ -3441,17 +3441,6 @@
     },
 
     {
-        "name": "Eventful",
-        "url": "https://support.eventful.com/entries/25351895-How-do-I-cancel-delete-my-account-",
-        "difficulty": "hard",
-        "notes": "Contact support and they will delete your account",
-        "notes_tr": "Desteğe başvurun ve hesabınızı silecekler",
-        "domains": [
-            "eventful.com"
-        ]
-    },
-
-    {
         "name": "Eventim",
         "url": "https://www.eventim.de/help/contact/?help_id=6306",
         "difficulty": "hard",
@@ -3600,8 +3589,10 @@
 
     {
         "name": "FanFiction",
-        "url": "https://www.fanfiction.net",
-        "difficulty": "impossible",
+        "url": "https://www.fanfiction.net/account/data_delete.php",
+        "difficulty": "hard",
+        "notes": "On the linked page, copy the provided code and send it to support@fanfiction.com using the email you registered with. Staff will respond and delete your account within 24 hours.",
+        "email": "support@fanfiction.com",
         "domains": [
             "fanfiction.net"
         ]
@@ -5581,15 +5572,9 @@
 
     {
         "name": "JSFiddle",
-        "url": "https://docs.jsfiddle.net",
-        "difficulty": "hard",
-        "notes": "Please email a request if you’d like your account to be deleted.",
-        "notes_tr": "Hesabınızın silinmesini talep etmek için onlara e-posta gönderin.",
-        "notes_fr": "Veuillez envoyer votre demande au support à support@jsfiddle.net si vous voulez qu'on supprime votre compte.",
-        "notes_it": "Spedisci una email a support@jsfiddle.net se desideri che il tuo account sia cancellato.",
-        "notes_pt_br": "Envie um pedido para support@jsfiddle.net se você deseja que sua conta seja deletada.",
-        "notes_cat": "Enviï un mail a support@jsfiddle.net per demanar que eliminin el seu compte.",
-        "notes_es": "Envía un mail a support@jsfiddle.net para pedir que eliminen tu cuenta.",
+        "url": "https://jsfiddle.net/user/settings/remove_account/",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click 'Remove account'.",
         "email": "support@jsfiddle.net",
         "domains": [
             "jsfiddle.net"
@@ -6508,6 +6493,17 @@
         "difficulty": "easy",
         "domains": [
             "meetup.com"
+        ]
+    },
+
+    {
+        "name": "MEGA",
+        "url": "https://mega.nz/fm/account",
+        "difficulty": "easy",
+        "notes": "In the bottom right corner of the linked page, click 'Delete account'. Click the confirmation link sent to your email, then select a reason why you want to leave MEGA.",
+        "domains": [
+            "mega.nz",
+            "mega.io"
         ]
     },
 
@@ -9070,6 +9066,16 @@
     },
 
     {
+        "name": "redirect.pizza",
+        "url": "https://redirect.pizza/profile",
+        "difficulty": "easy",
+        "notes": "In the bottom right corner of the linked page, click 'Delete my account'.",
+        "domains": [
+            "redirect.pizza"
+        ]
+    },
+
+    {
         "name": "RedPen.io",
         "url": "https://redpen.io/account",
         "difficulty": "hard",
@@ -11432,6 +11438,16 @@
     },
 
     {
+        "name": "Virmach",
+        "url": "https://billing.virmach.com/submitticket.php",
+        "difficulty": "impossible",
+        "notes": "You can open a ticket and ask to have your account deleted, but they will only close it. Login credentials will continue to work and profile information is retained after closure.",
+        "domains": [
+            "virmach.com"
+        ]
+    },
+
+    {
         "name": "Virtualmaster",
         "url": "https://www.virtualmaster.com/virtualmaster/en/issues",
         "difficulty": "hard",
@@ -12130,6 +12146,16 @@
         "notes_tr": "Hesabınıza giriş yapın, profile gidin, aşağı kaydırın ve \"Hesabı Sil\" öğesini tıklayın. 'DELETEMYACCOUNT' girerek onaylayın ve \"Hesabımı Sil\" tuşuna tıklayın.",
         "domains": [
             "zenkit.com"
+        ]
+    },
+
+    {
+        "name": "ZeroSSL",
+        "url": "https://app.zerossl.com/account",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the linked page and click 'Delete Account'.",
+        "domains": [
+            "zerossl.com"
         ]
     },
 
