@@ -879,13 +879,11 @@
 
     {
         "name": "Avast!",
-        "url": "https://my.avast.com",
+        "url": "https://profile.avast.com/",
         "difficulty": "easy",
-        "notes": "Login, go to \"Profile Details\" tab, and simply click on the \"Delete Account\" button.",
-        "notes_ru": "Войдите в систему, перейдите на вкладку «Детали профиля» и нажмите кнопку «Удалить учетную запись».",
-        "notes_tr": "Giriş yapın, \"Profil Detayları\" sekmesine gidin ve kolayca \"Hesabı Sil\" tuşuna tıklayın.",
+        "notes": "At the bottom of the linked page, click the 'Delete Account' button.",
         "domains": [
-            "assembla.com"
+            "avast.com"
         ]
     },
 
@@ -2231,9 +2229,8 @@
     {
         "name": "Collegeboard",
         "url": "https://pages.collegeboard.org/account-help/how-do-i-delete-my-account",
-        "difficulty": "hard",
-        "notes": "You have to call their customer service at 866-315-6068",
-        "notes_tr": "Müşteri hizmetlerine 866-315-6068 numarasından aramanız gerekir",
+        "difficulty": "impossible",
+        "notes": "You can't delete your College Board account, but you can close it by calling their customer service at 866-315-6068",
         "domains": [
             "collegeboard.org"
         ]
@@ -2448,6 +2445,19 @@
         "notes_tr": "Aşağı kaydırın ve kırmızı \"Hesabınızı Silin\" tuşuna tıklayın. Ardından \"Tamam\" seçeneğine tıklayın",
         "domains": [
             "cryptpad.fr"
+        ]
+    },
+
+    {
+        "name": "Crytek",
+        "url": "https://crytekcs.kayako.com/conversation/new/",
+        "difficulty": "hard",
+        "notes": "You can't delete your account without contacting them. You must submit a ticket and set the subject to 'Delete Account'",
+        "notes_tr": "Onlarla iletişim kurmadan hesabınızı silemezsiniz. E-posta gönderirken e-posta konusunu \"Hesabı Sil\" olarak ayarlayın",
+        "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen ein Ticket eröffnen und den Betreff auf 'Delete Account' setzen.",
+        "domains": [
+            "crytek.com",
+            "crytekcs.kayako.com"
         ]
     },
 
@@ -4143,19 +4153,6 @@
     },
 
     {
-        "name": "GFace",
-        "url": "https://crytek.kayako.com/Tickets/Submit",
-        "difficulty": "hard",
-        "notes": "You can't delete your account without contacting them. You must submit a ticket and set the subject to 'Delete Account'",
-        "notes_tr": "Onlarla iletişim kurmadan hesabınızı silemezsiniz. E-posta gönderirken e-posta konusunu \"Hesabı Sil\" olarak ayarlayın",
-        "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen ein Ticket eröffnen und den Betreff auf 'Delete Account' setzen.",
-        "domains": [
-            "gface.com",
-            "crytek.kayako.com"
-        ]
-    },
-
-    {
         "name": "Gfycat",
         "url": "https://gfycat.com/support",
         "email": "support@gfycat.com",
@@ -4249,24 +4246,6 @@
         "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
         "domains": [
             "kinja.com"
-        ]
-    },
-
-    {
-        "name": "Glassboard",
-        "url": "https://glassboard.com",
-        "difficulty": "hard",
-        "notes": "Use the support email address to ask them to close your account.",
-        "notes_tr": "Hesabınızı kapatmalarını istemek için destek e-posta adresini kullanın.",
-        "notes_fr": "Utilisez l'adresse e-mail du support du site pour les contacter en demandant la suppresion de votre compte.",
-        "notes_de": "Nutze die Support-Mail-Adresse und beantrage die Löschung dort.",
-        "notes_it": "Usa l'email del supporto per richiedere la cancellazione del tuo account.",
-        "notes_pt_br": "Use o e-mail de suporte para pedir que encerrem sua conta.",
-        "notes_cat": "Fagi servir l'e-mail d'assistència al client per demanar que tanquem el seu compte",
-        "notes_es": "Usa el e-mail de asistencia al cliente para pedir que cierren tu cuenta",
-        "email": "support@sepialabs.com",
-        "domains": [
-            "glassboard.com"
         ]
     },
 
@@ -4773,18 +4752,6 @@
         "notes_tr": "Siteye göre profil ayarları bağlantısına gitmelisiniz ve hesabı silmeye yarayan \"Hesabı Sil\" adlı bir düğme olacaktır. ",
         "domains": [
             "www.hackerrank.com"
-        ]
-    },
-
-    {
-        "name": "Hackpad",
-        "url": "https://hackpad.com/Hackpad-FAQ-tq56fI63mz3#:h=Account-settings",
-        "difficulty": "hard",
-        "notes": "Request acount deletion via email.",
-        "notes_tr": "Hesap silme işlemi için, e-posta göndermeniz gerekir.",
-        "email": "support@hackpad.com",
-        "domains": [
-            "hackpad.com"
         ]
     },
 
@@ -8343,10 +8310,8 @@
     {
         "name": "Pinboard",
         "url": "https://pinboard.in/faq/#close_account",
-        "difficulty": "hard",
-        "notes": "Send us an e-mail from the address that you have registered - we take care of it.",
-        "notes_tr": "Bize kayıt olduğunuz adresten bir e-posta gönderin - biz ilgileniriz.",
-        "email": "support@pinboard.in",
+        "difficulty": "easy",
+        "notes": "Visit your account page and click the \"close account\" link under your username. Your account will be suspended for 30 days, and then permanently deleted.",
         "domains": [
             "pinboard.in"
         ]
