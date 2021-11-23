@@ -882,6 +882,8 @@
         "url": "https://profile.avast.com/",
         "difficulty": "easy",
         "notes": "At the bottom of the linked page, click the 'Delete Account' button.",
+        "notes_ru": "Войдите в систему, перейдите на вкладку «Детали профиля» и нажмите кнопку «Удалить учетную запись».",
+        "notes_tr": "Giriş yapın, \"Profil Detayları\" sekmesine gidin ve kolayca \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "avast.com"
         ]
@@ -1191,6 +1193,9 @@
         "url": "https://app.bitly.com/settings/profile/",
         "difficulty": "easy",
         "notes": "At the bottom of the linked page, click the red 'Delete Account' button. Select an option specifying why you want to leave Bitly, and confirm your action by typing \"DELETE ACCOUNT\", then click 'Delete Account' again.",
+        "notes_tr": "\"Profil\" \"Hesabı Sil\" kısmına girin ve ardından neden hesabınızı sileceğinizi seçin. Hesabınız silinecek fakat tüm kısaltılmış linkler geçerli kalacak.",
+        "notes_pl": "Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.",
+        "notes_pt_br": "Vá para \" Profile > Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
         "domains": [
             "bitly.com",
             "bit.ly"
@@ -7516,6 +7521,8 @@
         "url": "https://my.noip.com/account",
         "difficulty": "easy",
         "notes": "At the bottom of the linked page, click the 'Delete Account' button. Check the 'I understand' box, then click 'Confirm'.",
+        "notes_tr": "Onay kutusunu işaretleyerek onaylayın ve \"Değiştir\" tuşuna tıklayın.",
+        "notes_fr": "Cochez la case pour confirmer, puis cliquez « Change ».",
         "domains": [
             "noip.com"
         ]
