@@ -6969,15 +6969,13 @@
     },
 
     {
-        "name": "Mongo Atlas",
+        "name": "MongoDB Atlas",
         "url": "https://docs.atlas.mongodb.com/tutorial/delete-atlas-account/",
-        "difficulty": "hard",
-        "notes": "To delete your MongoDB account you first need to delete all active clusters, projects and organizations linked with your account. Then you can send a mail to cloud-account-support@mongodb.com, with the subject line \"Request for Atlas Account Deletion\" from your registered mail and delete your account",
-        "notes_tr": "MongoDB hesabınızı silmek için önce hesabınıza bağlı tüm aktif kümeleri, projeleri ve kuruluşları silmeniz gerekir. Bunu yaptıktan sonra bir e-posta gönderebilirsiniz.",
-        "email": "cloud-account-support@mongodb.com",
-        "email_subject": "Request for Atlas Account Deletion",
+        "difficulty": "medium",
+        "notes": "To delete your MongoDB account you first need to delete all active clusters, projects and organizations linked with your account. Then click your name in the top right corner, click \"Manage your MongoDB Account\", and click \"Profile Info\" in the left panel. Click \"Delete Account\" and proceed with the presented steps.",
         "domains": [
-            "mongodb.com"
+            "mongodb.com",
+            "cloud.mongodb.com"
         ]
     },
 
