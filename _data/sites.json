@@ -85,11 +85,9 @@
 
     {
         "name": "500px",
-        "url": "https://500px.com/settings",
-        "difficulty": "hard",
-        "notes": "On Account Settings, under \"Please choose your issue below\", select \"Delete Account\", fill the form and submit.",
-        "notes_ru": "В настройках учетной записи в разделе «Выберите проблему ниже» выберите «Удалить учетную запись», заполните форму и отправьте.",
-        "notes_tr": "\"Hesap Ayarları\" kısmında, \"Lütfen sorununuzu seçin\" altında, \"Hesabı Sil\" seçeneğini seçin, formu doldurun ve yollayın.",
+        "url": "https://500px.com/settings/deletion",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, select 'Delete your account', then click 'Continue'. Choose a reason why you're deleting your account and click 'Continue to delete account'. Finally, confirm your password and click 'Delete account'.",
         "domains": [
             "500px.com"
         ]
@@ -588,6 +586,16 @@
     },
 
     {
+        "name": "Anime-Planet",
+        "url": "https://www.anime-planet.com/users/delete_account.php",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click 'YES, DELETE MY ACCOUNT FOREVER'.",
+        "domains": [
+            "anime-planet.com"
+        ]
+    },
+
+    {
         "name": "Animoto",
         "url": "https://animoto.com/account",
         "difficulty": "easy",
@@ -597,6 +605,7 @@
             "animoto.com"
         ]
     },
+
     {
         "name": "AnkiApp",
         "url": "https://join.ankiapp.com",
@@ -933,6 +942,16 @@
         "notes_tr": "Aşağı kaydırın ve \"Sil\" tuşuna basın. Bir onaylama kutusu gözükecek. Kalıcı olarak Babbel hesabınızı silmek için e-posta adresinize gönderilen bağlantıya tıklamanız gerekir.",
         "domains": [
             "babbel.com"
+        ]
+    },
+
+    {
+        "name": "Baby Names",
+        "url": "https://babynames.com/user/close.php",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, select a reason why you're deleting your account, then click 'Agreed - Close My Account'.",
+        "domains": [
+            "babynames.com"
         ]
     },
 
@@ -1660,8 +1679,9 @@
 
     {
         "name": "CafePress",
-        "url": "https://members.cafepress.com/account/closeaccount.aspx",
-        "difficulty": "easy",
+        "url": "https://www.cafepress.com/account/close-account",
+        "notes": "Visit the linked page and close your account, then contact customer service and ask to have your personal information deleted.",
+        "difficulty": "hard",
         "domains": [
             "cafepress.com"
         ]
@@ -2206,6 +2226,16 @@
             "stratum.hk",
             "coinbr.net",
             "coinbr.io"
+        ]
+    },
+
+    {
+        "name": "CoinMarketCap",
+        "url": "https://support.coinmarketcap.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You must submit a support ticket and request your account to be deleted.",
+        "domains": [
+            "coinmarketcap.com"
         ]
     },
 
@@ -7960,6 +7990,16 @@
     },
 
     {
+        "name": "Packagist",
+        "url": "https://packagist.org/profile/",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click 'Delete Account Permanently'.",
+        "domains": [
+            "packagist.org"
+        ]
+    },
+
+    {
         "name": "Pandora",
         "url": "https://www.pandora.com/settings/info",
         "difficulty": "easy",
@@ -8691,6 +8731,16 @@
         "notes_tr": "Hesap ayarına gidin, \"Hesabımı Sil\" altında \"Devam Et\" seçeneğini tıklayın ve oradan devam edin.",
         "domains": [
             "producthunt.com"
+        ]
+    },
+
+    {
+        "name": "Progate",
+        "url": "https://progate.com/deactivate",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click 'Delete Account'",
+        "domains": [
+            "progate.com"
         ]
     },
 
@@ -9941,20 +9991,6 @@
     },
 
     {
-        "name": "soup.io",
-        "url": "https://www.soup.io/about",
-        "difficulty": "hard",
-        "notes": "Put 'delete me' in the description box on your profile and mail team@soup.io with your soup URL and request a deletion",
-        "notes_tr": "Profilinizdeki açıklama kutusuna 'delete me' yazın ve çorba bağlantınız ile silme talebinde bulunarak e-posta gönderin",
-        "notes_de": "Füge 'delete me' in die Beschreibungsbox auf deinem Profil ein und sende eine E-Mail an team@soup.io, die deine soup-URL und eine Löschaufforderung beinhalten.",
-        "notes_fr": "Insère 'delete me' à la place pour la description à ton profil et envoie un e-mail à team@soup.io avec ton soup URL et une demande de suppression.",
-        "email": "team@soup.io",
-        "domains": [
-            "www.soup.io"
-        ]
-    },
-
-    {
         "name": "SourceForge",
         "url": "https://sourceforge.net/auth/disable/",
         "difficulty": "medium",
@@ -10111,8 +10147,8 @@
     {
         "name": "StatusCake",
         "difficulty": "easy",
-        "url": "https://www.statuscake.com",
-        "notes": "Under 'Account' scroll down and click the red button 'Remove Account'",
+        "url": "https://app.statuscake.com/User.php",
+        "notes": "Under 'My Account' scroll down and click the red button 'Delete Your Account'",
         "notes_tr": "\"Hesap\" sayfasının altında aşağı kaydırın ve kırmızı \"Hesabı Kaldır\" tuşuna tıklayın",
         "domains": [
             "statuscake.com"
@@ -10286,11 +10322,12 @@
 
     {
         "name": "Supercell ID",
-        "url": "https://supercell.helpshift.com/a/clash-of-clans/?s=my-account&f=how-do-i-delete-my-account",
+        "url": "https://help.supercellsupport.com/clash-of-clans/en/articles/gdpr-request-deletion-of-your-personal-data.html",
         "difficulty": "impossible",
         "notes": "Even after \"deleting\" your account, Supercell will still keep your personal information saved on its servers to, according to them, \"business interests\".",
         "notes_tr": "Hesabınızı 'sildikten' sonra bile, Supercell kişisel bilgilerinizi, onlara göre 'ticari çıkarlar' için sunucularında saklayacaktır.",
         "notes_pt_br": "Mesmo após \"excluir\" sua conta, a Supercell ainda irá manter suas informações pessoas salvas em seus servidores para, segundo eles, \"interesses comerciais\".",
+        "email": "legal-requests@supercell.com",
         "domains": [
             "boombeach.com",
             "brawlstars.com",
@@ -10299,7 +10336,7 @@
             "clashroyaleapp.com",
             "haydaygame.com",
             "supercell.com",
-            "supercell.helpshift.com"
+            "supercellsupport.com"
         ]
     },
 
@@ -10621,6 +10658,16 @@
         "notes": "If you want to permanently delete your Textures.com account, go to the <a href='https://www.textures.com/my-account/delete'><b>Delete Account</b> tab on your account</a> fill out your password and press <b>Delete My Account</b>.",
         "domains": [
             "textures.com"
+        ]
+    },
+
+    {
+        "name": "Thingiverse",
+        "url": "https://www.thingiverse.com/",
+        "difficulty": "easy",
+        "notes": "Click your profile icon in the top right corner and select 'Account Settings', then scroll to the bottom of the page and click the red 'DELETE USER' button.",
+        "domains": [
+            "thingiverse"
         ]
     },
 
@@ -11579,6 +11626,7 @@
             "wattpad.com"
         ]
     },
+
     {
         "name": "WAYN",
         "url": "http://www.wayn.com/wayn.html?wci=unregister",
