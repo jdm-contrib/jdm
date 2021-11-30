@@ -6200,6 +6200,20 @@
     },
 
     {
+        "name": "Luno",
+        "url": "https://www.luno.com/help/en/tickets/new?category_id=19",
+        "url_fr": "https://www.luno.com/help/fr/tickets/new?category_id=19",
+        "url_id": "https://www.luno.com/help/id/tickets/new?category_id=19",
+        "url_it": "https://www.luno.com/help/it/tickets/new?category_id=19",
+        "difficulty": "hard",
+        "notes": "Fill the form on the site to request data deletion. The support team will confirm the request by email.",
+        "notes_id": "Isi form di situs tersebut untuk mangajukan penghapusan data. Tim bantuan akan mengonfirmasi ajuan melalui email.",
+        "domains": [
+            "luno.com"
+        ]
+    },
+
+    {
         "name": "Lutris",
         "url": "https://lutris.net",
         "notes": "After logging in, click on your profile picture in the top right. Then, click on 'Edit Profile,' once on that page, click 'Delete my account.'",
