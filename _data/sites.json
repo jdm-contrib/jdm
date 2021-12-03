@@ -320,6 +320,17 @@
     },
 
     {
+        "name": "aiqfome",
+        "url": "https://aiqfome.com/",
+        "difficulty": "hard",
+        "notes": "Open a ticket on their chat requesting for your account to be deleted. They might reply first asking why, but will then proceed",
+        "notes_pt_br": "Faça uma solicitação no chat pedindo para que a conta seja deletada. Eles podem responder perguntando porque, mas vão então deletar",
+        "domains": [
+            "aiqfome.com"
+        ]
+    },
+
+    {
         "name": "Airbnb",
         "url": "https://www.airbnb.com/privacy/manage-your-data",
         "difficulty": "medium",
