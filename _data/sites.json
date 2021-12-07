@@ -419,6 +419,17 @@
     },
 
     {
+        "name": "AKAI Professional",
+        "url": "https://www.akaipro.com/privacy-policy",
+        "email": "privacy@inmusicbrands.com",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account and request deletion of your personal data.",
+        "domains": [
+            "akaipro.com"
+        ]
+    },
+
+    {
         "name": "Algolia",
         "url": "https://www.algolia.com/account/details",
         "difficulty": "easy",
@@ -1111,6 +1122,16 @@
         "notes_tr": "Hesabınızı silmek için, giriş yapın ve isminizin yanındaki menüye tıklayıp \"Ayarlar\" kısmına girin. Girdiğinizde, sayfanın altına kaydırın ve \"Hesabınızı Silin\" seçeneğini seçin.",
         "domains": [
             "beamly.com"
+        ]
+    },
+
+    {
+        "name": "BeamNG",
+        "url": "https://support.beamng.com/",
+        "difficulty": "hard",
+        "notes": "You need to contact support on the linked page to request account deletion.",
+        "domains": [
+            "beamng.com"
         ]
     },
 
@@ -3808,6 +3829,16 @@
     },
 
     {
+        "name": "FMOD",
+        "url": "https://fmod.com/profile",
+        "difficulty": "easy",
+        "notes": "On the linked page under Profile select 'To delete your account, click here'.",
+        "domains": [
+            "fmod.com"
+        ]
+    },
+
+    {
         "name": "Foap",
         "url": "https://www.foap.com/pages/contact",
         "difficulty": "hard",
@@ -3840,11 +3871,32 @@
     },
 
     {
+        "name": "FontStruct",
+        "url": "https://fontstruct.com/private/user/delete-account",
+        "difficulty": "easy",
+        "notes": "On the linked page choose the 'Delete Everything' option, confirm your password and click 'Delete Account'.",
+        "domains": [
+            "fontstruct.com"
+        ]
+    },
+
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
         "domains": [
             "forvo.com"
+        ]
+    },
+
+    {
+        "name": "forward2me",
+        "url": "https://www.forward2me.com/terms-of-trade/",
+        "email": "info@forward2me.com",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account and personal information.",
+        "domains": [
+            "forward2me.com"
         ]
     },
 
@@ -4665,6 +4717,16 @@
             "arena.net",
             "guildwars2.com",
             "help.guildwars2.com"
+        ]
+    },
+
+    {
+        "name": "Guilded",
+        "url": "https://www.guilded.gg",
+        "difficulty": "easy",
+        "notes": "In account settings under Overview select 'Edit account', then 'Delete account', confirm your password and choose a deletion reason.",
+        "domains": [
+            "guilded.gg"
         ]
     },
 
@@ -6040,6 +6102,16 @@
     },
 
     {
+        "name": "Linode",
+        "url": "https://cloud.linode.com/account/settings",
+        "difficulty": "easy",
+        "notes": "At the bottom of the linked page select 'Close Account' and confirm your username.",
+        "domains": [
+            "linode.com"
+        ]
+    },
+
+    {
         "name": "Linsensuppe",
         "url": "https://www.linsensuppe.de",
         "difficulty": "impossible",
@@ -7211,6 +7283,16 @@
     },
 
     {
+        "name": "MyFonts",
+        "url": "https://www.myfonts.com/my/settings/",
+        "difficulty": "easy",
+        "notes": "At the bottom of the linked page select 'Delete your MyFonts account' and confirm your password.",
+        "domains": [
+            "myfonts.com"
+        ]
+    },
+
+    {
         "name": "MyFRITZ!",
         "url": "https://sso.myfritz.net/account/#/delete",
         "difficulty": "easy",
@@ -7911,6 +7993,16 @@
     },
 
     {
+        "name": "Opera",
+        "url": "https://auth.opera.com/account/delete-profile",
+        "difficulty": "easy",
+        "notes": "On the linked page select 'Delete my account'.",
+        "domains": [
+            "opera.com"
+        ]
+    },
+
+    {
         "name": "Orkut",
         "url": "https://support.google.com/orkut/",
         "difficulty": "easy",
@@ -8122,6 +8214,17 @@
             "parkmobile.us",
             "parkmobile.com",
             "parkmobile.zendesk.com"
+        ]
+    },
+
+    {
+        "name": "Parsec",
+        "url": "https://parsec.app/settings/account/",
+        "difficulty": "easy",
+        "notes": "At the bottom of the linked page select 'Delete Account' and confirm your username.",
+        "domains": [
+            "parsec.app",
+            "parsecgaming.com"
         ]
     },
 
@@ -9038,6 +9141,16 @@
     },
 
     {
+        "name": "Read the Docs",
+        "url": "https://readthedocs.org/accounts/delete/",
+        "difficulty": "easy",
+        "notes": "On the linked page confirm your username and select 'Delete Account'.",
+        "domains": [
+            "readthedocs.org"
+        ]
+    },
+
+    {
         "name": "Readernaut",
         "url": "https://readernaut.com",
         "difficulty": "easy",
@@ -9198,6 +9311,17 @@
     },
 
     {
+        "name": "Replit",
+        "url": "https://replit.com/account",
+        "difficulty": "easy",
+        "notes": "On the linked page under Account select 'Request account deletion'.",
+        "domains": [
+            "replit.com",
+            "repl.it"
+        ]
+    },
+
+    {
         "name": "RescueTime",
         "url": "https://www.rescuetime.com/settings",
         "difficulty": "easy",
@@ -9216,6 +9340,18 @@
         "notes_tr": "Sayfanın altındaki \"Sil\" tuşuna tıklayın.",
         "domains": [
             "retrospring.net"
+        ]
+    },
+
+    {
+        "name": "Revolt",
+        "url": "https://revolt.chat",
+        "email": "contact@revolt.chat",
+        "email_subject": "Delete my account",
+        "difficulty": "hard",
+        "notes": "You need to send an email to support to delete your account and data.",
+        "domains": [
+            "revolt.chat"
         ]
     },
 
@@ -10032,6 +10168,16 @@
     },
 
     {
+        "name": "SpaceHey",
+        "url": "https://spacehey.com/deleteaccount",
+        "difficulty": "easy",
+        "notes": "On the linked page select 'Delete this Account'.",
+        "domains": [
+            "spacehey.com"
+        ]
+    },
+
+    {
         "name": "Speaker Deck",
         "url": "https://speakerdeck.com/account",
         "difficulty": "easy",
@@ -10039,6 +10185,16 @@
         "notes_tr": "Sayfanın altına doğru kaydırın ve \"Hesabımı Sil\" tuşuna tıklayın.",
         "domains": [
             "speakerdeck.com"
+        ]
+    },
+
+    {
+        "name": "speedrun.com",
+        "url": "https://www.speedrun.com/settings",
+        "difficulty": "easy",
+        "notes": "On the linked page open the Delete tab, confirm your password, check 'Delete all runs' and 'Delete all forum posts', and select 'Delete account'.",
+        "domains": [
+            "speedrun.com"
         ]
     },
 
