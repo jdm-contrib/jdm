@@ -106,6 +106,16 @@
     },
 
     {
+        "name": "8tracks",
+        "url": "https://8tracks.com/",
+        "difficulty": "impossible",
+        "notes": "There exists an option to delete your account in your account settings, but it's not currently functional.",
+        "domains": [
+            "8tracks.com"
+        ]
+    },
+
+    {
         "name": "99designs",
         "url": "https://support.99designs.com/hc/en-us/articles/204108919-How-do-I-delete-my-account-",
         "difficulty": "hard",
@@ -10769,6 +10779,17 @@
         "notes_tr": "Hesap silme talepleri için TED destek ekibiyle iletişime geçin",
         "domains": [
             "ted.com"
+        ]
+    },
+
+    {
+        "name": "Teespring",
+        "url": "https://teespring.com/",
+        "email": "privacy@spri.ng",
+        "difficulty": "impossible",
+        "notes": "'It's currently unknown if they allow account deletions, but you can try emailing and asking. Do share their response with us on GitHub!",
+        "domains": [
+            "teespring.com"
         ]
     },
 
