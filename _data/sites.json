@@ -6228,7 +6228,7 @@
 
     {
         "name": "Lookout",
-        "url": "https://www.lookout.com/d/settings",
+        "url": "https://www.lookout.com/#/settings",
         "difficulty": "easy",
         "notes": "log into your account, in the middle right.",
         "notes_tr": "Sağ ortada, hesabınıza giriş yapın.",
