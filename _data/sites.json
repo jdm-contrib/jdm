@@ -10300,6 +10300,15 @@
     },
 
     {
+        "name": "Standard Notes",
+        "url": "https://standardnotes.com/reset",
+        "difficulty": "easy",
+        "domains": [
+            "standardnotes.com"
+        ]
+    },
+
+    {
         "name": "Starbucks",
         "url": "https://customerservice.starbucks.com/app/contact/ask_starbucks_website/",
         "difficulty": "impossible",
