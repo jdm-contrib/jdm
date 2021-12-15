@@ -10951,6 +10951,17 @@
             "tidal.com"
         ]
     },
+    
+    {
+        "name": "TickTick",
+        "url": "https://support.ticktick.com/hc/en-us/articles/360011759031",
+        "difficulty": "easy",
+        "notes": "Follow the instructions from this link.",
+        "notes_es": "Sigue las instrucciones del enlace",
+        "domains": [
+            "ticktick.com"
+        ]
+    },
 
     {
         "name": "TikTok",
