@@ -10064,7 +10064,7 @@
     {
         "name": "Smule",
         "url": "https://smule.zendesk.com/hc/en-us/requests/new",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "Create a ticket, select 'Remove Smule Profile', fill in the necessary details and tick the boxes. Make sure to remove subscriptions from the required services too.",
         "notes_es": "Crea un nuevo ticket, elige 'Remover perfil Smule', marca las casillas necesarios y rellena los datos que te piden. No olvides remover la subscripcion que tengas en otros servicios.",
         "domains": [
