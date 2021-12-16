@@ -9353,6 +9353,16 @@
     },
 
     {
+        "name": "Reservio",
+        "url": "https://app.reservio.com/#/business/settings",
+        "difficulty": "medium",
+        "notes": "Go to the <b>Business</b> tab → <b>Settings</b>. You will find the option for the deletion of your account at the bottom of this page.",
+        "domains": [
+            "reservio.com"
+        ]
+    },
+
+    {
         "name": "Retrospring",
         "url": "https://retrospring.net/settings/account",
         "difficulty": "easy",
