@@ -10062,6 +10062,16 @@
     },
 
     {
+        "name": "Smule",
+        "url": "https://smule.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Create a ticket, select 'Remove Smule Profile', fill in the necessary details and tick the boxes. Make sure to remove subscriptions from the required services too.",
+        "notes_es": "Crea un nuevo ticket, elige 'Remover perfil Smule', marca las casillas necesarios y rellena los datos que te piden. No olvides remover la subscripcion que tengas en otros servicios.",
+        "domains": [
+            "smule.com"
+        ]
+    },
+    {
         "name": "Snapchat",
         "url": "https://www.snapchat.com/a/delete_account",
         "difficulty": "easy",
@@ -10930,7 +10940,16 @@
             "ticketmaster.com"
         ]
     },
-
+    {
+        "name": "TickTick",
+        "url": "https://support.ticktick.com/hc/en-us/articles/360011759031",
+        "difficulty": "easy",
+        "notes": "Follow the instructions from this link.",
+        "notes_es": "Sigue las instrucciones del enlace",
+        "domains": [
+            "ticktick.com"
+        ]
+    },
     {
         "name": "Tidal",
         "url": "https://support.tidal.com/hc/en-us/requests/new",
