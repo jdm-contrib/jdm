@@ -10940,17 +10940,7 @@
             "ticketmaster.com"
         ]
     },
-
-    {
-        "name": "Tidal",
-        "url": "https://support.tidal.com/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "Category: Privacy and Data Requests. NOTE! After you press submit, it says that the request has been sent. On 'Does this article answer your question?' Press 'X No, I need help'!",
-        "notes_tr": "Kategori: Gizlilik ve Veri Talepleri. NOT: Gönder düğmesine bastıktan sonra talebin gönderildiğini belirtir. \"Bu makale sorunuzu cevapladı mı?\" \"Hayır, yardıma ihtiyacım var!\" tuşuna basın",
-        "domains": [
-            "tidal.com"
-        ]
-    },
+    
     {
         "name": "TickTick",
         "url": "https://support.ticktick.com/hc/en-us/articles/360011759031",
@@ -10959,6 +10949,17 @@
         "notes_es": "Sigue las instrucciones del enlace",
         "domains": [
             "ticktick.com"
+        ]
+    },
+    
+    {
+        "name": "Tidal",
+        "url": "https://support.tidal.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Category: Privacy and Data Requests. NOTE! After you press submit, it says that the request has been sent. On 'Does this article answer your question?' Press 'X No, I need help'!",
+        "notes_tr": "Kategori: Gizlilik ve Veri Talepleri. NOT: Gönder düğmesine bastıktan sonra talebin gönderildiğini belirtir. \"Bu makale sorunuzu cevapladı mı?\" \"Hayır, yardıma ihtiyacım var!\" tuşuna basın",
+        "domains": [
+            "tidal.com"
         ]
     },
 
