@@ -19,13 +19,16 @@ body {
 }
 
 nav {
+    align-items: stretch;
+    display: flex;
+    justify-content: center;
     background-color: #D04343;
     color: black;
     direction: ltr;
     font-weight: normal;
     margin: 0 auto;
     opacity: 0.9;
-    padding: 15px 0;
+    padding: 6px 0;
     position: fixed;
     text-align: center;
     top: 0;
@@ -35,7 +38,6 @@ nav {
 
 .language-switch {
     cursor: pointer;
-    padding: 12px 10px 8px 12px;
 }
 
 .language-dropdown {
@@ -49,10 +51,12 @@ nav {
 }
 
 nav a {
+    display: inline-flex;
+    padding: 10px;
     color: black;
     font-weight: normal;
-    padding: 8px 10px;
     text-decoration: none;
+    border-bottom: 1px solid transparent;
 }
 
 nav a:hover, .language-switch:hover, .current {
