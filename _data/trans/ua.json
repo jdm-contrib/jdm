@@ -1,8 +1,8 @@
 {
     "about": "Автори",
     "contribute": "Форкнути на GitHub",
-    "defaultnote_easy": "Visit the linked page and delete your account.",
-    "defaultnote_email": "Send an email to the provided address and request account deletion.",
+    "defaultnote_easy": "Перейдіть на сторінку та видаліть свій обліковий запис.",
+    "defaultnote_email": "Надішліть електронного листа на вказану адресу та подайте запит на видалення облікового запису.",
     "difficulty": "складність",
     "difficulty_easy": "легко",
     "difficulty_hard": "складно",
