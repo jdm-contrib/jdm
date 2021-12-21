@@ -10998,7 +10998,7 @@
 
     {
         "name": "Todoist",
-        "url": "https://www.todoist.com/settings",
+        "url": "https://todoist.com/app/settings/account",
         "difficulty": "easy",
         "notes": "At the bottom of the page is a delete account buttom, after clicking on it, you will need to re-enter your password.",
         "notes_tr": "Sayfanın altında bir \"Hesabı Sil\" düğmesi vardır, tıkladıktan sonra şifrenizi yeniden girmeniz gerekecektir.",
