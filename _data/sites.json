@@ -10304,6 +10304,15 @@
     },
 
     {
+        "name": "Squarespace",
+        "url": "https://account.squarespace.com/settings/security/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "squarespace.com"
+        ]
+    },
+
+    {
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "https://stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
