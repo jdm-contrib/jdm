@@ -8683,6 +8683,16 @@
     },
 
     {
+        "name": "Pocketbook",
+        "url": "https://getpocketbook.com/settings",
+        "difficulty": "medium",
+        "notes": "Click on 'Remove Pocketbook Account' under account settings. Select an option from dropdown and type random feedback. Click Submit button. Type CONFIRM into text box and proceed to delete account.",
+        "domains":[
+            "getpocketbook.com"
+        ]
+    },
+
+    {
         "name": "Pocket Casts",
         "url": "https://support.pocketcasts.com",
         "difficulty": "hard",
