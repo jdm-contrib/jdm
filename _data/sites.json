@@ -5840,6 +5840,17 @@
     },
 
     {
+        "name": "Kitsu",
+        "url": "https://kitsu.io/settings/account",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete Account' button and then click 'Confirm'.",
+        "notes_es": "Haz clic en el botón 'Eliminar cuenta' y finalmente cliquea 'Confirmar'.",
+        "domains": [
+            "kitsu.io"
+        ]
+    },
+
+    {
         "name": "Klarna",
         "url": "https://www.klarna.com/us/customer-service/",
         "difficulty": "hard",
