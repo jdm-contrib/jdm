@@ -3163,6 +3163,19 @@
     },
 
     {
+        "name": "Duo",
+        "url": "https://help.duo.com/s/article/2162",
+        "difficulty": "hard",
+        "email": "support@duosecurity.com",
+        "notes": "Delete all applications, users and other administrators in the Admin Panel according to the <a href=\"https://help.duo.com/s/article/2162\"> support article </a>, then contact support via email.",
+        "notes_pt_br": "Apague todos os aplicativos, usuários e outros administradores no Painel de Aministrador, de acordo com <a href=\"https://help.duo.com/s/article/2162\"> o artigo do suporte</a>, depois contate o suporte via e-mail.",
+        "domains": [
+            "duo.com",
+            "duosecurity.com"
+        ]
+    },
+
+    {
         "name": "Duolingo",
         "url": "https://www.duolingo.com/settings/deactivate",
         "difficulty": "easy",
