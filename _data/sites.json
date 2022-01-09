@@ -4935,6 +4935,16 @@
     },
 
     {
+        "name": "HelloFresh",
+        "url": "https://www.hellofresh.com/contact-page/",
+        "difficulty": "hard",
+        "notes": "Click \"Chat\" and request that the agent delete your account. e-mail must be provided.",
+        "domains": [
+            "hellofresh.com"
+        ]
+    },
+
+    {
         "name": "HelloWallet",
         "url": "https://my.hellowallet.com",
         "difficulty": "easy",
