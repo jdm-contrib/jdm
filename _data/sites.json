@@ -4938,7 +4938,7 @@
         "name": "HelloFresh",
         "url": "https://www.hellofresh.com/contact-page/",
         "difficulty": "hard",
-        "notes": "Click \"Chat\" and request that the agent delete your account. e-mail must be provided.",
+        "notes": "Click \"Chat\" and request that the agent delete your account. Your e-mail must be provided.",
         "domains": [
             "hellofresh.com"
         ]
