@@ -6972,6 +6972,16 @@
     },
 
     {
+        "name": "Mibbit",
+        "url": "https://chat.mibbit.com/",
+        "difficulty": "easy",
+        "notes": "Sign in and use the 'Account' link at the top right. At the bottom of the page is a link to delete your account.",
+        "domains": [
+            "mibbit.com"
+        ]
+    },
+
+    {
         "name": "Microsoft Account",
         "url": "https://account.live.com/closeaccount.aspx",
         "difficulty": "easy",
