@@ -12531,7 +12531,7 @@
         "name": "Zeplin",
         "url": "https://app.zeplin.io/profile/account",
         "difficulty": "medium",
-        "notes": "You need to transfer or delete your projects and cancel your subscription (if you have one) before deleting you account. Unlik your google account if you used it to login. Go to \"Profile\" -> \"account\" -> click \"Want to remove your account completely?\" -> click \"DELETE ACCOUNT\" and provide your password.",
+        "notes": "You need to transfer or delete your projects and cancel your subscription (if you have one) before deleting you account. Unlink your google account if you used it to login. Go to \"Profile\" -> \"account\" -> click \"Want to remove your account completely?\" -> click \"DELETE ACCOUNT\" and provide your password.",
         "domains": [
             "zeplin.io"
         ]
