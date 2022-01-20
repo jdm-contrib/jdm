@@ -7606,6 +7606,17 @@
     },
 
     {
+		"name": "Newgrounds",
+		"url": "https://www.newgrounds.com/account/delete",
+		"difficulty": "hard",
+		"notes": "You'll have to contact site webmaster Tom Fulp via the private messaging system, stating that you wish to delete your account.",
+		"notes_pt": "Você terá que contatar Tom Fulp, o webmaster do site, por meio do sistema de mensagens privadas, pedindo para deletar a sua conta",
+		"domains": [
+			"newgrounds.com"
+		]
+	},
+    
+    {
         "name": "NewsBlur",
         "url": "https://www.newsblur.com/profile/delete_account",
         "difficulty": "easy",
