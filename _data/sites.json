@@ -5678,7 +5678,7 @@
         "name": "Jobstreet",
         "url": "https://myjobstreet-id.jobstreet.co.id/registration/delete-account.php",
         "difficulty": "easy",
-        "notes": "Log in. Go to your account setting on top bar. Select delete my account on secondary bar. You need to pull all of your application before continue.",
+        "notes": "Log in. Go to your account setting on top bar. Select delete my account on secondary bar. You need to pull out all of your applications before continuing.",
         "domains": [
             "jobstreet.com"
         ]
