@@ -7610,7 +7610,7 @@
 		"url": "https://www.newgrounds.com/account/delete",
 		"difficulty": "easy",
 		"notes": "Go to your account settings and select \"Request Account Deletion.\" It can take up to 30 days for your account to be completely deleted.",
-		"notes_pt": "Vá para as suas configurações de conta e selecione \"Request Account Deletion.\" Pode demorar até 30 dias para que a sua conta seja apagada completamente.",
+		"notes_pt_br": "Vá para as suas configurações de conta e selecione \"Request Account Deletion.\" Pode demorar até 30 dias para que a sua conta seja apagada completamente.",
 		"domains": [
 			"newgrounds.com"
 		]
