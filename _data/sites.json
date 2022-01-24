@@ -6473,10 +6473,10 @@
 
     {
         "name": "Mangadex",
-        "url": "https://mangadex.org/thread/178895",
-        "difficulty": "impossible",
-        "notes": "The feature is not yet implemented. You could add your name to the forum post and the admins might eventually come around to it.",
-        "notes_tr": "Özellik henüz eklenmedi. Adınızı forum gönderisine ekleyebilir ve yöneticiler ilgilenebilir.",
+        "url": "https://mangadex.org/settings#del",
+        "difficulty": "easy",
+        "notes": "Sign in → Click the 'Delete' button → You will receive an email with a confirm button → Enter 'CONFIRM' in the text box.",
+        "notes_it": "Accedi → Clicca sul pulsante 'Delete' → Riceverai un'email con un pulsante di conferma → Inserisci 'COFIRM' nella casella di testo.",
         "domains": [
             "mangadex.org"
         ]
