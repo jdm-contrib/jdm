@@ -12050,22 +12050,22 @@
     },
 
     {
-        "name": "WEBTOON",
-        "url": "https://www.webtoons.com/en/account/delete",
-        "difficulty": "easy",
-        "notes": "Check the \"I understand and want to delete my account\" option and click on \"Delete my account\". Note that any comments you wrote will not be deleted automatically so you will need to go <a href=\"https://www.webtoons.com/en/mycomment\">here</a> and delete them yourself.",
-        "domains": [
-            "www.webtoons.com"
-        ]
-    },
-
-    {
         "name": "Webtickets",
         "url": "https://www.webtickets.co.za/v2/FAQ.aspx?itemid=1505441537",
         "difficulty": "hard",
         "notes": "Fill in the form requesting the deletion of your account",
         "domains": [
             "webtickets.co.za"
+        ]
+    },
+
+    {
+        "name": "WEBTOON",
+        "url": "https://www.webtoons.com/en/account/delete",
+        "difficulty": "easy",
+        "notes": "Check the \"I understand and want to delete my account\" option and click on \"Delete my account\". Note that any comments you wrote will not be deleted automatically so you will need to go <a href=\"https://www.webtoons.com/en/mycomment\">here</a> and delete them yourself.",
+        "domains": [
+            "www.webtoons.com"
         ]
     },
 
