@@ -4062,6 +4062,17 @@
     },
 
     {
+        "name": "Furbase",
+        "url": "https://forum.furbase.de/account-management/",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account management page, check the \"Delete User Account\" box and submit",
+        "notes_de": "Am Ende der Account-Management Seite die Checkbox \"Benutzerkonto kündigen\" anhaken und absenden",
+        "domains": [
+            "furbase.de"
+        ]
+    },
+
+    {
         "name": "FXhome",
         "url": "https://fxhome.com/faqs/view/69",
         "difficulty": "hard",
