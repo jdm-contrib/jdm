@@ -7010,6 +7010,17 @@
     },
 
     {
+        "name": "Milanote",
+        "url": "https://app.milanote.com/account/settings/delete",
+        "difficulty": "medium",
+        "notes": "Enter your email, click on \"Yes, delete my account\", then enter your password and click on \"Continue\".",
+        "domains": [
+            "milanote.com",
+            "app.milanote.com"
+        ]
+    },
+
+    {
         "name": "MindMeister",
         "url": "https://www.mindmeister.com/account/close",
         "difficulty": "easy",
@@ -12028,6 +12039,17 @@
     },
 
     {
+        "name": "WEBTOON",
+        "url": "https://www.webtoons.com/en/account/delete",
+        "difficulty": "easy",
+        "notes": "Check the \"I understand and want to delete my account\" option and click on \"Delete my account\". Note that any comments you wrote will not be deleted automatically so you will need to go <a href=\"https://www.webtoons.com/en/mycomment\">here</a> and delete them yourself.",
+        "domains": [
+            "www.webtoons.com"
+        ]
+
+    },
+
+    {
         "name": "Webex - Free Account",
         "url": "https://help.webex.com/en-us/5m4i4y/Delete-Your-Free-Webex-Account#id_111643",
         "difficulty": "easy",
@@ -12636,3 +12658,4 @@
         ]
     }
 ]
+
