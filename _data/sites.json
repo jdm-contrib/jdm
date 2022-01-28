@@ -12386,6 +12386,16 @@
     },
 
     {
+        "name": "XSplit",
+        "url": "https://www.xsplit.com/dashboard/settings",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account settings there is a delete account button. You'll just need to re-enter your password.",
+        "domains": [
+            "xsplit.com"
+        ]
+    },
+
+    {
         "name": "Yahoo!",
         "meta": "popular",
         "url": "https://edit.yahoo.com/config/delete_user",
