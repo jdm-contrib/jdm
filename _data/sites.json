@@ -11089,6 +11089,17 @@
     },
 
     {
+        "name": "Tinder",
+        "url": "https://tinder.com/app/profile",
+        "difficulty": "easy",
+        "notes": "At the bottom of the profile page is a delete account buttom, after clicking on it, you can either hide it or delete your account entirely.",
+        "notes_id": "Di bawah profile page ada tombol 'Delete Account', setelah klik tombol tersebut, kamu bisa menyembunyikan atau menghapus secara keseluruhan akunmu.",
+        "domains": [
+            "https://tinder.com"
+        ]
+    },
+
+    {
         "name": "TKirch.dev",
         "url": "https://tkirch.dev/account-management/",
         "difficulty": "easy",
