@@ -10168,7 +10168,7 @@
         "email_subject": "Delete Account",
         "email_body": "Hi, I want to permanently delete my account from SmallPDF, thanks",
         "domains": [
-            "https://smallpdf.com"
+            "smallpdf.com"
         ]
     },
 
