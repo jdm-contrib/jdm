@@ -5688,8 +5688,9 @@
     {
         "name": "Jobstreet",
         "url": "https://myjobstreet-id.jobstreet.co.id/registration/delete-account.php",
-        "difficulty": "easy",
-        "notes": "Log in. Go to your account setting on top bar. Select delete my account on secondary bar. You need to pull out all of your applications before continuing.",
+        "difficulty": "medium",
+        "notes": "Log in. Go to your account setting on top bar. Select 'Delete my Account' on secondary bar. You need to pull out all of your applications before continuing.",
+        "notes_id": "Login ke akunmu, masuk ke akun setting di bar paling atas. Pilih 'Delete my Account' di bar kedua. Kamu harus menarik semua lamaran aktifmu sebelum melanjutkan.",
         "domains": [
             "jobstreet.com"
         ]
@@ -10154,6 +10155,20 @@
         "notes_tr": "SlideShare'de oturum açın, imlecinizi sağ üstteki fotoğrafınızın üzerine getirin ve \"Hesap Ayarları\" seçeneğini seçin, soldaki \"Şifreyi Değiştir\" sekmesini tıklayın, \"Hesabı Sil\" ve ardından \"Evet, hesabımı sil\" tuşuna tıklayarak şifrenizi girin ve silme için uygun nedenleri seçin. Son olarak \"Hesabı Sil\" öğesini tıklayın. Not: SlideShare hesabınızı LinkedIn aracılığıyla oluşturduysanız, LinkedIn hesabınızı kapatmanız gerekir.",
         "domains": [
             "slideshare.com"
+        ]
+    },
+
+    {
+        "name": "SmallPDF",
+        "url": "https://smallpdf.com/profile",
+        "difficulty": "hard",
+        "notes": "The only way to delete your account is by emailing their customer support team.",
+        "notes_id": "Cara yang bisa kamu lakukan adalah mengirim permohonan untuk menghapus ke CS dengan surel.",
+        "email": "support@smallpdf.com",
+        "email_subject": "Delete Account",
+        "email_body": "Hi, I want to permanently delete my account from SmallPDF, thanks",
+        "domains": [
+            "https://smallpdf.com"
         ]
     },
 
