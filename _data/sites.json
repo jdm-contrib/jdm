@@ -10158,6 +10158,20 @@
     },
 
     {
+        "name": "SmallPDF",
+        "url": "https://smallpdf.com/profile",
+        "difficulty": "hard",
+        "notes": "The only way to delete your account is by emailing their customer support team.",
+        "notes_id": "Cara yang bisa kamu lakukan adalah mengirim permohonan untuk menghapus ke CS dengan surel.",
+        "email": "support@smallpdf.com",
+        "email_subject": "Delete Account",
+        "email_body": "Hi, I want to permanently delete my account from SmallPDF, thanks",
+        "domains": [
+            "https://smallpdf.com"
+        ]
+    },
+
+    {
         "name": "SmartRecruiters",
         "url": "https://help.smartrecruiters.com/Getting_Started/User_settings/How_do_I_close_my_user_account%3F",
         "difficulty": "impossible",
