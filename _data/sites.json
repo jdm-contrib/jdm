@@ -4062,6 +4062,17 @@
     },
 
     {
+        "name": "Furbase",
+        "url": "https://forum.furbase.de/account-management/",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account management page, check the \"Delete User Account\" box and submit",
+        "notes_de": "Am Ende der Account-Management Seite die Checkbox \"Benutzerkonto kündigen\" anhaken und absenden",
+        "domains": [
+            "furbase.de"
+        ]
+    },
+
+    {
         "name": "FXhome",
         "url": "https://fxhome.com/faqs/view/69",
         "difficulty": "hard",
@@ -7006,6 +7017,17 @@
         "difficulty": "easy",
         "domains": [
             "office.com"
+        ]
+    },
+
+    {
+        "name": "Milanote",
+        "url": "https://app.milanote.com/account/settings/delete",
+        "difficulty": "medium",
+        "notes": "Enter your email, click on \"Yes, delete my account\", then enter your password and click on \"Continue\".",
+        "domains": [
+            "milanote.com",
+            "app.milanote.com"
         ]
     },
 
@@ -12045,6 +12067,16 @@
         "notes": "Fill in the form requesting the deletion of your account",
         "domains": [
             "webtickets.co.za"
+        ]
+    },
+
+    {
+        "name": "WEBTOON",
+        "url": "https://www.webtoons.com/en/account/delete",
+        "difficulty": "easy",
+        "notes": "Check the \"I understand and want to delete my account\" option and click on \"Delete my account\". Note that any comments you wrote will not be deleted automatically so you will need to go <a href=\"https://www.webtoons.com/en/mycomment\">here</a> and delete them yourself.",
+        "domains": [
+            "www.webtoons.com"
         ]
     },
 
