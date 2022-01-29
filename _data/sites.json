@@ -5688,8 +5688,9 @@
     {
         "name": "Jobstreet",
         "url": "https://myjobstreet-id.jobstreet.co.id/registration/delete-account.php",
-        "difficulty": "easy",
-        "notes": "Log in. Go to your account setting on top bar. Select delete my account on secondary bar. You need to pull out all of your applications before continuing.",
+        "difficulty": "medium",
+        "notes": "Log in. Go to your account setting on top bar. Select 'Delete my Account' on secondary bar. You need to pull out all of your applications before continuing.",
+        "notes_id": "Login ke akunmu, masuk ke akun setting di bar paling atas. Pilih 'Delete my Account' di bar kedua. Kamu harus menarik semua lamaran aktifmu sebelum melanjutkan.",
         "domains": [
             "jobstreet.com"
         ]
