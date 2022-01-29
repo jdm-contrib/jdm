@@ -6010,10 +6010,10 @@
         "name": "Lazada",
         "url": "https://my.lazada.co.id/",
         "difficulty": "impossible",
-        "notes": "No way to delete your account on this web, even if you ask on their CS, they only give you on how to uninstall the application.",
+        "notes": "No way to delete your account on this website, even if you ask on their customer support, they only give you instructions on how to uninstall the application.",
         "notes_id": "Kamu tidak bisa menghapus sama sekali akunmu, bahkan jika bertanya kepada CS, mereka hanyak akan mengarahkan untuk menguninstall aplikasi.",
         "domains": [
-            "https://my.lazada.co.id/"
+            "lazada.co.id"
         ]
     },
 
