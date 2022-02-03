@@ -2028,6 +2028,18 @@
     },
 
     {
+        "name": "ClickUp",
+        "url": "https://feedback.clickup.com/feature-requests/p/delete-account-3",
+        "difficulty": "hard",
+        "notes": "You must contact support in order to get your account deleted.",
+        "email": "help@clickup.com",
+        "domains": [
+            "clickup.com",
+            "app.clickup.com"
+        ]
+    },
+
+    {
         "name": "Cloud Convert",
         "url": "https://cloudconvert.com/delete#",
         "difficulty": "easy",
@@ -12712,18 +12724,6 @@
         "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
         "domains": [
             "ciceksepeti.com"
-        ]
-    }
-
-    {
-        "name": "ClickUp",
-        "url": "https://feedback.clickup.com/feature-requests/p/delete-account-3",
-        "difficulty": "hard",
-        "notes": "You must contact support in order to get your account deleted.",
-        "email": "help@clickup.com",
-        "domains": [
-            "clickup.com",
-            "app.clickup.com"
         ]
     }
 ]
