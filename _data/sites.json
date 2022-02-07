@@ -1386,7 +1386,8 @@
     {
         "name": "Board Games Online",
         "url": "https://boardgamesonline.net/",
-        "difficulty": "impossible",
+        "difficulty": "easy",
+        "notes": "Log-in -> My Profile -> Click Profile (Settings Icon) -> Click on Delete Profile. Account will be deleted in about one week.",
         "domains": [
             "boardgamesonline.net"
         ]
