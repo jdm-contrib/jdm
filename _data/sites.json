@@ -9485,6 +9485,16 @@
     },
 
     {
+        "name": "ResumeGenius",
+        "url": "https://app.resumegenius.com/data-access/personal-data",
+        "difficulty": "easy",
+        "notes": "Simply login to your resumegenius account, go to the form, click delete and you should be good to go!",
+        "domains": [
+            "resumegenius.com"
+        ]
+    },
+    
+    {
         "name": "Retrospring",
         "url": "https://retrospring.net/settings/account",
         "difficulty": "easy",
