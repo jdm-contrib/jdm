@@ -12311,6 +12311,16 @@
             "windscribe.com"
         ]
     },
+    {
+        "name": "Wine HQ",
+        "url": "https://forum.winehq.org/viewtopic.php?p=136023",
+        "difficulty": "hard",
+        "notes": "Send an E-Mail to the webmaster. If that didn't work, create a new forum thread on https://forum.winehq.org",
+        "email": "web-admin@winehq.org",
+        "domains": [
+            "winehq.org"
+        ]
+    },
 
     {
         "name": "Wish",
