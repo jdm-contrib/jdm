@@ -6327,7 +6327,17 @@
             "loseit.com"
         ]
     },
-
+    
+    {
+        "name": "Love My Credit Union Rewards",
+        "url": "https://rewards.lovemycreditunion.org/contact-us/",
+        "difficulty": "hard",
+        "notes": "Scroll all the way down on the website and find a little button with a picture of an envelope to contact customer support to have your account deleted.",
+        "domains": [
+            "https://rewards.lovemycreditunion.org"
+        ]
+    },
+    
     {
         "name": "Lucidchart/Lucidpress",
         "url": "https://www.lucidchart.com/users/login",
