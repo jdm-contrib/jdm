@@ -2820,6 +2820,17 @@
     },
 
     {
+        "name": "Digio",
+        "url": "https://www.digio.com.br/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button and talking to the customer support gets you nowhere, they only understand you want to cancel the bank account or the credit card, but not remove the login information.",
+        "notes_pt_br": "Não há botão para excluir a conta e falar com o atendimento ao cliente não resolve, eles só sabem deletar a DigioConta ou cancelar o cartão Digio, mas não entendem sobre remoção do login.",
+        "domains": [
+            "digio.com.br"
+        ]
+    },
+
+    {
         "name": "DigitalOcean",
         "url": "https://cloud.digitalocean.com/account/profile/deactivate",
         "difficulty": "easy",
