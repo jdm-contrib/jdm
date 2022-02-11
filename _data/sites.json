@@ -3449,6 +3449,16 @@
     },
 
     {
+        "name": "enjin",
+        "url": "https://www.enjin.com/dashboard/account/privacy",
+        "difficulty": "easy",
+        "notes": "Scroll down and click on 'Deactivate Account'.",
+        "domains": [
+            "enjin.com"
+        ]
+    },
+
+    {
         "name": "Envato",
         "url": "https://help.market.envato.com/hc/en-us/articles/202500394-How-Do-I-Close-My-Account-",
         "difficulty": "hard",
@@ -12725,16 +12735,6 @@
         "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
         "domains": [
             "ciceksepeti.com"
-        ]
-    },
-    
-    {
-        "name": "enjin",
-        "url": "https://www.enjin.com/dashboard/account/privacy",
-        "difficulty": "easy",
-        "notes": "Scroll down and click on 'Deactivate Account'.",
-        "domains": [
-            "enjin.com"
         ]
     }
 ]
