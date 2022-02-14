@@ -3800,7 +3800,7 @@
         "name": "Figma",
         "url": "https://www.figma.com/",
         "difficulty": "easy",
-        "notes": "Login in, click on your profile picture in the top right of the header, click on 'Settings', scroll down to the accout section, click on 'Delete account', re-enter your account password, type 'delete my account' into the dialog box, and click on 'Delete account'.",
+        "notes": "Log in, click on your profile picture in the top right of the header, click on 'Settings', scroll down to the accout section, click on 'Delete account', re-enter your account password, type 'delete my account' into the dialog box, and click on 'Delete account'.",
         "domains": [
             "figma.com"
         ]
