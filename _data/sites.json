@@ -12078,8 +12078,8 @@
     {
         "name": "Wargaming.net",
         "url": "https://eu.wargaming.net/personal/suspend_account/",
-        "difficulty": "easy",
-        "notes": "Follow the link, log in, and enter your email address to confirm account deletion. After 45 days your account will be deleted permanently.",
+        "difficulty": "medium",
+        "notes": "Follow the link, log in, and enter your email address to confirm account deletion. A confirmation email will be sent to you. Follow the 'Confirm' link in the email, login again, and finally confirm account deletion again. After 45 days your account will be deleted permanently.",
         "domains": [
             "ru.wargaming.net",
             "na.wargaming.net",
