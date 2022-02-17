@@ -429,6 +429,18 @@
     },
 
     {
+        "name": "AirVPN",
+        "url": "https://airvpn.org/contact/",
+        "difficulty": "hard",
+        "notes": "Visit the linked form and submit a support ticket requesting account deletion. Make sure you are logged in so they can find your account, or specify your username in your message. Alternatively, you may also send an email.",
+        "email": "support@airvpn.org",
+        "domains": [
+            "airvpn.org",
+            "airvpn.dev"
+        ]
+    },
+
+    {
         "name": "AKAI Professional",
         "url": "https://www.akaipro.com/privacy-policy",
         "email": "privacy@inmusicbrands.com",
@@ -9249,15 +9261,14 @@
             "raileurope.com"
         ]
     },
+
     {
         "name": "Raindrop.io",
-        "url": "https://raindrop.io/app/#/settings/profile",
-        "difficulty": "hard",
-        "notes": "To delete your account, you need to send an e-mail to info@raindrop.io",
-        "notes_tr": "Hesabınızı sildirmek için onlara e-posta göndermelisiniz",
-        "email": "info@raindrop.io",
+        "url": "https://api.raindrop.io/v1/user/remove",
+        "difficulty": "easy",
         "domains": [
-            "raindrop.io"
+            "raindrop.io",
+            "app.raindrop.io"
         ]
     },
 
@@ -10028,8 +10039,8 @@
 
     {
         "name": "showRSS",
-        "url": "https://showrss.info",
-        "difficulty": "impossible",
+        "url": "https://showrss.info/edit/delete",
+        "difficulty": "easy",
         "domains": [
             "showrss.info"
         ]
@@ -10049,16 +10060,9 @@
 
     {
         "name": "Shutterfly",
-        "url": "https://www.shutterfly.com/about/contact_details.jsp",
-        "difficulty": "hard",
-        "notes": "Contact customers services by email or live chat and request deletion.",
-        "notes_tr": "E-posta veya canlı sohbet yoluyla müşteri hizmetleriyle iletişime geçin ve silme talebinde bulunun.",
-        "notes_fr": "Contactez le service clients par e-mail our par le tchat en ligne et demandez la suppression de votre compte.",
-        "notes_it": "Contatta il servizio clienti via email o via chat e richiedi la cancellazione.",
-        "notes_pt_br": "Contate a assistência ao cliente por e-mail ou chat ao vivo e peça a remoção.",
-        "notes_cat": "Contacti amb l'assistència al client per e-mail o chat i demani la supressió del compte.",
-        "notes_es": "Contacta con la asistencia al cliente por e-mail o chat y pide la supresión de la cuenta.",
-        "email": "customerservice@cs.shutterfly.com",
+        "url": "https://www.shutterfly.com/delete-account/",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and request account deletion. You will receive an email when your request is completed.",
         "domains": [
             "shutterfly.com"
         ]
