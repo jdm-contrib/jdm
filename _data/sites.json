@@ -3127,7 +3127,7 @@
         "name": "Drivvo",
         "url": "https://www.drivvo.com/",
         "difficulty": "easy",
-        "notes": "On the app, open the 'Menu' -> 'My Account' -> tap the three dots on the upper right corner, click 'Delete Account' and confirm."
+        "notes": "On the app, open the 'Menu' -> 'My Account' -> tap the three dots on the upper right corner, click 'Delete Account' and confirm.",
         "domains": [
             "drivvo.com"
         ]
