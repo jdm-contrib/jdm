@@ -9206,6 +9206,17 @@
     },
 
     {
+        "name": "QuintoAndar",
+        "url": "https://help.quintoandar.com.br/hc/pt-br/requests/new",
+        "difficulty": "hard",
+        "notes": "Send a message to them requesting deletion. They will reply asking for the reason and a few personal data and eventually delete. If you had rented something on their platform in the past, they won't be able to delete your personal data to comply with regulations.",
+        "notes_pt_br": "Envie uma mensagem pedindo para excluir a conta. Eles vão responder perguntando o motivo e alguns dados pessoais, e eventualmente deletar. Se tiver alugado algo na plataforma no passado, eles não poderão deletar seus dados pessoais por motivos legais.",
+        "domains": [
+            "quintoandar.com.br"
+        ]
+    },
+
+    {
         "name": "Quip",
         "url": "https://www.quipsupport.com/entries/25079898-How-do-I-delete-my-account-",
         "difficulty": "hard",
