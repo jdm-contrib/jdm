@@ -4916,11 +4916,9 @@
     },
     {
         "name": "Hack This Site",
-        "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
-        "difficulty": "impossible",
-        "notes": "It is not possible to delete your Hack This Site account.  The best you can do is delete any personal information that you have stored on their website.",
-        "notes_tr": "Hack This Site hesabınızı silmeniz mümkün değildir. Yapabileceğiniz en iyi şey, sitede bulunan kişisel verileri silmektir.",
-        "notes_fr": "Il n'est pas possible de supprimer votre compte de Hack This Site. Le meilleur que vous pouvez faire est d'enlever toutes les informations que vous avez enregistré dans le site.",
+        "url": "https://www.hackthissite.org/user/delete",
+        "difficulty": "easy",
+        "notes": "On the page, click 'CONFIRM MY ACCOUNT DELETION'.",
         "domains": [
             "hackthissite.org"
         ]
