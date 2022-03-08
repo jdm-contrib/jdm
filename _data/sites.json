@@ -7333,6 +7333,17 @@
     },
 
     {
+        "name": "Mouser",
+        "url": "https://www.mouser.co.uk/privacypolicy",
+        "difficulty": "medium",
+        "notes": "Visit the privacy policy page and scroll down to section Right to erasure (Right to have your data deleted). Enter your email address into the form. A link to the account deletion form will then be sent to your registered email address. To delete your account you have to fill out the form with details such as your full name and address. Once completed you will receive a confirmation email informing you that your account will be deleted within 30 days. Alternatively you can contact the data protection officer using the email address provided in the privacy policy.",
+        "domains": [
+            "mouser.co.uk",
+            "mouser.com"
+        ]
+    },
+
+    {
         "name": "Moviepilot.de",
         "url": "https://www.moviepilot.de/users/null/edit_membership",
         "difficulty": "easy",
