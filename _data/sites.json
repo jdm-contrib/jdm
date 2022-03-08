@@ -5158,6 +5158,16 @@
     },
 
     {
+        "name": "Hoop",
+        "url": "https://hoop.photo/",
+        "difficulty": "impossible",
+        "notes": "Navigate to 'Account' > 'gear icon' > 'delete account' > 'delete'. This will remove some of your account data, but not all. There is no way to remove all data, despite their privacy policy claiming it is.",
+        "domains": [
+            "hoop.photo"
+        ]
+    },
+
+    {
         "name": "Hostelsclub",
         "url": "https://www.hostelsclub.com",
         "difficulty": "impossible",
