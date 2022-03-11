@@ -1685,6 +1685,17 @@
     },
 
     {
+        "name": "ByDoor",
+        "url": "https://portal.bydoor.com/meusdados",
+        "difficulty": "impossible",
+        "notes": "Login, head to your account details, scroll to the bottom and click to deactivate your account. According to text it will also remove all of your data, but weirldy another text says you can reactivate your account. Technically you confirm the deletion by e-mail, but it never arrives",
+        "notes": "Faça login, vá para a seção de 'Meus dados', clique na aba 'Acesso', navegue até o fim da página, preencha o motivo para desativar e clique em 'Desativar minha conta'. Tecnicamente você confirma desativar a conta por e-mail, se ele chegar.",
+        "domains": [
+            "bydoor.com"
+        ]
+    },
+
+    {
         "name": "C&M News by Rеss.at",
         "url": "https://ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
