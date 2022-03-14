@@ -881,6 +881,17 @@
     },
 
     {
+        "name": "Auth0",
+        "url": "https://community.auth0.com/t/how-can-i-delete-my-auth0-auth0-community-forum-account/34689",
+        "difficulty": "hard",
+        "notes": "Delete all tenants on the Auth0 dashboard then send a private message to a support moment on the forums.",
+        "domains": [
+            "auth0.com"
+        ]
+
+    },
+
+    {
         "name": "Authy",
         "url": "https://authy.com/account/delete/",
         "difficulty": "medium",
