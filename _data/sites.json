@@ -4765,6 +4765,16 @@
     },
 
     {
+        "name": "GreasyFork",
+        "url": "https://greasyfork.org/en/users/delete_info",
+        "notes": "Use the link provided to request account deletion. An e-mail will be sent to confirm it and then you're done.",
+        "difficulty": "medium",
+        "domains": [
+            "greasyfork.org"
+        ]
+    },
+
+    {
         "name": "Green Man Gaming",
         "url": "https://corporate.greenmangaming.com/privacy-policy",
         "difficulty": "hard",
