@@ -6386,6 +6386,16 @@
     },
 
     {
+        "name": "Logitech",
+        "url": "https://support.logi.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Open a ticket on their customer service requesting the deletion of the account and provide a country, reason and your name",
+        "domains": [
+            "logitech.com"
+        ]
+    },
+
+    {
         "name": "LogMeIn / Hamachi",
         "url": "https://support.logmeininc.com/hamachi/help/how-do-i-contact-hamachi-customer-support",
         "difficulty": "hard",
