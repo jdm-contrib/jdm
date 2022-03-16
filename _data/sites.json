@@ -709,6 +709,17 @@
     },
 
     {
+        "name": "Anti-Captcha",
+        "url": "https://anti-captcha.com/clients/settings/killme",
+        "difficulty": "easy",
+        "notes": "Confirm account deletion, then input the code you'll receive by email.",
+        "notes_pt_br": "Confirme a exclusão da conta, e então coloque o código que você receberá por email.",
+        "domains": [
+            "anti-captcha.com"
+        ]
+    },
+
+    {
         "name": "Any.do",
         "url": "https://support.any.do/account-and-profile/",
         "difficulty": "medium",
