@@ -41,6 +41,17 @@
     },
 
     {
+        "name": "16Personalities",
+        "url": "https://www.16personalities.com/profile/preferences",
+        "difficulty": "easy",
+        "notes": "In your profile preferences, click in 'Delete Account' then confirm.",
+        "notes_pt_br": "Nas preferências do seu perfil, clique em 'Delete Account' e depois confirme.",
+        "domains": [
+            "16personalities.com"
+        ]
+    },
+
+    {
         "name": "1Password",
         "url": "https://my.1password.com/profile",
         "difficulty": "easy",
@@ -694,6 +705,17 @@
         "notes_tr": "Sayfanın altında şifrenizi girin ve \"Hesabı Sil\" tuşuna basın.",
         "domains": [
             "anonaddy.com"
+        ]
+    },
+
+    {
+        "name": "Anti-Captcha",
+        "url": "https://anti-captcha.com/clients/settings/killme",
+        "difficulty": "easy",
+        "notes": "Confirm account deletion, then input the code you'll receive by email.",
+        "notes_pt_br": "Confirme a exclusão da conta, e então coloque o código que você receberá por email.",
+        "domains": [
+            "anti-captcha.com"
         ]
     },
 
