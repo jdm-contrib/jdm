@@ -753,6 +753,16 @@
     },
 
     {
+        "name": "APKPure",
+        "url": "https://apkpure.com/account/destroy",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, provide a reason for deletion, then submit the form. Your account will be deleted within 48 hours.",
+        "domains": [
+            "apkpure.com"
+        ]
+    },
+
+    {
         "name": "AppFog",
         "url": "https://groups.google.com/forum/#!topic/appfog-users/H9AkHjHFfZk",
         "difficulty": "hard",
@@ -4106,6 +4116,15 @@
     },
 
     {
+        "name": "Freecycle",
+        "url": "https://freecycle.org/home/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "freecycle.org"
+        ]
+    },
+
+    {
         "name": "Freelancer",
         "url": "https://www.freelancer.in/users/settings.php#AccountSettings",
         "difficulty": "easy",
@@ -5205,7 +5224,8 @@
 
     {
         "name": "Honey",
-        "url": "https://help.joinhoney.com/article/53-how-do-i-delete-my-honey-account",
+        "url": "https://www.joinhoney.com/settings#account",
+        "notes": "Scroll to the bottom of the linked page and click 'Delete Account'.",
         "difficulty": "easy",
         "domains": [
             "joinhoney.com"
@@ -5392,10 +5412,11 @@
 
     {
         "name": "ImageShack",
-        "url": "https://imageshack.us/prefs/",
+        "url": "https://imageshack.com/my/settings",
         "difficulty": "easy",
+        "notes": "Visit the linked page and click the 'Delete Account' button.",
         "domains": [
-            "imageshack.us"
+            "imageshack.com"
         ]
     },
 
@@ -7386,8 +7407,9 @@
 
     {
         "name": "Monster",
-        "url": "http://my.monster.com/Account/CancelMembership",
-        "difficulty": "easy",
+        "url": "https://www.monster.com/privacy/emailform",
+        "difficulty": "hard",
+        "notes": "On the linked page, complete the form and ask for your account to be deleted.",
         "domains": [
             "monster.com"
         ]
@@ -12126,15 +12148,6 @@
         "difficulty": "easy",
         "domains": [
             "vk.com"
-        ]
-    },
-
-    {
-        "name": "Voat",
-        "url": "https://voat.co/Account/Delete",
-        "difficulty": "easy",
-        "domains": [
-            "voat.co"
         ]
     },
 
