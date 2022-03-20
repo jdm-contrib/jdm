@@ -1743,7 +1743,7 @@
         "url": "https://portal.bydoor.com/meusdados",
         "difficulty": "impossible",
         "notes": "Login, head to your account details, scroll to the bottom and click to deactivate your account. The text states it will remove all of your data, but after confirming on the e-mail, it's just deactivated and can be reactivated later.",
-        "notes": "Faça login, vá para a seção de 'Meus dados', clique na aba 'Acesso', navegue até o fim da página, preencha o motivo para desativar e clique em 'Desativar minha conta'. Apesar do texto dizer que os dados são deletados, a conta é só desativada e pode ser reativada depois.",
+        "notes_pt_br": "Faça login, vá para a seção de 'Meus dados', clique na aba 'Acesso', navegue até o fim da página, preencha o motivo para desativar e clique em 'Desativar minha conta'. Apesar do texto dizer que os dados são deletados, a conta é só desativada e pode ser reativada depois.",
         "domains": [
             "bydoor.com"
         ]
@@ -8169,6 +8169,16 @@
     },
 
     {
+        "name": "OneCompiler",
+        "url": "https://onecompiler.com/",
+        "difficulty": "easy",
+        "notes": "Click your profile image in the top right corner of the page and open 'My account'. Select the 'Settings' tab, then click 'Account', and press the 'Delete My Account' button. Submit the code sent your email.",
+        "domains": [
+            "onecompiler.com"
+        ]
+    },
+
+    {
         "name": "OneSky",
         "url": "https://support.oneskyapp.com/hc/en-us/articles/115005242827-How-to-Delete-your-OneSky-Account",
         "difficulty": "hard",
@@ -9690,6 +9700,16 @@
         "notes_tr": "Sayfanın altındaki \"Sil\" tuşuna tıklayın.",
         "domains": [
             "retrospring.net"
+        ]
+    },
+
+    {
+        "name": "Rev",
+        "url": "https://www.rev.com/account/settings/",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click 'Close Account'. Type 'CLOSE' in the text box, then click 'Close Account Forever'.",
+        "domains": [
+            "rev.com"
         ]
     },
 
