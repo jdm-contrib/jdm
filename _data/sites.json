@@ -1519,6 +1519,18 @@
             "bohemia.net"
         ]
     },
+    
+        {
+        "name": "Bol.com",
+        "url": "https://www.bol.com/nl/rnwy/account/privacy/delete",
+        "difficulty": "hard",
+        "notes": "Need to request deletion on a page within the account settings. Confirm after via link in email, which often doesn't work, because you need to be logged in to the account for the confirmation link to be working. This is not clear.",
+        "email": "dpo@aholddelhaize.com",
+        "domains": [
+            "bol.com"
+        ]
+    },
+    
 
     {
         "name": "BookBub",
