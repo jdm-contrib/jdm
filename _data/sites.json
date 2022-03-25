@@ -3796,6 +3796,17 @@
             "facile.it"
         ]
     },
+    
+    {   
+        "name": "Fairphone",
+        "url": "https://www.fairphone.com/en/legal/fairphone-privacy-policy/#yourresponsibilitiesandrights",
+        "difficulty": "hard",
+        "notes": "Need to email privacy@fairphone.com and ask for your account to be deleted. Took 14 working days for my account to be deleted.",
+        "email": "privacy@fairphone.com",
+        "domains": [
+            "fairphone.com"
+        ]
+    },
 
     {
         "name": "Fandom Wikia",
