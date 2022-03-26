@@ -7571,6 +7571,16 @@
     },
 
     {
+        "name": "Mutant Mail",
+        "url": "https://my.mutantmail.com/settings",
+        "difficulty": "easy",
+        "notes": "Re-verify intent with your password at the bottom of the settings page and click 'Delete Account'.",
+        "domains": [
+            "mutantmail.com"
+        ]
+    },
+
+    {
         "name": "My Fitness Pal",
         "url": "https://www.myfitnesspal.com/en/account/confirm_delete",
         "difficulty": "easy",
