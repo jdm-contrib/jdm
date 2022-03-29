@@ -12202,6 +12202,16 @@
             "vk.com"
         ]
     },
+    
+    {
+        "name": "Volcano Hosting",
+        "url": "https://www.volcanohosting.net",
+        "difficulty": "hard",
+        "notes": "You need to log into our billing panel and send a ticket regarding the account deletion.",
+        "domains": [
+            "volcanohosting.net"
+        ]
+    },
 
     {
         "name": "Voxer",
