@@ -12204,6 +12204,16 @@
     },
 
     {
+        "name": "Volcano Hosting",
+        "url": "https://www.volcanohosting.net",
+        "difficulty": "hard",
+        "notes": "You need to log into their billing panel and send a ticket regarding the account deletion.",
+        "domains": [
+            "volcanohosting.net"
+        ]
+    },
+
+    {
         "name": "Voxer",
         "url": "https://support.voxer.com/hc/en-us/articles/204330173-How-do-I-delete-my-Voxer-account-",
         "difficulty": "medium",
