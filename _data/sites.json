@@ -5424,6 +5424,16 @@
     },
 
     {
+        "name": "iFixit",
+        "url": "https://forms.obsecom.eu/requests/654931-678694-057240-634891",
+        "difficulty": "hard",
+        "notes": "Visit the linked page and complete the form. In addition to a confirmation email, you may be required to submit further proof of identity.",
+        "domains": [
+            "ifixit.com"
+        ]
+    },
+
+    {
         "name": "IFTTT",
         "url": "https://ifttt.com/settings/deactivate",
         "difficulty": "easy",
@@ -7646,6 +7656,16 @@
         "notes_de": "Gehe zu deinen Account-Einstellungen (oben rechts, klicke auf deine E-Mail-Adresse) und wähle 'Delete Account' aus.",
         "domains": [
             "jdownloader.org"
+        ]
+    },
+
+    {
+        "name": "MyMaxon",
+        "url": "https://support.maxon.net/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Visit the linked page and submit a support ticket asking for your account to be deleted. Under \"How can we help\", select the option \"I need customer service\", then change \"Request type\" to \"GDPR\".",
+        "domains": [
+            "maxon.net"
         ]
     },
 
@@ -9904,21 +9924,6 @@
     },
 
     {
-        "name": "Rovio",
-        "url": "https://account.rovio.com",
-        "difficulty": "easy",
-        "notes": "Bottom link 'Delete Account'",
-        "notes_tr": "\"Hesabı Sil\" tuşuna basın",
-        "notes_it": "Link sul fondo 'Delete Account'.",
-        "notes_pt_br": "Link no final 'Delete Account'",
-        "notes_cat": "Enllaç al final: 'Delete Account'",
-        "notes_es": "Enlace al final: 'Delete Account'",
-        "domains": [
-            "rovio.com"
-        ]
-    },
-
-    {
         "name": "Runescape",
         "url": "https://www.runescape.com/zendesk/support-form?form=360000041149",
         "difficulty": "medium",
@@ -11017,11 +11022,9 @@
 
     {
         "name": "Swappa.com",
-        "url": "https://swappa.com/contact",
-        "difficulty": "hard",
-        "notes": "Email customer service and tell them you want your account deleted.",
-        "email": "help@swappa.com",
-        "email_body": "To request deletion, you must email: help@swappa.com",
+        "url": "https://swappa.com/my/profile",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the page and click 'Delete Account'. Confirm the action by typing \"I understand\" in the text box.",
         "domains": [
             "swappa.com"
         ]
