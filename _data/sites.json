@@ -2736,6 +2736,17 @@
     },
 
     {
+        "name": "dbrand",
+        "url": "https://dbrand.com/contact",
+        "difficulty": "hard",
+        "notes": "Contact customer support to request account deletion.",
+        "notes_pt_br": "Contacte o suporte ao cliente para requerer deleção da conta.",
+        "domains": [
+            "dbrand.com"
+        ]
+    },
+
+    {
         "name": "Deadspin (Gawker Media)",
         "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
         "difficulty": "impossible",
