@@ -13017,5 +13017,18 @@
         "domains": [
             "ciceksepeti.com"
         ]
-    }
+    },
+
+    {
+        "name": "mintos.com",
+        "url": "https://help.mintos.com/hc/en-us/requests/new?ticket_form_id=1900000292453",
+        "difficulty": "hard",
+        "notes": "Before requesting account deletion, make sure you wait for the remaining payments to come through, and withdraw all available funds. The account balance must be 0. Then you can either use a <a href=\"https://help.mintos.com/hc/en-us/requests/new?ticket_form_id=1900000292453\">request form</a> or send an email to support directly.",
+        "email": "support@mintos.com",
+        "email_subject": "Request to delete my account from Mintos",
+        "email_body": "I have an account in your database associated with the email address XXXXXX (investor id: XXXXXX). I have decided not to use the account again; therefore, I request that you kindly delete my account from your database and delete all the associated data.",
+        "domains": [
+            "mintos.com"
+        ]
+    },
 ]
