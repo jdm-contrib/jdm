@@ -7274,7 +7274,14 @@
             "mindmeister.com"
         ]
     },
-
+    {
+        "name": "Minds",
+        "url": "https://www.minds.com/settings/other/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "minds.com"
+        ]
+    },
     {
         "name": "Minecraft",
         "url": "https://help.minecraft.net/hc/en-us/requests/new",
