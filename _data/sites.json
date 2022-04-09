@@ -12098,6 +12098,19 @@
     },
 
     {
+        "name": "viainvest",
+        "url": "https://viainvest.com/en/faq",
+        "difficulty": "hard",
+        "notes": "Before requesting account deletion, make sure you wait for the remaining payments to come through, and withdraw all available funds. The account balance must be 0. Then you can send an email to support.",
+        "email": "support@viainvest.com",
+        "email_subject": "Request to delete my account from ViaInvest",
+        "email_body": "I have an account in your database associated with the name XXXXXX and the email address XXXXXX. I have decided not to use the account again; therefore, I request that you kindly delete my account from your database and delete all the associated data.",
+        "domains": [
+            "viainvest.com"
+        ]
+    },
+
+    {
         "name": "Viber",
         "url": "https://help.viber.com/en/article/deactivate-uninstall-and-reinstall-viber",
         "difficulty": "easy",
