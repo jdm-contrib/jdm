@@ -3117,6 +3117,17 @@
             "docusign.com"
         ]
     },
+    
+    {
+        "name": "Do IT",
+        "url": "https://doit.life/privacy-policy",
+        "notes": "I emailed data@doit.life but have not received a response after 5 weeks.",
+        "difficulty": "impossible",
+        "email": "data@doit.life",
+        "domains": [
+            "doit.life"
+        ]
+    },
 
     {
         "name": "Doodle",
