@@ -3098,6 +3098,17 @@
     },
 
     {
+        "name": "Do IT",
+        "url": "https://doit.life/privacy-policy",
+        "notes": "E-mailing them is a deadend even after waiting for several weeks.",
+        "difficulty": "impossible",
+        "email": "data@doit.life",
+        "domains": [
+            "doit.life"
+        ]
+    },
+
+    {
         "name": "Docker",
         "url": "https://hub.docker.com/settings/deactivate",
         "notes": "Log in, under account settings find and use \"Deactivate Account\".",
