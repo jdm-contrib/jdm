@@ -7617,8 +7617,7 @@
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/account/edit",
         "difficulty": "easy",
-        "notes": "Click on delete my account at the bottom of the page",
-        "notes_tr": "Sayfanın altındaki \"Hesabımı Sil\" tuşuna tıklayın",
+        "notes": "Click on the 'Delete account' tab, then confirm with the 'Delete my account' button",
         "domains": [
             "musicbrainz.org"
         ]
