@@ -3228,6 +3228,16 @@
     },
 
     {
+        "name": "e621",
+        "url": "https://e621.net/maintenance/user/deletion",
+        "difficulty": "impossible",
+        "notes": "Even if there is a delete option, the site states, that your account will only be changed to a generic name and locked / blanked. Your contributions (submissions, comments, etc) will remain.",
+        "domains": [
+            "e621.net"
+        ]
+    },
+
+    {
         "name": "EA Origin",
         "url": "https://help.ea.com/en/contact-us/",
         "difficulty": "hard",
@@ -4058,6 +4068,17 @@
         "notes": "In the Submit a Request form, under \"How can we help you?,\" choose \"Subscription”, then \"Cancel or Delete Account\", and enter a brief description of your request in the “Description” field.",
         "domains": [
             "funimation.com"
+        ]
+    },
+
+    {
+        "name": "Fur Affinity",
+        "url": "https://www.furaffinity.net/controls/delete-account",
+        "difficulty": "medium",
+        "notes": "Click the \"Send Account Deletion Confirmation Email\" button, which will trigger a mail with a deletion link",
+        "notes_de": "Klicke auf den  \"Send Account Deletion Confirmation Email\" Knopf, dies löst eine Mail mit einem Löschlink aus",
+        "domains": [
+            "furaffinity.net"
         ]
     },
 
@@ -5368,6 +5389,16 @@
         "notes_tr": "\"İletişim\" tuşuna tıklayarak, destek makalesinde bağlantısı verilen formu doldurmanız gerekir. E-posta adresinizi, temsilci adınızı, oynadığınız cihazı yazın ve formu gönderin.",
         "domains": [
             "ingress.com"
+        ]
+    },
+
+    {
+        "name": "Inkbunny",
+        "url": "https://inkbunny.net/account.php#remove",
+        "difficulty": "easy",
+        "notes": "There is a checkbox to be ticked and you need to enter your current password for confirmation. Deletion has a grace period of 2 days.",
+        "domains": [
+            "inkbunny.net"
         ]
     },
 
