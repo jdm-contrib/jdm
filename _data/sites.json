@@ -11184,7 +11184,18 @@
             "teamgantt.com"
         ]
     },
-
+    
+    {
+        "name": "TeamSpeak",
+        "url": "https://support.teamspeak.com/hc/en-us/articles/4408933645201-I-can-t-find-the-option-to-delete-myTeamSpeak-account-How-do-I-do-this-",
+        "difficulty": "hard",
+        "notes": "You need to contact the support using their contact form.",
+        "domains": [
+            "teamspeak.com",
+            "myteamspeak.com"
+        ]
+    },
+    
     {
         "name": "TeamViewer",
         "url": "https://login.teamviewer.com",
@@ -11197,17 +11208,6 @@
         "notes_es": "Edit profile (menú situado en la esquina superior izquierda) →  Delete account",
         "domains": [
             "teamviewer.com"
-        ]
-    },
-    
-    {
-        "name": "TeamSpeak",
-        "url": "https://support.teamspeak.com/hc/en-us/articles/4408933645201-I-can-t-find-the-option-to-delete-myTeamSpeak-account-How-do-I-do-this-",
-        "difficulty": "hard",
-        "notes": "You need to contact the support using their contact form.",
-        "domains": [
-            "teamspeak.com",
-            "myteamspeak.com"
         ]
     },
     
