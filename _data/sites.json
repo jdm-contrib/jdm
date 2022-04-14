@@ -1,13 +1,4 @@
-[    {
-        "name": "TeamSpeak",
-        "url": "https://support.teamspeak.com/hc/en-us/articles/4408933645201-I-can-t-find-the-option-to-delete-myTeamSpeak-account-How-do-I-do-this-",
-        "difficulty": "hard",
-        "notes": "You need to contact the support using their contact form.",
-        "domains": [
-            "teamspeak.com",
-            "myteamspeak.com"
-        ]
-    },
+[    
     {
         "name": "/e/",
         "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
@@ -11208,7 +11199,18 @@
             "teamviewer.com"
         ]
     },
-
+    
+    {
+        "name": "TeamSpeak",
+        "url": "https://support.teamspeak.com/hc/en-us/articles/4408933645201-I-can-t-find-the-option-to-delete-myTeamSpeak-account-How-do-I-do-this-",
+        "difficulty": "hard",
+        "notes": "You need to contact the support using their contact form.",
+        "domains": [
+            "teamspeak.com",
+            "myteamspeak.com"
+        ]
+    },
+    
     {
         "name": "Tebex",
         "url": "https://server.tebex.io",
