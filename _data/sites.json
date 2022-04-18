@@ -11334,6 +11334,19 @@
     },
 
     {
+        "name": "Tenor",
+        "url": "https://support.google.com/tenor/answer/10455265?hl=en#zippy=%2Chow-can-i-terminate-my-tenor-account",
+        "difficulty": "hard",
+        "notes": "Contact customer support and provide your Tenor username or email address to request for the account to be deleted.",
+        "email": "support@tenor.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "I would like to delete my account, with login XXXXXX and e-mail YYYYYY.",
+        "domains": [
+            "tenor.com"
+        ]
+    },
+
+    {
         "name": "Terms of Service; Didn't Read",
         "url": "https://edit.tosdr.org/users/edit",
         "difficulty": "easy",
