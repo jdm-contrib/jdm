@@ -3375,7 +3375,7 @@
         "name": "e621",
         "url": "https://e621.net/maintenance/user/deletion",
         "difficulty": "impossible",
-        "notes": "Even if there is a delete option, the site states, that your account will only be changed to a generic name and locked / blanked. Your contributions (submissions, comments, etc) will remain.",
+        "notes": "Even though there is a delete option, the site states it will only change your account to a generic name and lock it. Your contributions (submissions, comments, etc) will remain.",
         "domains": [
             "e621.net"
         ]
@@ -4260,7 +4260,7 @@
         "url": "https://www.furaffinity.net/controls/delete-account",
         "difficulty": "medium",
         "notes": "Click the \"Send Account Deletion Confirmation Email\" button, which will trigger a mail with a deletion link",
-        "notes_de": "Klicke auf den  \"Send Account Deletion Confirmation Email\" Knopf, dies löst eine Mail mit einem Löschlink aus",
+        "notes_de": "Klicke auf den \"Send Account Deletion Confirmation Email\" Knopf, dies löst eine Mail mit einem Löschlink aus",
         "domains": [
             "furaffinity.net"
         ]
