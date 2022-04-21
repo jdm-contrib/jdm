@@ -8872,12 +8872,9 @@
 
     {
         "name": "Photobucket",
-        "url": "https://photobucket.com",
+        "url": "https://support.photobucket.com/hc/en-us/articles/360039780614",
         "difficulty": "hard",
-        "email": "support@photobucket.com",
-        "notes": "To delete your account you will have to send an email to support@photobucket.com. Photobucket support will require some information for verification purposes. These include your username, email address, full name, dob, the postal code and country from where you registered your account and a description of a couple of pictures in your account. After your reply the staff will delete your account in 48 hours. According to Photobucket your old pictures cannot be recovered from deleted accounts as they will be completely erased from their servers.",
-        "notes_tr": "Hesabınızı silmek için bir e-posta göndermeniz gerekecek. Photobucket desteği, doğrulama amacıyla bazı bilgiler gerektirecektir. Bunlar, kullanıcı adınızı, e-posta adresinizi, tam adınızı, dob'u, posta kodunuzu ve hesabınızı kaydettiğiniz ülkeyi ve hesabınızdaki birkaç resmin açıklamasını içerir. Yanıtınızdan sonra personel 48 saat içinde hesabınızı silecektir. Photobucket'a göre eski resimleriniz, sunucularından tamamen silinecekleri için silinmiş hesaplardan kurtarılamaz.",
-        "notes_it": "Per eliminare il tuo account dovrai mandare una mail a support@photobucket.com. La mail deve essere scritta in inglese. Lo staff richiederàil vostro nome utente, indirizzo email, il nome completo, data di nascita, codice postale e paese dal quale avete registrato il vostro account e una descrizione di alcune immagini caricate. L'account verrà cancellato nel giro di 48 ore. Una volta eliminate le immagini non possono essere recuperate in quanto verranno cancellate dai loro servers.",
+        "notes": "To delete your account, you must <a href=\"https://support.photobucket.com/hc/en-us/requests/new\">open a support ticket</a> and provide your username, email address, full name, dob, the postal code and country from where you registered for verification. According to Photobucket, account deletion takes up to 30 days, and your old pictures cannot be recovered from deleted accounts as they will be completely erased from their servers.",
         "domains": [
             "photobucket.com"
         ]
