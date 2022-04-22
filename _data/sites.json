@@ -5447,6 +5447,16 @@
             "humblebundle.com"
         ]
     },
+    
+    {
+        "name": "Humble Bundle",
+        "url": "https://support.humblebundle.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You will need to submit a request to support for account deletion. In the linked page under \"What can we help you with?\" select \"Humbe Bundle Account\" > \"Delete Account\", fill in your email, enter \"Account deletion\" as subject, add your honest reason for account deletion in the message, and submit. Someone from support should contact you and ask for some proof that you own the account. Once you have provided proof then your account should be deleted.",
+        "domains": [
+            "humblebundle.com"
+        ]
+    },
 
     {
         "name": "Ibotta",
