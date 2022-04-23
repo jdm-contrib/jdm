@@ -33,7 +33,7 @@ $(function(){
             var siteUrl = siteHeader.href.toLowerCase();
             var lowerTerm = term.toLowerCase();
 
-            // returns true if lowerTerm isn"t found in site title or URL
+            // returns true if lowerTerm isn't found in site title or URL
             return Math.max(siteTitle.indexOf(lowerTerm), siteUrl.indexOf(lowerTerm)) === -1;
         });
 
@@ -103,6 +103,16 @@ $(function(){
     $("input").on("input", function(){
         window.clearTimeout(hashUpdateTimer);
         hashUpdateTimer = setTimeout(setWindowHash, 250, $(this).val());
+    });
+
+    // When the user hits enter while in the search bar, update the hash immediately and clear the
+    // debounce timeout
+    $("input").on("keypress", function(e) {
+        var code = e.keyCode || e.which;
+        if (code === 13) { // Enter key
+            window.clearTimeout(hashUpdateTimer);
+            setWindowHash($(this).val());
+        }
     });
 
     // Call updateSearch when hash changes
