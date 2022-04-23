@@ -6150,11 +6150,9 @@
 
     {
         "name": "Kongregate",
-        "url": "https://www.kongregate.com/forums/7/topics/241772?page=1#posts-5207538",
-        "difficulty": "hard",
-        "notes": "You are unable to remove an account, but they can permanently ban your account upon request. They will remove stored information upon request as well, such as e-mail address, developer payment information, and stored payment information.",
-        "notes_tr": "Bir hesabı kaldıramazsınız, ancak istek üzerine hesabınızı kalıcı olarak yasaklayabilirler. E-posta adresi, geliştirici ödeme bilgileri ve saklanan ödeme bilgileri gibi bilgileri de istek üzerine kaldıracaklar.",
-        "email": "support@kongregate.com",
+        "url": "https://kong.zendesk.com/hc/en-us/articles/360049211251-How-to-delete-your-account",
+        "difficulty": "medium",
+        "notes": "Visit the linked page and follow the instructions to delete your account.",
         "domains": [
             "kongregate.com"
         ]
