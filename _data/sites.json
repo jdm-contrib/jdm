@@ -5425,8 +5425,7 @@
         "name": "Humble Bundle",
         "url": "https://dsar.humblebundle.com",
         "difficulty": "medium",
-        "notes": "You must submit a Data Subject Request at their <a href=\"https://dsar.humblebundle.com/\">DSAR Privacy Portal</a> to request account deletion.",
-        "notes_tr": "You must submit a Data Subject Request at their DSAR Privacy Portal to request account deletion.",
+        "notes": "The easiest method is to submit a Data Subject Access Request at their <a href=\"https://dsar.humblebundle.com/\">DSAR Privacy Portal</a> to request account deletion. Alternatively, you can also <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\">submit a support request</a> for account deletion. In the linked page under \"What can we help you with?\" select \"Humble Bundle Account\" > \"Delete Account\", fill in your email, enter \"Account deletion\" as subject, add your honest reason for account deletion in the message, and submit. Someone from support should contact you and guide you further.",
         "domains": [
             "humblebundle.com"
         ]
