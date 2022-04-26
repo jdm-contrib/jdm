@@ -2057,9 +2057,8 @@
     {
         "name": "Chess.com",
         "url": "https://chess.com/settings/close-account",
-        "difficulty": "impossible",
-        "notes": "Your account will not be deleted but disabled.",
-        "notes_tr": "Hesabınız silinmeyecek ancak devre dışı bırakılacak.",
+        "difficulty": "medium",
+        "notes": "Visit the linked page. Scroll to the \"Right To Be Forgotten\" section, enter your username, then click 'Delete'. If you wish for your comments and public posts to be deleted, you must remove them individually before deleting your account.",
         "domains": [
             "chess.com"
         ]
@@ -2442,6 +2441,16 @@
         "notes_fr": "Il est seulement possible de désactiver le frais de renouvellement automatique. Lorsque le renouvellement sera désactivé vos étoiles seront remis à 0.",
         "domains": [
             "chefcookit.com"
+        ]
+    },
+
+    {
+        "name": "Coub",
+        "url": "https://coub.com/account/edit",
+        "difficulty": "easy",
+        "notes": "Visit the linked page. From the left column, select your username. Scroll to the bottom of the page and click \"Delete Account\".",
+        "domains": [
+            "coub.com"
         ]
     },
 
@@ -5430,6 +5439,17 @@
         "email": "accountsupport@ibotta.com",
         "domains": [
             "ibotta.com"
+        ]
+    },
+
+    {
+        "name": "Icontem",
+        "url": "https://accounts.icontem.com/remove",
+        "difficulty": "easy",
+        "domains": [
+            "icontem.com",
+            "phpclasses.org",
+            "jsclasses.org"
         ]
     },
 
@@ -8847,17 +8867,6 @@
     },
 
     {
-        "name": "PHP Classes",
-        "url": "https://www.phpclasses.org/faq/#delete-account",
-        "difficulty": "impossible",
-        "notes": "They refuse to delete accounts from the site.",
-        "notes_tr": "Hesap silmeyi reddediyorlar.",
-        "domains": [
-            "phpclasses.org"
-        ]
-    },
-
-    {
         "name": "Picasa",
         "url": "http://picasaweb.google.com",
         "difficulty": "impossible",
@@ -9783,6 +9792,7 @@
             "resumegenius.com"
         ]
     },
+
     {
         "name": "Retrospring",
         "url": "https://retrospring.net/settings/account",
@@ -10107,6 +10117,7 @@
             "scratch.mit.edu"
         ]
     },
+
     {
         "name": "Scribd",
         "url": "https://www.scribd.com/account_settings/preferences",
@@ -11323,6 +11334,18 @@
             "tosdr.org"
         ]
     },
+
+    {
+        "name": "TerraCycle",
+        "url": "https://help.us.terracycle.com/hc/en-us/articles/360060676652-How-can-I-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "You must contact customer support through email or by phone at +1(866)967-6766.",
+        "email": "customersupport@terracycle.com",
+        "domains": [
+            "terracycle.com"
+        ]
+    },
+
     {
         "name": "Teuxdeux",
         "url": "https://teuxdeux.com/account/request-delete",
@@ -11414,6 +11437,7 @@
             "ticketmaster.com"
         ]
     },
+
     {
         "name": "TickTick",
         "url": "https://support.ticktick.com/hc/en-us/articles/360011759031",
@@ -11424,6 +11448,7 @@
             "ticktick.com"
         ]
     },
+
     {
         "name": "Tidal",
         "url": "https://support.tidal.com/hc/en-us/requests/new",
