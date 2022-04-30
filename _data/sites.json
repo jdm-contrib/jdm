@@ -12381,13 +12381,13 @@
     },
 
     {
-        "name": "Walmart",
-        "url": "https://help.walmart.com/app/answers/detail/a_id/230/~/how-to-close-your-walmart.com-account",
+        "name": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/contact-us",
         "difficulty": "hard",
         "notes": "Contact customer service to close your account.",
         "notes_tr": "Hesabınızı kapatmak için müşteri hizmetleriyle iletişime geçin.",
         "domains": [
-            "walmart.com"
+            "walmart.ca"
         ]
     },
 
