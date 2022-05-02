@@ -5432,6 +5432,16 @@
     },
 
     {
+        "name": "Hypixel Forums",
+        "url": "https://hypixel.net/data-request",
+        "difficulty": "hard",
+        "notes": "Complete the form on the linked page. They require some PII such as name, address, and a government-issued ID.",
+        "domains": [
+            "hypixel.net"
+        ]
+    },
+
+    {
         "name": "Ibotta",
         "url": "https://help.ibotta.com/hc/en-us/articles/225528727-How-Do-I-Cancel-My-Ibotta-Account-",
         "difficulty": "hard",
@@ -6923,8 +6933,10 @@
 
     {
         "name": "MediaFire",
-        "url": "https://www.mediafire.com/myaccount/accountbilling.php",
-        "difficulty": "easy",
+        "url": "https://www.mediafire.com/policies/data_deletion.php",
+        "difficulty": "hard",
+        "notes": "Send an email and request account deletion.",
+        "email": "privacy@mediafire.com",
         "domains": [
             "mediafire.com"
         ]
