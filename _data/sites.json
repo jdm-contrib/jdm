@@ -13116,5 +13116,17 @@
         "domains": [
             "ciceksepeti.com"
         ]
+    },
+    
+    {
+        "name": "QIWI Wallet",
+        "url": "https://qiwi.com/support/security/subject21/udalit-qiwi-koshelek",
+        "difficulty": "medium",
+        "notes": "If you want to delete the wallet, then log in to your QIWI Wallet and fill out the form below, which will be available after authorization.",
+        "notes_ru": "Если вы хотите удалить кошелек, то авторизуйтесь в QIWI Кошельке и заполните форму ниже, которая будет доступна после авторизации.",
+        "domains": [
+            "qiwi.com"
+        ]
     }
+    
 ]
