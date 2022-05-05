@@ -12788,6 +12788,17 @@
     },
 
     {
+        "meta": "popular",
+        "name": "WordPress.org",
+        "url": "https://wordpress.org/about/privacy/data-erasure-request",
+        "difficulty": "impossible",
+        "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data <a href='https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account'>https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account</a>",
+        "domains": [
+            "wordpress.org"
+        ]
+    },
+
+    {
         "name": "workupload",
         "url": "https://workupload.com/contact",
         "difficulty": "hard",
