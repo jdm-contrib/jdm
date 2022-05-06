@@ -313,6 +313,19 @@
     },
 
     {
+        "name": "AdFoc.us",
+        "url": "https://adfoc.us/tickets/",
+        "difficulty": "hard",
+        "notes": "Contact customer support using the ticket form or by email to request account erasure. They are known to be very slow to delete accounts, but they will eventually, and you probably will not be notified when it happens.",
+        "email": "support@adfoc.us",
+        "email_body": "Please delete my AdFoc.us account registered under this email address.",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "adfoc.us"
+        ]
+    },
+
+    {
         "name": "AdGuard",
         "url": "https://my.adguard.com/en/settings.html#delete",
         "difficulty": "easy",
