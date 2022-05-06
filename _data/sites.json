@@ -3199,6 +3199,17 @@
     },
 
     {
+        "name": "DreamHost",
+        "url": "https://panel.dreamhost.com/index.cgi?tree=support.msg",
+        "difficulty": "hard",
+        "notes": "Contact customer support using the customer service form or privacy contact email.",
+        "email": "privacypolicy@dreamhost.com",
+        "domains": [
+            "dreamhost.com"
+        ]
+    },
+
+    {
         "name": "Dreamstime",
         "url": "https://www.dreamstime.com/account/edit-profile",
         "difficulty": "easy",
