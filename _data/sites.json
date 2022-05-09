@@ -9658,6 +9658,16 @@
     },
 
     {
+        "name": "rebuy",
+        "url": "https://www.rebuy.de/my/personal-data",
+        "difficulty": "easy",
+        "notes_de": "Nachdem sie auf der 'Mein Konto' -> 'Persönliche Daten' Seite sind, ist ganz unten ein 'Konto löschen' Button",
+        "domains": [
+            "rebuy.de"
+        ]
+    },
+
+    {
         "name": "RecargaPay",
         "url": "https://recargapay.com.br/user/close-account",
         "difficulty": "impossible",
