@@ -313,6 +313,19 @@
     },
 
     {
+        "name": "AdFoc.us",
+        "url": "https://adfoc.us/tickets/",
+        "difficulty": "hard",
+        "notes": "Contact customer support using the ticket form or by email to request account erasure. They are known to be very slow to delete accounts, but they will eventually, and you probably will not be notified when it happens.",
+        "email": "support@adfoc.us",
+        "email_body": "Please delete my AdFoc.us account registered under this email address.",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "adfoc.us"
+        ]
+    },
+
+    {
         "name": "AdGuard",
         "url": "https://my.adguard.com/en/settings.html#delete",
         "difficulty": "easy",
@@ -5432,6 +5445,16 @@
     },
 
     {
+        "name": "Hypixel Forums",
+        "url": "https://hypixel.net/data-request",
+        "difficulty": "hard",
+        "notes": "Complete the form on the linked page. They require some PII such as name, address, and a government-issued ID.",
+        "domains": [
+            "hypixel.net"
+        ]
+    },
+
+    {
         "name": "Ibotta",
         "url": "https://help.ibotta.com/hc/en-us/articles/225528727-How-Do-I-Cancel-My-Ibotta-Account-",
         "difficulty": "hard",
@@ -6923,8 +6946,10 @@
 
     {
         "name": "MediaFire",
-        "url": "https://www.mediafire.com/myaccount/accountbilling.php",
-        "difficulty": "easy",
+        "url": "https://www.mediafire.com/policies/data_deletion.php",
+        "difficulty": "hard",
+        "notes": "Send an email and request account deletion.",
+        "email": "privacy@mediafire.com",
         "domains": [
             "mediafire.com"
         ]
@@ -9416,6 +9441,17 @@
         "notes_tr": "\"Hesabı Sil\" \"PyPI hesabınızı silin\" tuşuna basın.",
         "domains": [
             "pypi.org"
+        ]
+    },
+
+    {
+        "name": "QIWI Wallet",
+        "url": "https://qiwi.com/support/security/subject21/udalit-qiwi-koshelek",
+        "difficulty": "medium",
+        "notes": "If you want to delete the wallet, then log in to your QIWI Wallet and fill out the form below, which will be available after authorization.",
+        "notes_ru": "Если вы хотите удалить кошелек, то авторизуйтесь в QIWI Кошельке и заполните форму ниже, которая будет доступна после авторизации.",
+        "domains": [
+            "qiwi.com"
         ]
     },
 
@@ -12782,6 +12818,17 @@
         "notes_ru": "Вы можете навсегда закрыть свою учетную запись WordPress.com с экрана настроек вашей учетной записи, нажав на «Закрыть учетную запись навсегда»",
         "domains": [
             "wordpress.com"
+        ]
+    },
+
+    {
+        "meta": "popular",
+        "name": "WordPress.org",
+        "url": "https://wordpress.org/about/privacy/data-erasure-request",
+        "difficulty": "impossible",
+        "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data <a href='https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account'>https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account</a>",
+        "domains": [
+            "wordpress.org"
         ]
     },
 
