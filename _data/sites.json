@@ -8188,17 +8188,6 @@
     },
 
     {
-        "name": "NPM Forum",
-        "url": "https://npm.community",
-        "difficulty": "easy",
-        "notes": "Login to your account, click on your avatar then click on username and select 'Preferences'. In the bottom page click on 'Delete My Account' and confirm the deletion.",
-        "notes_tr": "Hesabınıza giriş yapın, avatarınıza tıklayın, ardından kullanıcı adına tıklayın ve \"Seçenekler\" seçeneğini seçin. Alt sayfada \"Hesabımı Sil\" tuşuna tıklayın ve silme işlemini onaylayın.",
-        "domains": [
-            "npm.community"
-        ]
-    },
-
-    {
         "name": "NS1",
         "url": "https://ns1.com",
         "difficulty": "hard",
