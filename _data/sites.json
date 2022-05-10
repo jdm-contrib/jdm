@@ -3199,6 +3199,17 @@
     },
 
     {
+        "name": "DreamHost",
+        "url": "https://panel.dreamhost.com/index.cgi?tree=support.msg",
+        "difficulty": "hard",
+        "notes": "Contact customer support using the customer service form or privacy contact email.",
+        "email": "privacypolicy@dreamhost.com",
+        "domains": [
+            "dreamhost.com"
+        ]
+    },
+
+    {
         "name": "Dreamstime",
         "url": "https://www.dreamstime.com/account/edit-profile",
         "difficulty": "easy",
@@ -10808,14 +10819,12 @@
 
     {
         "name": "Starbucks",
-        "url": "https://customerservice.starbucks.com/app/contact/ask_starbucks_website/",
-        "difficulty": "impossible",
-        "notes": "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”.",
-        "notes_tr": "Hesabınızı silmeyecekler, ancak talep üzerine 'e-postaları almayacağınız ve bilgilerinizin hiçbiri potansiyel sahtekarlık için [onlar] tarafından kullanılamayacak şekilde tüm bilgilerinizi karıştırabilirler'.",
-        "notes_it": "Non elimineranno il tuo account ma su richiesta potranno cancellare tutte le tue informazioni.",
-        "notes_pt_br": "Eles não irão deletar sua conta mas mediante pedido eles podem “bagunçar todas suas informações para que você não receba e-mails e nenhuma informação sua esteja disponível a [eles] potenciais fraudes”.",
-        "notes_cat": "No poden esborrar el compte, pero si ho demanes poden “esborrar tota la seva informació per tal de no rebre e-mails i cap de les teves informacions estigui disponibl a [ells] per potencials accions fraudulentes.”.",
-        "notes_es": "No pueden borrar la cuenta, pero si lo pides pueden «borrar toda su información para no recibir e-mails y ninguna de tus informaciones estén disponibles para [ellos] potenciales acciones fraudulentas»",
+        "url": "https://www.starbucks.com/terms/privacy-policy/#contact_us",
+        "difficulty": "hard",
+        "notes": "US and Canadian users: Select the correct privacy form to submit your request. All others must send an email.",
+        "email": "privacy@starbucks.com",
+        "email_body": "I request deletion of my Starbucks account.",
+        "email_subject": "Account Deletion Request",
         "domains": [
             "starbucks.com"
         ]
