@@ -12416,12 +12416,22 @@
 
     {
         "name": "Walmart",
-        "url": "https://help.walmart.com/app/answers/detail/a_id/230/~/how-to-close-your-walmart.com-account",
+        "url": "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=access",
+        "difficulty": "hard",
+        "notes": "Only possible for California residents.",
+        "domains": [
+            "walmart.com"
+        ]
+    },
+
+    {
+        "name": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/contact-us",
         "difficulty": "hard",
         "notes": "Contact customer service to close your account.",
         "notes_tr": "Hesabınızı kapatmak için müşteri hizmetleriyle iletişime geçin.",
         "domains": [
-            "walmart.com"
+            "walmart.ca"
         ]
     },
 
