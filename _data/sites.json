@@ -12066,7 +12066,7 @@
 
     {
         "name": "UPS",
-        "url": "https://www.ups.com/myups/deletereg",
+        "url": "https://wwwapps.ups.com/ppc/ppc.html?loc=en_US#/informationPage/deleteProfile",
         "difficulty": "easy",
         "domains": [
             "ups.com"
