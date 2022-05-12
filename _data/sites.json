@@ -4255,6 +4255,18 @@
     },
 
     {
+        "name": "Freshping",
+        "url": "https://freshping.io",
+        "difficulty": "easy",
+        "notes": "Go to https://DOMAIN.freshping.io/settings/account (replace DOMAIN with your Freshping domain), scroll to the bottom of the page and press the \"Delete account\" button, then \"Yes, Proceed\" on the pop-up.",
+        "notes_pt_br": "Navegue para https://DOMINIO.freshping.io/settings/account (substitua DOMINIO com o seu domínio do Freshping), no final da página encontrará um botão para apagar a conta, confirme no pop-up que aparece em seguida.",
+        "domains": [
+            "freshping.io",
+            "freshworks.com"
+        ]
+    },    
+
+    {
         "name": "Fruux",
         "url": "https://fruux.com/account/login/",
         "difficulty": "easy",
