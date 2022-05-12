@@ -9661,6 +9661,7 @@
         "name": "rebuy",
         "url": "https://www.rebuy.de/my/personal-data",
         "difficulty": "easy",
+        "notes": "At the bottom of your Account/personal-data page should be a button to delete your account",
         "notes_de": "Nachdem sie auf der 'Mein Konto' -> 'Persönliche Daten' Seite sind, ist ganz unten ein 'Konto löschen' Button",
         "domains": [
             "rebuy.de"
