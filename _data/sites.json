@@ -815,6 +815,16 @@
     },
 
     {
+        "name": "Arduino",
+        "url": "https://id.arduino.cc/",
+        "difficulty": "medium",
+        "notes": "Visit the linked page and under 'Account Settings', click the link next to 'If you wish to delete your Arduino account'. You will be sent an email with a link to delete your account.",
+        "domains": [
+            "arduino.cc"
+        ]
+    },
+
+    {
         "name": "ArmorGames",
         "url": "https://armorgames.com/settings/delete-account",
         "difficulty": "easy",
