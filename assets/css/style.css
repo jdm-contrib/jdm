@@ -40,6 +40,10 @@ nav {
     cursor: pointer;
 }
 
+.language-switch .icon {
+    align-self: center;
+}
+
 .language-dropdown {
     height: 100%;
     position: fixed;
