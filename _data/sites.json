@@ -2102,6 +2102,16 @@
     },
 
     {
+        "name": "ClevGuard",
+        "url": "https://www.clevguard.com/account-faq/",
+        "difficulty": "impossible",
+        "notes": "Site currently does not allow for accounts to be deleted.",
+        "domains": [
+            "clevguard.com"
+        ]
+    },
+
+    {
         "name": "ClickAndBuy",
         "url": "http://clickandbuy.com/faqs",
         "difficulty": "easy",
