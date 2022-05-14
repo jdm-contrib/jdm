@@ -2648,6 +2648,19 @@
     },
 
     {
+        "name": "cTrader",
+        "url": "https://help.ctrader.com/ctrader-id/delete",
+        "difficulty": "hard",
+        "email": "community@spotware.com",
+        "email_subject": "cTrader account deletion request",
+        "email_body": "Please delete my cTrader account that uses the e-mail XXXXX and the passport is YYYYY.",
+        "notes": "You need to contact customer support and they will ask for very sensitive information such as your passport number.",
+        "domains": [
+            "ctrader.com"
+        ]
+    },
+
+    {
         "name": "Curve",
         "url": "https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account",
         "difficulty": "medium",
