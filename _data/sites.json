@@ -313,6 +313,19 @@
     },
 
     {
+        "name": "AdFoc.us",
+        "url": "https://adfoc.us/tickets/",
+        "difficulty": "hard",
+        "notes": "Contact customer support using the ticket form or by email to request account erasure. They are known to be very slow to delete accounts, but they will eventually, and you probably will not be notified when it happens.",
+        "email": "support@adfoc.us",
+        "email_body": "Please delete my AdFoc.us account registered under this email address.",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "adfoc.us"
+        ]
+    },
+
+    {
         "name": "AdGuard",
         "url": "https://my.adguard.com/en/settings.html#delete",
         "difficulty": "easy",
@@ -3182,6 +3195,17 @@
         "difficulty": "easy",
         "domains": [
             "drawpile.net"
+        ]
+    },
+
+    {
+        "name": "DreamHost",
+        "url": "https://panel.dreamhost.com/index.cgi?tree=support.msg",
+        "difficulty": "hard",
+        "notes": "Contact customer support using the customer service form or privacy contact email.",
+        "email": "privacypolicy@dreamhost.com",
+        "domains": [
+            "dreamhost.com"
         ]
     },
 
@@ -8164,17 +8188,6 @@
     },
 
     {
-        "name": "NPM Forum",
-        "url": "https://npm.community",
-        "difficulty": "easy",
-        "notes": "Login to your account, click on your avatar then click on username and select 'Preferences'. In the bottom page click on 'Delete My Account' and confirm the deletion.",
-        "notes_tr": "Hesabınıza giriş yapın, avatarınıza tıklayın, ardından kullanıcı adına tıklayın ve \"Seçenekler\" seçeneğini seçin. Alt sayfada \"Hesabımı Sil\" tuşuna tıklayın ve silme işlemini onaylayın.",
-        "domains": [
-            "npm.community"
-        ]
-    },
-
-    {
         "name": "NS1",
         "url": "https://ns1.com",
         "difficulty": "hard",
@@ -9428,6 +9441,17 @@
         "notes_tr": "\"Hesabı Sil\" \"PyPI hesabınızı silin\" tuşuna basın.",
         "domains": [
             "pypi.org"
+        ]
+    },
+
+    {
+        "name": "QIWI Wallet",
+        "url": "https://qiwi.com/support/security/subject21/udalit-qiwi-koshelek",
+        "difficulty": "medium",
+        "notes": "If you want to delete the wallet, then log in to your QIWI Wallet and fill out the form below, which will be available after authorization.",
+        "notes_ru": "Если вы хотите удалить кошелек, то авторизуйтесь в QIWI Кошельке и заполните форму ниже, которая будет доступна после авторизации.",
+        "domains": [
+            "qiwi.com"
         ]
     },
 
@@ -10784,14 +10808,12 @@
 
     {
         "name": "Starbucks",
-        "url": "https://customerservice.starbucks.com/app/contact/ask_starbucks_website/",
-        "difficulty": "impossible",
-        "notes": "They will not delete your account but upon request they can “scramble all of your information so that you don’t receive emails and none of your information is available to [them] for potential fraud”.",
-        "notes_tr": "Hesabınızı silmeyecekler, ancak talep üzerine 'e-postaları almayacağınız ve bilgilerinizin hiçbiri potansiyel sahtekarlık için [onlar] tarafından kullanılamayacak şekilde tüm bilgilerinizi karıştırabilirler'.",
-        "notes_it": "Non elimineranno il tuo account ma su richiesta potranno cancellare tutte le tue informazioni.",
-        "notes_pt_br": "Eles não irão deletar sua conta mas mediante pedido eles podem “bagunçar todas suas informações para que você não receba e-mails e nenhuma informação sua esteja disponível a [eles] potenciais fraudes”.",
-        "notes_cat": "No poden esborrar el compte, pero si ho demanes poden “esborrar tota la seva informació per tal de no rebre e-mails i cap de les teves informacions estigui disponibl a [ells] per potencials accions fraudulentes.”.",
-        "notes_es": "No pueden borrar la cuenta, pero si lo pides pueden «borrar toda su información para no recibir e-mails y ninguna de tus informaciones estén disponibles para [ellos] potenciales acciones fraudulentas»",
+        "url": "https://www.starbucks.com/terms/privacy-policy/#contact_us",
+        "difficulty": "hard",
+        "notes": "US and Canadian users: Select the correct privacy form to submit your request. All others must send an email.",
+        "email": "privacy@starbucks.com",
+        "email_body": "I request deletion of my Starbucks account.",
+        "email_subject": "Account Deletion Request",
         "domains": [
             "starbucks.com"
         ]
@@ -12033,7 +12055,7 @@
 
     {
         "name": "UPS",
-        "url": "https://www.ups.com/myups/deletereg",
+        "url": "https://wwwapps.ups.com/ppc/ppc.html?loc=en_US#/informationPage/deleteProfile",
         "difficulty": "easy",
         "domains": [
             "ups.com"
@@ -12394,12 +12416,22 @@
 
     {
         "name": "Walmart",
-        "url": "https://help.walmart.com/app/answers/detail/a_id/230/~/how-to-close-your-walmart.com-account",
+        "url": "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=access",
+        "difficulty": "hard",
+        "notes": "Only possible for California residents.",
+        "domains": [
+            "walmart.com"
+        ]
+    },
+
+    {
+        "name": "Walmart Canada",
+        "url": "https://www.walmart.ca/en/help/contact-us",
         "difficulty": "hard",
         "notes": "Contact customer service to close your account.",
         "notes_tr": "Hesabınızı kapatmak için müşteri hizmetleriyle iletişime geçin.",
         "domains": [
-            "walmart.com"
+            "walmart.ca"
         ]
     },
 
