@@ -8918,8 +8918,9 @@
 
     {
         "name": "PhishTank",
-        "url": "https://www.phishtank.com",
-        "difficulty": "impossible",
+        "url": "https://privacyrequest.cisco.com",
+        "difficulty": "hard",
+        "notes": "Select \"Phishtank\" under \"Account(s) or Service(s) of interest\"",
         "domains": [
             "phishtank.com"
         ]
