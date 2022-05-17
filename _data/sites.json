@@ -8920,7 +8920,7 @@
         "name": "PhishTank",
         "url": "https://privacyrequest.cisco.com",
         "difficulty": "hard",
-        "notes": "Select \"Phishtank\" under \"Account(s) or Service(s) of interest\"",
+        "notes": "Select \"Phishtank\" under \"Account(s) or Service(s) of interest\" and specify in request details that you wish to delete your account.",
         "domains": [
             "phishtank.com"
         ]
