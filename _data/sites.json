@@ -278,6 +278,19 @@
     },
 
     {
+        "name": "Activision",
+        "url": "https://support.activision.com/privacy",
+        "difficulty": "hard",
+        "email": "privacy@activision.com",
+        "notes": "You must sign in to each login provider to have that associated data deleted.",
+        "domains": [
+            "activision.com",
+            "s.activision.com",
+            "callofduty.com",
+            "profile.callofduty.com"
+        ]
+    },
+    {
         "name": "Ada",
         "url": "https://ada.com/help/360000319269/",
         "difficulty": "easy",
@@ -1713,11 +1726,10 @@
 
     {
         "name": "Bungie.net",
-        "url": "https://www.bungie.net/en-US/Forum/Post/66636671/0/0",
-        "difficulty": "impossible",
-        "notes": "TL;DR you can't do it. Discussion at <a href=\"https://www.bungie.net/en-US/Forums/Post/66636671\">https://www.bungie.net/en-US/Forums/Post/66636671</a>",
-        "notes_tr": "Kısacası: Silemezsiniz. Bağlantıdaki tartışmaya göz atabilirsiniz.",
-        "notes_pl": "TL;DR: nie możesz tego zrobić. Dyskusja na <a href=\"https://www.bungie.net/en-US/Forums/Post/66636671\">https://www.bungie.net/en-US/Forums/Post/66636671</a>",
+        "url": "https://help.bungie.net/hc/requests/new",
+        "difficulty": "hard",
+        "email": "privacyrequests@bungie.com",
+        "notes": "Send an email or fill out either the \"GDPR Request\" or \"Right to Know or Delete\" form.",
         "domains": [
             "bungie.net"
         ]
@@ -1833,19 +1845,6 @@
         "difficulty": "impossible",
         "domains": [
             "cakereader.com"
-        ]
-    },
-
-    {
-        "name": "Call of Duty (Activision)",
-        "url": "https://www.callofduty.com",
-        "difficulty": "impossible",
-        "notes": "'There is no way to close or shut down an account.'",
-        "notes_tr": "Hesabı kapatmanın veya durdurmanın bir yolu yok.",
-        "notes_pl": "Nie ma możliwości zamknięcia konta.",
-        "notes_fr": "Il n'y a pas de façon de supprimer les comptes.",
-        "domains": [
-            "callofduty.com"
         ]
     },
 
@@ -11231,9 +11230,9 @@
 
     {
         "name": "Target",
-        "url": "https://contactus.target.com/",
-        "notes": "Target cannot delete your account, but they can disable it with the option to reenable later. The best you can do is to remove all personal information from the account, then contact Target to disable it. You may also wish to change the account's email to a temporary email address, and then forget this address when your Target account is disabled. Log in, scroll to the bottom, select 'Help' > 'Contact Us' > 'Target.com Order Experience'. This will allow you to chat, email, or call a customer service representative. Tell the rep you wish to disable your account.",
-        "difficulty": "impossible",
+        "url": "https://www.target.com/ccpa-intake-form",
+        "notes": "Select \"Delete your personal info and Target.com account\"",
+        "difficulty": "hard",
         "domains": [
             "target.com"
         ]
