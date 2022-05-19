@@ -8918,8 +8918,9 @@
 
     {
         "name": "PhishTank",
-        "url": "https://www.phishtank.com",
-        "difficulty": "impossible",
+        "url": "https://privacyrequest.cisco.com",
+        "difficulty": "hard",
+        "notes": "Select \"Phishtank\" under \"Account(s) or Service(s) of interest\" and specify in request details that you wish to delete your account.",
         "domains": [
             "phishtank.com"
         ]
@@ -12782,6 +12783,7 @@
             "windscribe.com"
         ]
     },
+
     {
         "name": "Wine HQ",
         "url": "https://forum.winehq.org/viewtopic.php?p=136023",
@@ -12790,6 +12792,16 @@
         "email": "web-admin@winehq.org",
         "domains": [
             "winehq.org"
+        ]
+    },
+
+    {
+        "name": "Wire",
+        "url": "https://support.wire.com/hc/en-us/articles/207555795-Delete-a-Wire-Personal-account",
+        "difficulty": "medium",
+        "notes": "On Windows/MacOS : Go Settings > Account > Delete Account And on mobile devices Tap Profile > Settings > Account > Delete Account. You will receive a SMS to confirm the deletion.",
+        "domains": [
+            "wire.com"
         ]
     },
 
