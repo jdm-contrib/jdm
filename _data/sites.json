@@ -9480,6 +9480,19 @@
     },
 
     {
+        "name": "PxHere",
+        "url": "https://pxhere.com/my/settings",
+        "difficulty": "hard",
+        "notes": "You must email support to delete your account.",
+        "email": "pxhere.com@gmail.com",
+        "email_body": "Please delete my PxHere account registered under this email address.",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "pxhere.com"
+        ]
+    }
+
+    {
         "name": "Python Package Index (PyPI)",
         "url": "https://pypi.org/manage/account/",
         "difficulty": "easy",
