@@ -8578,6 +8578,16 @@
     },
 
     {
+        "name": "Oxford Dictionaries API",
+        "url": "https://developer.oxforddictionaries.com/contact-us",
+        "notes": "Contact the customer support using the contact form and request the deletion of your account.",
+        "difficulty": "hard",
+        "domains": [
+            "developer.oxforddictionaries.com"
+        ]
+    },
+
+    {
         "name": "Packagist",
         "url": "https://packagist.org/profile/",
         "difficulty": "easy",
