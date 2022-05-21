@@ -4391,6 +4391,16 @@
     },
 
     {
+        "name": "GameFront",
+        "url": "https://www.gamefront.com/account/delete",
+        "difficulty": "impossible",
+        "notes": "Although the site claims to allow account deletion, it was not functional at the time of writing, instead returning a 500 status code (Internal Server Error). They claim that they will refuse to delete accounts through any other means.",
+        "domains": [
+            "www.gamefront.com"
+        ]
+    },
+
+    {
         "name": "GameGleam",
         "url": "https://www.gamegleam.com",
         "difficulty": "hard",
