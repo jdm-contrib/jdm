@@ -1008,6 +1008,16 @@
     },
 
     {
+        "name": "AV Club",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "avclub.com"
+        ]
+    },
+
+    {
         "name": "Avast!",
         "url": "https://profile.avast.com/",
         "difficulty": "easy",
@@ -1016,16 +1026,6 @@
         "notes_tr": "Giriş yapın, \"Profil Detayları\" sekmesine gidin ve kolayca \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "avast.com"
-        ]
-    },
-
-    {
-        "name": "AV Club",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "avclub.com"
         ]
     },
 
@@ -11427,6 +11427,16 @@
     },
 
     {
+        "name": "The Inventory",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "theinventory.com"
+        ]
+    },
+
+    {
         "name": "The Onion",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
@@ -11463,16 +11473,6 @@
         "notes": "Scroll to the bottom of the linked page, enter your email address and click 'Delete Account'.",
         "domains": [
             "thetvdb.com"
-        ]
-    },
-
-    {
-        "name": "The Inventory",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "theinventory.com"
         ]
     },
 
