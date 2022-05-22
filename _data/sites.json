@@ -5779,6 +5779,16 @@
     },
 
     {
+        "name": "The Inventory",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "theinventory.com"
+        ]
+    },
+
+    {
         "name": "Invidious",
         "url": "https://redirect.invidious.io/preferences",
         "difficulty": "easy",
@@ -8335,6 +8345,16 @@
     },
 
     {
+        "name": "The Onion",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "theonion.com"
+        ]
+    },
+
+    {
         "name": "Online.net",
         "url": "https://console.online.net/fr/assistance/ticket",
         "difficulty": "impossible",
@@ -10001,6 +10021,16 @@
     },
 
     {
+        "name": "The Root",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "theroot.com"
+        ]
+    },
+
+    {
         "name": "Rosetta Stone",
         "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/27aac3ab-c36e-4457-81d4-9773ba27887e/f1e6ce28-8f84-4cae-9bdd-bc40113d5ee0.html",
         "difficulty": "hard",
@@ -11174,6 +11204,16 @@
     },
 
     {
+        "name": "The Takeout",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "thetakeout.com"
+        ]
+    },
+
+    {
         "name": "Tango",
         "url": "https://help.tango.me/en/articles/2985296-how-do-i-delete-my-tango-account",
         "difficulty": "easy",
@@ -11423,46 +11463,6 @@
         "notes": "If you want to permanently delete your Textures.com account, go to the <a href='https://www.textures.com/my-account/delete'><b>Delete Account</b> tab on your account</a> fill out your password and press <b>Delete My Account</b>.",
         "domains": [
             "textures.com"
-        ]
-    },
-
-    {
-        "name": "The Inventory",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "theinventory.com"
-        ]
-    },
-
-    {
-        "name": "The Onion",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "theonion.com"
-        ]
-    },
-
-    {
-        "name": "The Root",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "theroot.com"
-        ]
-    },
-
-    {
-        "name": "The Takeout",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "thetakeout.com"
         ]
     },
 
