@@ -2855,6 +2855,16 @@
     },
 
     {
+        "name": "Deutsche Post",
+        "url": "https://www.dhl.de/content/dpks/de/themenauswahl/kundenservice-formulare/f1b-datenschutz.html",
+        "difficulty": "hard",
+        "notes": "Fill out the form to request erasure.",
+        "domains": [
+            "deutschepost.de"
+        ]
+    },
+
+    {
         "name": "DEV",
         "url": "https://dev.to/settings/account",
         "difficulty": "easy",
@@ -2885,18 +2895,11 @@
 
     {
         "name": "DHL (Paket.de)",
-        "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
-        "difficulty": "impossible",
-        "notes": "There's no information about account-deletion in their FAQ. The hotline also says that account-deletion isn't possible.",
-        "notes_tr": "SSS'larında hesap silme ile ilgili bir bilgi bulunmuyor. \nYardım hattı ayrıca hesap silme işleminin mümkün olmadığını söylüyor.",
-        "notes_fr": "Il n'y a pas d'informations sur la suppresion des comptes dans le FAQ. La ligne directe dit aussi qu'il n'est pas possible de le faire.",
-        "notes_de": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist.",
-        "notes_it": "Nessuna informazione nelle FAQ riguardo la cancellazione dell'account, l'operatore al telefono ha confermato che la cancellazione non è possibile.",
-        "notes_pt_br": "Nenhuma informação no FAQ sobre remoção de contas, o operador no telefone disse que deletar não é possível.",
-        "notes_cat": "No hi ha cap informació al FAQ sobre la cancel·lació de comptes, l'operador telefonic diu que no es poden esborrar els comptes.",
-        "notes_es": "No hay información en el FAQ sobre la cancelación de cuentas, el operador telefónico dice que no se pueden borrar las cuentas.",
+        "url": "https://www.dhl.de/de/toolbar/footer/datenschutz.html",
+        "difficulty": "hard",
+        "notes": "Under \"Rights of data subjects\"/\"Betroffenenrechte\", scroll to the bottom of the section and click on the contact link for DHL Paket GmbH.",
         "domains": [
-            "paket.de"
+            "dhl.de"
         ]
     },
 
