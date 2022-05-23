@@ -1610,6 +1610,17 @@
     },
 
     {
+        "name": "Boots Viewpoint",
+        "url": "https://www.bootsviewpoint.co.uk",
+        "difficulty": "hard",
+        "notes": "Have to contact them, email used was claire@bootsviewpoint.co.uk",
+        "email": "claire@bootsviewpoint.co.uk",
+        "domains": [
+            "claire@bootsviewpoint.co.uk"
+        ]
+    },
+
+    {
         "name": "Bountysource",
         "url": "https://github.com/bountysource/core/issues/409",
         "difficulty": "hard",
