@@ -1008,6 +1008,16 @@
     },
 
     {
+        "name": "AV Club",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "avclub.com"
+        ]
+    },
+
+    {
         "name": "Avast!",
         "url": "https://profile.avast.com/",
         "difficulty": "easy",
@@ -2788,18 +2798,12 @@
     },
 
     {
-        "name": "Deadspin (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Vosté pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrem i continuarem utilitzant qualsevol contingut que hagi enviat al nostre servei.",
-        "notes_es": "«Usted puede parar de usar el servicio en cualquier momento. Nosotros, mantendremos y continuaremos utilizando cualquier contenido que haya enviado a nuestro servicio.»",
+        "name": "Deadspin",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
-            "kinja.com"
+            "deadspin.com"
         ]
     },
 
@@ -4487,23 +4491,6 @@
     },
 
     {
-        "name": "Gawker (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot deixar d'utilitzar el servei en qualsevol moment. Nosaltres, no obstant continuarém fent servir el Contingut que ha enviat.",
-        "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
-        "domains": [
-            "kinja.com"
-        ]
-    },
-
-    {
         "name": "Gearbest",
         "url": "http://wap-support.gearbest.com/ticket/ticket/ticket-add",
         "difficulty": "hard",
@@ -4646,19 +4633,12 @@
     },
 
     {
-        "name": "Gizmodo (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_de": "Du solltest aufhören den Service zu nutzen, ohne uns zu informieren. Wir behalten uns vor, dein Inhalt und deine Daten, die du durch unseren Service hochgeladen hast weiterhin zu nutzen.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar d'utilitzar el servei en qualsevol moment. Nosaltres seguirem fent servir el Contingut que ha enviat al lloc.",
-        "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
+        "name": "Gizmodo",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
-            "kinja.com"
+            "gizmodo.com"
         ]
     },
 
@@ -5799,6 +5779,16 @@
     },
 
     {
+        "name": "The Inventory",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "theinventory.com"
+        ]
+    },
+
+    {
         "name": "Invidious",
         "url": "https://redirect.invidious.io/preferences",
         "difficulty": "easy",
@@ -5829,22 +5819,6 @@
         "notes_tr": "Kaydolduğunuz e-posta adresini belirterek destek formu aracılığıyla talep etmeniz gerekir. Silinen tüm dosyalar geri kurtarılamaz.",
         "domains": [
             "invisionapp.com"
-        ]
-    },
-
-    {
-        "name": "IO9 (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
-        "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
-        "domains": [
-            "kinja.com"
         ]
     },
 
@@ -5937,18 +5911,12 @@
     },
 
     {
-        "name": "Jalopnik (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
-        "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
+        "name": "Jalopnik",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
-            "kinja.com"
+            "jalopnik.com"
         ]
     },
 
@@ -5974,18 +5942,12 @@
     },
 
     {
-        "name": "Jezebel (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
-        "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
+        "name": "Jezebel",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
-            "kinja.com"
+            "jezebel.com"
         ]
     },
 
@@ -6186,16 +6148,10 @@
     },
 
     {
-        "name": "Kinja (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
-        "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
+        "name": "Kinja",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
             "kinja.com"
         ]
@@ -6267,18 +6223,12 @@
     },
 
     {
-        "name": "Kotaku (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
-        "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
+        "name": "Kotaku",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
-            "kinja.com"
+            "kotaku.com"
         ]
     },
 
@@ -6450,18 +6400,12 @@
     },
 
     {
-        "name": "Lifehacker (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
-        "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
+        "name": "Lifehacker",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
-            "kinja.com"
+            "lifehacker.com"
         ]
     },
 
@@ -8401,6 +8345,16 @@
     },
 
     {
+        "name": "The Onion",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "theonion.com"
+        ]
+    },
+
+    {
         "name": "Online.net",
         "url": "https://console.online.net/fr/assistance/ticket",
         "difficulty": "impossible",
@@ -10067,6 +10021,16 @@
     },
 
     {
+        "name": "The Root",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "theroot.com"
+        ]
+    },
+
+    {
         "name": "Rosetta Stone",
         "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/27aac3ab-c36e-4457-81d4-9773ba27887e/f1e6ce28-8f84-4cae-9bdd-bc40113d5ee0.html",
         "difficulty": "hard",
@@ -11240,6 +11204,16 @@
     },
 
     {
+        "name": "The Takeout",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "thetakeout.com"
+        ]
+    },
+
+    {
         "name": "Tango",
         "url": "https://help.tango.me/en/articles/2985296-how-do-i-delete-my-tango-account",
         "difficulty": "easy",
@@ -12212,22 +12186,6 @@
         "email": "learn@uxcel.com",
         "domains": [
             "uxcel.com"
-        ]
-    },
-
-    {
-        "name": "Valleywag (Gawker Media)",
-        "url": "https://web.archive.org/web/20210310103730/https://kinja.zendesk.com/hc/en-us/articles/360004518113-Can-I-delete-my-Kinja-account-",
-        "difficulty": "impossible",
-        "notes": "You may discontinue your use of the Service at any time without informing us. We may, however, retain and continue to use any Content that you have submitted or uploaded through the Service.",
-        "notes_tr": "Servisi bize haber vermeden kullanmayı istediğiniz zaman bırakabilirsiniz. Fakat, Hizmet aracılığıyla gönderdiğiniz veya yüklediğiniz herhangi bir İçeriği saklayabilir ve kullanmaya devam edebiliriz.",
-        "notes_fr": "Vous pouvez arrêter votre usage du service à tout moment sans nous informer. Nous pouvons, cependant, guarder et continuer d'utiliser tous le contenu que vous avez téléchargé par le service.",
-        "notes_it": "Puoi in qualsiasi momento smettere di usare il servizio. Tuttavia noi possiamo comunque accedere a qualsiasi contenuto che hai inviato attraverso il servizio.",
-        "notes_pt_br": "Você pode parar de usar o serviço a qualquer momento. Nós, no entanto, iremos manter e usar qualquer conteúdo enviado por você através do serviço.",
-        "notes_cat": "Pot parar de fer servir el servei en qualsevol moment. Nosaltres, si més no mantindrém i continuarem utilitzant el contingut que ha enviat amb el servei.",
-        "notes_es": "«Puedes dejar de utilizar el servicio en cualquier momento. Nosotros, sin embargo continuaremos usando el contenido que has enviado.»",
-        "domains": [
-            "kinja.com"
         ]
     },
 
