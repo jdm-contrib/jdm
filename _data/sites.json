@@ -11933,6 +11933,15 @@
             "typepad.com"
         ]
     },
+    
+    {
+        "name": "Typing.com",
+        "url": "https://www.typing.com/student/account",
+        "difficulty": "easy",
+        "domains": [
+            "typing.com"
+        ]
+    },
 
     {
         "name": "Uber",
