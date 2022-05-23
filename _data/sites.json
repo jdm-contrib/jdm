@@ -8806,7 +8806,7 @@
         "name": "Pennsylvania Turnpike (Toll By Plate)",
         "url": "https://www.paturnpike.com/help-center#contact-form",
         "difficulty": "hard",
-        "notes": "Fill out the form using the same information that is associated to your account. Alternatively, the account can be closed by calling 877-736-6727.",
+        "notes": "NOT FOR EZPASS ACCOUNTS. Fill out the form using the same information that is associated to your account. Alternatively, the account can be closed by calling 877-736-6727.",
         "domains": [
             "paturnpike.com",
             "www.ezpass.csc.paturnpike.com"
