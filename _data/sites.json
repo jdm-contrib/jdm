@@ -2089,9 +2089,9 @@
 
     {
         "name": "Chess.com",
-        "url": "https://chess.com/settings/close-account",
-        "difficulty": "medium",
-        "notes": "Visit the linked page. Scroll to the \"Right To Be Forgotten\" section, enter your username, then click 'Delete'. If you wish for your comments and public posts to be deleted, you must remove them individually before deleting your account.",
+        "url": "https://chess.com/settings/manage-account",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete Account\" button and follow the instructions.",
         "domains": [
             "chess.com"
         ]
@@ -11931,15 +11931,6 @@
         "difficulty": "easy",
         "domains": [
             "typepad.com"
-        ]
-    },
-    
-    {
-        "name": "Typing.com",
-        "url": "https://www.typing.com/student/account",
-        "difficulty": "easy",
-        "domains": [
-            "typing.com"
         ]
     },
 
