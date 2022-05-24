@@ -8228,6 +8228,17 @@
     },
 
     {
+        "name": "NutraCheck",
+        "url": "https://www.nutracheck.co.uk/",
+        "difficulty": "hard",
+        "notes": "Have to email customer care to ask for account to be deleted",
+        "email": "customercare@nutracheck.co.uk",
+        "domains": [
+            "nutracheck.co.uk"
+        ]
+    },
+
+    {
         "name": "Nvidia",
         "url": "https://www.nvidia.com/en-us/privacy-center/delete-data/",
         "difficulty": "easy",
