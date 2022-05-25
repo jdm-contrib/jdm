@@ -6460,11 +6460,11 @@
 
     {
         "name": "Lingvist",
-        "url": "https://lingvist.helpscoutdocs.com/article/173-i-dont-want-to-pay-delete-my-account",
+        "url": "https://lingvist.com/help/how-to-delete-my-account-and-download-my-data/",
         "email": "hello@lingvist.io",
-        "difficulty": "hard",
-        "notes": "You must contact Lingvist to request account deletion.",
-        "notes_tr": "Hesap silme talebinde bulunmak için Lingvist ile iletişime geçmelisiniz.",
+        "difficulty": "easy",
+        "notes": "You can delete your account via the web or mobile app.",
+        "notes_tr": "Hesabınızı web veya mobil uygulama üzerinden silebilirsiniz.",
         "domains": [
             "lingvist.com"
         ]
