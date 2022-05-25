@@ -6337,7 +6337,7 @@
         "name": "Lenstore",
         "url": "https://www.lenstore.co.uk/contact-us",
         "difficulty": "hard",
-        "notes": "Have to contact them, using the contact us form. Needed to provide my date of birth and phone number linked to my account.",
+        "notes": "Have to contact them, using the contact us form. They require date of birth and phone number linked to account.",
         "domains": [
             "lenstore.co.uk"
         ]
