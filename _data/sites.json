@@ -4408,6 +4408,19 @@
     },
 
     {
+        "name": "Gamefroot",
+        "url": "https://make.gamefroot.com/privacypolicy",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting the developer. The privacy policy references a non-existent deletion link.",
+        "email": "developer@gamefroot.com",
+        "email_body": "Please delete my GameFroot account registered under this email address, and opt me out from receiving any marketing communications.",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "make.gamefroot.com"
+        ]
+    },
+
+    {
         "name": "GameGleam",
         "url": "https://www.gamegleam.com",
         "difficulty": "hard",
