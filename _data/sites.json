@@ -1066,6 +1066,19 @@
     },
 
     {
+        "name": "B&H",
+        "url": "https://www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp",
+        "difficulty": "hard",
+        "notes": "Must send an email or call 800-947-9915.",
+        "email": "privacy@bhphoto.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete my B&H account.",
+        "domains": [
+            "bhphotovideo.com
+        ]
+    },
+
+    {
         "name": "Babbel",
         "url": "https://home.babbel.com/user-profile/settings",
         "difficulty": "medium",
