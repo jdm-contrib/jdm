@@ -2384,6 +2384,16 @@
     },
 
     {
+        "name": "Coin",
+        "url": "https://coinapp.co",
+        "difficulty": "hard",
+        "notes": "Have to contact them, use <a href=\"https://support.coinapp.co/hc/en-us/requests/new\">https://support.coinapp.co/hc/en-us/requests/new</a> and ask for account to be deleted",
+        "domains": [
+            "coinapp.co"
+        ]
+    },
+
+    {
         "name": "Coinbase",
         "url": "https://www.coinbase.com/settings/privacy-rights",
         "difficulty": "medium",
