@@ -6358,6 +6358,16 @@
     },
 
     {
+        "name": "Lenstore",
+        "url": "https://www.lenstore.co.uk/contact-us",
+        "difficulty": "hard",
+        "notes": "Have to contact them, using the contact us form. They require date of birth and phone number linked to account.",
+        "domains": [
+            "lenstore.co.uk"
+        ]
+    },
+
+    {
         "name": "Letgo",
         "url": "https://www.letgo.com/en-tr/contact",
         "url_tr": "https://www.letgo.com/tr-tr/contact",
