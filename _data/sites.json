@@ -701,7 +701,7 @@
 
     {
         "name": "AnkiApp",
-        "url": "https://join.ankiapp.com",
+        "url": "https://www.ankiapp.com",
         "difficulty": "easy",
         "notes": "Log in to your account and click 'Delete Account'. Confirm by entering your password and click 'OK'. You cannot delete your account via web.ankiapp.com - please visit join.ankiapp.com instead.",
         "notes_ru": "Войдите в свою учетную запись и нажмите «Удалить учетную запись». Подтвердите ввод пароля и нажмите «ОК». Если вы не можете удалить свою учетную запись через web.ankiapp.com - посетите join.ankiapp.com.",
