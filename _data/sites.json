@@ -4139,6 +4139,23 @@
     },
 
     {
+        "name": "Follett",
+        "url": "https://www.follett.com/policies/",
+        "difficulty": "hard",
+        "notes": "Scroll to the bottom and click the correct form or send an email.",
+        "email": "privacy@follett.com",
+        "email_subject": "Data Deletion Request"
+        "email_body": "Please delete my data from all Follett services under my email address XXXXXX.",
+        "domains": [
+            "bkstr.com",
+            "brytewave.redshelf.com",
+            "follett.com",
+            "follettsoftware.com",
+            "titlewave.com"
+        ]
+    },
+
+    {
         "name": "Fontawesome",
         "url": "https://fontawesome.com/account",
         "difficulty": "easy",
@@ -9843,6 +9860,16 @@
         "notes_tr": "Hesabınızın kaldırılması için geri bildirimi tıklayarak ekibe e-posta göndermeniz gerekir.",
         "domains": [
             "redpen.io"
+        ]
+    },
+
+    {
+        "name": "RedShelf",
+        "url": "https://solve.redshelf.com/hc/requests/new?ticket_form_id=1260804993770",
+        "difficulty": "hard",
+        "notes": "NOT FOR BRYTEWAVE ACCOUNTS.",
+        "domains": [
+            "redshelf.com
         ]
     },
 
