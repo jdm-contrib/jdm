@@ -11878,6 +11878,16 @@
     },
 
     {
+        "name": "TruckersMP",
+        "url": "https://truckersmp.com/profile/delete",
+        "difficulty": "easy",
+        "notes": "Solve the math problem and enter your password. You must wait 14 days to register again.",
+        "domains": [
+            "truckersmp.com"
+        ]
+    },
+
+    {
         "name": "TryHackMe",
         "url": "https://tryhackme.com/profile",
         "difficulty": "easy",
