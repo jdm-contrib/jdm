@@ -1269,6 +1269,26 @@
     },
 
     {
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=delete",
+        "difficulty": "hard",
+        "notes": "Process will be much smoother if you sign in. Alternatively, you can call 888-237-8289.",
+        "domains": [
+            "bestbuy.com"
+        ]
+    },
+
+    {
+        "name": "Best Buy Canada",
+        "url": "https://pages.communications.bestbuypromotions.ca/page.aspx?QS=38dfbe491fab00ea85d3cbb8ac628347e7cfa61d972113f5276981dc06330aae",
+        "difficulty": "hard",
+        "notes": "Fill out the form with the information on your account.",
+        "domains": [
+            "bestbuy.ca"
+        ]
+    },
+
+    {
         "name": "bet365",
         "url": "https://help.bet365.com/contact",
         "difficulty": "hard",
