@@ -10517,7 +10517,7 @@
         "name": "SimplePlanes",
         "url": "https://www.simpleplanes.com/Account/CloseAccount",
         "difficulty": "easy",
-        "notes": "Login to your account, open your profile page and follow these steps: 'Manage Account' > 'Close Account' > 'OK' > type 'CLOSE' > CLOSE > OK. Do keep in mind that using the link here skips every step before \"type 'CLOSE'\"."
+        "notes": "Login to your account, open your profile page and follow these steps: click 'Manage Account' > click 'Close Account' > click 'OK' > type 'CLOSE' > click 'CLOSE' > click 'OK'. Using the link from here also skips every step before \"type 'CLOSE'\"."
         "domains": [
             "simpleplanes.com"
         ]
