@@ -10512,6 +10512,16 @@
             "simplenote.com"
         ]
     },
+    
+    {
+        "name": "SimplePlanes",
+        "url": "https://www.simpleplanes.com/Account/CloseAccount",
+        "difficulty": "easy",
+        "notes": "Login to your account, open your profile page and follow these steps: 'Manage Account' > 'Close Account' > 'OK' > type 'CLOSE' > CLOSE > OK. Do keep in mind that using the link here skips every step before \"type 'CLOSE'\"."
+        "domains": [
+            "simpleplanes.com"
+        ]
+    },
 
     {
         "name": "Sketchfab",
