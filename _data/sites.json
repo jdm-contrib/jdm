@@ -10581,15 +10581,8 @@
         "name": "Skype",
         "meta": "popular",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
-        "difficulty": "hard",
-        "notes": "Contact customer services on chat. You’ll need to know whether you bought services from Skype, you’ll need to verify your signup email address.",
-        "notes_tr": "Sohbet üzerinden müşteri hizmetleriyle iletişime geçin. Skype'tan hizmet satın alıp almadığınızı bilmeniz gerekecek ve kayıt e-posta adresinizi doğrulamanız gerekecektir.",
-        "notes_fr": "Contactez le service clients. Il vous faudra les noms de 5 de vos contacts, le mois de la création de votre compte, et l'adresse e-mail du compte.",
-        "notes_it": "Contatta il servizio clienti. Devi conoscere 5 contatti dalla tua lista contatti, il mese di creazione dell'account e la email con cui ti sei registrato.",
-        "notes_pt_br": "Contate a assistência ao cliente. Você precisará saber 5 contatos da sua lista de contatos, o mês em que sua conta foi criada, e seu e-mail de cadastro.",
-        "notes_cat": "Contacti amb l'assistència al client. Haurà de coneixer 5 contactes de la seva llista, el mes que va ser creat el compte i el e-mail associat.",
-        "notes_es": "Contacta con la asistencia al cliente. Deberás conocer 5 contactos de su lista, el mes que la cuenta fue creada y el e-mail asociado.",
-        "notes_ru": "Свяжитесь со службой поддержки в чате. Вам необходимо проверить, купили ли вы услуги из Skype, а также вам нужно будет подтвердить ваш указанный адрес электронной почты.",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.",
         "domains": [
             "skype.com"
         ]
