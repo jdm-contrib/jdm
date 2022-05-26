@@ -4144,7 +4144,7 @@
         "difficulty": "hard",
         "notes": "Scroll to the bottom and click the correct form or send an email.",
         "email": "privacy@follett.com",
-        "email_subject": "Data Deletion Request"
+        "email_subject": "Data Deletion Request",
         "email_body": "Please delete my data from all Follett services under my email address XXXXXX.",
         "domains": [
             "bkstr.com",
