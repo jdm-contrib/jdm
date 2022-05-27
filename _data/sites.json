@@ -12963,6 +12963,18 @@
     },
 
     {
+        "name": "Wahoo Fitness",
+        "url": "https://privacyportal.onetrust.com/webform/b2b76ae8-d622-4165-97c7-8896261e24b7/b43eda4f-3724-4303-879c-e65dbcfced1d",
+        "difficulty": "medium",
+        "notes": "Fill the form, selecting \"Customer/Former Customer\" and \"Delete My Information\" on the respective prompts. A link will be sent to your email to confirm.",
+        "notes_pt_br": "Preencha o formulario, selecionando \"Customer/Former Customer\" e \"Delete My Information\". Será enviado um link de confirmação para o seu e-mail.",
+        "notes_pt_pt": "Preencha o formulario, selecionando \"Customer/Former Customer\" e \"Delete My Information\". Será enviada uma hiperligação de confirmação para o seu e-mail.",
+        "domains": [
+            "wahoofitness.com"
+        ]
+    },
+
+    {
         "name": "workupload",
         "url": "https://workupload.com/contact",
         "difficulty": "hard",
