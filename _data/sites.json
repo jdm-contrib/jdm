@@ -5223,7 +5223,7 @@
         "notes": "You must send an email to delete your account.",
         "email": "support@hcaptcha.com",
         "email_subject": "Account Deletion Request",
-        "email_body": "Please delete my hCaptcha account which is registered under this email address."
+        "email_body": "Please delete my hCaptcha account which is registered under this email address.",
         "domains": [
             "hcaptcha.com"
         ]
