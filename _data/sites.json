@@ -6034,6 +6034,16 @@
     },
 
     {
+        "name": "JetBrains",
+        "url": "https://account.jetbrains.com/delete-account",
+        "difficulty": "easy",
+        "notes": "License keys will not be deleted.",
+        "domains": [
+            "jetbrains"
+        ]
+    },
+
+    {
         "name": "Jimdo",
         "url": "https://help.jimdo.com/hc/en-us/articles/115005540586-How-do-I-delete-my-Jimdo-account-",
         "difficulty": "medium",
