@@ -701,7 +701,7 @@
 
     {
         "name": "AnkiApp",
-        "url": "https://join.ankiapp.com",
+        "url": "https://www.ankiapp.com",
         "difficulty": "easy",
         "notes": "Log in to your account and click 'Delete Account'. Confirm by entering your password and click 'OK'. You cannot delete your account via web.ankiapp.com - please visit join.ankiapp.com instead.",
         "notes_ru": "Войдите в свою учетную запись и нажмите «Удалить учетную запись». Подтвердите ввод пароля и нажмите «ОК». Если вы не можете удалить свою учетную запись через web.ankiapp.com - посетите join.ankiapp.com.",
@@ -1066,6 +1066,19 @@
     },
 
     {
+        "name": "B&H",
+        "url": "https://www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp",
+        "difficulty": "hard",
+        "notes": "Must send an email or call 800-947-9915.",
+        "email": "privacy@bhphoto.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete my B&H account.",
+        "domains": [
+            "bhphotovideo.com"
+        ]
+    },
+
+    {
         "name": "Babbel",
         "url": "https://home.babbel.com/user-profile/settings",
         "difficulty": "medium",
@@ -1252,6 +1265,26 @@
         "notes_tr": "Hesabınızı silmek için, sağ üst köşedeki profil fotoğrafınıza tıklayın, \"Hesap Ayarları\" kısmını ziyaret edin, ve \"Hesabı Sil\" sekmesine tıklayın. Orada hesabınızı silmek için bir seçenek olacak.",
         "domains": [
             "behance.net"
+        ]
+    },
+
+    {
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=delete",
+        "difficulty": "hard",
+        "notes": "Process will be much smoother if you sign in. Alternatively, you can call 888-237-8289.",
+        "domains": [
+            "bestbuy.com"
+        ]
+    },
+
+    {
+        "name": "Best Buy Canada",
+        "url": "https://pages.communications.bestbuypromotions.ca/page.aspx?QS=38dfbe491fab00ea85d3cbb8ac628347e7cfa61d972113f5276981dc06330aae",
+        "difficulty": "hard",
+        "notes": "Fill out the form with the information on your account.",
+        "domains": [
+            "bestbuy.ca"
         ]
     },
 
@@ -2210,17 +2243,6 @@
     },
 
     {
-        "name": "Club Penguin Rewritten",
-        "url": "https://cprewritten.net/help/",
-        "email": "privacy@cprewritten.net",
-        "difficulty": "impossible",
-        "notes": "There is no option on the website to delete, you can try emailing their privacy or support email but they never reply to either after months.",
-        "domains": [
-            "cprewritten.net"
-        ]
-    },
-
-    {
         "name": "CNET Download",
         "url": "https://cbsi.secure.force.com/CBSi/submitcase?template=template_cnet&referer=cnet.com&cfs=SFS_1",
         "difficulty": "hard",
@@ -2380,6 +2402,16 @@
         "notes_tr": "\"Hesap Ayarları\" kısmına girin ve alta doğru kaydırarak \"Hesabı Sil\" kısmını bulun",
         "domains": [
             "codewars.com"
+        ]
+    },
+
+    {
+        "name": "Coin",
+        "url": "https://support.coinapp.co/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Contact them via ticketing system and ask for account to be deleted",
+        "domains": [
+            "coinapp.co"
         ]
     },
 
@@ -3986,6 +4018,16 @@
     },
 
     {
+        "name": "FedEx",
+        "url": "https://privacyportal.onetrust.com/webform/8a471a7b-6a52-49d0-bcb0-fa8bdb61598f/c121cce6-6cfb-4c3d-9b61-334f56a01b5f",
+        "difficulty": "hard",
+        "notes": "You will be asked to upload photo ID after the initial form submission. Alternatively, you can call customer service to have your user ID deleted.",
+        "domains": [
+            "fedex.com"
+        ]
+    },
+
+    {
         "name": "Feedly",
         "url": "https://feedly.com/i/erase",
         "difficulty": "easy",
@@ -5201,6 +5243,19 @@
         "notes_pt_br": "Vá para \"Settings > Delete Account > Delete my account\".",
         "domains": [
             "happyscribe.co"
+        ]
+    },
+
+    {
+        "name": "hCaptcha",
+        "url": "https://www.hcaptcha.com/privacy",
+        "difficulty": "hard",
+        "notes": "You must send an email to delete your account.",
+        "email": "support@hcaptcha.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete my hCaptcha account which is registered under this email address.",
+        "domains": [
+            "hcaptcha.com"
         ]
     },
 
@@ -10569,15 +10624,8 @@
         "name": "Skype",
         "meta": "popular",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
-        "difficulty": "hard",
-        "notes": "Contact customer services on chat. You’ll need to know whether you bought services from Skype, you’ll need to verify your signup email address.",
-        "notes_tr": "Sohbet üzerinden müşteri hizmetleriyle iletişime geçin. Skype'tan hizmet satın alıp almadığınızı bilmeniz gerekecek ve kayıt e-posta adresinizi doğrulamanız gerekecektir.",
-        "notes_fr": "Contactez le service clients. Il vous faudra les noms de 5 de vos contacts, le mois de la création de votre compte, et l'adresse e-mail du compte.",
-        "notes_it": "Contatta il servizio clienti. Devi conoscere 5 contatti dalla tua lista contatti, il mese di creazione dell'account e la email con cui ti sei registrato.",
-        "notes_pt_br": "Contate a assistência ao cliente. Você precisará saber 5 contatos da sua lista de contatos, o mês em que sua conta foi criada, e seu e-mail de cadastro.",
-        "notes_cat": "Contacti amb l'assistència al client. Haurà de coneixer 5 contactes de la seva llista, el mes que va ser creat el compte i el e-mail associat.",
-        "notes_es": "Contacta con la asistencia al cliente. Deberás conocer 5 contactos de su lista, el mes que la cuenta fue creada y el e-mail asociado.",
-        "notes_ru": "Свяжитесь со службой поддержки в чате. Вам необходимо проверить, купили ли вы услуги из Skype, а также вам нужно будет подтвердить ваш указанный адрес электронной почты.",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.",
         "domains": [
             "skype.com"
         ]
@@ -11862,6 +11910,16 @@
         "notes_tr": "\"İletişim\" formunu kullanarak müşteri desteği ile iletişime geçmeli ve hesabınızın e-posta adresini vermelisiniz. Hesap, bir destek personeli tarafından işlendiğinde silinecektir.",
         "domains": [
             "www.trollandtoad.com"
+        ]
+    },
+
+    {
+        "name": "TruckersMP",
+        "url": "https://truckersmp.com/profile/delete",
+        "difficulty": "easy",
+        "notes": "Solve the math problem and enter your password. You must wait 14 days to register again.",
+        "domains": [
+            "truckersmp.com"
         ]
     },
 
