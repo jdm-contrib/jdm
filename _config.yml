@@ -3,3 +3,5 @@ collections:
   pages:
     output: true
     permalink: /:categories/:title:output_ext
+
+theme: jekyll-theme-slate
