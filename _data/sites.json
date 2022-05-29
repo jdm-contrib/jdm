@@ -625,6 +625,16 @@
     },
 
     {
+        "name": "Andaman7",
+        "url": "https://www.andaman7.com/",
+        "difficulty": "hard",
+        "notes": "Contact customer service via the app and ask for account to be deleted.",
+        "domains": [
+            "andaman7.com"
+        ]
+    },
+
+    {
         "name": "Android File Host (AFH)",
         "url": "https://androidfilehost.com/?w=contact",
         "difficulty": "hard",
