@@ -2133,7 +2133,7 @@
 
     {
         "name": "Chess.com",
-        "url": "https://www.chess.com/my-data,
+        "url": "https://www.chess.com/my-data",
         "difficulty": "medium",
         "notes": "Enter your email, do the CAPTCHA and click \"Show my data\". Scroll to the bottom, enter your username, and click \"Delete\". Any comments and public posts must be deleted individually before deleting your account.",
         "domains": [
