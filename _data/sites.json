@@ -1269,6 +1269,26 @@
     },
 
     {
+        "name": "Best Buy",
+        "url": "https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=delete",
+        "difficulty": "hard",
+        "notes": "Process will be much smoother if you sign in. Alternatively, you can call 888-237-8289.",
+        "domains": [
+            "bestbuy.com"
+        ]
+    },
+
+    {
+        "name": "Best Buy Canada",
+        "url": "https://pages.communications.bestbuypromotions.ca/page.aspx?QS=38dfbe491fab00ea85d3cbb8ac628347e7cfa61d972113f5276981dc06330aae",
+        "difficulty": "hard",
+        "notes": "Fill out the form with the information on your account.",
+        "domains": [
+            "bestbuy.ca"
+        ]
+    },
+
+    {
         "name": "bet365",
         "url": "https://help.bet365.com/contact",
         "difficulty": "hard",
@@ -3998,6 +4018,16 @@
     },
 
     {
+        "name": "FedEx",
+        "url": "https://privacyportal.onetrust.com/webform/8a471a7b-6a52-49d0-bcb0-fa8bdb61598f/c121cce6-6cfb-4c3d-9b61-334f56a01b5f",
+        "difficulty": "hard",
+        "notes": "You will be asked to upload photo ID after the initial form submission. Alternatively, you can call customer service to have your user ID deleted.",
+        "domains": [
+            "fedex.com"
+        ]
+    },
+
+    {
         "name": "Feedly",
         "url": "https://feedly.com/i/erase",
         "difficulty": "easy",
@@ -5213,6 +5243,19 @@
         "notes_pt_br": "Vá para \"Settings > Delete Account > Delete my account\".",
         "domains": [
             "happyscribe.co"
+        ]
+    },
+
+    {
+        "name": "hCaptcha",
+        "url": "https://www.hcaptcha.com/privacy",
+        "difficulty": "hard",
+        "notes": "You must send an email to delete your account.",
+        "email": "support@hcaptcha.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete my hCaptcha account which is registered under this email address.",
+        "domains": [
+            "hcaptcha.com"
         ]
     },
 
