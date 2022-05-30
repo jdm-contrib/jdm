@@ -1332,6 +1332,15 @@
     },
 
     {
+        "name": "BeyondMenu",
+        "url": "https://www.beyondmenu.com/manageaccount.aspx",
+        "difficulty": "easy",
+        "domains": [
+            "beyondmenu.com"
+        ]
+    },
+
+    {
         "name": "Bidoo",
         "url": "https://it.bidoo.com",
         "difficulty": "hard",
