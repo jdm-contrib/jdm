@@ -9867,7 +9867,7 @@
         "name": "RedShelf",
         "url": "https://solve.redshelf.com/hc/requests/new?ticket_form_id=1260804993770",
         "difficulty": "hard",
-        "notes": "NOT FOR BRYTEWAVE ACCOUNTS.",
+        "notes": "Brytewave users should <a href='https://www.follett.com/policies/'>submit a DSAR request to Follett</a>.",
         "domains": [
             "redshelf.com"
         ]
