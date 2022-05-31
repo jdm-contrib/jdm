@@ -2807,7 +2807,10 @@
         "name": "Decathlon India",
         "url": "https://decathlononline.freshdesk.com/support/tickets/new",
         "difficulty": "hard",
-        "notes": "Send them a deletion request from the linked contact form and remember to mention your decathlon.in registered email there. After some hours of submitting the request their support representative will email you asking for your confirmation to have your decathlon account permanently deleted. Alternatively, for decathlon.in you can email them by clicking <a href=\"mailto:care.india@decathlon.com?subject=decathlon.in%20account%20deletion%20request&body=Sir,%20I%20request%20you%20to%20please%20delete%20my%20https://www.decathlon.in%20account%20and%20erase%20all%20records%20of%20my%20email%20id,%20mobile%20number%20and%20orders%20from%20your%20servers.\" target=\"_top\">care.india@decathlon.com</a>\n\nIf you are trying to delete a decathlon account registered in some other country you can try filing an account deletion request on this form: <a href=\"https://www.decathlon.com/pages/contact-us\">https://www.decathlon.com/pages/contact-us</a>. If that doesn't work try to search for their contact email on their website and send them a deletion request using <a href=\"mailto:enter-decathlon-contact-email-here@decathlon.com?subject=Decathlon%20account%20deletion%20request&body=Sir,%20I%20request%20you%20to%20please%20delete%20my%20decathlon%20account%20and%20erase%20all%20records%20of%20my%20email%20id,%20mobile%20number%20and%20orders%20from%20your%20servers.\" target=\"_top\">this format</a>.",
+        "notes": "Send them a deletion request from the linked contact form and remember to mention your decathlon.in registered email there. After some hours of submitting the request their support representative will email you asking for your confirmation to have your decathlon account permanently deleted. Alternatively, you can email them.",
+        "email": "care.india@decathlon.com",
+        "email_subject": "Decathlon.in Account Deletion Request",
+        "email_body": "Please delete my decathlon.in account and erase all data associated with it.",
         "domains": [
             "decathlon.in"
         ]
