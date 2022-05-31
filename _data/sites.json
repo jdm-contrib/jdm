@@ -2870,6 +2870,19 @@
     },
 
     {
+        "name": "Decathlon India",
+        "url": "https://decathlononline.freshdesk.com/support/tickets/new",
+        "difficulty": "hard",
+        "notes": "Send them a deletion request from the linked contact form and remember to mention your decathlon.in registered email there. After some hours of submitting the request their support representative will email you asking for your confirmation to have your decathlon account permanently deleted. Alternatively, you can email them.",
+        "email": "care.india@decathlon.com",
+        "email_subject": "Decathlon.in Account Deletion Request",
+        "email_body": "Please delete my decathlon.in account and erase all data associated with it.",
+        "domains": [
+            "decathlon.in"
+        ]
+    },
+
+    {
         "name": "Deezer",
         "url": "https://www.deezer.com/account",
         "difficulty": "medium",
@@ -10417,6 +10430,16 @@
     },
 
     {
+        "name": "seedr.cc",
+        "url": "https://www.seedr.cc/",
+        "difficulty": "hard",
+        "notes": "Scroll down to the bottom of the webpage and click on \"Contact Us\". Fill in the message as \"Please delete my seedr.cc account\", include your registered email in the contact email field, submit the form and wait for their confirmation email. Note that the chances of them actually replying is very very low.",
+        "domains": [
+            "seedr.cc"
+        ]
+    },
+
+    {
         "name": "Sellfy",
         "url": "https://sellfy.com/user/settings/account",
         "notes": "Log in first, go to the url and press 'Close Account', all products and orders will be lost, you will have to add a reason why, and depending on the option you will have to further explain",
@@ -11355,6 +11378,17 @@
         "notes": "Scroll to the bottom of the page and click 'Delete Account'. Confirm the action by typing \"I understand\" in the text box.",
         "domains": [
             "swappa.com"
+        ]
+    },
+
+    {
+        "name": "Swiggy",
+        "url": "https://swiggy.com",
+        "difficulty": "impossible",
+        "notes": "Despite their <a href=\"https://www.swiggy.com/privacy-policy\" target=\"_blank\">privacy policy</a> stating that account deletion is possible, their response to such a request was that \"there is no way to delete/erase your order history, and personal information.\"",
+        "domains": [
+            "swiggy.com",
+            "swiggy.in"
         ]
     },
 
