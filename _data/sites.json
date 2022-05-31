@@ -6876,7 +6876,7 @@
         "url": "https://account.mail.ru/user/delete",
         "difficulty": "easy",
         "notes_ru": "Войдите в аккаунт, который хотите удалить. Перейдите к форме удаления. Введите имя ящика и пароль. Укажите причину удаления, пароль и код с картинки. Нажмите кнопку \"Удалить\".",
-        "notes": "Login into your account. Go to the deletion form. Enter the mailbox name and password. Specify the reason for the deletion, your accounts password and the captcha code. Click the \"Delete\" button.",
+        "notes": "Login into your account. Go to the deletion form. Enter the mailbox name and password. Specify the reason for the deletion, your account's password and the captcha code. Click the \"Delete\" button.",
         "domains": [
             "mail.ru"
         ]
