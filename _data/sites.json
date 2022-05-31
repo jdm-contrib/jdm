@@ -10791,6 +10791,16 @@
     },
 
     {
+        "name": "Snov.io",
+        "url": "https://app.snov.io/account#/security-settings",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Account\" and follow the instructions",
+        "domains": [
+            "snov.io"
+        ]
+    },
+
+    {
         "name": "Social Blade",
         "url": "https://support.socialblade.com",
         "difficulty": "impossible",
