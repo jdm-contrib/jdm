@@ -11197,7 +11197,7 @@
         "name": "Swiggy",
         "url": "https://swiggy.com",
         "difficulty": "impossible",
-        "notes": "Their response when I emailed them at <a href=\"mailto:support@swiggy.in\" target=\"_top\">support@swiggy.in</a> to delete my swiggy account: \"We regret to inform you that we are unable to comply with your request, as there is no way to delete/erase your order history, and personal information. We cannot delete the order history from the app, as our app is designed in that manner.\" When I questioned them about the legitimacy of their <a href=\"https://www.swiggy.com/privacy-policy\" target=\"_blank\">privacy policy</a> which states that account deletion is possible, they had no authentic response.",
+        "notes": "Despite their <a href=\"https://www.swiggy.com/privacy-policy\" target=\"_blank\">privacy policy</a> stating that account deletion is possible, their response to such a request was that \"there is no way to delete/erase your order history, and personal information.\"",
         "domains": [
             "swiggy.com",
             "swiggy.in"
