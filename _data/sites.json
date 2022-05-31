@@ -10789,6 +10789,17 @@
             "snapchat.com"
         ]
     },
+    
+    {
+        "name": "Snov.io",
+        "url": "https://app.snov.io/account#/security-settings",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Account\" and follow the instructions",
+        "domains": [
+            "snov.io",
+            "app.snov.io"
+        ]
+    },
 
     {
         "name": "Social Blade",
