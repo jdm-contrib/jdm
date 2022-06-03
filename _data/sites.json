@@ -7085,6 +7085,16 @@
     },
 
     {
+        "name": "MaxMind",
+        "url": "https://support.maxmind.com/hc/requests/new",
+        "difficulty": "hard",
+        "notes": "You must stop all services and cease downloading any databases before contacting support. State that you wish to delete your account and use your registered email on the contact form.",
+        "domains": [
+            "maxmind.com"
+        ]
+    },
+
+    {
         "name": "Mbed",
         "url": "https://os.mbed.com/account/edit/account-options/",
         "difficulty": "easy",
