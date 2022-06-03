@@ -3277,6 +3277,16 @@
     },
 
     {
+        "name": "DoorDash",
+        "url": "https://www.doordash.com/consumer/privacy/delete_account/",
+        "difficulty": "medium",
+        "notes": "You will need the phone tied to your account to receive the 2FA code.",
+        "domains": [
+            "doordash.com"
+        ]
+    },
+
+    {
         "name": "Douban",
         "url": "https://www.douban.com/accounts/suicide/",
         "difficulty": "easy",
