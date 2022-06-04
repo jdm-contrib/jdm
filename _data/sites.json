@@ -315,12 +315,12 @@
 
     {
         "name": "Adfly",
-        "url": "https://support.adf.ly/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "Contact the customer support using the contact form and request the deletion of your account.",
-        "notes_tr": "İletişim formunu kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
-        "notes_ru": "Свяжитесь со службой поддержки, используя контактную форму, и запросите удаление вашей учетной записи.",
-        "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "url": "https://adf.ly/account/delete",
+        "difficulty": "easy",
+        "notes": "Press the button to delete your account, make sure you're logged in.",
+        "notes_tr": "Hesabınızı silmek için düğmeye basın, oturum açtığınızdan emin olun.",
+        "notes_ru": "Нажмите кнопку, чтобы удалить свою учетную запись, убедитесь, что вы вошли в систему.",
+        "notes_pt_br": "Clique no botão para excluir sua conta, verifique se você está logado.",
         "domains": [
             "adf.ly"
         ]
