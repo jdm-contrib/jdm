@@ -4224,6 +4224,17 @@
     },
 
     {
+        "name": "Flowkey",
+        "url": "https://help.flowkey.com/en/articles/4466433-how-to-unsubscribe-or-delete-your-account",
+        "difficulty": "hard",
+        "notes": "You need to send an email requesting to delete your account.",
+        "email": "support@flowkey.com",
+        "domains": [
+            "flowkey.com"
+        ]
+    },
+
+    {
         "name": "FMOD",
         "url": "https://fmod.com/profile",
         "difficulty": "easy",
