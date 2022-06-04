@@ -13163,10 +13163,10 @@
 
     {
         "name": "Wix",
-        "url": "https://www.wix.com/account/support/permanent-delete",
+        "url": "https://manage.wix.com/account/close-account",
         "difficulty": "medium",
-        "notes": "Delete any built sites and subscriptions then follow the link to an account deletion form.",
-        "notes_tr": "Tüm yerleşik siteleri ve abonelikleri silin, ardından verilen bağlantıdan hesap silme formuna girin.",
+        "notes": "Make sure you're logged in and fill the form to delete the account.",
+        "notes_es": "Asegúrate de que tu sesión esté abierta y completa el formulario para eliminar la cuenta.",
         "domains": [
             "wix.com"
         ]
