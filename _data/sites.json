@@ -11126,14 +11126,9 @@
     {
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "https://stackoverflow.com/help/deleting-account",
-        "difficulty": "hard",
-        "notes": "If you haven’t posted on the site, it’s just one click. If you have voted or posted, please contact the Stack Exchange Team: Visit the contact form and select ‘I need to delete my user profile’. After you contact us, the team will reach out with further instructions.",
-        "notes_tr": "Sitede herhangi bir içerik göndermediyseniz, sadece bir tıklama ile silebilirsiniz. Oy verdiyseniz veya gönderi yayınladıysanız, lütfen Stack Exchange Ekibi ile iletişime geçin: İletişim formunu ziyaret edin ve \"Kullanıcı profilimi silmeye ihtiyacım var\" seçeneğini seçin. Bizimle iletişime geçmenizden sonra, ekip daha fazla talimatla sizinle iletişime geçecektir.",
-        "notes_fr": "Si vous n'avez pas posté, il ne faut qu'un clic. Sinon, remplacez votre bio par « please delete me » puis contactez le support du site.",
-        "notes_it": "Se non hai effettuato alcuna azione sul sito, basta un click. Altrimenti, edita il tuo 'About me' biografia in 'please delete me' quindi contatta il servizio clienti.",
-        "notes_pt_br": "Se você não postou no site, apenas um clique é necessário. Caso contrário, edite a sua 'About Me' biografia e escreva 'please delete me' e então contate o suporte.",
-        "notes_cat": "Si mai ha publicat al lloc només és un clic. En cas contrari, editi la seva biografia a 'About Me' i escrigui 'please delete me' a continuació contacti amb atenció al client.",
-        "notes_es": "Si nunca has publicado en el sitio sólo es un clic. Si no, edita tu biografía en 'About Me' y escribe 'please delete me', luego contacta con atención al cliente.",
+        "difficulty": "easy",
+        "notes": "If you have not posted on the site, your profile will be immediately deleted. If you have posted, your profile will be scheduled for deletion after 24 hours. Your posts will remain on the site under a generic username.",
+        "notes_es": "Si nunca has publicado en el sitio, tu perfil será eliminado inmediatamente. Si tienes publicaciones, tu perfil será marcado para su eliminación luego de 24 horas. Tus publicaciones permanecerán en el sitio bajo un nombre de usuario genérico.",
         "domains": [
             "stackoverflow.com"
         ]
