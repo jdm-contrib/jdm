@@ -318,9 +318,6 @@
         "url": "https://adf.ly/account/delete",
         "difficulty": "easy",
         "notes": "Press the button to delete your account, make sure you're logged in.",
-        "notes_tr": "Hesabınızı silmek için düğmeye basın, oturum açtığınızdan emin olun.",
-        "notes_ru": "Нажмите кнопку, чтобы удалить свою учетную запись, убедитесь, что вы вошли в систему.",
-        "notes_pt_br": "Clique no botão para excluir sua conta, verifique se você está logado.",
         "domains": [
             "adf.ly"
         ]
