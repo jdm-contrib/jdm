@@ -3224,6 +3224,16 @@
     },
 
     {
+        "name": "DLH",
+        "url": "https://dlh.net/en/profile.html",
+        "difficulty": "medium",
+        "notes": "Complete the captcha and press the button to request account deletion. An email will be sent to you to confirm such action.",
+        "domains": [
+            "dlh.net"
+        ]
+    },
+
+    {
         "name": "DNSimple",
         "url": "https://dnsimple.com/user/cancellation",
         "difficulty": "easy",
