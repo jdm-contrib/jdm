@@ -1452,6 +1452,17 @@
     },
 
     {
+        "name": "BlendSwap",
+        "url": "https://blendswap.com/profile",
+        "difficulty": "easy",
+        "notes": "Go to your profile and press the 'delete account' button",
+        "notes_es": "Ve a tu perfil y presiona el botón 'delete account'",
+        "domains": [
+            "blendswap.com"
+        ]
+    },
+
+    {
         "name": "Blinkee",
         "url": "https://blinkee.city/en-pl/faq",
         "difficulty": "hard",
