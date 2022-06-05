@@ -315,12 +315,9 @@
 
     {
         "name": "Adfly",
-        "url": "https://support.adf.ly/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "Contact the customer support using the contact form and request the deletion of your account.",
-        "notes_tr": "İletişim formunu kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
-        "notes_ru": "Свяжитесь со службой поддержки, используя контактную форму, и запросите удаление вашей учетной записи.",
-        "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "url": "https://adf.ly/account/delete",
+        "difficulty": "easy",
+        "notes": "Press the button to delete your account, make sure you're logged in.",
         "domains": [
             "adf.ly"
         ]
@@ -1451,6 +1448,17 @@
         "notes": "As noted on the forum, account removals are not an option.",
         "domains": [
             "blackspigot.com"
+        ]
+    },
+
+    {
+        "name": "BlendSwap",
+        "url": "https://blendswap.com/profile",
+        "difficulty": "easy",
+        "notes": "Go to your profile and press the 'delete account' button",
+        "notes_es": "Ve a tu perfil y presiona el botón 'delete account'",
+        "domains": [
+            "blendswap.com"
         ]
     },
 
@@ -3224,6 +3232,16 @@
     },
 
     {
+        "name": "DLH",
+        "url": "https://dlh.net/en/profile.html",
+        "difficulty": "medium",
+        "notes": "Complete the captcha and press the button to request account deletion. An email will be sent to you to confirm such action.",
+        "domains": [
+            "dlh.net"
+        ]
+    },
+
+    {
         "name": "DNSimple",
         "url": "https://dnsimple.com/user/cancellation",
         "difficulty": "easy",
@@ -4210,6 +4228,17 @@
         "notes_tr": "Hesabınızın silinmesi için Floatplane ekibiyle resmi web siteleri aracılığıyla iletişime geçmeniz gerekir",
         "domains": [
             "floatplane.com"
+        ]
+    },
+
+    {
+        "name": "Flowkey",
+        "url": "https://help.flowkey.com/en/articles/4466433-how-to-unsubscribe-or-delete-your-account",
+        "difficulty": "hard",
+        "notes": "You need to send an email requesting to delete your account.",
+        "email": "support@flowkey.com",
+        "domains": [
+            "flowkey.com"
         ]
     },
 
@@ -13114,10 +13143,10 @@
 
     {
         "name": "Wix",
-        "url": "https://www.wix.com/account/support/permanent-delete",
+        "url": "https://manage.wix.com/account/close-account",
         "difficulty": "medium",
-        "notes": "Delete any built sites and subscriptions then follow the link to an account deletion form.",
-        "notes_tr": "Tüm yerleşik siteleri ve abonelikleri silin, ardından verilen bağlantıdan hesap silme formuna girin.",
+        "notes": "Make sure you're logged in and fill the form to delete the account.",
+        "notes_es": "Asegúrate de que tu sesión esté abierta y completa el formulario para eliminar la cuenta.",
         "domains": [
             "wix.com"
         ]
