@@ -9985,23 +9985,9 @@
     {
         "meta": "popular",
         "name": "Reddit",
-        "url": "https://ssl.reddit.com/prefs/delete/",
-        "difficulty": "hard",
-        "notes": "You cannot delete your Reddit account; you can only deactivate it. Content posted to Reddit (posts and comments) must be deleted individually beforehand. If you are an EU citizen, see the 'Reddit (GDPR) entry on JustDeleteMe.",
-        "notes_tr": "Reddit hesabınızı silemezsiniz; sadece devre dışı bırakabilirsiniz. Reddit'e gönderilen içerik (gönderiler ve yorumlar) tek tek silinmelidir. AB vatandaşı iseniz, kişisel verilerinizin e-posta yoluyla silinmesini talep edebilirsiniz.",
-        "notes_ru": "Вы не можете удалить свою учетную запись Reddit; Вы можете только деактивировать ее. Данные, размещенные на Reddit (посты и комментарии), должны быть удалены вами заранее. Если вы являетесь гражданином ЕС, см. Reddit (GDPR) на JustDeleteMe.",
-        "domains": [
-            "reddit.com"
-        ]
-    },
-
-    {
-        "meta": "popular",
-        "name": "Reddit (GDPR)",
-        "url": "https://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&subject=GDPR / CCPA - u/[please enter your username here]&message=I am requesting deletion of my account and relate information under GDPR.",
-        "difficulty": "hard",
-        "notes": "Content posted to Reddit (posts and comments) must be deleted individually beforehand. As an EU citizen, do not use the normal deactivation process. Send a message with the provided link instead.",
-        "notes_ru": "Данные, размещенные на Reddit (посты и комментарии), должны быть удалены вами заранее. Как гражданин ЕС, не используйте стандартный процесс деактивации. Вместо этого отправьте сообщение с предоставленной ссылкой.",
+        "url": "https://www.reddit.com/prefs/delete/",
+        "difficulty": "easy",
+        "notes": "Your content will not be deleted (only disassociated).",
         "domains": [
             "reddit.com"
         ]
