@@ -10014,42 +10014,11 @@
     {
         "meta": "popular",
         "name": "Reddit",
-        "url": "https://ssl.reddit.com/prefs/delete/",
-        "difficulty": "hard",
-        "notes": "You cannot delete your Reddit account; you can only deactivate it. Content posted to Reddit (posts and comments) must be deleted individually beforehand. If you are an EU citizen, see the 'Reddit (GDPR) entry on JustDeleteMe.",
-        "notes_tr": "Reddit hesabınızı silemezsiniz; sadece devre dışı bırakabilirsiniz. Reddit'e gönderilen içerik (gönderiler ve yorumlar) tek tek silinmelidir. AB vatandaşı iseniz, kişisel verilerinizin e-posta yoluyla silinmesini talep edebilirsiniz.",
-        "notes_ru": "Вы не можете удалить свою учетную запись Reddit; Вы можете только деактивировать ее. Данные, размещенные на Reddit (посты и комментарии), должны быть удалены вами заранее. Если вы являетесь гражданином ЕС, см. Reddit (GDPR) на JustDeleteMe.",
+        "url": "https://www.reddit.com/prefs/delete/",
+        "difficulty": "easy",
+        "notes": "If you are opted in to the redesign, scroll to the bottom and click on the Delete Account button. Your content will not be deleted (only disassociated).",
         "domains": [
             "reddit.com"
-        ]
-    },
-
-    {
-        "meta": "popular",
-        "name": "Reddit (GDPR)",
-        "url": "https://www.reddit.com/message/compose?to=%2Fr%2Freddit.com&subject=GDPR / CCPA - u/[please enter your username here]&message=I am requesting deletion of my account and relate information under GDPR.",
-        "difficulty": "hard",
-        "notes": "Content posted to Reddit (posts and comments) must be deleted individually beforehand. As an EU citizen, do not use the normal deactivation process. Send a message with the provided link instead.",
-        "notes_ru": "Данные, размещенные на Reddit (посты и комментарии), должны быть удалены вами заранее. Как гражданин ЕС, не используйте стандартный процесс деактивации. Вместо этого отправьте сообщение с предоставленной ссылкой.",
-        "domains": [
-            "reddit.com"
-        ]
-    },
-
-    {
-        "name": "Redditgifts",
-        "url": "https://redditgifts.com/privacy/",
-        "difficulty": "hard",
-        "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username.",
-        "notes_tr": "Hesabınızı silmek istediğinize karar verirseniz, bize e-posta göndermelisiniz. Bize hesabınızla ilişkili e-posta adresinden e-posta göndermeli ve Reddit kullanıcı adınızı sağlamalısınız.",
-        "notes_it": "Per eliminare il tuo account invia un'e-mail a support@redditgifts.com. Invia l'e-mail dall'indirizzo associato al tuo account ed inserisci il tuo username reddit.",
-        "notes_pt_br": "Caso você decida apagar sua conta você deve enviar um e-mail para support@redditgifts.com. O e-mail deve ser enviado pelo e-mail associado a sua conta e você deve especificar seu usuário reddit.",
-        "notes_cat": "Si decideix desactivar el seu compte haurà de posarse en contacte amb support@redditgifts.com. Haurà d'enviar l'e-mail i nom de l'usuari de Reddit associat al compte de la web.",
-        "notes_es": "Si decide desactivar tu cuenta tendrás que ponerte en contacto con support@redditgifts.com. Deberás enviar el e-mail y nombre de usuario de Reddit asociado a la cuenta de la web.",
-        "email": "support@redditgifts.com",
-        "email_body": "My reddit username is XXXXXX",
-        "domains": [
-            "redditgifts.com"
         ]
     },
 
