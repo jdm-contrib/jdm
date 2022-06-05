@@ -9987,7 +9987,7 @@
         "name": "Reddit",
         "url": "https://www.reddit.com/prefs/delete/",
         "difficulty": "easy",
-        "notes": "Your content will not be deleted (only disassociated).",
+        "notes": "If you are opted in to the redesign, scroll to the bottom and click on the Delete Account button. Your content will not be deleted (only disassociated).",
         "domains": [
             "reddit.com"
         ]
