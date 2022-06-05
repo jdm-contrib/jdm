@@ -10008,23 +10008,6 @@
     },
 
     {
-        "name": "Redditgifts",
-        "url": "https://redditgifts.com/privacy/",
-        "difficulty": "hard",
-        "notes": "If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username.",
-        "notes_tr": "Hesabınızı silmek istediğinize karar verirseniz, bize e-posta göndermelisiniz. Bize hesabınızla ilişkili e-posta adresinden e-posta göndermeli ve Reddit kullanıcı adınızı sağlamalısınız.",
-        "notes_it": "Per eliminare il tuo account invia un'e-mail a support@redditgifts.com. Invia l'e-mail dall'indirizzo associato al tuo account ed inserisci il tuo username reddit.",
-        "notes_pt_br": "Caso você decida apagar sua conta você deve enviar um e-mail para support@redditgifts.com. O e-mail deve ser enviado pelo e-mail associado a sua conta e você deve especificar seu usuário reddit.",
-        "notes_cat": "Si decideix desactivar el seu compte haurà de posarse en contacte amb support@redditgifts.com. Haurà d'enviar l'e-mail i nom de l'usuari de Reddit associat al compte de la web.",
-        "notes_es": "Si decide desactivar tu cuenta tendrás que ponerte en contacto con support@redditgifts.com. Deberás enviar el e-mail y nombre de usuario de Reddit asociado a la cuenta de la web.",
-        "email": "support@redditgifts.com",
-        "email_body": "My reddit username is XXXXXX",
-        "domains": [
-            "redditgifts.com"
-        ]
-    },
-
-    {
         "name": "redirect.pizza",
         "url": "https://redirect.pizza/profile",
         "difficulty": "easy",
