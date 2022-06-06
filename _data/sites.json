@@ -10593,6 +10593,16 @@
             "shipito.com"
         ]
     },
+    
+    {
+        "name": "Shop",
+        "url": "https://help.shop.app/hc/en-us/articles/360058842072-Delete-your-account",
+        "difficulty": "easy",
+        "notes": "Deleting your account in the Shop app: From the Account tab in Shop, tap the settings icon on the top right corner. Tap App settings. Tap Delete account, and then tap Delete account. On the Are you sure you want to delete your account? dialog, tap Delete account to complete your account deletion. Deleting your account on a web browser: If you can't log in to the Shop app, then you can delete your account from a web browser. To delete your account, you need to submit your email address at https://shop.app/opt-out, and then check your email to complete deleting your account.",
+        "domains": [
+            "shop.app"
+        ]
+    },
 
     {
         "name": "Shop Your Way",
