@@ -1083,6 +1083,16 @@
         ]
     },
 
+   {
+        "name": "AZMVDNOW",
+        "url": "https://azmvdnow.gov/customers/useraccount/disable",
+        "difficulty": "easy",
+        "notes": "Click ‘Disable Account’ button.  Check ‘Yes, I wish to disable my AZ MVD Now account.’.  Click ‘Disable Account’",
+        "domains": [
+            "azmvdnow.gov"
+        ]
+    },    
+    
     {
         "name": "B&H",
         "url": "https://www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp",
