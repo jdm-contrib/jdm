@@ -13211,6 +13211,16 @@
             "wordpress.org"
         ]
     },
+    
+    {
+        "name": "wappalyzer",
+        "url": "https://www.wappalyzer.com/account/",
+        "difficulty": "easy",
+        "notes": "Click on your e-mail on the top right in the navigator. Find and click on Account. Scroll down to find the delete account button in red. Confirm deletion. Enter password to complete deletion.",
+        "domains": [
+            "wappalyzer.com"
+        ]
+    },
 
     {
         "name": "workupload",
