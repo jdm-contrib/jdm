@@ -846,6 +846,17 @@
     },
 
     {
+        "name": "Arlo",
+        "url": "https://my.arlo.com/#/settings/privacy/delete-account",
+        "difficulty": "medium",
+        "notes": "Visit the linked page and click 'Permanently Delete Arlo Account'. Click 'Continue'.  Click 'Reset and remove all devices'.  Click 'Continue'.  Click 'Delete All Content'.  Click 'Continue'.  Enter your email address and password associated with the account then click 'Permanently Delete Arlo Account'",
+        "domains": [
+            "arlo.com",
+            "my.arlo.com"
+        ]
+    },
+    
+    {
         "name": "ArmorGames",
         "url": "https://armorgames.com/settings/delete-account",
         "difficulty": "easy",
