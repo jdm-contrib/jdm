@@ -12818,6 +12818,16 @@
     },
 
     {
+        "name": "wappalyzer",
+        "url": "https://www.wappalyzer.com/account/",
+        "difficulty": "easy",
+        "notes": "Click on your e-mail on the top right in the navigator. Find and click on Account. Scroll down to find the delete account button in red. Confirm deletion. Enter password to complete deletion.",
+        "domains": [
+            "wappalyzer.com"
+        ]
+    },
+    
+    {
         "name": "Wargaming.net",
         "url": "https://eu.wargaming.net/personal/suspend_account/",
         "difficulty": "medium",
@@ -13200,7 +13210,7 @@
             "wordpress.com"
         ]
     },
-
+    
     {
         "meta": "popular",
         "name": "WordPress.org",
@@ -13209,16 +13219,6 @@
         "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data <a href='https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account'>https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account</a>",
         "domains": [
             "wordpress.org"
-        ]
-    },
-    
-    {
-        "name": "wappalyzer",
-        "url": "https://www.wappalyzer.com/account/",
-        "difficulty": "easy",
-        "notes": "Click on your e-mail on the top right in the navigator. Find and click on Account. Scroll down to find the delete account button in red. Confirm deletion. Enter password to complete deletion.",
-        "domains": [
-            "wappalyzer.com"
         ]
     },
 
