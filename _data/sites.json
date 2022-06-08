@@ -10605,6 +10605,16 @@
     },
 
     {
+        "name": "Shop",
+        "url": "https://help.shop.app/hc/en-us/articles/360058842072-Delete-your-account",
+        "difficulty": "easy",
+        "notes": "On the shop app: Open the 'Account' tab and tap the settings icon on the top right corner. Tap 'App settings', then 'Delete account', and then 'Delete account'. On the 'Are you sure you want to delete your account?' dialog, tap 'Delete account' to complete your account deletion. Deleting your account on a web browser is possible, but hardest: If you can't log in to the Shop app, submit your email address at https://shop.app/opt-out, and then check your email to complete deleting your account.",
+        "domains": [
+            "shop.app"
+        ]
+    },
+
+    {
         "name": "Shop Your Way",
         "url": "https://www.shopyourway.com/secured/people/user/000/settings/account",
         "difficulty": "easy",
