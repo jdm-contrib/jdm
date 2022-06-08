@@ -13561,7 +13561,7 @@
         "name": "Zynga",
         "url": "https://zynga.com/privacy/faqs",
         "difficulty": "hard",
-        "notes": "Place Delete My Account in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail.",
+        "notes": "Requesting for deletion must be done through e-mail. Enter 'Delete My Account' in the subject line and in the body of the e-mail, include your first name, last name, e-mail address and the user ID number for the SNS from which you access their games (if applicable).",
         "notes_tr": "Hesabımı Sil'i konu satırına yerleştirin ve adınızı, soyadınızı, e-posta adresinizi ve oyunlara hangi SNS üzerinden eriştiğini tespit etmek için kullanıcı kimlik numaranızı (varsa) e-postanın gövdesine ekleyin.",
         "email": "privacy@zynga.com",
         "email_subject": "Delete My Account",
