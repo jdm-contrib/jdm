@@ -6333,6 +6333,16 @@
     },
 
     {
+        "name": "Kijiji",
+        "url": "https://help.kijiji.ca/helpdesk/contact-us-step/other",
+        "difficulty": "hard",
+        "notes": "Must contact customer service using the online form. Once completed, wait for e-mail from them. You will need you to reply to this e-mail confirming that the account you e-mailed from should be closed.",
+        "domains": [
+            "kijiji.ca"
+        ]
+    },
+
+    {
         "name": "Kik",
         "url": "https://ws.kik.com/delete",
         "difficulty": "impossible",
