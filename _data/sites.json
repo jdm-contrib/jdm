@@ -5234,6 +5234,16 @@
     },
 
     {
+        "name": "Gule Sider (Norwegian Yellow Pages)",
+        "url": "https://oppdater.gulesider.no/person",
+        "difficulty": "impossible",
+        "notes": "In order to change your information on Gule Sider you'll have to find your profile by searching it in the search box from the link above, and sign in using BankID. You will be able to <b>edit</b> your information. <b>You can't fully remove yourself (remove your name), but you can remove your address and phone number.</b> Some people don't have BankID, for example minors. If you are a minor without BankID, try asking your parents for help. If you're an adult/teen without BankID you're probably screwed.  Their <a href=\"https://www.gulesider.no/hjelp/mine-opplysninger\">help page</a> about changing your details seems to be out of date.",
+        "domains": [
+            "gulesider.no"
+        ]
+    },
+
+    {
         "name": "Gumroad",
         "url": "https://gumroad.com/settings",
         "difficulty": "easy",
