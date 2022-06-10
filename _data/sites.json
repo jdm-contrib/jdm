@@ -13559,13 +13559,9 @@
 
     {
         "name": "Zynga",
-        "url": "https://zynga.com/privacy/faqs",
-        "difficulty": "hard",
-        "notes": "Requesting for deletion must be done through e-mail. Enter 'Delete My Account' in the subject line and in the body of the e-mail, include your first name, last name, e-mail address and the user ID number for the SNS from which you access their games (if applicable).",
-        "notes_tr": "Hesabımı Sil'i konu satırına yerleştirin ve adınızı, soyadınızı, e-posta adresinizi ve oyunlara hangi SNS üzerinden eriştiğini tespit etmek için kullanıcı kimlik numaranızı (varsa) e-postanın gövdesine ekleyin.",
-        "email": "privacy@zynga.com",
-        "email_subject": "Delete My Account",
-        "email_body": "My first and last name are XXXXXX XXXXXX, my e-mail address is XXXXXX, and my user ID number is XXXXXX",
+        "url": "https://privacy.zynga.com/portal/#/",
+        "difficulty": "medium",
+        "notes": "Select the game you want to delete your account from. Log in. Click on the FAQ tab on the top navigation bar. Then click “Go here to request account deletion”. Click the box indicating your understanding and then click Continue. To confirm deletion, click the box, select a reason, and then click Delete My Account. Your account deletion request is now pending. Expect the deletion request to be completed within 30 days of the request.",
         "domains": [
             "zynga.com"
         ]
