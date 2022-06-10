@@ -6948,6 +6948,16 @@
             "account.lyft.com"
         ]
     },
+    
+    {
+        "name": "Macrumors",
+        "url": "https://macrumors.zendesk.com/hc/en-us/articles/201260797-How-do-I-cancel-my-account-",
+        "notes": "There is no account deletion process offered. Remove your account's Personal Details (Location, About You, etc.), your forum signature, and any social media names in the Contact Details section and leave the account dormant.",
+        "difficulty": "impossible", 
+        "domains": [
+            "forums.macrumors.com"
+        ]
+    },
 
     {
         "name": "MacTrade",
