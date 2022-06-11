@@ -2680,6 +2680,17 @@
     },
 
     {
+        "name": "Crowdfinder",
+        "url": "https://crowdfinder.be/privacy",
+        "difficulty": "hard",
+        "notes": "Request requires sending a proof of identity",
+        "email": "info@crowdfinder.be",
+        "domains": [
+            "crowdfinder.be"
+        ]
+    },
+
+    {
         "name": "Crowdfire",
         "url": "https://support.crowdfireapp.com/support/solutions/articles/5000712205-deleting-your-crowdfire-account",
         "difficulty": "easy",
