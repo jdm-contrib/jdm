@@ -10169,7 +10169,7 @@
         "name": "Replit",
         "url": "https://replit.com/account",
         "difficulty": "easy",
-        "notes": "On the linked page under Account select 'Request account deletion'.",
+        "notes": "On the linked page under Account select 'Request account deletion' and then click the 'Yes, Delete my Account' button.",
         "domains": [
             "replit.com",
             "repl.it"
