@@ -1085,8 +1085,8 @@
     {
         "name": "AZMVDNOW",
         "url": "https://azmvdnow.gov/customers/useraccount/disable",
-        "difficulty": "easy",
-        "notes": "Click ‘Disable Account’ button.  Check ‘Yes, I wish to disable my AZ MVD Now account.’.  Click ‘Disable Account’",
+        "difficulty": "impossible",
+        "notes": "Account will not be deleted, just disabled. If you want that, click ‘Disable Account’ button.  Check ‘Yes, I wish to disable my AZ MVD Now account.’.  Click ‘Disable Account’",
         "domains": [
             "azmvdnow.gov"
         ]
