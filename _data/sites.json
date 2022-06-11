@@ -3417,6 +3417,16 @@
     },
 
     {
+        "name": "DriveThruRPG",
+        "url": "https://support.drivethrurpg.com/hc/en-us/requests/new",
+        "notes": "Submit a request asking for the deletion of your account providing your username",
+        "difficulty": "hard",
+        "domains": [
+            "drivethrurpg.com"
+        ]
+    },
+
+    {
         "name": "Drivvo",
         "url": "https://www.drivvo.com/",
         "difficulty": "easy",
