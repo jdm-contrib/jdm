@@ -13521,6 +13521,16 @@
     },
 
     {
+        "name": "Zappos",
+        "url": "https://www.zappos.com/c/contact-us",
+        "difficulty": "hard",
+        "notes": "Contact chat support. You may be asked to verify your identity with your last name & billing address.",
+        "domains": [
+            "zappos.com"
+        ]
+    },
+
+    {
         "name": "Zattoo",
         "url": "https://zattoo.com/account/delete",
         "difficulty": "easy",
