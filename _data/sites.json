@@ -1532,9 +1532,9 @@
 
     {
         "name": "Bloomingdales",
-        "url": "https://www.bloomingdalesprivacyportal.com/consumer/index",
+        "url": "https://customerservice-bloomingdales.com/articles/contact-us",
         "difficulty": "hard",
-        "notes": "Only residents of California and Nevada are allowed to make official data removal requests. However, if you contact Customer Service via one of the methods listed at https://customerservice-bloomingdales.com/articles/contact-us, they may submit a 30-day account deletion request for you anyway.",
+        "notes": "Only residents of California and Nevada are allowed to make official data removal requests. However, if you contact Customer Service via one of the methods listed, they may submit a 30-day account deletion request for you anyway.",
         "domains": [
             "bloomingdales.com"
         ]
