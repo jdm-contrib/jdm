@@ -2475,6 +2475,16 @@
     },
 
     {
+        "name": "Codingame",
+        "url": "https://www.codingame.com/settings",
+        "difficulty": "easy",
+        "notes": "Go to your 'Settings' and scroll to the bottom to find the 'Danger Zone' section. However, the source code one has published will be kept in the system with a GPLv3 license.",
+        "domains": [
+            "codingame.com"
+        ]
+    },
+
+    {
         "name": "Coin",
         "url": "https://support.coinapp.co/hc/en-us/requests/new",
         "difficulty": "hard",
