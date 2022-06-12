@@ -4023,6 +4023,20 @@
     },
 
     {
+        "name": "ExpressVPN",
+        "url": "https://www.expressvpn.com/support/",
+        "difficulty": "hard",
+        "notes": "You must either go through live support on the support page and specifically request the deletion of your account or write an Email from the registered Address. If you no longer have access to it use live support as they sadly never validate if the account is actually yours.",
+        "notes_de": "Auf Englisch kannst du entweder den Support Chat explizit um die Löschung deines Accounts bitten, oder eine Email von der zum Account gehörenden Adresse schicken. Wenn du keinen Zugriff mehr auf die Adresse haben solltes, benutze bitte den Chat, da leider an keiner Stelle geprüft wird wem der Account gehört.",
+        "domains": [
+            "expressvpn.com"
+        ],
+        "email": "support@expressvpn.zendesk.com",
+        "email_subject": "Request to Delete my Account",
+        "email_body": "To whom it may concern,%0D%0A%0D%0AI am reaching out to you to request the cancellation and deletion of the ExpressVPN account attached to this Email address and its data as I am no longer using the service.%0D%0A%0D%0ABest Regards"
+    },
+
+    {
         "meta": "popular",
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
