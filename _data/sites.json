@@ -11924,6 +11924,16 @@
     },
 
     {
+        "name": "Thrive Market",
+        "url": "https://thrivemarket.com/privacy-policy",
+        "difficulty": "hard",
+        "notes": "You may request termination of your account or deletion of certain information by emailing help@thrivemarket.com.",
+        "domains": [
+            "thrivemarket.com"
+        ]
+    },
+
+    {
         "name": "Ticketmaster",
         "url": "https://help.ticketmaster.com/contact-us/",
         "difficulty": "hard",
