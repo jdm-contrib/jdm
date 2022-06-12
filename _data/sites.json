@@ -3487,6 +3487,16 @@
     },
 
     {
+        "name": "Drop (Massdrop)",
+        "url": "https://helpdesk.drop.com/hc/en-us/articles/360019265073-How-do-I-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "Log into your Drop account and submit a Support ticket on drop.com/support. Under Reason for Contacting Support, select Account inquiries.",
+        "domains": [
+            "drop.com"
+        ]
+    },
+
+    {
         "name": "Dropbox",
         "url": "https://www.dropbox.com/account/delete",
         "difficulty": "easy",
@@ -7185,18 +7195,6 @@
         "notes_tr": "Hesabınıza giriş yapın, ve sayfanın altındaki \"Hesabım\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "marvelapp.com"
-        ]
-    },
-
-    {
-        "name": "Massdrop",
-        "url": "https://helpdesk.massdrop.com/hc/en-us/articles/360019265073-How-do-I-delete-my-account-",
-        "difficulty": "hard",
-        "notes": "Contact support via the online form and ask for your account to be deleted.",
-        "notes_tr": "Destek ekibine başvurup, hesabınızı silmek istediğinizi söyleyin.",
-        "notes_de": "Kontaktiere den Support über das Online-Formular und fordere eine Löschung des Accounts.",
-        "domains": [
-            "drop.com"
         ]
     },
 
