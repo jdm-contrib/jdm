@@ -12109,6 +12109,17 @@
     },
 
     {
+        "name": "Toyota.de",
+        "url": "https://www.toyota.de/apps/customerportal#/publish/customer_portal_profile",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to your Settings, choose Tab 'Meine Einstellungen' and click on 'Konto löschen'",
+        "notes_de": "Melde dich an, gehe zu deinen Einstellungen, wähle den Tab 'Meine Einstellungen' und klicke auf 'Konto löschen'",
+        "domains": [
+            "toyota.de"
+        ]
+    },
+
+    {
         "name": "The Tracktor",
         "url": "https://thetracktor.com/account/close",
         "difficulty": "easy",
