@@ -7290,7 +7290,7 @@
         "name": "Mealpal",
         "url": "https://www.mealpal.com/privacy-policy/",
         "difficulty": "hard",
-        "notes": "Should you ever decide to delete your Account, you may do so by emailing.",
+        "notes": "You can only delete your account by emailing them.",
         "email": "hello@mealpal.com",
         "domains": [
             "mealpal.com"
