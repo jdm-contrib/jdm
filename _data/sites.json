@@ -3684,7 +3684,7 @@
         "name": "eBay",
         "url": "https://accountsettings.ebay.ca/uas",
         "difficulty": "medium",
-        "notes": "Hover over name on top left, click 'Account settings', replace all of your personal info with fake info before closing the account, click 'Close account' under the Account preferences column, then scroll down and click 'Close account and delete my data'. Select why you are leaving from drop down and continue. Click on checkmark and then click the left button to close your account.",
+        "notes": "Hover over name on top left, click 'Account settings', click 'Close account' under the Account preferences column, then scroll down and click 'Close account and delete my data'. Select why you are leaving from drop down and continue. Click on checkmark and then click the left button to close your account. If you want an extra safety measure, replace all of your personal info with fake info before closing the account.",
         "notes_tr": "Hesap silme işleminden önce birkaç anket sorusu sorulacaktır.",
         "notes_fr": "Quelques questions d'opinion sera demandées avant la suppression du compte.",
         "notes_de": "Ein paar Fragen werden dir vor dem Löschen gestellt.",
