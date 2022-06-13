@@ -7338,6 +7338,17 @@
     },
 
     {
+        "name": "Mealpal",
+        "url": "https://www.mealpal.com/privacy-policy/",
+        "difficulty": "hard",
+        "notes": "You can only delete your account by emailing them.",
+        "email": "privacy@mealpal.com",
+        "domains": [
+            "mealpal.com"
+        ]
+    },
+
+    {
         "name": "MediaFire",
         "url": "https://www.mediafire.com/policies/data_deletion.php",
         "difficulty": "hard",
