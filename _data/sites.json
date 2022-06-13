@@ -5896,6 +5896,16 @@
     },
 
     {
+        "name": "include",
+        "url": "https://www.include.io/help",
+        "difficulty": "easy",
+        "notes": "Go to the dropdown under your picture in the top right corner and click 'View Profile'. Click on the gear image next to your photo on your profile and click 'Account Settings'. Click 'Delete Account' in the bottom left corner. Type in your email and click 'I understand, delete this account'.",
+        "domains": [
+            "include.io"
+        ]
+    },
+
+    {
         "name": "Indeed",
         "url": "https://indeed.com",
         "difficulty": "easy",
