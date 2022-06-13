@@ -6370,6 +6370,17 @@
     },
 
     {
+        "name": "Kahoot",
+        "url": "https://create.kahoot.it/delete-account",
+        "difficulty": "easy",
+        "notes": "Follow the link, select reason for deleting, and click 'Delete Account'. Kahoots set to public won’t be deleted along with your account. If you’d like to delete them, you’ll need to do it manually.",
+        "domains": [
+            "kahoot.com",
+            "kahoot.it"
+        ]
+    },
+
+    {
         "name": "Kakao",
         "url": "https://accounts.kakao.com/weblogin/deactivate",
         "difficulty": "medium",
