@@ -6825,6 +6825,18 @@
     },
 
     {
+        "name": "Linkvertise",
+        "url": "https://linkvertise.com/imprint",
+        "difficulty": "hard",
+        "notes": "You must specify in the email whether you want to delete a premium or a publisher account.",
+        "email": "info@linkvertise.com",
+        "email_subject": "Linkvertise account deletion request",
+        "domains": [
+            "linkvertise.com"
+        ]
+    },
+
+    {
         "name": "Linode",
         "url": "https://cloud.linode.com/account/settings",
         "difficulty": "easy",
