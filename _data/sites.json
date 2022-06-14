@@ -10683,6 +10683,19 @@
     },
 
     {
+        "name": "SendGrid",
+        "url": "https://support.sendgrid.com/hc/en-us/articles/4410760485403-Data-Retention-and-Deletion-in-Twilio-Products",
+        "difficulty": "hard",
+        "notes": "You must send an email from your account's registered address. Some account data may be retained in anonymized form for up to a year.",
+        "email": "datasubjectrequests@sendgrid.com",
+        "email_body": "Please delete my SendGrid account under my email address.",
+        "email_subject": "SendGrid account deletion request",
+        "domains": [
+            "sendgrid.com"
+        ]
+    },
+
+    {
         "name": "SensCritique",
         "url": "https://www.senscritique.com/parametres/compte-suppression",
         "difficulty": "easy",
