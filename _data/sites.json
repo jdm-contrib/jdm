@@ -10288,6 +10288,15 @@
     },
 
     {
+        "name": "RetroAchievements",
+        "url": "https://retroachievements.org/controlpanel.php",
+        "difficulty": "easy",
+        "domains": [
+            "retroachievements.org"
+        ]
+    },
+
+    {
         "name": "Retrospring",
         "url": "https://retrospring.net/settings/account",
         "difficulty": "easy",
