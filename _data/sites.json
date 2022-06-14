@@ -4026,7 +4026,7 @@
         "name": "ExpressVPN",
         "url": "https://www.expressvpn.com/support/",
         "difficulty": "hard",
-        "notes": "You must either go through live support on the support page and specifically request the deletion of your account or write an Email from the registered Address. Either way you will probably be asked to confirm again by mail.",
+        "notes": "You must either go through live support on the support page and specifically request the deletion of your account or write an e-mail from the registered address. Either way you will probably be asked to confirm again by mail.",
         "notes_de": "Auf Englisch kannst du entweder den Support Chat explizit um die Löschung deines Accounts bitten, oder eine Email von der zum Account gehörenden Adresse schicken. Wie du auch vorgehst wirst du vermutlich aufgefordert werden die Löschung per Mail zu bestätigen.",
         "email": "support@expressvpn.zendesk.com",
         "email_subject": "Request to Delete my Account",
