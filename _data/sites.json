@@ -7386,10 +7386,10 @@
 
     {
         "name": "MediaFire",
-        "url": "https://www.mediafire.com/policies/data_deletion.php",
-        "difficulty": "hard",
-        "notes": "Send an email and request account deletion.",
-        "email": "privacy@mediafire.com",
+        "url": "https://www.mediafire.com/myaccount/accountbilling.php",
+        "difficulty": "medium",
+        "notes": "Scroll to the bottom of the page and click 'Delete my Account', make sure you're logged in and follow the steps.",
+        "notes_es": "Abajo del todo encontrarás un botón que dice 'Delete my Account', asegúrate de tener una sesión iniciada primero y sigue los pasos.",
         "domains": [
             "mediafire.com"
         ]
