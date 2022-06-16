@@ -4660,6 +4660,16 @@
     },
 
     {
+        "name": "GameFAQs",
+        "url": "https://gamefaqs.gamespot.com/user/closedel",
+        "difficulty": "medium",
+        "notes": "To delete your account, first close it with the provided link, after that you will be able to delete it on the same page.",
+        "domains": [
+            "https://gamefaqs.gamespot.com/"
+        ]
+    },
+
+    {
         "name": "Gameforge",
         "url": "https://gameforge.com/support",
         "difficulty": "hard",
