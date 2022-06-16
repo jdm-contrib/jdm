@@ -12437,6 +12437,19 @@
     },
 
     {
+        "name": "Twilio",
+        "url": "https://support.twilio.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Type something along the lines of 'delete my account' in the chatbox, then select 'No, show me more'. Scroll down and select 'Contact Support'. Select 'Not Product Specific' as the product.",
+        "email": "support@twilio.com",
+        "email_body": "Please delete my Twilio user account.",
+        "email_subject": "Twilio user account deletion request",
+        "domains": [
+            "twilio.com"
+        ]
+    },
+
+    {
         "name": "Twitch",
         "url": "https://www.twitch.tv/user/delete-account",
         "difficulty": "easy",
