@@ -12926,6 +12926,16 @@
     },
 
     {
+        "name": "Vinted",
+        "url": "https://www.vinted.de/member/general/delete_account",
+        "difficulty": "easy",
+        "notes": "Go to the account deletion page (while you are logged in), then check the checkbox that you really want to delete your account and press confirm.",
+        "domains": [
+            "vinted.de"
+        ]
+    },
+
+    {
         "name": "VIP Select",
         "url": "https://www.vipselect.com.br/",
         "email": "vipselect.rapido@gmail.com",
