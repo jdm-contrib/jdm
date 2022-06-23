@@ -2533,6 +2533,16 @@
     },
 
     {
+        "name": "Coingecko",
+        "url": "https://support.coingecko.com/hc/en-us/articles/4537981325977-How-can-I-delete-my-account-",
+        "difficulty": "easy",
+        "notes": "You can delete your CoinGecko account directly from the website by clicking the 'Profile' icon > 'Login' and 'Security'. At the 'Login and Security' page, please click on 'Delete my account' to proceed with account deletion",
+        "domains": [
+            "coingecko.com"
+        ]
+    },
+
+    {
         "name": "CoinMarketCap",
         "url": "https://support.coinmarketcap.com/hc/en-us/requests/new",
         "difficulty": "hard",
