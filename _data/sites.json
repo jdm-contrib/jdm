@@ -2533,7 +2533,7 @@
     },
 
     {
-        "name": "Coingecko",
+        "name": "CoinGecko",
         "url": "https://support.coingecko.com/hc/en-us/articles/4537981325977-How-can-I-delete-my-account-",
         "difficulty": "easy",
         "notes": "You can delete your CoinGecko account directly from the website by clicking the 'Profile' icon > 'Login' and 'Security'. At the 'Login and Security' page, please click on 'Delete my account' to proceed with account deletion",
@@ -6121,6 +6121,16 @@
     },
 
     {
+        "name": "Interactive Brokers",
+        "url": "https://guides.interactivebrokers.com/am/am/manageaccount/howtocloseyouraccount.htm",
+        "difficulty": "medium",
+        "notes": "There are a lot of extra steps to go through before being able to delete your account, which is detailed in the Account Deletion guide.",
+        "domains": [
+            "interactivebrokers.ca"
+        ]
+    },
+
+    {
         "name": "Internet Archive",
         "url": "https://archive.org/account/index.php?settings=1",
         "difficulty": "easy",
@@ -9476,6 +9486,16 @@
     },
 
     {
+        "name": "Pixilart",
+        "url": "https://www.pixilart.com/",
+        "difficulty": "impossible",
+        "notes": "You can deactivate your account in Account Settings -> Deactivate Account, but you can't completely delete it",
+        "domains": [
+            "pixilart.com"
+        ]
+    },
+
+    {
         "name": "pixiv",
         "url": "https://www.pixiv.net/leave_pixiv.php",
         "difficulty": "easy",
@@ -11812,6 +11832,15 @@
         "difficulty": "easy",
         "domains": [
             "tastebuds.fm"
+        ]
+    },
+
+    {
+        "name": "TastyWorks",
+        "url": "https://support.tastyworks.com/support/solutions/articles/43000435334-close-account",
+        "difficulty": "hard",
+        "domains": [
+            "tastyworks.com"
         ]
     },
 
