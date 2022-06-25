@@ -13635,6 +13635,17 @@
     },
 
     {
+        "name": "You.com",
+        "url": "https://about.you.com/hc/faq/how-do-i-delete-my-profile/",
+        "difficulty": "hard",
+        "email": "legal@you.com",
+        "domains": [
+            "you.com",
+            "about.you.com"
+        ]
+    },
+
+    {
         "name": "YouTube",
         "meta": "popular",
         "url": "https://myaccount.google.com/deleteservices",
