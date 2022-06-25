@@ -2280,6 +2280,15 @@
     },
 
     {
+        "name": "Clockify",
+        "url": "https://clockify.me/user/settings/delete",
+        "difficulty": "easy",
+        "domains": [
+            "clockify.me"
+        ]
+    },
+
+    {
         "name": "Cloud Convert",
         "url": "https://cloudconvert.com/delete#",
         "difficulty": "easy",
