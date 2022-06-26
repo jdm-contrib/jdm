@@ -10778,6 +10778,18 @@
     },
 
     {
+        "name": "Session",
+        "url": "https://sessionapp.zendesk.com/hc/en-us/articles/7726435197849-How-can-I-delete-my-Session-account-",
+        "difficulty": "easy",
+        "notes": "Go into settings, press 'Clear Data', then 'Delete' and finally 'Entire Account'.",
+        "notes_it": "Vai nelle impostazioni in alto a sinistra, premi su 'Elimina dati', poi su 'Cancella' e infine su 'Account completo'.",
+        "domains": [
+            "getsession.org",
+            "sessionapp.zendesk.com"
+        ]
+    },
+
+    {
         "name": "SetApp",
         "url": "https://my.setapp.com/account",
         "difficulty": "easy",
@@ -13640,6 +13652,17 @@
         "difficulty": "easy",
         "domains": [
             "youneedabudget.com"
+        ]
+    },
+
+    {
+        "name": "You.com",
+        "url": "https://about.you.com/hc/faq/how-do-i-delete-my-profile/",
+        "difficulty": "hard",
+        "email": "legal@you.com",
+        "domains": [
+            "you.com",
+            "about.you.com"
         ]
     },
 
