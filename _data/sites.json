@@ -282,7 +282,7 @@
         "url": "https://support.activision.com/privacy",
         "difficulty": "hard",
         "email": "privacy@activision.com",
-        "notes": "You must sign in to each login provider to have that associated data deleted.",
+        "notes": "Must put in a request, via a ticket system, while logged in to the account (to verify the identity of the account owner).",
         "domains": [
             "activision.com",
             "s.activision.com",
