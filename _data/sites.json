@@ -9593,13 +9593,13 @@
 
     {
         "name": "PlayStation Network",
-        "url": "https://support.us.playstation.com/app/contact_options",
-        "difficulty": "impossible",
-        "notes": "It is not possible to delete your PlayStation Network account.  The best you can do is delete any personal information that you have stored on their website.",
-        "notes_tr": "PlayStation Network hesabınızı silmeniz mümkün değildir. Yapabileceğiniz en iyi şey, sitede bulunan kişisel verileri silmektir.",
-        "notes_fr": "Il n'est pas possible de supprimer votre compte PSN. Le meilleur que vous pouvez faire est de supprimer toutes vos informations enregistrées dans le site.",
+        "url": "https://www.playstation.com/en-us/support/account/close-account-for-psn/",
+        "difficulty": "hard",
+        "notes": "You need to have your account e-mail address, gamer tag, playstation serial number (or payment method, with transaction ID), and account name (not profile name) on hand to fulfill the request. This may take some time and should be done properly the first time (if possible).",
         "domains": [
-            "playstation.com"
+            "playstation.com",
+            "sony.com",
+            "sonyentertainmentnetwork.com"
         ]
     },
 
