@@ -6746,6 +6746,15 @@
     },
 
     {
+        "name": "Lenovo Forums",
+        "url": "https://forums.lenovo.com/user/myprofilepage/personal/closeaccount",
+        "difficulty": "easy",
+        "domains": [
+            "forums.lenovo.com"
+        ]
+    },
+
+    {
         "name": "Lenovo ID",
         "url": "account.lenovo.com/us/en/account/myprofile.html",
         "difficulty": "impossible",
@@ -6755,16 +6764,6 @@
         ]
     },
 
-    {
-        "name": "Lenovo Forums",
-        "url": "https://forums.lenovo.com/user/myprofilepage/personal/closeaccount",
-        "difficulty": "easy",
-        "domains": [
-            "forums.lenovo.com"
-        ]
-    },
-
-    
     {
         "name": "Lenstore",
         "url": "https://www.lenstore.co.uk/contact-us",
