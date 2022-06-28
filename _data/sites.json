@@ -6746,6 +6746,25 @@
     },
 
     {
+        "name": "Lenovo Forums",
+        "url": "https://forums.lenovo.com/user/myprofilepage/personal/closeaccount",
+        "difficulty": "easy",
+        "domains": [
+            "forums.lenovo.com"
+        ]
+    },
+
+    {
+        "name": "Lenovo ID",
+        "url": "https://account.lenovo.com/us/en/account/myprofile.html",
+        "difficulty": "impossible",
+        "notes": "Delete the Lenovo Forums account first if you have it, otherwise you won't be able to delete it anymore. A password is required: if you don't have one (because you signed in with Auth), you need to reset the password with \"Forgot Password\". You must manually sign out after deactivation.",
+        "domains": [
+            "lenovo.com"
+        ]
+    },
+
+    {
         "name": "Lenstore",
         "url": "https://www.lenstore.co.uk/contact-us",
         "difficulty": "hard",
