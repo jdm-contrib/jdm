@@ -12672,12 +12672,12 @@
 
     {
         "name": "Udacity",
-        "url": "https://udacity.zendesk.com/hc/en-us/articles/360024003151-How-do-I-request-to-delete-my-account-",
+        "url": "https://udacity.trsnd.co/policies?action=ERASURE&modal=take-control",
         "difficulty": "medium",
-        "notes": "After logging in into your Udacity account and clicking on the button \"Delete Your Data\" under \"Personal Information\" you get sent a code by email to verify the deletion. Note that you are still being charged for any courses you are enrolled in!",
-        "notes_tr": "Bir Udacity çalışanı, hesabı kullanmayı bırakmanızı önerir; bu, şu anda hesabı silmenin bir yolu olmadığı anlamına gelir.",
+        "notes": "Follow the link to Udacity's privacy centre. Select \"Delete my personal data\" from the modal. In the next screen enter the email address that you use for Udacity and submit. You will be sent an email with a login link. Follow the link and you will be taken back to the privacy centre where a confirmation modal will be shown. Finally, confirm the request to delete your account. Note that you are still being charged for any courses you are enrolled in!",
         "domains": [
-            "udacity.com"
+            "udacity.com",
+            "udacity.trsnd.co"
         ]
     },
 
