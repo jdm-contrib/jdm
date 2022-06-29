@@ -5919,7 +5919,7 @@
     {
         "name": "iHeart",
         "url": "https://help.iheart.com/hc/en-us/articles/4424516427021-How-to-Delete-your-iHeart-Account",
-        "difficulty": "hard",
+        "difficulty": "medium",
         "notes": "You must use the mobile app to delete your account without contacting support.",
         "domains": [
             "iheart.com"
