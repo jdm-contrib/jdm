@@ -5917,6 +5917,16 @@
     },
 
     {
+        "name": "iHeart",
+        "url": "https://help.iheart.com/hc/en-us/articles/4424516427021-How-to-Delete-your-iHeart-Account",
+        "difficulty": "hard",
+        "notes": "You must use the mobile app to delete your account without contacting support.",
+        "domains": [
+            "iheart.com"
+        ]
+    },
+
+    {
         "name": "ImageShack",
         "url": "https://imageshack.com/my/settings",
         "difficulty": "easy",
