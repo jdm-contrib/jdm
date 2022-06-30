@@ -163,8 +163,10 @@
         "url": "https://a1office.co/contact",
         "difficulty": "hard",
         "email": "connect@a1office.co",
-        "notes":"Only way to delete is by emailing their support team",
-        "domains":["a1office.co"]
+        "notes": "Only way to delete is by emailing their support team",
+        "domains": [
+            "a1office.co"
+        ]
     },
     {
         "name": "Abacashi",
