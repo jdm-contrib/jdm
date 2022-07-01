@@ -3470,7 +3470,6 @@
         "url": "https://www.dreamstime.com/account/edit-profile",
         "difficulty": "easy",
         "notes": "Click on the \"Delete account\" link towards the bottom of the page and then confirm your action in the opened pop-up. Accounts can be deleted only if you have no activity registered (uploads, downloads, comments,blogs etc).",
-        "notes_tr": "Sayfanın alt kısmına doğru gidin ve \"Hesabı Sil\" bağlantısını tıklayın ve ardından açılan pencerede işleminizi onaylayın. Hesaplar yalnızca kayıtlı hiçbir etkinliğiniz yoksa (yüklemeler, indirmeler, yorumlar, bloglar vb.) silinebilir.",
         "domains": [
             "dreamstime.com"
         ]
@@ -4508,7 +4507,7 @@
         "name": "Franz",
         "url": "https://meetfranz.com/user/profile",
         "difficulty": "easy",
-        "notes": "Navigate to the bottom of the page where you have to option to delete your account.",
+        "notes": "Navigate to the bottom of the profile page where you have the option to delete your account.",
         "domains": [
             "meetfranz.com"
         ]
@@ -4692,7 +4691,7 @@
     {
         "name": "GAINSFIRE",
         "url": "https://www.gainsfire.com/",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "Open the App on your phone, navigate to your settings and select \"Delete account\" at the very bottom of the page.",
         "domains": [
             "gainsfire.com"
