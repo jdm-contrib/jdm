@@ -9790,9 +9790,9 @@
 
     {
         "name": "Pokémon GO",
-        "url": "https://niantic.helpshift.com/a/pokemon-go/?s=account-sign-in&f=how-do-i-delete-my-pokemon-go-account&l=en&p=web",
-        "difficulty": "hard",
-        "notes": "Go to https://niantic.helpshift.com/a/pokemon-go/?p=web&contact=1 , fill in your email and username, then select Delete My Accout from the drop down menu and fill in the required fields, then you'll get an email to verify the deletion. After replying with the code it may take several weeks to process.",
+        "url": "https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3518-how-do-i-delete-my-pokemon-go-account-1656453288/",
+        "difficulty": "easy",
+        "notes": "Sign in to the app with the game account you want to delete, then navigate to the Pokémon GO app 'Settings' -> 'Advanced Settings' -> 'Delete Account' and confirm.",
         "domains": [
             "niantic.helpshift.com",
             "gorelease-assets.nianticstatic.com",
