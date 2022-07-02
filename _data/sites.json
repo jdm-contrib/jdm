@@ -1483,6 +1483,16 @@
     },
 
     {
+        "name": "BlackBox",
+        "url": "https://www.blackbox.global/contact",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account.",
+        "domains": [
+            "blackbox.global"
+        ]
+    },
+
+    {
         "name": "BlackSpigot",
         "url": "https://blackspigot.com/threads/delete-account.9291/",
         "difficulty": "impossible",
@@ -3479,8 +3489,7 @@
         "name": "Dreamstime",
         "url": "https://www.dreamstime.com/account/edit-profile",
         "difficulty": "easy",
-        "notes": "Click on the \"Delete account\" link towards the bottom of the page and then confirm your action in the opened pop-up.",
-        "notes_tr": "Sayfanın alt kısmına doğru gidin ve \"Hesabı Sil\" bağlantısını tıklayın ve ardından açılan pencerede işleminizi onaylayın.",
+        "notes": "Click on the \"Delete account\" link towards the bottom of the page and then confirm your action in the opened pop-up. Accounts can be deleted only if you have no activity registered (uploads, downloads, comments,blogs etc).",
         "domains": [
             "dreamstime.com"
         ]
@@ -4515,6 +4524,16 @@
     },
 
     {
+        "name": "Franz",
+        "url": "https://meetfranz.com/user/profile",
+        "difficulty": "easy",
+        "notes": "Navigate to the bottom of the profile page where you have the option to delete your account.",
+        "domains": [
+            "meetfranz.com"
+        ]
+    },
+
+    {
         "name": "FreeBitco.In",
         "url": "https://freebitco.in",
         "difficulty": "impossible",
@@ -4686,6 +4705,16 @@
         "notes_pl": "Po zalogowaniu się do konta w zakładce Moje konto - Profil znajduje się opcja usuń konto. Usunięty numer GG wraca do puli numerów dostępnych dla nowych użytkowników.",
         "domains": [
             "www.gg.pl"
+        ]
+    },
+
+    {
+        "name": "GAINSFIRE",
+        "url": "https://www.gainsfire.com/",
+        "difficulty": "easy",
+        "notes": "Open the App on your phone, navigate to your settings and select \"Delete account\" at the very bottom of the page.",
+        "domains": [
+            "gainsfire.com"
         ]
     },
 
@@ -7358,6 +7387,16 @@
         "notes_tr": "Hesabınıza giriş yapın, ve sayfanın altındaki \"Hesabım\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "marvelapp.com"
+        ]
+    },
+
+    {
+        "name": "MasterClass",
+        "url": "https://privacy.masterclass.com/policies",
+        "difficulty": "impossible",
+        "notes": "It's not possible to delete your account, but you can send a request to delete your personal data by making a Privacy Request.",
+        "domains": [
+            "masterclass.com"
         ]
     },
 
