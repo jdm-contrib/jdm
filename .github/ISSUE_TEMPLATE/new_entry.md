@@ -4,6 +4,7 @@ about: Tell us about a new service you've discovered, and how their deletion pro
 title: 'Add (the service's Name)'
 labels: 'new_entry'
 assignees: ''
+
 ---
 
 ## Backstory
