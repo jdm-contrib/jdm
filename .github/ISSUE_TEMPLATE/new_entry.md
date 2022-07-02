@@ -1,7 +1,7 @@
 ---
 name: New Entry
-about: Tell us about a new service you've discovered, and how their deletion process works.
-title: 'Add (the service's Name).'
+about: Tell us about a new service you've discovered, and how their deletion process works
+title: 'Add (the service's Name)'
 labels: 'new_entry'
 assignees: ''
 ---
