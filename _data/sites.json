@@ -10520,10 +10520,10 @@
     },
 
     {
-        "name": "Riseup",
+        "name": "RiseUp",
         "url": "https://account.riseup.net",
-        "difficulty": "hard",
-        "notes": "Go to account.riseup.net > 'Login' > Press 'purge data' then 'close account'. Finally, follow any instructions on screen.
+        "difficulty": "easy",
+        "notes": "Go to account.riseup.net > 'Login' > Press 'purge data' then press 'close account'. Finally, follow any instructions on screen.
         "domains": [
             "riseup.net"
         ]
