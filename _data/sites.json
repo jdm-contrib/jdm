@@ -10520,6 +10520,16 @@
     },
 
     {
+        "name": "Riseup",
+        "url": "https://account.riseup.net",
+        "difficulty": "hard",
+        "notes": "Go to account.riseup.net > 'Login' > Press 'purge data' then 'close account'. Finally, follow any instructions on screen.
+        "domains": [
+            "riseup.net"
+        ]
+    },
+
+    {
         "name": "Rituals.com",
         "url": "https://service.rituals.com/s/contact?topic=a2L4L0000008xwDUAQ&language=de&country=DE",
         "difficulty": "hard",
