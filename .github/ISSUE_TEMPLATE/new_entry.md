@@ -13,7 +13,7 @@ assignees: ''
 ## Data
 
 - `name`: <!-- The name of the service -->
-- `url`: <!-- The url of the account-deletion page. If non exists, the url should be a contact or help page explaining the deletion process. -->
+- `url`: <!-- The url of the account-deletion page. If none exists, the url should be a contact or help page explaining the deletion process. -->
 - `url_CODE`: <!-- *(optional)* Use the language `CODE` as suffix of the url field to use language-specific deletion codes, shown on the respective language page -->
 - `difficulty`: <!-- Use one of the following difficulties easy/medium/hard/impossible, to learn more about all of the different difficulties [press here](https://github.com/jdm-contrib/justdelete.me-chrome-extension](https://github.com/jdm-contrib/jdm/blob/master/CONTRIBUTING.md). -->
 - `notes`: <!-- Notes will be shown when someone presses the "more info" button on that service's deletion listing. Notes include additional information people might need to delete their accounts. -->
