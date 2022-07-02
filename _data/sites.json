@@ -5009,15 +5009,6 @@
     },
 
     {
-        "name": "Gittigidiyor",
-        "url": "http://www.gittigidiyor.com/uyelik-iptali",
-        "difficulty": "easy",
-        "domains": [
-            "gittigidiyor.com"
-        ]
-    },
-
-    {
         "name": "Gizmodo",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
