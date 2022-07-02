@@ -4,6 +4,7 @@ about: Tell us if a service you know about has changed its deletion process
 title: 'Update (the service's Name)'
 labels: 'update_entry'
 assignees: ''
+
 ---
 
 ## Backstory
