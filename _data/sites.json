@@ -9279,10 +9279,9 @@
 
     {
         "name": "PayPal",
-        "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
-        "difficulty": "impossible",
-        "notes": "Log in. Click 'Profile' near the top of the page. Click 'My settings'. Click 'Close Account' in the 'Account type' section and follow the steps listed. Your account is never deleted though.",
-        "notes_tr": "Giriş yapın. Sayfanın üst kısmındaki \"Profil\" bağlantısını tıklayın. \"Ayarlarım\" kısmından 'Hesap türü' bölümünde \"Hesabı Kapat\" tuşuna tıklayın ve gösterilen adımları izleyin. Yine de hesabınız asla silinmez.",
+        "url": "https://www.paypal.com/us/smarthelp/article/how-can-i-get-my-personal-data-erased-from-paypal--faq4464",
+        "difficulty": "hard",
+        "notes": "PayPal support must be contacted for your data to be deleted (Note that it's only limited to certain countries because of the GDPR)",
         "domains": [
             "paypal.com"
         ]
