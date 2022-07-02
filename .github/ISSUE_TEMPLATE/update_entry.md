@@ -13,7 +13,7 @@ assignees: ''
 ## Data
 
 - `name`: <!-- New Name -->
-- `url`: <!-- New Url -->
+- `url`: <!-- New URL -->
 - `difficulty`: <!-- New Difficulty: easy/medium/hard/impossible -->
 - `notes`: <!-- New Notes -->
 - `email`: <!-- New Email Address -->
