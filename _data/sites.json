@@ -3620,18 +3620,6 @@
     },
 
     {
-        "name": "Dubsmash",
-        "url": "https://dubsmash.com/delete-account",
-        "difficulty": "easy",
-        "notes": "Click at \"Delete now\" to confirm the deletion of your account.<br><br>You can also request the deletion of your account via <a href=\"mailto:support@dubsmash.com\">email</a>.",
-        "notes_tr": "Hesabınızı silmeyi onaylamak için \"Şimdi Sil\" tuşuna tıklayın. Ayrıca hesabınızın silinmesini e-posta aracılığı ile de isteyebilirsiniz.",
-        "notes_pt_br": "Clique em \"Delete now\" para confirmar a exclusão da sua conta.<br><br>Você também pode requisitar a exclusão da sua conta via <a href=\"mailto:support@dubsmash.com\">e-mail</a>.",
-        "domains": [
-            "dubsmash.com"
-        ]
-    },
-
-    {
         "name": "Duo",
         "url": "https://help.duo.com/s/article/2162",
         "difficulty": "hard",
