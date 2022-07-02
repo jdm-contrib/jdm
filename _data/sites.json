@@ -3322,17 +3322,6 @@
     },
 
     {
-        "name": "Discshop.fi",
-        "url": "https://www.discshop.fi/ota_yhteytta",
-        "difficulty": "hard",
-        "notes": "Contact Discshop.fi's customer support and request for your account to be closed.",
-        "notes_tr": "Discshop.fi'nin müşteri desteğine başvurun ve hesabınızın kapanmasını isteyin.",
-        "domains": [
-            "discshop.fi"
-        ]
-    },
-
-    {
         "name": "Disqus",
         "url": "https://disqus.com/home/settings/account/",
         "difficulty": "easy",
