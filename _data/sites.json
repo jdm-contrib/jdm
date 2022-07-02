@@ -52,6 +52,17 @@
     },
 
     {
+        "name": "1984 Hosting",
+        "url": "https://1984.hosting/GDPR/",
+        "difficulty": "easy",
+        "notes": "If you are logged in, you can use the automated deletion process. If that doesn't work, you can contact their support to do it.",
+        "email": "gdpr@1984.is",
+        "domains": [
+            "1984.hosting"
+        ]
+    },
+
+    {
         "name": "1Password",
         "url": "https://my.1password.com/profile",
         "difficulty": "easy",
