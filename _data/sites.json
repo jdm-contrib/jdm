@@ -11651,17 +11651,6 @@
     },
 
     {
-        "name": "Storify",
-        "url": "http://storify.com/settings#account",
-        "difficulty": "easy",
-        "notes": "Just click the 'Delete account' button in red",
-        "notes_tr": "Kırmızı \"Hesabı Sil\" düğmesini tıklamanız yeterlidir",
-        "domains": [
-            "storify.com"
-        ]
-    },
-
-    {
         "name": "Strava",
         "url": "https://www.strava.com/athlete/delete_your_account",
         "difficulty": "medium",
