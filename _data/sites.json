@@ -13259,6 +13259,17 @@
     },
 
     {
+        "name": "Watch2Gether",
+        "url": "https://w2g.tv/users/current_user",
+        "difficulty": "easy",
+        "notes": "Scroll down to the footer, click \"Delete my account\" and confirm.",
+        "notes_de": "Scrolle zur Fußzeile, klicke auf \"Meinen Acccount Löschen\" und bestätige es.",
+        "domains": [
+            "w2g.tv"
+        ]
+    },
+
+    {
         "name": "Wattpad",
         "url": "https://www.wattpad.com/settings",
         "difficulty": "impossible",
