@@ -9,7 +9,7 @@ jobs:
     name: Run Jekyll Tests
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7.2
@@ -19,7 +19,7 @@ jobs:
     name: Validate JSON
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7.2
@@ -29,7 +29,7 @@ jobs:
     name: Ping Websites
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7.2
@@ -39,7 +39,7 @@ jobs:
     name: Check Files Formatting
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7.2
