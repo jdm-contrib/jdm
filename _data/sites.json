@@ -10312,6 +10312,17 @@
     },
 
     {
+        "name": "Redacteur.com",
+        "url": "https://www.redacteur.com/identities/edit",
+        "difficulty": "easy",
+        "notes": "Login to your account. Click on \"My Account\" then \"My connection information\". Finally click \"Delete my account\"",
+        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte > Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
+        "domains": [
+            "redacteur.com"
+        ]
+    },
+
+    {
         "name": "Redbubble",
         "url": "https://www.redbubble.com/account/settings/cancel",
         "difficulty": "easy",
@@ -12381,6 +12392,17 @@
         "notes": "Login to your account. Click on \"Learn more about Account Deletion\". Press \"Yes, delete account\". Fill in your password",
         "domains": [
             "tradingview.com"
+        ]
+    },
+
+    {
+        "name": "Traduc.com",
+        "url": "https://traduc.com/users/edit",
+        "difficulty": "easy",
+        "notes": "Login to your account. Click on \"My Account\" then \"My connection information\". Finally click \"Delete my account\"",
+        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte > Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
+        "domains": [
+            "traduc.com"
         ]
     },
 
