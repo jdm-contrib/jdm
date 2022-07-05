@@ -12301,6 +12301,12 @@
     },
 
     {
+        "name": "TomTom GO",
+        "url": "https://help.tomtom.com/hc/en-gb/requests/new?ticket_form_id=360000697820",
+        "difficulty": "medium"
+    },
+
+    {
         "name": "Too Good To Go",
         "url": "https://space.toogoodtogo.com/privacy",
         "difficulty": "easy",
