@@ -5664,7 +5664,10 @@
         "name": "HeroX",
         "url": "https://www.herox.com/profile/edit",
         "difficulty": "easy",
-        "notes": "Account deletion button can be found at the bottom of the profile edit page."
+        "notes": "Account deletion button can be found at the bottom of the profile edit page.",
+        "domains": [
+            "herox.com"
+        ]
     },
 
     {
