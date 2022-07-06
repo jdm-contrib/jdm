@@ -10395,6 +10395,16 @@
     },
 
     {
+        "name": "Renderforest",
+        "url": "https://www.renderforest.com/profile/account",
+        "difficulty": "easy",
+        "notes": "Click 'Delete account' in the middle of the page, then enter your password.",
+        "domains": [
+            "renderforest.com"
+        ]
+    },
+
+    {
         "name": "Replay Poker",
         "url": "https://www.replaypoker.com/settings/deactivate",
         "difficulty": "easy",
