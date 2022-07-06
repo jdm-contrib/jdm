@@ -12311,6 +12311,16 @@
     },
 
     {
+        "name": "TomTom GO",
+        "url": "https://help.tomtom.com/hc/en-gb/requests/new?ticket_form_id=360000697820",
+        "difficulty": "hard",
+        "notes": "Fill in the form to automatically open a support ticket.",
+        "domains": [
+            "tomtom.com"
+        ]
+    },
+
+    {
         "name": "Too Good To Go",
         "url": "https://space.toogoodtogo.com/privacy",
         "difficulty": "easy",
