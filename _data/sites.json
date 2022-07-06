@@ -5661,6 +5661,16 @@
     },
 
     {
+        "name": "HeroX",
+        "url": "https://www.herox.com/profile/edit",
+        "difficulty": "easy",
+        "notes": "Account deletion button can be found at the bottom of the profile edit page.",
+        "domains": [
+            "herox.com"
+        ]
+    },
+
+    {
         "name": "Hi-Rez Studios",
         "url": "https://my.hirezstudios.com/security",
         "difficulty": "hard",
