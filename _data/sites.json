@@ -6601,6 +6601,16 @@
     },
 
     {
+        "name": "Killstar",
+        "url": "https://us.killstar.com/pages/contact-us",
+        "difficulty": "hard",
+        "notes": "Visit the url and choose from the drop down menu: 1) What can we help you with? (Choose 'Something else'), 2) How can we help? (Choose 'Website error'), 3) Choose your region (Choose which region), 4) Fill out your name, 5) Fill out your email address and confirm it, 6) What should our team know so they can help? ('Please delete my account and all associated information'), 6) Submit. Then you will receive an email and have to confirm the following information: 1) Name on the account, 2) Shipping address on the account, 3) Email address on the account, 4) Phone number on the account, 5) Which store? US, UK, or EU. Then, you will be emailed again stating that in 15 days the data will be removed from their system.",
+        "domains": [
+            "us.killstar.com"
+        ]
+    },
+
+    {
         "name": "Kinguin",
         "url": "https://www.kinguin.net/about-us",
         "difficulty": "hard",
