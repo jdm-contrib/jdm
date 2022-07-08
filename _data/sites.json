@@ -3407,8 +3407,9 @@
         "name": "Dollskill",
         "url": "https://www.dollskill.com/pages/contact-us",
         "difficulty": "hard",
-        "notes": "Email customer service (dataprotection@dollskill.com) with the following information: 1: Email address associated with the account 2: Phone number (if you are signed up for texts) 3: What data you would like removed? (account, personal information, payment information, etc). They will email you once that is complete.",
+        "notes": "Email customer service and they will reply once that is complete.",
         "email": "dataprotection@dollskill.com",
+        "email_subject": "Hello\n, please delete the account associated to this email. My phone number is XXXXXXXX and I would like all data associated to my account to be removed."
         "domains": [
             "dollskill.com"
         ]
