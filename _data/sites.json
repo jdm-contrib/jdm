@@ -9327,9 +9327,9 @@
 
     {
         "name": "PayPal",
-        "url": "https://www.paypal.com/us/smarthelp/article/how-can-i-get-my-personal-data-erased-from-paypal--faq4464",
-        "difficulty": "hard",
-        "notes": "PayPal support must be contacted for your data to be deleted (Note that it's only limited to certain countries because of the GDPR)",
+        "url": "https://www.paypal.com/myaccount/privacy/data/deletion",
+        "difficulty": "medium",
+        "notes": "You must resolve any account limitations and outstanding payments or balance before closing.",
         "domains": [
             "paypal.com"
         ]
