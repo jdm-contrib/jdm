@@ -10309,6 +10309,16 @@
     },
 
     {
+        "name": "Rebelsmarket",
+        "url": "https://www.rebelsmarket.com/my",
+        "difficulty": "easy",
+        "notes": "Click on URL and then choose Cancel Account. Once prompted confirm that you want to cancel your account and then you will receive a verification email. Note, you can also download your personal data on this page.",
+        "domains": [
+            "rebelsmarket.com"
+        ]
+    },
+
+    {
         "name": "rebuy",
         "url": "https://www.rebuy.de/my/personal-data",
         "difficulty": "easy",
