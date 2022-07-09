@@ -3404,6 +3404,18 @@
     },
 
     {
+        "name": "Dollskill",
+        "url": "https://www.dollskill.com/pages/contact-us",
+        "difficulty": "hard",
+        "notes": "Email customer service and they will reply once that is complete.",
+        "email": "dataprotection@dollskill.com",
+        "email_subject": "Hello\n, please delete the account associated to this email. My phone number is XXXXXXXX and I would like all data associated to my account to be removed.",
+        "domains": [
+            "dollskill.com"
+        ]
+    },
+
+    {
         "name": "Doodle",
         "url": "https://doodle.com/account",
         "difficulty": "easy",
