@@ -9245,6 +9245,16 @@
     },
 
     {
+        "name": "Paramount Plus",
+        "url": "https://help.paramountplus.com/s/article/PD-How-do-I-delete-my-Paramount-account",
+        "difficulty": "hard",
+        "notes": "You may also use the privacy form linked if you reside in California, but be warned, it is much slower.",
+        "domains": [
+            "paramountplus.com"
+        ]
+    },
+
+    {
         "name": "Parcello",
         "url": "https://www.parcello.org/settings",
         "difficulty": "easy",
