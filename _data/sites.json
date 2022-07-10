@@ -3621,6 +3621,16 @@
     },
 
     {
+        "name": "Dunkindonuts",
+        "url": "https://www.dunkindonuts.com/en/about/contact-us",
+        "difficulty": "easy",
+        "notes": "Category: DD Perks & Program -> Sub Category: Account Management for Existing Members -> 'I would like to delete my account' Message: 'Please delete all of my information for all products and services related to Dunkin' Donuts'",
+        "domains": [
+            "dunkindonuts.com"
+        ]
+    },
+
+    {
         "name": "Duo",
         "url": "https://help.duo.com/s/article/2162",
         "difficulty": "hard",
