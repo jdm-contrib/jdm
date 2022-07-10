@@ -3621,6 +3621,16 @@
     },
 
     {
+        "name": "Dunkindonuts",
+        "url": "https://www.dunkindonuts.com/en/about/contact-us",
+        "difficulty": "easy",
+        "notes": "Click Personal Information, Click Delete My Account, Confirm ‘Yes, I want to proceed’, Reason for deleting your account, Choose ‘Other’, Type: I want to delete all of my private information. Then check both boxes if you agree. First box asks: Check here if you would like Dunkin’ Donuts to delete all of the personal information we have collected from you (subject to permitted exceptions). Second box: I understand that by deleting my information, I will no longer be able to use my DD Perks Account and will forfeit any accrued Perks Rewards. Then click Next, Then confirm by clicking ‘Delete My Account’.  Then you will get a confirmation page that says: Thank you for your request, this confirms that your account has been deleted! You then get an email that says it can take 48 hours to update.",
+        "domains": [
+            "dunkindonuts.com"
+        ]
+    },
+
+    {
         "name": "Duo",
         "url": "https://help.duo.com/s/article/2162",
         "difficulty": "hard",
