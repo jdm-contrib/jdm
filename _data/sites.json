@@ -9257,6 +9257,16 @@
     },
 
     {
+        "name": "Paramount Plus",
+        "url": "https://help.paramountplus.com/s/article/PD-How-do-I-delete-my-Paramount-account",
+        "difficulty": "hard",
+        "notes": "You may also use the privacy form linked if you reside in California, but be warned, it is much slower.",
+        "domains": [
+            "paramountplus.com"
+        ]
+    },
+
+    {
         "name": "Parcello",
         "url": "https://www.parcello.org/settings",
         "difficulty": "easy",
@@ -9339,9 +9349,9 @@
 
     {
         "name": "PayPal",
-        "url": "https://www.paypal.com/us/smarthelp/article/how-can-i-get-my-personal-data-erased-from-paypal--faq4464",
-        "difficulty": "hard",
-        "notes": "PayPal support must be contacted for your data to be deleted (Note that it's only limited to certain countries because of the GDPR)",
+        "url": "https://www.paypal.com/myaccount/privacy/data/deletion",
+        "difficulty": "medium",
+        "notes": "You must resolve any account limitations and outstanding payments or balance before closing.",
         "domains": [
             "paypal.com"
         ]
