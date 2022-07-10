@@ -13392,22 +13392,6 @@
     },
 
     {
-        "name": "We the People",
-        "url": "https://petitions.whitehouse.gov",
-        "difficulty": "impossible",
-        "notes": "Site provides no user account management interface or account deletion options.",
-        "notes_tr": "Site, kullanıcı hesabı yönetimi arayüzü veya hesap silme seçenekleri sağlamıyor.",
-        "notes_fr": "Le site ne propose pas la suppression de compte.",
-        "notes_it": "Il sito non possiede nessuna interfaccia di gestione utente o possibilità di eliminare l'account",
-        "notes_pt_br": "O site não possui interface de gerenciamento da conta ou opções para remoção da conta.",
-        "notes_cat": "La web no té opcions d'usuari o per esborrar el compte.",
-        "notes_es": "El sitio no tiene opciones de configuración o para borrar la cuenta.",
-        "domains": [
-            "petitions.whitehouse.gov"
-        ]
-    },
-
-    {
         "name": "Weather.com",
         "url": "http://registration.weather.com/ursa/profile/unsubscribe",
         "difficulty": "easy",
