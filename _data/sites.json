@@ -13333,7 +13333,7 @@
         "name": "Walmart",
         "url": "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=access",
         "difficulty": "hard",
-        "notes": "Only possible for California residents.",
+        "notes": "They only accept requests from California, which is validated only by the actual selection on the form.",
         "domains": [
             "walmart.com"
         ]
