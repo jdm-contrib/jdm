@@ -12489,6 +12489,18 @@
     },
 
     {
+        "name": "Tragicbeautiful",
+        "url": "http://tragicbeautiful.com",
+        "difficulty": "hard",
+        "notes": "Email customer service to delete the account associated to this email. Include your phone number and email address. There is no confirmation email. Later, you can verify that the acccount is deleted by trying to log in.",
+        "email": "support@tragicbeautiful.com",
+        "email_subject": "Hello\n, please delete the account associated to this email. My phone number is XXXXXXXX and I would like all data associated to my account to be removed.",
+        "domains": [
+            "tragicbeautiful.com"
+        ]
+    },
+
+    {
         "name": "Trakt",
         "url": "https://trakt.tv/settings/data",
         "difficulty": "easy",
