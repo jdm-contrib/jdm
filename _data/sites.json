@@ -4021,6 +4021,16 @@
     },
 
     {
+        "name": "Even",
+        "url": "https://www.even.com/employees/support",
+        "difficulty": "easy",
+        "notes": "Head to the account information page (Profile -> App settings -> Account info) and click on \"Delete your Even account & data\".",
+        "domains": [
+            "even.com"
+        ]
+    },
+
+    {
         "name": "Eventbrite",
         "url": "https://www.eventbrite.com/account-close",
         "difficulty": "easy",
