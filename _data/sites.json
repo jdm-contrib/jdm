@@ -13323,7 +13323,7 @@
         "name": "Walmart",
         "url": "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=access",
         "difficulty": "hard",
-        "notes": "Select California as your state of residence, they don't check it.",
+        "notes": "They only accept requests from California although they only check the state selected on the form.",
         "domains": [
             "walmart.com"
         ]
