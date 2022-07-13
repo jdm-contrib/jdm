@@ -10707,6 +10707,16 @@
     },
 
     {
+        "name": "Roku",
+        "url": "https://my.roku.com/account/close",
+        "difficulty": "medium",
+        "notes": "Factory reset your roku devices before deleting account.",
+        "domains": [
+            "roku.com"
+        ]
+    },
+
+    {
         "name": "Roll20",
         "url": "https://app.roll20.net/account/",
         "difficulty": "easy",
