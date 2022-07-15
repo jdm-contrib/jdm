@@ -13820,12 +13820,6 @@
         "url": "https://www.xing.com/preferences/account",
         "difficulty": "easy",
         "notes": "Select 'Delete Profile' at the bottom of the page.",
-        "notes_tr": "Sayfanın altındaki 'Profili sil' tuşuna tıklayın.",
-        "notes_fr": "Selectionnez 'Supprimer le profil' en bas de la page.",
-        "notes_it": "Seleziona 'Elimina profilo' sul fondo della pagina.",
-        "notes_pt_br": "Selecione 'Excluir perfil' no final da página.",
-        "notes_cat": "Seleccioni 'Suprimeix el perfil' al final de la pàgina.",
-        "notes_es": "Selecciona 'Borrar perfil' al final de la página.",
         "domains": [
             "xing.com"
         ]
