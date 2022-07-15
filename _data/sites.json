@@ -13817,15 +13817,15 @@
 
     {
         "name": "Xing",
-        "url": "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
+        "url": "https://www.xing.com/preferences/account",
         "difficulty": "easy",
-        "notes": "Select 'delete my profile' at the bottom of the page.",
-        "notes_tr": "Sayfanın altındaki \"Profilimi Sil\" tuşuna tıklayın.",
-        "notes_fr": "Selectionnez 'Supprimer mon compte' en bas de la page.",
-        "notes_it": "Seleziona 'elimina il mio profilo' sul fondo della pagina.",
-        "notes_pt_br": "Selecione 'delete my profile' no final da página.",
-        "notes_cat": "Seleccioni 'delete my profile' al final de la pàgina.",
-        "notes_es": "Selecciona 'delete my profile' al final de la página.",
+        "notes": "Select 'Delete Profile' at the bottom of the page.",
+        "notes_tr": "Sayfanın altındaki 'Profili sil' tuşuna tıklayın.",
+        "notes_fr": "Selectionnez 'Supprimer le profil' en bas de la page.",
+        "notes_it": "Seleziona 'Elimina profilo' sul fondo della pagina.",
+        "notes_pt_br": "Selecione 'Excluir perfil' no final da página.",
+        "notes_cat": "Seleccioni 'Suprimeix el perfil' al final de la pàgina.",
+        "notes_es": "Selecciona 'Borrar perfil' al final de la página.",
         "domains": [
             "xing.com"
         ]
