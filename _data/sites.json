@@ -641,7 +641,7 @@
 
     {
         "name": "Amazon AWS",
-        "url": "https://console.aws.amazon.com/support/home",
+        "url": "https://console.aws.amazon.com/billing/home#/account",
         "difficulty": "impossible",
         "notes": "AWS accounts are never entirely deleted, only closed.",
         "domains": [
