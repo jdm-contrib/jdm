@@ -8720,6 +8720,16 @@
     },
 
     {
+        "name": "NodeChef",
+        "url": "https://www.nodechef.com/",
+        "difficulty": "easy",
+        "notes": "In the dashboard, go to the \"Account\" tab, scroll down to \"Delete Account\" section, follow the instructions and then click \"Delete my account\".",
+        "domains": [
+            "nodechef.com"
+        ]
+    },
+
+    {
         "name": "NoIP",
         "url": "https://my.noip.com/account",
         "difficulty": "easy",
@@ -13076,6 +13086,16 @@
         "difficulty": "easy",
         "domains": [
             "velohero.com"
+        ]
+    },
+
+    {
+        "name": "Vercel",
+        "url": "https://vercel.com/account",
+        "notes": "In the dashboard, click your profile picture on the top right, click \"Settings\", scroll down and then click \"Delete Personal Account\".",
+        "difficulty": "easy",
+        "domains": [
+            "vercel.com"
         ]
     },
 
