@@ -5290,6 +5290,17 @@
     },
 
     {
+        "name": "Graduate-Jobs.com",
+        "url": "https://www.graduate-jobs.com/sign-in/account/settings",
+        "difficulty": "easy",
+        "notes": "Click your name on the top right, click \"Settings\", scroll down and then click \"Delete Account\". You will be prompted to enter your password.",
+        "domains": [
+            "graduate-jobs.com",
+            "graduatejobs.com"
+        ]
+    },
+
+    {
         "name": "Grailed",
         "url": "https://www.grailed.com",
         "difficulty": "hard",
