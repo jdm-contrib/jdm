@@ -12701,6 +12701,16 @@
     },
 
     {
+        "name": "Turtl",
+        "url": "https://turtlapp.com/users/delete/",
+        "difficulty": "easy",
+        "notes": "You only need to confirm your email address; there's no requirement to log in.",
+        "domains": [
+            "turtlapp.com"
+        ]
+    },
+
+    {
         "name": "Tutanota",
         "url": "http://mail.tutanota.com/settings/subscription",
         "difficulty": "easy",
