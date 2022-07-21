@@ -11962,7 +11962,17 @@
             "account.synology.com"
         ]
     },
-    
+
+    {
+        "name": "T-Mobile",
+        "url": "https://t-mobile.static.services.wirewheel.io/",
+        "difficulty": "hard",
+        "notes": "You will need to provide proof of identity such as a passport or drivers license and verify the phone number associated with your T-Mobile ID. This will not delete active service plans if you have any.",
+        "domains": [
+            "t-mobile.com"
+        ]
+    },
+
     {
         "name": "Tablondeanuncios.com",
         "url": "https://www.tablondeanuncios.com/mis-anuncios/",
@@ -12830,16 +12840,6 @@
         "difficulty": "easy",
         "domains": [
             "typing.com"
-        ]
-    },
-
-    {
-        "name": "T-Mobile",
-        "url": "https://t-mobile.static.services.wirewheel.io/",
-        "difficulty": "hard",
-        "notes": "You will need to provide proof of identity such as a passport or drivers license and verify the phone number associated with your T-Mobile ID. This will not delete active service plans if you have any.",
-        "domains": [
-            "t-mobile.com"
         ]
     },
 
