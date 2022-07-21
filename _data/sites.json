@@ -13385,6 +13385,16 @@
     },
 
     {
+        "name": "Vultr",
+        "url": "https://my.vultr.com/billing/cancel",
+        "difficulty": "easy",
+        "notes": "The account only seems to get 'closed', see https://www.vultr.com/legal/international_privacy for more info about this",
+        "domains": [
+            "vultr.com"
+        ]
+    },
+
+    {
         "name": "Wahoo Fitness",
         "url": "https://privacyportal.onetrust.com/webform/b2b76ae8-d622-4165-97c7-8896261e24b7/b43eda4f-3724-4303-879c-e65dbcfced1d",
         "difficulty": "medium",
