@@ -7493,11 +7493,9 @@
     {
         "meta": "popular",
         "name": "Match",
-        "url": "https://www.match.com/resign/resign.aspx",
-        "difficulty": "impossible",
-        "notes": "You can only ever deactivate your account",
-        "notes_tr": "Yalnızca hesabınızı devre dışı bırakabilirsiniz",
-        "notes_ru": "Вы можете только деактивировать свой аккаунт.",
+        "url": "https://help.match.com/hc/en-us/articles/5610035266075-Delete-My-Account",
+        "difficulty": "medium",
+        "notes": "Only possible within the mobile app, otherwise can only be done via <a href='https://help.match.com/hc/en-us/requests/new'>contacting support</a>.",
         "domains": [
             "match.com"
         ]
