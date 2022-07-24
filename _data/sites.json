@@ -6875,9 +6875,9 @@
 
     {
         "name": "Lenovo ID",
-        "url": "https://account.lenovo.com/us/en/account/myprofile.html",
-        "difficulty": "impossible",
-        "notes": "Delete the Lenovo Forums account first if you have it, otherwise you won't be able to delete it anymore. A password is required: if you don't have one (because you signed in with Auth), you need to reset the password with \"Forgot Password\". You must manually sign out after deactivation.",
+        "url": "https://privacyportal.onetrust.com/webform/3c884b5f-db83-4077-91c8-fbfdaaba21fe/f15f8a67-782c-48c4-bf1e-0d7e6cd9b464",
+        "difficulty": "hard",
+        "notes": "Click Yes at the bottom when asked if you want to delete your Lenovo account.",
         "domains": [
             "lenovo.com"
         ]
