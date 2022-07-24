@@ -12291,14 +12291,11 @@
 
     {
         "name": "textPlus",
-        "url": "https://textplus.com",
-        "difficulty": "impossible",
-        "notes": "This website does not provide options that allow the user to delete their account.",
-        "notes_tr": "Bu web sitesi, kullanıcının hesabını silmesine izin veren seçenekler sunmamaktadır.",
-        "notes_pt_br": "Este website não disponibiliza opções que possibilitem ao usuário excluir sua conta.",
+        "url": "https://help.textplus.com/portal/en/kb/articles/how-can-i-delete-my-account",
+        "difficulty": "medium",
+        "notes": "Follow the instructions in the support article.",
         "domains": [
-            "textplus.com",
-            "nextplus.me"
+            "textplus.com"
         ]
     },
 
