@@ -7095,6 +7095,16 @@
     },
 
     {
+        "name": "Live Nation",
+        "url": "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/ba7654b2-26ce-47df-8954-0884b9a0cea5",
+        "difficulty": "hard",
+        "notes": "Select \"Delete My Information\" and enter the email address used on your account.",
+        "domains": [
+            "livenation.com"
+        ]
+    },
+
+    {
         "name": "Lnk.Bio",
         "url": "https://help.lnk.bio/en/articles/4300436-how-do-i-delete-my-account",
         "difficulty": "hard",
