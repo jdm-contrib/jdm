@@ -6738,7 +6738,7 @@
         "name": "Ko-fi",
         "url": "https://ko-fi.com/Manage/DeleteAccount/",
         "difficulty": "medium",
-        "notes": "Click the link sent to your email.",
+        "notes": "Cancel all of your monthly coffees and click the link sent to your email.",
         "domains": [
             "ko-fi.com"
         ]
