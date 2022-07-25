@@ -2687,6 +2687,16 @@
     },
 
     {
+        "name": "Corellium",
+        "url": "https://app.corellium.com/admin/subscription",
+        "difficulty": "easy",
+        "notes": "Click the Delete Account button.",
+        "domains": [
+            "corellium.com"
+        ]
+    },
+
+    {
         "name": "Coub",
         "url": "https://coub.com/account/edit",
         "difficulty": "easy",
