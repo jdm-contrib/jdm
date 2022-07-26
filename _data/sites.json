@@ -2484,6 +2484,18 @@
     },
 
     {
+        "name": "CoderByte",
+        "url": "https://coderbyte.com/privacy#:~:text=You%20may%20also%20delete%20your,detailed%20in%20this%20Privacy%20Policy.",
+        "difficulty": "hard",
+        "email": "support@coderbyte.com",
+        "notes": "You can only delete your account by emailing their support team. Certain activity data may remain stored and may be shared with third parties.",
+        "notes_tr": "Hesabınızı yalnızca destek ekiplerine e-posta göndererek silebilirsiniz. Belirli etkinlik verileri silinmeyip üçüncü parti servisler ile paylaşılabilir.",
+        "domains": [
+            "coderbyte.com"
+        ]
+    },
+
+    {
         "name": "CodersRank",
         "url": "https://profile.codersrank.io/login",
         "difficulty": "hard",
