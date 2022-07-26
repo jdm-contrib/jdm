@@ -6735,6 +6735,16 @@
     },
 
     {
+        "name": "Ko-fi",
+        "url": "https://ko-fi.com/Manage/DeleteAccount/",
+        "difficulty": "medium",
+        "notes": "Cancel all of your monthly coffees and click the link sent to your email.",
+        "domains": [
+            "ko-fi.com"
+        ]
+    },
+
+    {
         "name": "Koingo Software",
         "url": "https://www.koingosw.com/account/delete.php",
         "difficulty": "medium",
