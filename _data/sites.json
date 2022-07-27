@@ -10475,6 +10475,7 @@
         "name": "Red Hat",
         "url": "https://www.redhat.com/en/about/personal-data-request",
         "difficulty": "hard",
+        "notes": "Select \"I have a redhat.com login ID and I want Red Hat to delete it.\"",
         "domains": [
             "redhat.com"
         ]
