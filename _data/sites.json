@@ -11531,6 +11531,16 @@
     },
 
     {
+        "name": "Sonder",
+        "url": "https://www.sonder.com/",
+        "difficulty": "medium",
+        "notes": "On the app, tap the 'profile' button, go into settings then 'Request account deletion'. State the reason and agree everything will be deleted and that should be it. The option to delete your account does not appear on the website.",
+        "domains": [
+            "sonder.com"
+        ]
+    },
+
+    {
         "name": "Songkick",
         "url": "https://www.songkick.com/settings/account-settings",
         "difficulty": "easy",
