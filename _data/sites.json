@@ -685,6 +685,18 @@
     },
 
     {
+        "name": "Anghami",
+        "url": "https://support.anghami.com/hc/en-us/articles/224890447-How-do-I-delete-deactivate-my-account-",
+        "difficulty": "medium",
+        "notes": "If you can delete the account through the app, follow the process provided in the link. If you are using the web client you'll have to contact support@anghami.com. Your account will be deactivated within 24 hours and deleted after 30 days.",
+        "email": "support@anghami.com",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "anghami.com"
+        ]
+    },
+
+    {
         "name": "AniList",
         "url": "https://anilist.co/settings/account",
         "difficulty": "easy",
