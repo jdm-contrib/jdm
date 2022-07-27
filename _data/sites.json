@@ -10472,6 +10472,15 @@
     },
 
     {
+        "name": "Red Hat",
+        "url": "https://www.redhat.com/en/about/personal-data-request",
+        "difficulty": "hard",
+        "domains": [
+            "redhat.com"
+        ]
+    },
+
+    {
         "name": "Redacteur.com",
         "url": "https://www.redacteur.com/identities/edit",
         "difficulty": "easy",
