@@ -13001,6 +13001,15 @@
     },
 
     {
+        "name": "Veduca",
+        "url": "https://veduca.org",
+        "difficulty": "impossible",
+        "domains": [
+            "veduca.org"
+        ]
+    },
+
+    {
         "name": "Vercel",
         "url": "https://vercel.com/account",
         "notes": "In the dashboard, click your profile picture on the top right, click \"Settings\", scroll down and then click \"Delete Personal Account\".",
