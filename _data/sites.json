@@ -4335,6 +4335,16 @@
     },
 
     {
+        "name": "Fever",
+        "url": "https://feverup.com/",
+        "difficulty": "easy",
+        "notes": "On the app, tap 'profile' at the bottom right, then the gear icon at the upper right, scroll to the end and click 'Delete Account'. State the reason why and confirm. Deletion is immediate",
+        "domains": [
+            "feverup.com"
+        ]
+    },
+
+    {
         "name": "Figma",
         "url": "https://www.figma.com/",
         "difficulty": "easy",
