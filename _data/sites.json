@@ -4416,6 +4416,16 @@
     },
 
     {
+        "name": "FogBugz",
+        "url": "https://support.fogbugz.com/hc/en-us/articles/360011242754-Cancelling-a-FogBugz-or-Kiln-On-Demand-Subscription",
+        "difficulty": "easy",
+        "notes": "The account retention period depends on the type of account you have."
+        "domains": [
+            "fogbugz.com"
+        ]
+    },
+
+    {
         "name": "Follett",
         "url": "https://www.follett.com/policies/",
         "difficulty": "hard",
