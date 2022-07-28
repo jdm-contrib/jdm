@@ -4594,6 +4594,17 @@
     },
 
     {
+        "name": "Framer",
+        "url": "https://www.framer.com/contact/",
+        "difficulty": "hard",
+        "notes": "You have to email the support to delete the account. They take a few hours to respond.",
+        "email": "support@framer.com",
+        "domains": [
+            "framer.com"
+        ]
+    },
+
+    {
         "name": "Franz",
         "url": "https://meetfranz.com/user/profile",
         "difficulty": "easy",
