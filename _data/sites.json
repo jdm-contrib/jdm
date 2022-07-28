@@ -572,19 +572,6 @@
     },
 
     {
-        "name": "AllCall Forum",
-        "url": "http://bbs.allcall.hk/",
-        "difficulty": "impossible",
-        "notes": "The website does not offer any options that allow the account to be deleted.",
-        "notes_ru": "Веб-сайт не предлагает никаких опций, позволяющих удалить учетную запись.",
-        "notes_tr": "Bu web sitesi hesabınızın silinmesi için herhangi bir seçenek sunmuyor.",
-        "notes_pt_br": "O website não disponibiliza nenhuma opção que possibilite a exclusão da conta.",
-        "domains": [
-            "allcall.hk"
-        ]
-    },
-
-    {
         "name": "Alvanista",
         "url": "http://alvanista.com/profile/edit",
         "difficulty": "easy",
@@ -1310,17 +1297,6 @@
         "notes_tr": "\"Profilimi Düzenle\" sayfasındaki yan menüde bulunan bir \"Profili Sil\" seçeneği var. Verilerinizin 24 saat içinde silinmesi için bir seçenek bile seçebilirsiniz.",
         "domains": [
             "bewelcome.org"
-        ]
-    },
-
-    {
-        "name": "Beamly",
-        "url": "http://au.beamly.com/account/delete",
-        "difficulty": "easy",
-        "notes": "To delete your account, login and then next to your name select the drop down and go to 'Settings' once there scroll to the bottom of the page and select 'delete your account'.",
-        "notes_tr": "Hesabınızı silmek için, giriş yapın ve isminizin yanındaki menüye tıklayıp \"Ayarlar\" kısmına girin. Girdiğinizde, sayfanın altına kaydırın ve \"Hesabınızı Silin\" seçeneğini seçin.",
-        "domains": [
-            "beamly.com"
         ]
     },
 
@@ -2305,19 +2281,6 @@
     },
 
     {
-        "name": "ClickAndBuy",
-        "url": "http://clickandbuy.com/faqs",
-        "difficulty": "easy",
-        "notes": "Login to your account, then click 'delete account' on the page.",
-        "notes_tr": "Hesabınıza giriş yapın, ve sayfadaki \"Hesabı Sil\" tuşuna tıklayın.",
-        "notes_fr": "Connectez-vous et cliquez sur « delete account ».",
-        "notes_de": "Logge dich in deinen Account ein und klicke auf der Seite auf 'Account löschen'.",
-        "domains": [
-            "clickandbuy.com"
-        ]
-    },
-
-    {
         "name": "ClickUp",
         "url": "https://feedback.clickup.com/feature-requests/p/delete-account-3",
         "difficulty": "hard",
@@ -2460,18 +2423,6 @@
         "notes_tr": "Hesabınızı henüz silemezsiniz. Bu özellik üstünde çalışılıyor ve yakında mevcut olabilir.",
         "domains": [
             "codeforces.com"
-        ]
-    },
-
-    {
-        "name": "Codenvy",
-        "url": "https://codenvy.io/dashboard/#/account",
-        "difficulty": "easy",
-        "notes": "Deletion option can be found in the \"Security\" tab",
-        "notes_tr": "\"Güvenlik\" sekmesinde hesabı silme seçeneğini bulabilirsiniz",
-        "domains": [
-            "codenvy.com",
-            "codenvy.io"
         ]
     },
 
@@ -4263,17 +4214,6 @@
     },
 
     {
-        "name": "Fast2Pay",
-        "url": "https://www.fast2pay.com.br",
-        "difficulty": "impossible",
-        "notes": "Nowhere on the website or the android app there is a 'My account' page or similar providing a way to delete the account.",
-        "notes_tr": "Web sitesinin veya Android uygulamasının hiçbir yerinde hesabı silmenin bir yolunu sağlayan bir \"Hesabım\" sayfası veya benzeri yoktur.",
-        "domains": [
-            "fast2pay.com.br"
-        ]
-    },
-
-    {
         "name": "FastTech",
         "url": "https://support.fasttech.com/general/ACCT",
         "difficulty": "hard",
@@ -4499,10 +4439,9 @@
 
     {
         "name": "FogBugz",
-        "url": "https://www.fogcreek.com/fogbugz/",
+        "url": "https://support.fogbugz.com/hc/en-us/articles/360011242754-Cancelling-a-FogBugz-or-Kiln-On-Demand-Subscription",
         "difficulty": "easy",
-        "notes": "On the top right corner, click 'Admin' then 'Your On Demand Account' and search for the close account button at the bottom right. It is not really deleted, just closed.",
-        "notes_tr": "Sağ üst köşede, \"Yönetici\" tuşuna tıklayın ve ardından \"Talep Hesabınız\" seçeneğine tıklayın. Sağ alt köşede hesabı kapatma tuşunu bulun. Hesap silinmeyecek, yalnızca kapatılacak.",
+        "notes": "The account retention period depends on the type of account you have.",
         "domains": [
             "fogbugz.com"
         ]
@@ -5747,18 +5686,6 @@
     },
 
     {
-        "name": "Heroes of Newerth",
-        "url": "https://www.heroesofnewerth.com",
-        "difficulty": "hard",
-        "email": "support@heroesofnewerth.com",
-        "notes": "The only way of deleting your account is by sending an e-mail to 'support@heroesofnewerth.com'.",
-        "notes_tr": "Hesabı silmenizin tek yolu e-posta göndermektir.",
-        "domains": [
-            "heroesofnewerth.com"
-        ]
-    },
-
-    {
         "name": "Heroku",
         "url": "https://dashboard.heroku.com/account",
         "difficulty": "easy",
@@ -6107,18 +6034,6 @@
         "notes_fr": "Connectez-vous, allez dans vos parametres puis cliquez sur « Delete Account » en bas à gauche.",
         "domains": [
             "imo.im"
-        ]
-    },
-
-    {
-        "name": "Importa Brasil",
-        "url": "https://importabr.com.br/new-content/23",
-        "difficulty": "hard",
-        "notes": "Create a topic to request the deletion of your account.",
-        "notes_tr": "Hesabınızın silinmesini istemek için bir konu oluşturun.",
-        "notes_pt_br": "Crie um tópico para solicitar a exclusão da sua conta.",
-        "domains": [
-            "importabr.com.br"
         ]
     },
 
@@ -7966,17 +7881,6 @@
     },
 
     {
-        "name": "Metacafe",
-        "url": "https://www.metacafe.com/feedback/",
-        "difficulty": "hard",
-        "notes": "Request to delete account by contacting support.",
-        "notes_tr": "Müşteri desteğine iletişime geçerek hesabınızı silmenizi talep edin.",
-        "domains": [
-            "metacafe.com"
-        ]
-    },
-
-    {
         "name": "Mi Account",
         "url": "https://account.xiaomi.com/pass/del",
         "difficulty": "easy",
@@ -8320,19 +8224,6 @@
         "notes_pt_br": "Na página da sua conta, vá até o final e clique no botão vermelho 'Excluir'",
         "domains": [
             "muambator.com.br"
-        ]
-    },
-
-    {
-        "name": "Multiplay.co.uk",
-        "url": "https://multiplay.com/contactus/",
-        "difficulty": "hard",
-        "notes": "You have to contact Multiplay by their contact us page.",
-        "notes_tr": "Multiplay sitesinin \"İletişim\" sayfasından kendileri ile iletişime geçmelisiniz.",
-        "notes_fr": "Vous devez contactez Multiplay par le formulaire de contact.",
-        "notes_es": "Tienes que contactar a Multiplay a través de su página contactanos.",
-        "domains": [
-            "multiplay.com"
         ]
     },
 
@@ -9148,18 +9039,6 @@
     },
 
     {
-        "name": "OpenShift",
-        "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account including all data, only a ‘soft delete’ is possible where you can always re-enable your account.",
-        "notes_tr": "Tüm veriler dahil olmak üzere hesabınızı silemezsiniz, yalnızca hesabınızı her zaman yeniden etkinleştirebileceğiniz bir 'hafif silme' mümkündür.",
-        "notes_de": "Es ist nicht möglich das Konto mit allen Daten zu löschen, es ist nur ein 'weiches Löschen' möglich, bei dem es immer die Möglichkeit des Wieder-Aktivierens gibt.",
-        "domains": [
-            "openshift.com"
-        ]
-    },
-
-    {
         "name": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/account/deletion",
         "difficulty": "easy",
@@ -9185,15 +9064,6 @@
         "notes": "On the linked page select 'Delete my account'.",
         "domains": [
             "opera.com"
-        ]
-    },
-
-    {
-        "name": "Orkut",
-        "url": "https://support.google.com/orkut/",
-        "difficulty": "easy",
-        "domains": [
-            "orkut.google.com"
         ]
     },
 
@@ -11573,23 +11443,6 @@
     },
 
     {
-        "name": "Sonico",
-        "url": "http://www.sonico.com/tyc.php",
-        "difficulty": "hard",
-        "notes": "Send a request to legal@sonico.com and request deletion.",
-        "notes_tr": "Silmeyi talep etmek için e-posta gönderin.",
-        "notes_fr": "Envoyez une demande de suppression à legal@sonico.com .",
-        "notes_it": "Invia la richiesta a legal@sonico.com",
-        "notes_pt_br": "Envie um pedido para legal@sonico.com e peça a remoção.",
-        "notes_cat": "Enviï una petició per esborrar el seu compte a legal@sonico.com.",
-        "notes_es": "Envía una petición para borrar tu cuenta a legal@sonico.com.",
-        "email": "legal@sonico.com",
-        "domains": [
-            "sonico.com"
-        ]
-    },
-
-    {
         "name": "Sonos",
         "url": "https://www.sonos.com/en-us/legal/privacy#legal-privacy-contact",
         "difficulty": "hard",
@@ -12257,18 +12110,6 @@
     },
 
     {
-        "name": "Technorati",
-        "url": "https://technorati.com",
-        "difficulty": "impossible",
-        "notes": "It's not possible to remove your account, but you can remove your blogs.",
-        "notes_tr": "Hesabınızı kaldırmanız mümkün değildir, ancak bloglarınızı kaldırabilirsiniz.",
-        "notes_pt_br": "Não é possível remover sua conta, mas você pode remover seus blogs.",
-        "domains": [
-            "technorati.com"
-        ]
-    },
-
-    {
         "name": "TED",
         "url": "https://support.ted.com/hc/en-us/articles/360005310614-TED-Ed-Accounts-and-managing-students",
         "difficulty": "hard",
@@ -12907,15 +12748,6 @@
     },
 
     {
-        "name": "Twoo",
-        "url": "https://www.twoo.com/settings/delete/",
-        "difficulty": "easy",
-        "domains": [
-            "www.twoo.com"
-        ]
-    },
-
-    {
         "name": "twoseven",
         "url": "https://twoseven.xyz/help/faq",
         "notes": "The instructions are the the bottom of their FAQs",
@@ -13223,6 +13055,15 @@
     },
 
     {
+        "name": "Veduca",
+        "url": "https://veduca.org",
+        "difficulty": "impossible",
+        "domains": [
+            "veduca.org"
+        ]
+    },
+
+    {
         "name": "Velo Hero",
         "url": "https://app.velohero.com/settings/terminate",
         "difficulty": "easy",
@@ -13238,15 +13079,6 @@
         "difficulty": "easy",
         "domains": [
             "vercel.com"
-        ]
-    },
-
-    {
-        "name": "Verduca",
-        "url": "http://www.veduca.com.br",
-        "difficulty": "impossible",
-        "domains": [
-            "veduca.com.br"
         ]
     },
 
@@ -14160,18 +13992,6 @@
         "notes_tr": "Hesabınızı sonlandırmak için, Müşteri Hizmetleri'ne web iletişim formu aracılığıyla kullanıcı adınızı ve hesabınızla ilişkili e-posta adresini içeren bir mesaj göndermeniz yeterlidir. Bunu yaptığınızda, Destek Ekibimizin bir üyesi hesabınızı devre dışı bırakacak, hem genel hem de özel tüm ürünleri kaldıracak ve (varsa) mağazanızı devre dışı bırakacaktır. Sistemimiz bir sonraki hesap kaldırma grubunu işlediğinde hesap tamamen silinecektir.",
         "domains": [
             "zazzle.com"
-        ]
-    },
-
-    {
-        "name": "Zeit",
-        "url": "https://zeit.co/account/plan",
-        "difficulty": "hard",
-        "notes": "You would need to email the team by clicking contact us to get your account closed.",
-        "notes_tr": "Hesabınızı kapatmak için iletişime geçerek destek ekibine e-posta göndermeniz gerekir.",
-        "email": "team@zeit.co",
-        "domains": [
-            "zeit.co"
         ]
     },
 
