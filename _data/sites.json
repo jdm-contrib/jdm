@@ -11351,7 +11351,7 @@
     },
     {
         "name": "Snapchat",
-        "url": "https://www.snapchat.com/a/delete_account",
+        "url": "https://accounts.snapchat.com/accounts/delete_account",
         "difficulty": "easy",
         "notes": "Enter username and password and click 'Delete'.",
         "notes_tr": "Kullanıcı adınızı ve şifrenizi girip \"Sil\" tuşuna tıklayın.",
