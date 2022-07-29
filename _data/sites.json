@@ -13386,9 +13386,9 @@
 
     {
         "name": "Vultr",
-        "url": "https://my.vultr.com/billing/cancel",
-        "difficulty": "easy",
-        "notes": "The account only seems to get 'closed', see https://www.vultr.com/legal/international_privacy for more info about this",
+        "url": "https://my.vultr.com/support",
+        "difficulty": "hard",
+        "notes": "Create a ticket with customer support to request the deletion of your data",
         "domains": [
             "vultr.com"
         ]
