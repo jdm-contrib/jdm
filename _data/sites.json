@@ -13340,6 +13340,16 @@
     },
 
     {
+        "name": "Vultr",
+        "url": "https://my.vultr.com/support",
+        "difficulty": "hard",
+        "notes": "Create a ticket with customer support to request the deletion of your data",
+        "domains": [
+            "vultr.com"
+        ]
+    },
+
+    {
         "name": "Wahoo Fitness",
         "url": "https://privacyportal.onetrust.com/webform/b2b76ae8-d622-4165-97c7-8896261e24b7/b43eda4f-3724-4303-879c-e65dbcfced1d",
         "difficulty": "medium",
