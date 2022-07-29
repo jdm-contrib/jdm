@@ -8228,6 +8228,18 @@
     },
 
     {
+        "name": "MuniMobile (San Francisco Municipal Transportation Agency)",
+        "url": "https://sfmta.transitsherpa.com/rider-web/",
+        "difficulty": "impossible",
+        "notes": "If you mail them asking for deletion, you will get that \"MuniMobile accounts cannot be deleted as we are required to retain the transaction information for financial audit purposes\". They say they do deactivate the account, though.",
+        "email": "munimobile@sfmta.com",
+        "domains": [
+            "sfmta.transitsherpa.com",
+            "sfmta.com"
+        ]
+    },
+
+    {
         "name": "Munzee",
         "url": "https://www.munzee.com/privacy/",
         "difficulty": "hard",
