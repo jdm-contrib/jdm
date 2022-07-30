@@ -277,7 +277,13 @@ main {
 .site-block.hard .site-header:hover {
     background-color: #AC4949;
 }
-
+.site-block.only-required .site-header {
+    background-color: #B521CC;
+    border: 1px solid #9923AC;
+}
+.site-block.only-required .site-header:hover {
+    background-color: #9923AC;
+}
 .site-block.impossible .site-header {
     background-color: #2B2B2B;
     border: 1px solid black;
@@ -329,10 +335,11 @@ main {
     color: #293840;
 }
 
-.site-block.easy .tooltip-toggle.contains-info:hover       { color: #7BAC7B; }
-.site-block.medium .tooltip-toggle.contains-info:hover     { color: #E8C674; }
-.site-block.hard .tooltip-toggle.contains-info:hover       { color: #D04343; }
-.site-block.impossible .tooltip-toggle.contains-info:hover { color: #2B2B2B; }
+.site-block.easy .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
+.site-block.medium .tooltip-toggle.contains-info:hover        { color: #E8C674; }
+.site-block.hard .tooltip-toggle.contains-info:hover          { color: #D04343; }
+.site-block.only-required .tooltip-toggle.contains-info:hover { color: #B521CC; }
+.site-block.impossible .tooltip-toggle.contains-info:hover    { color: #2B2B2B; }
 
 .hide-info {
     display: none;
@@ -422,6 +429,10 @@ main {
     background-color: #D04343;
     border: 1px solid #AC4949;
 }
+.info-container .only-required .difficulty {
+    background-color: #B521CC;
+    border: 1px solid #9923AC;
+}
 .info-container .impossible .difficulty {
     background-color: #2B2B2B;
     border: 1px solid black;
@@ -490,6 +501,10 @@ main {
 .banner-block li .dot.hard {
     background-color: #D04343;
     border: 1px solid #AC4949;
+}
+.banner-block li .dot.only-required {
+    background-color: #B521CC;
+    border: 1px solid #9923AC;
 }
 .banner-block li .dot.impossible {
     background-color: #2B2B2B;
