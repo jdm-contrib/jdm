@@ -5181,14 +5181,14 @@
     },
 
     {
-  		"name": "Golf GameBook Scorecard & GPS",
-  		"url": "https://golfgamebook.com/privacy-policy/",
-  		"difficulty": "easy",
-  		"notes": "You can delete profile from account settings in the app.",
-  		"domains": [
-  			"golfgamebook.com"
-  		]
-  	},
+        "name": "Golf GameBook Scorecard & GPS",
+        "url": "https://golfgamebook.com/privacy-policy/",
+        "difficulty": "easy",
+        "notes": "You can delete profile from account settings in the app.",
+        "domains": [
+            "golfgamebook.com"
+        ]
+    },
 
     {
         "name": "Good Noows",
@@ -5784,15 +5784,15 @@
     },
 
     {
-		    "name": "HitFilm",
-		    "url": "https://fxhome.com/privacy",
-		    "difficulty": "hard",
-		    "notes": "Must email them in order to get personal data deleted.",
-		    "email": "privacy@fxhome.com",
-		    "domains": [
-			       "fxhome.com"
-		    ]
-	  },
+        "name": "HitFilm",
+        "url": "https://fxhome.com/privacy",
+        "difficulty": "hard",
+        "notes": "Must email them in order to get personal data deleted.",
+        "email": "privacy@fxhome.com",
+        "domains": [
+            "fxhome.com"
+        ]
+    },
 
     {
         "name": "HOL Virtual Hogwarts",
@@ -5921,14 +5921,14 @@
     },
 
     {
-		    "name": "HRK Game",
-		    "url": "https://www.hrkgame.com/en/account/settings/privacy",
-		    "difficulty": "easy",
-		    "notes": "Delete Account > proceed > confirm > enter password and click ok.",
-		    "domains": [
-			      "hrkgame.com"
-		    ]
-  	},
+        "name": "HRK Game",
+        "url": "https://www.hrkgame.com/en/account/settings/privacy",
+        "difficulty": "easy",
+        "notes": "Delete Account > proceed > confirm > enter password and click ok.",
+        "domains": [
+            "hrkgame.com"
+        ]
+    },
 
     {
         "name": "HTC",
