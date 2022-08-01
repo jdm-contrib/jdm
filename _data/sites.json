@@ -4926,6 +4926,16 @@
     },
 
     {
+        "name": "GeoGuessr",
+        "url": "https://www.geoguessr.com/me/settings",
+        "difficulty": "easy",
+        "notes": "Just click delete account at the bottom of the page and confirm account deletion.",
+        "domains": [
+            "geoguessr.com"
+       ]
+    },
+
+    {
         "name": "GetContact",
         "url": "https://www.getcontact.com/manage",
         "difficulty": "medium",
@@ -4955,6 +4965,17 @@
         "notes_tr": "Onlarla iletişim kurmadan hesabınızı silemezsiniz. Kayıt olduğunuz e-posta adresi ile e-posta gönderin",
         "domains": [
             "gfycat.com"
+        ]
+    },
+
+    {
+        "name": "GG2U",
+        "url": "https://www.gg2u.org/privacy.html",
+        "email": "privacy@gg2u.org",
+        "difficulty": "hard",
+        "notes": "You need to email them for them to erase your account.",
+        "domains": [
+            "gg2u.org"
         ]
     },
 
@@ -5158,6 +5179,17 @@
             "go-jek.com"
         ]
     },
+
+    {
+  		"name": "Golf GameBook Scorecard & GPS",
+  		"url": "https://golfgamebook.com/privacy-policy/",
+  		"difficulty": "easy",
+  		"notes": "You can delete profile from account settings in the app.",
+  		"email": "support@golfgamebook.com",
+  		"domains": [
+  			"golfgamebook.com"
+  		]
+  	},
 
     {
         "name": "Good Noows",
@@ -5753,6 +5785,17 @@
     },
 
     {
+		    "name": "HitFilm",
+		    "url": "https://fxhome.com/privacy",
+		    "difficulty": "hard",
+		    "notes": "Must email to privacy@fxhome.com in order to get personal data deleted.",
+		    "email": "privacy@fxhome.com",
+		    "domains": [
+			       "fxhome.com"
+		    ]
+	  },
+
+    {
         "name": "HOL Virtual Hogwarts",
         "url": "https://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
@@ -5877,6 +5920,16 @@
             "hp.com"
         ]
     },
+
+    {
+		    "name": "HRK Game",
+		    "url": "https://www.hrkgame.com/en/account/settings/privacy",
+		    "difficulty": "easy",
+		    "notes": "Delete Account > proceed > confirm > enter password and click ok.",
+		    "domains": [
+			      "hrkgame.com"
+		    ]
+  	},
 
     {
         "name": "HTC",
@@ -12401,6 +12454,16 @@
         "notes": "Must contact Customer Service. NOTE: Email and mobile number cannot be reused or in other accounts.",
         "domains": [
             "tokopedia.com"
+        ]
+    },
+
+    {
+        "name": "Toluna",
+        "url": "https://us.toluna.com/contactus",
+        "difficulty": "hard",
+        "notes": "You need to fill the form and submit it. After that you need to wait for them to answer to get back to you.",
+        "domains": [
+            "toluna.com"
         ]
     },
 
