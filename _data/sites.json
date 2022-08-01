@@ -5787,7 +5787,7 @@
 		    "name": "HitFilm",
 		    "url": "https://fxhome.com/privacy",
 		    "difficulty": "hard",
-		    "notes": "Must email to privacy@fxhome.com in order to get personal data deleted.",
+		    "notes": "Must email them in order to get personal data deleted.",
 		    "email": "privacy@fxhome.com",
 		    "domains": [
 			       "fxhome.com"
