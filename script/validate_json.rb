@@ -20,7 +20,7 @@ module ExitCodes
     UNEXPECTED_NOTES = 12          # Unexpected notes key for translation
 end
 
-SupportedDifficulties = ["easy", "medium", "hard", "only-required", "impossible"]
+SupportedDifficulties = ["easy", "medium", "hard", "only_required", "impossible"]
 SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = [
     "about",
