@@ -9461,7 +9461,7 @@
         "name": "Peacock",
         "url": "https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/2aa79e13-e7d2-4d45-b928-7df9a72bec32",
         "difficulty": "hard",
-        "notes": "While they accept requests from all U.S. states, they only send a final response email where legally required to, so you may not be notified. Users outside of the U.S. should send an email to the address listed on the form.",
+        "notes": "If you live in the U.S., fill out the form, select Peacock under applicable brands, and your account will be automatically deleted after some time. You may still receive a human response later however. Users outside of the U.S. should send an email to the privacy contact listed at the top of the form.",
         "domains": [
             "peacocktv.com"
         ]
