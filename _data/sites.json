@@ -5159,10 +5159,9 @@
 
     {
         "name": "Gogo",
-        "url": "https://custhelp.gogoinflight.com",
+        "url": "https://www.gogoair.com/dsar/",
         "difficulty": "hard",
-        "notes": "Email customercare@gogoair.com and ask to have your account deleted.",
-        "notes_tr": "Hesabınızın silinmesini talep etmek için onlara e-posta gönderin.",
+        "notes": "Select \"Delete My Data\" on the form for the request type.",
         "email": "customercare@gogoair.com",
         "domains": [
             "gogoair.com"
