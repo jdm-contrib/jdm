@@ -5406,14 +5406,33 @@
 
     {
         "meta": "popular",
-        "name": "Groupon",
-        "url": "https://groupon.com/customer_support",
-        "difficulty": "hard",
-        "notes": "According to Groupon's privacy statement, you have to contact support directly and ask them to delete your account.",
-        "notes_tr": "Groupon'un gizlilik beyanına göre, doğrudan destek ile iletişime geçmeniz ve onlardan hesabınızı silmesini istemeniz gerekir.",
-        "notes_fr": "Selon le politique de confidentialité de Groupon, vous devez contacter le support du site directement pour demander la suppresion de votre compte.",
-        "notes_ru": "Согласно заявлению конфиденциальности Groupon, вам необходимо напрямую связаться с поддержкой и попросить их удалить свою учетную запись.",
+        "name": "Groupon (International)",
+        "url": "https://privacy.groupon.co.uk/?modal=take-control",
+        "difficulty": "easy",
+        "notes": "Select \"Delete all my data\" and verify your identity.",
         "domains": [
+            "groupon.ae",
+            "groupon.be",
+            "groupon.co.uk",
+            "groupon.com.au",
+            "groupon.de",
+            "groupon.es",
+            "groupon.fr",
+            "groupon.ie",
+            "groupon.it",
+            "groupon.nl",
+            "groupon.pl"
+        ]
+    },
+
+    {
+        "meta": "popular",
+        "name": "Groupon (US/Canada)",
+        "url": "https://privacy.groupon.com/?modal=take-control",
+        "difficulty": "easy",
+        "notes": "Select \"Delete all my data\" and verify your identity.",
+        "domains": [
+            "groupon.ca",
             "groupon.com"
         ]
     },
