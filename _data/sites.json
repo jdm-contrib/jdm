@@ -4817,10 +4817,11 @@
 
     {
         "name": "GameJolt",
-        "url": "https://gamejolt.com",
-        "difficulty": "impossible",
-        "notes": "According to many sources, you can get your account stripped of everything and banned by contacting support, but there is no way to delete your account.",
-        "notes_tr": "Birçok kaynağa göre, destek ekibiyle iletişime geçerek hesabınızı her şeyden arındırabilir ve yasaklayabilirsiniz, ancak hesabınızı silmenin bir yolu yoktur.",
+        "url": "https://gamejolt.com/account-deletion",
+        "difficulty": "hard",
+        "notes": "They only accept requests from the email address on your account.",
+        "email": "contact@gamejolt.com",
+        "email_body": "Please delete my GameJolt account under this email address.",
         "domains": [
             "gamejolt.com"
         ]
