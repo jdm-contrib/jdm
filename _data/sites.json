@@ -530,6 +530,16 @@
     },
 
     {
+        "name": "Albion Online",
+        "url": "https://albiononline.com/en/profile/support",
+        "difficulty": "hard",
+        "notes": "You need to open a support ticket in order to delete your account.",
+        "domains": [
+            "albiononline.com"
+        ]
+    },
+
+    {
         "name": "Algolia",
         "url": "https://www.algolia.com/account/details",
         "difficulty": "easy",
