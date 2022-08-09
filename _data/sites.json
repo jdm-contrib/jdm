@@ -12188,6 +12188,19 @@
     },
 
     {
+        "name": "Teachable",
+        "url": "https://support.teachable.com/hc/en-us/articles/5540634496525-Delete-Your-School-or-Account#Deleteyouruseraccount",
+        "difficulty": "hard",
+        "notes": "You need to submit a deletion request by emailing us at privacy@teachable.com from the email address associated with your account.",
+        "email": "privacy@teachable.com",
+        "email_subject": "Account Deletion",
+        "email_body": "Hello. Please delete my Teachable account.",
+        "domains": [
+            "teachable.com"
+        ]
+    },
+
+    {
         "name": "Teachoo",
         "url": "https://www.teachoo.com/contact/",
         "difficulty": "hard",
