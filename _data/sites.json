@@ -12047,6 +12047,19 @@
     },
 
     {
+        "name": "Tabnine",
+        "url": "https://tabnine.com",
+        "difficulty": "hard",
+        "notes": "The only way to delete your account is to send a deletion request to the support using the email which your account is registered to.",
+        "email": "support@tabnine.com",
+        "email_subject": "Account Deletion",
+        "email_body": "Hello. Please delete my Tabnine account.",
+        "domains": [
+            "tabnine.com"
+        ]
+    },
+
+    {
         "name": "Tagged",
         "url": "https://tagged.com/account_cancel.html",
         "difficulty": "easy",
