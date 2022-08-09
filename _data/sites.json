@@ -4927,10 +4927,9 @@
 
     {
         "name": "Geocaching",
-        "url": "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
-        "difficulty": "hard",
-        "notes": "To permanently delete your account, you must contact them as the option in your account settings will not delete your geocaching logs.",
-        "notes_tr": "Hesabınızı kalıcı olarak silmek için onlarla iletişime geçmelisiniz çünkü \"Hesap Ayarları\" seçeneği geocaching kayıtlarınızı silmeyecektir.",
+        "url": "https://www.geocaching.com/account/settings/account",
+        "difficulty": "easy",
+        "notes": "Click \"Delete your account\" at the bottom of the page, then click \"Yes, delete my account\".",
         "domains": [
             "geocaching.com",
             "groundspeak.com"
