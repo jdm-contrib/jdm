@@ -9596,6 +9596,15 @@
     },
 
     {
+        "name": "The Powder Toy",
+        "url": "https://powdertoy.co.uk/Discussions/Thread/View.html?Thread=24007",
+        "difficulty": "impossible",
+        "domains": [
+            "powdertoy.co.uk"
+        ]
+    },
+
+    {
         "name": "Personal Capital",
         "url": "https://home.personalcapital.com/page/login/app#/settings",
         "difficulty": "easy",
