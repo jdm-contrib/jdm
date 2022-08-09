@@ -7466,7 +7466,7 @@
 
     {
         "name": "Mapbox",
-        "url": "https://www.mapbox.com/account/billing/",
+        "url": "https://account.mapbox.com/settings",
         "difficulty": "easy",
         "notes": "Enter Password -> Scroll to bottom -> Click 'Delete Account'",
         "notes_tr": "Şifrenizi girin, alta kaydırın ve \"Hesabı Sil\" tuşuna tıklayın",
