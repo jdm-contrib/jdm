@@ -11589,6 +11589,16 @@
     },
 
     {
+        "name": "Soulseek",
+        "url": "https://www.slsknet.org/news/node/748",
+        "difficulty": "hard",
+        "notes": "Your username is deleted automatically if you haven't logged into your account for 30 days.",
+        "domains": [
+            "slsknet.org"
+        ]
+    },
+
+    {
         "name": "SoundCloud",
         "url": "https://soundcloud.com/settings/account#delete-user",
         "difficulty": "easy",
