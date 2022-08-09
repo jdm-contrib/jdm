@@ -3612,6 +3612,17 @@
     },
 
     {
+        "name": "DTF",
+        "url": "https://dtf.ru",
+        "difficulty": "easy",
+        "notes": "Log into your account. Click on your profile picture in the top right corner (bottom right on mobile), then on \"Настройки\". Select \"Основные\". There click on the blue \"удалить свой аккаунт\" link at the bottom. Type your deletion reason and press the red \"Удалить\" button, then the red \"Подтвердить\" button.",
+        "notes_ru": "Войдите в свой аккаунт. Нажмите на свой аватар в правом верхнем углу (или в левом нижнем на телефоне), затем на \"Настройки\". Выберите \"Основные\". Там нажмите на синюю ссылку \"удалить свой аккаунт\" внизу страницы. Введите причину удаления и нажмите на красную кнопку \"Удалить\", а потом на красную кнопку \"Подтвердить\"."
+        "domains": [
+            "dtf.ru"
+        ]
+    },
+
+    {
         "name": "Dunkindonuts",
         "url": "https://www.dunkindonuts.com/en/about/contact-us",
         "difficulty": "easy",
