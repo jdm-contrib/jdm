@@ -254,6 +254,18 @@
     },
 
     {
+        "name": "Academic Torrents",
+        "url": "https://academictorrents.com",
+        "difficulty": "hard",
+        "notes": "You must send an email with your account details to contact@academictorrents.com",
+        "email": "contact@academictorrents.com",
+        "email_subject": "Account Deletion",
+        "domains": [
+            "academictorrents.com"
+        ]
+    },
+
+    {
         "name": "Acasa",
         "url": "https://app.helloacasa.com/register/edit",
         "difficulty": "easy",
