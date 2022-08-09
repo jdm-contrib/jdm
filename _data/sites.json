@@ -6186,6 +6186,16 @@
     },
 
     {
+        "name": "Infinite Story",
+        "url": "https://infinite-story.com/my/settings.php",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Infinite Story Account\" at the bottom of the page.",
+        "domains": [
+            "infinite-story.com"
+        ]
+    },
+
+    {
         "name": "InfoCasas",
         "url": "https://www.infocasas.com.uy/dashboard",
         "difficulty": "hard",
