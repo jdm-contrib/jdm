@@ -4607,6 +4607,16 @@
     },
 
     {
+        "name": "FreeDNS",
+        "url": "https://freedns.afraid.org",
+        "difficulty": "impossible",
+        "notes": "It is impossible to delete your FreeDNS account. However, your account automatically gets tagged as \"dormant\" if you are using the free plan and haven't logged in in 6 months. When your account is dormant, all of your domains get temporarily suspended until you log back in and activate them again.",
+        "domains": [
+            "freedns.afraid.org"
+        ]
+    },
+
+    {
         "name": "Freelancer",
         "url": "https://www.freelancer.in/users/settings.php#AccountSettings",
         "difficulty": "easy",
