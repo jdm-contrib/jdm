@@ -254,6 +254,18 @@
     },
 
     {
+        "name": "Academic Torrents",
+        "url": "https://academictorrents.com",
+        "difficulty": "hard",
+        "notes": "You must send an email with your account details.",
+        "email": "contact@academictorrents.com",
+        "email_subject": "Account Deletion",
+        "domains": [
+            "academictorrents.com"
+        ]
+    },
+
+    {
         "name": "Acasa",
         "url": "https://app.helloacasa.com/register/edit",
         "difficulty": "easy",
@@ -526,6 +538,16 @@
         "notes": "You need to contact support to delete your account and request deletion of your personal data.",
         "domains": [
             "akaipro.com"
+        ]
+    },
+
+    {
+        "name": "Albion Online",
+        "url": "https://albiononline.com/en/profile/support",
+        "difficulty": "hard",
+        "notes": "You need to open a support ticket in order to delete your account.",
+        "domains": [
+            "albiononline.com"
         ]
     },
 
@@ -3612,6 +3634,17 @@
     },
 
     {
+        "name": "DTF",
+        "url": "https://dtf.ru",
+        "difficulty": "easy",
+        "notes": "Log into your account. Click on your profile picture in the top right corner (bottom right on mobile), then on \"Настройки\". Select \"Основные\". There click on the blue \"удалить свой аккаунт\" link at the bottom. Type your deletion reason and press the red \"Удалить\" button, then the red \"Подтвердить\" button.",
+        "notes_ru": "Войдите в свой аккаунт. Нажмите на свой аватар в правом верхнем углу (или в левом нижнем на телефоне), затем на \"Настройки\". Выберите \"Основные\". Там нажмите на синюю ссылку \"удалить свой аккаунт\" внизу страницы. Введите причину удаления и нажмите на красную кнопку \"Удалить\", а потом на красную кнопку \"Подтвердить\".",
+        "domains": [
+            "dtf.ru"
+        ]
+    },
+
+    {
         "name": "Dunkindonuts",
         "url": "https://www.dunkindonuts.com/en/about/contact-us",
         "difficulty": "easy",
@@ -4586,6 +4619,16 @@
     },
 
     {
+        "name": "FreeDNS",
+        "url": "https://freedns.afraid.org",
+        "difficulty": "impossible",
+        "notes": "It is impossible to delete your FreeDNS account. However, your account automatically gets tagged as \"dormant\" if you are using the free plan and haven't logged in for 6 months. When your account is dormant, all of your domains get temporarily suspended until you log back in and activate them again.",
+        "domains": [
+            "freedns.afraid.org"
+        ]
+    },
+
+    {
         "name": "Freelancer",
         "url": "https://www.freelancer.in/users/settings.php#AccountSettings",
         "difficulty": "easy",
@@ -4916,10 +4959,9 @@
 
     {
         "name": "Geocaching",
-        "url": "http://support.groundspeak.com/index.php?pg=kb.page&id=102",
-        "difficulty": "hard",
-        "notes": "To permanently delete your account, you must contact them as the option in your account settings will not delete your geocaching logs.",
-        "notes_tr": "Hesabınızı kalıcı olarak silmek için onlarla iletişime geçmelisiniz çünkü \"Hesap Ayarları\" seçeneği geocaching kayıtlarınızı silmeyecektir.",
+        "url": "https://www.geocaching.com/account/settings/account",
+        "difficulty": "easy",
+        "notes": "Click \"Delete your account\" at the bottom of the page, then click \"Yes, delete my account\".",
         "domains": [
             "geocaching.com",
             "groundspeak.com"
@@ -6152,6 +6194,16 @@
         "notes_tr": "\"Ayarlarım\" kısmına girin ve aşağı doğru kaydırın, ardından \"Sil\" tuşuna tıklayın.",
         "domains": [
             "indiegogo.com"
+        ]
+    },
+
+    {
+        "name": "Infinite Story",
+        "url": "https://infinite-story.com/my/settings.php",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Infinite Story Account\" at the bottom of the page.",
+        "domains": [
+            "infinite-story.com"
         ]
     },
 
@@ -7455,7 +7507,7 @@
 
     {
         "name": "Mapbox",
-        "url": "https://www.mapbox.com/account/billing/",
+        "url": "https://account.mapbox.com/settings",
         "difficulty": "easy",
         "notes": "Enter Password -> Scroll to bottom -> Click 'Delete Account'",
         "notes_tr": "Şifrenizi girin, alta kaydırın ve \"Hesabı Sil\" tuşuna tıklayın",
@@ -9990,6 +10042,15 @@
     },
 
     {
+        "name": "The Powder Toy",
+        "url": "https://powdertoy.co.uk/Discussions/Thread/View.html?Thread=24007",
+        "difficulty": "impossible",
+        "domains": [
+            "powdertoy.co.uk"
+        ]
+    },
+
+    {
         "name": "Premera",
         "url": "https://www.premera.com/wa/visitor/",
         "email": "support@premera.com",
@@ -11537,6 +11598,16 @@
     },
 
     {
+        "name": "Soulseek",
+        "url": "https://www.slsknet.org/news/node/748",
+        "difficulty": "hard",
+        "notes": "Your username is deleted automatically if you haven't logged into your account for 30 days.",
+        "domains": [
+            "slsknet.org"
+        ]
+    },
+
+    {
         "name": "SoundCloud",
         "url": "https://soundcloud.com/settings/account#delete-user",
         "difficulty": "easy",
@@ -12036,6 +12107,19 @@
     },
 
     {
+        "name": "Tabnine",
+        "url": "https://tabnine.com",
+        "difficulty": "hard",
+        "notes": "The only way to delete your account is to send a deletion request to the support using the email which your account is registered to.",
+        "email": "support@tabnine.com",
+        "email_subject": "Account Deletion",
+        "email_body": "Hello. Please delete my Tabnine account.",
+        "domains": [
+            "tabnine.com"
+        ]
+    },
+
+    {
         "name": "Tagged",
         "url": "https://tagged.com/account_cancel.html",
         "difficulty": "easy",
@@ -12119,6 +12203,19 @@
         "difficulty": "hard",
         "domains": [
             "tastyworks.com"
+        ]
+    },
+
+    {
+        "name": "Teachable",
+        "url": "https://support.teachable.com/hc/en-us/articles/5540634496525-Delete-Your-School-or-Account#Deleteyouruseraccount",
+        "difficulty": "hard",
+        "notes": "You need to submit a deletion request by emailing them from the email address associated with your account.",
+        "email": "privacy@teachable.com",
+        "email_subject": "Account Deletion",
+        "email_body": "Hello. Please delete my Teachable account.",
+        "domains": [
+            "teachable.com"
         ]
     },
 
