@@ -9596,15 +9596,6 @@
     },
 
     {
-        "name": "The Powder Toy",
-        "url": "https://powdertoy.co.uk/Discussions/Thread/View.html?Thread=24007",
-        "difficulty": "impossible",
-        "domains": [
-            "powdertoy.co.uk"
-        ]
-    },
-
-    {
         "name": "Personal Capital",
         "url": "https://home.personalcapital.com/page/login/app#/settings",
         "difficulty": "easy",
@@ -10047,6 +10038,15 @@
         "notes_tr": "Hesap bilgilerini doldurun ve \"Sorun Bildir\" tuşuna tıklayın. Silme işlemini onaylamak için size gönderilen e-postayı yanıtlayın.",
         "domains": [
             "postmates.com"
+        ]
+    },
+
+    {
+        "name": "The Powder Toy",
+        "url": "https://powdertoy.co.uk/Discussions/Thread/View.html?Thread=24007",
+        "difficulty": "impossible",
+        "domains": [
+            "powdertoy.co.uk"
         ]
     },
 
