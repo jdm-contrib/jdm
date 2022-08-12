@@ -3942,7 +3942,7 @@
         "name": "enjin",
         "url": "https://www.enjin.com/dashboard/account/privacy",
         "difficulty": "easy",
-        "notes": "Scroll down and click on 'Deactivate Account'.",
+        "notes": "Scroll down and click on 'Delete Account'.",
         "domains": [
             "enjin.com"
         ]
