@@ -3050,6 +3050,16 @@
     },
 
     {
+        "name": "Deliveroo",
+        "url": "https://deliveroo.co.uk/account",
+        "difficulty": "medium",
+        "notes": "At the bottom of the account page is the option to permanently deactivate your account. It is unclear if your data will be retained after this so you may wish to contact dpo@deliveroo.com to exercise your right to erasure under UK GDPR.",
+        "domains": [
+            "deliveroo.co.uk"
+        ]
+    },
+
+    {
         "name": "Delivery Code",
         "url": "https://www.deliverycode.com",
         "difficulty": "medium",
