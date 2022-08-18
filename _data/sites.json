@@ -3946,6 +3946,16 @@
             "elpais.com.uy"
         ]
     },
+    
+    {
+        "name": "Empik",
+        "difficulty": "hard",
+        "email": "obsluga.klienta@empik.com",
+        "notes": "Send an e-mail asking for the deletion.",
+        "domains": [
+            "empik.com"
+        ]
+    },
 
     {
         "name": "enjin",
