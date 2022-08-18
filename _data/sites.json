@@ -2828,10 +2828,9 @@
 
     {
         "name": "Crunchyroll",
-        "url": "https://www.crunchyroll.com/nuke",
+        "url": "https://help.crunchyroll.com/hc/en-us/requests/new",
         "difficulty": "easy",
-        "notes": "You can deactivate the account after filling out a form containing the reason for doing so (radio button list) and typing your password",
-        "notes_tr": "Neden hesabınızı silmek istediğinizi belirtmenizi içeren bir formu doldurup şifrenizi girdikten sonra hesabınızı devre dışı bırakabilirsiniz",
+        "notes": "You can only have the account deleted through a support request.",
         "domains": [
             "crunchyroll.com"
         ]
