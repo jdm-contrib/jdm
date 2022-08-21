@@ -2829,7 +2829,7 @@
     {
         "name": "Crunchyroll",
         "url": "https://help.crunchyroll.com/hc/en-us/requests/new",
-        "difficulty": "easy",
+        "difficulty": "hard",
         "notes": "You can only have the account deleted through a support request.",
         "domains": [
             "crunchyroll.com"
