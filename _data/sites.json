@@ -280,6 +280,17 @@
     },
 
     {
+        "name": "Acceptd",
+        "url": "https://app.getacceptd.com/account",
+        "difficulty": "medium",
+        "notes": "Visit the linked page, scroll to the bottom, and click 'Request Account Deletion'. You will be sent an email with a link to delete your account. Your request will be completed within 10 business days.",
+        "domains": [
+            "getacceptd.com",
+            "app.getacceptd.com"
+        ]
+    },
+
+    {
         "name": "Acorns",
         "url": "https://www.acorns.com/support/contact/",
         "difficulty": "impossible",
@@ -4967,6 +4978,16 @@
     },
 
     {
+        "name": "Genius",
+        "url": "https://support.genius.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Visit the linked page to submit a ticket. Select 'Account Deletion/Data Erasure Request' from the drop down and fill out the form. You will be sent an email that asks you to reply with 'Confirm Account Deletion' to process your request. You also won't be notified when your account is deleted.",
+        "domains": [
+            "genius.com"
+        ]
+    },
+
+    {
         "name": "Geocaching",
         "url": "https://www.geocaching.com/account/settings/account",
         "difficulty": "easy",
@@ -7233,6 +7254,16 @@
         "difficulty": "easy",
         "domains": [
             "lobste.rs"
+        ]
+    },
+
+    {
+        "name": "LOBSTR",
+        "url": "https://lobstr.co/settings/#profile-tab",
+        "difficulty": "medium",
+        "notes": "Visit the linked page and click 'Delete LOBSTR account' under the 'Profile' tab. You will be sent an email with a link to delete your account.",
+        "domains": [
+            "lobstr.co"
         ]
     },
 
@@ -9804,6 +9835,16 @@
     },
 
     {
+        "name": "PlanetMinecraft",
+        "url": "https://www.planetminecraft.com/tickets/new/",
+        "difficulty": "hard",
+        "notes": "Visit the linked page and submit a ticket asking to have your account deleted.",
+        "domains": [
+            "planetminecraft.com"
+        ]
+    },
+
+    {
         "name": "PlantSnap",
         "url": "https://www.plantsnap.com/support-center/get-in-touch/",
         "difficulty": "medium",
@@ -10325,9 +10366,9 @@
 
     {
         "name": "Quora",
-        "url": "https://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
+        "url": "https://help.quora.com/hc/en-us/articles/115004250866-How-do-I-delete-my-Quora-account-?",
         "difficulty": "easy",
-        "notes": "Log in, go to 'Settings', 'Privacy', and then 'Delete Account'.",
+        "notes": "Log in, go to 'Settings', 'Privacy', and then 'Delete Account'. Your account will be deactivated, then permanently deleted after 14 days. If you log in during that time, your account will be reactivated and deletion will be canceled.",
         "notes_tr": "Giriş yapın, \"Ayarlar\" \"Gizlilik\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "quora.com"
@@ -13998,6 +14039,16 @@
         "notes_tr": "Web iletişim formunu kullanarak kısa bir e-posta yazın.",
         "domains": [
             "workupload.com"
+        ]
+    },
+
+    {
+        "name": "WorldAnvil",
+        "url": "https://www.worldanvil.com/dashboard/user/account",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, scroll down to `Account Deletion`, enter your username, then click `Delete Account`",
+        "domains": [
+            "worldanvil.com"
         ]
     },
 
