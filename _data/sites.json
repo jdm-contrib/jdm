@@ -10538,6 +10538,16 @@
     },
 
     {
+        "name": "Red Robin",
+        "url": "https://dsr.redrobin.com",
+        "difficulty": "hard",
+        "notes": "Select \"Delete my data\" as the request type.",
+        "domains": [
+            "redrobin.com"
+        ]
+    },
+
+    {
         "name": "Redacteur.com",
         "url": "https://www.redacteur.com/identities/edit",
         "difficulty": "easy",
