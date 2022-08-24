@@ -31,8 +31,8 @@
                         {{ site.data.trans[page.lang].difficulty_medium }}
                     {% elsif entry.difficulty == 'hard' %}
                         {{ site.data.trans[page.lang].difficulty_hard }}
-                    {% elsif entry.difficulty == 'only_via_policy' %}
-                        {{ site.data.trans[page.lang].difficulty_onlyviapolicy }}
+                    {% elsif entry.difficulty == 'limited' %}
+                        {{ site.data.trans[page.lang].difficulty_limited }}
                     {% elsif entry.difficulty == 'impossible' %}
                         {{ site.data.trans[page.lang].difficulty_impossible }}
                     {% endif %}
@@ -83,7 +83,7 @@
                 <li class="easy"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_easy|safe }}</span> - {{ site.data.trans[page.lang].guideeasy|safe }}</li>
                 <li class="medium"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_medium|safe }}</span> - {{ site.data.trans[page.lang].guidemedium|safe }}</li>
                 <li class="hard"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_hard|safe }}</span> - {{ site.data.trans[page.lang].guidehard|safe }}</li>
-                <li class="only_via_policy"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_onlyviapolicy|safe }}</span> - {{ site.data.trans[page.lang].guideonlyviapolicy|safe }}</li>
+                <li class="limited"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_limited|safe }}</span> - {{ site.data.trans[page.lang].guidelimited|safe }}</li>
                 <li class="impossible"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_impossible|safe }}</span> - {{ site.data.trans[page.lang].guideimpossible|safe }}</li>
             </ul>
         </div>
@@ -104,7 +104,7 @@
                 <li><span class="dot-wrapper"><span class="dot easy"></span></span> - {{ site.data.trans[page.lang].guideeasy|safe }}</li>
                 <li><span class="dot-wrapper"><span class="dot medium"></span></span> -  {{ site.data.trans[page.lang].guidemedium|safe }}</li>
                 <li><span class="dot-wrapper"><span class="dot hard"></span></span> - {{ site.data.trans[page.lang].guidehard|safe }}</li>
-                <li><span class="dot-wrapper"><span class="dot only_via_policy"></span></span> - {{ site.data.trans[page.lang].guideonlyviapolicy|safe }}</li>
+                <li><span class="dot-wrapper"><span class="dot limited"></span></span> - {{ site.data.trans[page.lang].guidelimited|safe }}</li>
                 <li><span class="dot-wrapper"><span class="dot impossible"></span></span> - {{ site.data.trans[page.lang].guideimpossible|safe }}</li>
             </ul>
         </div>
@@ -143,7 +143,7 @@
 <div id="difficulty-dropdown" class="dropdown dropdown-tip">
     <ul class="dropdown-menu">
         <span class="diff-sort">
-            {% assign difficulties = 'easy,medium,hard,onlyviapolicy,impossible' | split:',' %}
+            {% assign difficulties = 'easy,medium,hard,limited,impossible' | split:',' %}
             {% for difficulty in difficulties %}
                 {% capture difficulty_value %}difficulty_{{ difficulty }}{% endcapture %}
                 <li><a href="#">{{ site.data.trans[page.lang][difficulty_value] }}</a></li>
