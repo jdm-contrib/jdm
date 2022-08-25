@@ -3970,6 +3970,16 @@
     },
 
     {
+        "name": "Empik",
+        "url": "https://www.empik.com/polityka-prywatnosci-empik",
+        "difficulty": "hard",
+        "notes": "Send an e-mail asking for the deletion.",
+        "domains": [
+            "empik.com"
+        ]
+    },
+
+    {
         "name": "enjin",
         "url": "https://www.enjin.com/dashboard/account/privacy",
         "difficulty": "easy",
