@@ -4999,6 +4999,19 @@
     },
 
     {
+        "name": "Gentoo Forums",
+        "url": "https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests",
+        "difficulty": "hard",
+        "notes": "Send an email to forum-mods@gentoo.org requesting account deletion. However, all your forum posts and comments will still be shown, and your account will only be anonymized as detailed <a href='https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests'>here</a>.",
+        "email": "forum-mods@gentoo.org",
+        "email_subject": "Account Removal Request",
+        "email_body": "I request for my Gentoo Forums account to be deleted. My username is XXXXXXXXX",
+        "domains": [
+            "forums.gentoo.org"
+        ]
+    },
+
+    {
         "name": "Geocaching",
         "url": "https://www.geocaching.com/account/settings/account",
         "difficulty": "easy",
