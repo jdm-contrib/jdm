@@ -8848,6 +8848,18 @@
     },
 
     {
+        "name": "ngrok",
+        "url": "https://dashboard.ngrok.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Account\", then enter your email and click \"Delete Account\" again. You will be redirected to a page, where you must click \"Delete Account\", type your email, and type \"Delete\" twice",
+        "domains": [
+            "ngrok.com",
+            "ngrok.io",
+            "dashboard.ngrok.com"
+        ]
+    },
+
+    {
         "name": "NiceHash",
         "url": "http://nicehash.com/my/settings/security",
         "difficulty": "easy",
