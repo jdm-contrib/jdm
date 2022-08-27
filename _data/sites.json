@@ -8939,6 +8939,16 @@
     },
 
     {
+        "name": "Nomad",
+        "url": "https://benomad.zendesk.com/hc/pt-br/articles/360042473234-Como-solicito-o-fechamento-da-minha-conta-corrente-Nomad",
+        "difficulty": "easy",
+        "domains": [
+            "nomadglobal.com",
+            "benomad.zendesk.com"
+        ]
+    },
+
+    {
         "name": "NordPass",
         "url": "https://nordpass.com/privacy-policy/#choices-related-to-your-data",
         "difficulty": "hard",
