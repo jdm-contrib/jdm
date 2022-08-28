@@ -934,6 +934,18 @@
     },
 
     {
+        "name": "Asda",
+        "url": "https://www.asda.com/privacy/contact-us",
+        "difficulty": "hard",
+        "notes": "Send an email to 'dataprotection@asda.co.uk'.",
+        "email": "dataprotection@asda.co.uk",
+        "domains": [
+            "asda.com",
+            "asda.co.uk"
+        ]
+    },
+
+    {
         "name": "Asgardia.space",
         "url": "https://asgardia.space",
         "difficulty": "impossible",
