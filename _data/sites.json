@@ -13570,6 +13570,17 @@
     },
 
     {
+        "name": "VoucherCodes",
+        "url": "https://support.vouchercodes.co.uk/hc/en-us/articles/360000349566-How-do-I-delete-my-Account-",
+        "difficulty": "hard",
+        "notes": "Send an email to 'privacy@vouchercodes.co.uk' to request account deletion.",
+        "email": "privacy@vouchercodes.co.uk",
+        "domains": [
+            "vouchercodes.co.uk"
+        ]
+    },
+
+    {
         "name": "Voxer",
         "url": "https://support.voxer.com/hc/en-us/articles/204330173-How-do-I-delete-my-Voxer-account-",
         "difficulty": "medium",
