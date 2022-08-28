@@ -3802,6 +3802,16 @@
     },
 
     {
+        "name": "easyfundraising",
+        "url": "https://www.easyfundraising.org.uk/account/delete-account/",
+        "difficulty": "easy",
+        "notes": "Click on 'account' on the top right, then click 'Manage your data'. Click 'Learn more' under 'Delete your account and information' section. You will be prompted to enter your password.",
+        "domains": [
+            "easyfundraising.org.uk"
+        ]
+    },
+
+    {
         "name": "easyJet",
         "url": "https://www.easyjet.com/en/policy/privacy-promise/request-data-form",
         "difficulty": "hard",
