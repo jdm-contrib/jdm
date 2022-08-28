@@ -2805,6 +2805,16 @@
     },
 
     {
+        "name": "Credly",
+        "url": "https://www.credly.com/earner/settings/profile",
+        "difficulty": "easy",
+        "notes": "On the profile settings page, scroll down and click 'Delete my Profile'.",
+        "domains": [
+            "credly.com"
+        ]
+    },
+
+    {
         "name": "Crowdcast.io",
         "url": "https://docs.crowdcast.io/account/how-do-i-cancel-my-account",
         "difficulty": "impossible",
