@@ -937,7 +937,7 @@
         "name": "Asda",
         "url": "https://www.asda.com/privacy/contact-us",
         "difficulty": "hard",
-        "notes": "Send an email to 'dataprotection@asda.co.uk'.",
+        "notes": "Request account deletion by emailing them.",
         "email": "dataprotection@asda.co.uk",
         "domains": [
             "asda.com",
@@ -13595,7 +13595,7 @@
         "name": "VoucherCodes",
         "url": "https://support.vouchercodes.co.uk/hc/en-us/articles/360000349566-How-do-I-delete-my-Account-",
         "difficulty": "hard",
-        "notes": "Send an email to 'privacy@vouchercodes.co.uk' to request account deletion.",
+        "notes": "Send an email to them to request account deletion.",
         "email": "privacy@vouchercodes.co.uk",
         "domains": [
             "vouchercodes.co.uk"
