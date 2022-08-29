@@ -937,7 +937,7 @@
         "name": "Asda",
         "url": "https://www.asda.com/privacy/contact-us",
         "difficulty": "hard",
-        "notes": "Send an email to 'dataprotection@asda.co.uk'.",
+        "notes": "Request account deletion by emailing them.",
         "email": "dataprotection@asda.co.uk",
         "domains": [
             "asda.com",
@@ -5367,15 +5367,6 @@
     },
 
     {
-        "name": "Google+",
-        "url": "https://plus.google.com/downgrade",
-        "difficulty": "easy",
-        "domains": [
-            "plus.google.com"
-        ]
-    },
-
-    {
         "name": "GoPetition",
         "url": "https://www.gopetition.com",
         "difficulty": "easy",
@@ -9771,24 +9762,6 @@
     },
 
     {
-        "name": "Picasa",
-        "url": "http://picasaweb.google.com",
-        "difficulty": "impossible",
-        "notes": "You can't delete your Google Account for Picasa Web Albums without deleting your entire Google Account.",
-        "notes_tr": "Picasa Web Albümleri hesabınızı Google Hesabınızın tamamını silmeden silemezsiniz.",
-        "notes_fr": "Vous ne pouvez pas supprimer votre compte Picassa sans supprimer votre compte Google.",
-        "notes_it": "Non puoi eliminare il tuo account Picasa Web Albums senza eliminare l'intero Account Google.",
-        "notes_pt_br": "Você não pode deletar sua conta Picasa sem deletar toda sua Conta Google.",
-        "notes_cat": "No pot esborrar el seu compte a Picasa sense esborrar el seu compte de Google.",
-        "notes_es": "No puedes borrar tu cuenta de Picasa sin borrar toda la cuenta de Google.",
-        "notes_pl": "Nie ma możliwosći usunięcia konta w usłudze Picasa Web Albums bez usuwania całego konta Google.",
-        "domains": [
-            "picasaweb.google.com",
-            "picasa.google.com"
-        ]
-    },
-
-    {
         "name": "PicPay",
         "url": "https://ajuda.picpay.com/mobile/como-desativar-minha-conta",
         "difficulty": "impossible",
@@ -12542,6 +12515,16 @@
     },
 
     {
+        "name": "TheMovieDB",
+        "url": "https://www.themoviedb.org/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "Press the button to delete the account within 30 seconds after the password confirmation, otherwise you have to reenter your password.",
+        "domains": [
+            "themoviedb.org"
+        ]
+    },
+
+    {
         "name": "TheTVDB",
         "url": "https://thetvdb.com/dashboard/account/editinfo",
         "difficulty": "easy",
@@ -13595,7 +13578,7 @@
         "name": "VoucherCodes",
         "url": "https://support.vouchercodes.co.uk/hc/en-us/articles/360000349566-How-do-I-delete-my-Account-",
         "difficulty": "hard",
-        "notes": "Send an email to 'privacy@vouchercodes.co.uk' to request account deletion.",
+        "notes": "Send an email to them to request account deletion.",
         "email": "privacy@vouchercodes.co.uk",
         "domains": [
             "vouchercodes.co.uk"
