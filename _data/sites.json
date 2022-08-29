@@ -10262,7 +10262,7 @@
         "url": "https://account.protonvpn.com/account",
         "difficulty": "easy",
         "notes": "Click on the Delete Account button and follow the steps.",
-        "notes": "Clique em Delete Account button e siga as instruções.",
+        "notes_pt_br": "Clique em Delete Account button e siga as instruções.",
         "domains": [
             "protonvpn.com",
             "account.protonvpn.com"
