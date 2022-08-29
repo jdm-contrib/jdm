@@ -934,6 +934,18 @@
     },
 
     {
+        "name": "Asda",
+        "url": "https://www.asda.com/privacy/contact-us",
+        "difficulty": "hard",
+        "notes": "Request account deletion by emailing them.",
+        "email": "dataprotection@asda.co.uk",
+        "domains": [
+            "asda.com",
+            "asda.co.uk"
+        ]
+    },
+
+    {
         "name": "Asgardia.space",
         "url": "https://asgardia.space",
         "difficulty": "impossible",
@@ -2805,6 +2817,16 @@
     },
 
     {
+        "name": "Credly",
+        "url": "https://www.credly.com/earner/settings/profile",
+        "difficulty": "easy",
+        "notes": "On the profile settings page, scroll down and click 'Delete my Profile'.",
+        "domains": [
+            "credly.com"
+        ]
+    },
+
+    {
         "name": "Crowdcast.io",
         "url": "https://docs.crowdcast.io/account/how-do-i-cancel-my-account",
         "difficulty": "impossible",
@@ -3788,6 +3810,16 @@
         "notes_it": "Sciogli o trasferisci i tuoi team e progetti prima di eliminare il tuo account. Anche i tuoi account LCSC e JLCPCB verranno eliminati!",
         "domains": [
             "easyeda.com"
+        ]
+    },
+
+    {
+        "name": "easyfundraising",
+        "url": "https://www.easyfundraising.org.uk/account/delete-account/",
+        "difficulty": "easy",
+        "notes": "Click on 'account' on the top right, then click 'Manage your data'. Click 'Learn more' under 'Delete your account and information' section. You will be prompted to enter your password.",
+        "domains": [
+            "easyfundraising.org.uk"
         ]
     },
 
@@ -13539,6 +13571,17 @@
         "notes": "You need to log into their billing panel and send a ticket regarding the account deletion.",
         "domains": [
             "volcanohosting.net"
+        ]
+    },
+
+    {
+        "name": "VoucherCodes",
+        "url": "https://support.vouchercodes.co.uk/hc/en-us/articles/360000349566-How-do-I-delete-my-Account-",
+        "difficulty": "hard",
+        "notes": "Send an email to them to request account deletion.",
+        "email": "privacy@vouchercodes.co.uk",
+        "domains": [
+            "vouchercodes.co.uk"
         ]
     },
 
