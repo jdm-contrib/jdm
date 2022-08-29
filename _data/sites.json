@@ -10253,8 +10253,7 @@
         "notes": "Log into your account -> Click Settings -> Scroll Down to the Delete My Account Button -> Type why you are leaving, password, and 2 Factor Authentication code if enabled -> Click Delete",
         "notes_tr": "Hesabınıza giriş yapın, \"Ayarlar\" \"Hesabımı Sil\", neden ayrıldığınızı yazın, şifrenizi ve etkinse 2 faktörlü kimlik doğrulama kodunuzu girip \"Sil\" tuşuna tıklayın",
         "domains": [
-            "protonmail.com",
-            "proton.me"
+            "protonmail.com"
         ]
     },
 
@@ -10263,9 +10262,9 @@
         "url": "https://account.protonvpn.com/account",
         "difficulty": "easy",
         "notes": "Click on the Delete Account button and follow the steps.",
+        "notes": "Clique em Delete Account button e siga as instruções.",
         "domains": [
             "protonvpn.com",
-            "proton.me",
             "account.protonvpn.com"
         ]
     },
