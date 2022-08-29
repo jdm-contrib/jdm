@@ -12510,6 +12510,16 @@
     },
 
     {
+        "name": "TheMovieDB",
+        "url": "https://www.themoviedb.org/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "Press the button to delete the account within 30 seconds after the password confirmation, otherwise you have to reenter your password.",
+        "domains": [
+            "themoviedb.org"
+        ]
+    },
+
+    {
         "name": "TheTVDB",
         "url": "https://thetvdb.com/dashboard/account/editinfo",
         "difficulty": "easy",
