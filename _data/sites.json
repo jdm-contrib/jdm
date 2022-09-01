@@ -8973,6 +8973,16 @@
     },
 
     {
+        "name": "Nomad",
+        "url": "https://benomad.zendesk.com/hc/pt-br/articles/360042473234-Como-solicito-o-fechamento-da-minha-conta-corrente-Nomad",
+        "difficulty": "easy",
+        "domains": [
+            "nomadglobal.com",
+            "benomad.zendesk.com"
+        ]
+    },
+
+    {
         "name": "NordPass",
         "url": "https://nordpass.com/privacy-policy/#choices-related-to-your-data",
         "difficulty": "hard",
@@ -10268,6 +10278,7 @@
         "url": "https://account.protonvpn.com/account",
         "difficulty": "easy",
         "notes": "Click on the Delete Account button and follow the steps.",
+        "notes_pt_br": "Clique no botão \"Delete Account\" e siga as instruções.",
         "domains": [
             "protonvpn.com",
             "account.protonvpn.com"
