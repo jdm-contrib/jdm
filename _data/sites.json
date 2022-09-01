@@ -69,7 +69,7 @@
         "notes": "Ask to delete you account to this email contact@1fichier.com ",
         "notes_fr": "Envoyez une demande de suppression de compte à cette adresse mail contact@1fichier.com",
         "notes_pt_br": "Solicite a exclusão da conta para o e-mail contact@1fichier.com ",
-		"email": "contact@1fichier.com",
+        "email": "contact@1fichier.com",
         "domains": [
             "1fichier.com"
         ]
@@ -9161,7 +9161,10 @@
         "name": "Oculus VR",
         "url": "https://tickets.oculusvr.com/hc/en-us/requests/new",
         "difficulty": "hard",
-        "notes": "You need to file a ticket with Customer Support."
+        "notes": "You need to file a ticket with Customer Support.",
+        "domains": [
+            "oculus.com"
+        ]
     },
 
     {
@@ -9484,7 +9487,7 @@
         "url": "https://padrim.zendesk.com/hc/pt-br/articles/360015115254-Como-excluo-minha-conta-do-Padrim-",
         "difficulty": "impossible",
         "notes": "At the moment, it's not possible to exclude the account. But, you can change the profile to the \"private\" mode.",
-		"notes_pt_br": "No momento, não é possível remover a conta. Mas, você pode deixar o seu perfil em \"privado\".",
+        "notes_pt_br": "No momento, não é possível remover a conta. Mas, você pode deixar o seu perfil em \"privado\".",
         "domains": [
             "padrim.com.br"
         ]
