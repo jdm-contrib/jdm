@@ -14193,26 +14193,6 @@
     },
 
     {
-        "name": "World Market",
-        "url": "http://www.worldmarket.com/category/customer-service/contact-us.do",
-        "difficulty": "impossible",
-        "notes": "Contacting customer support, they will most likely tell you they can't modify or delete accounts created on their website.",
-        "domains": [
-            "worldmarket.com"
-        ]
-    },
-
-    {
-        "name": "World Market Explorer",
-        "url": "https://www.worldmarketexplorer.com/contact/",
-        "difficulty": "hard",
-        "notes": "Using the contact form, select 'Sign-up and Registration' from the category dropdown, then ask to be unenrolled.",
-        "domains": [
-            "worldmarketexplorer.com"
-        ]
-    },
-
-    {
         "name": "workupload",
         "url": "https://workupload.com/contact",
         "difficulty": "hard",
@@ -14230,6 +14210,26 @@
         "notes": "Visit the linked page, scroll down to `Account Deletion`, enter your username, then click `Delete Account`",
         "domains": [
             "worldanvil.com"
+        ]
+    },
+
+    {
+        "name": "World Market",
+        "url": "http://www.worldmarket.com/category/customer-service/contact-us.do",
+        "difficulty": "impossible",
+        "notes": "Contacting customer support, they will most likely tell you they can't modify or delete accounts created on their website.",
+        "domains": [
+            "worldmarket.com"
+        ]
+    },
+
+    {
+        "name": "World Market Explorer",
+        "url": "https://www.worldmarketexplorer.com/contact/",
+        "difficulty": "hard",
+        "notes": "Using the contact form, select 'Sign-up and Registration' from the category dropdown, then ask to be unenrolled.",
+        "domains": [
+            "worldmarketexplorer.com"
         ]
     },
 
