@@ -14204,16 +14204,6 @@
     },
 
     {
-        "name": "WorldAnvil",
-        "url": "https://www.worldanvil.com/dashboard/user/account",
-        "difficulty": "easy",
-        "notes": "Visit the linked page, scroll down to `Account Deletion`, enter your username, then click `Delete Account`",
-        "domains": [
-            "worldanvil.com"
-        ]
-    },
-
-    {
         "name": "World Market",
         "url": "http://www.worldmarket.com/category/customer-service/contact-us.do",
         "difficulty": "impossible",
@@ -14230,6 +14220,16 @@
         "notes": "Using the contact form, select 'Sign-up and Registration' from the category dropdown, then ask to be unenrolled.",
         "domains": [
             "worldmarketexplorer.com"
+        ]
+    },
+
+    {
+        "name": "WorldAnvil",
+        "url": "https://www.worldanvil.com/dashboard/user/account",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, scroll down to `Account Deletion`, enter your username, then click `Delete Account`",
+        "domains": [
+            "worldanvil.com"
         ]
     },
 
