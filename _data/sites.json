@@ -6992,6 +6992,17 @@
     },
 
     {
+        "name": "Kwai", 
+        "url": "https://www.kwai.com/legal", 
+        "difficulty": "medium", 
+        "notes": "Click in the gear on left upper corner -> Account security -> \"Delete my account\" at the bottom -> Select the reason and press the \"Delete my account\" button. The deleting process will occur in 72 hours. Your account may be removed if you haven\'t use it for 6 months.",
+        "notes_pt_br": "Clique na roda dentada no canto superior esquerdo -> Em Segurança da Conta -> \"Deletar minha conta\" no rodapé -> Selecione o motivo e clique no botão \"Excluir Minha Conta\". A exclusão em definitivo acontecerá em 72 horas. Além disso, sua conta pode ser removida caso você não a use por 6 meses.", 
+        "domains": [ 
+            "kwai.com"
+        ]
+    },
+
+    {
         "name": "Last.fm",
         "url": "https://www.last.fm/settings/account",
         "difficulty": "easy",
@@ -7975,6 +7986,17 @@
     },
 
     {
+        "name": "Mercado Libre El Salvador",
+        "url": "http://myaccount.mercadolibre.com.sv/cancelar-cuenta",
+        "difficulty": "medium",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "domains": [
+            "mercadolibre.com.sv"
+        ]
+    },
+
+    {
         "name": "Mercado Libre Guatemala",
         "url": "http://myaccount.mercadolibre.com.gt/cancelar-cuenta",
         "difficulty": "medium",
@@ -8061,17 +8083,6 @@
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.do"
-        ]
-    },
-
-    {
-        "name": "Mercado Libre Salvador",
-        "url": "http://myaccount.mercadolibre.com.sv/cancelar-cuenta",
-        "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
-        "domains": [
-            "mercadolibre.com.sv"
         ]
     },
 
@@ -9445,6 +9456,16 @@
         "notes": "Visit the linked page and click 'Delete Account Permanently'.",
         "domains": [
             "packagist.org"
+        ]
+    },
+
+    {
+        "name": "Padrim",
+        "url": "https://padrim.zendesk.com/hc/pt-br/articles/360015115254-Como-excluo-minha-conta-do-Padrim-",
+        "difficulty": "impossible", "notes": "At the moment, it's not possible to exclude the account. But, you can change the profile to the \"private\" mode.",
+        "notes_pt_br": "No momento, não é possível remover a conta. Mas, você pode deixar o seu perfil em \"privado\".",
+        "domains": [
+            "padrim.com.br"
         ]
     },
 
