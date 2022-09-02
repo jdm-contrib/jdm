@@ -64,11 +64,10 @@
 
     {
         "name": "1fichier",
-        "url": "http://www.4shared.com/web/account/settings#overview",
+        "url": "https://1fichier.com/contact.html",
         "difficulty": "hard",
-        "notes": "Ask to delete you account to this email contact@1fichier.com ",
-        "notes_fr": "Envoyez une demande de suppression de compte à cette adresse mail contact@1fichier.com",
-        "notes_pt_br": "Solicite a exclusão da conta para o e-mail contact@1fichier.com ",
+        "notes": "Contact support using the linked form or by email and request account deletion.",
+        "notes_pt_br": "Solicite suporte preenchendo o formulário no link ou envie um e-mail solicitando a remoção da conta.",
         "email": "contact@1fichier.com",
         "domains": [
             "1fichier.com"
@@ -619,7 +618,7 @@
 
     {
         "name": "Alvanista",
-        "url": "http://alvanista.com/profile/edit",
+        "url": "https://alvanista.com/profile/edit",
         "difficulty": "easy",
         "notes": "Follow the link to edit your profile and click cancel account at bottom.",
         "notes_ru": "Перейдите по ссылке, чтобы отредактировать свой профиль, и нажмите внизу отменить учетную запись.",
@@ -5610,7 +5609,7 @@
 
     {
         "name": "The Guardian",
-        "url": "http://www.theguardian.com/world/2013/apr/04/guardian-managing-online-profiles",
+        "url": "https://www.theguardian.com/world/2013/apr/04/guardian-managing-online-profiles",
         "difficulty": "hard",
         "notes": "You need to contact the user help team via e-mail to request account deletion.",
         "email": "userhelp@guardian.co.uk",
@@ -7931,7 +7930,7 @@
 
     {
         "name": "Mercado Libre Argentina",
-        "url": "http://myaccount.mercadolibre.com.ar/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.ar/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
@@ -7943,7 +7942,7 @@
 
     {
         "name": "Mercado Libre Bolivia",
-        "url": "http://myaccount.mercadolibre.com.bo/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.bo/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -7954,7 +7953,7 @@
 
     {
         "name": "Mercado Libre Chile",
-        "url": "http://myaccount.mercadolibre.cl/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.cl/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
@@ -7966,7 +7965,7 @@
 
     {
         "name": "Mercado Libre Colombia",
-        "url": "http://myaccount.mercadolibre.com.co/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.co/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
@@ -7978,7 +7977,7 @@
 
     {
         "name": "Mercado Libre Costa Rica",
-        "url": "http://myaccount.mercadolibre.co.cr/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.co.cr/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -7989,7 +7988,7 @@
 
     {
         "name": "Mercado Libre Ecuador",
-        "url": "http://myaccount.mercadolibre.com.ec/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.ec/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -8000,7 +7999,7 @@
 
     {
         "name": "Mercado Libre El Salvador",
-        "url": "http://myaccount.mercadolibre.com.sv/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.sv/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -8011,7 +8010,7 @@
 
     {
         "name": "Mercado Libre Guatemala",
-        "url": "http://myaccount.mercadolibre.com.gt/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.gt/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -8022,7 +8021,7 @@
 
     {
         "name": "Mercado Libre Honduras",
-        "url": "http://myaccount.mercadolibre.com.hn/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.hn/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -8033,7 +8032,7 @@
 
     {
         "name": "Mercado Libre México",
-        "url": "http://myaccount.mercadolibre.com.mx/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.mx/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
@@ -8045,7 +8044,7 @@
 
     {
         "name": "Mercado Libre Nicaragua",
-        "url": "http://myaccount.mercadolibre.com.ni/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.ni/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -8056,7 +8055,7 @@
 
     {
         "name": "Mercado Libre Panamá",
-        "url": "http://myaccount.mercadolibre.com.pa/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.pa/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -8067,7 +8066,7 @@
 
     {
         "name": "Mercado Libre Paraguay",
-        "url": "http://myaccount.mercadolibre.com.py/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.py/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -8078,7 +8077,7 @@
 
     {
         "name": "Mercado Libre Perú",
-        "url": "http://myaccount.mercadolibre.com.pe/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.pe/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
@@ -8090,7 +8089,7 @@
 
     {
         "name": "Mercado Libre República Dominicana",
-        "url": "http://myaccount.mercadolibre.com.do/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.do/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
@@ -8101,7 +8100,7 @@
 
     {
         "name": "Mercado Libre Uruguay",
-        "url": "http://myaccount.mercadolibre.com.uy/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.uy/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
@@ -8113,7 +8112,7 @@
 
     {
         "name": "Mercado Libre Venezuela",
-        "url": "http://myaccount.mercadolibre.com.ve/cancelar-cuenta",
+        "url": "https://myaccount.mercadolibre.com.ve/cancelar-cuenta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
@@ -8125,7 +8124,7 @@
 
     {
         "name": "Mercado Livre Brasil",
-        "url": "http://myaccount.mercadolivre.com.br/cancelar-conta",
+        "url": "https://myaccount.mercadolivre.com.br/cancelar-conta",
         "difficulty": "medium",
         "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estou de acordo\", and confirm your action by clinking \"Aceito\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Livre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Livre account, your Mercado Pago account will be deleted too.",
         "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estou de acordo\" e clique em \"Aceitar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Livre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Livre, sua conta do Mercado Pago também será excluída.",
@@ -9630,7 +9629,7 @@
 
     {
         "name": "Passpack",
-        "url": "http://help.passpack.com/knowledgebase/idx.php/37/159/article/How-to-Delete-Your-Passpack-Account.html",
+        "url": "https://help.passpack.com/knowledgebase/idx.php/37/159/article/How-to-Delete-Your-Passpack-Account.html",
         "difficulty": "easy",
         "notes": "Sign into your Passpack account. Click on your Account tab then click the delete your account link in the lower left hand corner of the page. You will then be asked to insert your Packing Key to confirm that you are sure. Click Delete to permanently delete your account.",
         "domains": [
@@ -14205,7 +14204,7 @@
 
     {
         "name": "World Market",
-        "url": "http://www.worldmarket.com/category/customer-service/contact-us.do",
+        "url": "https://www.worldmarket.com/category/customer-service/contact-us.do",
         "difficulty": "impossible",
         "notes": "Contacting customer support, they will most likely tell you they can't modify or delete accounts created on their website.",
         "domains": [
