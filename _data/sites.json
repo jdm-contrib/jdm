@@ -12300,6 +12300,16 @@
     },
 
     {
+        "name": "targetjobs",
+        "url": "https://targetjobs.co.uk/account/settings",
+        "notes": "Go to 'Account Settings' and then click 'Delete Account'.",
+        "difficulty": "easy",
+        "domains": [
+            "targetjobs.co.uk"
+        ]
+    },
+
+    {
         "name": "TargetProcess",
         "url": "https://www.targetprocess.com",
         "email": "support@targetprocess.com",
