@@ -11832,11 +11832,14 @@
     },
     
     {
-      "name": "Spieletipps",
-      "url": "https://www.spieletipps.de/m/resign/",
-      "difficulty": "easy",
-      "notes": "Confirm password and click the delete button.",
-      "notes_de": "Passwort bestätigen und auf \"Mitgliedschaft beenden\" klicken"
+        "name": "Spieletipps",
+        "url": "https://www.spieletipps.de/m/resign/",
+        "difficulty": "easy",
+        "notes": "Confirm password and click the delete button.",
+        "notes_de": "Passwort bestätigen und auf \"Mitgliedschaft beenden\" klicken.",
+        "domains": [
+            "spieletipps.de"
+        ]
     },
 
     {
