@@ -2303,6 +2303,17 @@
     },
 
     {
+        "name": "Cisco",
+        "url": "https://privacyrequest.cisco.com/",
+        "difficulty": "hard",
+        "notes": "Fill in the fields on the form, confirm the request in your email and then wait for their privacy team to respond.",
+        "domains": [
+            "cisco.com",
+            "netacad.com"
+        ]
+    },
+
+    {
         "name": "ClassPass",
         "url": "https://classpass.com/settings/membership",
         "difficulty": "impossible",
