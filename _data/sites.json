@@ -2984,6 +2984,17 @@
     },
 
     {
+        "name": "DaFont",
+        "url": "",
+        "difficulty": "hard",
+        "notes": "You'll send a private message to Rodolphe : http://www.dafont.com/fr/profile.php?user=1 (Wrote by Vinz).",
+        "notes_it": "Dovrai mandare un messagio privato a Rodolphe http://www.dafont.com/fr/profile.php?user=1 (Scritto da Vinz): [scritto da madrelingua / wrote by a motherlanguage]",
+        "domains":[
+            "dafont.com"
+        ]
+    },
+
+    {
         "name": "Dailymotion",
         "url": "https://www.dailymotion.com/settings/delete-account",
         "difficulty": "easy",
