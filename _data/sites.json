@@ -605,6 +605,16 @@
     },
 
     {
+        "name": "AllDebrid",
+        "url": "https://alldebrid.com/account/#accountDelete",
+        "difficulty": "easy",
+        "notes": "Login to your account, then open the URL. You should see the option 'Delete my account'. Enter your username for confirmation and use the deletion link sent to your email to delete your account.",
+        "domains": [
+            "alldebrid.com"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "http://alvanista.com/profile/edit",
         "difficulty": "easy",
@@ -8883,6 +8893,16 @@
     },
 
     {
+        "name": "Nexo",
+        "url": "https://platform.nexo.io/security/close-account",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to 'Account > Security' and enable 2FA. Go to the URL and then close your account.",
+        "domains": [
+            "nexo.io"
+        ]
+    },
+
+    {
         "name": "NextDNS",
         "url": "https://my.nextdns.io/account",
         "difficulty": "easy",
@@ -11267,6 +11287,16 @@
         "email_subject": "SendGrid account deletion request",
         "domains": [
             "sendgrid.com"
+        ]
+    },
+
+    {
+        "name": "Sendspace",
+        "url": "https://www.sendspace.com/mysendspace/prefs.html",
+        "difficulty": "easy",
+        "notes": "Login to your account, then open the URL. You should see the option 'Close my account'. They will ask for confirmation, and after you confirm your account will be deleted.",
+        "domains": [
+            "sendspace.com"
         ]
     },
 
