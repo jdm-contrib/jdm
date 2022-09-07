@@ -11843,6 +11843,17 @@
     },
 
     {
+        "name": "Spieletipps",
+        "url": "https://www.spieletipps.de/m/resign/",
+        "difficulty": "easy",
+        "notes": "Confirm password and click the delete button.",
+        "notes_de": "Passwort bestätigen und auf \"Mitgliedschaft beenden\" klicken.",
+        "domains": [
+            "spieletipps.de"
+        ]
+    },
+
+    {
         "name": "SpigotMC",
         "url": "https://www.spigotmc.org/threads/delete-account.205176/",
         "difficulty": "impossible",
