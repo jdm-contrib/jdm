@@ -245,6 +245,16 @@
     },
 
     {
+        "name": "About You",
+        "url": "https://www.aboutyou.it/h/il-mio-account/q-360014814179",
+        "difficulty": "medium",
+        "notes": "You need to contact servizioclienti@aboutyou.it to delete your account",
+        "domains":[
+            "aboutyou.it"
+        ]
+    },
+
+    {
         "name": "Academia",
         "url": "https://www.academia.edu/settings#account-removal",
         "difficulty": "easy",
