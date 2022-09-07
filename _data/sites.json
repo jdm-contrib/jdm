@@ -6132,21 +6132,21 @@
     },
 
     {
+        "name": "IBM Cloud Video",
+        "url": "https://support.video.ibm.com/hc/en-us/articles/207851817-How-Do-I-Delete-My-IBM-Video-Streaming-Account-",
+        "difficulty": "easy",
+        "domains": [
+            "video.ibm.com"
+        ]
+    },
+
+    {
         "name": "Ibotta",
         "url": "https://help.ibotta.com/hc/en-us/articles/225528727-How-Do-I-Cancel-My-Ibotta-Account-",
         "difficulty": "hard",
         "email": "accountsupport@ibotta.com",
         "domains": [
             "ibotta.com"
-        ]
-    },
-
-    {
-        "name": "IBM Cloud Video",
-        "url": "https://support.video.ibm.com/hc/en-us/articles/207851817-How-Do-I-Delete-My-IBM-Video-Streaming-Account-",
-        "difficulty": "easy",
-        "domains": [
-            "video.ibm.com"
         ]
     },
 
