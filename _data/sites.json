@@ -9145,6 +9145,15 @@
     },
 
     {
+        "name": "Oculus VR",
+        "url": "https://store.facebook.com/help/quest/articles/accounts/account-settings-and-management/delete-oculus-account/",
+        "difficulty": "easy",
+        "domains": [
+            "oculus.com"
+        ]
+    },
+
+    {
         "name": "Odnoklassniki",
         "url": "https://odnoklassniki.ru/regulations",
         "difficulty": "easy",
@@ -11050,6 +11059,30 @@
     },
 
     {
+        "name": "Rue du Commerce",
+        "url": "http://www.rueducommerce.fr",
+        "difficulty": "impossible",
+        "notes": "No online request possible.",
+        "notes_fr": "Pas de demande possible en ligne.",
+        "notes_pt_br": "Não é possível fazer nenhum tipo de requisição online.",
+        "domains": [
+            "rueducommerce.fr"
+        ]
+    },
+
+    {
+        "name": "Rumble",
+        "url": "https://rumblefaq.groovehq.com/help/how-to-delete-your-account",
+        "difficulty": "hard",
+        "notes": "You must send an e-mail to support@rumble.com with the subject \"Delete my account\".",
+        "notes_pt_br": "Você tem que enviar um e-mail para support@rumble.com com o assunto \"Delete my account\".",
+        "email": "support@rumble.com",
+        "domains": [
+            "rumble.com"
+        ]
+    },
+
+    {
         "name": "Runescape",
         "url": "https://www.runescape.com/zendesk/support-form?form=360000041149",
         "difficulty": "medium",
@@ -11854,6 +11887,7 @@
 
     {
         "name": "Spotify",
+        "meta": "popular",
         "url": "https://support.spotify.com/close-account",
         "difficulty": "medium",
         "notes": "1. Cancel your subscription at https://www.spotify.com/us/account/subscription/ 2. Public playlists will be anonymised, delete any playlists you want. 3. Go to the provided link, Account -> I want to close my account and follow the instructions. The account can still be restored within 7 days of the request.",
@@ -12683,6 +12717,7 @@
 
     {
         "name": "TikTok",
+        "meta": "popular",
         "url": "https://www.tiktok.com",
         "difficulty": "medium",
         "notes": "Tap account (with people depicton, on the bottom right edge)>Menu (on top right edge)>Privacy and Settings>Privacy and Safety>Delete Account>Next>Continue>Delete Account.",
