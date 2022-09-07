@@ -14508,5 +14508,35 @@
         "domains": [
             "ciceksepeti.com"
         ]
+    },
+
+    {
+        "name": "AllDebrid",
+        "url": "https://alldebrid.com/account/#accountDelete",
+        "difficulty": "easy",
+        "notes": "Login to your account, and then open the URL. You should see the option 'Delete my account'. You need to enter your username for confirmation and they will send you a deletion link in your linked email.", 
+        "domains": [
+            "alldebrid.com"
+        ]
+    },
+    
+    {
+        "name": "Sendspace",
+        "url": "https://www.sendspace.com/mysendspace/prefs.html",
+        "difficulty": "easy",
+        "notes": "Login to your account, and then open the URL. You should see the option 'Close my account'. They will ask for confirmation, after you confirm your account will be deleted.", 
+        "domains": [
+            "sendspace.com"
+        ]
+    },
+    
+    {
+        "name": "Nexo",
+        "url": "https://platform.nexo.io/security/close-account",
+        "difficulty": "medium",
+        "notes": "Login to your account, make sure your balance is 0 and then open the URL. Select any reason and click on 'Close my account', if you don't have 2FA enabled you need to click the link they provide and enable it, use any authenticator app for it, then open the URL again and you should be able to close your account after entering 2fa code.", 
+        "domains": [
+            "nexo.io"
+        ]
     }
 ]
