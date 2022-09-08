@@ -236,6 +236,18 @@
     },
 
     {
+        "name": "About you",
+        "difficulty": "medium",
+        "notes": "You need to write to their email and ask for account elimination",
+        "notes_it": "Dovrai scrivere alla loro mail e chiedergli di eliminare il tuo account",
+        "url": "https://www.aboutyou.it/h/il-mio-account/q-360014814179",
+        "email": "servizioclienti@aboutyou.it",
+        "domains":[
+            "aboutyou.it"
+        ]
+    },
+
+    {
         "name": "About.me",
         "url": "https://about.me/account",
         "difficulty": "easy",
