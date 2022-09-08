@@ -11095,9 +11095,10 @@
         "name": "Rumble",
         "url": "https://rumblefaq.groovehq.com/help/how-to-delete-your-account",
         "difficulty": "hard",
-        "notes": "You must send an e-mail to support@rumble.com with the subject \"Delete my account\".",
-        "notes_pt_br": "Você tem que enviar um e-mail para support@rumble.com com o assunto \"Delete my account\".",
+        "notes": "You must send an to them",
+        "notes_pt_br": "Você tem que enviar um e-mail para eles",
         "email": "support@rumble.com",
+        "email_subject": "Delete my account",
         "domains": [
             "rumble.com"
         ]
