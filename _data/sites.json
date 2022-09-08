@@ -242,7 +242,7 @@
         "email": "servizioclienti@aboutyou.it",
         "notes": "In order to delete your account you need to write to their client service email",
         "notes_it": "Per eliminare il tuo account devi mandare una mail al servizio clienti",
-        "domain":[
+        "domains":[
             "aboutyou.it"
         ]
     },
