@@ -3020,8 +3020,8 @@
         "name": "DaFONT",
         "url": "https://www.dafont.com/forum/read/12643/how-do-i-delete-my-account",
         "difficulty": "hard",
-        "notes": "Send a private message to Rodolphe: <a href='http://www.dafont.com/fr/profile.php?user=1'>.",
-        "notes_it": "Dovrai mandare un messagio privato a Rodolphe: <a href='http://www.dafont.com/fr/profile.php?user=1'>",
+        "notes": "Send a private message to <a href='http://www.dafont.com/fr/profile.php?user=1'>Rodolphe</a>.",
+        "notes_it": "Dovrai mandare un messagio privato a <a href='http://www.dafont.com/fr/profile.php?user=1'>Rodolphe</a>",
         "domains":[
             "dafont.com"
         ]
