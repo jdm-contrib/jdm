@@ -236,6 +236,16 @@
     },
 
     {
+        "name": "About you",
+        "url": "https://www.aboutyou.it/h/il-mio-account/q-360014814179",
+        "difficulty":"medium",
+        "email": "servizioclienti@aboutyou.it",
+        "domain":[
+            "aboutyou.it"
+        ]
+    },
+
+    {
         "name": "About.me",
         "url": "https://about.me/account",
         "difficulty": "easy",
