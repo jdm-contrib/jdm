@@ -11873,6 +11873,15 @@
     },
 
     {
+        "name": "Sonix",
+        "url": "https://my.sonix.ai/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "sonix.ai"
+        ]
+    },
+
+    {
         "name": "Soulseek",
         "url": "https://www.slsknet.org/news/node/748",
         "difficulty": "hard",
