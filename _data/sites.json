@@ -2984,6 +2984,17 @@
     },
 
     {
+        "name": "Curriculum",
+        "url": "https://curriculum.zendesk.com/hc/pt-br/requests/new",
+        "difficulty": "hard",
+        "notes": "Access the link above and fill the form requesting the account deletion.",
+        "notes_pt_br": "Acesse o link acima e preencha o formulário pedindo a remoção da conta.",
+        "domains": [
+            "curriculum.com.br"
+        ]
+    },
+
+    {
         "name": "Curve",
         "url": "https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account",
         "difficulty": "medium",
@@ -5148,6 +5159,15 @@
         "notes_tr": "Tercihler sayfasında \"Hesabımı Sil\" seçeneğini seçin ve \"Gönder\" tuşuna tıklayın.",
         "domains": [
             "getcreditscore.com.au"
+        ]
+    },
+
+    {
+        "name": "Gettr",
+        "url": "https://gettr.com/settings/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "gettr.com"
         ]
     },
 
@@ -9166,6 +9186,17 @@
     },
 
     {
+        "name": "Nube",
+        "url": "https://www.nube.com.br/politica-uso-privacidade",
+        "difficulty": "impossible",
+        "notes": "According privacy policy, account cannot be deleted, only deactivated (and reactivated earlier).",
+        "notes_pt_br": "De acordo com a política de privacidade, as contas não podem ser excluídas, apenas desativadas (e reativadas mais para frente).",
+        "domains": [
+            "nube.com.br"
+        ]
+    },
+
+    {
         "name": "NutraCheck",
         "url": "https://www.nutracheck.co.uk/",
         "difficulty": "hard",
@@ -10354,6 +10385,15 @@
         "notes": "Contact via Discord or forum asking to delete account.",
         "domains": [
             "https://promods.net/"
+        ]
+    },
+
+    {
+        "name": "Proofwiki",
+        "url": "https://proofwiki.org/wiki/ProofWiki:Privacy_policy#Removal_of_user_accounts",
+        "difficulty": "impossible",
+        "domains": [
+            "proofwiki.org"
         ]
     },
 
@@ -12791,6 +12831,17 @@
     },
 
     {
+        "name": "TicketWeb",
+        "url": "https://help.ticketweb.co.uk/hc/en-gb/articles/360007874593-How-do-I-close-my-Ticketweb-account-",
+        "difficulty": "hard",
+        "domains": [
+			"ticketweb.com",
+            "ticketweb.co.uk",
+			"ticketweb.uk"
+        ]
+    },
+
+    {
         "name": "TickTick",
         "url": "https://support.ticktick.com/hc/en-us/articles/360011759031",
         "difficulty": "easy",
@@ -14336,6 +14387,15 @@
         "notes": "At the bottom of the account settings there is a delete account button. You'll just need to re-enter your password.",
         "domains": [
             "xsplit.com"
+        ]
+    },
+
+    {
+        "name": "XVideos",
+        "url": "https://info.xvideos.com/faq/question/73-everyone-how_can_i_delete_my_account",
+        "difficulty": "easy",
+        "domains": [
+            "xvideos.com"
         ]
     },
 
