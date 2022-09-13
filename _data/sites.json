@@ -10617,6 +10617,20 @@
     },
 
     {
+        "name": "Rakuten",
+        "url": "https://www.rakuten.com/help/article/privacy-policy-360002101688",
+        "difficulty": "hard",
+        "email": "memberservices@rakuten.com",
+        "email_subject": "Request to Delete Rakuten Account",
+        "notes": "Email memberservices@rakuten.com asking to delete your account.",
+        "domains": [
+            "rakuten.com",
+            "rakuten.ca",
+            "rakuten.co.uk"
+        ]
+    },
+
+    {
         "name": "RapidAPI",
         "url": "https://rapidapi.com/contact-us",
         "difficulty": "hard",
