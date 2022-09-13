@@ -6225,6 +6225,15 @@
     },
 
     {
+        "name": "ID.me",
+        "url": "https://account.id.me/signin/close",
+        "difficulty": "easy",
+        "domains": [
+            "id.me"
+        ]
+    },
+
+    {
         "name": "iFixit",
         "url": "https://forms.obsecom.eu/requests/654931-678694-057240-634891",
         "difficulty": "hard",
