@@ -5831,6 +5831,19 @@
     },
 
     {
+        "name": "Hark Audio",
+        "url": "https://harkaudio.com/support",
+        "difficulty": "hard",
+        "email": "hello@harkaudio.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete my Hark Audio account which is registered under this email address.",
+        "notes": "Email hello@harkaudio.com and ask to have your account deleted",
+        "domains": [
+            "harkaudio.com"
+        ]
+    },
+
+    {
         "name": "HBO Max",
         "url": "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/6555225c-a911-4af8-bdb5-20158994ece0",
         "difficulty": "hard",
