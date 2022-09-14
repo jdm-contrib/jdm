@@ -1933,7 +1933,7 @@
         "name": "Buildspace",
         "url": "https://buildspace.so",
         "difficulty": "hard",
-        "note": "Email support@buildspace.so requesting to delete your account.",
+        "notes": "Email support@buildspace.so requesting to delete your account.",
         "email": "support@buildspace.so",
         "email_subject": "Account Delection Request",
         "domains": [
