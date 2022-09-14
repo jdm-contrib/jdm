@@ -6424,17 +6424,6 @@
     },
 
     {
-        "name": "ipinfo.io",
-        "url": "https://ipinfo.io/privacy-policy",
-        "difficulty": "hard",
-        "notes": "Email support@ipinfo.io asking to delete your account.",
-        "email": "support@ipinfo.io",
-        "domains": [
-            "ipinfo.io"
-        ]
-    },
-    
-    {
         "name": "Instapaper",
         "url": "https://www.instapaper.com/user/delete",
         "difficulty": "easy",
@@ -6571,6 +6560,17 @@
         "notes": "Go to the deletion URL, 'login' > 'account settings' > 'delete account'.",
         "domains": [
             "ioi.dk"
+        ]
+    },
+
+    {
+        "name": "ipinfo.io",
+        "url": "https://ipinfo.io/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Email support@ipinfo.io asking to delete your account.",
+        "email": "support@ipinfo.io",
+        "domains": [
+            "ipinfo.io"
         ]
     },
 
