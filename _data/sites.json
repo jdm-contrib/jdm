@@ -13206,6 +13206,15 @@
     },
 
     {
+        "name": "Turing",
+        "url": "https://developers.turing.com/dashboard/account",
+        "difficulty": "easy",
+        "domains": [
+            "turing.com"
+        ]
+    },
+
+    {
         "name": "Turo",
         "url": "https://support.turo.com/hc/en-us/articles/203991030-How-to-close-your-account",
         "difficulty": "hard",
