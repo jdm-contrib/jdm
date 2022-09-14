@@ -6414,17 +6414,6 @@
     },
 
     {
-        "name": "ipinfo.io",
-        "url": "https://ipinfo.io/privacy-policy",
-        "difficulty": "hard",
-        "notes": "Email support@ipinfo.io asking to delete your account.",
-        "email": "support@ipinfo.io",
-        "domains": [
-            "ipinfo.io"
-        ]
-    },
-
-    {
         "meta": "popular",
         "name": "Instagram",
         "url": "https://instagram.com/accounts/remove/request/permanent/",
@@ -6434,6 +6423,17 @@
         ]
     },
 
+    {
+        "name": "ipinfo.io",
+        "url": "https://ipinfo.io/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Email support@ipinfo.io asking to delete your account.",
+        "email": "support@ipinfo.io",
+        "domains": [
+            "ipinfo.io"
+        ]
+    },
+    
     {
         "name": "Instapaper",
         "url": "https://www.instapaper.com/user/delete",
