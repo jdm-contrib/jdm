@@ -9391,6 +9391,17 @@
     },
 
     {
+        "name": "One Month",
+        "url": "https://www.iubenda.com/privacy-policy/735465",
+        "difficulty": "hard",
+        "email": "support@honeybadger.io",
+        "notes": "Email support@honeybadger.io asking to close your account.",
+        "domains": [
+            "onemonth.com"
+        ]
+    },
+
+    {
         "name": "OneCompiler",
         "url": "https://onecompiler.com/",
         "difficulty": "easy",
