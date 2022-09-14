@@ -3232,6 +3232,15 @@
     },
 
     {
+        "name": "Devpost",
+        "url": "https://devpost.com/settings/delete_account",
+        "difficulty": "easy",
+        "domains": [
+            "devpost.com"
+        ]
+    },
+
+    {
         "name": "DHL (Paket.de)",
         "url": "https://www.dhl.de/de/toolbar/footer/datenschutz.html",
         "difficulty": "hard",
