@@ -3494,6 +3494,16 @@
     },
 
     {
+        "name": "DocHub",
+        "url": "https://dochub.com/settings/account",
+        "notes": "Log in, under \"Account\" click \"Delete my Account\".",
+        "difficulty": "easy",
+        "domains": [
+            "dochub.com"
+        ]
+    },
+
+    {
         "name": "Docker",
         "url": "https://hub.docker.com/settings/deactivate",
         "notes": "Log in, under account settings find and use \"Deactivate Account\".",
