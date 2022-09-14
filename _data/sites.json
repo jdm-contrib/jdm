@@ -11862,6 +11862,15 @@
     },
 
     {
+        "name": "Sonix",
+        "url": "https://my.sonix.ai/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "sonix.ai"
+        ]
+    },
+
+    {
         "name": "Sonos",
         "url": "https://www.sonos.com/en-us/legal/privacy#legal-privacy-contact",
         "difficulty": "hard",
@@ -11869,15 +11878,6 @@
         "email": "privacy@sonos.com",
         "domains": [
             "sonos.com"
-        ]
-    },
-
-    {
-        "name": "Sonix",
-        "url": "https://my.sonix.ai/account/delete",
-        "difficulty": "easy",
-        "domains": [
-            "sonix.ai"
         ]
     },
 
