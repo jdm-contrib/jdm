@@ -9274,16 +9274,6 @@
     },
 
     {
-        "name": "OneCompiler",
-        "url": "https://onecompiler.com/",
-        "difficulty": "easy",
-        "notes": "Click your profile image in the top right corner of the page and open 'My account'. Select the 'Settings' tab, then click 'Account', and press the 'Delete My Account' button. Submit the code sent your email.",
-        "domains": [
-            "onecompiler.com"
-        ]
-    },
-
-    {
         "name": "One Month",
         "url": "https://www.iubenda.com/privacy-policy/735465",
         "difficulty": "hard",
@@ -9293,7 +9283,17 @@
             "onemonth.com"
         ]
     },
-    
+
+    {
+        "name": "OneCompiler",
+        "url": "https://onecompiler.com/",
+        "difficulty": "easy",
+        "notes": "Click your profile image in the top right corner of the page and open 'My account'. Select the 'Settings' tab, then click 'Account', and press the 'Delete My Account' button. Submit the code sent your email.",
+        "domains": [
+            "onecompiler.com"
+        ]
+    },
+
     {
         "name": "OneSky",
         "url": "https://support.oneskyapp.com/hc/en-us/articles/115005242827-How-to-Delete-your-OneSky-Account",
