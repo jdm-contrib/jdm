@@ -22,6 +22,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `difficulty_easy`: Word for "easy" difficulty
 - `difficulty_medium`: Word for "medium" difficulty
 - `difficulty_hard`: Word for "hard" difficulty
+- `difficulty_limited`: Word for "limited availability" difficulty
 - `difficulty_impossible`: Word for "impossible" difficulty
 - `search`: Placeholder text for the general search field
 - `sendmail`: Text for hyperlink that opens up the new mail to be composed
@@ -42,6 +43,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `guideeasy`: Short sentence explaining what "easy" means
 - `guidemedium`: Short sentence explaining what "medium" means
 - `guidehard`: Short sentence explaining what "hard" means
+- `guidelimited`: Short sentence explaining what "limited availability" means
 - `guideimpossible`: Short sentence explaining what "impossible" means
 - `extension`: Title for the section explaining about the chrome extensions
 - `extensionguide`: Sentence introducing the extension section
