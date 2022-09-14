@@ -9189,7 +9189,7 @@
         "name": "Nube",
         "url": "https://www.nube.com.br/politica-uso-privacidade",
         "difficulty": "impossible",
-        "notes": "According privacy policy, account cannot be deleted, only deactivated (and reactivated earlier).",
+        "notes": "According to the privacy policy, accounts cannot be deleted, only deactivated (and reactivated later).",
         "notes_pt_br": "De acordo com a política de privacidade, as contas não podem ser excluídas, apenas desativadas (e reativadas mais para frente).",
         "domains": [
             "nube.com.br"
