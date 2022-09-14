@@ -5285,6 +5285,16 @@
     },
 
     {
+        "name": "GitPod",
+        "url": "https://gitpod.io/account",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete account' near the bottom of the page.",
+        "domains": [
+            "gitpod.io"
+        ]
+    },
+
+    {
         "name": "Gizmodo",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
