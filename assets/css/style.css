@@ -338,7 +338,7 @@ main {
 .site-block.easy .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
 .site-block.medium .tooltip-toggle.contains-info:hover        { color: #E8C674; }
 .site-block.hard .tooltip-toggle.contains-info:hover          { color: #D04343; }
-.site-block.limited .tooltip-toggle.contains-info:hover { color: #B521CC; }
+.site-block.limited .tooltip-toggle.contains-info:hover       { color: #B521CC; }
 .site-block.impossible .tooltip-toggle.contains-info:hover    { color: #2B2B2B; }
 
 .hide-info {
