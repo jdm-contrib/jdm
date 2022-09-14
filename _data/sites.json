@@ -6598,6 +6598,17 @@
     },
 
     {
+        "name": "ipinfo.io",
+        "url": "https://ipinfo.io/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Email support@ipinfo.io asking to delete your account.",
+        "email": "support@ipinfo.io",
+        "domains": [
+            "ipinfo.io"
+        ]
+    },
+
+    {
         "name": "IRCCloud",
         "url": "https://www.irccloud.com/?/settings=account",
         "difficulty": "easy",
