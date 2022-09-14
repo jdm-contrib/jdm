@@ -5353,6 +5353,18 @@
     },
 
     {
+        "name": "Goggles4u",
+        "url": "https://www.goggles4u.co.uk/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Email steve@goggles4u.com and ask to have your account deleted.",
+        "email": "steve@goggles4u.com",
+        "domains": [
+            "goggles4u.com",
+            "goggles4u.co.uk"
+        ]
+    },
+
+    {
         "name": "Gogo",
         "url": "https://www.gogoair.com/dsar/",
         "difficulty": "hard",
