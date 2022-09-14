@@ -1930,6 +1930,18 @@
     },
 
     {
+        "name": "Buildspace",
+        "url": "https://buildspace.so",
+        "difficulty": "hard",
+        "notes": "Email support@buildspace.so requesting to delete your account.",
+        "email": "support@buildspace.so",
+        "email_subject": "Account Delection Request",
+        "domains": [
+            "buildspace.so"
+        ]
+    },
+
+    {
         "name": "Bukalapak",
         "url": "https://www.bukalapak.com",
         "difficulty": "medium",
