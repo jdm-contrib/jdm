@@ -10617,6 +10617,16 @@
     },
 
     {
+        "name": "Python Morsels",
+        "url": "https://www.pythonmorsels.com/delete-account/",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and enter your email and password",
+        "domains": [
+            "pythonmorsels.com"
+        ]
+    },
+
+    {
         "name": "Python Package Index (PyPI)",
         "url": "https://pypi.org/manage/account/",
         "difficulty": "easy",
