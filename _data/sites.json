@@ -879,6 +879,17 @@
     },
 
     {
+        "name": "Apoia.se",
+        "url": "https://suporte.apoia.se/hc/pt-br/articles/4408681019547-Como-encerrar-meu-cadastro-",
+        "difficulty": "hard",
+        "notes": "The exclusion will occur 7 (seven) days after filling the Google Docs form.",
+        "notes_pt_br": "A exclusão dar-se-á 7 (sete) após o preenchimento do formulário do Google Docs.",
+        "domains": [
+            "apoia.se"
+        ]
+    },
+
+    {
         "name": "Apple",
         "url": "https://support.apple.com/en-us/HT208504",
         "difficulty": "easy",
@@ -5720,6 +5731,17 @@
         "notes_tr": "Hesabınıza giriş yapın ve \"Hesap Silmeyi Talep Et\" tuşuna tıklayın ya da verilen bağlantıya girin, soruları cevapladıktan sonra \"Devam Et\" tuşuna tıklayın, şifrenizi yazıp \"Hesabı Sil\" tuşuna basarak onaylayın.",
         "domains": [
             "gtmetrix.com"
+        ]
+    },
+
+    {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2013/apr/04/guardian-managing-online-profiles",
+        "difficulty": "hard",
+        "notes": "You need to contact the user help team via e-mail to request account deletion.",
+        "email": "userhelp@guardian.co.uk",
+        "domains": [
+            "theguardian.com"
         ]
     },
 
@@ -13560,6 +13582,26 @@
         "email": "team@uncubed.com",
         "domains": [
             "uncubed.com"
+        ]
+    },
+
+    {
+        "name": "Uncyclopedia",
+        "url": "https://en.uncyclopedia.co/wiki/Uncyclopedia:Delete_my_account",
+        "difficulty": "impossible",
+        "notes": "Like Wikipedia, the account cannot be removed, but there are some suggestions, like stop contributing, user rename or ask a admin or bureuacreat for a content vanishing.",
+        "notes_pt_br": "Assim como na wikipédia, não é possível remover uma conta, mas há algumas sugestões, como para de contribuir, renomear a conta de usuário ou pedir a um administrador ou burocrata pelo direito ao esquecimento.",
+        "domains": [
+            "desciclopedia.ws",
+            "uncyclopedia.co",
+            "uncyclopedia.info",
+            "desencyclopedie.org",
+            "inciclopedia.org",
+            "absurdopedia.net",
+            "oncyclopedia.org",
+            "ansaikuropedia.org",
+            "nonsa.pl",
+            "nonciclopedia.org"
         ]
     },
 
