@@ -6907,7 +6907,7 @@
         "name": "Journal du geek",
         "url": "http://www.journaldugeek.com/editer-profil/",
         "difficulty": "easy",
-        "notes": "Log in. Go to your profil, scroll down and click 'Supprimer mon profil'",
+        "notes": "Log in. Go to your profile, scroll down and click 'Supprimer mon profil'",
         "notes_fr": "Loggez vous, cliquez sur 'Modifiez mon profil', descendez en bas et cliquez sur 'Supprimer mon profil'",
         "domains": [
             "journaldugeek.com"
