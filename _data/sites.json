@@ -5479,6 +5479,19 @@
     },
 
     {
+        "name": "Good Food",
+        "url": "https://www.makegoodfood.ca/en/faq#heading-13",
+        "url_fr": "https://www.makegoodfood.ca/fr/",
+        "url_en": "https://www.makegoodfood.ca/en/",
+        "difficulty": "impossible",
+        "notes": "It is impossible to close your account. You need to contact the customer service so they suspend your account (and payments).",
+        "notes_fr": "Il est impossible de fermer le compte. Vous devez contacter le support à la clientèle pour suspendre votre compte (et les paiements).",
+        "domains": [
+            "makegoodfood.ca"
+        ]
+    },
+
+    {
         "name": "Good Noows",
         "url": "https://goodnoows.com",
         "difficulty": "easy",
@@ -5491,19 +5504,6 @@
         "notes_es": "En la barra superior, haz clic en 'tu nombre', después haz clic en 'Delete Account', al final del cuadro de diálogo.",
         "domains": [
             "goodnoows.com"
-        ]
-    },
-    
-    {
-        "name": "Good Food",
-        "url": "https://www.makegoodfood.ca/en/faq#heading-13",
-        "url_fr": "https://www.makegoodfood.ca/fr/",
-        "url_en": "https://www.makegoodfood.ca/en/",
-        "difficulty": "impossible",
-        "notes": "It is impossible to close your account. You need to contact the customer service so they suspend your account (and payments).",
-        "notes_fr": "Il est impossible de fermer le compte. Vous devez contacter le support à la clientèle pour suspendre votre compte (et les paiements).",
-        "domains": [
-            "makegoodfood.ca"
         ]
     },
 
