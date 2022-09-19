@@ -63,6 +63,16 @@
     },
 
     {
+        "name": "1fichier",
+        "url": "https://1fichier.com/contact.html",
+        "difficulty": "hard",
+        "notes": "Contact support using the linked form or by email and request account deletion.",
+        "domains": [
+            "1fichier.com"
+        ]
+    },
+
+    {
         "name": "1Password",
         "url": "https://my.1password.com/profile",
         "difficulty": "easy",
@@ -6890,6 +6900,17 @@
         "notes_pl": "Zaloguj się, podaj swoje hasło i kliknij 'delete'.",
         "domains": [
             "jottacloud.com"
+        ]
+    },
+
+    {
+        "name": "Journal du geek",
+        "url": "http://www.journaldugeek.com/editer-profil/",
+        "difficulty": "easy",
+        "notes": "Log in. Go to your profile, scroll down and click 'Supprimer mon profil'",
+        "notes_fr": "Loggez vous, cliquez sur 'Modifiez mon profil', descendez en bas et cliquez sur 'Supprimer mon profil'",
+        "domains": [
+            "journaldugeek.com"
         ]
     },
 
@@ -13883,22 +13904,6 @@
         "difficulty": "easy",
         "domains": [
             "vimeo.com"
-        ]
-    },
-
-    {
-        "name": "Vine",
-        "url": "https://support.twitter.com/forms/vine",
-        "difficulty": "hard",
-        "notes": "The only way to delete your Vine account without deleting your Twitter account is to contact Twitter through their contact form.",
-        "notes_tr": "Twitter hesabınızı silmeden Vine hesabınızı silmenin tek yolu, iletişim formu aracılığıyla Twitter ile iletişim kurmaktır.",
-        "notes_fr": "La seule façon de supprimer votre compte Vine sans supprimer votre compte Twitter, est de contacter Twitter directement.",
-        "notes_it": "L'unico modo per eliminare il tuo account Vine senza eliminare il tuo account Twitter è contattare Twitter attraverso il loro form contatti.",
-        "notes_pt_br": "A única maneira de deletar sua conta Vine sem deletar sua conta no Twitter é contatar o Twitter por meio do formulário de contato.",
-        "notes_cat": "L'unica manera d'esborrar el seu compte de Vine sense esborrar el compte de Twitter es contactar amb Twitter via el seu formulari de contacte.",
-        "notes_es": "La única manera de borrar tu cuenta de Vine sin borrar la cuenta de Twitter es contactar con Twitter vía su formulario de contacto.",
-        "domains": [
-            "vine.co"
         ]
     },
 
