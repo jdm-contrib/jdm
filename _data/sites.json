@@ -7089,6 +7089,16 @@
     },
 
     {
+        "name": "Kistania",
+        "url": "https://www.kistania.com/pages/contact-us",
+        "difficulty": "impossible",
+        "notes": "Filling out the form requesting account deletion does not work.",
+        "domains": [
+            "kistania.com"
+        ]
+    },
+
+    {
         "name": "Kit.co",
         "url": "https://kit.co/terms#contact",
         "difficulty": "hard",
