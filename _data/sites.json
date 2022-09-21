@@ -6657,7 +6657,7 @@
         "name": "Kistania",
         "url": "https://www.kistania.com/pages/contact-us",
         "difficulty": "impossible",
-        "notes": "Tried to fill out thte form with the subject Please Delete Account and in the message Please delete my account and all associated data, but they never responded. Tried to log into the account and my information was still there.",
+        "notes": "Filling out the form requesting account deletion does not work.",
         "domains": [
             "kistania.com"
         ]
