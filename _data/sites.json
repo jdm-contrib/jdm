@@ -10072,6 +10072,17 @@
             "meethue.com",
             "account.meethue.com"
         ]
+    
+    },
+    
+        "name": "phplist",
+        "url": "https://www.phplist.com/privacy",
+        "difficulty": "hard",
+        "notes": "Write an email to the email address in the link, requesting all data to be deleted.",
+        "notes_it": "Scrivere un’email all’indirizzo email indicato nella pagina del link, chiedendo che tutti i dati siano eliminati.",
+        "domains": [
+            "phplist.com"
+        ]
     },
 
     {
