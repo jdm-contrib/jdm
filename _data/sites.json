@@ -10095,6 +10095,18 @@
     },
 
     {
+        "name": "phplist",
+        "url": "https://www.phplist.com/privacy",
+        "difficulty": "hard",
+        "notes": "Write an email requesting all data to be deleted.",
+        "notes_it": "Scrivere un’email chiedendo che tutti i dati siano eliminati.",
+        "email": "info@phplist.com",
+        "domains": [
+            "phplist.com"
+        ]
+    },
+
+    {
         "name": "PicPay",
         "url": "https://ajuda.picpay.com/mobile/como-desativar-minha-conta",
         "difficulty": "impossible",
