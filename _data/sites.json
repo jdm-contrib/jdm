@@ -10075,18 +10075,6 @@
     },
 
     {
-        "name": "phplist",
-        "url": "https://www.phplist.com/privacy",
-        "difficulty": "hard",
-        "notes": "Write an email requesting all data to be deleted.",
-        "notes_it": "Scrivere un’email chiedendo che tutti i dati siano eliminati.",
-        "email": "info@phplist.com",
-        "domains": [
-            "phplist.com"
-        ]
-    },
-
-    {
         "name": "PhishTank",
         "url": "https://privacyrequest.cisco.com",
         "difficulty": "hard",
@@ -10103,6 +10091,18 @@
         "notes": "To delete your account, you must <a href=\"https://support.photobucket.com/hc/en-us/requests/new\">open a support ticket</a> and provide your username, email address, full name, dob, the postal code and country from where you registered for verification. According to Photobucket, account deletion takes up to 30 days, and your old pictures cannot be recovered from deleted accounts as they will be completely erased from their servers.",
         "domains": [
             "photobucket.com"
+        ]
+    },
+
+    {
+        "name": "phplist",
+        "url": "https://www.phplist.com/privacy",
+        "difficulty": "hard",
+        "notes": "Write an email requesting all data to be deleted.",
+        "notes_it": "Scrivere un’email chiedendo che tutti i dati siano eliminati.",
+        "email": "info@phplist.com",
+        "domains": [
+            "phplist.com"
         ]
     },
 
