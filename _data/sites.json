@@ -5984,6 +5984,16 @@
     },
 
     {
+        "name": "HeadHunter",
+        "url": "https://hh.ru/account/delete_me",
+        "difficulty": "easy",
+        "domains": [
+            "hh.ru",
+            "headhunter.ru"
+        ]
+    },
+
+    {
         "name": "Headliner",
         "url": "https://learn.headliner.app/hc/en-us/articles/360003796513-How-do-I-delete-my-account-",
         "difficulty": "hard",
@@ -6108,6 +6118,17 @@
     },
 
     {
+        "name": "hide.me",
+        "url": "https://member.hide.me/en/settings/delete-account/form",
+        "difficulty": "easy",
+        "notes": "Click \"Account settings\" and then the red button \"Delete my account\" at the bottom of the page.",
+        "notes_pt_br": "Clique em \"Configurações da conta\" e no botão vermelho \"Remover minha conta\" que está no fim da página.",
+        "domains": [
+            "hide.me"
+        ]
+    },
+
+    {
         "name": "HitBTC",
         "url": "https://support.hitbtc.com/en/support/tickets/new",
         "difficulty": "hard",
@@ -6144,6 +6165,26 @@
         "notes_de": "Sie können Ihre daten manuell löschen und HOL schließen, aber Ihre Daten bleiben gespeichert",
         "domains": [
             "hol.org.uk"
+        ]
+    },
+
+    {
+        "name": "Holiday Pirates",
+        "url": "http://www.holidaypirates.com/user/profile/edit",
+        "difficulty": "easy",
+        "notes": "\"Delete\" button at the bottom of the page.",
+        "domains": [
+            "holidaypirates.com",
+            "urlaubspiraten.de",
+            "urlaubspiraten.at",
+            "piratinviaggio.it",
+            "vakantiepiraten.nl",
+            "wakacyjnipiraci.pl",
+            "voyagespirates.fr",
+            "viajerospiratas.es",
+            "ferienpiraten.ch",
+            "semesterpiraterna.se",
+            "travelpirates.com"
         ]
     },
 
@@ -6303,6 +6344,15 @@
         "notes": "The easiest method is to submit a Data Subject Access Request at their <a href=\"https://dsar.humblebundle.com/\">DSAR Privacy Portal</a> to request account deletion. Alternatively, you can also <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\">submit a support request</a> for account deletion. In the linked page under \"What can we help you with?\" select \"Humble Bundle Account\" > \"Delete Account\", fill in your email, enter \"Account deletion\" as subject, add your honest reason for account deletion in the message, and submit. Someone from support should contact you and guide you further.",
         "domains": [
             "humblebundle.com"
+        ]
+    },
+
+    {
+        "name": "Hype Machine",
+        "url": "http://hypem.com/remove_account",
+        "difficulty": "easy",
+        "domains": [
+            "hypem.com"
         ]
     },
 
