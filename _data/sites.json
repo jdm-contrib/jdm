@@ -13616,7 +13616,7 @@
         "name": "Uber",
         "url": "https://myprivacy.uber.com/privacy/deleteyouraccount",
         "notes": "Select a reason, and wait 30 days for account to be deleted.",
-        "notes": "Selecciona una razon y espera 30 dias para que la cuenta sea eliminada",
+        "notes_es": "Selecciona una razon y espera 30 dias para que la cuenta sea eliminada",
         "difficulty": "medium",
         "domains": [
             "uber.com",
