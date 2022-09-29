@@ -6121,7 +6121,7 @@
         "name": "hide.me",
         "url": "https://member.hide.me/en/settings/delete-account/form",
         "difficulty": "easy",
-        "notes": "Click in \"Account settings\" and in red button \"Delete my account\" at the bottom of the page.",
+        "notes": "Click \"Account settings\" and then the red button \"Delete my account\" at the bottom of the page.",
         "notes_pt_br": "Clique em \"Configurações da conta\" e no botão vermelho \"Remover minha conta\" que está no fim da página.",
         "domains": [
             "hide.me"
