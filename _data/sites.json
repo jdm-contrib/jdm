@@ -6551,6 +6551,16 @@
     },
 
     {
+        "name": "Infinity Free",
+        "url": "https://app.infinityfree.net/accounts/",
+        "difficulty": "easy",
+        "notes": "Visit the URL. Click on your account name. Click on Account Settings. Scroll down to Deactivate Account. Note: It takes 20-60 days for complete account deletion.",
+        "domains": [
+            "infinityfree.net"
+        ]
+    },
+
+    {
         "name": "InfoCasas",
         "url": "https://www.infocasas.com.uy/dashboard",
         "difficulty": "hard",
