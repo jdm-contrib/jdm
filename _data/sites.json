@@ -7448,6 +7448,15 @@
     },
 
     {
+        "name": "LetyShops",
+        "url": "https://letyshops.com/user/delete",
+        "difficulty": "easy",
+        "domains": [
+            "letyshops.com"
+        ]
+    },
+
+    {
         "name": "Létudiant",
         "url": "https://my.letudiant.fr/tableau-de-bord/parametres/",
         "difficulty": "easy",
@@ -7455,15 +7464,6 @@
         "notes_fr": "Cliquez sur votre avatar, puis 'paramètres du comptes', allez tout en bas et cliquez sur le petit lien en noir 'Supprimer définitivement mon compte', confirmez puis cliquez sur le lien reçu par mail.",
         "domains": [
             "letudiant.fr"
-        ]
-    },
-
-    {
-        "name": "LetyShops",
-        "url": "https://letyshops.com/user/delete",
-        "difficulty": "easy",
-        "domains": [
-            "letyshops.com"
         ]
     },
 
