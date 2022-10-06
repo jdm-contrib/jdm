@@ -12386,6 +12386,31 @@
     },
 
     {
+        "name": "Stardock",
+        "url": "https://www.stardock.com/policies/privacy",
+        "difficulty": "limited",
+        "notes": "European residents can exercise their right to erasure.",
+        "email": "support@stardock.com",
+        "email_body": "I wish to exercise my right to erasure under data protection law.\n\n[Give details of what personal data you want erased/deleted.]",
+        "email_subject": "Right to Erasure Request",
+        "domains": [
+            "stardock.com",
+            "ashesofthesingularity.com",
+            "elementalgame.com",
+            "galciv.com",
+            "galciv1.com",
+            "galciv2.com",
+            "galciv3.com",
+            "joeuser.com",
+            "offworldgame.com",
+            "politicalmachine.com",
+            "sinsofasolarempire.com",
+            "sorcererking.com",
+            "wincustomize.com"
+        ]
+    },
+
+    {
         "name": "Startnext",
         "url": "https://www.startnext.com/help/FAQ.html#q74",
         "difficulty": "easy",
