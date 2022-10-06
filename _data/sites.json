@@ -10054,6 +10054,16 @@
     },
 
     {
+        "name": "Penpot",
+        "url": "https://design.penpot.app/#/settings/profile",
+        "difficulty": "easy",
+        "notes": "Go to your profile settings and click on \"Want to remove your account?\" ",
+        "domains": [
+            "penpot.app"
+        ]
+    },
+
+    {
         "name": "Penzu",
         "url": "https://penzu.com/app/account/delete",
         "difficulty": "easy",
