@@ -1002,6 +1002,17 @@
     },
 
     {
+        "name": "Ashampoo",
+        "url": "https://www.ashampoo.com/en/usd/ppy",
+        "difficulty": "hard",
+        "notes": "Request deletion by emailing privacy team. Ask them to close your account and send them your name and email address. You’ll receive a mail back from them with a personal removal link in it",
+        "email": "privacy@ashampoo.com",
+        "domains": [
+            "ashampoo.com"
+        ]
+    },
+
+    {
         "name": "Ask.fm",
         "url": "https://ask.fm/account/settings/optout",
         "difficulty": "easy",
@@ -4256,6 +4267,15 @@
     },
 
     {
+        "name": "Everhelper",
+        "url": "https://www.everhelper.me/remove-account/",
+        "difficulty": "easy",
+        "domains": [
+            "everhelper.me"
+        ]
+    },
+
+    {
         "name": "Evernote",
         "url": "https://help.evernote.com/hc/en-us/articles/360056549574-Permanently-close-your-Evernote-account",
         "difficulty": "easy",
@@ -7428,6 +7448,17 @@
     },
 
     {
+        "name": "Letudiant",
+        "url": "https://my.letudiant.fr/tableau-de-bord/parametres/supprimer-mon-compte",
+        "difficulty": "easy",
+        "notes": "Click 'Paramètres du compte', scroll drown and click the little link in black 'Supprimer définitivement mon compt' then validate and confirm the link sent to you by mail",
+        "notes_fr": "Cliquez sur votre avatar, puis 'paramètres du comptes', allez tout en bas et cliquez sur le petit lien en noir 'Supprimer définitivement mon compte', confirmez puis cliquez sur le lien reçu par mail.",
+        "domains": [
+            "letudiant.fr"
+        ]
+    },
+
+    {
         "name": "LetyShops",
         "url": "https://letyshops.com/user/delete",
         "difficulty": "easy",
@@ -10562,6 +10593,16 @@
         "difficulty": "impossible",
         "domains": [
             "powdertoy.co.uk"
+        ]
+    },
+
+    {
+        "name": "PowToon",
+        "url": "https://support.powtoon.com/en/article/deleting-your-powtoon-account",
+        "difficulty": "hard",
+        "notes": "Click on the contact link of the linked page and fill out the form.",
+        "domains": [
+            "powtoon.com"
         ]
     },
 
