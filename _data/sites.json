@@ -7082,6 +7082,16 @@
     },
 
     {
+        "name": "Kattis",
+        "url": "https://support.kattis.com/support/solutions/articles/79000109991-how-do-i-delete-my-kattis-account-",
+        "difficulty": "hard",
+        "notes": "You need to contact the support to delete your account. Make sure to include your username and email in the support ticket.",
+        "domains": [
+            "kattis.com"
+        ]
+    },
+
+    {
         "name": "Keepa",
         "url": "https://keepa.com",
         "difficulty": "easy",
