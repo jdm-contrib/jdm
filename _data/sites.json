@@ -13061,6 +13061,17 @@
     },
 
     {
+        "name": "Termius",
+        "url": "https://account.termius.com/",
+        "difficulty": "easy",
+        "notes": "Go to account settings, click 'Delete Account', enter your password, then verify your email address.",
+        "domains": [
+            "termius.com",
+            "account.termius.com"
+        ]
+    },
+
+    {
         "name": "Terms of Service; Didn't Read",
         "url": "https://edit.tosdr.org/users/edit",
         "difficulty": "easy",
