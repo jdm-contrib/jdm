@@ -1077,13 +1077,14 @@
     },
 
     {
-        "name": "Atlassian",
+        "name": "Atlassian / Bitbucket",
         "url": "https://id.atlassian.com/manage/close-account",
         "difficulty": "medium",
         "notes": "You need to visit my.atlassian.com and designate a different user as a billing and technical contact if your account is the primary billing contact for one or more products",
         "domains": [
             "atlassian.com",
-            "my.atlassian.com"
+            "my.atlassian.com",
+            "bitbucket.org"
         ]
     },
 
@@ -1511,23 +1512,6 @@
         "notes": "First you have to empty your account from all cryptocurrencies, then click the link and enter your email.",
         "domains": [
             "binance.com"
-        ]
-    },
-
-    {
-        "name": "Bitbucket",
-        "url": "https://bitbucket.org/account/",
-        "difficulty": "easy",
-        "notes": "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped.",
-        "notes_tr": "Kenar menüsünde, \"Hesabı Sil\" seçeneğine tıklayın ve onaylama sayfasında \"Hesabı Sil\" tuşuna tıklayın, hesabın kendisi ve tüm depolar anında silinecektir.",
-        "notes_fr": "Dans les parametres du compte cliquez sur supprimer le compte puis sur supprimer le compte. Tous les dépot ainsi que le compte seront immediatement supprimés.",
-        "notes_it": "Nel menu al lato, clicca su 'Delete Account' e fai lo stesso sulla pagina di conferma, l'account e i repositories saranno cancellati",
-        "notes_pt_br": "No menu lateral, clique em 'Delete Account' e na página de confirmação clique em 'Delete Account', todos os repositórios e contas serão imediatamente excluídos.",
-        "notes_cat": "Al menú lateral, cliqui a 'Delete Account', a la pagina de confirmació cliqui 'Delete Account', tots els comptes i repositoris serán cancel·lats",
-        "notes_es": "En el menú lateral, haz clic en 'Delete Account', y en la página de confirmación pulsa 'Delete Account', todas tus cuentas y repositorios serán cancelados.",
-        "notes_pl": "W menu bocznym kliknij 'Delete Account' i potwierdź klikając przycisk 'Delete Account', wszystkie repozytoria i konto zostaną natychmiast usunięte.",
-        "domains": [
-            "bitbucket.org"
         ]
     },
 
