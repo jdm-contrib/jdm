@@ -10648,6 +10648,16 @@
     },
 
     {
+        "name": "Privacy",
+        "url": "https://support.privacy.com/hc/en-us",
+        "difficulty": "hard",
+        "notes": "Click on the submit request button and click the request type to Close Account and fill out the form.",
+        "domains": [
+            "privacy.com"
+        ]
+    },
+
+    {
         "name": "ProductHunt",
         "url": "https://www.producthunt.com/my/settings/edit",
         "difficulty": "easy",
