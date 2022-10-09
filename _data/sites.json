@@ -4633,6 +4633,24 @@
     },
 
     {
+        "name": "Firefox",
+        "url": "https://accounts.firefox.com/settings/delete_account",
+        "difficulty": "easy",
+        "notes": "“Cancel your account” link at the bottom of the page.",
+        "notes_tr": "Sayfanın altındaki \"Hesabınızı İptal Edin\" tuşuna tıklayın.",
+        "notes_fr": "Cliquez le lien « Cancel your account » au bas de la page.",
+        "notes_it": "“Cancel your account” in fondo alla pagina.",
+        "notes_pt_br": "Link “Cancel your account” no final da página.",
+        "notes_cat": "“Cancel your account” al final de la pàgina.",
+        "notes_es": "“Cancel your account” al final de la página.",
+        "notes_pl": "Kliknij “Cancel your account” na dole strony.",
+        "domains": [
+            "addons.mozilla.org",
+            "accounts.firefox.com"
+        ]
+    },
+
+    {
         "name": "Fitbit",
         "url": "https://www.fitbit.com/settings/profile",
         "difficulty": "medium",
@@ -9138,24 +9156,6 @@
         "notes_pt_br": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> e <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345\">#1353345</a>)</br></br>Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
         "domains": [
             "developer.mozilla.org"
-        ]
-    },
-
-    {
-        "name": "Firefox",
-        "url": "https://accounts.firefox.com/settings/delete_account",
-        "difficulty": "easy",
-        "notes": "“Cancel your account” link at the bottom of the page.",
-        "notes_tr": "Sayfanın altındaki \"Hesabınızı İptal Edin\" tuşuna tıklayın.",
-        "notes_fr": "Cliquez le lien « Cancel your account » au bas de la page.",
-        "notes_it": "“Cancel your account” in fondo alla pagina.",
-        "notes_pt_br": "Link “Cancel your account” no final da página.",
-        "notes_cat": "“Cancel your account” al final de la pàgina.",
-        "notes_es": "“Cancel your account” al final de la página.",
-        "notes_pl": "Kliknij “Cancel your account” na dole strony.",
-        "domains": [
-            "addons.mozilla.org",
-            "accounts.firefox.com"
         ]
     },
 
