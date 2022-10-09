@@ -6638,6 +6638,17 @@
     },
 
     {
+        "name": "insights",
+        "url": "https://insights.gg/dashboard/settings/profile",
+        "difficulty": "easy",
+        "notes": "Delete all of your teams, click on Delete Account and type 'DELETE'",
+        "notes_it": "Elimina tutti i tuoi team, clicca su Delete Account e scrivi 'DELETE'",
+        "domains":[
+            "insights.gg"
+        ]
+    },
+
+    {
         "name": "Instapaper",
         "url": "https://www.instapaper.com/user/delete",
         "difficulty": "easy",
