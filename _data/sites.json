@@ -6617,6 +6617,17 @@
     },
 
     {
+        "name": "insights",
+        "url": "https://insights.gg/dashboard/settings/profile",
+        "difficulty": "easy",
+        "notes": "Delete all of your teams, click on Delete Account and type 'DELETE'",
+        "notes_it": "Elimina tutti i tuoi team, clicca su Delete Account e scrivi 'DELETE'",
+        "domains":[
+            "insights.gg"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Instagram",
         "url": "https://instagram.com/accounts/remove/request/permanent/",
