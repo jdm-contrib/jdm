@@ -3407,17 +3407,6 @@
     },
 
     {
-        "name": "discordlist.space",
-        "url": "https://discord.gg/GjEWBQE",
-        "difficulty": "hard",
-        "notes": "You need to request deletion of your account data by contacting a 'Website Staff' via their Discord server.",
-        "notes_tr": "Discord sunucusu aracılığıyla bir 'Web Sitesi Personeli' ile iletişime geçerek hesap verilerinizin silinmesini talep etmeniz gerekir.",
-        "domains": [
-            "discordlist.space"
-        ]
-    },
-
-    {
         "name": "Discourse",
         "url": "https://www.discourse.org/",
         "difficulty": "impossible",
