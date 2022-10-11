@@ -80,7 +80,14 @@
         "notes_ru": "Войдите в свою учетную запись, перейдите в профиль, нажмите «Удалить учетную запись навсегда». Подтвердите, введя «Я уверен» и нажав «Удалить учетную запись».",
         "notes_tr": "Hesabınıza giriş yapın, profile girin, \"Kalıcı Olarak Hesabımı Sil\" seçeneğine tıklayın. \"Eminim\" yazarak onaylayın ve \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
-            "1password.com"
+            "1password.com",
+            "blog.1password.com",
+            "my.1password.ca",
+            "my.1password.com",
+            "my.ent.1password.com",
+            "my.1password.eu",
+            "support.1password.com",
+            "start.1password.com"
         ]
     },
 
@@ -386,7 +393,8 @@
         "difficulty": "easy",
         "notes": "Press the button to delete your account, make sure you're logged in.",
         "domains": [
-            "adf.ly"
+            "adf.ly",
+            "login.adf.ly"
         ]
     },
 
@@ -408,7 +416,10 @@
         "url": "https://my.adguard.com/en/settings.html#delete",
         "difficulty": "easy",
         "domains": [
-            "adguard.com"
+            "adguard.com",
+            "auth.adguard.com",
+            "my.adguard.com",
+            "adguard-vpn.com"
         ]
     },
 
@@ -417,7 +428,12 @@
         "url": "https://account.adobe.com/privacy/delete-account",
         "difficulty": "easy",
         "domains": [
-            "adobe.com"
+            "adobe.com",
+            "account.adobe.com",
+            "auth.services.adobe.com",
+            "community.adobe.com",
+            "experienceleague.adobe.com",
+            "helpx.adobe.com"
         ]
     },
 
@@ -663,7 +679,7 @@
     },
 
     {
-        "name": "Amazon",
+        "name": "Amazon / Audible",
         "meta": "popular",
         "url": "https://www.amazon.com/privacy/data-deletion",
         "difficulty": "easy",
@@ -671,6 +687,16 @@
         "notes_ru": "Прокрутите вниз, выберите причину, отметьте флажок «Закрыть мою учетную запись» и следуйте ссылке в электронной почте подтверждения.",
         "notes_tr": "Aşağı kaydırın, bir sebep seçin ve onay kutusunu işaretleyip \"Hesabı Kapat\" tuşuna tıklayın ve ardından onaylama e-postasına tıklayın.",
         "domains": [
+            "audible.ca",
+            "audible.co.jp",
+            "audible.co.uk",
+            "audible.com",
+            "audible.com.au",
+            "audible.de",
+            "audible.es",
+            "audible.fr",
+            "audible.in",
+            "audible.it",
             "amazon.ae",
             "amazon.ca",
             "amazon.cn",
@@ -687,7 +713,8 @@
             "amazon.fr",
             "amazon.in",
             "amazon.it",
-            "amazon.nl"
+            "amazon.nl",
+            "music.amazon.com"
         ]
     },
 
@@ -853,7 +880,8 @@
         "notes_ru": "Вы можете удалить свою учетную запись только через мобильное приложение: установите приложение, войдите в систему, нажмите «Профиль», затем «Удалить учетную запись».",
         "notes_tr": "Hesabınızı yalnızca mobil uygulamadan silebilirsiniz: Uygulamayı indirin, giriş yapın, \"Profil\" yerine girin ve \"Hesabı Sil\" tuşuna basın.",
         "domains": [
-            "any.do"
+            "any.do",
+            "support.any.do"
         ]
     },
 
@@ -1072,6 +1100,7 @@
         "url": "https://aternos.org/close/",
         "difficulty": "easy",
         "domains": [
+            "aternos.gmbh",
             "aternos.org"
         ]
     },
@@ -1083,7 +1112,12 @@
         "notes": "You need to visit my.atlassian.com and designate a different user as a billing and technical contact if your account is the primary billing contact for one or more products",
         "domains": [
             "atlassian.com",
+            "community.atlassian.com",
+            "confluence.atlassian.com",
+            "id.atlassian.com",
             "my.atlassian.com",
+            "start.atlassian.com",
+            "support.atlassian.com",
             "bitbucket.org"
         ]
     },
@@ -1179,7 +1213,10 @@
         "notes_ru": "Войдите в систему, перейдите на вкладку «Детали профиля» и нажмите кнопку «Удалить учетную запись».",
         "notes_tr": "Giriş yapın, \"Profil Detayları\" sekmesine gidin ve kolayca \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
-            "avast.com"
+            "avast.com",
+            "id.avast.com",
+            "profile.avast.com",
+            "support.avast.com"
         ]
     },
 
@@ -1193,7 +1230,8 @@
         "notes_pt_br": "Siga as instruções fornecidas no artigo. Caso prefira, também poderá solicitar a exclusão da sua conta via e-mail.",
         "email": "support@avira.com",
         "domains": [
-            "avira.com"
+            "avira.com",
+            "support.avira.com"
         ]
     },
 
@@ -1522,6 +1560,8 @@
         "notes": "To delete your account, login, go to the 'My Account' page, click the 'Delete Account' link, click the 'Delete Account' button, and click the 'Send Email' button. A confirmation email will be sent to the account email. Click the 'Delete Account' link in the email sent to you, log into your account, and click the 'Delete Account' button.",
         "notes_tr": "Hesabınızı silmek için, giriş yapın, \"Hesabım\" sayfasından, \"Hesabı Sil\" bağlantısına tıklayın, \"Hesabı Sil\" tuşuna tıklayın ve \"E-posta Gönder\" tuşuna tıklayın. Hesap e-posta adresine bir onaylama e-postası gönderilecek. Size gönderilen e-postada \"Hesabı Sil\" bağlantısını tıklayın, hesabınıza giriş yapın ve \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
+            "account.bitdefender.com",
+            "businessinsights.bitdefender.com",
             "central.bitdefender.com"
         ]
     },
@@ -1546,8 +1586,10 @@
         "notes_pl": "Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.",
         "notes_pt_br": "Vá para \" Profile > Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
         "domains": [
+            "bit.ly",
             "bitly.com",
-            "bit.ly"
+            "dev.bitly.com",
+            "support.bitly.com"
         ]
     },
 
@@ -2325,7 +2367,9 @@
         "notes": "Log in and go to your account. Scroll to 'Close your account' and click on 'Close Account'. Confirm by clicking on 'Yes' in the pop-up window. The account will be deleted immediately.",
         "notes_tr": "Giriş yapın ve hesabınıza gidin. \"Hesabını Kapat\" kısmına doğru aşağı kaydırın ve \"Hesabı Kapat\" tuşuna tıklayın. Ekrana gelen pencerede \"Evet\" tuşuna basarak onaylayın. Hesabınız anında silinecektir.",
         "domains": [
-            "checklist.com"
+            "checklist.com",
+            "api.checklist.com",
+            "app2.checklist.com"
         ]
     },
 
@@ -2424,7 +2468,8 @@
         "url": "https://clockify.me/user/settings/delete",
         "difficulty": "easy",
         "domains": [
-            "clockify.me"
+            "clockify.me",
+            "app.clockify.me"
         ]
     },
 
@@ -2457,7 +2502,8 @@
         "difficulty": "medium",
         "notes": "You must have no domains, add-ons, payment methods or ongoing investigations attached to your account prior to account deletion.",
         "domains": [
-            "cloudflare.com"
+            "cloudflare.com",
+            "dash.cloudflare.com"
         ]
     },
 
@@ -2558,7 +2604,8 @@
         "url": "https://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
         "difficulty": "easy",
         "domains": [
-            "codepen.io"
+            "codepen.io",
+            "blog.codepen.io"
         ]
     },
 
@@ -3181,7 +3228,12 @@
         "notes_tr": "Eeğer Google/Facebook hesabı ile kayıt olduysanız, şifre oluştur bağlantısından Deezer şifresi oluşturun ve e-postanıza gelecek olan onay bağlantısına tıklayın. Eğer Deezer şifreniz varsa, \"Hesap Ayarları\" kısmına girin. Sayfanın altındaki \"Hesabımı Sil\" tuşuna tıklayın. Deezer şifrenizi girin ve e-postanıza gelecek olan onaylama bağlantısı ile onaylayın.",
         "notes_de": "Wenn du dich mit Google/Facebook registriert hast, fordere unter <a href=\"https://www.deezer.com/password/reset\">https://www.deezer.com/password/reset</a> ein Deezer-Passwort an und bestätige einen Link, den du per Mail erhältst. Wenn du ein Deezer-Passwort hast, öffne deine Konto-Einstellungen und klicke unten auf 'Mein Konto löschen'. Gib dort dein Deezer-Passwort ein und bestätige das Löschen in der Bestätigungsmail.",
         "domains": [
-            "deezer.com"
+            "deezer.com",
+            "developers.deezer.com",
+            "features.deezer.com",
+            "support.deezer.com",
+            "deezer-blog.com",
+            "en.deezercommunity.com"
         ]
     },
 
@@ -3334,7 +3386,8 @@
         "notes": "Account data will be deleted; the user name will be blocked to prevent reuse.",
         "notes_tr": "Hesap verileri silinecek; kullanıcı adı ise yeniden kullanımı önlemek için engellenecektir.",
         "domains": [
-            "dict.cc"
+            "dict.cc",
+            "users.dict.cc"
         ]
     },
 
@@ -3401,8 +3454,10 @@
         "difficulty": "medium",
         "notes": "Account deletion will not delete your messages, which you must do manually (Automating this process is possible using projects such as Undiscord). If you're a server owner, you'll need to either <a href=\"https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-\">delete the server</a>, or <a href=\"https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-\">transfer ownership</a> for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
         "domains": [
-            "discordapp.com",
-            "discord.com"
+            "discord.com",
+            "support.discord.com",
+            "support-dev.discord.com",
+            "discordstatus.com"
         ]
     },
 
@@ -3494,8 +3549,21 @@
         "notes": "Go to the home page, click the user icon then press 'Delete my Account', nobody will be able to use the same username after deletion.",
         "domains": [
             "disroot.org",
+            "bin.disroot.org",
+            "board.disroot.org",
+            "calls.disroot.org",
+            "cloud.disroot.org",
+            "cryptpad.disroot.org",
+            "forum.disroot.org",
+            "git.disroot.org",
+            "howto.disroot.org",
+            "mumble.disroot.org",
+            "pad.disroot.org",
+            "search.disroot.org",
+            "upload.disroot.org",
             "user.disroot.org",
-            "mail.disroot.org"
+            "webchat.disroot.org",
+            "webmail.disroot.org"
         ]
     },
 
@@ -3827,7 +3895,8 @@
         "difficulty": "medium",
         "notes": "Scroll down and click \"ERASE PERSONAL DATA\". You will receive an e-mail in which you have to click the link after \"Delete my data link:\". This confirms the erasure of your personal data and account.",
         "domains": [
-            "duolingo.com"
+            "duolingo.com",
+            "drive-thru.duolingo.com"
         ]
     },
 
@@ -4255,7 +4324,9 @@
         "notes": "Sign in to account settings, click 'Account Status', click 'Close your Evernote Account', read carefully and accept.",
         "notes_tr": "Hesap ayarlarınıza girin, \"Hesap Durumu\" tuşuna ve ardından \"Evernote Hesabınızı Kapatın\" tuşuna tıklayın, dikkatli okuyun ve kabul edin.",
         "domains": [
-            "evernote.com"
+            "evernote.com",
+            "dev.evernote.com",
+            "help.evernote.com"
         ]
     },
 
@@ -4551,6 +4622,24 @@
     },
 
     {
+        "name": "Firefox",
+        "url": "https://accounts.firefox.com/settings/delete_account",
+        "difficulty": "easy",
+        "notes": "“Cancel your account” link at the bottom of the page.",
+        "notes_tr": "Sayfanın altındaki \"Hesabınızı İptal Edin\" tuşuna tıklayın.",
+        "notes_fr": "Cliquez le lien « Cancel your account » au bas de la page.",
+        "notes_it": "“Cancel your account” in fondo alla pagina.",
+        "notes_pt_br": "Link “Cancel your account” no final da página.",
+        "notes_cat": "“Cancel your account” al final de la pàgina.",
+        "notes_es": "“Cancel your account” al final de la página.",
+        "notes_pl": "Kliknij “Cancel your account” na dole strony.",
+        "domains": [
+            "addons.mozilla.org",
+            "accounts.firefox.com"
+        ]
+    },
+
+    {
         "name": "Fitbit",
         "url": "https://www.fitbit.com/settings/profile",
         "difficulty": "medium",
@@ -4606,7 +4695,9 @@
         "url": "https://accounts.flipboard.com/accounts/remove",
         "difficulty": "easy",
         "domains": [
-            "flipboard.com"
+            "flipboard.com",
+            "about.flipboard.com",
+            "accounts.flipboard.com"
         ]
     },
 
@@ -4998,6 +5089,9 @@
         "email": "support@gameforge.com",
         "domains": [
             "gameforge.com",
+            "agbserver.gameforge.com",
+            "corporate.gameforge.com",
+            "security.gameforge.com",
             "support.gameforge.com"
         ]
     },
@@ -5282,7 +5376,10 @@
         "notes": "Click on 'Delete account' near the bottom of the page and follow the instructions. Some user content will continue to exist anonymously on the website.",
         "notes_tr": "Sayfanın altındaki \"Hesabı Sil\" tuşuna tıklayın ve yönergeleri takip edin. Bazı kullanıcı içerikleri web sitesinde anonim olarak bulunmaya devam edecek.",
         "domains": [
-            "github.com"
+            "github.blog",
+            "github.com",
+            "docs.github.com",
+            "support.github.com"
         ]
     },
 
@@ -5304,7 +5401,13 @@
         "notes": "Click on 'Delete account' near the bottom of the page. Some user content will continue to exist anonymously on the website.",
         "notes_tr": "Sayfanın altındaki \"Hesabı Sil\" tuşuna tıklayın. Bazı kullanıcı içerikleri web sitesinde anonim olarak bulunmaya devam edecek.",
         "domains": [
-            "gitlab.com"
+            "gitlab.com",
+            "about.gitlab.com",
+            "developer.gitlab.com",
+            "docs.gitlab.com",
+            "forum.gitlab.com",
+            "ir.gitlab.com",
+            "status.gitlab.com"
         ]
     },
 
@@ -5397,7 +5500,14 @@
         "notes": "You can delete your account, by following the steps provided here: 'https://hilfe.gmx.net/account/verwalten/loeschen.html'",
         "notes_tr": "Verilen bağlantıdaki adımları uygulayarak hesabınızı silebilirsiniz.",
         "domains": [
-            "gmx.net"
+            "gmx.net",
+            "agb-server.gmx.net",
+            "gewinnspiel.gmx.net",
+            "hilfe.gmx.net",
+            "newsroom.gmx.net",
+            "shopping.gmx.net",
+            "suche.gmx.net",
+            "vorteile.gmx.net"
         ]
     },
 
@@ -5537,8 +5647,233 @@
         "url": "https://security.google.com/settings/security/deleteaccount",
         "difficulty": "easy",
         "domains": [
+            "blogger.com",
+            "domains.google",
+            "google.ac",
+            "google.ad",
+            "google.ae",
+            "google.al",
+            "google.am",
+            "google.as",
+            "google.at",
+            "google.az",
+            "google.ba",
+            "google.be",
+            "google.bf",
+            "google.bg",
+            "google.bi",
+            "google.bj",
+            "google.bs",
+            "google.bt",
+            "google.by",
+            "google.ca",
+            "google.cat",
+            "google.cc",
+            "google.cd",
+            "google.cf",
+            "google.cg",
+            "google.ch",
+            "google.ci",
+            "google.cl",
+            "google.cm",
+            "google.cn",
+            "google.co.ao",
+            "google.co.bw",
+            "google.co.ck",
+            "google.co.cr",
+            "google.co.id",
+            "google.co.il",
+            "google.co.in",
+            "google.co.jp",
+            "google.co.ke",
+            "google.co.kr",
+            "google.co.ls",
+            "google.co.ma",
+            "google.co.mz",
+            "google.co.nz",
+            "google.co.th",
+            "google.co.tz",
+            "google.co.ug",
+            "google.co.uz",
+            "google.co.ve",
+            "google.co.vi",
+            "google.co.za",
+            "google.co.zm",
+            "google.co.zw",
             "google.com",
-            "google.co.uk"
+            "google.com.af",
+            "google.com.ag",
+            "google.com.ai",
+            "google.com.ar",
+            "google.com.au",
+            "google.com.bd",
+            "google.com.bh",
+            "google.com.bn",
+            "google.com.bo",
+            "google.com.br",
+            "google.com.bz",
+            "google.com.co",
+            "google.com.cu",
+            "google.com.cy",
+            "google.com.do",
+            "google.com.ec",
+            "google.com.eg",
+            "google.com.et",
+            "google.com.fj",
+            "google.com.gh",
+            "google.com.gi",
+            "google.com.gt",
+            "google.com.hk",
+            "google.com.jm",
+            "google.com.kh",
+            "google.com.kw",
+            "google.com.lb",
+            "google.com.lc",
+            "google.com.ly",
+            "google.com.mm",
+            "google.com.mt",
+            "google.com.mx",
+            "google.com.my",
+            "google.com.na",
+            "google.com.nf",
+            "google.com.ng",
+            "google.com.ni",
+            "google.com.np",
+            "google.com.om",
+            "google.com.pa",
+            "google.com.pe",
+            "google.com.pg",
+            "google.com.ph",
+            "google.com.pk",
+            "google.com.pr",
+            "google.com.py",
+            "google.com.qa",
+            "google.com.sa",
+            "google.com.sb",
+            "google.com.sg",
+            "google.com.sl",
+            "google.com.sv",
+            "google.com.tj",
+            "google.com.tr",
+            "google.com.tw",
+            "google.com.ua",
+            "google.com.uy",
+            "google.com.vc",
+            "google.com.vn",
+            "google.cv",
+            "google.cz",
+            "google.de",
+            "google.dj",
+            "google.dk",
+            "google.dm",
+            "google.dz",
+            "google.ee",
+            "google.es",
+            "google.fi",
+            "google.fm",
+            "google.fr",
+            "google.ga",
+            "google.ge",
+            "google.gf",
+            "google.gg",
+            "google.gl",
+            "google.gm",
+            "google.gp",
+            "google.gr",
+            "google.gy",
+            "google.hn",
+            "google.hr",
+            "google.ht",
+            "google.hu",
+            "google.ie",
+            "google.im",
+            "google.io",
+            "google.iq",
+            "google.is",
+            "google.it",
+            "google.je",
+            "google.jo",
+            "google.kg",
+            "google.ki",
+            "google.kz",
+            "google.la",
+            "google.li",
+            "google.lk",
+            "google.lt",
+            "google.lu",
+            "google.lv",
+            "google.md",
+            "google.me",
+            "google.mg",
+            "google.mk",
+            "google.ml",
+            "google.mn",
+            "google.ms",
+            "google.mu",
+            "google.mv",
+            "google.mw",
+            "google.ne",
+            "google.nl",
+            "google.no",
+            "google.nr",
+            "google.nu",
+            "google.pl",
+            "google.pn",
+            "google.ps",
+            "google.pt",
+            "google.ro",
+            "google.rs",
+            "google.ru",
+            "google.rw",
+            "google.sc",
+            "google.se",
+            "google.sh",
+            "google.si",
+            "google.sk",
+            "google.sm",
+            "google.sn",
+            "google.so",
+            "google.sr",
+            "google.st",
+            "google.td",
+            "google.tg",
+            "google.zk",
+            "google.ti",
+            "google.tm",
+            "google.tn",
+            "google.to",
+            "google.tt",
+            "google.vg",
+            "google.vu",
+            "google.ws",
+            "accounts.google.com",
+            "admob.google.com",
+            "ads.google.com",
+            "artsandculture.google.com",
+            "books.google.com",
+            "chat.google.com",
+            "classroom.google.com",
+            "consent.google.com",
+            "contacts.google.com",
+            "docs.google.com",
+            "duo.google.com",
+            "drive.google.com",
+            "earth.google.com",
+            "hangouts.google.com",
+            "jamboard.google.com",
+            "keep.google.com",
+            "maps.google.com",
+            "marketingplatform.google.com",
+            "meet.google.com",
+            "myaccount.google.com",
+            "news.google.com",
+            "one.google.com",
+            "play.google.com",
+            "photos.google.com",
+            "sites.google.com",
+            "stadia.google.com",
+            "support.google.com",
+            "translate.google.com"
         ]
     },
 
@@ -6117,7 +6452,9 @@
         "notes": "Click \"Account settings\" and then the red button \"Delete my account\" at the bottom of the page.",
         "notes_pt_br": "Clique em \"Configurações da conta\" e no botão vermelho \"Remover minha conta\" que está no fim da página.",
         "domains": [
-            "hide.me"
+            "hide.me",
+            "community.hide.me",
+            "member.hide.me"
         ]
     },
 
@@ -6355,7 +6692,9 @@
         "difficulty": "hard",
         "notes": "Complete the form on the linked page. They require some PII such as name, address, and a government-issued ID.",
         "domains": [
-            "hypixel.net"
+            "hypixel.net",
+            "status.hypixel.net",
+            "support.hypixel.net"
         ]
     },
 
@@ -7039,7 +7378,8 @@
         "notes": "Follow the link, select reason for deleting, and click 'Delete Account'. Kahoots set to public won’t be deleted along with your account. If you’d like to delete them, you’ll need to do it manually.",
         "domains": [
             "kahoot.com",
-            "kahoot.it"
+            "kahoot.it",
+            "create.kahoot.it"
         ]
     },
 
@@ -7061,7 +7401,51 @@
         "notes": "Login to your account. Click 'Account Settings' from the dropdown menu where your username (or email) is shown, then use the 'Delete Account' option and enter your password.",
         "notes_tr": "Hesabınıza giriş yapın. Kullanıcı adınızın (veya e-postanızın) gösterildiği açılır menüden \"Hesap Ayarları\" tuşuna tıklayın, ardından \"Hesabı Sil\" seçeneğini kullanın ve şifrenizi girin.",
         "domains": [
-            "kaspersky.com"
+            "kaspersky.com.au",
+            "kaspersky.be",
+            "kaspersky.bg",
+            "kaspersky.ca",
+            "kaspersky.co.in",
+            "kaspersky.co.jp",
+            "kaspersky.co.kr",
+            "kaspersky.co.th",
+            "kaspersky.co.uk",
+            "kaspersky.co.za",
+            "kaspersky.com",
+            "kaspersky.com.br",
+            "kaspersky.com.cn",
+            "kaspersky.com.hk",
+            "kaspersky.com.pl",
+            "kaspersky.com.tw",
+            "kaspersky.com.tr",
+            "kaspersky.com.vn",
+            "kaspersky.cz",
+            "kaspersky.de",
+            "kaspersky.dk",
+            "kaspersky.es",
+            "kaspersky.fi",
+            "kaspersky.fr",
+            "kaspersky.gr",
+            "kaspersky.hu",
+            "kaspersky.it",
+            "kaspersky.ma",
+            "kaspersky.nl",
+            "kaspersky.no",
+            "kaspersky.pt",
+            "kaspersky.ro",
+            "kaspersky.rs",
+            "kaspersky.ru",
+            "kaspersky.se",
+            "kaspersky.tn",
+            "kaspersky.ua",
+            "afrique.kaspersky.com",
+            "algerie.kaspersky.com",
+            "latam.kaspersky.com",
+            "me.kaskersky.com",
+            "me-en.kaspersky.com",
+            "my.kaspersky.com",
+            "threats.kaspersky.com",
+            "usa.kaspersky.com"
         ]
     },
 
@@ -7071,7 +7455,9 @@
         "difficulty": "hard",
         "notes": "You need to contact the support to delete your account. Make sure to include your username and email in the support ticket.",
         "domains": [
-            "kattis.com"
+            "kattis.com",
+            "icpc.kattis.com",
+            "open.kattis.com"
         ]
     },
 
@@ -7321,7 +7707,8 @@
         "notes": "Scroll to the bottom of the page and click delete user account. On the following page, enter your password. Your account will then be deleted after 14 days.",
         "notes_tr": "Sayfanın altına gidin ve \"Kullanıcı Hesabını Sil\" seçeneğini tıklayın. Sonraki sayfada şifrenizi girin. Hesabınız daha sonra 14 gün sonra silinecektir.",
         "domains": [
-            "last.fm"
+            "last.fm",
+            "support.last.fm"
         ]
     },
 
@@ -7554,7 +7941,9 @@
         "difficulty": "easy",
         "notes": "Go to your account details, scroll down to the 'Danger Zone' and click 'Delete Account'.",
         "domains": [
-            "linktr.ee"
+            "linktr.ee",
+            "auth.linktr.ee",
+            "help.linktr.ee"
         ]
     },
 
@@ -7676,7 +8065,11 @@
         "difficulty": "hard",
         "notes": "Open a ticket on their customer service requesting the deletion of the account and provide a country, reason and your name",
         "domains": [
-            "logitech.com"
+            "logitech.com",
+            "blog.logitech.com",
+            "ir.logitech.com",
+            "press.logitech.eu",
+            "support.logi.com"
         ]
     },
 
@@ -7744,6 +8137,7 @@
         "notes": "Click in the top right corner on your Username, then \"Account settings\" and at the tab \"Close Account\"",
         "notes_tr": "Sağ üst köşedeki kullanıcı adınıza tıklayın, \"Hesap Ayarları\" kısmından \"Hesabı Kapat\" sekmesine girin",
         "domains": [
+            "lucid.app",
             "lucidchart.com",
             "lucidpress.com"
         ]
@@ -7892,7 +8286,8 @@
         "notes": "Account Settings → Delete Account.",
         "notes_tr": "\"Hesap Ayarları\" \"Hesabı Sil\".",
         "domains": [
-            "mailbox.org"
+            "mailbox.org",
+            "kb.mailbox.org"
         ]
     },
 
@@ -8765,24 +9160,6 @@
     },
 
     {
-        "name": "Mozilla/Firefox",
-        "url": "https://accounts.firefox.com/settings/delete_account",
-        "difficulty": "easy",
-        "notes": "“Cancel your account” link at the bottom of the page.",
-        "notes_tr": "Sayfanın altındaki \"Hesabınızı İptal Edin\" tuşuna tıklayın.",
-        "notes_fr": "Cliquez le lien « Cancel your account » au bas de la page.",
-        "notes_it": "“Cancel your account” in fondo alla pagina.",
-        "notes_pt_br": "Link “Cancel your account” no final da página.",
-        "notes_cat": "“Cancel your account” al final de la pàgina.",
-        "notes_es": "“Cancel your account” al final de la página.",
-        "notes_pl": "Kliknij “Cancel your account” na dole strony.",
-        "domains": [
-            "addons.mozilla.org",
-            "accounts.firefox.com"
-        ]
-    },
-
-    {
         "name": "Muambator",
         "url": "https://www.muambator.com.br/perfil/minha-conta/",
         "difficulty": "easy",
@@ -9105,7 +9482,8 @@
         "notes_ru": "Отмените свое членство, затем обратитесь в службу поддержки, если вы хотите немедленное удаление, в ином случае ваша учетная запись будет автоматически удалена через 10 месяцев.",
         "email": "privacy@netflix.com",
         "domains": [
-            "netflix.com"
+            "netflix.com",
+            "help.netflix.com"
         ]
     },
 
@@ -9158,7 +9536,9 @@
         "difficulty": "hard",
         "notes": "Use the form to request deletion of all of your personal data, they will only do it if law mandates like GDPR (Europe), otherwise account will just be deactivated. You might be required to confirm the request by mail or another form of contact.",
         "domains": [
-            "nytimes.com"
+            "www.nytco.com",
+            "nytimes.com",
+            "myaccount.nytimes.com"
         ]
     },
 
@@ -9323,7 +9703,8 @@
         "notes_tr": "Onay kutusunu işaretleyerek onaylayın ve \"Değiştir\" tuşuna tıklayın.",
         "notes_fr": "Cochez la case pour confirmer, puis cliquez « Change ».",
         "domains": [
-            "noip.com"
+            "noip.com",
+            "my.noip.com"
         ]
     },
 
@@ -9694,7 +10075,9 @@
         "difficulty": "easy",
         "notes": "Main website may still show you logged in after deletion (compared to the account management site). In that case, cookies need to cleared.",
         "domains": [
-            "openweathermap.org"
+            "openweather.co.uk",
+            "openweathermap.org",
+            "home.openweathermap.org"
         ]
     },
 
@@ -10416,7 +10799,8 @@
         "url": "https://getpocket.com/account_deletion/",
         "difficulty": "easy",
         "domains": [
-            "getpocket.com"
+            "getpocket.com",
+            "help.getpocket.com"
         ]
     },
 
@@ -10901,7 +11285,31 @@
         "notes": "Log in, go to 'Settings', 'Privacy', and then 'Delete Account'. Your account will be deactivated, then permanently deleted after 14 days. If you log in during that time, your account will be reactivated and deletion will be canceled.",
         "notes_tr": "Giriş yapın, \"Ayarlar\" \"Gizlilik\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
-            "quora.com"
+            "quora.com",
+            "ar.quora.com",
+            "bn.quora.com",
+            "da.quora.com",
+            "de.quora.com",
+            "es.quora.com",
+            "fi.quora.com",
+            "fr.quora.com",
+            "gu.quora.com",
+            "he.quora.com",
+            "help.quora.com",
+            "hi.quora.com",
+            "id.quora.com",
+            "it.quora.com",
+            "jp.quora.com",
+            "kn.quora.com",
+            "ml.quora.com",
+            "mr.quora.com",
+            "nl.quora.com",
+            "no.quora.com",
+            "pl.quora.com",
+            "pt.quora.com",
+            "sv.quora.com",
+            "ta.quora.com",
+            "te.quora.com"
         ]
     },
 
@@ -11161,7 +11569,11 @@
         "difficulty": "easy",
         "notes": "If you are opted in to the redesign, scroll to the bottom and click on the Delete Account button. Your content will not be deleted (only disassociated).",
         "domains": [
-            "reddit.com"
+            "reddit.com",
+            "accounts.reddit.com",
+            "reddithelp.com",
+            "mods.reddithelp.com",
+            "redditinc.com"
         ]
     },
 
@@ -11922,7 +12334,10 @@
         "difficulty": "easy",
         "notes": "Visit the linked page and request account deletion. You will receive an email when your request is completed.",
         "domains": [
-            "shutterfly.com"
+            "shutterfly.com",
+            "accounts.shutterfly.com",
+            "support.shutterfly.com",
+            "shutterflyinc.com"
         ]
     },
 
@@ -11932,7 +12347,8 @@
         "difficulty": "easy",
         "notes": "Go to your <a href='//www.shutterstock.com/account/profile'>account details</a> and press <a href='//accounts.shutterstock.com/remove'>Delete my account</a> and confirm.",
         "domains": [
-            "shutterstock.com"
+            "shutterstock.com",
+            "accounts.shutterstock.com"
         ]
     },
 
@@ -11954,7 +12370,8 @@
         "difficulty": "easy",
         "notes": "In Signal, tap your 'profile' > 'Account' > 'Delete account'. And Enter your Signal number, Tap 'Delete account'.",
         "domains": [
-            "signal.org"
+            "signal.org",
+            "support.signal.org"
         ]
     },
 
@@ -12049,7 +12466,8 @@
         "difficulty": "impossible",
         "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.",
         "domains": [
-            "skype.com"
+            "skype.com",
+            "support.skype.com"
         ]
     },
 
@@ -12060,7 +12478,11 @@
         "notes": "If you are the Slack team's primary owner you will need to either delete the team or transfer its ownership before deleting your account. If you're not, you'll need to request a deletion from the workspace admin.",
         "notes_tr": "Slack ekibinin birincil sahibi sizseniz, hesabınızı silmeden önce ekibi silmeniz veya sahipliğini devretmeniz gerekecektir. Değilseniz, çalışma alanı yöneticisinden silme talebinde bulunmanız gerekir.",
         "domains": [
-            "slack.com"
+            "slack.com",
+            "api.slack.com",
+            "my.slack.com",
+            "slackdemo.com",
+            "investor.slackhq.com"
         ]
     },
 
@@ -12363,7 +12785,10 @@
         "notes": "1. Cancel your subscription at https://www.spotify.com/us/account/subscription/ 2. Public playlists will be anonymised, delete any playlists you want. 3. Go to the provided link, Account -> I want to close my account and follow the instructions. The account can still be restored within 7 days of the request.",
         "notes_tr": "1. Aboneliğinizi iptal linkinden iptal edin. 2. Herkese açık çalma listeleri anonimleştirilecek, istediğiniz tüm çalma listelerini silin. 3. Verilen bağlantıya girin ve \"Hesap\" \"Hesabımı kapatmak istiyorum\" kısmından talimatları takip edin. Hesap, talepten sonraki 7 gün içinde yine de geri yüklenebilir.",
         "domains": [
-            "spotify.com"
+            "spotify.com",
+            "accounts.spotify.com",
+            "open.spotify.com",
+            "support.spotify.com"
         ]
     },
 
@@ -12404,6 +12829,8 @@
         "notes": "If you have not posted on the site, your profile will be immediately deleted. If you have posted, your profile will be scheduled for deletion after 24 hours. Your posts will remain on the site under a generic username.",
         "notes_es": "Si nunca has publicado en el sitio, tu perfil será eliminado inmediatamente. Si tienes publicaciones, tu perfil será marcado para su eliminación luego de 24 horas. Tus publicaciones permanecerán en el sitio bajo un nombre de usuario genérico.",
         "domains": [
+            "stackoverflow.blog",
+            "stackoverflow.co",
             "stackoverflow.com"
         ]
     },
@@ -12665,9 +13092,10 @@
             "clashofclans.com",
             "clashroyale.com",
             "clashroyaleapp.com",
+            "hayday.com",
             "haydaygame.com",
             "supercell.com",
-            "supercellsupport.com"
+            "help.supercellsupport.com"
         ]
     },
 
@@ -12755,7 +13183,8 @@
         "difficulty": "easy",
         "notes": "Visit the linked page. Scroll to the bottom of the page and click 'Delete account'. Select a reason for deleting and type a brief description of why.",
         "domains": [
-            "sync.com"
+            "sync.com",
+            "cp.sync.com"
         ]
     },
 
@@ -12958,7 +13387,9 @@
         "notes_cat": "Edit profile (menú situat a la cantonada superior esquerra) →  Delete account",
         "notes_es": "Edit profile (menú situado en la esquina superior izquierda) →  Delete account",
         "domains": [
-            "teamviewer.com"
+            "teamviewer.com",
+            "login.teamviewer.com",
+            "service.teamviewer.com"
         ]
     },
 
@@ -12991,7 +13422,8 @@
         "notes": "Contact the TED support team <a href=\"https://support.ted.com/customer/portal/emails/new\">via their online contact form</a> for account deletion requests",
         "notes_tr": "Hesap silme talepleri için TED destek ekibiyle iletişime geçin",
         "domains": [
-            "ted.com"
+            "ted.com",
+            "support.ted.com"
         ]
     },
 
@@ -13013,7 +13445,9 @@
         "notes": "Open deactivation page. Enter your phone number and one time password sent to your Telegram account. Delete your account then.",
         "notes_tr": "Devre dışı bırakma sayfasını açın. Telefon numaranızı ve Telegram hesabınıza gönderilen tek seferlik şifreyi girin. Ardından hesabınızı silin.",
         "domains": [
-            "telegram.org"
+            "telegram.org",
+            "core.telegram.org",
+            "my.telegram.org"
         ]
     },
 
@@ -13217,7 +13651,9 @@
         "notes": "Follow the instructions from this link.",
         "notes_es": "Sigue las instrucciones del enlace",
         "domains": [
-            "ticktick.com"
+            "ticktick.com",
+            "blog.ticktick.com",
+            "support.ticktick.com"
         ]
     },
 
@@ -13276,7 +13712,9 @@
         "notes": "At the bottom of the page is a delete account buttom, after clicking on it, you will need to re-enter your password.",
         "notes_tr": "Sayfanın altında bir \"Hesabı Sil\" düğmesi vardır, tıkladıktan sonra şifrenizi yeniden girmeniz gerekecektir.",
         "domains": [
-            "todoist.com"
+            "todoist.com",
+            "developer.todoist.com",
+            "status.todoist.net"
         ]
     },
 
@@ -13876,6 +14314,7 @@
         "notes": "Click 'Request to Delete Your Account' at the bottom of the account settings page.",
         "domains": [
             "unity.com",
+            "id.unity.com",
             "unity3d.com"
         ]
     },
@@ -14100,7 +14539,9 @@
         "url": "https://vimeo.com/settings/goodbye/forever",
         "difficulty": "easy",
         "domains": [
-            "vimeo.com"
+            "vimeo.com",
+            "developer.vimeo.com",
+            "press.vimeo.com"
         ]
     },
 
@@ -14166,7 +14607,10 @@
         "difficulty": "medium",
         "domains": [
             "vivaldi.com",
-            "vivaldi.net"
+            "help.vivaldi.com",
+            "vivaldi.net",
+            "login.vivaldi.net",
+            "webmail.vivaldi.net"
         ]
     },
 
@@ -14377,7 +14821,8 @@
         "notes": "Site uses the term \"unsubscribe\" to describe completely deleting an account.",
         "notes_tr": "Site, bir hesabın tamamen silinmesini tanımlamak için 'abonelikten çıkma' terimini kullanıyor.",
         "domains": [
-            "weather.com"
+            "weather.com",
+            "registration.weather.com"
         ]
     },
 
@@ -14581,7 +15026,336 @@
         "notes_es": "'No se pueden borrar los usuarios.' Pero hacen algunas sugerencias.",
         "notes_ru": "«Имя пользователя не может быть удалено». Однако у них есть несколько предложений.",
         "domains": [
-            "wikipedia.org"
+            "wikipedia.org",
+            "aa.wikipedia.org",
+            "ab.wikipedia.org",
+            "ace.wikipedia.org",
+            "ady.wikipedia.org",
+            "af.wikipedia.org",
+            "ak.wikipedia.org",
+            "als.wikipedia.org",
+            "alt.wikipedia.org",
+            "am.wikipedia.org",
+            "ami.wikipedia.org",
+            "an.wikipedia.org",
+            "ang.wikipedia.org",
+            "ar.wikipedia.org",
+            "arc.wikipedia.org",
+            "ary.wikipedia.org",
+            "arz.wikipedia.org",
+            "as.wikipedia.org",
+            "ast.wikipedia.org",
+            "atj.wikipedia.org",
+            "av.wikipedia.org",
+            "avk.wikipedia.org",
+            "awa.wikipedia.org",
+            "ay.wikipedia.org",
+            "az.wikipedia.org",
+            "azb.wikipedia.org",
+            "ba.wikipedia.org",
+            "ban.wikipedia.org",
+            "bar.wikipedia.org",
+            "bat-smg.wikipedia.org",
+            "bcl.wikipedia.org",
+            "be.wikipedia.org",
+            "be-tarask.wikipedia.org",
+            "bg.wikipedia.org",
+            "bh.wikipedia.org",
+            "bi.wikipedia.org",
+            "bjn.wikipedia.org",
+            "blk.wikipedia.org",
+            "bm.wikipedia.org",
+            "bn.wikipedia.org",
+            "bo.wikipedia.org",
+            "bpy.wikipedia.org",
+            "br.wikipedia.org",
+            "bs.wikipedia.org",
+            "bug.wikipedia.org",
+            "bxr.wikipedia.org",
+            "ca.wikipedia.org",
+            "cbk-zam.wikipedia.org",
+            "cdo.wikipedia.org",
+            "ce.wikipedia.org",
+            "ceb.wikipedia.org",
+            "ch.wikipedia.org",
+            "cho.wikipedia.org",
+            "chr.wikipedia.org",
+            "chy.wikipedia.org",
+            "ckb.wikipedia.org",
+            "co.wikipedia.org",
+            "cr.wikipedia.org",
+            "crh.wikipedia.org",
+            "cs.wikipedia.org",
+            "csb.wikipedia.org",
+            "cu.wikipedia.org",
+            "cv.wikipedia.org",
+            "cy.wikipedia.org",
+            "da.wikipedia.org",
+            "dag.wikipedia.org",
+            "de.wikipedia.org",
+            "din.wikipedia.org",
+            "diq.wikipedia.org",
+            "dsb.wikipedia.org",
+            "dty.wikipedia.org",
+            "dv.wikipedia.org",
+            "dz.wikipedia.org",
+            "ee.wikipedia.org",
+            "el.wikipedia.org",
+            "eml.wikipedia.org",
+            "en.wikipedia.org",
+            "eo.wikipedia.org",
+            "es.wikipedia.org",
+            "et.wikipedia.org",
+            "eu.wikipedia.org",
+            "ext.wikipedia.org",
+            "fa.wikipedia.org",
+            "ff.wikipedia.org",
+            "fi.wikipedia.org",
+            "fiu-vro.wikipedia.org",
+            "fj.wikipedia.org",
+            "fo.wikipedia.org",
+            "fr.wikipedia.org",
+            "frp.wikipedia.org",
+            "frr.wikipedia.org",
+            "fur.wikipedia.org",
+            "fy.wikipedia.org",
+            "ga.wikipedia.org",
+            "gag.wikipedia.org",
+            "gan.wikipedia.org",
+            "gcr.wikipedia.org",
+            "gd.wikipedia.org",
+            "gl.wikipedia.org",
+            "glk.wikipedia.org",
+            "gn.wikipedia.org",
+            "gom.wikipedia.org",
+            "gor.wikipedia.org",
+            "got.wikipedia.org",
+            "gu.wikipedia.org",
+            "guw.wikipedia.org",
+            "gv.wikipedia.org",
+            "ha.wikipedia.org",
+            "hak.wikipedia.org",
+            "haw.wikipedia.org",
+            "he.wikipedia.org",
+            "hi.wikipedia.org",
+            "hif.wikipedia.org",
+            "ho.wikipedia.org",
+            "hr.wikipedia.org",
+            "hsb.wikipedia.org",
+            "ht.wikipedia.org",
+            "hu.wikipedia.org",
+            "hy.wikipedia.org",
+            "hyw.wikipedia.org",
+            "hz.wikipedia.org",
+            "ia.wikipedia.org",
+            "id.wikipedia.org",
+            "ie.wikipedia.org",
+            "ig.wikipedia.org",
+            "ii.wikipedia.org",
+            "ik.wikipedia.org",
+            "ilo.wikipedia.org",
+            "inh.wikipedia.org",
+            "io.wikipedia.org",
+            "is.wikipedia.org",
+            "it.wikipedia.org",
+            "iu.wikipedia.org",
+            "ja.wikipedia.org",
+            "jam.wikipedia.org",
+            "jbo.wikipedia.org",
+            "jv.wikipedia.org",
+            "ka.wikipedia.org",
+            "kaa.wikipedia.org",
+            "kab.wikipedia.org",
+            "kbd.wikipedia.org",
+            "kbp.wikipedia.org",
+            "kcg.wikipedia.org",
+            "kg.wikipedia.org",
+            "ki.wikipedia.org",
+            "kj.wikipedia.org",
+            "kk.wikipedia.org",
+            "kl.wikipedia.org",
+            "km.wikipedia.org",
+            "kn.wikipedia.org",
+            "ko.wikipedia.org",
+            "koi.wikipedia.org",
+            "kr.wikipedia.org",
+            "krc.wikipedia.org",
+            "ks.wikipedia.org",
+            "ksh.wikipedia.org",
+            "ku.wikipedia.org",
+            "kv.wikipedia.org",
+            "kw.wikipedia.org",
+            "ky.wikipedia.org",
+            "la.wikipedia.org",
+            "lad.wikipedia.org",
+            "lb.wikipedia.org",
+            "lbe.wikipedia.org",
+            "lez.wikipedia.org",
+            "lfn.wikipedia.org",
+            "lg.wikipedia.org",
+            "li.wikipedia.org",
+            "lij.wikipedia.org",
+            "lld.wikipedia.org",
+            "lmo.wikipedia.org",
+            "ln.wikipedia.org",
+            "lo.wikipedia.org",
+            "lrc.wikipedia.org",
+            "lt.wikipedia.org",
+            "ltg.wikipedia.org",
+            "lv.wikipedia.org",
+            "mad.wikipedia.org",
+            "mai.wikipedia.org",
+            "map-bms.wikipedia.org",
+            "mdf.wikipedia.org",
+            "mg.wikipedia.org",
+            "mh.wikipedia.org",
+            "mhr.wikipedia.org",
+            "mi.wikipedia.org",
+            "min.wikipedia.org",
+            "mk.wikipedia.org",
+            "ml.wikipedia.org",
+            "mn.wikipedia.org",
+            "mni.wikipedia.org",
+            "mnw.wikipedia.org",
+            "mr.wikipedia.org",
+            "mrj.wikipedia.org",
+            "ms.wikipedia.org",
+            "mt.wikipedia.org",
+            "mus.wikipedia.org",
+            "mwl.wikipedia.org",
+            "my.wikipedia.org",
+            "myv.wikipedia.org",
+            "mzn.wikipedia.org",
+            "na.wikipedia.org",
+            "nah.wikipedia.org",
+            "nap.wikipedia.org",
+            "nds.wikipedia.org",
+            "nds-nl.wikipedia.org",
+            "ne.wikipedia.org",
+            "new.wikipedia.org",
+            "ng.wikipedia.org",
+            "nia.wikipedia.org",
+            "nl.wikipedia.org",
+            "nn.wikipedia.org",
+            "no.wikipedia.org",
+            "nov.wikipedia.org",
+            "nqo.wikipedia.org",
+            "nrm.wikipedia.org",
+            "nso.wikipedia.org",
+            "nv.wikipedia.org",
+            "ny.wikipedia.org",
+            "oc.wikipedia.org",
+            "olo.wikipedia.org",
+            "om.wikipedia.org",
+            "or.wikipedia.org",
+            "os.wikipedia.org",
+            "pa.wikipedia.org",
+            "pag.wikipedia.org",
+            "pam.wikipedia.org",
+            "pap.wikipedia.org",
+            "pcd.wikipedia.org",
+            "pcm.wikipedia.org",
+            "pdc.wikipedia.org",
+            "pfl.wikipedia.org",
+            "pi.wikipedia.org",
+            "pih.wikipedia.org",
+            "pl.wikipedia.org",
+            "pms.wikipedia.org",
+            "pnb.wikipedia.org",
+            "pnt.wikipedia.org",
+            "ps.wikipedia.org",
+            "pt.wikipedia.org",
+            "pwn.wikipedia.org",
+            "qu.wikipedia.org",
+            "rm.wikipedia.org",
+            "rmy.wikipedia.org",
+            "rn.wikipedia.org",
+            "ro.wikipedia.org",
+            "roa-rup.wikipedia.org",
+            "roa-tara.wikipedia.org",
+            "ru.wikipedia.org",
+            "rue.wikipedia.org",
+            "rw.wikipedia.org",
+            "sa.wikipedia.org",
+            "sah.wikipedia.org",
+            "sat.wikipedia.org",
+            "sc.wikipedia.org",
+            "scn.wikipedia.org",
+            "sco.wikipedia.org",
+            "sd.wikipedia.org",
+            "se.wikipedia.org",
+            "sg.wikipedia.org",
+            "sh.wikipedia.org",
+            "shi.wikipedia.org",
+            "shn.wikipedia.org",
+            "si.wikipedia.org",
+            "simple.wikipedia.org",
+            "sk.wikipedia.org",
+            "skr.wikipedia.org",
+            "sl.wikipedia.org",
+            "sm.wikipedia.org",
+            "smn.wikipedia.org",
+            "sn.wikipedia.org",
+            "so.wikipedia.org",
+            "sq.wikipedia.org",
+            "sr.wikipedia.org",
+            "srn.wikipedia.org",
+            "ss.wikipedia.org",
+            "st.wikipedia.org",
+            "stq.wikipedia.org",
+            "su.wikipedia.org",
+            "sv.wikipedia.org",
+            "sw.wikipedia.org",
+            "szl.wikipedia.org",
+            "szy.wikipedia.org",
+            "ta.wikipedia.org",
+            "tay.wikipedia.org",
+            "tcy.wikipedia.org",
+            "te.wikipedia.org",
+            "tet.wikipedia.org",
+            "tg.wikipedia.org",
+            "th.wikipedia.org",
+            "ti.wikipedia.org",
+            "tk.wikipedia.org",
+            "tl.wikipedia.org",
+            "tn.wikipedia.org",
+            "to.wikipedia.org",
+            "tpi.wikipedia.org",
+            "tr.wikipedia.org",
+            "trv.wikipedia.org",
+            "ts.wikipedia.org",
+            "tt.wikipedia.org",
+            "tum.wikipedia.org",
+            "tw.wikipedia.org",
+            "ty.wikipedia.org",
+            "tyv.wikipedia.org",
+            "udm.wikipedia.org",
+            "ug.wikipedia.org",
+            "uk.wikipedia.org",
+            "ur.wikipedia.org",
+            "uz.wikipedia.org",
+            "ve.wikipedia.org",
+            "vec.wikipedia.org",
+            "vep.wikipedia.org",
+            "vi.wikipedia.org",
+            "vls.wikipedia.org",
+            "vo.wikipedia.org",
+            "wa.wikipedia.org",
+            "war.wikipedia.org",
+            "wo.wikipedia.org",
+            "wuu.wikipedia.org",
+            "xal.wikipedia.org",
+            "xh.wikipedia.org",
+            "xmf.wikipedia.org",
+            "yi.wikipedia.org",
+            "yo.wikipedia.org",
+            "za.wikipedia.org",
+            "zea.wikipedia.org",
+            "zh.wikipedia.org",
+            "zh-classical.wikipedia.org",
+            "zh-min-nan.wikipedia.org",
+            "zh-yue.wikipedia.org",
+            "zu.wikipedia.org"
         ]
     },
 
@@ -14937,7 +15711,8 @@
         "url": "https://zattoo.com/account/delete",
         "difficulty": "easy",
         "domains": [
-            "zattoo.com"
+            "zattoo.com",
+            "support.zattoo.com"
         ]
     },
 
@@ -14971,7 +15746,18 @@
         "notes": "Go to Admin->Settings->Subscription and click 'Yes, cancel my account'.",
         "notes_tr": "\"Yönetici\" \"Ayarlar\" \"Abonelik\" \"Evet, hesabımı iptal et\" tuşuna tıklayın.",
         "domains": [
-            "zendesk.com"
+            "zendesk.co.jp",
+            "zendesk.co.uk",
+            "zendesk.com",
+            "zendesk.com.br",
+            "zendesk.com.mx",
+            "zendesk.de",
+            "zendesk.es",
+            "zendesk.fr",
+            "zendesk.hk",
+            "zendesk.kr",
+            "zendesk.nl",
+            "zendesk.tw"
         ]
     },
 
@@ -15020,7 +15806,8 @@
         "notes": "Scroll down to 'Delete and Reset Account' and click the red link: 'delete your account'",
         "notes_pl": "Zjedź w dół do 'Delete and Reset Account' i kliknij na czerwony link: 'delete your account",
         "domains": [
-            "zombiesrungame.com"
+            "zombiesrungame.com",
+            "blog.zombiesrungame.com"
         ]
     },
 
