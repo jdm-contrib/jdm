@@ -1106,6 +1106,17 @@
     },
 
     {
+        "name": "The Atlantic",
+        "url": "https://support.theatlantic.com/hc/en-us/requests/new",
+        "difficulty": "limited",
+        "notes": "Depending on where you live you either need to select \"Submit an EEA Data Request\" or \"Submit a CCPA Data Request\".",
+        "domains": [
+            "accounts.theatlantic.com",
+            "theatlantic.com",
+        ]
+    },
+
+    {
         "name": "Atlassian / Bitbucket",
         "url": "https://id.atlassian.com/manage/close-account",
         "difficulty": "medium",
