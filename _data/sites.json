@@ -15018,7 +15018,7 @@
         "difficulty": "impossible",
         "notes": "An account cannot be deleted as all contibutions to Wikimedia Commons are licensed under licenses that require attribution. However, you can place the template {{SD|U1}} on your user and talk pages, and rename your account to something random <a href='https://commons.wikimedia.org/wiki/Special:GlobalRenameRequest'>here</a>",
         "domains": [
-            "commons.wikimedia.org"
+            "commons.wikimedia.org",
             "commons.m.wikimedia.org"
         ]
     },
