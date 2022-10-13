@@ -9766,6 +9766,18 @@
     },
 
     {
+        "name": "Testbirds",
+        "url": "https://nest.testbirds.com/faq/category/list#accordion_faq-167",
+        "email": "info@thenounproject.com",
+        "difficulty": "easy",
+        "notes": "Click on your Username -> Settings and Press the 'Delete account' Button on the bottom left, then confirm.",
+        "domains": [
+            "testbirds.com",
+            "nest.testbirds.com"
+        ]
+    },
+
+    {
         "name": "The Noun Project",
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
