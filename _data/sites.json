@@ -9482,6 +9482,20 @@
     },
 
     {
+        "name": "Netdata",
+        "url": "https://learn.netdata.cloud/docs/cloud/data-privacy#delete-all-personal-data",
+        "difficulty": "easy",
+        "notes": "In your profile preferences, click in 'Delete account' then confirm.",
+        "email": "info@netdata.cloud",
+        "domains": [
+            "netdata.cloud",
+            "app.netdata.cloud",
+            "learn.netdata.cloud",
+            "community.netdata.cloud"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Netflix",
         "url": "https://help.netflix.com/en/node/407",
