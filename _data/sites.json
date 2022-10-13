@@ -9485,7 +9485,7 @@
         "name": "Netdata",
         "url": "https://learn.netdata.cloud/docs/cloud/data-privacy#delete-all-personal-data",
         "difficulty": "easy",
-        "notes": "In your profile preferences, click in 'Delete account' then confirm.",
+        "notes": "In your profile preferences, click 'Delete account' then confirm.",
         "email": "info@netdata.cloud",
         "domains": [
             "netdata.cloud",
