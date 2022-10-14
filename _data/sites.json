@@ -5381,6 +5381,16 @@
     },
 
     {
+        "name": "Giphy",
+        "url": "https://giphy.com/settings",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete Your Account\" button at the bottom of the page.",
+        "domains": [
+            "giphy.com"
+        ]
+    },
+
+    {
         "name": "GitHub",
         "url": "https://github.com/settings/admin#:~:text=Delete%20account",
         "difficulty": "easy",
