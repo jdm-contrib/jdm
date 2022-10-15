@@ -11693,6 +11693,15 @@
     },
 
     {
+        "name": "Report URI",
+        "url": "https://report-uri.com/account/settings/#deleteData",
+        "difficulty": "easy",
+        "domains": [
+            "report-uri.com"
+        ]
+    },
+
+    {
         "name": "RescueTime",
         "url": "https://www.rescuetime.com/settings",
         "difficulty": "easy",
