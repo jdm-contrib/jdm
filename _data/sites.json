@@ -9752,6 +9752,17 @@
     },
 
     {
+        "name": "Norton",
+        "url": "https://my.norton.com/extspa/account/privacyoptions",
+        "difficulty": "medium",
+        "notes": "You must cancel all active subscriptions before deleting your account. They will send a code to your email address to verify your identity.",
+        "domains": [
+            "norton.com",
+            "nortonlifelock.com"
+        ]
+    },
+
+    {
         "name": "The Noun Project",
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
