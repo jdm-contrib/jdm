@@ -9775,17 +9775,6 @@
     },
 
     {
-        "name": "Testbirds",
-        "url": "https://nest.testbirds.com/faq/category/list#accordion_faq-167",
-        "difficulty": "easy",
-        "notes": "Click on your Username -> Settings and Press the 'Delete account' Button on the bottom left, then confirm.",
-        "domains": [
-            "testbirds.com",
-            "nest.testbirds.com"
-        ]
-    },
-
-    {
         "name": "Norton",
         "url": "https://my.norton.com/extspa/account/privacyoptions",
         "difficulty": "medium",
@@ -13585,6 +13574,17 @@
         "email": "customersupport@terracycle.com",
         "domains": [
             "terracycle.com"
+        ]
+    },
+
+    {
+        "name": "Testbirds",
+        "url": "https://nest.testbirds.com/faq/category/list#accordion_faq-167",
+        "difficulty": "easy",
+        "notes": "Click on your Username -> Settings and Press the 'Delete account' Button on the bottom left, then confirm.",
+        "domains": [
+            "testbirds.com",
+            "nest.testbirds.com"
         ]
     },
 
