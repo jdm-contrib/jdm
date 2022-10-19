@@ -9492,6 +9492,19 @@
     },
 
     {
+        "name": "Netdata",
+        "url": "https://learn.netdata.cloud/docs/cloud/data-privacy#delete-all-personal-data",
+        "difficulty": "easy",
+        "notes": "In your profile preferences, click 'Delete account' then confirm.",
+        "domains": [
+            "netdata.cloud",
+            "app.netdata.cloud",
+            "learn.netdata.cloud",
+            "community.netdata.cloud"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Netflix",
         "url": "https://help.netflix.com/en/node/407",
@@ -13561,6 +13574,17 @@
         "email": "customersupport@terracycle.com",
         "domains": [
             "terracycle.com"
+        ]
+    },
+
+    {
+        "name": "Testbirds",
+        "url": "https://nest.testbirds.com/faq/category/list#accordion_faq-167",
+        "difficulty": "easy",
+        "notes": "Click on your Username -> Settings and Press the 'Delete account' Button on the bottom left, then confirm.",
+        "domains": [
+            "testbirds.com",
+            "nest.testbirds.com"
         ]
     },
 
