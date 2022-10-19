@@ -1691,7 +1691,7 @@
         "name": "Blogger",
         "url": "https://support.google.com/blogger/answer/41932",
         "difficulty": "impossible",
-        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\" target=\"_self\">Google</a>.",
+        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "notes_tr": "Google hesabınızın tamamını silmeden Blogger hesabınızı silemezsiniz. Fakat blogunuzu silebilirsiniz.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
         "notes_cat": "Haurieu d'esborrar tot el compte de Google. Tanmateix, també podeu esborrar únicament el vostre blog.",
@@ -5496,7 +5496,7 @@
         "name": "Gmail",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to gmail, enter your new email address, and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\" target=\"_self\">Google</a>.",
+        "notes": "Click the trash can next to gmail, enter your new email address, and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "notes_tr": "Gmail'in yanındaki çöp kutusunu tıklayın, yeni e-posta adresinizi girin ve doğrulama e-postasını onaylayın",
         "domains": [
             "gmail.com",
@@ -5893,7 +5893,7 @@
         "name": "Google One",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to Google One and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\" target=\"_self\">Google</a>.",
+        "notes": "Click the trash can next to Google One and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "domains": [
             "one.google.com"
         ]
@@ -5903,7 +5903,7 @@
         "name": "Google Pay",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to Google Pay and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\" target=\"_self\">Google</a>.",
+        "notes": "Click the trash can next to Google Pay and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "domains": [
             "pay.google.com"
         ]
@@ -15666,7 +15666,7 @@
         "meta": "popular",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to YouTube and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\" target=\"_self\">Google</a>.",
+        "notes": "Click the trash can next to YouTube and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "notes_tr": "YouTube hesabınızı silmeden önce verilerinizin bir kopyasını talep edebilirsiniz.",
         "notes_ru": "Вы можете запросить копию данных перед удалением учетной записи YouTube.",
         "domains": [
