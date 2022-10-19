@@ -1946,6 +1946,15 @@
     },
 
     {
+        "name": "Brilliant",
+        "url": "https://brilliant.org/account/settings/deactivate/",
+        "difficulty": "easy",
+        "domains": [
+            "brilliant.org"
+        ]
+    },
+
+    {
         "name": "Bring!",
         "url": "https://go.getbring.com/?link=https%3A%2F%2Fdeeplink.getbring.com%2Fview%2Fdeleteaccount&apn=ch.publisheria.bring&isi=580669177&ibi=ch.publisheria.bring",
         "difficulty": "medium",
