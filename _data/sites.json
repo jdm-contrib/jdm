@@ -1493,7 +1493,7 @@
 
     {
         "name": "Best Buy Canada",
-        "url": "https://pages.communications.bestbuypromotions.ca/page.aspx?QS=38dfbe491fab00ea85d3cbb8ac628347e7cfa61d972113f5276981dc06330aae",
+        "url": "https://cloudpage.bestbuypromotions.ca/privacy-request",
         "difficulty": "hard",
         "notes": "Fill out the form with the information on your account.",
         "domains": [
@@ -5377,6 +5377,16 @@
         "notes_tr": "Müşteri desteğine iletişime geçerek hesabınızı silebilirsiniz.",
         "domains": [
             "giantbomb.com"
+        ]
+    },
+
+    {
+        "name": "Giphy",
+        "url": "https://giphy.com/settings",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete Your Account\" button at the bottom of the page.",
+        "domains": [
+            "giphy.com"
         ]
     },
 
@@ -9503,6 +9513,19 @@
     },
 
     {
+        "name": "Netdata",
+        "url": "https://learn.netdata.cloud/docs/cloud/data-privacy#delete-all-personal-data",
+        "difficulty": "easy",
+        "notes": "In your profile preferences, click 'Delete account' then confirm.",
+        "domains": [
+            "netdata.cloud",
+            "app.netdata.cloud",
+            "learn.netdata.cloud",
+            "community.netdata.cloud"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Netflix",
         "url": "https://help.netflix.com/en/node/407",
@@ -9769,6 +9792,17 @@
         "notes": "Fill the form on the site to request deletion. Alternatively, use the Live Chat service to request deletion, located at the bottom right of the form.",
         "domains": [
             "nordvpn.com"
+        ]
+    },
+
+    {
+        "name": "Norton",
+        "url": "https://my.norton.com/extspa/account/privacyoptions",
+        "difficulty": "medium",
+        "notes": "You must cancel all active subscriptions before deleting your account. They will send a code to your email address to verify your identity.",
+        "domains": [
+            "norton.com",
+            "nortonlifelock.com"
         ]
     },
 
@@ -11693,6 +11727,15 @@
     },
 
     {
+        "name": "Report URI",
+        "url": "https://report-uri.com/account/settings/#deleteData",
+        "difficulty": "easy",
+        "domains": [
+            "report-uri.com"
+        ]
+    },
+
+    {
         "name": "RescueTime",
         "url": "https://www.rescuetime.com/settings",
         "difficulty": "easy",
@@ -13552,6 +13595,17 @@
         "email": "customersupport@terracycle.com",
         "domains": [
             "terracycle.com"
+        ]
+    },
+
+    {
+        "name": "Testbirds",
+        "url": "https://nest.testbirds.com/faq/category/list#accordion_faq-167",
+        "difficulty": "easy",
+        "notes": "Click on your Username -> Settings and Press the 'Delete account' Button on the bottom left, then confirm.",
+        "domains": [
+            "testbirds.com",
+            "nest.testbirds.com"
         ]
     },
 
