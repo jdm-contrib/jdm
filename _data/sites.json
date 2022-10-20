@@ -11189,23 +11189,17 @@
     },
 
     {
-        "name": "ProtonMail",
-        "url": "https://mail.protonmail.com/account",
+        "name": "Proton",
+        "url": "https://account.proton.me/u/0/mail/account-password",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click Settings -> Scroll Down to the Delete My Account Button -> Type why you are leaving, password, and 2 Factor Authentication code if enabled -> Click Delete",
-        "notes_tr": "Hesabınıza giriş yapın, \"Ayarlar\" \"Hesabımı Sil\", neden ayrıldığınızı yazın, şifrenizi ve etkinse 2 faktörlü kimlik doğrulama kodunuzu girip \"Sil\" tuşuna tıklayın",
+        "notes": "Open your account settings, go to Account -> Account and password -> Delete your account.",
         "domains": [
-            "protonmail.com"
-        ]
-    },
-
-    {
-        "name": "ProtonVPN",
-        "url": "https://account.protonvpn.com/account",
-        "difficulty": "easy",
-        "notes": "Click on the Delete Account button and follow the steps.",
-        "notes_pt_br": "Clique no botão \"Delete Account\" e siga as instruções.",
-        "domains": [
+            "proton.me",
+            "account.proton.me",
+            "calendar.proton.me",
+            "drive.proton.me",
+            "mail.proton.me",
+            "protonmail.com",
             "protonvpn.com",
             "account.protonvpn.com"
         ]
