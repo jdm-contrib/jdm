@@ -459,6 +459,16 @@
     },
 
     {
+        "name": "AgoraDesk",
+        "url": "https://agoradesk.com/account/settings",
+        "difficulty": "easy",
+        "notes": "Go to account settings and click, scroll down and click 'Delete Account'",
+        "domains": [
+            "agoradesk.com"
+        ]
+    },
+
+    {
         "name": "aiqfome",
         "url": "https://aiqfome.com/",
         "difficulty": "hard",
@@ -1942,6 +1952,15 @@
         "email_subject": "Account Deletion Request",
         "domains": [
             "brain.fm"
+        ]
+    },
+
+    {
+        "name": "Brilliant",
+        "url": "https://brilliant.org/account/settings/deactivate/",
+        "difficulty": "easy",
+        "domains": [
+            "brilliant.org"
         ]
     },
 
