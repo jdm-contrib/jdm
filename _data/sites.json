@@ -12934,7 +12934,8 @@
         "url": "https://standardnotes.com/reset",
         "difficulty": "easy",
         "domains": [
-            "standardnotes.com"
+            "standardnotes.com",
+            "app.standardnotes.com"
         ]
     },
 
