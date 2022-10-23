@@ -11192,7 +11192,7 @@
         "name": "Proton",
         "url": "https://account.proton.me/u/0/mail/account-password",
         "difficulty": "medium",
-        "notes": "Open your account settings, go to Account -> Account and password -> Delete your account. You need to select a reason for deleting your account and give some Feedback.",
+        "notes": "Open your account settings, go to 'Account' -> 'Account and password' -> 'Delete your account'. You need to select a reason for deleting your account and give some feedback.",
         "domains": [
             "proton.me",
             "account.proton.me",
