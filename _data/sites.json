@@ -559,8 +559,8 @@
         "name": "AirMeet",
         "url": "https://help.airmeet.com/support/solutions/articles/82000443799-how-to-delete-airmeet-community-account-",
         "difficulty": "hard",
-        "notes": "Click the purple question mark button and then request account deletion via the Airmeet Chat Support. Alternatively, you can email support@airmeet.com.",
-        "notes_pt_br": "Clique no botão roxo com um ponto de interrogação no canto inferior direito da página e inicie um Airmeet Chat Support. Alternativamente, envie um e-mail para support@airmeet.com.",
+        "notes": "Click the purple question mark button and then request account deletion via the Airmeet Chat Support. Alternatively, you can email <a href=\"mailto:support@airmeet.com\">support@airmeet.com</a>.",
+        "notes_pt_br": "Clique no botão roxo com um ponto de interrogação no canto inferior direito da página e inicie um Airmeet Chat Support. Alternativamente, envie um e-mail para <a href=\"mailto:support@airmeet.com\">support@airmeet.com</a>.",
         "email": "support@airmeet.com",
         "domains": [
             "airmeet.com"
@@ -777,7 +777,7 @@
         "name": "Anghami",
         "url": "https://support.anghami.com/hc/en-us/articles/224890447-How-do-I-delete-deactivate-my-account-",
         "difficulty": "medium",
-        "notes": "If you can delete the account through the app, follow the process provided in the link. If you are using the web client you'll have to contact support@anghami.com. Your account will be deactivated within 24 hours and deleted after 30 days.",
+        "notes": "If you can delete the account through the app, follow the process provided in the link. If you are using the web client you'll have to contact <a href=\"mailto:support@anghami.com\">support@anghami.com</a>. Your account will be deactivated within 24 hours and deleted after 30 days.",
         "email": "support@anghami.com",
         "email_subject": "Account Deletion Request",
         "domains": [
@@ -955,8 +955,8 @@
         "name": "AppShopper",
         "url": "https://appshopper.com/about#contact-form",
         "difficulty": "hard",
-        "notes": "To request account deletion, you must email: support@appshopper.com",
-        "notes_ru": "Чтобы запросить удаление учетной записи, вы должны написать на электронную почту: support@appshopper.com",
+        "notes": "To request account deletion, you must email: <a href=\"mailto:support@appshopper.com\">support@appshopper.com</a>",
+        "notes_ru": "Чтобы запросить удаление учетной записи, вы должны написать на электронную почту: <a href=\"mailto:support@appshopper.com\">support@appshopper.com</a>",
         "notes_tr": "Hesap silme işlemi için, e-posta göndermeniz gerekir.",
         "email": "support@appshopper.com",
         "domains": [
@@ -1526,7 +1526,7 @@
         "name": "Bethesda",
         "url": "https://help.bethesda.net/app/incident10/?prod=711&cat=1220",
         "difficulty": "hard",
-        "notes": "To delete the account, login first on Bethesda.net, then click on the above link and select Bethesda as the product (note that the page takes a while to load), then select 'Delete Personal Information and Account' and fill out the form, this will send a prefilled support contact form for account deletion. You may also send an email to privacy@support.zenimax.com ",
+        "notes": "To delete the account, login first on Bethesda.net, then click on the above link and select Bethesda as the product (note that the page takes a while to load), then select 'Delete Personal Information and Account' and fill out the form, this will send a prefilled support contact form for account deletion. You may also send an email to <a href=\"mailto:privacy@support.zenimax.com\">privacy@support.zenimax.com</a> ",
         "email": "privacy@support.zenimax.com",
         "domains": [
         "bethesda.net"
@@ -1637,7 +1637,7 @@
         "name": "Bkool",
         "url": "https://support.bkool.com/hc/en-us/articles/360024682171-Privacy-policy",
         "difficulty": "hard",
-        "notes": "To delete an account, the user must write to the following email address: dpo@bkool.com",
+        "notes": "To delete an account, the user must write to the following email address: <a href=\"mailto:dpo@bkool.com\">dpo@bkool.com</a>",
         "email": "dpo@bkool.com",
         "domains": [
             "bkool.com"
@@ -1896,7 +1896,7 @@
         "name": "Boots Viewpoint",
         "url": "https://www.bootsviewpoint.co.uk",
         "difficulty": "hard",
-        "notes": "Have to contact them, email used was claire@bootsviewpoint.co.uk",
+        "notes": "Have to contact them, email used was <a href=\"mailto:claire@bootsviewpoint.co.uk\">claire@bootsviewpoint.co.uk</a>",
         "email": "claire@bootsviewpoint.co.uk",
         "domains": [
             "bootsviewpoint.co.uk"
@@ -2031,7 +2031,7 @@
         "name": "Buildspace",
         "url": "https://buildspace.so",
         "difficulty": "hard",
-        "notes": "Email support@buildspace.so requesting to delete your account.",
+        "notes": "Email <a href=\"mailto:support@buildspace.so\">support@buildspace.so</a> requesting to delete your account.",
         "email": "support@buildspace.so",
         "email_subject": "Account Delection Request",
         "domains": [
@@ -2382,7 +2382,7 @@
         "name": "Cheap Ass Gamer",
         "url": "https://www.cheapassgamer.com/index.php?app=core&module=help&do=01&HID=15",
         "difficulty": "hard",
-        "notes": "Please email cheapyd@cheapassgamer.com from your account on file with CAG.",
+        "notes": "Please email <a href=\"mailto:cheapyd@cheapassgamer.com\">cheapyd@cheapassgamer.com</a> from your account on file with CAG.",
         "notes_tr": "Lütfen hesabınızdan e-posta gönderin.",
         "email": "cheapyd@cheapassgamer.com",
         "domains": [
@@ -2913,14 +2913,14 @@
         "name": "Craigslist",
         "url": "https://www.craigslist.org/about/help/user_accounts",
         "difficulty": "hard",
-        "notes": "Send an email to abuse@craigslist.org and request deletion.",
+        "notes": "Send an email to <a href=\"mailto:abuse@craigslist.org\">abuse@craigslist.org</a> and request deletion.",
         "notes_tr": "Silmeyi talep etmek için e-posta gönderin.",
-        "notes_fr": "Envoyez un mail à abuse@craigslist.org et demandez la suppression du compte. ",
-        "notes_it": "Spedisci un email a abuse@craigslist.org e richiedi la cancellazione",
-        "notes_de": "Sende eine E-Mail an abuse@craigslist.org und beantrage die Löschung",
-        "notes_pt_br": "Envie um e-mail para abuse@craigslist.org e peça a remoção.",
-        "notes_cat": "Enviï un e-mail a abuse@craigslist.org i demani la supressió del compte.",
-        "notes_es": "Envía un e-mail a abuse@craigslist.org y pide que eliminen tu cuenta.",
+        "notes_fr": "Envoyez un mail à <a href=\"mailto:abuse@craigslist.org\">abuse@craigslist.org</a> et demandez la suppression du compte. ",
+        "notes_it": "Spedisci un email a <a href=\"mailto:abuse@craigslist.org\">abuse@craigslist.org</a> e richiedi la cancellazione",
+        "notes_de": "Sende eine E-Mail an <a href=\"mailto:abuse@craigslist.org\">abuse@craigslist.org</a> und beantrage die Löschung",
+        "notes_pt_br": "Envie um e-mail para <a href=\"mailto:abuse@craigslist.org\">abuse@craigslist.org</a> e peça a remoção.",
+        "notes_cat": "Enviï un e-mail a <a href=\"mailto:abuse@craigslist.org\">abuse@craigslist.org</a> i demani la supressió del compte.",
+        "notes_es": "Envía un e-mail a <a href=\"mailto:abuse@craigslist.org\">abuse@craigslist.org</a> y pide que eliminen tu cuenta.",
         "email": "abuse@craigslist.org",
         "domains": [
             "craigslist.org"
@@ -3271,7 +3271,7 @@
         "name": "Deliveroo",
         "url": "https://deliveroo.co.uk/account",
         "difficulty": "medium",
-        "notes": "At the bottom of the account page is the option to permanently deactivate your account. It is unclear if your data will be retained after this so you may wish to contact dpo@deliveroo.com to exercise your right to erasure under UK GDPR.",
+        "notes": "At the bottom of the account page is the option to permanently deactivate your account. It is unclear if your data will be retained after this so you may wish to contact <a href=\"mailto:dpo@deliveroo.com\">dpo@deliveroo.com</a> to exercise your right to erasure under UK GDPR.",
         "domains": [
             "deliveroo.co.uk"
         ]
@@ -3958,7 +3958,7 @@
         "name": "Dynadot",
         "url": "https://www.dynadot.com/community/help/question/close-dynadot-account",
         "difficulty": "hard",
-        "notes": "Deletion can only be done via email. First, you must make sure the account has no active services from Dynadot (domains, VPS or Email Hosting, SSL certificates, Website Builders, etc.). Active domains must be deleted (this takes up to 30 days), or moved to another account/registrar. Once all services have been removed, send an email to accounts@dynadot.com from your email in which the account is registered under.",
+        "notes": "Deletion can only be done via email. First, you must make sure the account has no active services from Dynadot (domains, VPS or Email Hosting, SSL certificates, Website Builders, etc.). Active domains must be deleted (this takes up to 30 days), or moved to another account/registrar. Once all services have been removed, send an email to <a href=\"mailto:accounts@dynadot.com\">accounts@dynadot.com</a> from your email in which the account is registered under.",
         "email": "accounts@dynadot.com",
         "domains": [
             "dynadot.com"
@@ -4038,7 +4038,7 @@
         "name": "EatStreet",
         "url": "https://eatstreet.com/contact",
         "difficulty": "hard",
-        "notes": "Though you can deactivate your account under \"My Account\", in order to permanently delete your account, you must contact support and request deletion at: customer.service@eatstreet.com.",
+        "notes": "Though you can deactivate your account under \"My Account\", in order to permanently delete your account, you must contact support and request deletion at: <a href=\"mailto:customer.service@eatstreet.com\">customer.service@eatstreet.com</a>.",
         "notes_tr": "Hesabınızı \"Hesabım\" sayfası altından iptal edebileceğiniz gibi, hesabınızı kalıcı olarak silmek için desteğe başvurup hesabınızı silmek istediğinizi söylemeniz gerekir.",
         "email": "customer.service@eatstreet.com",
         "domains": [
@@ -4168,9 +4168,9 @@
         "name": "Elevate",
         "url": "https://elevateapp.com",
         "difficulty": "hard",
-        "notes": "You must send an e-mail to hello@elevateapp.com requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
+        "notes": "You must send an e-mail to <a href=\"mailto:hello@elevateapp.co\">hello@elevateapp.co</a>m requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
         "notes_tr": "Silme talebinde bulunmak için bir e-posta göndermelisiniz. Ardından, destek ekibinden geri bildirim isteyen ve silme işlemini onaylayan bir yanıt alacaksınız. Destek biriminden alacağınız bir sonraki e-posta, hesabınızın silindiğini size bildirecektir.",
-        "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à hello@elevateapp.com. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
+        "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à <a href=\"mailto:hello@elevateapp.co\">hello@elevateapp.co</a>. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
         "email": "hello@elevateapp.com",
         "domains": [
             "elevateapp.com"
@@ -4502,7 +4502,7 @@
         "name": "Fairphone",
         "url": "https://www.fairphone.com/en/legal/fairphone-privacy-policy/#yourresponsibilitiesandrights",
         "difficulty": "hard",
-        "notes": "Need to email privacy@fairphone.com and ask for your account to be deleted. Takes around 14 working days for the account to be deleted.",
+        "notes": "Need to email <a href=\"mailto:privacy@fairphone.com\">privacy@fairphone.com</a> and ask for your account to be deleted. Takes around 14 working days for the account to be deleted.",
         "email": "privacy@fairphone.com",
         "domains": [
             "fairphone.com"
@@ -4524,7 +4524,7 @@
         "name": "FanFiction",
         "url": "https://www.fanfiction.net/account/data_delete.php",
         "difficulty": "hard",
-        "notes": "On the linked page, copy the provided code and send it to support@fanfiction.com using the email you registered with. Staff will respond and delete your account within 24 hours.",
+        "notes": "On the linked page, copy the provided code and send it to <a href=\"mailto:support@fanfiction.com\">support@fanfiction.com</a> using the email you registered with. Staff will respond and delete your account within 24 hours.",
         "email": "support@fanfiction.com",
         "domains": [
             "fanfiction.net"
@@ -4735,7 +4735,7 @@
         "name": "Flixster",
         "url": "https://www.flixster.com",
         "difficulty": "hard",
-        "notes": "Email privacy@flixster-inc.com and ask to have your account deleted.",
+        "notes": "Email <a href=\"mailto:privacy@flixster-inc.com\">privacy@flixster-inc.com</a> and ask to have your account deleted.",
         "notes_tr": "Hesabınızın silinmesini talep etmek için onlara e-posta gönderin.",
         "email": "privacy@flixster-inc.com",
         "domains": [
@@ -5290,7 +5290,7 @@
         "name": "Gentoo Forums",
         "url": "https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests",
         "difficulty": "hard",
-        "notes": "Send an email to forum-mods@gentoo.org requesting account deletion. However, all your forum posts and comments will still be shown, and your account will only be anonymized as detailed <a href='https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests'>here</a>.",
+        "notes": "Send an email to <a href=\"mailto:forum-mods@gentoo.org\">forum-mods@gentoo.org</a> requesting account deletion. However, all your forum posts and comments will still be shown, and your account will only be anonymized as detailed <a href='https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests'>here</a>.",
         "email": "forum-mods@gentoo.org",
         "email_subject": "Account Removal Request",
         "email_body": "I request for my Gentoo Forums account to be deleted. My username is XXXXXXXXX",
@@ -5579,7 +5579,7 @@
         "name": "GOG",
         "url": "https://support.gog.com/hc/en-us/articles/212806525-How-can-I-delete-my-account-?product=gog",
         "difficulty": "hard",
-        "notes": "Email privacy@gog.com and ask to have your account deleted.",
+        "notes": "Email <a href=\"mailto:privacy@gog\">privacy@gog</a>.com and ask to have your account deleted.",
         "notes_tr": "Hesabınızın silinmesini talep etmek için onlara e-posta gönderin.",
         "email": "privacy@gog.com",
         "domains": [
@@ -5591,7 +5591,7 @@
         "name": "Goggles4u",
         "url": "https://www.goggles4u.co.uk/privacy-policy",
         "difficulty": "hard",
-        "notes": "Email steve@goggles4u.com and ask to have your account deleted.",
+        "notes": "Email <a href=\"mailto:steve@goggles4u.com\">steve@goggles4u.com</a> and ask to have your account deleted.",
         "email": "steve@goggles4u.com",
         "domains": [
             "goggles4u.com",
@@ -6020,9 +6020,9 @@
         "name": "Grailed",
         "url": "https://www.grailed.com",
         "difficulty": "hard",
-        "notes": "Send an email to arun@grailed.com and request deletion.",
+        "notes": "Send an email to <a href=\"mailto:arun@grailed.com\">arun@grailed.com</a> and request deletion.",
         "notes_tr": "Silmeyi talep etmek için e-posta gönderin.",
-        "notes_fr": "Envoyez un e-mail à arun@grailed.com pour demander la suppression de votre compte.",
+        "notes_fr": "Envoyez un e-mail à <a href=\"mailto:arun@grailed.com\">arun@grailed.com</a> pour demander la suppression de votre compte.",
         "email": "arun@grailed.com",
         "domains": [
             "grailed.com"
@@ -6342,7 +6342,7 @@
         "email": "hello@harkaudio.com",
         "email_subject": "Account Deletion Request",
         "email_body": "Please delete my Hark Audio account which is registered under this email address.",
-        "notes": "Email hello@harkaudio.com and ask to have your account deleted",
+        "notes": "Email <a href=\"mailto:hello@harkaudio.com\">hello@harkaudio.com</a> and ask to have your account deleted",
         "domains": [
             "harkaudio.com"
         ]
@@ -6386,9 +6386,9 @@
         "name": "Headliner",
         "url": "https://learn.headliner.app/hc/en-us/articles/360003796513-How-do-I-delete-my-account-",
         "difficulty": "hard",
-        "notes": "You have to send an email to support@headliner.app",
+        "notes": "You have to send an email to <a href=\"mailto:support@headliner.app\">support@headliner.app</a>",
         "notes_tr": "E-posta göndermelisiniz.",
-        "notes_fr": "Vous devez envoyer un mail à support@headliner.app",
+        "notes_fr": "Vous devez envoyer un mail à <a href=\"mailto:support@headliner.app\">support@headliner.app</a>",
         "email": "support@headliner.app",
         "domains": [
             "headliner.app"
@@ -7103,9 +7103,9 @@
         "name": "Internetometer",
         "url": "https://internetometer.com",
         "difficulty": "impossible",
-        "notes": "Site provides no user account management interface or account deletion options. Email sent to internets@technoized.com was never replied to.",
+        "notes": "Site provides no user account management interface or account deletion options. Email sent to <a href=\"mailto:internets@technoized.com\">internets@technoized.com</a> was never replied to.",
         "notes_tr": "Site, kullanıcı hesabı yönetimi arayüzü veya hesap silme seçenekleri sağlamıyor. Gönderilen e-posta hiçbir zaman yanıtlanmadı.",
-        "notes_fr": "Le site n'offre pas d'option de suppresion des comptes. Un e-mail envoyé à internets@technoized.com n'a jamais réçu une réponse.",
+        "notes_fr": "Le site n'offre pas d'option de suppresion des comptes. Un e-mail envoyé à <a href=\"mailto:internets@technoized.com\">internets@technoized.com</a> n'a jamais réçu une réponse.",
         "domains": [
             "internetometer.com"
         ]
@@ -7125,8 +7125,7 @@
         "name": "Investopedia",
         "url": "https://invcontent.zendesk.com/hc/en-us/articles/360017064553-Account-Deletion",
         "difficulty": "hard",
-        "notes": "You must send an email to privacy@investopedia.com requesting the account deletion.",
-        "notes_pt_br": "You must send an email to privacy@investopedia.com requesting the account deletion.",
+        "notes": "You must send an email to <a href=\"mailto:privacy@investopedia.com\">privacy@investopedia.com</a> requesting the account deletion.",
         "email": "privacy@investopedia.com",
         "domains": [
             "investopedia.com"
@@ -7181,7 +7180,7 @@
         "name": "ipinfo.io",
         "url": "https://ipinfo.io/privacy-policy",
         "difficulty": "hard",
-        "notes": "Email support@ipinfo.io asking to delete your account.",
+        "notes": "Email <a href=\"mailto:support@ipinfo.io\">support@ipinfo.io</a> asking to delete your account.",
         "email": "support@ipinfo.io",
         "domains": [
             "ipinfo.io"
@@ -7538,7 +7537,7 @@
         "url": "https://www.keepersecurity.com/privacypolicy.html?t=v#:~:text=You%20may%20deactivate%20your%20Keeper%20Security%20account%20and%20delete%20your%20personally%20identifiable%20information%20at%20any%20time%20by%20contacting%20us%20at%20support%40keepersecurity.com%20clearly%20indicating%20that%20you%20wish%20to%20deactivate%20and%20delete%20such%20information.",
         "email": "support@keepersecurity.com",
         "difficulty": "hard",
-        "notes": "You may deactivate your Keeper Security account and delete your personally identifiable information at any time by contacting their support at support@keepersecurity.com clearly indicating that you wish to delete your account.",
+        "notes": "You may deactivate your Keeper Security account and delete your personally identifiable information at any time by contacting their support at <a href=\"mailto:support@keepersecurity.com\">support@keepersecurity.com</a> clearly indicating that you wish to delete your account.",
         "domains": [
             "keeper.io",
             "keepersecurity.com"
@@ -8322,7 +8321,7 @@
         "email": "help@magoosh.com",
         "email_subject": "Need to delete my account",
         "difficulty": "easy",
-        "notes": "Send an email to help@magoosh.com with the subject line, 'Need to delete my account'. Might need to send another email for the deletion to finally go through.",
+        "notes": "Send an email to <a href=\"mailto:help@magoosh.com\">help@magoosh.com</a> with the subject line, 'Need to delete my account'. Might need to send another email for the deletion to finally go through.",
         "notes_tr": "Bir e-posta gönderin. Sonunda silme işleminin tamamlanması için başka bir e-posta daha göndermeniz gerekebilir.",
         "domains": [
             "magoosh.com"
@@ -9105,7 +9104,7 @@
         "name": "Money Dashboard",
         "url": "https://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
-        "notes": "If you wish to delete your account and its belonging data and bank accounts held within it, you have to submit a request to the user support (or send an e-mail to support@moneydashboard.com). Make it clear that you require the full deletion of your account, not simply the deletion of one of your bank accounts. If you only want to delete/remove a bank account, but keep your Money Dashboard account open, please visit <a href=\"https://help.moneydashboard.com/entries/21936798\">https://help.moneydashboard.com/entries/21936798</a>",
+        "notes": "If you wish to delete your account and its belonging data and bank accounts held within it, you have to submit a request to the user support (or send an e-mail to <a href=\"mailto:support@moneydashboard.com\">support@moneydashboard.com</a>). Make it clear that you require the full deletion of your account, not simply the deletion of one of your bank accounts. If you only want to delete/remove a bank account, but keep your Money Dashboard account open, please visit <a href=\"https://help.moneydashboard.com/entries/21936798\">https://help.moneydashboard.com/entries/21936798</a>",
         "notes_tr": "Hesabınızı ve ona ait verileri ve içinde tutulan banka hesaplarını silmek isterseniz, kullanıcı desteğine bir talep göndermeniz (veya bir e-posta göndermeniz) gerekir. Yalnızca banka hesaplarınızdan birinin silinmesini değil, hesabınızın tamamen silinmesini istediğinizi açıkça belirtin. Yalnızca bir banka hesabını silmek / kaldırmak, ancak Money Dashboard hesabınızı açık tutmak istiyorsanız, lütfen banka hesabını silme bağlantısını ziyaret edin.",
         "email": "support@moneydashboard.com",
         "domains": [
@@ -9247,7 +9246,7 @@
         "name": "Munzee",
         "url": "https://www.munzee.com/privacy/",
         "difficulty": "hard",
-        "notes": "Send an e-mail to privacy@freezetag.com. This email should include your first name, last name, e-mail address and, if applicable, your social network ID for the social network from which you access these services. (for example, your Facebook user ID)",
+        "notes": "Send an e-mail to <a href=\"mailto:privacy@freezetag.com\">privacy@freezetag.com</a>. This email should include your first name, last name, e-mail address and, if applicable, your social network ID for the social network from which you access these services. (for example, your Facebook user ID)",
         "notes_tr": "Bir e-posta gönderin. Bu e-posta adınızı, soyadınızı, e-posta adresinizi ve (varsa) bu hizmetlere eriştiğiniz sosyal ağ için sosyal ağ kimliğinizi içermelidir. (örneğin, Facebook kullanıcı kimliğiniz)",
         "email": "privacy@freezetag.com",
         "domains": [
@@ -9522,9 +9521,9 @@
         "name": "Neopets",
         "url": "https://www.neopets.com/help_search.phtml?help_id=4",
         "difficulty": "hard",
-        "notes": "Send an email to the support@neopets.com stating you wish to delete your account.",
+        "notes": "Send an email to the <a href=\"mailto:support@neopets.com\">support@neopets.com</a> stating you wish to delete your account.",
         "notes_tr": "Hesabınızı silmek istediğinizi belirten bir e-posta gönderin.",
-        "notes_fr": "Envoyez un e-mail à support@neopets.com, en déclarant que vous voulez supprimer votre compte.",
+        "notes_fr": "Envoyez un e-mail à <a href=\"mailto:support@neopets.com\">support@neopets.com</a>, en déclarant que vous voulez supprimer votre compte.",
         "email": "support@neopets.com",
         "domains": [
             "neopets.com"
@@ -9796,7 +9795,7 @@
         "name": "NordPass",
         "url": "https://nordpass.com/privacy-policy/#choices-related-to-your-data",
         "difficulty": "hard",
-        "notes": "\"If you’d like to delete your account or data, please contact us at support@nordpass.com\"",
+        "notes": "\"If you’d like to delete your account or data, please contact us at <a href=\"mailto:support@nordpass.com\">support@nordpass.com</a>\"",
         "notes_tr": "Hesabınızı veya verilerinizi silmek isterseniz, lütfen bizimle iletişime geçin.",
         "email": "support@nordpass.com",
         "domains": [
@@ -9830,7 +9829,7 @@
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
         "difficulty": "hard",
-        "notes": "'Email us at info@thenounproject.com and we'll deactivate your account.'",
+        "notes": "'Email us at <a href=\"mailto:info@thenounproject.com\">info@thenounproject.com</a> and we'll deactivate your account.'",
         "notes_tr": "Bize e-posta gönderin, hesabınızı devre dışı bırakalım.",
         "domains": [
             "thenounproject.com"
@@ -9876,9 +9875,9 @@
         "name": "nTask",
         "url": "https://support.ntaskmanager.com/support/solutions/articles/43000545051-delete-your-ntask-account",
         "difficulty": "hard",
-        "notes": "To delete your nTask account, follow this simple procedure: Using your registered email for nTask, send a request titled \"Account Deletion\" to \"support@ntaskmanager.com\" mentioning your name and email address. Once the request is received, it will take 24 hours to process your request",
+        "notes": "To delete your nTask account, follow this simple procedure: Using your registered email for nTask, send a request titled \"Account Deletion\" to <a href=\"mailto:support@ntaskmanager.com\">support@ntaskmanager.com</a> mentioning your name and email address. Once the request is received, it will take 24 hours to process your request",
         "notes_tr": "nTask hesabınızı silmek için, şu basit prosedürü izleyin: nTask için kayıtlı e-postanızı kullanarak bir destek talebi gönderin. Talep alındıktan sonra talebinizin işlenmesi 24 saat sürecektir",
-        "notes_fr": "Pour supprimer votre compte nTask voici la procédure: Avec l'adresse e-mail utilisée pour le compte nTask, envoyer une demande intitulée \"Account Deletion\" à \"support@ntaskmanager.com\" mentionnant votre nom et adresse email. Une fois la demande reçue, il faudra 24 heures pour effectuer la demande",
+        "notes_fr": "Pour supprimer votre compte nTask voici la procédure: Avec l'adresse e-mail utilisée pour le compte nTask, envoyer une demande intitulée \"Account Deletion\" à <a href=\"mailto:support@ntaskmanager.com\">support@ntaskmanager.com</a> mentionnant votre nom et adresse email. Une fois la demande reçue, il faudra 24 heures pour effectuer la demande",
         "email": "support@ntaskmanager.com",
         "email_subject": "Account Deletion",
         "domains": [
@@ -10022,7 +10021,7 @@
         "url": "https://www.iubenda.com/privacy-policy/735465",
         "difficulty": "hard",
         "email": "support@honeybadger.io",
-        "notes": "Email support@honeybadger.io asking to close your account.",
+        "notes": "Email <a href=\"mailto:support@honeybadger.io\">support@honeybadger.io</a> asking to close your account.",
         "domains": [
             "onemonth.com"
         ]
@@ -10352,7 +10351,7 @@
         "url": "https://www.paperkarma.com/faq",
         "difficulty": "hard",
         "email": "human@paperkarma.com",
-        "notes": "Send an email to human@paperkarma.com requesting deletion. If you have a subscription plan through the App Store or Google Play, be sure to cancel your subscription in the proper store.",
+        "notes": "Send an email to <a href=\"mailto:human@paperkarma.com\">human@paperkarma.com</a> requesting deletion. If you have a subscription plan through the App Store or Google Play, be sure to cancel your subscription in the proper store.",
         "notes_tr": "Silme talebinde bulunmak için bir e-posta gönderin. App Store veya Google Play üzerinden bir aboneliğiniz varsa, uygun mağazadan aboneliğinizi iptal ettiğinizden emin olun.",
         "domains": [
             "paperkarma.com"
@@ -10404,7 +10403,7 @@
         "url": "https://parkmobile.zendesk.com/hc/en-us/articles/203299300-How-do-I-cancel-my-account-",
         "difficulty": "hard",
         "email": "helpdesk@parkmobileglobal.com",
-        "notes": "To cancel your account, send an e-mail message request to the Parkmobile Help Desk at helpdesk@parkmobileglobal.com and include your name, mobile number, license plate number, and/or the last 4 digits of the card we have on file for you. After the Help Desk cancels your account, you will receive a confirmation e-mail message.",
+        "notes": "To cancel your account, send an e-mail message request to the Parkmobile Help Desk at <a href=\"mailto:helpdesk@parkmobileglobal.com\">helpdesk@parkmobileglobal.com</a> and include your name, mobile number, license plate number, and/or the last 4 digits of the card we have on file for you. After the Help Desk cancels your account, you will receive a confirmation e-mail message.",
         "notes_tr": "Hesabınızı iptal etmek için, Parkmobile Yardım Masasına bir e-posta mesajı isteği gönderin ve adınızı, cep telefonu numaranızı, plaka numaranızı ve/veya kartın son 4 hanesini ekleyin. Yardım Masası hesabınızı iptal ettikten sonra, bir onay e-posta mesajı alacaksınız.",
         "domains": [
             "parkmobile.us",
@@ -10482,9 +10481,9 @@
         "name": "PaySera",
         "url": "https://bank.paysera.com/l.php?tmpl_into=middle&tmpl_name=m_helpdesk_ask_your_question",
         "difficulty": "hard",
-        "notes": "Quote from the support staff: If you want to delete your Paysera account completely, please write us an email (support@paysera.com) with a request and indicate why you want to delete your account. This email has to be sent from the email address that you use to log in to your Paysera account. Please be informed that if you delete your account, you will not be able to create a new account in the future. Paysera account is free of charge and we recommend not to delete it, but close the account, and you will be able to activate it in the future yourself by logging in to your Paysera account.",
+        "notes": "Quote from the support staff: If you want to delete your Paysera account completely, please write us an email (<a href=\"mailto:support@paysera.com\">support@paysera.com</a>) with a request and indicate why you want to delete your account. This email has to be sent from the email address that you use to log in to your Paysera account. Please be informed that if you delete your account, you will not be able to create a new account in the future. Paysera account is free of charge and we recommend not to delete it, but close the account, and you will be able to activate it in the future yourself by logging in to your Paysera account.",
         "notes_tr": "Destek ekibinden alıntı: Paysera hesabınızı tamamen silmek istiyorsanız, lütfen bize bir istek içeren bir e-posta yazın ve hesabınızı neden silmek istediğinizi belirtin. Bu e-posta, Paysera hesabınıza giriş yapmak için kullandığınız e-posta adresinden gönderilmelidir. Hesabınızı silerseniz, gelecekte yeni bir hesap oluşturamayacağınızı lütfen unutmayın. Paysera hesabı ücretsizdir ve onu silmemenizi tavsiye ederiz, ancak hesabı kapatırsanız, ileride Paysera hesabınıza giriş yaparak aktif hale getirebilirsiniz.",
-        "notes_de": "Um den Account komplett zu löschen muss von der für die Registrierung verwendeten E-Mail-Adresse eine E-Mail an support@paysera.com in Englisch geschrieben werden. Hier dann darum bitten, dass der Account komplett gelöscht werden soll. Laut Support kann dann in Zukunft kein neuer Account angelegt werden.",
+        "notes_de": "Um den Account komplett zu löschen muss von der für die Registrierung verwendeten E-Mail-Adresse eine E-Mail an <a href=\"mailto:support@paysera.com\">support@paysera.com</a> in Englisch geschrieben werden. Hier dann darum bitten, dass der Account komplett gelöscht werden soll. Laut Support kann dann in Zukunft kein neuer Account angelegt werden.",
         "email": "support@paysera.com",
         "domains": [
             "paysera.com"
@@ -10527,9 +10526,9 @@
         "name": "Peak",
         "url": "https://peak.net",
         "difficulty": "hard",
-        "notes": "You must send an e-mail to support@peak.net requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
+        "notes": "You must send an e-mail to <a href=\"mailto:support@peak.net\">support@peak.net</a> requesting deletion. You will then receive a response from support asking for feedback and to confirm the deletion. The next e-mail you receive from support will notify you that your account has been deleted.",
         "notes_tr": "Silme talebinde bulunmak için bir e-posta göndermelisiniz. Ardından, destek ekibinden geri bildirim isteyen ve silme işlemini onaylayan bir yanıt alacaksınız. Destek biriminden alacağınız bir sonraki e-posta, hesabınızın silindiğini size bildirecektir.",
-        "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à support@peak.net. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
+        "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à <a href=\"mailto:support@peak.net\">support@peak.net</a>. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
         "email": "support@peak.net",
         "domains": [
             "www.peak.net"
@@ -11340,7 +11339,7 @@
         "name": "Quip",
         "url": "https://www.quipsupport.com/entries/25079898-How-do-I-delete-my-account-",
         "difficulty": "hard",
-        "notes": "Email support@quip.com and ask them to delete your account.",
+        "notes": "Email <a href=\"mailto:support@quip.com\">support@quip.com</a> and ask them to delete your account.",
         "notes_tr": "Hesabınızın silinmesini talep etmek için onlara e-posta gönderin.",
         "email": "support@quip.com",
         "domains": [
@@ -11459,7 +11458,7 @@
         "difficulty": "hard",
         "email": "memberservices@rakuten.com",
         "email_subject": "Request to Delete Rakuten Account",
-        "notes": "Email memberservices@rakuten.com asking to delete your account.",
+        "notes": "Email <a href=\"mailto:memberservices@rakuten.com\">memberservices@rakuten.com</a> asking to delete your account.",
         "domains": [
             "rakuten.com",
             "rakuten.ca",
@@ -11494,7 +11493,7 @@
         "name": "RayWenderlich",
         "url": "https://accounts.raywenderlich.com/profile",
         "difficulty": "hard",
-        "notes": "Send an email to support@razeware.com with your account username and email address. Within a few business days, you should receive confirmation that your account was deleted.",
+        "notes": "Send an email to <a href=\"mailto:support@razeware.com\">support@razeware.com</a> with your account username and email address. Within a few business days, you should receive confirmation that your account was deleted.",
         "email": "support@razeware.com",
         "email_subject": "Account deletion request",
         "domains": [
@@ -12192,7 +12191,7 @@
         "url": "https://sedo.com/us/about-us/policies/protecting-your-privacy/",
         "email": "contact@sedo.com",
         "difficulty": "hard",
-        "notes": "You can only request account deletion by sending an email. \"Upon your request, we will deactivate and delete your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, email contact@sedo.com. Your account will be deactivated and deleted as soon as reasonably possible after we receive your request but no later than 30 days.\"",
+        "notes": "You can only request account deletion by sending an email. \"Upon your request, we will deactivate and delete your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, email <a href=\"mailto:contact@sedo.com\">contact@sedo.com</a>. Your account will be deactivated and deleted as soon as reasonably possible after we receive your request but no later than 30 days.\"",
         "domains": [
             "sedo.com"
         ]
@@ -13028,9 +13027,9 @@
         "name": "StepMap",
         "url": "https://www.stepmap.de/profil.php",
         "difficulty": "hard",
-        "notes": "To delete your StepMap account, let us know by sending an e-mail with info@stepmap.de and enter your username. The sender address must be your e-mail address that you have subscribed to at StepMap.",
+        "notes": "To delete your StepMap account, let us know by sending an e-mail with <a href=\"mailto:info@stepmap.de\">info@stepmap.de</a> and enter your username. The sender address must be your e-mail address that you have subscribed to at StepMap.",
         "notes_tr": "StepMap hesabınızı silmek için, bir e-posta göndererek bize bildirin ve kullanıcı adınızı girin. Gönderen adresi, StepMap'te abone olduğunuz e-posta adresiniz olmalıdır.",
-        "notes_de": "Um Deinen StepMap-Account zu löschen, teile uns dies bitte per E-Mail an info@stepmap.de mit und nenne uns Deinen Benutzernamen. Die Absenderadresse muss Deine E-Mail-Adresse sein, mit der Du Dich bei StepMap angemeldet hast.",
+        "notes_de": "Um Deinen StepMap-Account zu löschen, teile uns dies bitte per E-Mail an <a href=\"mailto:info@stepmap.de\">info@stepmap.de</a> mit und nenne uns Deinen Benutzernamen. Die Absenderadresse muss Deine E-Mail-Adresse sein, mit der Du Dich bei StepMap angemeldet hast.",
         "email": "info@stepmap.de",
         "domains": [
             "stepmap.de"
@@ -14117,7 +14116,7 @@
         "name": "Turo",
         "url": "https://support.turo.com/hc/en-us/articles/203991030-How-to-close-your-account",
         "difficulty": "hard",
-        "notes": "Email accountclosure@turo.com and request that they delete your personal information.",
+        "notes": "Email <a href=\"mailto:accountclosure@turo.com\">accountclosure@turo.com</a> and request that they delete your personal information.",
         "notes_tr": "Kendilerine e-posta gönderin ve kişisel bilgilerinizi silmelerini isteyin.",
         "email": "accountclosure@turo.com",
         "email_subject": "Account Deletion Request",
@@ -14330,7 +14329,7 @@
         "name": "Ultimate Guitar",
         "url": "https://www.ultimate-guitar.com/about/privacy.htm",
         "difficulty": "hard",
-        "notes": "Email privacy@ultimate-guitar.com and request that they delete your personal information.",
+        "notes": "Email <a href=\"mailto:privacy@ultimate-guitar.com\">privacy@ultimate-guitar.com</a> and request that they delete your personal information.",
         "email": "privacy@ultimate-guitar.com",
         "email_subject": "Request To Delete My Account From Your Database",
         "email_body": "I have an account in your database with the username ……………. and the email address that is linked to the account is ………………..\nI request that you kindly delete my account from your database and also wipe all notifications if any.",
