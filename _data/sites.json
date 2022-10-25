@@ -7125,8 +7125,7 @@
         "name": "Investopedia",
         "url": "https://invcontent.zendesk.com/hc/en-us/articles/360017064553-Account-Deletion",
         "difficulty": "hard",
-        "notes": "You must send an email to privacy@investopedia.com requesting the account deletion.",
-        "notes_pt_br": "You must send an email to privacy@investopedia.com requesting the account deletion.",
+        "notes": "You must send an email requesting the account deletion.",
         "email": "privacy@investopedia.com",
         "domains": [
             "investopedia.com"
