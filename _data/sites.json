@@ -6006,6 +6006,15 @@
     },
 
     {
+        "name": "Gradcracker",
+        "url": "https://www.gradcracker.com/my-gradcracker/my-account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "gradcracker.com"
+        ]
+    },
+
+    {
         "name": "Graduate-Jobs.com",
         "url": "https://www.graduate-jobs.com/sign-in/account/settings",
         "difficulty": "easy",
