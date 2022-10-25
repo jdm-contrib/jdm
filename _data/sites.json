@@ -15738,7 +15738,9 @@
         "notes_tr": "YouTube hesabınızı silmeden önce verilerinizin bir kopyasını talep edebilirsiniz.",
         "notes_ru": "Вы можете запросить копию данных перед удалением учетной записи YouTube.",
         "domains": [
-            "youtube.com"
+            "youtube.com",
+            "music.youtube.com",
+            "studio.youtube.com"
         ]
     },
 
