@@ -8927,7 +8927,21 @@
         "url": "https://account.live.com/closeaccount.aspx",
         "difficulty": "easy",
         "domains": [
-            "live.com"
+            "live.com",
+            "login.live.com",
+            "signup.live.com",
+            "microsoft.com",
+            "account.microsoft.com",
+            "dynamics.microsoft.com",
+            "learn.microsoft.com",
+            "news.microsoft.com",
+            "powerplatform.microsoft.com",
+            "privacy.microsoft.com",
+            "support.microsoft.com",
+            "techcommunity.microsoft.com",
+            "visualstudio.microsoft.com",
+            "login.microsoftonline.com",
+            "xbox.com"
         ]
     },
 
