@@ -12946,6 +12946,16 @@
     },
 
     {
+        "name": "Stan",
+        "url": "https://www.stan.com.au/privacy-policy",
+        "difficulty": "impossible",
+        "notes": "Stan provides no option to delete or deactivate your account, and will simply refuse if you send a request.",
+        "domains": [
+            "stan.com.au"
+        ]
+    },
+
+    {
         "name": "Standard Notes",
         "url": "https://standardnotes.com/reset",
         "difficulty": "easy",
