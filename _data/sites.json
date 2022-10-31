@@ -11730,7 +11730,8 @@
     },
     
     {
-        "name": "Render.com",
+        "name": "Render",
+        "url": "https://render.com/",
         "difficulty": "easy",
         "notes": "Go to your profile page, scroll to the bottom and click Delete Render Account.",
         "domains": [
