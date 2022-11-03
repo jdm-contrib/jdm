@@ -13197,6 +13197,13 @@
     },
 
     {
+        "name": "Subaru Maps",
+        "url": "https://subaru-maps.com/#/users/profile",
+        "difficulty": "easy",
+        "notes" : "Click the \"Delete User\" button in the bottom-right corner."
+    },
+
+    {
         "name": "Super Domínios",
         "url": "https://superdominios.org/contato/",
         "difficulty": "hard",
