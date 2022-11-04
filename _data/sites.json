@@ -11843,11 +11843,10 @@
 
     {
         "name": "Revolt",
-        "url": "https://revolt.chat",
-        "email": "contact@revolt.chat",
-        "email_subject": "Delete my account",
-        "difficulty": "hard",
-        "notes": "You need to send an email to support to delete your account and data.",
+        "url": "https://revolt.chat/settings",
+        "difficulty": "easy",
+        "notes": "Go to your account options and click on 'Mark Account for Deletion'.",
+        "notes_fr": "allez dans les options de votre compte et cliquez sur 'Marquer le compte pour la suppression'.",
         "domains": [
             "revolt.chat"
         ]
