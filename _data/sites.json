@@ -14436,6 +14436,15 @@
     },
 
     {
+        "name": "Uniqlo",
+        "url": "https://www.uniqlo.com/us/en/member/details",
+        "difficulty": "easy",
+        "domains": [
+            "uniqlo.com"
+        ]
+    },
+
+    {
         "name": "United Domains",
         "url": "https://www.united-domains.de/support/kontakt-formular/close//",
         "difficulty": "hard",
