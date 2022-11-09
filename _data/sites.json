@@ -12133,6 +12133,16 @@
     },
 
     {
+        "name": "Satispay",
+        "url": "https://disattivazione-account-satispay.paperform.co/",
+        "difficulty": "medium",
+        "notes": "Follow the steps in the form. You will need the mobile open with your account logged in to provide some details like the UID",
+        "domains": [
+            "satispay.com"
+        ]
+    },
+
+    {
         "name": "Scaleway",
         "url": "https://console.scaleway.com/#/account",
         "difficulty": "easy",
