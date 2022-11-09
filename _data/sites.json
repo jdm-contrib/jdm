@@ -11051,6 +11051,18 @@
     },
 
     {
+        "name": "postimage",
+        "url": "https://postimg.cc/profile/delete",
+        "difficulty": "easy",
+        "notes": "Log in, go to the linked website, enter your password and confirm",
+        "domains": [
+            "postimages.org",
+            "postimg.cc",
+            "i.postimg.cc"
+        ]
+    },
+
+    {
         "name": "Postman",
         "url": "https://app.getpostman.com/dashboard/profile",
         "difficulty": "easy",
