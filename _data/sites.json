@@ -10171,8 +10171,12 @@
         "name": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/account/deletion",
         "difficulty": "easy",
+        "notes": "Log In, go to the linked page and confirm the deletion",
         "domains": [
-            "openstreetmap.org"
+            "openstreetmap.org",
+            "community.openstreetmap.org",
+            "forum.openstreetmap.org",
+            "wiki.openstreetmap.org"
         ]
     },
 
