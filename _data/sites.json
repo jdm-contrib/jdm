@@ -12320,6 +12320,16 @@
     },
 
     {
+        "name": "Serverless",
+        "url": "https://app.serverless.com",
+        "difficulty": "easy",
+        "notes": "To delete your account, click your avatar and go to \"Profile\" page, click on \"delete account\" and then confirm the deletion by entering your username.",
+        "domains": [
+            "serverless.com"
+        ]
+    },
+
+    {
         "name": "Session",
         "url": "https://sessionapp.zendesk.com/hc/en-us/articles/7726435197849-How-can-I-delete-my-Session-account-",
         "difficulty": "easy",
