@@ -12323,10 +12323,10 @@
         "name": "Serverless",
         "url": "https://app.serverless.com",
         "difficulty": "easy",
+        "notes": "To delete your account, click your avatar and go to \"Profile\" page, click on \"delete account\" and then confirm the deletion by entering your username.",
         "domains": [
             "serverless.com"
-        ],
-        "notes": "To delete your account, click your avatar and go to \"Profile\" page, click on \"delete account\" and then confirm the deletion by entering your username."
+        ]
     },
 
     {
