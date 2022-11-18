@@ -7540,6 +7540,18 @@
             "keepa.com"
         ]
     },
+    
+    {
+        "name": "KDE Bugtracking System",
+        "url": "https://www.reddit.com/r/kde/comments/agyksj/comment/eea3sni",
+        "difficulty": "hard",
+        "notes": "You'll have to e-mail the sysadmin",
+        "notes_es": "Tendrás que enviar un correo al sysadmin",
+        "email": "sysadmin@kde.org"
+        "domains": [
+            "bugs.kde.org"
+        ]
+    },
 
     {
         "name": "Keeper",
