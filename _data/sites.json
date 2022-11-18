@@ -7543,10 +7543,10 @@
     
     {
         "name": "KDE Bugtracking System",
-        "url": "https://www.reddit.com/r/kde/comments/agyksj/comment/eea3sni",
+        "url": "https://bugs.kde.org",
         "difficulty": "hard",
-        "notes": "You'll have to e-mail the sysadmin",
-        "notes_es": "Tendrás que enviar un correo al sysadmin",
+        "notes": "You'll have to send an e-mail to sysadmin@kde.org",
+        "notes_es": "Tendrás que enviar un correo a sysadmin@kde.org",
         "email": "sysadmin@kde.org"
         "domains": [
             "bugs.kde.org"
