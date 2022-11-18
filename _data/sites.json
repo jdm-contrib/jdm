@@ -3121,6 +3121,17 @@
     },
 
     {
+        "name": "CV online",
+        "url": "https://cvonline.me/en/support/accounts/removing-account",
+        "difficulty": "hard",
+        "email": "hello@cvonline.me",
+        "notes": "Request account removal by sending an email at hello@cvonline.me from the same email address appearing on your CVs.",
+        "domains": [
+            "cvonline.me"
+        ]
+    },
+
+    {
         "name": "CVS Pharmacy",
         "url": "https://www.cvs.com/account/account-management.jsp",
         "difficulty": "medium",
