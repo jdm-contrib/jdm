@@ -7547,7 +7547,7 @@
         "difficulty": "hard",
         "notes": "You'll have to send an e-mail to them",
         "notes_es": "Tendrás que enviar un correo a ellos",
-        "email": "sysadmin@kde.org"
+        "email": "sysadmin@kde.org",
         "domains": [
             "bugs.kde.org"
         ]
