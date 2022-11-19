@@ -14917,6 +14917,18 @@
     },
 
     {
+        "name": "Wakanim",
+        "url": "https://www.wakanim.tv/sc/v2/static/contactus",
+        "url_fr": "https://www.wakanim.tv/fr/v2/static/contactus",
+        "url_de": "https://www.wakanim.tv/de/v2/static/contactus",
+        "difficulty": "medium",
+        "notes": "Fill the form with your username and mail, select category \"Account/Login\" and subcategory \"Account Deletion\". An e-mail confirmation will be sent.",
+        "domains": [
+            "wakanim.tv"
+        ]
+    },
+    
+    {
         "name": "Walmart",
         "url": "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=access",
         "difficulty": "hard",
