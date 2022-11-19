@@ -7531,17 +7531,6 @@
     },
 
     {
-        "name": "Keepa",
-        "url": "https://keepa.com",
-        "difficulty": "easy",
-        "notes": "Login to your account. Click on 'Settings', then 'Account'. Click 'Yes, delete my account', enter your password and click 'Delete account'.",
-        "notes_tr": "Hesabınıza giriş yapın, \"Ayarlar\" kısmına girin. \"Hesap\" menüsünden \"Evet, hesabımı sil\" tuşuna tıklayın. Şifrenizi girdikten sonra \"Hesabı Sil\" tuşuna tıklayın.",
-        "domains": [
-            "keepa.com"
-        ]
-    },
-    
-    {
         "name": "KDE Bugtracking System",
         "url": "https://bugs.kde.org",
         "difficulty": "hard",
@@ -7550,6 +7539,17 @@
         "email": "sysadmin@kde.org",
         "domains": [
             "bugs.kde.org"
+        ]
+    },
+
+    {
+        "name": "Keepa",
+        "url": "https://keepa.com",
+        "difficulty": "easy",
+        "notes": "Login to your account. Click on 'Settings', then 'Account'. Click 'Yes, delete my account', enter your password and click 'Delete account'.",
+        "notes_tr": "Hesabınıza giriş yapın, \"Ayarlar\" kısmına girin. \"Hesap\" menüsünden \"Evet, hesabımı sil\" tuşuna tıklayın. Şifrenizi girdikten sonra \"Hesabı Sil\" tuşuna tıklayın.",
+        "domains": [
+            "keepa.com"
         ]
     },
 
