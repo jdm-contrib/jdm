@@ -2483,7 +2483,7 @@
 
     {
         "name": "ClickUp",
-        "url": "https://app.clickup/settings/profile",
+        "url": "https://app.clickup.com/settings/profile",
         "difficulty": "easy",
         "notes": "Scroll to the bottom of the page and click the \"Delete Account\" button.",
         "domains": [
