@@ -14922,7 +14922,7 @@
         "url_fr": "https://www.wakanim.tv/fr/v2/static/contactus",
         "url_de": "https://www.wakanim.tv/de/v2/static/contactus",
         "difficulty": "medium",
-        "notes": "Fill the form with your username and mail, select category \"Account/Login\" and subcategory \"Account Deletion\". An e-mail confirmation will be sent.",
+        "notes": "Fill the form with your account's username and mail, select category \"Account/Login\" and subcategory \"Account Deletion\". Shortly after you will receive a mail that your request is being reviewed. You'll be notified via mail when the request is completed by support staff.",
         "domains": [
             "wakanim.tv"
         ]
