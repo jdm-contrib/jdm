@@ -3575,6 +3575,16 @@
     },
 
     {
+        "name": "Displate",
+        "url": "https://displate.com/settings",
+        "difficulty": "easy",
+        "notes": "Click the \"Deactivate account\" button.",
+        "domains": [
+            "displate.com"
+        ]
+    },
+
+    {
         "name": "Disqus",
         "url": "https://disqus.com/home/settings/account/",
         "difficulty": "easy",
