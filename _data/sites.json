@@ -2493,10 +2493,9 @@
 
     {
         "name": "ClickUp",
-        "url": "https://feedback.clickup.com/feature-requests/p/delete-account-3",
-        "difficulty": "hard",
-        "notes": "You must contact support in order to get your account deleted.",
-        "email": "help@clickup.com",
+        "url": "https://app.clickup.com/settings/profile",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the page and click the \"Delete Account\" button.",
         "domains": [
             "clickup.com",
             "app.clickup.com"
@@ -3131,6 +3130,17 @@
     },
 
     {
+        "name": "CV online",
+        "url": "https://cvonline.me/en/support/accounts/removing-account",
+        "difficulty": "hard",
+        "email": "hello@cvonline.me",
+        "notes": "Request account removal by sending an email to them from the same email address appearing on your CVs.",
+        "domains": [
+            "cvonline.me"
+        ]
+    },
+
+    {
         "name": "CVS Pharmacy",
         "url": "https://www.cvs.com/account/account-management.jsp",
         "difficulty": "medium",
@@ -3570,6 +3580,16 @@
             "try.discourse.org",
             "twittercommunity.com",
             "users.rust-lang.org"
+        ]
+    },
+
+    {
+        "name": "Displate",
+        "url": "https://displate.com/settings",
+        "difficulty": "easy",
+        "notes": "Click the \"Deactivate account\" button.",
+        "domains": [
+            "displate.com"
         ]
     },
 
@@ -7541,6 +7561,18 @@
     },
 
     {
+        "name": "KDE Bugtracking System",
+        "url": "https://bugs.kde.org",
+        "difficulty": "hard",
+        "notes": "You'll have to send an e-mail to them",
+        "notes_es": "Tendrás que enviar un correo a ellos",
+        "email": "sysadmin@kde.org",
+        "domains": [
+            "bugs.kde.org"
+        ]
+    },
+
+    {
         "name": "Keepa",
         "url": "https://keepa.com",
         "difficulty": "easy",
@@ -10902,6 +10934,16 @@
     },
 
     {
+        "name": "Plugin Boutique",
+        "url": "https://help.pluginboutique.com/hc/en-us/requests/new?ticket_form_id=8801812364052",
+        "difficulty": "hard",
+        "notes": "Fill out the ticket form to request deletion, using the same email of the account.",
+        "domains": [
+            "pluginboutique.com"
+        ]
+    },
+
+    {
         "name": "Pluralsight",
         "url": "https://help.pluralsight.com/help/how-do-i-delete-my-account",
         "difficulty": "easy",
@@ -12326,6 +12368,16 @@
         "difficulty": "easy",
         "domains": [
             "sentry.io"
+        ]
+    },
+
+    {
+        "name": "Serverless",
+        "url": "https://app.serverless.com",
+        "difficulty": "easy",
+        "notes": "To delete your account, click your avatar and go to \"Profile\" page, click on \"delete account\" and then confirm the deletion by entering your username.",
+        "domains": [
+            "serverless.com"
         ]
     },
 
@@ -14913,6 +14965,18 @@
         "notes_pt_pt": "Preencha o formulario, selecionando \"Customer/Former Customer\" e \"Delete My Information\". Será enviada uma hiperligação de confirmação para o seu e-mail.",
         "domains": [
             "wahoofitness.com"
+        ]
+    },
+
+    {
+        "name": "Wakanim",
+        "url": "https://www.wakanim.tv/sc/v2/static/contactus",
+        "url_fr": "https://www.wakanim.tv/fr/v2/static/contactus",
+        "url_de": "https://www.wakanim.tv/de/v2/static/contactus",
+        "difficulty": "hard",
+        "notes": "Fill the form with your account's username and mail, select category \"Account/Login\" and subcategory \"Account Deletion\". Shortly after you will receive a mail that your request is being reviewed. You'll be notified via mail when the request is completed by support staff.",
+        "domains": [
+            "wakanim.tv"
         ]
     },
 
