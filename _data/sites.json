@@ -3321,6 +3321,16 @@
     },
 
     {
+        "name": "Depop",
+        "url": "https://depophelp.zendesk.com/hc/en-gb/articles/360001772988-How-can-I-delete-my-Depop-account-",
+        "difficulty": "hard",
+        "notes": "Select 'I want to delete my account' in the support request page.",
+        "domains": [
+            "depop.com"
+        ]
+    },
+
+    {
         "name": "Depositphotos",
         "url": "https://depositphotos.com",
         "difficulty": "hard",
