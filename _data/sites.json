@@ -663,6 +663,15 @@
     },
 
     {
+        "name": "All 4 / Channel 4",
+        "url": "https://4id.channel4.com/account#!/close",
+        "difficulty": "easy",
+        "domains": [
+            "4id.channel4.com"
+        ]
+    },
+
+    {
         "name": "AllDebrid",
         "url": "https://alldebrid.com/account/#accountDelete",
         "difficulty": "easy",
