@@ -2293,6 +2293,16 @@
     },
 
     {
+        "name": "CDKeys",
+        "url": "https://www.cdkeys.com/user/profile/",
+        "difficulty": "easy",
+        "notes": "Use the delete account button at the bottom of the page",
+        "domains": [
+            "cdkeys.com"
+        ]
+    },
+
+    {
         "name": "CDON.COM",
         "url": "https://help.cdon.com/hc/sv/articles/360022459751-Hur-tar-jag-bort-mitt-konto-",
         "difficulty": "hard",
