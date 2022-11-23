@@ -6572,6 +6572,17 @@
     },
 
     {
+        "name": "Hive Social",
+        "url": "https://www.hivesocial.app/help-center/deactivation",
+        "difficulty": "hard",
+        "notes": "Email their support with username and associated Email address to delete your account.",
+        "email": "support@hivesocial.app",
+        "domains": [
+            "hivesocial.app"
+        ]
+    },
+
+    {
         "name": "HOL Virtual Hogwarts",
         "url": "https://hol.org.uk/profile.php?view=quithol",
         "difficulty": "impossible",
