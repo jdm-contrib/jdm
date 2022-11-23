@@ -3090,6 +3090,16 @@
     },
 
     {
+        "name": "CryptoVoucher",
+        "url": "https://cryptovoucher.io/account/settings",
+        "difficulty": "easy",
+        "notes": "Just click the close account button in the account settings",
+        "domains": [
+            "cryptovoucher.io"
+        ]
+    },
+
+    {
         "name": "CryptPad",
         "url": "https://cryptpad.fr/settings/",
         "difficulty": "easy",
