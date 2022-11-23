@@ -156,6 +156,16 @@
     },
 
     {
+        "name": "7plus",
+        "url": "https://support.7plus.com.au/hc/en-au/requests/new",
+        "difficulty": "hard",
+        "notes": "Create a new request, select the 'Reason For Contact' as 'Account Related' and then under 'Please choose the issue' select 'Close 7plus account'. Supply the appropriate email and name, then send the request.",
+        "domains": [
+            "7plus.com.au"
+        ]
+    },
+
+    {
         "name": "8tracks",
         "url": "https://8tracks.com/",
         "difficulty": "impossible",
@@ -4526,6 +4536,16 @@
         "email": "privacy@fairphone.com",
         "domains": [
             "fairphone.com"
+        ]
+    },
+
+    {
+        "name": "Fanatical",
+        "url": "https://support.fanatical.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Create a support ticket requesting for a closure of your account.",
+        "domains": [
+            "fanatical.com"
         ]
     },
 
