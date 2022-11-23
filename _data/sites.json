@@ -4538,7 +4538,17 @@
             "fairphone.com"
         ]
     },
-
+    
+    {
+        "name": "Fanatical",
+        "url": "https://support.fanatical.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Create a support ticket requesting for a closure of your account.",
+        "domains": [
+            "fanatical.com"
+        ]
+    },
+    
     {
         "name": "Fandom Wikia",
         "url": "https://community.wikia.com/wiki/Special:CloseMyAccount",
