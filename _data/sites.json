@@ -4024,6 +4024,15 @@
     },
 
     {
+        "name": "DWService",
+        "url": "https://www.dwservice.net/session.dw#s",
+        "difficulty": "easy",
+        "domains": [
+            "dwservice.net"
+        ]
+    },
+
+    {
         "name": "Dynadot",
         "url": "https://www.dynadot.com/community/help/question/close-dynadot-account",
         "difficulty": "hard",
