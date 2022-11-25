@@ -4523,6 +4523,16 @@
     },
 
     {
+        "name": "EZsniper",
+        "url": "https://www.ezsniper.com/contact.php",
+        "difficulty": "hard",
+        "notes": "You have to fill in the contact form with the appropriate details, then in the body request for the deletion of your account and all data attached.",
+        "domains": [
+            "ezsniper.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
