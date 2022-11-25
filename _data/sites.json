@@ -4113,16 +4113,6 @@
     },
 
     {
-        "name": "EZsniper",
-        "url": "https://www.ezsniper.com/contact.php",
-        "difficulty": "hard",
-        "notes": "You have to fill in the contact form with the appropriate details, then in the body request for the deletion of your account and all data attached.",
-        "domains": [
-            "ezsniper.com"
-        ]
-    },
-
-    {
         "name": "EatStreet",
         "url": "https://eatstreet.com/contact",
         "difficulty": "hard",
@@ -4529,6 +4519,16 @@
         "email_body": "To whom it may concern,%0D%0A%0D%0AI am reaching out to you to request the cancellation and deletion of the ExpressVPN account attached to this Email address and its data as I am no longer using the service.%0D%0A%0D%0ABest Regards",
         "domains": [
             "expressvpn.com"
+        ]
+    },
+
+    {
+        "name": "EZsniper",
+        "url": "https://www.ezsniper.com/contact.php",
+        "difficulty": "hard",
+        "notes": "You have to fill in the contact form with the appropriate details, then in the body request for the deletion of your account and all data attached.",
+        "domains": [
+            "ezsniper.com"
         ]
     },
 
