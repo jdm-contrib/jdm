@@ -4598,6 +4598,16 @@
     },
 
     {
+        "name": "FamilySearch",
+        "url": "https://www.familysearch.org/identity/settings/account",
+        "difficulty": "easy",
+        "notes": "Go into your account settings and then click \"Delete Account\" (at the bottom of the page).",
+        "domains": [
+            "familysearch.org"
+        ]
+    },
+
+    {
         "name": "Fanatical",
         "url": "https://support.fanatical.com/hc/en-us/requests/new",
         "difficulty": "hard",
