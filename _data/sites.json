@@ -2259,6 +2259,16 @@
             "careerbuilder.com"
         ]
     },
+    
+    {
+        "name": "Carrd.co",
+        "url": "https://carrd.co/dashboard/account/delete",
+        "difficulty": "easy",
+        "notes": "Just enter password and confirm deletion!",
+        "domains": [
+            "carrd.co"
+        ]
+    },
 
     {
         "name": "Castbox",
