@@ -15982,7 +15982,7 @@
         "name": "Yousician",
         "url": "https://account.yousician.com/",
         "difficulty": "easy",
-        "notes": "Go to your account (scroll down) and click \"Delete account\" in the \"Advanced Settings\" section. You will be prompted to enter your password.",
+        "notes": "Go to your account, scroll down and click \"Delete account\" in the \"Advanced Settings\" section. You will be prompted to enter your password.",
         "domains": [
             "yousician.com"
         ]
