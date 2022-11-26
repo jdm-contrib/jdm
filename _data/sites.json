@@ -2261,6 +2261,16 @@
     },
 
     {
+        "name": "Carrd.co",
+        "url": "https://carrd.co/dashboard/account/delete",
+        "difficulty": "easy",
+        "notes": "Just enter password and confirm deletion!",
+        "domains": [
+            "carrd.co"
+        ]
+    },
+
+    {
         "name": "Castbox",
         "url": "https://helpcenter.castbox.fm/portal/en/kb/articles/delete-account",
         "email": "contact@castbox.fm",
