@@ -2368,6 +2368,17 @@
     },
 
     {
+        "name": "cgtrader",
+        "url": "https://help.cgtrader.com/hc/en-us/articles/4402420280081-How-can-I-delete-my-account-",
+        "email": "support@cgtrader.com",
+        "difficulty": "hard",
+        "notes": "Request account removal by sending an email to them requesting for account deletion. Personal data will be stored for 2 years after your last login",
+        "domains": [
+            "cgtrader.com"
+        ]
+    },
+
+    {
         "name": "Challonge",
         "url": "https://challonge.com/settings/delete_account",
         "difficulty": "easy",
