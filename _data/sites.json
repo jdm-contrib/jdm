@@ -13075,6 +13075,16 @@
     },
 
     {
+        "name": "Splice",
+        "url": "https://splice.com/profile/settings",
+        "difficulty": "easy",
+        "notes": "Select 'Delete account' at the bottom of the page.",
+        "domains": [
+            "splice.com"
+        ]
+    },
+
+    {
         "name": "Splitwise",
         "url": "https://secure.splitwise.com/account/settings",
         "difficulty": "easy",
