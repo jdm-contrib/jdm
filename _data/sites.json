@@ -10909,7 +10909,7 @@
         "name": "Pixilart",
         "url": "https://www.pixilart.com/settings/delete",
         "difficulty": "easy",
-        "notes": "Fairly simple process but can be hard to find the delete link",
+        "notes": "Fairly simple process, but can be hard to find the delete link",
         "domains": [
             "pixilart.com"
         ]
