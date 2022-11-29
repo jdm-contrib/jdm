@@ -9133,6 +9133,16 @@
     },
 
     {
+        "name": "Mine",
+        "url": "https://saymineapp.com/profile",
+        "difficulty": "easy",
+        "notes": "Click 'Delete your Mine Account' at the bottom of the page, acknowledge that you wish to proceed and click 'Delete my Account'",
+        "domains": [
+            "saymineapp.com"
+        ]
+    },
+
+    {
         "name": "Minecraft",
         "url": "https://help.minecraft.net/hc/en-us/requests/new",
         "notes": "On this page, chose the dropdown boxes that apply. Preferably use the email address that the account is associated with. You will be required to supply the transaction ID for the purchase of the account, or any other valid proof-of-purchase. If you have migrated to a Microsoft account, visit <a href='https://support.xbox.com/contact-us'>Xbox Support</a>, sign in, and start a session with the virtual agent. Specify that your minecraft profile is linked to your microsoft account, and that you wish for it to be deleted. Alternatively, if you do not use your Microsoft account for anything else, you can <a href='https://account.live.com/closeaccount.aspx'>delete it</a> entirely.",
