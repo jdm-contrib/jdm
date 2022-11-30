@@ -2103,6 +2103,16 @@
     },
 
     {
+        "name": "Busuu",
+        "url": "https://bussu.com",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete my account' button at the bottom of the page, then confirm you'd like to delete your account",
+        "domains": [
+            "busuu.com"
+        ]
+    },
+
+    {
         "name": "Buycott",
         "url": "https://www.buycott.com",
         "difficulty": "hard",
@@ -12923,12 +12933,8 @@
     {
         "name": "SoloLearn",
         "url": "https://www.sololearn.com",
-        "difficulty": "hard",
-        "notes": "E-mail requesting a full deletion. It takes 30 days for it to be irreversible.",
-        "notes_tr": "Kendilerine e-posta göndererek hesabınızın tamamen silinmesi isteyin. Geri döndürülemez hale gelmesi 30 gün sürer.",
-        "email": "info@sololearn.com",
-        "email_subject": "Delete Account",
-        "email_body": "I want to permanently delete my account from SoloLearn",
+        "difficulty": "easy",
+        "notes": "Go to Profile > Settings > Delete account",
         "domains": [
             "sololearn.com"
         ]
