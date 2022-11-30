@@ -2104,7 +2104,7 @@
 
     {
         "name": "Busuu",
-        "url": "https://bussu.com",
+        "url": "https://www.busuu.com/dashboard#/settings/account",
         "difficulty": "easy",
         "notes": "Click the 'Delete my account' button at the bottom of the page, then confirm you'd like to delete your account",
         "domains": [
