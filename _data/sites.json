@@ -10907,9 +10907,9 @@
 
     {
         "name": "Pixilart",
-        "url": "https://www.pixilart.com/",
-        "difficulty": "impossible",
-        "notes": "You can deactivate your account in 'Account Settings' -> 'Deactivate Account', but you can't completely delete it",
+        "url": "https://www.pixilart.com/settings/delete",
+        "difficulty": "easy",
+        "notes": "Fairly simple process, just follow the link.",
         "domains": [
             "pixilart.com"
         ]
