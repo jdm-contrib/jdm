@@ -2368,6 +2368,17 @@
     },
 
     {
+        "name": "cgtrader",
+        "url": "https://help.cgtrader.com/hc/en-us/articles/4402420280081-How-can-I-delete-my-account-",
+        "email": "support@cgtrader.com",
+        "difficulty": "hard",
+        "notes": "Request account removal by sending an email to them requesting for account deletion. Personal data will be stored for 2 years after your last login",
+        "domains": [
+            "cgtrader.com"
+        ]
+    },
+
+    {
         "name": "Challonge",
         "url": "https://challonge.com/settings/delete_account",
         "difficulty": "easy",
@@ -13075,6 +13086,16 @@
     },
 
     {
+        "name": "Splice",
+        "url": "https://splice.com/profile/settings",
+        "difficulty": "easy",
+        "notes": "Select 'Delete account' at the bottom of the page.",
+        "domains": [
+            "splice.com"
+        ]
+    },
+
+    {
         "name": "Splitwise",
         "url": "https://secure.splitwise.com/account/settings",
         "difficulty": "easy",
@@ -16031,6 +16052,17 @@
         "notes_tr": "Sayfanın altındaki \"Hesabınızı silmek için buraya tıklayın\" tuşuna tıklayın.",
         "domains": [
             "yummly.com"
+        ]
+    },
+
+    {
+        "name": "YUR",
+        "url": "https://yur.fit/yur-privacy-policy",
+        "difficulty": "limited",
+        "email": "hi@yur.fit",
+        "notes": "Requests will be processed in accordance with local laws. Request account removal by sending an email to them. Include your full name, email address associated with your account and a detailed description of your data request.",
+        "domains": [
+            "yur.fit"
         ]
     },
 
