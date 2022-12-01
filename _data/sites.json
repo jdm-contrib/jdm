@@ -3379,6 +3379,16 @@
             "delta.com"
         ]
     },
+    
+    {
+        "name": "DelugeRPG",
+        "url": "https://www.delugerpg.com/faq#delete",
+        "difficulty": "impossible",
+        "notes": "There is no way to delete an account. Inactive acccounts are deleted automatically after 15 months.",
+        "domains": [
+            "delugerpg.com"
+        ]
+    },
 
     {
         "name": "Depop",
@@ -10486,6 +10496,17 @@
         "notes": "Visit the linked page and click 'Delete Account Permanently'.",
         "domains": [
             "packagist.org"
+        ]
+    },
+
+    {
+        "name": "Packt",
+        "url": "https://www.packtpub.com/",
+        "difficulty": "hard",
+        "email": "subscription.support@packtpub.com",
+        "notes": "Send an email to subscription.support@packtpub.com requesting deletion. If you have a subscription plan or free trial be sure to cancel it.",
+        "domains": [
+            "packtpub.com"
         ]
     },
 
