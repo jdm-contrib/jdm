@@ -3383,7 +3383,7 @@
     {
         "name": "DelugeRPG",
         "url": "https://www.delugerpg.com/faq#delete",
-        "difficulty": "impossible",
+        "difficulty": "hard",
         "notes": "There is no way to delete an account. Inactive accounts are deleted automatically after 15 months.",
         "domains": [
             "delugerpg.com"
