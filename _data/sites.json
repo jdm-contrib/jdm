@@ -7261,7 +7261,7 @@
         "name": "Intercity",
         "url": "https://bilet.intercity.pl/login",
         "difficulty": "easy",
-        "notes": "After singing in go to \"My data\", scroll down, click \"To remove account click here\", and provide password. If you bought any ticket on this account, it will be deleted in 15 months to the last purchase (account will be locked, and you won't have any option to buy tickets), otherwise it will be deleted immediately.",
+        "notes": "After signing in go to \"My data\", scroll down, click \"To remove account click here\", and provide password. If you bought any ticket on this account, it will be deleted 15 months after the last purchase (account will be locked, and you won't have any option to buy tickets), otherwise it will be deleted immediately.",
         "domains": [
             "intercity.pl"
         ]
