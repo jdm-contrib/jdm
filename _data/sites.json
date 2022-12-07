@@ -5594,10 +5594,7 @@
         "name": "Glovo",
         "url": "https://glovoapp.com/en/support",
         "difficulty": "hard",
-        "notes": "Enter the app and click on the upper right profile icon, then on the green 'Help' icon in the upper right corner and then select 'Not related to an order' > 'Account details' > 'Delete my account and data' and submit it after requesting a deletion in freetext form",
-        "notes_tr": "Destek sitesini ziyaret edin ve \"Siparişle alakalı değil\" \"Hesap Bilgisi\" \"Hesabımı ve verilerimi sil\" tuşuna tıklayın",
-        "notes_es": "Entrar en la web de soporte y pulsar en 'Not related to an order' > 'Account information' > 'Delete my account and data'",
-        "notes_cat": "Entrar al web de suport i prémer a 'Not related to an order' > 'Account information' > 'Delete my account and data'",
+        "notes": "Enter the app and click on the upper right profile icon, then on the green 'Help' icon in the upper right corner and then
         "domains": [
             "glovoapp.com"
         ]
