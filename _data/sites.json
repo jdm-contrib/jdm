@@ -7258,6 +7258,16 @@
     },
 
     {
+        "name": "Intercity",
+        "url": "https://bilet.intercity.pl/login",
+        "difficulty": "easy",
+        "notes": "After signing in go to \"My data\", scroll down, click \"To remove account click here\", and provide password. If you bought any ticket on this account, it will be deleted 15 months after the last purchase (account will be locked, and you won't have any option to buy tickets), otherwise it will be deleted immediately.",
+        "domains": [
+            "intercity.pl"
+        ]
+    },
+
+    {
         "name": "Internet Archive",
         "url": "https://archive.org/account/index.php?settings=1",
         "difficulty": "easy",
@@ -10694,6 +10704,16 @@
         "notes": "You must resolve any account limitations and outstanding payments or balance before closing.",
         "domains": [
             "paypal.com"
+        ]
+    },
+
+    {
+        "name": "PaySafeCard",
+        "url": "https://login.paysafecard.com/customer-auth/?client_id=mypinsPR&theme=mypins&locale=en_US&redirect_uri=https%3A%2F%2Fmy.paysafecard.com%2Fmypins-psc%2FtokenExchange.xhtml",
+        "difficulty": "easy",
+        "notes": "You can only delete an account on the computer. Go to account settings, then click \"Delete account\".",
+        "domains": [
+            "paysafecard.com"
         ]
     },
 
