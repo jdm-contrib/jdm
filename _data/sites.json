@@ -984,6 +984,16 @@
     },
 
     {
+        "name": "Appypie",
+        "url": "https://accounts.appypie.com/privacy",
+        "difficulty": "easy",
+        "notes": "Under Privacy Settings click on 'Delete / Deactivate Account' then click on 'Delete Account' and confirm and specify a reason.",
+        "domains": [
+            "appypie.com"
+        ]
+    },
+
+    {
         "name": "ara.cat",
         "url": "https://www.ara.cat/",
         "email": "home@ara.cat",
