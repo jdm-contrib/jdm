@@ -1271,6 +1271,16 @@
     },
 
     {
+        "name": "AVG",
+        "url": "https://profile.avg.com/",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete Account' at the bottom of the page, then 'Continue Deleting' and enter your password to delete account.",
+        "domains": [
+            "avg.com"
+        ]
+    },
+
+    {
         "name": "Avira",
         "url": "https://support.avira.com/hc/en-us/articles/360000753557--How-can-I-delete-my-Avira-account",
         "difficulty": "easy",
@@ -13460,6 +13470,16 @@
     },
 
     {
+        "name": "Studio",
+        "url": "https://studio.com/settings?page=advanced",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete My Account' and confirm you'd like to delete it.",
+        "domains": [
+            "studio.com"
+        ]
+    },
+
+    {
         "name": "StudyMode",
         "url": "https://www.studymode.com/about-us/contact",
         "difficulty": "hard",
@@ -14444,6 +14464,16 @@
         "notes": "Under the profile page navigate to the \"other\" tab, then select \"Delete My Account\".",
         "domains": [
             "tryhackme.com"
+        ]
+    },
+
+    {
+        "name": "TubeBuddy",
+        "url": "https://www.tubebuddy.com/account/deleteuser",
+        "difficulty": "easy",
+        "notes": "Click on 'YES, Delete My Account' and then confirm to delete.",
+        "domains":[
+            "tubebuddy.com"
         ]
     },
 
