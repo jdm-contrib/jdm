@@ -6798,6 +6798,16 @@
     },
 
     {
+        "name": "Hostinger",
+        "url": "https://hpanel.hostinger.com/profile/personal-information",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete account' at the bottom of the page, click on continue and then confirm you'd like to delete your account.",
+        "domains": [
+            "hostinger.com"
+        ]
+    },
+
+    {
         "name": "Hot or Not",
         "url": "https://hotornot.com",
         "difficulty": "easy",
