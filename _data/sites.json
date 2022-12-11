@@ -14472,8 +14472,19 @@
         "url": "https://www.tubebuddy.com/account/deleteuser",
         "difficulty": "easy",
         "notes": "Click on 'YES, Delete My Account' and then confirm to delete.",
-        "domains":[
+        "domains": [
             "tubebuddy.com"
+        ]
+    },
+
+    {
+        "name": "Tubi",
+        "url": "https://tubitv.com/account",
+        "difficulty": "easy",
+        "notes": "Click on'Delete Account' at the bottom of the page, specify why you'd like to delete your account and enter your password.",
+        "domains": [
+            "tubitv.com",
+            "tubi.com"
         ]
     },
 
