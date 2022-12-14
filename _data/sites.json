@@ -12005,6 +12005,16 @@
     },
 
     {
+        "name": "Remitly",
+        "url": "https://help.remitly.com/s/article/delete-account",
+        "difficulty": "hard",
+        "notes": "Contact the customer support and request the deletion of your account.",
+        "domains": [
+            "remitly.com"
+        ]
+    },
+
+    {
         "name": "Render",
         "url": "https://render.com/",
         "difficulty": "easy",
@@ -15286,6 +15296,16 @@
             "na.wargaming.net",
             "eu.wargaming.net",
             "asia.wargaming.net"
+        ]
+    },
+
+    {
+        "name": "Warmshowers",
+        "url": "https://www.warmshowers.org/privacy",
+        "difficulty": "easy",
+        "notes": "Click the \"Cancel account\" button at the bottom of the page when editing your account.",
+        "domains": [
+            "warmshowers.org"
         ]
     },
 
