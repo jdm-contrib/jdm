@@ -984,6 +984,16 @@
     },
 
     {
+        "name": "Appypie",
+        "url": "https://accounts.appypie.com/privacy",
+        "difficulty": "easy",
+        "notes": "Under Privacy Settings click on 'Delete / Deactivate Account' then click on 'Delete Account' and confirm and specify a reason.",
+        "domains": [
+            "appypie.com"
+        ]
+    },
+
+    {
         "name": "ara.cat",
         "url": "https://www.ara.cat/",
         "email": "home@ara.cat",
@@ -1257,6 +1267,16 @@
             "id.avast.com",
             "profile.avast.com",
             "support.avast.com"
+        ]
+    },
+
+    {
+        "name": "AVG",
+        "url": "https://profile.avg.com/",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete Account' at the bottom of the page, then 'Continue Deleting' and enter your password to delete account.",
+        "domains": [
+            "avg.com"
         ]
     },
 
@@ -5645,10 +5665,7 @@
         "name": "Glovo",
         "url": "https://glovoapp.com/en/support",
         "difficulty": "hard",
-        "notes": "Enter the support website and click on 'Not related to an order' > 'Account information' > 'Delete my account and data'",
-        "notes_tr": "Destek sitesini ziyaret edin ve \"Siparişle alakalı değil\" \"Hesap Bilgisi\" \"Hesabımı ve verilerimi sil\" tuşuna tıklayın",
-        "notes_es": "Entrar en la web de soporte y pulsar en 'Not related to an order' > 'Account information' > 'Delete my account and data'",
-        "notes_cat": "Entrar al web de suport i prémer a 'Not related to an order' > 'Account information' > 'Delete my account and data'",
+        "notes": "Enter the app and click on the upper right profile icon, then on the green 'Help' icon in the upper right corner and then select 'Not related to an order' > 'Account details' > 'Delete my account and data' and submit it after requesting a deletion in freetext form",
         "domains": [
             "glovoapp.com"
         ]
@@ -6787,6 +6804,16 @@
         "notes_de": "Du kannst persönliche Daten Löschen. Wenn du Soziale Netzwerke zum Anmelden benutzt hast kannst du die Verbindung zu diesen trennen.",
         "domains": [
             "hostelsclub.com"
+        ]
+    },
+
+    {
+        "name": "Hostinger",
+        "url": "https://hpanel.hostinger.com/profile/personal-information",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete account' at the bottom of the page, click on continue and then confirm you'd like to delete your account.",
+        "domains": [
+            "hostinger.com"
         ]
     },
 
@@ -9093,6 +9120,16 @@
     },
 
     {
+        "name": "MetalPay",
+        "url": "https://help.metalpay.com/hc/en-us/articles/4409445335063-How-do-I-close-my-Metal-Pay-account-",
+        "difficulty": "hard",
+        "notes": "Contact customer support to delete your account.",
+        "domains": [
+            "metalpay.com"
+        ]
+    },
+
+    {
         "name": "Mi Account",
         "url": "https://account.xiaomi.com/pass/del",
         "difficulty": "easy",
@@ -9152,6 +9189,16 @@
         "domains": [
             "milanote.com",
             "app.milanote.com"
+        ]
+    },
+
+    {
+        "name": "Mimo",
+        "url": "https://getmimo.com/settings",
+        "difficulty":"easy",
+        "notes": "Click on 'Delete my account' then 'Delete Account' to delete your account.",
+        "domains": [
+            "getmimo.com"
         ]
     },
 
@@ -11000,10 +11047,9 @@
 
     {
         "name": "Pixlr",
-        "url": "https://pixlr.com/terms-of-use/#:~:text=You%20may%20also%20delete%20Your,data%20related%20to%20Your%20Account.",
-        "difficulty": "hard",
-        "email": "info@pixlr.com",
-        "notes": "Click on 'Remove account'.",
+        "url": "https://pixlr.com/myaccount/",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete account' under your profile settings, state why you want it to be delete and enter your password.",
         "domains": [
             "pixlr.com"
         ]
@@ -11965,6 +12011,16 @@
         "notes_tr": "Sayfanın altına gidin ve 'Hesabı Sil' tuşuna tıklayın",
         "domains": [
             "remind.com"
+        ]
+    },
+
+    {
+        "name": "Remitly",
+        "url": "https://help.remitly.com/s/article/delete-account",
+        "difficulty": "hard",
+        "notes": "Contact the customer support and request the deletion of your account.",
+        "domains": [
+            "remitly.com"
         ]
     },
 
@@ -13434,6 +13490,16 @@
     },
 
     {
+        "name": "Studio",
+        "url": "https://studio.com/settings?page=advanced",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete My Account' and confirm you'd like to delete it.",
+        "domains": [
+            "studio.com"
+        ]
+    },
+
+    {
         "name": "StudyMode",
         "url": "https://www.studymode.com/about-us/contact",
         "difficulty": "hard",
@@ -14402,12 +14468,43 @@
     },
 
     {
+        "name": "Trustpilot",
+        "url": "https://www.trustpilot.com/users/settings",
+        "difficulty": "easy",
+        "notes": "Click 'Delete my profile' at the bottom of the page, then enter your email address to delete.",
+        "domains": [
+            "trustpilot.com"
+        ]
+    },
+
+    {
         "name": "TryHackMe",
         "url": "https://tryhackme.com/profile",
         "difficulty": "easy",
         "notes": "Under the profile page navigate to the \"other\" tab, then select \"Delete My Account\".",
         "domains": [
             "tryhackme.com"
+        ]
+    },
+
+    {
+        "name": "TubeBuddy",
+        "url": "https://www.tubebuddy.com/account/deleteuser",
+        "difficulty": "easy",
+        "notes": "Click on 'YES, Delete My Account' and then confirm to delete.",
+        "domains": [
+            "tubebuddy.com"
+        ]
+    },
+
+    {
+        "name": "Tubi",
+        "url": "https://tubitv.com/account",
+        "difficulty": "easy",
+        "notes": "Click on'Delete Account' at the bottom of the page, specify why you'd like to delete your account and enter your password.",
+        "domains": [
+            "tubitv.com",
+            "tubi.com"
         ]
     },
 
@@ -15209,6 +15306,16 @@
             "na.wargaming.net",
             "eu.wargaming.net",
             "asia.wargaming.net"
+        ]
+    },
+
+    {
+        "name": "Warmshowers",
+        "url": "https://www.warmshowers.org/privacy",
+        "difficulty": "easy",
+        "notes": "Click the \"Cancel account\" button at the bottom of the page when editing your account.",
+        "domains": [
+            "warmshowers.org"
         ]
     },
 
