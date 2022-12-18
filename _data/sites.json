@@ -9482,6 +9482,16 @@
     },
 
     {
+        "name": "MSI",
+        "url": "https://www.account.msi.com/",
+        "difficulty": "easy",
+        "notes": "On your account page, in Account section, go to Login Management, and in DELETE ACCOUNT click Delete.",
+        "domains": [
+            "account.msi.com"
+        ]
+    },
+
+    {
         "name": "Muambator",
         "url": "https://www.muambator.com.br/perfil/minha-conta/",
         "difficulty": "easy",
