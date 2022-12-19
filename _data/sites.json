@@ -3268,8 +3268,8 @@
     {
         "name": "Dailywire",
         "url": "https://privacy.dailywire.com/",
-        "difficulty": "easy",
-        "notes": "Click \"Delete Your Data\" and enter the verification code the company sends.",
+        "difficulty": "medium",
+        "notes": "Click \"Delete Your Data\" and enter the verification code the company sends to your account email.",
         "domains": [
             "dailywire.com"
         ]
