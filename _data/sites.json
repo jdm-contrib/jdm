@@ -3266,6 +3266,17 @@
     },
 
     {
+        "name": "Dailywire",
+        "url": "https://privacy.dailywire.com/",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Your Data\" and enter the verification code the company sends.",
+        "domains": [
+            "dailywire.com"
+        ]
+    },
+
+
+    {
         "name": "DansTonChat",
         "url": "https://danstonchat.com/user/delete.html",
         "difficulty": "easy",
