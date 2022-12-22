@@ -11,7 +11,15 @@
             "ecloud.global"
         ]
     },
-
+  {
+        "name": "Vive La Mode",
+        "url": "https://vive-lamode.com",
+        "difficulty": "easy",
+        "notes": "Contact support using the linked form or by email and request account deletion.",
+        "domains": [
+            "vive-lamode.com"
+        ]
+    },
     {
         "name": "000Webhost",
         "url": "https://000webhost.com/members/profile",
