@@ -7,6 +7,7 @@
     "difficulty_easy": "쉬움",
     "difficulty_hard": "어려움",
     "difficulty_impossible": "불가능",
+    "difficulty_limited": "제한적으로 가능",
     "difficulty_medium": "보통",
     "extension": "구글 크롬 확장 프로그램",
     "extensionguide": "정보 표시 점의 색상 가이드",
@@ -22,6 +23,7 @@
     "guideexplanations": "위에 보이는 링크들의 색깔은 계정 삭제 난이도에 따라 다음과 같이 정해져 있습니다 :",
     "guidehard": "고객 서비스에 연락하지 않고는 완전히 삭제할 수 없음",
     "guideimpossible": "삭제할 수 없음",
+    "guidelimited": "개인정보 보호 관련 권리(유럽의 GDPR 등)가 적용되는 지역에 거주하고 있음을 증명하거나, iOS 앱스토어 개인정보 처리 방침에서와 같이 일부 조건을 만족하는 사용자의 경우에만 삭제할 수 있음",
     "guidemedium": "추가적인 몇 단계의 작업이 필요함",
     "hideinfo": "간단히...",
     "jgmd": "Just Get My Data 방문하기",
@@ -42,6 +44,6 @@
     "whatisthis": "JDM이 뭐죠?",
     "whatisthis1": "많은 기업들은",
     "whatisthis2": "다크 패턴 (dark pattern)",
-    "whatisthis3": "기술을 사용하여 그들의 사이트에서 당신이 계정을 지우는 것을 어렵게 합니다. JustDeleteMe는 이 문제를 해결하고자 사이트별 계정 삭제 방법을 수집, 정리하여 여러분꼐 제공합니다.",
+    "whatisthis3": "기술을 사용하여 그들의 사이트에서 당신이 계정을 지우는 것을 어렵게 합니다. JustDeleteMe는 이 문제를 해결하고자 사이트별 계정 삭제 방법을 수집, 정리하여 여러분께 제공합니다.",
     "whatisthis4": "혹시 수정하고 싶은 번역이나 추가하고 싶은 사이트가 있나요? 그렇다면 지금"
 }
