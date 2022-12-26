@@ -5265,7 +5265,7 @@
     },
 
     {
-        "name": "Gab",
+        "name": "Gab Social",
         "url": "https://gab.com/settings/delete",
         "difficulty": "easy",
         "notes": "Under \"Account Settings\" there is an option to delete your account. Enter your password and press \"Delete Account\"",
