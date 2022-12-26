@@ -3266,7 +3266,7 @@
     },
 
     {
-        "name": "Dailywire",
+        "name": "The Daily Wire",
         "url": "https://privacy.dailywire.com/",
         "difficulty": "medium",
         "notes": "Click \"Delete Your Data\" and enter the verification code the company sends to your account email.",
@@ -5249,6 +5249,16 @@
         "url": "https://id.g2a.com/panel/account-details/delete-account",
         "difficulty": "easy",
         "notes": "You will find a delete account button under 'My Account' > 'Account details' click it and accept, you will then receive an email requiring you to confirm the account deletion. Confirm it, then your account will be deleted if you do not login in the next 14 days.",
+        "domains": [
+            "g2a.com"
+        ]
+    },
+
+    {
+        "name": "Gab",
+        "url": "https://gab.com/settings/delete",
+        "difficulty": "easy",
+        "notes": "Under \"Account Settings\" there is an option to delete your account. Enter your password and press \"Delete Account\"",
         "domains": [
             "g2a.com"
         ]
