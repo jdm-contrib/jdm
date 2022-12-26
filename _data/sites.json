@@ -275,11 +275,11 @@
     },
 
     {
-        "name": "Dietollemode.com",
-        "url": "https://dietollemode.com/",
+        "name": "About.me",
+        "url": "https://about.me/account",
         "difficulty": "easy",
         "domains": [
-            "dietollemode.com"
+            "about.me"
         ]
     },
 
@@ -3538,6 +3538,15 @@
         "domains": [
             "dict.cc",
             "users.dict.cc"
+        ]
+    },
+
+    {
+        "name": "Dietollemode.com",
+        "url": "https://dietollemode.com/",
+        "difficulty": "easy",
+        "domains": [
+            "dietollemode.com"
         ]
     },
 
