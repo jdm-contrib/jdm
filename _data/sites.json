@@ -13018,11 +13018,9 @@
 
     {
         "name": "Social Blade",
-        "url": "https://support.socialblade.com",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account. Customer support will also not delete it upon request.",
-        "notes_tr": "Hesabınızı silemezsiniz. Müşteri desteği de istek üzerine silmeyecektir.",
-        "notes_de": "Man kann seinen Account nicht löschen. Der Kundenservice löscht ihn auch auf Anfrage nicht.",
+        "url": "https://socialblade.com/account",
+        "difficulty": "easy",
+        "notes": "You can delete your account by clicking the red 'DELETE YOUR ACCOUNT' button at the very bottom of the page.",
         "domains": [
             "socialblade.com"
         ]
