@@ -3543,6 +3543,15 @@
     },
 
     {
+        "name": "Dietollemode.com",
+        "url": "https://dietollemode.com/",
+        "difficulty": "easy",
+        "domains": [
+            "dietollemode.com"
+        ]
+    },
+
+    {
         "name": "Digg",
         "url": "https://digg.zendesk.com/hc/en-us/articles/233934647-How-do-I-delete-my-account",
         "difficulty": "easy",
