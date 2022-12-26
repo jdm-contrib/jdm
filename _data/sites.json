@@ -750,10 +750,11 @@
     {
         "name": "Amazon AWS",
         "url": "https://console.aws.amazon.com/billing/home#/account",
-        "difficulty": "impossible",
-        "notes": "AWS accounts are never entirely deleted, only closed.",
+        "difficulty": "medium",
+        "notes": "You will not be able to reuse the email address on the account at the time of closure, but they appear to accept disposable email addresses. However, for accounts created prior to May 2017, there is also an Amazon Marketplace account with the same email. See the entry for Amazon to delete that account.",
         "domains": [
-            "amazon.com"
+            "aws.amazon.com",
+            "console.aws.amazon.com"
         ]
     },
 
@@ -3548,6 +3549,15 @@
         "domains": [
             "dict.cc",
             "users.dict.cc"
+        ]
+    },
+
+    {
+        "name": "Dietollemode.com",
+        "url": "https://dietollemode.com/",
+        "difficulty": "easy",
+        "domains": [
+            "dietollemode.com"
         ]
     },
 
@@ -8914,15 +8924,6 @@
     },
 
     {
-        "name": "MePergunte",
-        "url": "https://mepergunte.com/perfil/configuracoes/excluir/",
-        "difficulty": "easy",
-        "domains": [
-            "mepergunte.com"
-        ]
-    },
-
-    {
         "name": "Mercado Libre Argentina",
         "url": "https://myaccount.mercadolibre.com.ar/cancelar-cuenta",
         "difficulty": "medium",
@@ -9488,6 +9489,16 @@
         "notes_pt_br": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> e <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345\">#1353345</a>)</br></br>Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
         "domains": [
             "developer.mozilla.org"
+        ]
+    },
+
+    {
+        "name": "MSI",
+        "url": "https://account.msi.com/",
+        "difficulty": "easy",
+        "notes": "On your account page, in Account section, go to Login Management, and in DELETE ACCOUNT click Delete.",
+        "domains": [
+            "account.msi.com"
         ]
     },
 
@@ -13026,11 +13037,9 @@
 
     {
         "name": "Social Blade",
-        "url": "https://support.socialblade.com",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account. Customer support will also not delete it upon request.",
-        "notes_tr": "Hesabınızı silemezsiniz. Müşteri desteği de istek üzerine silmeyecektir.",
-        "notes_de": "Man kann seinen Account nicht löschen. Der Kundenservice löscht ihn auch auf Anfrage nicht.",
+        "url": "https://socialblade.com/account",
+        "difficulty": "easy",
+        "notes": "You can delete your account by clicking the red 'DELETE YOUR ACCOUNT' button at the very bottom of the page.",
         "domains": [
             "socialblade.com"
         ]
@@ -15147,6 +15156,16 @@
     },
 
     {
+        "name": "Vive La Mode",
+        "url": "https://vive-lamode.com",
+        "difficulty": "hard",
+        "notes": "Contact support using the linked form or by email and request account deletion.",
+        "domains": [
+            "vive-lamode.com"
+        ]
+    },
+
+    {
         "name": "VK/ВКонтакте",
         "url": "https://vk.com/settings?act=deactivate",
         "difficulty": "easy",
@@ -15237,6 +15256,16 @@
         "notes": "Create a ticket with customer support to request the deletion of your data",
         "domains": [
             "vultr.com"
+        ]
+    },
+
+    {
+        "name": "Wacom Cloud",
+        "url": "https://account.wacom.com/en-us/profile",
+        "difficulty": "easy",
+        "notes": "Just click in 'Privacy' link, check the option 'I hereby certify that I am the consumer whose personal information is the subject of this request.' and click 'Delete My Information' button.",
+        "domains": [
+            "wacom.com"
         ]
     },
 
@@ -15528,6 +15557,16 @@
         ],
         "notes": "Require your membership number to be sent in the email. This can be found here <a href=\"https://www.which.co.uk/account/#/\">https://www.which.co.uk/account/#/</a>",
         "notes_tr": "Üyelik numaranızın e-postayla gönderilmesi gerekiyor. Bu hesap bağlantısından bulunabilir."
+    },
+
+    {
+        "name": "Whirlpool",
+        "url": "http://whirlpool.net.au/wiki/wp_deleteaccount",
+        "difficulty": "impossible",
+        "notes": "Whirlpool refuses to permanently delete accounts and instead suggests that the best solution is 'simply to exercise self control and not log in anymore'. In exceptional circumstances (e.g. death, legal threats, security risks) you may contact a moderator to request that your account be marked as inactive or placed in the penalty box. The site also refuses to delete a large amount of posts on your behalf, so the best solution may be to turn on 2FA, change your username/email address to something that's not used elsewhere and not login anymore.",
+        "domains": [
+            "whirlpool.net.au"
+        ]
     },
 
     {
@@ -15921,6 +15960,17 @@
             "zh-min-nan.wikipedia.org",
             "zh-yue.wikipedia.org",
             "zu.wikipedia.org"
+        ]
+    },
+
+    {
+        "name": "Wilson epark",
+        "url": "http://myaccount.epark.com.au/ContactUs.aspx",
+        "difficulty": "hard",
+        "notes": "Send your request for account deletion to epark either via the form on the 'Contact Us' page, or by sending them an email.",
+        "email": "info@epark.com.au",
+        "domains": [
+            "myaccount.epark.com.au"
         ]
     },
 
