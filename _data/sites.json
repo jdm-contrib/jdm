@@ -15137,6 +15137,16 @@
     },
 
     {
+        "name": "Vive La Mode",
+        "url": "https://vive-lamode.com",
+        "difficulty": "hard",
+        "notes": "Contact support using the linked form or by email and request account deletion.",
+        "domains": [
+            "vive-lamode.com"
+        ]
+    },
+
+    {
         "name": "VK/ВКонтакте",
         "url": "https://vk.com/settings?act=deactivate",
         "difficulty": "easy",
