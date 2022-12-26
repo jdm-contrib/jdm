@@ -750,10 +750,11 @@
     {
         "name": "Amazon AWS",
         "url": "https://console.aws.amazon.com/billing/home#/account",
-        "difficulty": "impossible",
-        "notes": "AWS accounts are never entirely deleted, only closed.",
+        "difficulty": "medium",
+        "notes": "You will not be able to reuse the email address on the account at the time of closure, but they appear to accept disposable email addresses. However, for accounts created prior to May 2017, there is also an Amazon Marketplace account with the same email. See the entry for Amazon to delete that account.",
         "domains": [
-            "amazon.com"
+            "aws.amazon.com",
+            "console.aws.amazon.com"
         ]
     },
 
