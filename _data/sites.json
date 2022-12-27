@@ -5589,6 +5589,17 @@
     },
 
     {
+        "name": "GitBook",
+        "url": "https://app.gitbook.com/account",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of your account settings and click \"Delete Account\"",
+        "domains": [
+            "gitbook.com",
+            "app.gitbook.com"
+        ]
+    },
+
+    {
         "name": "GitHub",
         "url": "https://github.com/settings/admin#:~:text=Delete%20account",
         "difficulty": "easy",
