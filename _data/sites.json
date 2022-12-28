@@ -10778,15 +10778,6 @@
     },
 
     {
-        "name": "Outlook",
-        "url": "https://account.live.com/CloseAccount.aspx",
-        "difficulty": "easy",
-        "domains": [
-            "live.com"
-        ]
-    },
-
-    {
         "name": "Overcast.fm",
         "url": "https://overcast.fm/account",
         "difficulty": "impossible",
