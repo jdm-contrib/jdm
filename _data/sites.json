@@ -6471,15 +6471,17 @@
 
     {
         "meta": "popular",
-        "name": "Groupon (International)",
+        "name": "Groupon",
         "url": "https://privacy.groupon.co.uk/?modal=take-control",
         "difficulty": "easy",
         "notes": "Select \"Delete all my data\" and verify your identity.",
         "domains": [
             "groupon.ae",
             "groupon.be",
-            "groupon.co.uk",
+            "groupon.ca",
+            "groupon.com",
             "groupon.com.au",
+            "groupon.co.uk",
             "groupon.de",
             "groupon.es",
             "groupon.fr",
@@ -6487,19 +6489,7 @@
             "groupon.it",
             "groupon.nl",
             "groupon.pl",
-            "privacy.groupon.co.uk"
-        ]
-    },
-
-    {
-        "meta": "popular",
-        "name": "Groupon (US/Canada)",
-        "url": "https://privacy.groupon.com/?modal=take-control",
-        "difficulty": "easy",
-        "notes": "Select \"Delete all my data\" and verify your identity.",
-        "domains": [
-            "groupon.ca",
-            "groupon.com",
+            "privacy.groupon.co.uk",
             "privacy.groupon.com"
         ]
     },
