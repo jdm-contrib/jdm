@@ -2523,16 +2523,6 @@
     },
 
     {
-        "name": "Channel 4",
-        "url": "https://4id.channel4.com/account?intcmp=header_my4_account_settings#!/close",
-        "notes": "Visit the linked page and click 'Close my account'.",
-        "difficulty": "easy",
-        "domains": [
-            "channel4.com"
-        ]
-    },
-
-    {
         "name": "ChatForma",
         "url": "https://www.chatforma.com/",
         "difficulty": "impossible",
