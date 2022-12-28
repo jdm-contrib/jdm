@@ -1004,7 +1004,7 @@
     },
 
     {
-        "name": "Apple",
+        "name": "Apple ID / iTunes",
         "url": "https://support.apple.com/en-us/HT208504",
         "difficulty": "easy",
         "notes": "Follow the steps to request account deletion. It is possible to undo for a few days. If you have bought a developer license, it's impossible to delete your account.",
@@ -2519,16 +2519,6 @@
         "difficulty": "easy",
         "domains": [
             "changelly.com"
-        ]
-    },
-
-    {
-        "name": "Channel 4",
-        "url": "https://4id.channel4.com/account?intcmp=header_my4_account_settings#!/close",
-        "notes": "Visit the linked page and click 'Close my account'.",
-        "difficulty": "easy",
-        "domains": [
-            "channel4.com"
         ]
     },
 
@@ -7679,18 +7669,6 @@
         "email": "support@itch.io",
         "domains": [
             "itch.io"
-        ]
-    },
-
-    {
-        "name": "iTunes / Apple ID",
-        "url": "https://privacy.apple.com",
-        "difficulty": "easy",
-        "notes": "Login with your Apple ID, and then click Get Started under Delete Account",
-        "notes_tr": "Apple Kimliğinizle giriş yapın ve ardından \"Hesabı Sil\" altında Başlayın'ı tıklayın",
-        "domains": [
-            "apple.com",
-            "privacy.apple.com"
         ]
     },
 
