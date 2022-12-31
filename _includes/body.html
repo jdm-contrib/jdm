@@ -7,6 +7,7 @@
     <div class="sort-container">
         <button class="popular">{{ site.data.trans[page.lang].popular }}</button>
         <button data-dropdown="#alphabetical-dropdown" class="az-sort">A - Z</button>
+        <button data-dropdown="#number-dropdown" class="09-sort">0 - 9</button>
         <button data-dropdown="#difficulty-dropdown" class="diff-sort">{{ site.data.trans[page.lang].difficulty }}</button>
         <button class="reset">{{ site.data.trans[page.lang].reset }}</button>
     </div>
@@ -135,6 +136,17 @@
             {% assign letters = 'a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z' | split:',' %}
             {% for letter in letters %}
             <li><a href="">{{ letter }}</a></li>
+            {% endfor %}
+        </span>
+    </ul>
+</div>
+
+<div id="number-dropdown" class="dropdown dropdown-tip">
+    <ul class="dropdown-menu ltr">
+        <span class="alpha-sort">
+            {% assign numbers = '0,1,2,3,4,5,6,7,8,9' | split:',' %}
+            {% for number in numbers %}
+            <li><a href="">{{ number }}</a></li>
             {% endfor %}
         </span>
     </ul>
