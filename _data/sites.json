@@ -13927,9 +13927,9 @@
 
     {
         "name": "Surfshark",
-        "url": "https://surfshark.com/privacy-policy",
-        "difficulty": "hard",
-        "notes": "Send a mail to them requesting for account deletion.",
+        "url": "https://my.surfshark.com/account/delete",
+        "difficulty": "easy",
+        "notes": "You can only delete your account if you click on the link or go to\"https://my.surfshark.com/account/delete\".",
         "email": "support@surfshark.com",
         "domains": [
             "surfshark.com"
