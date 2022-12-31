@@ -12773,6 +12773,16 @@
     },
 
     {
+        "name": "Scammer.info",
+        "url": "https://scammer.info/",
+        "difficulty": "easy",
+        "notes": "Go into your account preferences and click \"Delete My Account\".",
+        "domains": [
+            "scammer.info"
+        ]
+    },
+
+    {
         "name": "ScanMyServer",
         "url": "https://scanmyserver.com/?suspend=1",
         "difficulty": "easy",
