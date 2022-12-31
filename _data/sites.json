@@ -1803,8 +1803,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Blogger",
+        "meta": "popular",
         "url": "https://support.google.com/blogger/answer/41932",
         "difficulty": "impossible",
         "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
@@ -4316,8 +4316,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "eBay",
+        "meta": "popular",
         "url": "https://accountsettings.ebay.com/uas",
         "difficulty": "medium",
         "notes": "Hover over name on top left, click 'Account settings', click 'Close account' under the Account preferences column, then scroll down and click 'Close account and delete my data'. Select why you are leaving from drop down and continue. Click on checkmark and then click the left button to close your account. If you want an extra safety measure, replace all of your personal info with fake info before closing the account.",
@@ -4758,8 +4758,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Facebook",
+        "meta": "popular",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
         "difficulty": "medium",
         "notes": "While you can delete your account easily, some of the data including messages, are there to stay forever, just as stated in the website's privacy policy.",
@@ -5213,8 +5213,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Foursquare",
+        "meta": "popular",
         "url": "https://foursquare.com/delete_me",
         "difficulty": "easy",
         "domains": [
@@ -5910,8 +5910,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "GoDaddy",
+        "meta": "popular",
         "url": "https://account.godaddy.com/preferences",
         "difficulty": "easy",
         "notes": "Navigate to account preferences, select to \"Close Account\" and confirm.",
@@ -6042,8 +6042,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Google",
+        "meta": "popular",
         "url": "https://security.google.com/settings/security/deleteaccount",
         "difficulty": "easy",
         "domains": [
@@ -6470,8 +6470,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Groupon",
+        "meta": "popular",
         "url": "https://privacy.groupon.co.uk/?modal=take-control",
         "difficulty": "easy",
         "notes": "Select \"Delete all my data\" and verify your identity.",
@@ -7441,8 +7441,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Instagram",
+        "meta": "popular",
         "url": "https://instagram.com/accounts/remove/request/permanent/",
         "difficulty": "easy",
         "domains": [
@@ -8423,8 +8423,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "LinkedIn",
+        "meta": "popular",
         "url": "https://www.linkedin.com/help/linkedin/answer/63",
         "difficulty": "medium",
         "notes": "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it.",
@@ -8944,8 +8944,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Match",
+        "meta": "popular",
         "url": "https://help.match.com/hc/en-us/articles/5610035266075-Delete-My-Account",
         "difficulty": "medium",
         "notes": "Only possible within the mobile app, otherwise can only be done via <a href='https://help.match.com/hc/en-us/requests/new'>contacting support</a>.",
@@ -9386,8 +9386,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Microsoft Account",
+        "meta": "popular",
         "url": "https://account.live.com/closeaccount.aspx",
         "difficulty": "easy",
         "domains": [
@@ -10071,8 +10071,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Netflix",
+        "meta": "popular",
         "url": "https://help.netflix.com/en/node/407",
         "difficulty": "hard",
         "notes": "Cancel your membership, then contact support if you want immediate deletion, otherwise your account will be automatically deleted in 10 months.",
@@ -11275,8 +11275,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Pinterest",
+        "meta": "popular",
         "url": "https://pinterest.com/settings/account-settings/",
         "difficulty": "medium",
         "notes": "On the Account Settings, click 'Delete Account', state reason and click 'Next', then 'Send email'. You need to check the e-mail and confirm the deletion.",
@@ -12256,8 +12256,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Reddit",
+        "meta": "popular",
         "url": "https://www.reddit.com/prefs/delete/",
         "difficulty": "easy",
         "notes": "If you are opted in to the redesign, scroll to the bottom and click on the Delete Account button. Your content will not be deleted (only disassociated).",
@@ -13810,12 +13810,12 @@
 
     {
         "name": "Stripe",
+        "meta": "popular",
         "url": "https://dashboard.stripe.com/account/data",
         "difficulty": "easy",
         "notes": "Account owners only, not team members can delete the account. Balances and pending invoices all need to be resolved before the account is permanently closed. Cannot be reversed.",
         "notes_tr": "Yalnızca hesap sahipleri (ekip üyeleri değil) hesabı silebilir. Hesap kalıcı olarak kapatılmadan önce bakiyelerin ve bekleyen faturaların tamamının çözülmesi gerekir. Tersine çevrilemez.",
         "notes_ru": "Только владельцы аккаунта, а не члены команды могут удалить вашу учетную запись. Остатки и незавершенные счета должны быть разрешены до того, как учетная запись будет навсегда закрыта. Не может быть отменено.",
-        "meta": "popular",
         "domains": [
             "stripe.com",
             "dashboard.stripe.com"
@@ -14979,8 +14979,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Twitter",
+        "meta": "popular",
         "url": "https://twitter.com/settings/accounts/confirm_deactivation",
         "difficulty": "easy",
         "notes": "Your account is deactivated before being deleted. After 30 days of remaining deactivated it will then be deleted.",
@@ -15993,8 +15993,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "Wikipedia",
+        "meta": "popular",
         "url": "https://en.wikipedia.org/wiki/Wikipedia:FAQ/Main#How_do_I_change_my_username%2Fdelete_my_account?",
         "difficulty": "impossible",
         "notes": "An account cannot be deleted because to all contributions to Wikipedia are licensed under licenses that require attribution. However, they do have some suggestions, such as <a href='https://en.wikipedia.org/wiki/Wikipedia:Courtesy_vanishing'>Courtesy Vanishing</a>",
@@ -16455,8 +16455,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "WordPress.com",
+        "meta": "popular",
         "url": "https://wordpress.com/me/account",
         "difficulty": "easy",
         "notes": "You can permanently close your WordPress.com account from your Account Settings screen by clicking on 'Close your account permanently'",
@@ -16468,8 +16468,8 @@
     },
 
     {
-        "meta": "popular",
         "name": "WordPress.org",
+        "meta": "popular",
         "url": "https://wordpress.org/about/privacy/data-erasure-request",
         "difficulty": "impossible",
         "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data <a href='https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account'>https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account</a>",
