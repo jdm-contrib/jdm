@@ -9458,22 +9458,22 @@
     },
 
     {
-        "name": "Miniclip",
-        "url": "https://me.miniclip.com/account/delete",
-        "difficulty": "easy",
-        "notes": "Log in, click on \"Delete Account\" tab and then click \"Delete Account\".",
-        "domains": [
-            "miniclip.com"
-        ]
-    },
-
-    {
         "name": "Mine",
         "url": "https://saymineapp.com/profile",
         "difficulty": "easy",
         "notes": "Click 'Delete your Mine Account' at the bottom of the page, acknowledge that you wish to proceed and click 'Delete my Account'",
         "domains": [
             "saymineapp.com"
+        ]
+    },
+
+    {
+        "name": "Miniclip",
+        "url": "https://me.miniclip.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Log in, click on \"Delete Account\" tab and then click \"Delete Account\".",
+        "domains": [
+            "miniclip.com"
         ]
     },
 
