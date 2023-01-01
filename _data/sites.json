@@ -9468,16 +9468,6 @@
     },
 
     {
-        "name": "Miniclip",
-        "url": "https://me.miniclip.com/account/delete",
-        "difficulty": "easy",
-        "notes": "Log in, click on \"Delete Account\" tab and then click \"Delete Account\".",
-        "domains": [
-            "miniclip.com"
-        ]
-    },
-
-    {
         "name": "Minecraft",
         "url": "https://help.minecraft.net/hc/en-us/requests/new",
         "notes": "On this page, chose the dropdown boxes that apply. Preferably use the email address that the account is associated with. You will be required to supply the transaction ID for the purchase of the account, or any other valid proof-of-purchase. If you have migrated to a Microsoft account, visit <a href='https://support.xbox.com/contact-us'>Xbox Support</a>, sign in, and start a session with the virtual agent. Specify that your minecraft profile is linked to your microsoft account, and that you wish for it to be deleted. Alternatively, if you do not use your Microsoft account for anything else, you can <a href='https://account.live.com/closeaccount.aspx'>delete it</a> entirely.",
@@ -9486,6 +9476,16 @@
             "minecraft.net",
             "help.minecraft.net",
             "account.mojang.com"
+        ]
+    },
+
+    {
+        "name": "Miniclip",
+        "url": "https://me.miniclip.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Log in, click on \"Delete Account\" tab and then click \"Delete Account\".",
+        "domains": [
+            "miniclip.com"
         ]
     },
 
