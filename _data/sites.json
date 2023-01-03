@@ -9480,6 +9480,16 @@
     },
 
     {
+        "name": "Miniclip",
+        "url": "https://me.miniclip.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Log in, click on \"Delete Account\" tab and then click \"Delete Account\".",
+        "domains": [
+            "miniclip.com"
+        ]
+    },
+
+    {
         "name": "Mint",
         "url": "https://mint.com",
         "difficulty": "easy",
@@ -12773,6 +12783,16 @@
     },
 
     {
+        "name": "Scammer.info",
+        "url": "https://scammer.info/",
+        "difficulty": "easy",
+        "notes": "Go into your account preferences and click \"Delete My Account\".",
+        "domains": [
+            "scammer.info"
+        ]
+    },
+
+    {
         "name": "ScanMyServer",
         "url": "https://scanmyserver.com/?suspend=1",
         "difficulty": "easy",
@@ -13917,9 +13937,9 @@
 
     {
         "name": "Surfshark",
-        "url": "https://surfshark.com/privacy-policy",
-        "difficulty": "hard",
-        "notes": "Send a mail to them requesting for account deletion.",
+        "url": "https://my.surfshark.com/account/delete",
+        "difficulty": "easy",
+        "notes": "You can only delete your account if you click on the link provided.",
         "email": "support@surfshark.com",
         "domains": [
             "surfshark.com"
