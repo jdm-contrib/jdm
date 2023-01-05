@@ -8222,21 +8222,21 @@
     },
 
     {
-        "name": "LastPass",
-        "url": "https://lastpass.com/delete_account.php",
-        "difficulty": "easy",
-        "domains": [
-            "lastpass.com"
-        ]
-    },
-
-    {
         "name": "Lampyre",
         "url": "https://lampyre.io/",
         "difficulty": "easy",
         "notes" : "Go to Account settings and click Delete account.",
         "domains": [
             "lampyre.io"
+        ]
+    },
+
+    {
+        "name": "LastPass",
+        "url": "https://lastpass.com/delete_account.php",
+        "difficulty": "easy",
+        "domains": [
+            "lastpass.com"
         ]
     },
 
