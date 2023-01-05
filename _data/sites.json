@@ -8210,6 +8210,16 @@
     },
 
     {
+        "name": "Lampyre",
+        "url": "https://lampyre.io/",
+        "difficulty": "easy",
+        "notes" : "Go to Account settings and click Delete account.",
+        "domains": [
+            "lampyre.io"
+        ]
+    },
+
+    {
         "name": "Last.fm",
         "url": "https://www.last.fm/settings/account",
         "difficulty": "easy",
@@ -8218,16 +8228,6 @@
         "domains": [
             "last.fm",
             "support.last.fm"
-        ]
-    },
-
-    {
-        "name": "Lampyre",
-        "url": "https://lampyre.io/",
-        "difficulty": "easy",
-        "notes" : "Go to Account settings and click Delete account.",
-        "domains": [
-            "lampyre.io"
         ]
     },
 
