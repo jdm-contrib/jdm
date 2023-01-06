@@ -1518,6 +1518,16 @@
     },
 
     {
+        "name": "Bato.to",
+        "url": "https://id.bato.to/manager/deletion",
+        "difficulty": "easy",
+        "notes": "Go to the linked site and click \"Delete account\". Remember that you won't be able to reuse e-mail associated with this account, and all uploaded chapters and comments will not be deleted.",
+        "domains": [
+            "bato.to"
+        ]
+    },
+
+    {
         "name": "Battle.net / Blizzard",
         "url": "https://eu.battle.net/support/en/article/2659",
         "difficulty": "medium",
@@ -8200,6 +8210,16 @@
     },
 
     {
+        "name": "Lampyre",
+        "url": "https://lampyre.io/",
+        "difficulty": "easy",
+        "notes" : "Go to Account settings and click Delete account.",
+        "domains": [
+            "lampyre.io"
+        ]
+    },
+
+    {
         "name": "Last.fm",
         "url": "https://www.last.fm/settings/account",
         "difficulty": "easy",
@@ -13023,6 +13043,17 @@
     },
 
     {
+        "name": "Shinden",
+        "url": "https://shinden.pl",
+        "difficulty": "easy",
+        "notes": "Go to \"Moje konto\", \"Edytuj\", \"Konto\" and \"Usuń konto\".",
+        "notes_pl": "Wejdź do \"Moje konto\", \"Edytuj\", \"Konto\" i \"Usuń konto\".",
+        "domains": [
+            "shinden.pl"
+        ]
+    },
+
+    {
         "name": "Shipito",
         "url": "https://www.shipito.com/es/help/faq/account-navigation",
         "difficulty": "hard",
@@ -16356,6 +16387,16 @@
             "zh-min-nan.wikipedia.org",
             "zh-yue.wikipedia.org",
             "zu.wikipedia.org"
+        ]
+    },
+
+    {
+        "name": "Wilds.io",
+        "url": "http://wilds.io",
+        "difficulty": "easy",
+        "notes": "Go to 'Settings and controls', then scroll to 'Delete my account'.",
+        "domains": [
+            "wilds.io"
         ]
     },
 
