@@ -16394,7 +16394,7 @@
         "name": "Wilds.io",
         "url": "http://wilds.io",
         "difficulty": "easy",
-        "notes": "Go to Settins and controls, then scroll to Delete my account.",
+        "notes": "Go to 'Settings and controls', then scroll to 'Delete my account'.",
         "domains": [
             "wilds.io"
         ]
