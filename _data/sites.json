@@ -12687,12 +12687,9 @@
 
     {
         "name": "Rumble",
-        "url": "https://rumblefaq.groovehq.com/help/how-to-delete-your-account",
-        "difficulty": "hard",
-        "notes": "You must send an to them",
-        "notes_pt_br": "Você tem que enviar um e-mail para eles",
-        "email": "support@rumble.com",
-        "email_subject": "Delete my account",
+        "url": "https://rumble.com/account/profile",
+        "difficulty": "easy",
+        "notes": "Click on the big red button at the bottom of the page.",
         "domains": [
             "rumble.com"
         ]
