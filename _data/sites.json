@@ -5185,6 +5185,16 @@
     },
 
     {
+        "name": "Fooducate",
+        "url": "http://fooducate.com/deleteaccount",
+        "difficulty": "easy",
+        "notes": "Log into your profile, fill out reason (optional), click Delete",
+        "domains": [
+            "fooducate.com"
+        ]
+    },
+
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
@@ -10270,6 +10280,15 @@
         "difficulty": "easy",
         "domains": [
             "nicehash.com"
+        ]
+    },
+
+    {
+        "name": "Nicequest",
+        "url": "https://www.nicequest.com/br/profile",
+        "difficulty": "easy",
+        "domains": [
+            "nicequest.com"
         ]
     },
 
