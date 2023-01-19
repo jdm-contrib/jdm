@@ -6883,6 +6883,16 @@
     },
 
     {
+        "name": "Hetzner",
+        "url": "https://accounts.hetzner.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Enter Hetzner account managment, find user deletion seciton and click Delete User Account.",
+        "domains": [
+            "hetzner.com"
+        ]
+    },
+
+    {
         "name": "Hi-Rez Studios",
         "url": "https://my.hirezstudios.com/security",
         "difficulty": "hard",
