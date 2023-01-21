@@ -5679,6 +5679,17 @@
     },
 
     {
+        	"name": "GeoGebra",
+            "url": "https://accounts.geogebra.org/",
+            "difficulty": "easy",
+            "notes": "Scroll down to the bottom of the linked page and click the button to delete your account.",
+            "domains": [
+                "geogebra.org",
+                "accounts.geogebra.org"
+            ]
+    },
+
+    {
         "name": "GeoGuessr",
         "url": "https://www.geoguessr.com/me/settings",
         "difficulty": "easy",
