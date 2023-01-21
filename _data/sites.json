@@ -10275,9 +10275,9 @@
 
     {
         "name": "ngrok",
-        "url": "https://dashboard.ngrok.com/settings/account",
+        "url": "https://dashboard.ngrok.com/user/settings/delete",
         "difficulty": "easy",
-        "notes": "Click \"Delete Account\", then enter your email and click \"Delete Account\" again. You will be redirected to a page, where you must click \"Delete Account\", type your email, and type \"Delete\" twice",
+        "notes": "Enter your email and click \"Delete\". You will get a popup, where you must click \"Delete User\"",
         "domains": [
             "ngrok.com",
             "ngrok.io",
