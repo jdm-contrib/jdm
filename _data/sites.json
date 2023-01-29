@@ -5830,6 +5830,7 @@
         "notes": "Type in the verification message \"Delete My Account\" as required and confirm deletion.",
         "notes_tr": "Gerektiği şekilde \"Hesabımı Sil\" doğrulama mesajını yazın ve silme işlemini onaylayın.",
         "domains": [
+            "app.gitkraken.com",
             "gitkraken.com"
         ]
     },
