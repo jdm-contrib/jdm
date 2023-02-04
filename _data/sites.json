@@ -3840,6 +3840,16 @@
     },
 
     {
+        "name": "DJI",
+        "url": "https://dji.com",
+        "difficulty": "medium",
+        "notes": "You cannot delete your account from the website, you must use the app. Go to 'Account' then 'Settings' and finally 'Delete Account'.",
+        "domains": [
+            "dji.com"
+        ]
+    },
+
+    {
         "name": "DLH",
         "url": "https://dlh.net/en/profile.html",
         "difficulty": "medium",
@@ -5185,6 +5195,16 @@
     },
 
     {
+        "name": "Fooducate",
+        "url": "http://fooducate.com/deleteaccount",
+        "difficulty": "easy",
+        "notes": "Log into your profile, fill out reason (optional), click Delete",
+        "domains": [
+            "fooducate.com"
+        ]
+    },
+
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
@@ -5669,6 +5689,17 @@
     },
 
     {
+        "name": "GeoGebra",
+        "url": "https://accounts.geogebra.org/",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the linked page and click the button to delete your account.",
+        "domains": [
+            "geogebra.org",
+            "accounts.geogebra.org"
+        ]
+    },
+
+    {
         "name": "GeoGuessr",
         "url": "https://www.geoguessr.com/me/settings",
         "difficulty": "easy",
@@ -5799,6 +5830,7 @@
         "notes": "Type in the verification message \"Delete My Account\" as required and confirm deletion.",
         "notes_tr": "Gerektiği şekilde \"Hesabımı Sil\" doğrulama mesajını yazın ve silme işlemini onaylayın.",
         "domains": [
+            "app.gitkraken.com",
             "gitkraken.com"
         ]
     },
@@ -6869,6 +6901,16 @@
         "notes": "Account deletion button can be found at the bottom of the profile edit page.",
         "domains": [
             "herox.com"
+        ]
+    },
+
+    {
+        "name": "Hetzner",
+        "url": "https://accounts.hetzner.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Enter Hetzner account managment, find user deletion seciton and click Delete User Account.",
+        "domains": [
+            "hetzner.com"
         ]
     },
 
@@ -10254,9 +10296,9 @@
 
     {
         "name": "ngrok",
-        "url": "https://dashboard.ngrok.com/settings/account",
+        "url": "https://dashboard.ngrok.com/user/settings/delete",
         "difficulty": "easy",
-        "notes": "Click \"Delete Account\", then enter your email and click \"Delete Account\" again. You will be redirected to a page, where you must click \"Delete Account\", type your email, and type \"Delete\" twice",
+        "notes": "Enter your email and click \"Delete\". You will get a popup, where you must click \"Delete User\"",
         "domains": [
             "ngrok.com",
             "ngrok.io",
@@ -10270,6 +10312,15 @@
         "difficulty": "easy",
         "domains": [
             "nicehash.com"
+        ]
+    },
+
+    {
+        "name": "Nicequest",
+        "url": "https://www.nicequest.com/br/profile",
+        "difficulty": "easy",
+        "domains": [
+            "nicequest.com"
         ]
     },
 
@@ -11741,7 +11792,7 @@
 
     {
         "name": "Prezi",
-        "url": "https://prezi.com/profile/delete_user_account/",
+        "url": "https://prezi.com/settings/delete-account/",
         "difficulty": "easy",
         "notes": "Log into your account -> Click the link -> Enter your password and click on Delete Account.",
         "notes_tr": "Hesabınızda oturum açın, bağlantıyı tıklayın, şifrenizi girin ve \"Hesabı Sil\" seçeneğini tıklayın.",
@@ -12687,12 +12738,9 @@
 
     {
         "name": "Rumble",
-        "url": "https://rumblefaq.groovehq.com/help/how-to-delete-your-account",
-        "difficulty": "hard",
-        "notes": "You must send an to them",
-        "notes_pt_br": "Você tem que enviar um e-mail para eles",
-        "email": "support@rumble.com",
-        "email_subject": "Delete my account",
+        "url": "https://rumble.com/account/profile",
+        "difficulty": "easy",
+        "notes": "Click on the big red button at the bottom of the page.",
         "domains": [
             "rumble.com"
         ]
@@ -14068,7 +14116,7 @@
 
     {
         "name": "T-Mobile",
-        "url": "https://t-mobile.static.services.wirewheel.io/",
+        "url": "https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523",
         "difficulty": "hard",
         "notes": "You will need to provide proof of identity such as a passport or drivers license and verify the phone number associated with your T-Mobile ID. This will not delete active service plans if you have any.",
         "domains": [
