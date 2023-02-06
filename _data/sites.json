@@ -10806,6 +10806,16 @@
     },
 
     {
+        "name": "Oracle",
+        "url": "https://www.oracle.com/legal/data-privacy-inquiry-form.html",
+        "difficulty": "hard",
+        "notes": "You have to send a privacy inquiry to get your data deleted. (It can take a few days)",
+        "domains": [
+            "oracle.com"
+        ]
+    },
+
+    {
         "name": "OSBuddy",
         "url": "https://rsbuddy.com/osbuddy/docs/privacy",
         "email": "support@rsbuddy.com",
