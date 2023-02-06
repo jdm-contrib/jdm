@@ -16609,6 +16609,17 @@
     },
 
     {
+        "name": "WP",
+        "url": "https://1login.wp.pl/profil/dane",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, click `Usuń konto`, log in again, then click `Usuń konto ze skrzynką`.",
+        "notes_pl": "Odwiedź tę stronę, kliknij 'Usuń konto', ponownie się zaloguj, potem kliknij 'Usuń konto ze skrzynką'.",
+        "domains": [
+            "1login.wp.pl"
+        ]
+    },
+
+    {
         "name": "WT.Social",
         "url": "https://wt.social/myaccount/deactivate-account",
         "difficulty": "impossible",
