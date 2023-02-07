@@ -7788,6 +7788,16 @@
     },
 
     {
+        "name": "JetBrains Academy (Hyperskill)",
+        "url": "https://hyperskill.org/delete-account",
+        "difficulty": "easy",
+        "notes": "Visit the link to delete your account and enter your password. Note that it won't automatically cancel your subscription.",
+        "domains": [
+            "hyperskill.org"
+        ]
+    },
+
+    {
         "name": "Jezebel",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
@@ -14989,6 +14999,16 @@
         "difficulty": "easy",
         "domains": [
             "tumblr.com"
+        ]
+    },
+
+    {
+        "name": "TunnelBear",
+        "url": "https://www.tunnelbear.com/account/remove",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and enter your password to deleted your account.",
+        "domains": [
+            "tunnelbear.com"
         ]
     },
 
