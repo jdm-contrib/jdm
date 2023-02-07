@@ -15003,6 +15003,16 @@
     },
 
     {
+        "name": "TunnelBear",
+        "url": "https://www.tunnelbear.com/account/remove",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and enter your password to deleted your account.",
+        "domains": [
+            "tunnelbear.com"
+        ]
+    },
+
+    {
         "name": "Turing",
         "url": "https://developers.turing.com/dashboard/account",
         "difficulty": "easy",
