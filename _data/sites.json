@@ -14491,11 +14491,11 @@
 
     {
         "name": "TextNow",
-        "url": "textnow.com",
+        "url": "https://www.textnow.com/account/new#requestDataDeletionDisclosure",
         "difficulty":"easy",
         "notes": "Visit the linked page to delete your account.",
         "domains": [
-            "https://www.textnow.com/account/new#requestDataDeletionDisclosure"
+            "https://www.textnow.com"
         ]
     },
 
