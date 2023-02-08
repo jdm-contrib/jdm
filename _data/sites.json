@@ -14490,6 +14490,16 @@
     },
 
     {
+        "name": "TextNow",
+        "url": "https://www.textnow.com/account/new#requestDataDeletionDisclosure",
+        "difficulty":"easy",
+        "notes": "Visit the linked page to delete your account.",
+        "domains": [
+            "textnow.com"
+        ]
+    },
+
+    {
         "name": "textPlus",
         "url": "https://help.textplus.com/portal/en/kb/articles/how-can-i-delete-my-account",
         "difficulty": "medium",
