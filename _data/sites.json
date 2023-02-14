@@ -12934,9 +12934,9 @@
 
     {
         "name": "Scavify",
-        "url": "https://www.scavify.com/",
-        "difficulty": "impossible",
-        "notes": "The \"Delete Account\" button in account settings does not work; pressing the button simply redirects to Scavify's home page. Their privacy policy makes no mention of the ability to delete your personal information. The best you can do is to change your account email address and password and forget the credentials.",
+        "url": "https://www.scavify.com/users/edit",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete Account' button, type in the confirmation and delete the account!",
         "domains": [
             "scavify.com"
         ]
