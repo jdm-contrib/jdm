@@ -9642,6 +9642,15 @@
     },
 
     {
+        "name": "MMORPG.com",
+        "url": "https://www.mmorpg.com/notice/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "mmorpg.com"
+        ]
+    },
+
+    {
         "name": "Mobify",
         "url": "https://www.mobify.com/contact/",
         "difficulty": "hard",
