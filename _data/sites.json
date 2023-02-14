@@ -17071,5 +17071,23 @@
         "domains": [
             "ciceksepeti.com"
         ]
+    },
+     
+    {
+        "name": "T-shirt personalisé",
+        "url": "https://vive-lamode.com/collections/t-shirt-personnalise",
+        "difficulty": "hard",
+               "domains": [
+            "vive-lamode.com"
+        ]
+    },
+    
+     {
+        "name": "Custom Chic UK",
+        "url": "https://customchic.co.uk",
+        "difficulty": "hard",
+               "domains": [
+            "customchic.co.uk"
+        ]
     }
 ]
