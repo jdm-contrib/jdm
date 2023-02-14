@@ -5896,9 +5896,9 @@
 
     {
         "name": "Glovo",
-        "url": "https://glovoapp.com/en/support",
+        "url": "https://privacyportal-de.onetrust.com/webform/823e95df-5300-421a-bd72-0c9e0180184f/ff436245-5e5d-44f9-8463-eb48c2052eb5",
         "difficulty": "hard",
-        "notes": "Enter the app and click on the upper right profile icon, then on the green 'Help' icon in the upper right corner and then select 'Not related to an order' > 'Account details' > 'Delete my account and data' and submit it after requesting a deletion in freetext form",
+        "notes": "It is also possible to file an account deletion request via the \"Contact Us\" section at the bottom of the page.",
         "domains": [
             "glovoapp.com"
         ]
