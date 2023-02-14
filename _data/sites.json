@@ -10732,6 +10732,20 @@
     },
 
     {
+        "meta": "popular",
+        "name": "OpenAI",
+        "url": "https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account",
+        "difficulty": "hard",
+        "notes": "There are two methods. Either by chat or sending an e-mail, both of them are hard.",
+        "email": "deletion@openai.com",
+        "email_body": "Please delete my account.",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "openai.com"
+        ]
+    },
+
+    {
         "name": "OpenCores",
         "url": "https://opencores.org",
         "difficulty": "impossible",
@@ -11409,6 +11423,19 @@
         "notes_de": "Wähle 'Konto Löschen' in den Kontoeinstellungen.",
         "domains": [
             "pixabay.com"
+        ]
+    },
+
+    {
+        "name": "Pixel Starships",
+        "url": "https://www.pixelstarships.com/privacypolicy",
+        "difficulty": "hard",
+        "notes": "According to Privacy Policy, \"To request the correction or deletion of any personally identifiable information that you have provided to us, send an email to mail@savysoda.com with \"ACCESS AND CORRECT INFORMATION\" in the subject line.\"",
+        "email": "mail@savysoda.com",
+        "email_body": "Please delete my Pixel Starships account registered under this email address.",
+        "email_subject": "ACCESS AND CORRECT INFORMATION",
+        "domains": [
+            "pixelstarships.com"
         ]
     },
 
