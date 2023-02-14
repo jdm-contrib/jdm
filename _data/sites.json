@@ -3048,6 +3048,15 @@
     },
 
     {
+        "name": "Correl.app",
+        "url": "https://correl.app/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "correl.app"
+        ]
+    },
+
+    {
         "name": "Coub",
         "url": "https://coub.com/account/edit",
         "difficulty": "easy",
