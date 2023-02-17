@@ -3591,10 +3591,10 @@
     },
 
     {
-        "name": "DHL (Paket.de)",
-        "url": "https://www.dhl.de/de/toolbar/footer/datenschutz.html",
-        "difficulty": "hard",
-        "notes": "Under \"Rights of data subjects\"/\"Betroffenenrechte\", scroll to the bottom of the section and click on the contact link for DHL Paket GmbH.",
+        "name": "DHL",
+        "url": "https://www.dhl.de/de/privatkunden/kundenkonto/meine-daten.html",
+        "difficulty": "easy",
+        "notes": "Under 'Kundenkonto', click on 'Konto löschen'.",
         "domains": [
             "dhl.de"
         ]
