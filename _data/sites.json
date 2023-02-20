@@ -15309,12 +15309,9 @@
 
     {
         "name": "Ultimate Guitar",
-        "url": "https://www.ultimate-guitar.com/about/privacy.htm",
-        "difficulty": "hard",
-        "notes": "Email privacy@ultimate-guitar.com and request that they delete your personal information.",
-        "email": "privacy@ultimate-guitar.com",
-        "email_subject": "Request To Delete My Account From Your Database",
-        "email_body": "I have an account in your database with the username ……………. and the email address that is linked to the account is ………………..\nI request that you kindly delete my account from your database and also wipe all notifications if any.",
+        "url": "https://www.ultimate-guitar.com/forum/profile/delete-account",
+        "difficulty": "easy",
+        "notes": "Click the link or log in, go to 'settings', 'Profile' and click the small delete button at the bottom.",
         "domains": [
             "ultimate-guitar.com"
         ]
