@@ -2722,6 +2722,16 @@
     },
 
     {
+        "name": "Coda",
+        "url": "https://coda.io/account",
+        "difficulty": "easy",
+        "notes": "Click \"Advanced Settings\" on the bottom of the page and the option to delete your account should appear",
+        "domains": [
+            "coda.io"
+        ]
+    },
+
+    {
         "name": "Code Red",
         "url": "https://cne.coderedweb.com",
         "difficulty": "impossible",
