@@ -15165,8 +15165,7 @@
         "name": "Ultimate Guitar",
         "url": "https://www.ultimate-guitar.com/forum/profile/delete-account",
         "difficulty": "easy",
-        "notes": "Click the link or log in, go to settings, Profile and click the small delete button at the bottom.",
-        "email": "privacy@ultimate-guitar.com",
+        "notes": "Click the link or log in, go to 'settings', 'Profile' and click the small delete button at the bottom.",
         "domains": [
             "ultimate-guitar.com"
         ]
