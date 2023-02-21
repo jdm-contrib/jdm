@@ -11202,6 +11202,16 @@
     },
 
     {
+        "name": "PCBWay",
+        "url": "https://www.pcbway.com/helpcenter/accountsettings/Account_Settings.html",
+        "difficulty": "hard",
+        "notes": "You need to contact support through built-in chat or you can comment on the linked thread",
+        "domains": [
+            "pcbway.com"
+        ]
+    },
+
+    {
         "name": "PCPartPicker",
         "url": "https://pcpartpicker.com",
         "difficulty": "easy",
