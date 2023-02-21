@@ -969,6 +969,16 @@
     },
 
     {
+        "name": "Aparat",
+        "url": "https://www.aparat.com/dashboard/profile/unsubscribe",
+        "difficulty": "easy",
+        "notes": "To unsubscribe, click the Cancel membership button.",
+        "domains": [
+            "aparat.com"
+        ]
+    },
+
+    {
         "name": "Apex Minecraft Hosting",
         "url": "https://billing.apexminecrafthosting.com/submitticket.php",
         "difficulty": "hard",
