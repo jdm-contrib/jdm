@@ -510,7 +510,7 @@
         "name": "Agoda",
         "url": "https://www.agoda.com/en-au/info/privacy.html",
         "difficulty": "hard",
-        "notes": "According to privacy policy, you may request a personal data deletion by sending a message to privacy@agoda.com.",
+        "notes": "According to their privacy policy, you may request a personal data deletion by sending a message to their e-mail",
         "email": "privacy@agoda.com",
         "domains": [
             "agoda.com"
@@ -674,7 +674,7 @@
         "name": "ALDO",
         "url": "https://www.aldoshoes.com/us/en_US/legal/privacy-policy",
         "difficulty": "hard",
-        "notes": "According to privacy policy, you may request a personal data deletion, even you live in a place with no privacy laws.",
+        "notes": "According to their privacy policy, you may request a personal data deletion through e-mail, even you live in a place with no privacy laws.",
         "email": "dpo@aldogroup.com",
         "domains": [
             "aldoshoes.com"
@@ -12927,7 +12927,7 @@
         "name": "Rytr",
         "url": "https://rytr.me/blog/resources#how-to-delete-my-account",
         "difficulty": "hard",
-        "notes": "In order to delete your acoount, you have to send an e-mail to support@rytr.me.",
+        "notes": "In order to delete your acoount, you have to send an e-mail to them.",
         "email": "support@rytr.me",
         "domains": [
             "rytr.me"
