@@ -507,6 +507,17 @@
     },
 
     {
+        "name": "Agoda",
+        "url": "https://www.agoda.com/en-au/info/privacy.html",
+        "difficulty": "hard",
+        "notes": "According to their privacy policy, you may request a personal data deletion by sending a message to their e-mail",
+        "email": "privacy@agoda.com",
+        "domains": [
+            "agoda.com"
+        ]
+    },
+
+    {
         "name": "AgoraDesk",
         "url": "https://agoradesk.com/account/settings",
         "difficulty": "easy",
@@ -660,6 +671,17 @@
     },
 
     {
+        "name": "ALDO",
+        "url": "https://www.aldoshoes.com/us/en_US/legal/privacy-policy",
+        "difficulty": "hard",
+        "notes": "According to their privacy policy, you may request a personal data deletion through e-mail, even you live in a place with no privacy laws.",
+        "email": "dpo@aldogroup.com",
+        "domains": [
+            "aldoshoes.com"
+        ]
+    },
+
+    {
         "name": "Algolia",
         "url": "https://www.algolia.com/account/details",
         "difficulty": "easy",
@@ -798,6 +820,16 @@
             "console.aws.amazon.com"
         ]
     },
+
+    {
+        "name": "Ancestry",
+        "url": "https://www.ancestry.com/account/data/user/delete",
+        "difficulty": "easy",
+        "domains": [
+            "ancestry.com"
+        ]
+    },
+
 
     {
         "name": "Andaman7",
@@ -12892,6 +12924,17 @@
     },
 
     {
+        "name": "Rytr",
+        "url": "https://rytr.me/blog/resources#how-to-delete-my-account",
+        "difficulty": "hard",
+        "notes": "In order to delete your acoount, you have to send an e-mail to them.",
+        "email": "support@rytr.me",
+        "domains": [
+            "rytr.me"
+        ]
+    },
+
+    {
         "name": "Sahibinden",
         "url": "https://banaozel.sahibinden.com/bilgilerim/uyelik-iptali",
         "difficulty": "easy",
@@ -15250,6 +15293,7 @@
     },
 
     {
+        "meta": "popular",
         "name": "Uber",
         "url": "https://myprivacy.uber.com/privacy/deleteyouraccount",
         "notes": "Select a reason, and wait 30 days for account to be deleted.",
