@@ -5537,9 +5537,9 @@
         "name": "Game Tracker",
         "url": "http://www.gametracker.com/account/manage/edit.php",
         "difficulty": "easy",
-        "notes": "Scroll down in the account manager and click on close account button. 30 days after closing the account, it will be deleted.",
+        "notes": "Scroll down in the account manager and click on close account button. The account will be deleted 30 days after closing it.",
         "notes_fr": "Descendez dans les paramètres, cliquez sur le bouton close account, votre compte sera alors définitivement supprimé dans un délai de 30 jours.",
-        "notes_pt_br": "Desça na página da conta e clique em close account. Após 30 dias, a conta será definitivamente deletada.",
+        "notes_pt_br": "Desça na página da conta e clique em 'close account'. A conta será deletada definitivamente após 30 dias.",
         "domains": [
             "gametracker.com"
         ]
@@ -14277,7 +14277,7 @@
         "name": "Syncfusion",
         "url": "https://www.syncfusion.com/account/my-profile",
         "difficulty": "easy",
-        "notes": "In \"My Profile Page\", click in \"Delete Account\" link at left and click in \"Delete Account\" button.",
+        "notes": "In \"My Profile Page\", click on \"Delete Account\" link on the left side and then the \"Delete Account\" button.",
         "domains": [
             "syncfusion.com"
         ]
