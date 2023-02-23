@@ -12504,7 +12504,7 @@
         "name": "Redfin",
         "url": "https://www.redfin.com/myredfin/settings",
         "difficulty": "easy",
-        "notes": "After logging in, click the Deactivate button at the bottom of the Settings page.",
+        "notes": "After logging in, click the \"Delete Your Account\" link at the bottom of the Account Settings page.",
         "domains": [
             "redfin.com"
         ]
