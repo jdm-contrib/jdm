@@ -47,7 +47,6 @@ This is a reference guide for translating, so that one can see where each key fi
 - `guideimpossible`: Short sentence explaining what "impossible" means
 - `extension_chrome`: Title for the section explaining about the chrome extensions
 - `extensionguide`: Sentence introducing the extension section
-- `extensionp[1-2]`: First paragraph about the extension. It's pieced together as "`extensionp1` `extensionp2`"
 - `extensionp3`: Explains what the Chrome extension does
 - `extensionp[4-6]`: Last paragraph showing how to install the extension. It is written as "`extensionp4` + `extensionp5` + `extensionp6`" where `extensionp5` is the text for the hyperlink of the Chrome Web Store.
 - `footercredits`: Text to introduce creators

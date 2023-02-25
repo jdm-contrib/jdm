@@ -35,8 +35,6 @@ SupportedLanguageKeys = [
     "difficulty_medium",
     "extension_chrome",
     "extensionguide",
-    "extensionp1",
-    "extensionp2",
     "extensionp3",
     "extensionp4",
     "extensionp5",
