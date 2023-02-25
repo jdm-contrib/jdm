@@ -511,7 +511,7 @@ main {
     border: 1px solid black;
 }
 
-.banner-block .banner-block-extension {
+.banner-block .banner-block-extension_chrome {
     background-image: url('../img/block.png');
     background-position: center bottom;
     background-repeat: no-repeat;
