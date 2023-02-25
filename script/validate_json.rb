@@ -33,7 +33,7 @@ SupportedLanguageKeys = [
     "difficulty_impossible",
     "difficulty_limited",
     "difficulty_medium",
-    "extension_chrome",
+    "extension_browser",
     "extensionguide",
     "extensionp3",
     "extensionp4",

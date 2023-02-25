@@ -9,7 +9,7 @@
     "difficulty_impossible": "impossible",
     "difficulty_limited": "limited availability",
     "difficulty_medium": "moyen",
-    "extension_chrome": "Extension Google Chrome",
+    "extension_browser": "Extension Chrome/Firefox",
     "extensionguide": "Extension Dot Guide",
     "extensionp3": "Quand vous êtes sur un site web listé sur JustDeleteMe, l'extension ajoutera un petit point dans l'omnibar. Cliquer dessus vous dirigera vers la page qui contient la manoeuvre de suppression de compte.",
     "extensionp4": "Pour l'installer, rendez-vous simplement sur le",
