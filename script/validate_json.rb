@@ -38,6 +38,7 @@ SupportedLanguageKeys = [
     "extensionp1",
     "extensionp2",
     "extensionp3",
+    "extensionp4",
     "extensionp6",
     "footercredits",
     "guide",
