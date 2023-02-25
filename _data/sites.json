@@ -5534,6 +5534,18 @@
     },
 
     {
+        "name": "Game Tracker",
+        "url": "http://www.gametracker.com/account/manage/edit.php",
+        "difficulty": "easy",
+        "notes": "Scroll down in the account manager and click on close account button. The account will be deleted 30 days after closing it.",
+        "notes_fr": "Descendez dans les paramètres, cliquez sur le bouton close account, votre compte sera alors définitivement supprimé dans un délai de 30 jours.",
+        "notes_pt_br": "Desça na página da conta e clique em 'close account'. A conta será deletada definitivamente após 30 dias.",
+        "domains": [
+            "gametracker.com"
+        ]
+    },
+
+    {
         "name": "GameFAQs",
         "url": "https://gamefaqs.gamespot.com/user/closedel",
         "difficulty": "medium",
@@ -12453,6 +12465,16 @@
     },
 
     {
+        "name": "Redbooth",
+        "url": "https://redbooth.com/a/#!/settings/delete",
+        "difficulty": "easy",
+        "notes": "By deleting your account you will lose access to all your organizations and workspaces. This action is irreversible.",
+        "domains": [
+            "redbooth.com"
+        ]
+    },
+
+    {
         "name": "Redbubble",
         "url": "https://www.redbubble.com/account/settings/cancel",
         "difficulty": "easy",
@@ -12475,6 +12497,16 @@
             "reddithelp.com",
             "mods.reddithelp.com",
             "redditinc.com"
+        ]
+    },
+
+    {
+        "name": "Redfin",
+        "url": "https://www.redfin.com/myredfin/settings",
+        "difficulty": "easy",
+        "notes": "After logging in, click the \"Delete Your Account\" link at the bottom of the Account Settings page.",
+        "domains": [
+            "redfin.com"
         ]
     },
 
@@ -14238,6 +14270,16 @@
         "domains": [
             "sync.com",
             "cp.sync.com"
+        ]
+    },
+
+    {
+        "name": "Syncfusion",
+        "url": "https://www.syncfusion.com/account/my-profile",
+        "difficulty": "easy",
+        "notes": "In \"My Profile Page\", click on \"Delete Account\" link on the left side and then the \"Delete Account\" button.",
+        "domains": [
+            "syncfusion.com"
         ]
     },
 
