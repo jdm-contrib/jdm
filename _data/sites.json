@@ -16830,16 +16830,6 @@
     },
 
     {
-        "name": "Boingo Wireless",
-        "url": "https://support.boingo.com/s/contactsupport",
-        "difficulty": "hard",
-        "notes": "Fill the form or send an e-mail to support@boingo.com from the associated address whose account you want to close.",
-        "domains": [
-            "boingo.com"
-        ]
-    },
-
-    {
         "name": "WorldAnvil",
         "url": "https://www.worldanvil.com/dashboard/user/account",
         "difficulty": "easy",
