@@ -48,5 +48,5 @@ This is a reference guide for translating, so that one can see where each key fi
 - `extension_browser`: Title for the section explaining about the Chrome/Firefox browser extensions
 - `extensionguide`: Sentence introducing the extension section
 - `extensionp1`: Explains what the extensions do
-- `extensionp[4-6]`: Last paragraph showing how to install the extension. It is written as "`extensionp4` + `extensionp5` + `extensionp6`" where `extensionp5` is the text for the hyperlink of the Chrome Web Store.
+- `extensionp[4-6]`: Last paragraph showing how to install the extension. It is written as "`extensionp2` + `extensionp5` + `extensionp6`" where `extensionp5` is the text for the hyperlink of the Chrome Web Store.
 - `footercredits`: Text to introduce creators

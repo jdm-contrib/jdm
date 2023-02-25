@@ -36,7 +36,7 @@ SupportedLanguageKeys = [
     "extension_browser",
     "extensionguide",
     "extensionp1",
-    "extensionp4",
+    "extensionp2",
     "extensionp5",
     "extensionp6",
     "footercredits",
