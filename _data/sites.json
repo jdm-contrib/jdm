@@ -5833,6 +5833,20 @@
     },
 
     {
+        "name": "get.tech",
+        "url": "https://get.tech/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Contact the following email from the registered email to remove your account.",
+        "notes_pt_br": "Entre em contato com o e-mail abaixo, a partir do e-mail da sua conta, solicitando a remoção.",
+        "notes_de": "Kontaktiere die folgende E-Mail von der registrierten E-Mail Adresse um dein Account zu löschen.",
+        "email": "privacy@radix.email",
+        "domains": [
+            "get.tech",
+            "controlpanel.tech"
+        ]
+    },
+
+    {
         "name": "GetContact",
         "url": "https://www.getcontact.com/manage",
         "difficulty": "medium",
@@ -14414,6 +14428,16 @@
     },
 
     {
+        "name": "Tanga",
+        "url": "https://www.tanga.com/support",
+        "difficulty": "hard",
+        "notes": "Select \"Account issues\" option and fill the form requesting your account deletion.",
+        "domains": [
+            "tanga.com"
+        ]
+    },
+
+    {
         "name": "Tango",
         "url": "https://help.tango.me/en/articles/2985296-how-do-i-delete-my-tango-account",
         "difficulty": "easy",
@@ -15015,6 +15039,16 @@
         "notes_tr": "Önce hesabınıza giriş yapın. \"Hesabımı Kapat\" onay kutusunu işaretleyerek ve \"Hesabı Kapat\" tuşuna tıklayarak onaylayın.",
         "domains": [
             "thetracktor.com"
+        ]
+    },
+
+    {
+        "name": "TradeMe",
+        "url": "https://help.trademe.co.nz/hc/en-us/articles/360007000092#h_01GBNRBS8NG0QNNRWXCV7RVWDS",
+        "difficulty": "hard",
+        "notes": "Click on the link and ask the staff to delete your account",
+        "domains": [
+            "trademe.co.nz"
         ]
     },
 
