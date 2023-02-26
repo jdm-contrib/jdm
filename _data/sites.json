@@ -1721,6 +1721,17 @@
     },
 
     {
+        "name": "Bigstock",
+        "url": "https://support.bigstockphoto.com/s/article/How-do-I-close-my-Bigstock-contributor-account",
+        "difficulty": "hard",
+        "notes": "To delete your account, you must email them and request that your account be deleted.",
+        "email": "support@bigstockphoto.com",
+        "domains": [
+            "bigstockphoto.com"
+        ]
+    },
+
+    {
         "name": "Binance",
         "url": "https://www.binance.com/fr/my/risk/delete-account-appeal",
         "difficulty": "medium",
@@ -1994,6 +2005,17 @@
         "domains": [
             "bohemia.net",
             "support.bohemia.net"
+        ]
+    },
+
+    {
+        "name": "Boingo Wireless",
+        "url": "https://support.boingo.com/s/contactsupport",
+        "difficulty": "hard",
+        "notes": "Fill the form or send an e-mail to them from the account you want to delete.",
+        "email": "support@boingo.com",
+        "domains": [
+            "boingo.com"
         ]
     },
 
@@ -16793,6 +16815,17 @@
         "notes_tr": "Web iletişim formunu kullanarak kısa bir e-posta yazın.",
         "domains": [
             "workupload.com"
+        ]
+    },
+
+    {
+        "name": "World Market",
+        "url": "https://www.worldmarket.com/category/customer-service/world-market-rewards-faqs.do",
+        "difficulty": "hard",
+        "notes": "According to their help page, you must send an e-mail to them to request the deletion. The deletion is completed within 2-4 weeks.",
+        "email": "customercare@worldmarket.com",
+        "domains": [
+            "worldmarket.com"
         ]
     },
 
