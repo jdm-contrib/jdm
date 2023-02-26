@@ -3879,8 +3879,8 @@
         "difficulty": "medium",
         "note": "Your Disney+ account is different from your Disney account. Deleting your Disney+ account will not delete your Disney account.",
         "domains": [
-            "https://www.disneyplus.com",
-            "https://help.disneyplus.com"
+            "disneyplus.com",
+            "help.disneyplus.com"
         ]
     },
 
