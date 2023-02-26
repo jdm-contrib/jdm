@@ -3861,15 +3861,15 @@
         "url": "https://support.disney.com/hc/en-gb/articles/115005418823-How-do-I-delete-my-Disney-account-",
         "difficulty": "easy",
         "domains": [
-            "https://www.disney.co.uk",
-            "https://www.disney.com",
-            "https://www.disney.de",
-            "https://www.disney.es",
-            "https://www.disney.fi/",
-            "https://www.disney.fr",
-            "https://www.disney.my/",
-            "https://www.disney.pt/",
-            "https://support.disney.com"
+            "disney.co.uk",
+            "disney.com",
+            "disney.de",
+            "disney.es",
+            "disney.fi",
+            "disney.fr",
+            "disney.my",
+            "disney.pt",
+            "support.disney.com"
         ]
     },
     
