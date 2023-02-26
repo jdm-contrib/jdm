@@ -3877,7 +3877,7 @@
         "name": "Disney+",
         "url": "https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=bf6bf352db101558331d6fddd39619c7",
         "difficulty": "medium",
-        "note": "Your Disney+ account is different from your Disney account. Deleting your Disney+ account will not delete your Disney account.",
+        "notes": "Your Disney+ account is different from your Disney account. Deleting your Disney+ account will not delete your Disney account.",
         "domains": [
             "disneyplus.com",
             "help.disneyplus.com"
