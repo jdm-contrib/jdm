@@ -1798,7 +1798,8 @@
         "url": "https://bitwarden.com/help/article/delete-your-account",
         "difficulty": "easy",
         "domains": [
-            "bitwarden.com"
+            "bitwarden.com",
+            "vault.bitwarden.com"
         ]
     },
 
