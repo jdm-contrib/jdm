@@ -14914,8 +14914,8 @@
         "name": "Todo Cloud",
         "url": "https://support.appigo.com/support/solutions/articles/4000180942-how-to-delete-my-todo-cloud-account",
         "difficulty": "hard",
-        "notes": "Send an email to support@appigo.com from the address associated with your account.",
-        "notes_it": "Invia un'email a support@appigo.com dall'indirizzo associato al tuo account.",
+        "notes": "Send an email from the address associated with your account.",
+        "notes_it": "Invia un'email dall'indirizzo associato al tuo account.",
         "email": "support@appigo.com",
         "email_body": "Please delete my account and the data associated with it.",
         "domains": [
