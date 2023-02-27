@@ -11254,7 +11254,7 @@
 
     {
         "name": "Passpack",
-        "url": "https://support.passpack.com/hc/en-us/articles/200749084-How-to-Delete-Your-Passpack-Account",
+        "url": "http://support.passpack.com/hc/en-us/articles/200749084-How-to-Delete-Your-Passpack-Account",
         "difficulty": "easy",
         "notes": "Sign into your Passpack account. Click on your Account tab then click the delete your account link in the lower left hand corner of the page. You will then be asked to insert your Packing Key to confirm that you are sure. Click Delete to permanently delete your account.",
         "domains": [
