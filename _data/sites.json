@@ -10416,6 +10416,19 @@
     },
 
     {
+        "name": "Nexon",
+        "url": "https://support.nexon.net/hc/en-us/articles/360001112943-How-can-I-delete-or-deactivate-my-account-",
+        "difficulty": "impossible",
+        "notes": "The support page tells you to open a ticket but you can't open a ticket to delete your account",
+        "domains": [
+            "nexon.com",
+            "one.nexon.com",
+            "nexon.net",
+            "support.nexon.net"
+        ]
+    },
+
+    {
         "name": "NextDNS",
         "url": "https://my.nextdns.io/account",
         "difficulty": "easy",
