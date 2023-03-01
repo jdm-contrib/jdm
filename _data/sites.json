@@ -5237,6 +5237,17 @@
     },
 
     {
+        "name": "Fluid UI",
+        "url": "https://www.fluidui.com/contact",
+        "difficulty": "hard",
+        "notes": "The easiest way is to log into your account, start the support chat in the bottom right corner and ask for account deletion. You can also contact the support by email.",
+        "email" : "support@fluidui.com",
+        "domains": [
+            "fluidui.com"
+        ]
+    },
+
+    {
         "name": "FMOD",
         "url": "https://fmod.com/profile",
         "difficulty": "easy",
@@ -5312,6 +5323,16 @@
         "notes": "Log into your profile, fill out reason (optional), click Delete",
         "domains": [
             "fooducate.com"
+        ]
+    },
+
+    {
+        "name": "ForeverMissed",
+        "url": "https://www.forevermissed.com/contactus",
+        "difficulty": "hard",
+        "notes": "Use the contact form to ask customer service to delete your account.",
+        "domains": [
+            "forevermissed.com"
         ]
     },
 
