@@ -5327,21 +5327,21 @@
     },
 
     {
-        "name": "Forvo",
-        "url": "https://forvo.com/account-delete/",
-        "difficulty": "easy",
-        "domains": [
-            "forvo.com"
-        ]
-    },
-
-    {
         "name": "ForeverMissed",
         "url": "https://www.forevermissed.com/contactus",
         "difficulty": "hard",
         "notes": "Use the contact form to ask customer service to delete your account.",
         "domains": [
             "forevermissed.com"
+        ]
+    },
+
+    {
+        "name": "Forvo",
+        "url": "https://forvo.com/account-delete/",
+        "difficulty": "easy",
+        "domains": [
+            "forvo.com"
         ]
     },
 
