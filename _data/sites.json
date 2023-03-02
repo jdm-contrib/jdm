@@ -12251,6 +12251,15 @@
     },
 
     {
+        "name": "QQ",
+        "url": "https://support.weixin.qq.com/security/readtemplate?page=statement_page&t=account_cancellation/w_index&wechat_real_lang=en_US",
+        "difficulty": "easy",
+        "domains": [
+            "qq.com"
+        ]
+    },
+
+    {
         "name": "Quantic Foundry",
         "url": "https://quanticfoundry.com/",
         "difficulty": "hard",
