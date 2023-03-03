@@ -5781,6 +5781,15 @@
     },
 
     {
+        "name": "GeeksforGeeks",
+        "url": "https://auth.geeksforgeeks.org/delete-account/",
+        "difficulty": "easy",
+        "domains": [
+            "https://auth.geeksforgeeks.org/delete-account/"
+        ]
+    },
+
+    {
         "name": "Geni",
         "url": "https://www.geni.com/account_settings",
         "difficulty": "medium",
@@ -5829,15 +5838,6 @@
         "domains": [
             "geocaching.com",
             "groundspeak.com"
-        ]
-    },
-
-    {
-        "name": "GeeksforGeeks",
-        "url": "https://auth.geeksforgeeks.org/delete-account/",
-        "difficulty": "easy",
-        "domains": [
-            "https://auth.geeksforgeeks.org/delete-account/"
         ]
     },
 
