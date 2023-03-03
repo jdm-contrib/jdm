@@ -5781,6 +5781,16 @@
     },
 
     {
+        "name": "GeeksforGeeks",
+        "url": "https://auth.geeksforgeeks.org/delete-account/",
+        "difficulty": "easy",
+        "domains": [
+            "auth.geeksforgeeks.org",
+            "geeksforgeeks.org"
+        ]
+    },
+
+    {
         "name": "Geni",
         "url": "https://www.geni.com/account_settings",
         "difficulty": "medium",
