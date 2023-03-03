@@ -5833,6 +5833,15 @@
     },
 
     {
+        "name": "GeeksforGeeks",
+        "url": "https://auth.geeksforgeeks.org/delete-account/",
+        "difficulty": "easy",
+        "domains": [
+            "https://auth.geeksforgeeks.org/delete-account/"
+        ]
+    },
+
+    {
         "name": "GeoGebra",
         "url": "https://accounts.geogebra.org/",
         "difficulty": "easy",
