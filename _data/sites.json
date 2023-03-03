@@ -9242,6 +9242,15 @@
     },
 
     {
+        "name": "McDonald's",
+        "url": "https://www.mcdonalds.com/us/en-us/faq/how-do-i-delete-my-account.html",
+        "difficulty": "easy",
+        "domains": [
+            "mcdonalds.com"
+        ]
+    },
+
+    {
         "name": "McVIP",
         "url": "https://mcvip.mcdonalds.de/#/profil",
         "difficulty": "easy",
