@@ -5785,7 +5785,8 @@
         "url": "https://auth.geeksforgeeks.org/delete-account/",
         "difficulty": "easy",
         "domains": [
-            "https://auth.geeksforgeeks.org/delete-account/"
+            "auth.geeksforgeeks.org",
+            "geeksforgeeks.org"
         ]
     },
 
