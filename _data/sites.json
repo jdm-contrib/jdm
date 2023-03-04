@@ -10354,6 +10354,15 @@
     },
 
     {
+        "name": "Nerdwallet",
+        "url": "https://support.nerdwallet.com/hc/en-us/articles/115001636783-How-can-I-close-my-NerdWallet-account-",
+        "difficulty": "easy",
+        "domains": [
+            "nerdwallet.com"
+        ]
+    },
+
+    {
         "name": "Netdata",
         "url": "https://learn.netdata.cloud/docs/cloud/data-privacy#delete-all-personal-data",
         "difficulty": "easy",
