@@ -4364,6 +4364,25 @@
     },
 
     {
+        "name": "EA",
+        "url": "https://help.ea.com/en/contact-us/",
+        "difficulty": "hard",
+        "notes": "Contact customer services to request deletion.",
+        "notes_tr": "Silme talebi için müşteri hizmetleriyle iletişime geçin.",
+        "notes_fr": "Contactez le support pour demander la suppression du compte.",
+        "notes_it": "Contatta il sistema clienti per cancellarti.",
+        "notes_de": "Kontaktiere den Support um die Löschung zu beantragen.",
+        "notes_pt_br": "Contate a assistência ao cliente e peça que sua conta seja deletada.",
+        "notes_cat": "Contacti amb assistència al client i demani que es clausuri el seu compte.",
+        "notes_es": "Contacta con asistencia al cliente y pide que se cierre tu cuenta.",
+        "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie konta.",
+        "domains": [
+            "ea.com",
+            "help.ea.com"
+        ]
+    },
+
+    {
         "name": "EA Origin",
         "url": "https://help.ea.com/en/contact-us/",
         "difficulty": "hard",
