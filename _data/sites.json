@@ -1024,6 +1024,17 @@
     },
 
     {
+        "name": "Apiary",
+        "url": "https://apiary.io/",
+        "difficulty": "hard",
+        "notes": "Create a placeholder API, then delete all of your existing APIs. After that, send a request to terminate your account to the support email.",
+        "email": "support@apiary.io",
+        "domains": [
+            "apiary.io"
+        ]
+    },
+
+    {
         "name": "APKPure",
         "url": "https://apkpure.com/account/destroy",
         "difficulty": "easy",
@@ -11608,6 +11619,17 @@
         "email": "info@phplist.com",
         "domains": [
             "phplist.com"
+        ]
+    },
+
+    {
+        "name": "Piazza",
+        "url": "https://support.piazza.com/support/solutions/articles/48000616709-student-delete-your-account",
+        "difficulty": "hard",
+        "notes": "E-mail them and ask to close your account. They will reply asking you to confirm, after which point you can acknowledge and it will be removed.",
+        "email": "help@piazza.com",
+        "domains": [
+            "piazza.com"
         ]
     },
 
