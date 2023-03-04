@@ -16332,6 +16332,16 @@
     },
 
     {
+        "name": "WeChat",
+        "url": "https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&id=1706083AnYFb170608VF3Ur2",
+        "difficulty": "easy",
+        "domains": [
+            "wechat.com",
+            "weixin.qq.com"
+        ]
+    },
+
+    {
         "name": "Wedbio",
         "url": "https://wedbio.com/#contact",
         "difficulty": "hard",
