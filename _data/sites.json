@@ -2688,6 +2688,16 @@
     },
 
     {
+        "name": "Classmates",
+        "url": "https://secure.classmates.com/auth/removemember",
+        "difficulty": "easy",
+        "notes": "Provide a reason by selecting a radio button and select 'Remove Registration'.",
+        "domains": [
+            "classmates.com"
+        ]
+    },
+
+    {
         "name": "ClassPass",
         "url": "https://classpass.com/settings/membership",
         "difficulty": "impossible",
@@ -4054,6 +4064,15 @@
         "email_subject": "Hello\n, please delete the account associated to this email. My phone number is XXXXXXXX and I would like all data associated to my account to be removed.",
         "domains": [
             "dollskill.com"
+        ]
+    },
+
+    {
+        "name": "Doneo",
+        "url": "http://www.doneo.org/2_index_membre.php?action=desinscription_membre&block=block2",
+        "difficulty": "easy",
+        "domains": [
+            "doneo.com"
         ]
     },
 
@@ -9912,6 +9931,17 @@
     },
 
     {
+        "name": "Molotov",
+        "url": "https://www.molotov.tv/account/profile",
+        "difficulty": "easy",
+        "notes": "Log in, go to your profile settings, finally find at the bottom of the page (Delete my account).",
+        "notes_fr": "Connectez-vous, allez dans vos paramètre de profil, enfin trouver en bas de page (Supprimer mon compte).",
+        "domains": [
+            "molotov.tv"
+        ]
+    },
+
+    {
         "name": "Money Dashboard",
         "url": "https://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
@@ -10976,6 +11006,18 @@
         "notes_es": "Puedes desactivar tu cuenta con el enlace. Pero los datos no pueden ser borrados, aunque contacta con atención al cliente no borrarán sus datos.",
         "domains": [
             "onlinetvrecorder.com"
+        ]
+    },
+
+    {
+        "meta": "popular",
+        "name": "OnlyFans",
+        "url": "https://onlyfans.com/my/settings/advanced",
+        "difficulty": "easy",
+        "notes": "On settings tab, select the option 'Delete Account' and enter the captcha. After that, you'll receive an e-mail with the confirmation.",
+        "notes_pt_br": "Na aba de configurações, selecione a opção 'Delete Account' e digite o captcha. Após isso, você receberá um e-mail com a confirmação da exclusão.",
+        "domains": [
+            "onlyfans.com"
         ]
     },
 
@@ -13442,6 +13484,17 @@
         "notes_tr": "Ayarlar sayfasının altındaki \"Hesabınızı Silin\" öğesini tıklayın ve açılır kutuya 'DELETE' yazın.",
         "domains": [
             "sharelatex.com"
+        ]
+    },
+
+    {
+        "name": "Sharesome",
+        "url": "https://sharesome.com/settings/privacy/",
+        "difficulty": "easy",
+        "notes": "On Privacy tab, click in the 'Delete Account' button. After that, insert a reason (this step is optional) and your account password.",
+        "notes_pt_br": "Na aba Privacy, clique no botão 'Delete Account'. Após o clique, insira um motivo (esse passo é opcional) e a senha da sua conta.",
+        "domains": [
+            "sharesome.com"
         ]
     },
 
