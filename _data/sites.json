@@ -957,7 +957,8 @@
         "name": "AnonAddy",
         "url": "https://app.anonaddy.com/settings",
         "difficulty": "easy",
-        "notes": "Enter password at the bottom of the page and click 'Delete Account'.",
+        "notes": "Enter password at the bottom of the page and click 'Delete Account'. The usernames of deleted accounts cannot be reused.",
+        "notes_it": "Inserisci la password nella parte inferiore della pagina e fai clic su 'Delete Account'. I nomi utente degli account eliminati non possono essere riutilizzati.",
         "notes_ru": "Введите пароль и внизу страницы нажмите «Удалить учетную запись».",
         "notes_tr": "Sayfanın altında şifrenizi girin ve \"Hesabı Sil\" tuşuna basın.",
         "domains": [
