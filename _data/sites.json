@@ -6170,6 +6170,18 @@
     },
 
     {
+        "name": "Gocatch",
+        "url": "https://gocatch.zendesk.com/hc/en-us/articles/115005902046-How-to-deactivate-or-reactivate-your-GoCatch-account",
+        "difficulty": "hard",
+        "notes": "Either submit a request via the Gocatch support site or send an email to them and ask for your account to be permanently deleted (specify that you do not want it to be able to be reactivated at a later date). Although the information on the support page only mentions account 'deactivation', the company appears to honour requests for deletion.",
+        "email": "support@gocatch.com",
+        "domains": [
+            "gocatch.com",
+            "gocatch.zendesk.com"
+        ]
+    },
+
+    {
         "name": "GoDaddy",
         "meta": "popular",
         "url": "https://account.godaddy.com/preferences",
@@ -9995,6 +10007,16 @@
         "notes": "Scroll to the bottom of the linked page and click the 'delete account' button.",
         "domains": [
             "monkeytype.com"
+        ]
+    },
+
+    {
+        "name": "Monoprice",
+        "url": "https://www.monoprice.com/Help/Index?pn=contact",
+        "difficulty": "hard",
+        "notes": "Use the contact form to ask customer service to delete your account.",
+        "domains": [
+            "monoprice.com"
         ]
     },
 
