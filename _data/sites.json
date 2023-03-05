@@ -10932,8 +10932,24 @@
     },
 
     {
+        "name": "OkCupid",
+        "url": "https://www.okcupid.com/settings",
+        "difficulty": "easy",
+        "notes": "Visit your settings page, and select 'Delete Account'",
+        "notes_tr": "Ayarlar sayfanıza girin ve \"Hesabı Sil\" tuşuna tıklayın",
+        "notes_fr": "Visitez vos paramatres et selectionnez « Delete Account ».",
+        "notes_it": "Visita la pagina impostazioni, quindi seleziona 'Delete Account'",
+        "notes_pt_br": "Visite a sua página de configurações, e selecione 'Delete Account'",
+        "notes_cat": "Visiti la pàgina de paràmetres, i seleccioni 'Delete Account'",
+        "notes_es": "Visita la página de parámetros, y selecciona 'Delete Account'",
+        "domains": [
+            "okcupid.com"
+        ]
+    },
+
+    {
         "meta": "popular",
-		"name": "OLX",
+        "name": "OLX",
         "url": "https://olx.com",
         "difficulty": "easy",
         "notes": "Click in the profile link, privacy and security and at the very bottom of the page, click in the Delete Account link and enter the password.",
@@ -10965,22 +10981,6 @@
             "olx.kz",
             "olx.uz",
             "olx.pt"
-        ]
-    },
-
-    {
-        "name": "OkCupid",
-        "url": "https://www.okcupid.com/settings",
-        "difficulty": "easy",
-        "notes": "Visit your settings page, and select 'Delete Account'",
-        "notes_tr": "Ayarlar sayfanıza girin ve \"Hesabı Sil\" tuşuna tıklayın",
-        "notes_fr": "Visitez vos paramatres et selectionnez « Delete Account ».",
-        "notes_it": "Visita la pagina impostazioni, quindi seleziona 'Delete Account'",
-        "notes_pt_br": "Visite a sua página de configurações, e selecione 'Delete Account'",
-        "notes_cat": "Visiti la pàgina de paràmetres, i seleccioni 'Delete Account'",
-        "notes_es": "Visita la página de parámetros, y selecciona 'Delete Account'",
-        "domains": [
-            "okcupid.com"
         ]
     },
 
