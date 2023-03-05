@@ -13491,7 +13491,7 @@
         "url": "https://sharesome.com/settings/privacy/",
         "difficulty": "easy",
         "notes": "On Privacy tab, click in the 'Delete Account' button. After that, insert a reason (this step is optional) and your account password.",
-		"notes_pt_br": "Na aba Privacy, clique no botão 'Delete Account'. Após o clique, insira um motivo (esse passo é opcional) e a senha da sua conta.",
+        "notes_pt_br": "Na aba Privacy, clique no botão 'Delete Account'. Após o clique, insira um motivo (esse passo é opcional) e a senha da sua conta.",
         "domains": [
             "sharesome.com"
         ]
