@@ -2689,7 +2689,7 @@
     {
         "name": "Classmates",
         "url": "https://secure.classmates.com/auth/removemember",
-        "difficuly": "easy",
+        "difficulty": "easy",
         "notes": "Provide a reason by selecting a radio button and select 'Remove Registration'.",
         "domains": [
             "classmates.com"
