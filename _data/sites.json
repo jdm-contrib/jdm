@@ -10950,7 +10950,7 @@
     {
         "meta": "popular",
         "name": "OLX",
-        "url": "https://olx.com",
+        "url": "https://www.olx.com",
         "difficulty": "easy",
         "notes": "Click in the profile link, privacy and security and at the very bottom of the page, click in the Delete Account link and enter the password.",
         "notes_pt_br": "Clique no link do perfil, em segurança e privacidade e no fim da página, cliquem em Remover conta e insira a senha.",
@@ -13269,7 +13269,7 @@
         "difficulty": "easy",
         "notes": "Alternatively, remove the Sadly Unfriended application from Facebook and follow the email instructions.",
         "domains": [
-            "sadlyunfriended.com.com"
+            "sadlyunfriended.com"
         ]
     },
 
