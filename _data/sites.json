@@ -10959,6 +10959,43 @@
     },
 
     {
+        "meta": "popular",
+        "name": "OLX",
+        "url": "https://www.olx.com",
+        "difficulty": "easy",
+        "notes": "Click in the profile link, privacy and security and at the very bottom of the page, click in the Delete Account link and enter the password.",
+        "notes_pt_br": "Clique no link do perfil, em segurança e privacidade e no fim da página, cliquem em Remover conta e insira a senha.",
+        "domains": [
+            "olx.com",
+            "olx.com.ar",
+            "olx.com.br",
+            "olx.com.co",
+            "olx.com.ec",
+            "olx.com.pe",
+            "olx.com.lb",
+            "olx.com.bh",
+            "olx.com.eg",
+            "olx.com.kw",
+            "olx.com.om",
+            "olx.com.pk",
+            "olx.sa.com",
+            "olx.co.id",
+            "olx.co.za",
+            "olx.in",
+            "olx.qa",
+            "olx.jo",
+            "olx.pl",
+            "olx.ba",
+            "olx.bg",
+            "olx.ro",
+            "olx.ua",
+            "olx.kz",
+            "olx.uz",
+            "olx.pt"
+        ]
+    },
+
+    {
         "name": "One Month",
         "url": "https://www.iubenda.com/privacy-policy/735465",
         "difficulty": "hard",
@@ -13238,6 +13275,16 @@
     },
 
     {
+        "name": "SadlyUnfriended",
+        "url": "https://www.sadlyunfriended.com/close_account.php",
+        "difficulty": "easy",
+        "notes": "Alternatively, remove the Sadly Unfriended application from Facebook and follow the email instructions.",
+        "domains": [
+            "sadlyunfriended.com"
+        ]
+    },
+
+    {
         "name": "Sahibinden",
         "url": "https://banaozel.sahibinden.com/bilgilerim/uyelik-iptali",
         "difficulty": "easy",
@@ -13346,6 +13393,18 @@
         "domains": [
             "myscholly.com",
             "search.myscholly.com"
+        ]
+    },
+
+    {
+        "name": "Schoology",
+        "url": "https://app.schoology.com/settings/account/action?delete",
+        "difficulty": "easy",
+        "notes": "Click on the \"I Agree\" button.",
+        "notes_es": "Haz clic en el botón \"I Agree\" ",
+        "notes_pt_br": "Basta clicar no botão \"I Agree\" ",
+        "domains": [
+            "schoology.com"
         ]
     },
 
