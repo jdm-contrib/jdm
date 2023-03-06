@@ -2688,6 +2688,16 @@
     },
 
     {
+        "name": "Classmates",
+        "url": "https://secure.classmates.com/auth/removemember",
+        "difficulty": "easy",
+        "notes": "Provide a reason by selecting a radio button and select 'Remove Registration'.",
+        "domains": [
+            "classmates.com"
+        ]
+    },
+
+    {
         "name": "ClassPass",
         "url": "https://classpass.com/settings/membership",
         "difficulty": "impossible",
@@ -4058,6 +4068,15 @@
     },
 
     {
+        "name": "Doneo",
+        "url": "http://www.doneo.org/2_index_membre.php?action=desinscription_membre&block=block2",
+        "difficulty": "easy",
+        "domains": [
+            "doneo.com"
+        ]
+    },
+
+    {
         "name": "Doodle",
         "url": "https://doodle.com/account",
         "difficulty": "easy",
@@ -4682,6 +4701,17 @@
         "notes": "Scroll down and click on 'Delete Account'.",
         "domains": [
             "enjin.com"
+        ]
+    },
+
+    {
+        "name": "enjoei",
+        "url": "https://www.enjoei.com.br/perfil/alterar",
+        "difficulty": "easy",
+        "notes": "Scroll down on the configurations of your profile and click on 'Delete Account'. An e-mail will be sent for you to confirm the deletion by clicking a link.",
+        "notes_pt_br": "Nas configurações da sua conta, vá até o fim da página e clique 'Excluir conta'. Um e-mail será enviado para que confirme a exclusão da conta através de um link..",
+        "domains": [
+            "enjoei.com.br"
         ]
     },
 
@@ -6147,6 +6177,18 @@
             "shopping.gmx.net",
             "suche.gmx.net",
             "vorteile.gmx.net"
+        ]
+    },
+
+    {
+        "name": "Gocatch",
+        "url": "https://gocatch.zendesk.com/hc/en-us/articles/115005902046-How-to-deactivate-or-reactivate-your-GoCatch-account",
+        "difficulty": "hard",
+        "notes": "Either submit a request via the Gocatch support site or send an email to them and ask for your account to be permanently deleted (specify that you do not want it to be able to be reactivated at a later date). Although the information on the support page only mentions account 'deactivation', the company appears to honour requests for deletion.",
+        "email": "support@gocatch.com",
+        "domains": [
+            "gocatch.com",
+            "gocatch.zendesk.com"
         ]
     },
 
@@ -9912,6 +9954,17 @@
     },
 
     {
+        "name": "Molotov",
+        "url": "https://www.molotov.tv/account/profile",
+        "difficulty": "easy",
+        "notes": "Log in, go to your profile settings, finally find at the bottom of the page (Delete my account).",
+        "notes_fr": "Connectez-vous, allez dans vos paramètre de profil, enfin trouver en bas de page (Supprimer mon compte).",
+        "domains": [
+            "molotov.tv"
+        ]
+    },
+
+    {
         "name": "Money Dashboard",
         "url": "https://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
@@ -9965,6 +10018,16 @@
         "notes": "Scroll to the bottom of the linked page and click the 'delete account' button.",
         "domains": [
             "monkeytype.com"
+        ]
+    },
+
+    {
+        "name": "Monoprice",
+        "url": "https://www.monoprice.com/Help/Index?pn=contact",
+        "difficulty": "hard",
+        "notes": "Use the contact form to ask customer service to delete your account.",
+        "domains": [
+            "monoprice.com"
         ]
     },
 
@@ -10896,6 +10959,43 @@
     },
 
     {
+        "meta": "popular",
+        "name": "OLX",
+        "url": "https://www.olx.com",
+        "difficulty": "easy",
+        "notes": "Click in the profile link, privacy and security and at the very bottom of the page, click in the Delete Account link and enter the password.",
+        "notes_pt_br": "Clique no link do perfil, em segurança e privacidade e no fim da página, cliquem em Remover conta e insira a senha.",
+        "domains": [
+            "olx.com",
+            "olx.com.ar",
+            "olx.com.br",
+            "olx.com.co",
+            "olx.com.ec",
+            "olx.com.pe",
+            "olx.com.lb",
+            "olx.com.bh",
+            "olx.com.eg",
+            "olx.com.kw",
+            "olx.com.om",
+            "olx.com.pk",
+            "olx.sa.com",
+            "olx.co.id",
+            "olx.co.za",
+            "olx.in",
+            "olx.qa",
+            "olx.jo",
+            "olx.pl",
+            "olx.ba",
+            "olx.bg",
+            "olx.ro",
+            "olx.ua",
+            "olx.kz",
+            "olx.uz",
+            "olx.pt"
+        ]
+    },
+
+    {
         "name": "One Month",
         "url": "https://www.iubenda.com/privacy-policy/735465",
         "difficulty": "hard",
@@ -10976,6 +11076,18 @@
         "notes_es": "Puedes desactivar tu cuenta con el enlace. Pero los datos no pueden ser borrados, aunque contacta con atención al cliente no borrarán sus datos.",
         "domains": [
             "onlinetvrecorder.com"
+        ]
+    },
+
+    {
+        "meta": "popular",
+        "name": "OnlyFans",
+        "url": "https://onlyfans.com/my/settings/advanced",
+        "difficulty": "easy",
+        "notes": "On settings tab, select the option 'Delete Account' and enter the captcha. After that, you'll receive an e-mail with the confirmation.",
+        "notes_pt_br": "Na aba de configurações, selecione a opção 'Delete Account' e digite o captcha. Após isso, você receberá um e-mail com a confirmação da exclusão.",
+        "domains": [
+            "onlyfans.com"
         ]
     },
 
@@ -13163,6 +13275,16 @@
     },
 
     {
+        "name": "SadlyUnfriended",
+        "url": "https://www.sadlyunfriended.com/close_account.php",
+        "difficulty": "easy",
+        "notes": "Alternatively, remove the Sadly Unfriended application from Facebook and follow the email instructions.",
+        "domains": [
+            "sadlyunfriended.com"
+        ]
+    },
+
+    {
         "name": "Sahibinden",
         "url": "https://banaozel.sahibinden.com/bilgilerim/uyelik-iptali",
         "difficulty": "easy",
@@ -13271,6 +13393,18 @@
         "domains": [
             "myscholly.com",
             "search.myscholly.com"
+        ]
+    },
+
+    {
+        "name": "Schoology",
+        "url": "https://app.schoology.com/settings/account/action?delete",
+        "difficulty": "easy",
+        "notes": "Click on the \"I Agree\" button.",
+        "notes_es": "Haz clic en el botón \"I Agree\" ",
+        "notes_pt_br": "Basta clicar no botão \"I Agree\" ",
+        "domains": [
+            "schoology.com"
         ]
     },
 
@@ -13442,6 +13576,17 @@
         "notes_tr": "Ayarlar sayfasının altındaki \"Hesabınızı Silin\" öğesini tıklayın ve açılır kutuya 'DELETE' yazın.",
         "domains": [
             "sharelatex.com"
+        ]
+    },
+
+    {
+        "name": "Sharesome",
+        "url": "https://sharesome.com/settings/privacy/",
+        "difficulty": "easy",
+        "notes": "On Privacy tab, click in the 'Delete Account' button. After that, insert a reason (this step is optional) and your account password.",
+        "notes_pt_br": "Na aba Privacy, clique no botão 'Delete Account'. Após o clique, insira um motivo (esse passo é opcional) e a senha da sua conta.",
+        "domains": [
+            "sharesome.com"
         ]
     },
 
