@@ -4705,6 +4705,17 @@
     },
 
     {
+        "name": "enjoei",
+        "url": "https://www.enjoei.com.br/perfil/alterar",
+        "difficulty": "easy",
+        "notes": "Scroll down on the configurations of your profile and click on 'Delete Account'. An e-mail will be sent for you to confirm the deletion by clicking a link.",
+        "notes_pt_br": "Nas configurações da sua conta, vá até o fim da página e clique 'Excluir conta'. Um e-mail será enviado para que confirme a exclusão da conta através de um link..",
+        "domains": [
+            "enjoei.com.br"
+        ]
+    },
+
+    {
         "name": "Envato",
         "url": "https://help.market.envato.com/hc/en-us/articles/202500394-How-Do-I-Close-My-Account-",
         "difficulty": "hard",
