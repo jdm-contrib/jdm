@@ -6873,6 +6873,15 @@
     },
 
     {
+        "name": "gutefrage",
+        "url": "https://praxistipps.chip.de/gutefrage-net-account-loeschen-so-gehts_41493",
+        "difficulty": "easy",
+        "domains": [
+            "gutefrage.net"
+        ]
+    },
+
+    {
         "name": "Gyazo",
         "url": "https://gyazo.com/settings",
         "difficulty": "easy",
