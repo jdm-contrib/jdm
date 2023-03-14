@@ -2496,7 +2496,11 @@
       "email": "mf@cdek.ru",
       "email_subject": "Удаление аккаунта",
       "email_body": "Здравствуйте. Пожалуйста, удалите мой аккаунт на CDEK Forward.",
-      "domains": ["global.cdek.ru"]
+      "domains": [
+          "cdek-usa.com",
+          "cdekforward.com",
+          "global.cdek.ru"
+      ]
     },
 
     {
