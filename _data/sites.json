@@ -16291,6 +16291,17 @@
     },
 
     {
+        "name": "VRChat",
+        "url": "https://help.vrchat.com/hc/en-us/articles/1500002379282-I-want-to-delete-my-VRChat-account",
+        "difficulty": "easy",
+        "notes": "There will be a 14-day waiting period. Once this period has been completed, the account will be deleted.",
+        "domains": [
+            "vrchat.com",
+            "help.vrchat.com"
+        ]
+    },
+
+    {
         "name": "VSCO",
         "url": "https://support.vsco.co/hc/en-us/articles/360004196352-How-do-I-delete-my-VSCO-Account-",
         "difficulty": "easy",
