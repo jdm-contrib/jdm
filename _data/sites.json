@@ -2418,6 +2418,20 @@
     },
 
     {
+        "name": "Captain.tv",
+        "url": "https://streamcaptain.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Send a request using the 'Account Deletion' type",
+        "domains": [
+            "captain.tv",
+            "playnitro.com",
+            "streampirates.com",
+            "streamraiders.com",
+            "chatplayschess.com"
+        ]
+    },
+
+    {
         "name": "Car2Go",
         "url": "https://www.car2go.com/US/en/contact",
         "difficulty": "hard",
