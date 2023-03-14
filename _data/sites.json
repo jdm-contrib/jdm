@@ -10693,6 +10693,16 @@
     },
 
     {
+        "name": "Nintendo Network ID",
+        "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/1088/~/how-to-delete-a-nintendo-network-id",
+        "difficulty": "easy",
+        "domains": [
+            "nintendo.com",
+            "accounts.nintendo.com"
+        ]
+    },
+
+    {
         "name": "Njalla",
         "url": "https://njal.la/settings/delete",
         "difficulty": "easy",
