@@ -2423,10 +2423,10 @@
         "difficulty": "hard",
         "notes": "Send a request using the 'Account Deletion' type",
         "domains": [
-            "captain.tv"
-            "playnitro.com"
-            "streampirates.com"
-            "streamraiders.com"
+            "captain.tv",
+            "playnitro.com",
+            "streampirates.com",
+            "streamraiders.com",
             "chatplayschess.com"
         ]
     },
