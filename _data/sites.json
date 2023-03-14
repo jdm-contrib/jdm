@@ -2488,19 +2488,19 @@
     },
 
     {
-      "name": "CDEK Forward",
-      "url": "https://global.cdek.ru",
-      "difficulty": "hard",
-      "notes": "You need to contact support through email",
-      "notes_ru": "Для удаления аккаунта нужно написать в поддержку по электронной почте",
-      "email": "mf@cdek.ru",
-      "email_subject": "Удаление аккаунта",
-      "email_body": "Здравствуйте. Пожалуйста, удалите мой аккаунт на CDEK Forward.",
-      "domains": [
-          "cdek-usa.com",
-          "cdekforward.com",
-          "global.cdek.ru"
-      ]
+        "name": "CDEK Forward",
+        "url": "https://global.cdek.ru",
+        "difficulty": "hard",
+        "notes": "You need to contact support through email",
+        "notes_ru": "Для удаления аккаунта нужно написать в поддержку по электронной почте",
+        "email": "mf@cdek.ru",
+        "email_subject": "Удаление аккаунта",
+        "email_body": "Здравствуйте. Пожалуйста, удалите мой аккаунт на CDEK Forward.",
+        "domains": [
+            "cdek-usa.com",
+            "cdekforward.com",
+            "global.cdek.ru"
+        ]
     },
 
     {
