@@ -6873,6 +6873,15 @@
     },
 
     {
+        "name": "gutefrage",
+        "url": "https://praxistipps.chip.de/gutefrage-net-account-loeschen-so-gehts_41493",
+        "difficulty": "easy",
+        "domains": [
+            "gutefrage.net"
+        ]
+    },
+
+    {
         "name": "Gyazo",
         "url": "https://gyazo.com/settings",
         "difficulty": "easy",
@@ -10569,9 +10578,9 @@
 
     {
         "name": "Nexon",
-        "url": "https://support.nexon.net/hc/en-us/articles/360001112943-How-can-I-delete-or-deactivate-my-account-",
-        "difficulty": "impossible",
-        "notes": "The support page tells you to open a ticket, but you can't open a ticket to delete your account",
+        "url": "https://support-maplestory.nexon.net/hc/fr/articles/360000698823-Comment-puis-je-supprimer-ou-d%C3%A9sactiver-mon-compte-",
+        "difficulty": "hard",
+        "notes": "Open a ticket to ask for account deletion",
         "domains": [
             "nexon.com",
             "one.nexon.com",
