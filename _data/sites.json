@@ -7538,7 +7538,7 @@
 
     {
         "name": "IFTTT",
-        "url": "https://ifttt.com/settings/deactivate",
+        "url": "https://ifttt.com/settings/confirm_deletion",
         "difficulty": "easy",
         "domains": [
             "ifttt.com"
