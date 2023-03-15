@@ -9857,19 +9857,6 @@
     },
 
     {
-        "name": "Minecraft Tools",
-        "url": "https://minecraft.tools/it/contact.php/",
-        "notes": "Send an e-mail asking to delete your account.",
-        "notes_it": "Invia una e-mail chiedendo di eliminare il tuo account.",
-        "email": "contact@minecraft.tools",
-        "email_body": "Please, delete my Minecraft Tools account.",
-        "difficulty": "hard",
-        "domains": [
-            "minecraft.tools"
-        ]
-    },
-
-    {
         "name": "Miniclip",
         "url": "https://me.miniclip.com/account/delete",
         "difficulty": "easy",
