@@ -17416,9 +17416,9 @@
     {
         "name": "YUR",
         "url": "https://yur.fit/yur-privacy-policy",
-        "difficulty": "limited",
+        "difficulty": "hard",
         "email": "hi@yur.fit",
-        "notes": "Requests will be processed in accordance with local laws. Request account removal by sending an email to them. Include your full name, email address associated with your account and a detailed description of your data request.",
+        "notes": "Requests will be processed in accordance with local laws. Request account removal by sending an email to them or filling the form (requires Google account). Include your full name, email address associated with your account and a detailed description of your data request.",
         "domains": [
             "yur.fit"
         ]
