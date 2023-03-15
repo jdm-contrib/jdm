@@ -14293,9 +14293,9 @@
 
     {
         "name": "Stardock",
-        "url": "https://www.stardock.com/policies/privacy",
-        "difficulty": "limited",
-        "notes": "European residents can exercise their right to erasure.",
+        "url": "https://stardock.atlassian.net/servicedesk/customer/portal/4/group/14/create/10143",
+        "difficulty": "hard",
+        "notes": "Fill out the form or send an email (from the same email as your account).",
         "email": "support@stardock.com",
         "email_body": "I wish to exercise my right to erasure under data protection law.\n\n[Give details of what personal data you want erased/deleted.]",
         "email_subject": "Right to Erasure Request",
