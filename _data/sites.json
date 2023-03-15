@@ -2441,6 +2441,20 @@
     },
 
     {
+        "name": "Captain.tv",
+        "url": "https://streamcaptain.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Send a request using the 'Account Deletion' type",
+        "domains": [
+            "captain.tv",
+            "playnitro.com",
+            "streampirates.com",
+            "streamraiders.com",
+            "chatplayschess.com"
+        ]
+    },
+
+    {
         "name": "Car2Go",
         "url": "https://www.car2go.com/US/en/contact",
         "difficulty": "hard",
@@ -6896,6 +6910,15 @@
     },
 
     {
+        "name": "gutefrage",
+        "url": "https://praxistipps.chip.de/gutefrage-net-account-loeschen-so-gehts_41493",
+        "difficulty": "easy",
+        "domains": [
+            "gutefrage.net"
+        ]
+    },
+
+    {
         "name": "Gyazo",
         "url": "https://gyazo.com/settings",
         "difficulty": "easy",
@@ -7552,7 +7575,7 @@
 
     {
         "name": "IFTTT",
-        "url": "https://ifttt.com/settings/deactivate",
+        "url": "https://ifttt.com/settings/confirm_deletion",
         "difficulty": "easy",
         "domains": [
             "ifttt.com"
@@ -10605,9 +10628,9 @@
 
     {
         "name": "Nexon",
-        "url": "https://support.nexon.net/hc/en-us/articles/360001112943-How-can-I-delete-or-deactivate-my-account-",
-        "difficulty": "impossible",
-        "notes": "The support page tells you to open a ticket, but you can't open a ticket to delete your account",
+        "url": "https://support-maplestory.nexon.net/hc/fr/articles/360000698823-Comment-puis-je-supprimer-ou-d%C3%A9sactiver-mon-compte-",
+        "difficulty": "hard",
+        "notes": "Open a ticket to ask for account deletion",
         "domains": [
             "nexon.com",
             "one.nexon.com",
@@ -10713,6 +10736,16 @@
         "difficulty": "easy",
         "notes": "Scroll down and press deactive and delete, it will be deactived for 30 days and then permanently deleted, if a Nintendo Network ID is linked to the account, it will not be deleted in this process",
         "notes_tr": "Aşağı kaydırın ve devre dışı bırak ve sil tuşuna basın, 30 gün boyunca devre dışı bırakılacak ve ardından kalıcı olarak silinecektir. Hesaba bir Nintendo Network Kimliği bağlanırsa, bu işlem süresince silinmeyecektir",
+        "domains": [
+            "nintendo.com",
+            "accounts.nintendo.com"
+        ]
+    },
+
+    {
+        "name": "Nintendo Network ID",
+        "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/1088/~/how-to-delete-a-nintendo-network-id",
+        "difficulty": "easy",
         "domains": [
             "nintendo.com",
             "accounts.nintendo.com"
