@@ -1833,7 +1833,8 @@
         "url": "https://bitwarden.com/help/article/delete-your-account",
         "difficulty": "easy",
         "domains": [
-            "bitwarden.com"
+            "bitwarden.com",
+            "vault.bitwarden.com"
         ]
     },
 
@@ -2532,6 +2533,29 @@
         "notes_tr": "Destek ile iletişime geçmeniz gerekir",
         "domains": [
             "cda.pl"
+        ]
+    },
+
+    {
+        "name": "CDEK Forward",
+        "url": "https://global.cdek.ru",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_ru": "Для удаления аккаунта нужно написать в поддержку по электронной почте",
+        "email": "mf@cdek.ru",
+        "email_subject": "Удаление аккаунта",
+        "email_body": "Здравствуйте. Пожалуйста, удалите мой аккаунт на CDEK Forward.",
+        "domains": [
+            "cdek-usa.com",
+            "cdekforward.com",
+            "global.cdek.ru"
         ]
     },
 
@@ -17448,9 +17472,14 @@
         "difficulty": "easy",
         "notes": "On the above URL, confirm the deletion by entering the CAPTCHA code. If backup email and/or phone added you will need to send a confirmation code and fill in the code(s). Press \"Delete account\" and confirm deletion in the dialog box.",
         "notes_tr": "Verilen bağlantıda, CAPTCHA kodunu girerek silme işlemini onaylayın. Yedek e-posta ve/veya telefon eklendiyse, bir onay kodu göndermeniz ve kodları girmeniz gerekecektir. \"Hesabı Sil\" tuşuna basın ve onay kutusunda silme işlemini onaylayın.",
+        "notes_ru": "Перейдите по ссылке и введите код с картинки для удаления аккаунта. Если к вашему аккаунту привязаны дополнительная почта или телефон, вам нужно будет запросить код подтверждения. Нажмите \"Удалить аккаунт\" и подтвердите удаление.",
         "domains": [
             "yandex.com",
-            "passport.yandex.com"
+            "passport.yandex.com",
+            "yandex.ru",
+            "passport.yandex.ru",
+            "dzen.ru",
+            "ya.ru"
         ]
     },
 
