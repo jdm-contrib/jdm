@@ -435,6 +435,17 @@
     },
 
     {
+        "name": "AddMeFast",
+        "url": "https://addmefast.com/profile",
+        "difficulty": "medium",
+        "notes": "First delete your sites and your ads. Then go to the menu on the top right corner, click 'My Profile' then 'DELETE AddMeFast account' at the bottom of the page and confirm.",
+        "notes_it": "Dovresti prima eliminare i tuoi siti e i tuoi annunci. Poi vai sul menu nell'angolo in alto a destra, fai clic su 'My Profile', quindi su 'DELETE AddMeFast account' in fondo alla pagina e conferma.",
+        "domains": [
+            "addmefast.com"
+        ]
+    },
+
+    {
         "name": "Adfly",
         "url": "https://adf.ly/account/delete",
         "difficulty": "easy",
@@ -1105,6 +1116,18 @@
         "difficulty": "hard",
         "domains": [
             "ara.cat"
+        ]
+    },
+
+    {
+        "name": "Archipad",
+        "url": "https://cloud.archipad.com/",
+        "difficulty": "easy",
+        "notes": "Click on your e-mail on the top right. Click on 'Profile'. Scroll down to find the delete account button in red. Enter password to complete deletion.",
+        "notes_it": "Clicca sulla tua e-mail in alto a destra. Clicca su 'Profile'. Scorri verso il basso per trovare il pulsante di eliminazione account in rosso. Inserisci la password per completare l'eliminazione.",
+        "domains": [
+            "archipad.com",
+            "cloud.archipad.com"
         ]
     },
 
@@ -12046,6 +12069,19 @@
     },
 
     {
+        "name": "Plus500",
+        "url": "https://www.plus500.com/en-CY/MyInfo/PersonalDataRequests/",
+        "difficulty": "medium",
+        "notes": "You have to fill the 'Personal Data Requests' form to delete your account: provide your e-mail address, and under 'Request Type' select 'Right of erasure'.",
+        "notes_it": "Devi compilare il modulo 'Personal Data Requests' per eliminare il tuo account: fornisci il tuo indirizzo e-mail e in 'Request Type' seleziona 'Right of erasure'.",
+        "domains": [
+            "plus500.com",
+            "app.plus500.com",
+            "cdn-main.plus500.com"
+        ]
+    },
+
+    {
         "name": "Pocket",
         "url": "https://getpocket.com/account_deletion/",
         "difficulty": "easy",
@@ -13629,6 +13665,17 @@
     },
 
     {
+        "name": "Sfimg",
+        "url": "https://www.sfimg.com/MyAccount/Remove",
+        "difficulty": "medium",
+        "notes": "Go to 'Account Options' on the menu of the icon of your profile, click 'Cancel SFI Account', and 'Opt Out Of SFI COMPLETELY', then send the form with the reason of the deletion and confirm the e-mail.",
+        "notes_it": "Vai su 'Account Options' nel menu dell'icona del tuo profilo, fai clic su 'Cancel SFI Account' e 'Opt Out Of SFI COMPLETELY', quindi invia il modulo con il motivo dell'eliminazione e conferma l'e-mail.",
+        "domains": [
+            "sfimg.com"
+        ]
+    },
+
+    {
         "name": "Shadow",
         "url": "https://account.shadow.tech/home/security",
         "difficulty": "easy",
@@ -14593,6 +14640,19 @@
             "haydaygame.com",
             "supercell.com",
             "help.supercellsupport.com"
+        ]
+    },
+
+    {
+        "name": "SurfEasy",
+        "url": "https://support.surfeasy.com/hc/en-us/articles/360000937226-What-can-I-request-under-the-GDPR-",
+        "difficulty": "hard",
+        "notes": "Send an email from the address associated with your account. It takes up to 30 days for the account to be removed and data deleted.",
+        "notes_it": "Invia un'email dall'indirizzo associato al tuo account. Sono necessari fino a 30 giorni per la rimozione dell'account e l'eliminazione dei dati.",
+        "email": "gdpr@surfeasy.com",
+        "domains": [
+            "surfeasy.com",
+            "support.surfeasy.com"
         ]
     },
 
@@ -17316,6 +17376,17 @@
         "notes_fr": "Cliquez 'Data Deletion Request' et remplissez le formulaire. Assurez-vous de spécifier si vous voulez que vos posts soient supprimés",
         "domains": [
             "xda-developers.com"
+        ]
+    },
+
+    {
+        "name": "XenForo Italia",
+        "url": "https://www.xfitalia.it/community/account/account-details",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and delete your account. Your account will be deleted in 3 days.",
+        "notes_it": "Visita la pagina collegata ed elimina il tuo account. Il tuo account sarà eliminato entro 3 giorni.",
+        "domains": [
+            "xfitalia.it"
         ]
     },
 
