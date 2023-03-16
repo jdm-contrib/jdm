@@ -14293,9 +14293,9 @@
 
     {
         "name": "Stardock",
-        "url": "https://www.stardock.com/policies/privacy",
-        "difficulty": "limited",
-        "notes": "European residents can exercise their right to erasure.",
+        "url": "https://stardock.atlassian.net/servicedesk/customer/portal/4/group/14/create/10143",
+        "difficulty": "hard",
+        "notes": "Fill out the form or send an email (from the same email as your account).",
         "email": "support@stardock.com",
         "email_body": "I wish to exercise my right to erasure under data protection law.\n\n[Give details of what personal data you want erased/deleted.]",
         "email_subject": "Right to Erasure Request",
@@ -17415,10 +17415,10 @@
 
     {
         "name": "YUR",
-        "url": "https://yur.fit/yur-privacy-policy",
-        "difficulty": "limited",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSca2oePqdnrJWKh4U2LvnwSBZCi5FRTCDdoi0pjU21u9kBFLQ/viewform",
+        "difficulty": "hard",
         "email": "hi@yur.fit",
-        "notes": "Requests will be processed in accordance with local laws. Request account removal by sending an email to them. Include your full name, email address associated with your account and a detailed description of your data request.",
+        "notes": "Requests will be processed in accordance with local laws. Request account removal by sending an email to them or filling the form (requires Google account). Include your full name, email address associated with your account and a detailed description of your data request.",
         "domains": [
             "yur.fit"
         ]
