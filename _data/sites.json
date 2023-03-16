@@ -1833,7 +1833,8 @@
         "url": "https://bitwarden.com/help/article/delete-your-account",
         "difficulty": "easy",
         "domains": [
-            "bitwarden.com"
+            "bitwarden.com",
+            "vault.bitwarden.com"
         ]
     },
 
@@ -2532,6 +2533,29 @@
         "notes_tr": "Destek ile iletişime geçmeniz gerekir",
         "domains": [
             "cda.pl"
+        ]
+    },
+
+    {
+        "name": "CDEK Forward",
+        "url": "https://global.cdek.ru",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_ru": "Для удаления аккаунта нужно написать в поддержку по электронной почте",
+        "email": "mf@cdek.ru",
+        "email_subject": "Удаление аккаунта",
+        "email_body": "Здравствуйте. Пожалуйста, удалите мой аккаунт на CDEK Forward.",
+        "domains": [
+            "cdek-usa.com",
+            "cdekforward.com",
+            "global.cdek.ru"
         ]
     },
 
@@ -4602,6 +4626,16 @@
     },
 
     {
+        "name": "eBay Kleinanzeigen",
+        "url": "https://themen.ebay-kleinanzeigen.de/hilfe/nutzerkonto/datenloeschung/",
+        "difficulty": "medium",
+        "domains": [
+            "ebay-kleinanzeigen.de",
+            "themen.ebay-kleinanzeigen.de"
+        ]
+    },
+
+    {
         "name": "eBonus",
         "url": "https://ebonus.gg/contact",
         "difficulty": "hard",
@@ -5821,6 +5855,24 @@
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "gamespot.com"
+        ]
+    },
+
+    {
+        "name": "GameStop",
+        "url": "https://www.gamestop.com/PrivacyPolicy.html#section9",
+        "difficulty": "hard",
+        "email": "GSContentRequests@gamestop.com",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "domains": [
+            "gamestop.com"
         ]
     },
 
@@ -13508,6 +13560,16 @@
     },
 
     {
+        "name": "Second Life",
+        "url": "https://secondlife.com/my/account/cancel.php",
+        "difficulty": "easy",
+        "domains": [
+            "secondlife.com",
+            "community.secondlife.com"
+        ]
+    },
+
+    {
         "name": "Sedo",
         "url": "https://sedo.com/us/about-us/policies/protecting-your-privacy/",
         "email": "contact@sedo.com",
@@ -14340,9 +14402,9 @@
 
     {
         "name": "Stardock",
-        "url": "https://www.stardock.com/policies/privacy",
-        "difficulty": "limited",
-        "notes": "European residents can exercise their right to erasure.",
+        "url": "https://stardock.atlassian.net/servicedesk/customer/portal/4/group/14/create/10143",
+        "difficulty": "hard",
+        "notes": "Fill out the form or send an email (from the same email as your account).",
         "email": "support@stardock.com",
         "email_body": "I wish to exercise my right to erasure under data protection law.\n\n[Give details of what personal data you want erased/deleted.]",
         "email_subject": "Right to Erasure Request",
@@ -16351,6 +16413,17 @@
     },
 
     {
+        "name": "VRChat",
+        "url": "https://help.vrchat.com/hc/en-us/articles/1500002379282-I-want-to-delete-my-VRChat-account",
+        "difficulty": "easy",
+        "notes": "There will be a 14-day waiting period. Once this period has been completed, the account will be deleted.",
+        "domains": [
+            "vrchat.com",
+            "help.vrchat.com"
+        ]
+    },
+
+    {
         "name": "VSCO",
         "url": "https://support.vsco.co/hc/en-us/articles/360004196352-How-do-I-delete-my-VSCO-Account-",
         "difficulty": "easy",
@@ -17399,9 +17472,14 @@
         "difficulty": "easy",
         "notes": "On the above URL, confirm the deletion by entering the CAPTCHA code. If backup email and/or phone added you will need to send a confirmation code and fill in the code(s). Press \"Delete account\" and confirm deletion in the dialog box.",
         "notes_tr": "Verilen bağlantıda, CAPTCHA kodunu girerek silme işlemini onaylayın. Yedek e-posta ve/veya telefon eklendiyse, bir onay kodu göndermeniz ve kodları girmeniz gerekecektir. \"Hesabı Sil\" tuşuna basın ve onay kutusunda silme işlemini onaylayın.",
+        "notes_ru": "Перейдите по ссылке и введите код с картинки для удаления аккаунта. Если к вашему аккаунту привязаны дополнительная почта или телефон, вам нужно будет запросить код подтверждения. Нажмите \"Удалить аккаунт\" и подтвердите удаление.",
         "domains": [
             "yandex.com",
-            "passport.yandex.com"
+            "passport.yandex.com",
+            "yandex.ru",
+            "passport.yandex.ru",
+            "dzen.ru",
+            "ya.ru"
         ]
     },
 
@@ -17486,10 +17564,10 @@
 
     {
         "name": "YUR",
-        "url": "https://yur.fit/yur-privacy-policy",
-        "difficulty": "limited",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSca2oePqdnrJWKh4U2LvnwSBZCi5FRTCDdoi0pjU21u9kBFLQ/viewform",
+        "difficulty": "hard",
         "email": "hi@yur.fit",
-        "notes": "Requests will be processed in accordance with local laws. Request account removal by sending an email to them. Include your full name, email address associated with your account and a detailed description of your data request.",
+        "notes": "Requests will be processed in accordance with local laws. Request account removal by sending an email to them or filling the form (requires Google account). Include your full name, email address associated with your account and a detailed description of your data request.",
         "domains": [
             "yur.fit"
         ]
