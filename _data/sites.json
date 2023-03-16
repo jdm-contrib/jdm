@@ -4579,6 +4579,16 @@
     },
 
     {
+        "name": "eBay Kleinanzeigen",
+        "url": "https://themen.ebay-kleinanzeigen.de/hilfe/nutzerkonto/datenloeschung/",
+        "difficulty": "medium",
+        "domains": [
+            "ebay-kleinanzeigen.de",
+            "themen.ebay-kleinanzeigen.de"
+        ]
+    },
+
+    {
         "name": "eBonus",
         "url": "https://ebonus.gg/contact",
         "difficulty": "hard",
