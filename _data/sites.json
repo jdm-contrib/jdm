@@ -13490,6 +13490,16 @@
     },
 
     {
+        "name": "Second Life",
+        "url": "https://secondlife.com/my/account/cancel.php",
+        "difficulty": "easy",
+        "domains": [
+            "secondlife.com",
+            "community.secondlife.com"
+        ]
+    },
+
+    {
         "name": "Sedo",
         "url": "https://sedo.com/us/about-us/policies/protecting-your-privacy/",
         "email": "contact@sedo.com",
