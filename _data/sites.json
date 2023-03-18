@@ -3962,6 +3962,16 @@
     },
 
     {
+        "name": "discovery+",
+        "url": "https://support.discoveryplus.com/hc/en-gb/articles/360018959458-How-do-I-delete-my-account-",
+        "difficulty": "hard",
+        "domains": [
+            "discoveryplus.com",
+            "support.discoveryplus.com"
+        ],
+    },
+
+    {
         "name": "Disney",
         "url": "https://support.disney.com/hc/en-gb/articles/115005418823-How-do-I-delete-my-Disney-account-",
         "difficulty": "easy",
