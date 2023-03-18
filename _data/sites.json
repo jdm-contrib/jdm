@@ -16447,6 +16447,17 @@
     },
 
     {
+        "name": "VTech",
+        "url": "https://www.vtechkids.com/support/support_form/",
+        "difficulty": "hard",
+        "notes": "You have to call their toll-free number at 1-800-521-2010 or submit a request at <a href='https://www.vtechkids.com/support/support_form/'>'Contact Us'</a> to delete your account."
+        "domains": [
+            "www.vtech.com",
+            "www.vtechda.com"
+        ]
+    },
+
+    {
         "name": "Vuforia Chalk",
         "url": "https://support.ptc.com/help/vuforia/chalk_app_center/#page/Vuforia_Chalk_Admin_Center%2Fcommon%2Fget_help.html%23",
         "difficulty": "hard",
