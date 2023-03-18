@@ -364,13 +364,11 @@
 
     {
         "name": "Acorns",
-        "url": "https://www.acorns.com/support/contact/",
-        "difficulty": "impossible",
-        "notes": "You have to contact customer support to deactivate your account. Can be reactivated again.",
-        "notes_ru": "Вам необходимо связаться со службой поддержки, чтобы деактивировать свою учетную запись. Может быть снова активирована.",
-        "notes_tr": "Hesabınızı devre dışı bırakmak için müşteri desteğine başvurmanız gerekiyor. Hesap sonradan tekrar aktifleştirilebilir.",
+        "url": "https://app.acorns.com/close-account",
+        "difficulty": "easy",
         "domains": [
-            "acorns.com"
+            "acorns.com",
+            "app.acorns.com"
         ]
     },
 
