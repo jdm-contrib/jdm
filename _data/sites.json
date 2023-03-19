@@ -6717,6 +6717,17 @@
     },
 
     {
+        "name": "Gov.br",
+        "url": "https://acesso.gov.br/faq/_perguntasdafaq/excluircadastro.html",
+        "difficulty": "impossible",
+        "notes": "According to help page, there's no way, nor necessity, to exclude account because it's the way to access public service.",
+        "notes_pt_br": "De acordo com a página de ajuda, não há jeito, nem necessidade, de se excluir a conta pois ela é a forma de ser acessar vários serviços públicos.",
+        "domains": [
+            "gov.br"
+        ]
+    },
+
+    {
         "name": "gPodder",
         "url": "https://www.gpodder.net/account/",
         "difficulty": "easy",
