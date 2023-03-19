@@ -185,7 +185,6 @@ button {
     border-radius: 5px;
     cursor: pointer;
     font-size: 70%;
-    font-weight: lighter;
     padding: 10px 15px;
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
