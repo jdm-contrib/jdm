@@ -14076,6 +14076,16 @@
     },
 
     {
+        "name": "Smoothcomp",
+        "url": "https://support.smoothcomp.com/article/193-please-remove-delete-hide-my-account-gdpr",
+        "difficulty": "easy",
+        "notes": "Click on your name at the top right of the website, which opens a dropdown. Then, click Settings and click the Delete Account button at the bottom of the page.",
+        "domains": [
+            "smoothcomp.com"
+        ]
+    },
+
+    {
         "name": "Smule",
         "url": "https://smule.zendesk.com/hc/en-us/requests/new",
         "difficulty": "hard",
