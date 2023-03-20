@@ -2735,6 +2735,16 @@
     },
 
     {
+        "name": "Chick-fil-A",
+        "url": "https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55",
+        "difficulty": "hard",
+        "notes": "Fill out the provided <a href='https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55'> privacy web form</a>, send an email to mailto:privacy@chick-fil-a.com, or call 1-866-232-2040.",
+        "domains": [
+            "chick-fil-a.com"
+        ]
+    },
+
+    {
         "name": "Cisco",
         "url": "https://privacyrequest.cisco.com/",
         "difficulty": "hard",
