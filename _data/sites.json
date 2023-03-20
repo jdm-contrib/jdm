@@ -2295,16 +2295,6 @@
     },
 
     {
-        "name": "Burger King",
-        "url": "https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html",
-        "difficulty": "medium",
-        "notes": "U.S. and Canada residents can fill out the linked web form or email [privacy@rbi.com](mailto:privacy@rbi.com)",
-        "domains": [
-            "bk.com"
-        ]
-    },
-
-    {
         "name": "BurstNET",
         "url": "http://burst.net",
         "difficulty": "impossible",
@@ -12229,16 +12219,6 @@
     },
 
     {
-        "name": "Popeyes",
-        "url": "https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html",
-        "difficulty": "medium",
-        "notes": "U.S. and Canada residents can fill out the linked web form or email [privacy@rbi.com](mailto:privacy@rbi.com)",
-        "domains": [
-            "popeyes.com"
-        ]
-    },
-
-    {
         "name": "Porkbun",
         "url": "https://porkbun.com/account",
         "difficulty": "easy",
@@ -15344,16 +15324,6 @@
         "notes_tr": "\"Hesap\" \"Menü\" \"Gizlilik Ayarları\" \"Gizlilik ve Güvenlik\" \"Hesabı Sil\" \"Sonraki\" \"Devam Et\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "tiktok.com"
-        ]
-    },
-
-    {
-        "name": "Tim Hortons",
-        "url": "https://privacyportal-eu-cdn.onetrust.com/dsarwebform/7ae425dd-1c76-46b0-a1b4-2422a364fae3/draft/1d4481aa-204a-4cb5-a40a-82e4369d16b2.html",
-        "difficulty": "medium",
-        "notes": "U.S. and Canada residents can fill out the linked web form or email [privacy@rbi.com](mailto:privacy@rbi.com)",
-        "domains": [
-            "timhortons.com"
         ]
     },
 
