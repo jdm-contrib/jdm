@@ -3964,7 +3964,7 @@
     {
         "name": "discovery+",
         "url": "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/5b504afe-dd1e-47f6-9af6-56144531eced",
-        "difficulty": "hard",
+        "difficulty": "medium",
         "domains": [
             "discoveryplus.com",
             "support.discoveryplus.com"
