@@ -10306,6 +10306,16 @@
     },
 
     {
+        "name": "My Invisalign",
+        "url": "https://my.invisalign.com/myprofile",
+        "difficulty": "easy",
+        "notes": "Login and select 'Delete Account' in the sidebar in your account settings",
+        "domains": [
+            "my.invisalign.com"
+        ]
+    },
+
+    {
         "name": "MyAnimeList",
         "url": "https://myanimelist.net/account_deletion",
         "difficulty": "hard",
