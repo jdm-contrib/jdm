@@ -7304,17 +7304,27 @@
             "member.hide.me"
         ]
     },
+    
+    {
+        "name": "HiNative",
+        "url": "https://member.hide.me/en/settings/delete-account/form",
+        "difficulty": "easy",
+        "notes": "Click \"Account settings\" and then the red button \"Delete my account\" at the bottom of the page.",
+        "notes_pt_br": "Clique em \"Configurações da conta\" e no botão vermelho \"Remover minha conta\" que está no fim da página.",
+        "domains": [
+            "hide.me",
+            "community.hide.me",
+            "member.hide.me"
+        ]
+    },
 
     {
         "name": "HitBTC",
-        "url": "https://support.hitbtc.com/en/support/tickets/new",
-        "difficulty": "hard",
-        "notes": "Contact the customer support using the contact form and request the deletion of your account. After receiving a response from support, confirm the deletion by replying to that email. Note: Your balance must be empty before doing this process.",
-        "notes_tr": "İletişim formunu kullanarak müşteri desteği ile iletişime geçin ve hesabınızın silinmesini talep edin. Destek ekibinden bir yanıt aldıktan sonra, bu e-postayı yanıtlayarak silme işlemini onaylayın. Not: Bu işlemi yapmadan önce bakiyeniz boş olmalıdır.",
-        "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta. Após receber uma resposta do suporte, confirme a exclusão respondendo ao email. Note: Seu saldo deve estar vazio antes de fazer este processo.",
+        "url": "https://hinative.com/users/edit?type=delete_my_account",
+        "difficulty": "easy",
+        "notes": "Click \"Settings\", then \"My Account\", then \"Delete my account\", and finally click the red \"Delete my account\" button.",
         "domains": [
-            "hitbtc.com",
-            "support.hitbtc.com"
+            "hinative.com"
         ]
     },
 
