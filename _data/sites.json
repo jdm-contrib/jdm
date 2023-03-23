@@ -7306,6 +7306,16 @@
     },
 
     {
+        "name": "HiNative",
+        "url": "https://hinative.com/users/edit?type=delete_my_account",
+        "difficulty": "easy",
+        "notes": "Click \"Settings\", then \"My Account\", then \"Delete my account\", and finally click the red \"Delete my account\" button.",
+        "domains": [
+            "hinative.com"
+        ]
+    },
+
+    {
         "name": "HitBTC",
         "url": "https://support.hitbtc.com/en/support/tickets/new",
         "difficulty": "hard",
