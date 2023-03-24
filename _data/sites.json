@@ -680,6 +680,17 @@
     },
 
     {
+        "name": "Alchemy",
+        "url": "https://www.alchemy.com/",
+        "difficulty": "hard",
+        "notes": "Contact the customer support using the contact email and request the deletion of your account.",
+        "email": "support@alchemy.com",
+        "domains": [
+            "alchemy.com"
+        ]
+    },
+
+    {
         "name": "ALDO",
         "url": "https://www.aldoshoes.com/us/en_US/legal/privacy-policy",
         "difficulty": "hard",
