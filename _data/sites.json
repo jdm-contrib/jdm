@@ -8318,6 +8318,16 @@
     },
 
     {
+        "name": "Kanji Koohii",
+        "url": "https://kanji.koohii.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Go to \"Account Settings\", then \"Edit Account\", and click \"Yes, I want to delete my account ( step 1 of 2 )\". Then fill out the form in which you have to give your email, type 'delete my account', confirm your password, and finally click \"Delete this account\"",
+        "domains": [
+            "kanji.koohii.com"
+        ]
+    },
+
+    {
         "name": "Kaspersky",
         "url": "https://my.kaspersky.com",
         "difficulty": "easy",
