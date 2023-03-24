@@ -11321,6 +11321,16 @@
     },
 
     {
+        "name": "OpenSea",
+        "url": "https://support.opensea.io/hc/requests/new",
+        "difficulty": "limited",
+        "domains": [
+            "opensea.io/",
+            "support.opensea.io/"
+        ]
+    },
+
+    {
         "name": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/account/deletion",
         "difficulty": "easy",
