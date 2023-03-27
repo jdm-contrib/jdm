@@ -8888,16 +8888,6 @@
     },
 
     {
-        "name": "Lifehacker",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "lifehacker.com"
-        ]
-    },
-        
-    {
         "name": "Lieferando",
         "url": "https://www.lieferando.de/en/customerservice/article/how-do-i-delete-my-account",
         "difficulty": "hard",
@@ -8912,6 +8902,16 @@
         "domains": [
             "www.lieferando.de",
             "lieferando.de"
+        ]
+    },
+
+    {
+        "name": "Lifehacker",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "lifehacker.com"
         ]
     },
     
