@@ -5090,12 +5090,9 @@
 
     {
         "name": "Facebook Messenger",
-        "url": "https://www.messenger.com",
-        "difficulty": "impossible",
-        "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, there's no way to delete your account",
-        "notes_tr": "Facebook hesabınızla giriş yaptıysanız, o hesabı silebilirsiniz. Telefon numaranızı kullanarak kaydolduysanız, hesabınızı silmenin bir yolu yoktur",
-        "notes_es": "Si iniciaste sesión con tu cuenta de Facebook, podés borrar esa cuenta. Si te registraste con tu número de celular, no hay forma de eliminar tu cuenta",
-        "notes_cz": "Pokud jste přihlášeni přes svůj Facebook účet, můžete smazat ten od Facebooku. Pokud jste se registroval přes telefonní číslo, neexistuje žádná cesta jak ho smazat.",
+        "url": "https://www.facebook.com/help/messenger-app/458908261952384?cms_platform=android-app&helpref=platform_switcher",
+        "difficulty": "easy",
+        "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, go to your account settings and tap on <em>Delete Your Account and Information</em>.",
         "domains": [
             "messenger.com"
         ]
