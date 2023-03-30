@@ -11326,8 +11326,8 @@
         "difficulty": "limited",
         "notes": "Deleting your account is only possible if an applicable government policy gives you the right to delete your account.",
         "domains": [
-            "opensea.io/",
-            "support.opensea.io/"
+            "opensea.io",
+            "support.opensea.io"
         ]
     },
 
