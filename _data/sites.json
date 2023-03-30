@@ -11364,6 +11364,17 @@
     },
 
     {
+        "name": "OpenSea",
+        "url": "https://support.opensea.io/hc/requests/new",
+        "difficulty": "limited",
+        "notes": "Deleting your account is only possible if an applicable government policy gives you the right to delete your account.",
+        "domains": [
+            "opensea.io",
+            "support.opensea.io"
+        ]
+    },
+
+    {
         "name": "OpenStreetMap",
         "url": "https://www.openstreetmap.org/account/deletion",
         "difficulty": "easy",
