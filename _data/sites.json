@@ -8902,6 +8902,17 @@
     },
 
     {
+        "name": "Life360",
+        "url": "https://support.life360.com/hc/en-us/articles/360051153713-Delete-My-Account",
+        "difficulty": "easy",
+        "notes": "Go into Settings, Tap Account, Tap Delete Account, Select Delete My Account",
+        "domains": [
+            "life360.com",
+            "support.life360.com"
+        ]
+    },
+
+    {
         "name": "Lifehacker",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
