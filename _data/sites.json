@@ -15329,6 +15329,17 @@
             "themoviedb.org"
         ]
     },
+    
+    {
+        "name": "Theta.tv",
+        "url": "https://community.theta.tv/general-data-protection-gdpr-data-deletion-requests/",
+        "difficulty": "limited",
+        "notes": "In order to close your account, you must file a GDPR data deletion request to the website",
+        "domains": [
+            "theta.tv",
+            "community.theta.tv"
+        ]
+    },
 
     {
         "name": "TheTVDB",
@@ -15598,17 +15609,6 @@
         "notes": "Login to your account first before deleting, you will lose all access to the account",
         "domains": [
             "torn.com"
-        ]
-    },
-    
-    {
-        "name": "Theta.tv",
-        "url": "https://community.theta.tv/general-data-protection-gdpr-data-deletion-requests/",
-        "difficulty": "limited",
-        "notes": "In order to close your account, you must file a GDPR data deletion request to the website",
-        "domains": [
-            "theta.tv",
-            "community.theta.tv"
         ]
     },
 
