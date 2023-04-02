@@ -15613,6 +15613,17 @@
     },
 
     {
+        "name": "Theta.tv",
+        "url": "https://community.theta.tv/general-data-protection-gdpr-data-deletion-requests/",
+        "difficulty": "limited",
+        "notes": "In order to close your account, you must file a GDPR data deletion request to the website",
+        "domains": [
+            "theta.tv",
+            "community.theta.tv"
+        ]
+    },
+
+    {
         "name": "The Tracktor",
         "url": "https://thetracktor.com/account/close",
         "difficulty": "easy",
