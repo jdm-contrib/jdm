@@ -16789,6 +16789,15 @@
     },
 
     {
+        "name": "Weblate",
+        "url": "https://hosted.weblate.org/accounts/remove/",
+        "difficulty": "easy",
+        "domains": [
+            "weblate.org"
+        ]
+    },
+    
+    {
         "name": "Webtickets",
         "url": "https://www.webtickets.co.za/v2/FAQ.aspx?itemid=1505441537",
         "difficulty": "hard",
