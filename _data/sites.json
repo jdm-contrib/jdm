@@ -9896,7 +9896,7 @@
     {
         "name": "Metropolis",
         "url": "https://app.metropolis.io/profile/terms-and-privacy",
-        "difficulty": "easy"
+        "difficulty": "easy",
         "notes": "Account Settings -> Terms and Privacy -> Delete Account",
         "domains": [
             "app.metropolis.io",
