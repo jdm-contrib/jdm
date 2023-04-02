@@ -15452,6 +15452,16 @@
     },
 
     {
+        "name": "TikTok Developer",
+        "url": "https://developers.tiktok.com/support/",
+        "difficulty": "hard",
+        "notes": "Select \"Support\" as the category and \"Developer Portal\" as the topic.",
+        "domains": [
+            "developers.tiktok.com"
+        ]
+    },
+
+    {
         "name": "Tinder",
         "url": "https://tinder.com/app/profile",
         "difficulty": "easy",
