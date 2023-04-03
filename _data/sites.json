@@ -9894,6 +9894,17 @@
     },
 
     {
+        "name": "Metropolis",
+        "url": "https://app.metropolis.io/profile/terms-and-privacy",
+        "difficulty": "easy",
+        "notes": "Account Settings -> Terms and Privacy -> Delete Account",
+        "domains": [
+            "app.metropolis.io",
+            "metropolis.io"
+        ]
+    },
+
+    {
         "name": "Mi Account",
         "url": "https://account.xiaomi.com/pass/del",
         "difficulty": "easy",
