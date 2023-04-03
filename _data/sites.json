@@ -12472,6 +12472,16 @@
     },
 
     {
+        "name": "Previewed",
+        "url": "https://previewed.app/account",
+        "difficulty": "easy",
+        "notes": "Log into your account -> Go to account settings -> Scroll down to the bottom of the page -> Click Delete Account.",
+        "domains": [
+            "previewed.app"
+        ]
+    },
+
+    {
         "name": "Prey",
         "url": "https://panel.preyproject.com/settings/account",
         "difficulty": "easy",
