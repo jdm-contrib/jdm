@@ -12667,9 +12667,8 @@
     {
         "name": "Python Package Index (PyPI)",
         "url": "https://pypi.org/manage/account/",
-        "difficulty": "easy",
-        "notes": "Go to \"Delete account > Delete your PyPI account\".",
-        "notes_tr": "\"Hesabı Sil\" \"PyPI hesabınızı silin\" tuşuna basın.",
+        "difficulty": "medium",
+        "notes": "Go to \"Delete account > Delete your PyPI account\". Projects that you are the sole of owner of will be needed to have their ownership transferred to another user or to be deleted before being able to proceed.",
         "domains": [
             "pypi.org"
         ]
