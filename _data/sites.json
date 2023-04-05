@@ -4082,9 +4082,8 @@
 
     {
         "name": "DJI",
-        "url": "https://dji.com",
-        "difficulty": "medium",
-        "notes": "You cannot delete your account from the website, you must use the app. Go to 'Account' then 'Settings' and finally 'Delete Account'.",
+        "url": "https://account.dji.com/account/userCancel",
+        "difficulty": "easy",
         "domains": [
             "dji.com"
         ]
