@@ -10755,6 +10755,19 @@
     },
 
     {
+        "name": "Newegg",
+        "email": "privacy@newegg.com",
+        "url": "https://kb.newegg.com/knowledge-base/privacy-policy-newegg/#12-what-are-your-rights",
+        "difficulty": "limited",
+        "notes": "Deleting your account is only possible if an applicable government policy gives you the right to delete your account.",
+        "notes_de": "Du kannst deinen Account nur löschen, wenn die Gesetze deines Landes dir das Recht dazu geben.",
+        "domains": [
+            "newegg.ca",
+            "newegg.com"
+        ]
+    },
+    
+    {
         "name": "Newgrounds",
         "url": "https://www.newgrounds.com/account/delete",
         "difficulty": "easy",
