@@ -7957,12 +7957,12 @@
 
     {
         "name": "Interactive Brokers",
-        "url": "https://guides.interactivebrokers.com/am/am/manageaccount/howtocloseyouraccount.htm",
-        "difficulty": "medium",
-        "notes": "There are a lot of extra steps to go through before being able to delete your account, which is detailed in the Account Deletion guide.",
+        "url": "https://www.interactivebrokers.com/RegTemplates/PDF/closeAccount.pdf",
+        "difficulty": "hard",
+        "notes": "In order to delete your account, you have to fill out the PDF linked and send it to the email linked below.",
+        "email": "accountmanagement@interactivebrokers.com",
         "domains": [
-            "interactivebrokers.ca",
-            "guides.interactivebrokers.com"
+            "interactivebrokers.com"
         ]
     },
 
