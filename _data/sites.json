@@ -9017,19 +9017,23 @@
     },
 
     {
-        "name": "Linus Tech Tips",
-        "url": "https://linustechtips.com/privacy/",
+        "name": "Linus Tech Tips Store",
+        "email": "support@lttstore.com",
+        "url": "https://www.lttstore.com/pages/privacy-policy",
         "difficulty": "hard",
-        "notes": "You have to contact a staff member in the forum to have your account deleted.",
-        "notes_ru": "Чтобы удалить ваш аккаунт, вам необходимо связаться с админом форума.",
-        "notes_de": "Sie müssen einen Administratoren im Forum kontaktieren, um Ihr Konto löschen zu lassen.",
-        "notes_fr": "Pour supprimer votre compte, vous devez contacter un membre du personnel du forum.",
-        "notes_tr": "Hesabınızı silinmesi için forum moderatörleriyle iletişime geçmeniz gerekiyor.",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
-            "linustechtips.com"
+            "https://lttstore.com"
         ]
     },
-
+    
     {
         "name": "Listia",
         "url": "https://help.listia.com/hc/en-us/articles/203895428-How-do-I-delete-close-my-account-",
@@ -9165,24 +9169,6 @@
         "notes": "Scroll all the way down on the website and find a little button with a picture of an envelope to contact customer support to have your account deleted.",
         "domains": [
             "https://rewards.lovemycreditunion.org"
-        ]
-    },
-
-    {
-        "name": "Linus Tech Tips Store",
-        "email": "support@lttstore.com",
-        "url": "https://www.lttstore.com/pages/privacy-policy",
-        "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
-        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
-        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "domains": [
-            "https://lttstore.com"
         ]
     },
 
