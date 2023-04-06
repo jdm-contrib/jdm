@@ -9914,6 +9914,7 @@
 
     {
         "name": "Mi Account",
+        "email": "service.global@xiaomi.com",
         "url": "https://account.xiaomi.com/pass/del",
         "difficulty": "easy",
         "domains": [
