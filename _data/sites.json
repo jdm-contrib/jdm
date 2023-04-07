@@ -9030,10 +9030,10 @@
         "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
-            "https://lttstore.com"
+            "lttstore.com"
         ]
     },
-    
+
     {
         "name": "Listia",
         "url": "https://help.listia.com/hc/en-us/articles/203895428-How-do-I-delete-close-my-account-",
