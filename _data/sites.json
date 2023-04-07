@@ -339,7 +339,7 @@
 
     {
         "name": "Acasa",
-        "url": "https://app.helloacasa.com/register/edit",
+        "url": "https://app.heyacasa.com/register/edit",
         "difficulty": "easy",
         "notes": "In your account settings choose 'Remove my account' at the bottom.",
         "notes_ru": "В настройках вашей учетной записи выберите снизу «Удалить мою учетную запись».",
@@ -348,7 +348,7 @@
         "domains": [
             "splittable.co",
             "helloacasa.com",
-            "app.helloacasa.com"
+            "app.heyacasa.com"
         ]
     },
 
