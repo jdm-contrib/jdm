@@ -16,7 +16,7 @@ The sites, urls and additional notes are stored in `_data/sites.json`. If you wa
 - `email`: *(optional)* If you have to send an email to a company to cancel your account, add the email address here. We'll do the rest.
 - `email_subject`: *(optional)* Set the subject for the email link. If unset, the default text is "Account Deletion Request".
 - `email_body`: *(optional)* Set the body for the email link. If unset, the default text is "Please delete my account, my username is XXXXXX".
-- `domains`: This is used by the [Chrome extension](https://github.com/jdm-contrib/justdelete.me-chrome-extension) and [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/justdeleteme/)
+- `domains`: This is used by the [Chrome extension](https://github.com/jdm-contrib/justdelete.me-chrome-extension) and [Firefox Add-on](https://github.com/jdm-contrib/justdelete.me-firefox-addon)
 
 ## Contribution checklist
 
