@@ -5185,18 +5185,6 @@
     },
 
     {
-        "name": "FastTech",
-        "url": "https://support.fasttech.com/general/ACCT",
-        "difficulty": "hard",
-        "notes": "You need to create a ticket to request the deletion of your account.",
-        "notes_tr": "Hesabınızı silinmesini talep etmek için destek talebi oluşturmalısınız.",
-        "domains": [
-            "fasttech.com",
-            "support.fasttech.com"
-        ]
-    },
-
-    {
         "name": "FastWeb",
         "url": "https://www.fastweb.com/login",
         "difficulty": "easy",
