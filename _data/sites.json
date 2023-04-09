@@ -4693,6 +4693,16 @@
     },
 
     {
+        "name": "Edabit",
+        "url": "https://edabit.com/challenges",
+        "difficulty": "easy",
+        "notes": "On the website, click on your avatar, click on Settings, click Account, and hit the 'Delete Account' button",
+        "domains": [
+            "edabit.com"
+        ]
+    },
+
+    {
         "name": "EDDB",
         "url": "https://eddb.io/contact",
         "difficulty": "hard",
