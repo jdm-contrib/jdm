@@ -5022,11 +5022,10 @@
 
     {
         "name": "Experian",
-        "url": "https://www.experiandirect.com/triplealert/Message.aspx?PageTypeID=FAQ&WT.svl=faq&SiteVersionID=473&SiteID=100173&sc=657900&bcd=",
+        "url": "https://www.experian.com",
         "difficulty": "hard",
         "notes": "You have to call or email them. They respond to email quickly, however, so it is not that painful.",
-        "notes_tr": "Onlara e-posta göndermeniz veya aramanız gerekiyor. Ancak e-postaya hızlı yanıt veriyorlar, bu yüzden o kadar da acı verici değil.",
-        "email": "support@experiandirect.com",
+        "email": "support@experian.com",
         "domains": [
             "experiandirect.com"
         ]
