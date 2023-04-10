@@ -4,7 +4,7 @@
         "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
         "difficulty": "easy",
         "notes": "Profile > settings > delete account > confirm",
-        "notes_de": "Profil > Einstellungen > Account löschen > Bestätigen"
+        "notes_de": "Profil > Einstellungen > Account löschen > Bestätigen",
         "notes_ru": "Профиль > настройки > удалить аккаунт > подтвердить.",
         "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
         "domains": [
