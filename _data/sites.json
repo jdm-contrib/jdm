@@ -14275,6 +14275,17 @@
     },
 
     {
+        "name": "Smodin",
+        "url": "https://smodin.io/account",
+        "difficulty": "easy",
+        "notes": "Click the 'Subscriptions' tab at the top left of the page. Then scroll down and click the 'Delete Account' button at the very bottom of the page and select a checkbox. Your account will be deleted after 5 days",
+        "notes_pl": "Kliknij kartę 'Subskrypcje' w lewym górnym rogu strony. Następnie przewiń w dół i kliknij przycisk'Usuń Konto' na samym dole strony i zaznacz pole wyboru. Twoje konto zostanie usunięte po 5 dniach.",
+        "domains": [
+            "smodin.io"
+        ]
+    },
+
+    {
         "name": "Smoothcomp",
         "url": "https://support.smoothcomp.com/article/193-please-remove-delete-hide-my-account-gdpr",
         "difficulty": "easy",
