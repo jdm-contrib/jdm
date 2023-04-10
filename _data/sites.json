@@ -8597,15 +8597,6 @@
     },
 
     {
-        "name": "Klepit",
-        "url": "https://www.klepit.com/?v=10",
-        "difficulty": "impossible",
-        "domains": [
-            "klepit.com"
-        ]
-    },
-
-    {
         "name": "Ko-fi",
         "url": "https://ko-fi.com/Manage/DeleteAccount/",
         "difficulty": "medium",
