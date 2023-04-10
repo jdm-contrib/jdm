@@ -15352,6 +15352,16 @@
     },
 
     {
+        "name": "Tesla",
+        "url": "https://www.tesla.com/support/how-create-or-delete-tesla-account#deleting-your-tesla-account",
+        "notes": "Open the Tesla app. Tap the profile picture in the top-right corner. Tap ‘Account.’ Tap ‘Security and Privacy.’ Tap ‘Delete Account.’",
+        "difficulty": "easy",
+        "domains": [
+            "tesla.com"
+        ]
+    },
+
+    {
         "name": "Testbirds",
         "url": "https://nest.testbirds.com/faq/category/list#accordion_faq-167",
         "difficulty": "easy",
