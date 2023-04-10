@@ -6443,18 +6443,6 @@
     },
 
     {
-        "name": "Good.Co",
-        "url": "https://good.co",
-        "difficulty": "easy",
-        "notes": "On the top bar, click on your photo, go to 'Settings', go to 'Miscellaneous' and then hit 'Cancel Account'.",
-        "notes_tr": "Üst çubukta, fotoğrafınızı tıklayın, \"Ayarlar\" seçeneğine gidin, \"Çeşitli\" seçeneğine gidin ve ardından \"Hesabı İptal Et\" tuşuna basın.",
-        "notes_fr": "Dans le menu en haut, cliquez sur votre photo, allez dans vos parametres, allez dans le menu « Miscellaneous » et puis cliquez sur « Cancel Account ».",
-        "domains": [
-            "good.co"
-        ]
-    },
-
-    {
         "name": "Goodreads",
         "url": "https://www.goodreads.com/user/destroy",
         "difficulty": "easy",
