@@ -13656,22 +13656,6 @@
     },
 
     {
-        "name": "ScanMyServer",
-        "url": "https://scanmyserver.com/?suspend=1",
-        "difficulty": "easy",
-        "notes": "Login to your account and follow 'Account Suspension' instructions.",
-        "notes_tr": "Hesabınıza giriş yapın ve \"Hesabı Askıya Al\" talimatlarını izleyin.",
-        "notes_fr": "Connectez vous et suivez les instructions de suspension du compte.",
-        "notes_it": "Entra nel tuo account e segui le istruzioni 'Account Suspension'.",
-        "notes_pt_br": "Faça login e siga as instruções de 'Account Suspension'.",
-        "notes_cat": "Entri al seu compte i segueixi les instruccions a 'Account Suspension'.",
-        "notes_es": "Entra en tu cuenta y sigue las instrucciones en 'Account Suspension'.",
-        "domains": [
-            "scanmyserver.com"
-        ]
-    },
-
-    {
         "name": "Scavify",
         "url": "https://www.scavify.com/users/edit",
         "difficulty": "easy",
