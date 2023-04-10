@@ -7543,6 +7543,16 @@
     },
 
     {
+        "name": "HUAWEI ID",
+        "url": "https://consumer.huawei.com/ph/support/content/en-us00681307/",
+        "difficulty": "easy",
+        "notes": "On mobile, go to Settings -> HUAWEI ID -> Account Security -> More -> Security Center -> Delete account. On the desktop, id.cloud.huawei.com -> Account Security -> Security Center -> Delete account.",
+        "domains": [
+            "huawei.com"
+        ],
+    },
+    
+    {
         "name": "Huddle",
         "url": "https://huddle.zendesk.com/hc/en-us/articles/200124703-How-do-I-cancel-my-Huddle-account-",
         "difficulty": "hard",
