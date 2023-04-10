@@ -3402,17 +3402,6 @@
     },
 
     {
-        "name": "Crushee",
-        "url": "http://crushee.com/pages/faq",
-        "difficulty": "impossible",
-        "notes": "They mock the very idea of wanting to delete your account in their faq: \"Can I delete my account cause I totally h8 you guise??!!!111\"",
-        "notes_tr": "SSS sayfalarında hesabınızı silmek isteme fikriyle dalga geçiyorlar: \"Senden tamamen nefret ediyorum bu yüzden hesabımı silebilir miyim??!!!111\"",
-        "domains": [
-            "crushee.com"
-        ]
-    },
-
-    {
         "name": "Crypton.sh",
         "url": "https://crypton.sh/app/account",
         "difficulty": "easy",
