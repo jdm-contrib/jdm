@@ -1228,19 +1228,11 @@
 
     {
         "name": "Asos",
-        "url": "https://asos-de.custhelp.com/app/askchangedetails",
+        "url": "https://www.asos.com/customer-care/technical/id-like-to-close-my-account-with-asos-what-should-i-do/",
         "difficulty": "hard",
-        "notes": "Request deletion from customer services.",
-        "notes_tr": "Müşteri hizmetlerinden hesabınızın silinmesini talep edin.",
-        "notes_ru": "Запросить удаление из службы поддержки.",
-        "notes_fr": "Demandez la suppresion du compte par le support du site.",
-        "notes_it": "Richiedi la cancellazione al servizio clienti",
-        "notes_de": "Beantrage die Löschung beim Support.",
-        "notes_pt_br": "Peça para que seja deletada pela assistência ao cliente.",
-        "notes_cat": "Demani l'eliminació del compte al servei d'atenció al client.",
-        "notes_es": "Pide la eliminación de tu cuenta al servicio de atención al cliente.",
+        "notes": "If not using the app, needs to request deletion from customer services. Theoretically on the app there are options to delete account described in the FAQ.",
         "domains": [
-            "asos.de"
+            "asos.com"
         ]
     },
 
