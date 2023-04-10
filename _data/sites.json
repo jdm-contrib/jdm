@@ -3414,6 +3414,16 @@
     },
 
     {
+        "name": "CryptoPanic",
+        "url": "https://cryptopanic.com/accounts/delete/",
+        "difficulty": "medium",
+        "notes": "Click on 'Yes, send confirmation email', and you should receive an email to delete your account.",
+        "domains": [
+            "cryptopanic.com"
+        ]
+    },
+
+    {
         "name": "Cryptotrader",
         "url": "https://cryptotrader.org/privacy",
         "difficulty": "hard",
