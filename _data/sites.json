@@ -14274,16 +14274,6 @@
     },
 
     {
-        "name": "Smoothcomp",
-        "url": "https://support.smoothcomp.com/article/193-please-remove-delete-hide-my-account-gdpr",
-        "difficulty": "easy",
-        "notes": "Click on your name at the top right of the website, which opens a dropdown. Then, click Settings and click the Delete Account button at the bottom of the page.",
-        "domains": [
-            "smoothcomp.com"
-        ]
-    },
-
-    {
         "name": "Smodin",
         "url": "https://smodin.io/account",
         "difficulty": "easy",
@@ -14291,6 +14281,16 @@
         "notes_pl": "Kliknij kartę 'Subskrypcje' w lewym górnym rogu strony. Następnie przewiń w dół i kliknij przycisk'Usuń Konto' na samym dole strony i zaznacz pole wyboru. Twoje konto zostanie usunięte po 5 dniach.",
         "domains": [
             "smodin.io"
+        ]
+    },
+
+    {
+        "name": "Smoothcomp",
+        "url": "https://support.smoothcomp.com/article/193-please-remove-delete-hide-my-account-gdpr",
+        "difficulty": "easy",
+        "notes": "Click on your name at the top right of the website, which opens a dropdown. Then, click Settings and click the Delete Account button at the bottom of the page.",
+        "domains": [
+            "smoothcomp.com"
         ]
     },
 
