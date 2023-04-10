@@ -339,7 +339,7 @@
 
     {
         "name": "Acasa",
-        "url": "https://app.helloacasa.com/register/edit",
+        "url": "https://app.heyacasa.com/register/edit",
         "difficulty": "easy",
         "notes": "In your account settings choose 'Remove my account' at the bottom.",
         "notes_ru": "В настройках вашей учетной записи выберите снизу «Удалить мою учетную запись».",
@@ -348,7 +348,7 @@
         "domains": [
             "splittable.co",
             "helloacasa.com",
-            "app.helloacasa.com"
+            "app.heyacasa.com"
         ]
     },
 
@@ -1228,19 +1228,11 @@
 
     {
         "name": "Asos",
-        "url": "https://asos-de.custhelp.com/app/askchangedetails",
+        "url": "https://www.asos.com/customer-care/technical/id-like-to-close-my-account-with-asos-what-should-i-do/",
         "difficulty": "hard",
-        "notes": "Request deletion from customer services.",
-        "notes_tr": "Müşteri hizmetlerinden hesabınızın silinmesini talep edin.",
-        "notes_ru": "Запросить удаление из службы поддержки.",
-        "notes_fr": "Demandez la suppresion du compte par le support du site.",
-        "notes_it": "Richiedi la cancellazione al servizio clienti",
-        "notes_de": "Beantrage die Löschung beim Support.",
-        "notes_pt_br": "Peça para que seja deletada pela assistência ao cliente.",
-        "notes_cat": "Demani l'eliminació del compte al servei d'atenció al client.",
-        "notes_es": "Pide la eliminación de tu cuenta al servicio de atención al cliente.",
+        "notes": "If not using the app, needs to request deletion from customer services. Theoretically on the app there are options to delete account described in the FAQ.",
         "domains": [
-            "asos.de"
+            "asos.com"
         ]
     },
 
@@ -3410,17 +3402,6 @@
     },
 
     {
-        "name": "Crushee",
-        "url": "http://crushee.com/pages/faq",
-        "difficulty": "impossible",
-        "notes": "They mock the very idea of wanting to delete your account in their faq: \"Can I delete my account cause I totally h8 you guise??!!!111\"",
-        "notes_tr": "SSS sayfalarında hesabınızı silmek isteme fikriyle dalga geçiyorlar: \"Senden tamamen nefret ediyorum bu yüzden hesabımı silebilir miyim??!!!111\"",
-        "domains": [
-            "crushee.com"
-        ]
-    },
-
-    {
         "name": "Crypton.sh",
         "url": "https://crypton.sh/app/account",
         "difficulty": "easy",
@@ -5022,11 +5003,10 @@
 
     {
         "name": "Experian",
-        "url": "https://www.experiandirect.com/triplealert/Message.aspx?PageTypeID=FAQ&WT.svl=faq&SiteVersionID=473&SiteID=100173&sc=657900&bcd=",
+        "url": "https://www.experian.com",
         "difficulty": "hard",
         "notes": "You have to call or email them. They respond to email quickly, however, so it is not that painful.",
-        "notes_tr": "Onlara e-posta göndermeniz veya aramanız gerekiyor. Ancak e-postaya hızlı yanıt veriyorlar, bu yüzden o kadar da acı verici değil.",
-        "email": "support@experiandirect.com",
+        "email": "support@experian.com",
         "domains": [
             "experiandirect.com"
         ]
@@ -5181,18 +5161,6 @@
         "email": "support@fanfiction.com",
         "domains": [
             "fanfiction.net"
-        ]
-    },
-
-    {
-        "name": "FastTech",
-        "url": "https://support.fasttech.com/general/ACCT",
-        "difficulty": "hard",
-        "notes": "You need to create a ticket to request the deletion of your account.",
-        "notes_tr": "Hesabınızı silinmesini talep etmek için destek talebi oluşturmalısınız.",
-        "domains": [
-            "fasttech.com",
-            "support.fasttech.com"
         ]
     },
 
@@ -6452,18 +6420,6 @@
         "notes_es": "En la barra superior, haz clic en 'tu nombre', después haz clic en 'Delete Account', al final del cuadro de diálogo.",
         "domains": [
             "goodnoows.com"
-        ]
-    },
-
-    {
-        "name": "Good.Co",
-        "url": "https://good.co",
-        "difficulty": "easy",
-        "notes": "On the top bar, click on your photo, go to 'Settings', go to 'Miscellaneous' and then hit 'Cancel Account'.",
-        "notes_tr": "Üst çubukta, fotoğrafınızı tıklayın, \"Ayarlar\" seçeneğine gidin, \"Çeşitli\" seçeneğine gidin ve ardından \"Hesabı İptal Et\" tuşuna basın.",
-        "notes_fr": "Dans le menu en haut, cliquez sur votre photo, allez dans vos parametres, allez dans le menu « Miscellaneous » et puis cliquez sur « Cancel Account ».",
-        "domains": [
-            "good.co"
         ]
     },
 
@@ -8605,15 +8561,6 @@
         "notes_tr": "Tüm siparişlerinizi ödeyin (varsa), ondan sonra 10 gün bekleyin, ödeme bilgilerinizi uygulamadan kaldırın, müşteri hizmetleri ile sohbet edin ve onlara pazarlama gönderilerinizin durdurulmasını ve kişisel verilerinizin silinmesini istediğinizi söyleyin.",
         "domains": [
             "klarna.com"
-        ]
-    },
-
-    {
-        "name": "Klepit",
-        "url": "https://www.klepit.com/?v=10",
-        "difficulty": "impossible",
-        "domains": [
-            "klepit.com"
         ]
     },
 
@@ -13668,22 +13615,6 @@
     },
 
     {
-        "name": "ScanMyServer",
-        "url": "https://scanmyserver.com/?suspend=1",
-        "difficulty": "easy",
-        "notes": "Login to your account and follow 'Account Suspension' instructions.",
-        "notes_tr": "Hesabınıza giriş yapın ve \"Hesabı Askıya Al\" talimatlarını izleyin.",
-        "notes_fr": "Connectez vous et suivez les instructions de suspension du compte.",
-        "notes_it": "Entra nel tuo account e segui le istruzioni 'Account Suspension'.",
-        "notes_pt_br": "Faça login e siga as instruções de 'Account Suspension'.",
-        "notes_cat": "Entri al seu compte i segueixi les instruccions a 'Account Suspension'.",
-        "notes_es": "Entra en tu cuenta y sigue las instrucciones en 'Account Suspension'.",
-        "domains": [
-            "scanmyserver.com"
-        ]
-    },
-
-    {
         "name": "Scavify",
         "url": "https://www.scavify.com/users/edit",
         "difficulty": "easy",
@@ -16559,18 +16490,6 @@
     },
 
     {
-        "name": "VIP Select",
-        "url": "https://www.vipselect.com.br/",
-        "email": "vipselect.rapido@gmail.com",
-        "difficulty": "hard",
-        "notes": "According to them, uninstalling the app and not accessing it for 30 days leads to the automatic deletion of the account. If you don't want to wait, you can e-mail.",
-        "notes_pt_br": "Segundo eles, apenas desinstalar o aplicativo e ficar 30 dias sem utilizá-lo leva à remoção automática da conta. Se não quiser esperar, pode enviar um e-mail.",
-        "domains": [
-            "vipselect.com.br"
-        ]
-    },
-
-    {
         "name": "Virmach",
         "url": "https://billing.virmach.com/submitticket.php",
         "difficulty": "impossible",
@@ -16971,17 +16890,6 @@
         "domains": [
             "wechat.com",
             "weixin.qq.com"
-        ]
-    },
-
-    {
-        "name": "Wedbio",
-        "url": "https://wedbio.com/#contact",
-        "difficulty": "hard",
-        "notes": "You have to contact them via the \"contact us form\" to get your account closed.",
-        "notes_tr": "Hesabınızı kapatmak için 'bize ulaşın formu' aracılığıyla onlarla iletişime geçmelisiniz.",
-        "domains": [
-            "wedbio.com"
         ]
     },
 
