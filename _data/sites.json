@@ -15963,6 +15963,16 @@
     },
 
     {
+        "name": "TurboSquid",
+        "url": "https://resources.turbosquid.com/how-do-i-close-my-account/",
+        "difficulty": "impossible",
+        "domains": [
+            "turbosquid.com",
+            "resources.turbosquid.com"
+        ]
+    },
+
+    {
         "name": "Turing",
         "url": "https://developers.turing.com/dashboard/account",
         "difficulty": "easy",
