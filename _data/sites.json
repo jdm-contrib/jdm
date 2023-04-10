@@ -16501,18 +16501,6 @@
     },
 
     {
-        "name": "VIP Select",
-        "url": "https://www.vipselect.com.br/",
-        "email": "vipselect.rapido@gmail.com",
-        "difficulty": "hard",
-        "notes": "According to them, uninstalling the app and not accessing it for 30 days leads to the automatic deletion of the account. If you don't want to wait, you can e-mail.",
-        "notes_pt_br": "Segundo eles, apenas desinstalar o aplicativo e ficar 30 dias sem utilizá-lo leva à remoção automática da conta. Se não quiser esperar, pode enviar um e-mail.",
-        "domains": [
-            "vipselect.com.br"
-        ]
-    },
-
-    {
         "name": "Virmach",
         "url": "https://billing.virmach.com/submitticket.php",
         "difficulty": "impossible",
