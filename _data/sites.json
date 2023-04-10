@@ -15354,7 +15354,7 @@
     {
         "name": "Tesla",
         "url": "https://www.tesla.com/support/how-create-or-delete-tesla-account#deleting-your-tesla-account",
-        "notes": "Open the Tesla app. Tap the profile picture in the top-right corner. Tap ‘Account.’ Tap ‘Security and Privacy.’ Tap ‘Delete Account.’",
+        "notes": "Open the Tesla app, tap the profile picture in the top-right corner -> ‘Account' -> ‘Security and Privacy' and finally ‘Delete Account’.",
         "difficulty": "easy",
         "domains": [
             "tesla.com"
