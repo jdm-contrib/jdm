@@ -8759,9 +8759,9 @@
 
     {
         "name": "Letgo",
-        "url": "https://www.letgo.com/en-tr/contact",
-        "url_tr": "https://www.letgo.com/tr-tr/contact",
-        "url_es": "https://www.letgo.com/es-es/contact",
+        "url": "https://help.letgo.com/hc/en-001/requests/new?ticket_form_id=5285423513618",
+        "url_tr": "https://help.letgo.com/hc/tr/requests/new?ticket_form_id=528",
+        "url_es": "https://help.letgo.com/hc/es-es/requests/new?ticket_form_id=5285423513618",
         "difficulty": "hard",
         "notes": "To delete your account you have to go to \"I have a question about my account\"->\"Delete\" and write your request. You will get a return later on.",
         "notes_tr": "Hesabınızı silmek için formda \"Hesabım hakkında sorum var\"->\"Sil\" ve dilekçenizi yazmanız gerekiyor. Biraz zaman geçtikten sonra cevap alacaksınız.",
