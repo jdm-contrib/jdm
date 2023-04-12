@@ -470,8 +470,9 @@
 
     {
         "name": "AdGuard",
-        "url": "https://my.adguard.com/en/settings.html#delete",
+        "url": "https://my.adguard.com/en/account/settings",
         "difficulty": "easy",
+        "notes": "On your account settings, scroll to the bottom and click 'Delete my Account'",
         "domains": [
             "adguard.com",
             "auth.adguard.com",
@@ -3170,8 +3171,8 @@
 
     {
         "name": "Comment ça marche",
-        "url": "https://www.commentcamarche.net/communaute/remove.php3",
-        "difficulty": "medium",
+        "url": "https://auth.ccm.net/user/delete_account",
+        "difficulty": "easy",
         "notes": "Your messages will remain on the forums.",
         "notes_tr": "Mesajlarınız forumlarda kalacak.",
         "notes_fr": "Vos messages seront guardés.",
@@ -3346,7 +3347,7 @@
 
     {
         "name": "Crowdcast.io",
-        "url": "https://docs.crowdcast.io/account/how-do-i-cancel-my-account",
+        "url": "https://crowdcast.notion.site/Deleting-Your-Crowdcast-Account-952b7f9ff09648f7960e7d9ecfb6a1b4",
         "difficulty": "impossible",
         "notes": "You can pause your account for $10/mo or cancel your account.",
         "notes_tr": "Hesabınızı aylık 10$ karşılığında duraklatabilirsiniz ya da iptal edebilirsiniz.",
@@ -3424,16 +3425,6 @@
     },
 
     {
-        "name": "Cryptotrader",
-        "url": "https://cryptotrader.org/privacy",
-        "difficulty": "hard",
-        "email": "support@cryptotrader.org",
-        "domains": [
-            "cryptotrader.org"
-        ]
-    },
-
-    {
         "name": "CryptoVoucher",
         "url": "https://cryptovoucher.io/account/settings",
         "difficulty": "easy",
@@ -3456,14 +3447,11 @@
 
     {
         "name": "Crytek",
-        "url": "https://crytekcs.kayako.com/conversation/new/",
-        "difficulty": "hard",
-        "notes": "You can't delete your account without contacting them. You must submit a ticket and set the subject to 'Delete Account'",
-        "notes_tr": "Onlarla iletişim kurmadan hesabınızı silemezsiniz. E-posta gönderirken e-posta konusunu \"Hesabı Sil\" olarak ayarlayın",
-        "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen ein Ticket eröffnen und den Betreff auf 'Delete Account' setzen.",
+        "url": "https://www.crytek.com/privacy-policy#:~:text=VII.%20Review%2C%20Correction%20of%20Your%20Information%2C%20Requesting%20Removal%20from%20Mailing%20Lists%20and%20Deactivating%20Your%20Account",
+        "difficulty": "easy",
+        "notes": "You can delete your account by navigating to the profile settings or e-mailing them",
         "domains": [
-            "crytek.com",
-            "crytekcs.kayako.com"
+            "crytek.com"
         ]
     },
 
@@ -3848,14 +3836,13 @@
 
     {
         "name": "Digg",
-        "url": "https://digg.zendesk.com/hc/en-us/articles/233934647-How-do-I-delete-my-account",
+        "url": "https://digg.com/privacy#:~:text=How%20Can%20I%20Delete%20My%20Account%3F",
         "difficulty": "easy",
         "notes": "Go to \"Settings > Delete my account\".",
         "notes_tr": "\"Ayarlar\" \"Hesabımı Sil\" tuşuna basın.",
         "notes_pt_br": "Vá para \"Settings > Delete my account\".",
         "domains": [
-            "digg.com",
-            "digg.zendesk.com"
+            "digg.com"
         ]
     },
 
@@ -7747,16 +7734,6 @@
     },
 
     {
-        "name": "include",
-        "url": "https://www.include.io/help",
-        "difficulty": "easy",
-        "notes": "Go to the dropdown under your picture in the top right corner and click 'View Profile'. Click on the gear image next to your photo on your profile and click 'Account Settings'. Click 'Delete Account' in the bottom left corner. Type in your email and click 'I understand, delete this account'.",
-        "domains": [
-            "include.io"
-        ]
-    },
-
-    {
         "name": "Indeed",
         "url": "https://indeed.com",
         "difficulty": "easy",
@@ -9974,10 +9951,12 @@
 
     {
         "name": "MindMeister",
-        "url": "https://www.mindmeister.com/account/close",
+        "url": "https://accounts.meister.co/close_account",
+        "notes": "You have to cancel your plan first",
         "difficulty": "easy",
         "domains": [
-            "mindmeister.com"
+            "mindmeister.com",
+            "accounts.meister.co"
         ]
     },
 
@@ -11605,18 +11584,6 @@
         "notes_tr": "Hesabınızı kapatmak için müşteri hizmetleriyle telefon ile iletişime geçin.",
         "domains": [
             "papara.com"
-        ]
-    },
-
-    {
-        "name": "Paper by FiftyThree",
-        "url": "https://paper.fiftythree.com/settings",
-        "difficulty": "medium",
-        "notes": "Login to your account, go to settings, underneath 'Request account deletion' click 'submitting a request'. Enter your e-mail address and click 'Delete account'. Might take some days until the account gets deleted.",
-        "notes_tr": "Hesabınıza giriş yapın, ayarlara gidin, \"Hesap Silmeyi Talep Et\" altında \"Talep gönderme\" tuşuna tıklayın. E-posta adresinizi girin ve \"Hesabı Sil\" seçeneğine tıklayın. Hesabın silinmesi birkaç gün sürebilir.",
-        "domains": [
-            "fiftythree.com",
-            "paper.fiftythree.com"
         ]
     },
 
@@ -14514,6 +14481,17 @@
     },
 
     {
+        "name": "SquadJobs",
+        "url": "https://squadjobs.com/help",
+        "difficulty": "hard",
+        "email": "support@squadjobs.com",
+        "notes": "You need to e-mail them to request for account deletion.",
+        "domains": [
+            "squadjobs.com"
+        ]
+    },
+
+    {
         "name": "Square Cash",
         "url": "https://cash.me/login?return_to=support",
         "difficulty": "hard",
@@ -14662,12 +14640,8 @@
 
     {
         "name": "StepMap",
-        "url": "https://www.stepmap.de/profil.php",
+        "url": "https://www.stepmap.de/profile.html#profile_delete",
         "difficulty": "hard",
-        "notes": "To delete your StepMap account, let us know by sending an e-mail with info@stepmap.de and enter your username. The sender address must be your e-mail address that you have subscribed to at StepMap.",
-        "notes_tr": "StepMap hesabınızı silmek için, bir e-posta göndererek bize bildirin ve kullanıcı adınızı girin. Gönderen adresi, StepMap'te abone olduğunuz e-posta adresiniz olmalıdır.",
-        "notes_de": "Um Deinen StepMap-Account zu löschen, teile uns dies bitte per E-Mail an info@stepmap.de mit und nenne uns Deinen Benutzernamen. Die Absenderadresse muss Deine E-Mail-Adresse sein, mit der Du Dich bei StepMap angemeldet hast.",
-        "email": "info@stepmap.de",
         "domains": [
             "stepmap.de"
         ]
@@ -17439,7 +17413,7 @@
 
     {
         "name": "Wine HQ",
-        "url": "https://forum.winehq.org/viewtopic.php?p=136023",
+        "url": "https://forum.winehq.org/",
         "difficulty": "hard",
         "notes": "Send an E-Mail to the webmaster. If that didn't work, create a new forum thread on https://forum.winehq.org",
         "email": "web-admin@winehq.org",
