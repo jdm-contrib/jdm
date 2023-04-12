@@ -8102,7 +8102,7 @@
 
     {
         "name": "ITV",
-        "url": "https://www.itv.com/hub/user/profile",
+        "url": "https://www.itv.com/watch/user/profile",
         "difficulty": "easy",
         "notes": "Use the delete account option at the bottom of the page.",
         "domains": [
@@ -8769,9 +8769,9 @@
 
     {
         "name": "Letgo",
-        "url": "https://www.letgo.com/en-tr/contact",
-        "url_tr": "https://www.letgo.com/tr-tr/contact",
-        "url_es": "https://www.letgo.com/es-es/contact",
+        "url": "https://help.letgo.com/hc/en-001/requests/new?ticket_form_id=5285423513618",
+        "url_tr": "https://help.letgo.com/hc/tr/requests/new?ticket_form_id=528",
+        "url_es": "https://help.letgo.com/hc/es-es/requests/new?ticket_form_id=5285423513618",
         "difficulty": "hard",
         "notes": "To delete your account you have to go to \"I have a question about my account\"->\"Delete\" and write your request. You will get a return later on.",
         "notes_tr": "Hesabınızı silmek için formda \"Hesabım hakkında sorum var\"->\"Sil\" ve dilekçenizi yazmanız gerekiyor. Biraz zaman geçtikten sonra cevap alacaksınız.",
@@ -11971,14 +11971,13 @@
 
     {
         "name": "PicPay",
-        "url": "https://ajuda.picpay.com/mobile/como-desativar-minha-conta",
-        "difficulty": "impossible",
-        "notes": "PicPay accounts can't be deleted, only disabled.",
-        "notes_tr": "PicPay hesapları silinemez, sadece iptal edilebilir.",
-        "notes_pt_br": "Contas do PicPay não podem ser excluídas, apenas desativadas.",
+        "url": "https://meajuda.picpay.com/hc/pt-br/articles/4407302956819-Como-encerro-minha-conta-do-PicPay-",
+        "difficulty": "medium",
+        "notes": "PicPay accounts can be reactivated within 25 days of the request.",
+        "notes_pt_br": "Contas do PicPay podem ser reativadas até 25 dias após o pedido de encerramento.",
         "domains": [
             "picpay.com",
-            "ajuda.picpay.com",
+            "meajuda.picpay.com",
             "picpay.me"
         ]
     },
