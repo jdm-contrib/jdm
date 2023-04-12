@@ -3835,14 +3835,13 @@
 
     {
         "name": "Digg",
-        "url": "https://digg.zendesk.com/hc/en-us/articles/233934647-How-do-I-delete-my-account",
+        "url": "https://digg.com/privacy#:~:text=How%20Can%20I%20Delete%20My%20Account%3F",
         "difficulty": "easy",
         "notes": "Go to \"Settings > Delete my account\".",
         "notes_tr": "\"Ayarlar\" \"Hesabımı Sil\" tuşuna basın.",
         "notes_pt_br": "Vá para \"Settings > Delete my account\".",
         "domains": [
-            "digg.com",
-            "digg.zendesk.com"
+            "digg.com"
         ]
     },
 
