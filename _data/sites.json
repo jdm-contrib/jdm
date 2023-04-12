@@ -11365,6 +11365,17 @@
     },
 
     {
+        "name": "OpenFoodFacts",
+        "url": "https://blog.openfoodfacts.org/en/account-deletion",
+        "difficulty": "hard",
+        "notes": "In order to delete your OpenFoodFacts account, you need to fill out the form and send an email.",
+        "email": "contact@openfoodfacts.org",
+        "domains": [
+            "openfoodfacts.com"
+        ]
+    },
+
+    {
         "name": "OpenInvest",
         "url": "https://www.openinvest.com/terms-of-service",
         "difficulty": "hard",
@@ -17991,17 +18002,6 @@
         "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
         "domains": [
             "ciceksepeti.com"
-        ]
-    },
-
-    {
-        "name": "OpenFoodFacts",
-        "url": "https://openfoodfacts.org",
-        "difficulty": "hard",
-        "notes": "In order to delete your OpenFoodFacts account, you need to fill out a <a href=\"https://blog.openfoodfacts.org/en/account-deletion\">form</a> and send an email.",
-        "email": "contact@openfoodfacts.org",
-        "domains": [
-            "openfoodfacts.com"
         ]
     }
 ]
