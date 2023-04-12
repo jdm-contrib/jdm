@@ -470,8 +470,9 @@
 
     {
         "name": "AdGuard",
-        "url": "https://my.adguard.com/en/settings.html#delete",
+        "url": "https://my.adguard.com/en/account/settings",
         "difficulty": "easy",
+        "notes": "On your account settings, scroll to the bottom and click 'Delete my Account'",
         "domains": [
             "adguard.com",
             "auth.adguard.com",
