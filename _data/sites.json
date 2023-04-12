@@ -5681,6 +5681,16 @@
     },
 
     {
+        "name": "Frontend Mentor",
+        "url": "https://www.frontendmentor.io/settings/account",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete Account' button and type your username.",
+        "domains": [
+            "frontendmentor.io"
+        ]
+    },
+
+    {
         "name": "Fruux",
         "url": "https://fruux.com/account/login/",
         "difficulty": "easy",
