@@ -11588,18 +11588,6 @@
     },
 
     {
-        "name": "Paper by FiftyThree",
-        "url": "https://paper.fiftythree.com/settings",
-        "difficulty": "medium",
-        "notes": "Login to your account, go to settings, underneath 'Request account deletion' click 'submitting a request'. Enter your e-mail address and click 'Delete account'. Might take some days until the account gets deleted.",
-        "notes_tr": "Hesabınıza giriş yapın, ayarlara gidin, \"Hesap Silmeyi Talep Et\" altında \"Talep gönderme\" tuşuna tıklayın. E-posta adresinizi girin ve \"Hesabı Sil\" seçeneğine tıklayın. Hesabın silinmesi birkaç gün sürebilir.",
-        "domains": [
-            "fiftythree.com",
-            "paper.fiftythree.com"
-        ]
-    },
-
-    {
         "name": "PaperKarma",
         "url": "https://www.paperkarma.com/faq",
         "difficulty": "hard",
