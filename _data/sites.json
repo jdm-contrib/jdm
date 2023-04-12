@@ -9951,10 +9951,12 @@
 
     {
         "name": "MindMeister",
-        "url": "https://www.mindmeister.com/account/close",
+        "url": "https://accounts.meister.co/close_account",
+        "notes": "You have to cancel your plan first",
         "difficulty": "easy",
         "domains": [
-            "mindmeister.com"
+            "mindmeister.com",
+            "accounts.meister.co"
         ]
     },
 
