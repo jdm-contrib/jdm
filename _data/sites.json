@@ -3446,14 +3446,11 @@
 
     {
         "name": "Crytek",
-        "url": "https://crytekcs.kayako.com/conversation/new/",
-        "difficulty": "hard",
-        "notes": "You can't delete your account without contacting them. You must submit a ticket and set the subject to 'Delete Account'",
-        "notes_tr": "Onlarla iletişim kurmadan hesabınızı silemezsiniz. E-posta gönderirken e-posta konusunu \"Hesabı Sil\" olarak ayarlayın",
-        "notes_de": "Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen ein Ticket eröffnen und den Betreff auf 'Delete Account' setzen.",
+        "url": "https://www.crytek.com/privacy-policy#:~:text=VII.%20Review%2C%20Correction%20of%20Your%20Information%2C%20Requesting%20Removal%20from%20Mailing%20Lists%20and%20Deactivating%20Your%20Account",
+        "difficulty": "easy",
+        "notes": "You can delete your account by navigating to the profile settings or e-mailing them",
         "domains": [
-            "crytek.com",
-            "crytekcs.kayako.com"
+            "crytek.com"
         ]
     },
 
