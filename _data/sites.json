@@ -3424,16 +3424,6 @@
     },
 
     {
-        "name": "Cryptotrader",
-        "url": "https://cryptotrader.org/privacy",
-        "difficulty": "hard",
-        "email": "support@cryptotrader.org",
-        "domains": [
-            "cryptotrader.org"
-        ]
-    },
-
-    {
         "name": "CryptoVoucher",
         "url": "https://cryptovoucher.io/account/settings",
         "difficulty": "easy",
