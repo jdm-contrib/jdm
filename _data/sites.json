@@ -11961,14 +11961,13 @@
 
     {
         "name": "PicPay",
-        "url": "https://ajuda.picpay.com/mobile/como-desativar-minha-conta",
-        "difficulty": "impossible",
-        "notes": "PicPay accounts can't be deleted, only disabled.",
-        "notes_tr": "PicPay hesapları silinemez, sadece iptal edilebilir.",
-        "notes_pt_br": "Contas do PicPay não podem ser excluídas, apenas desativadas.",
+        "url": "https://meajuda.picpay.com/hc/pt-br/articles/4407302956819-Como-encerro-minha-conta-do-PicPay-",
+        "difficulty": "medium",
+        "notes": "PicPay accounts can be reactivated within 25 days of the request.",
+        "notes_pt_br": "Contas do PicPay podem ser reativadas até 25 dias após o pedido de encerramento.",
         "domains": [
             "picpay.com",
-            "ajuda.picpay.com",
+            "meajuda.picpay.com",
             "picpay.me"
         ]
     },
