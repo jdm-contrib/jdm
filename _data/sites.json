@@ -3170,8 +3170,8 @@
 
     {
         "name": "Comment ça marche",
-        "url": "https://www.commentcamarche.net/communaute/remove.php3",
-        "difficulty": "medium",
+        "url": "https://auth.ccm.net/user/delete_account",
+        "difficulty": "easy",
         "notes": "Your messages will remain on the forums.",
         "notes_tr": "Mesajlarınız forumlarda kalacak.",
         "notes_fr": "Vos messages seront guardés.",
