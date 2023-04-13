@@ -11367,7 +11367,7 @@
     {
         "name": "OpenFoodFacts",
         "url": "https://blog.openfoodfacts.org/en/account-deletion",
-        "difficulty": "hard",
+        "difficulty": "impossible",
         "notes": "In order to delete your OpenFoodFacts account, you need to fill out the form and send an email.",
         "email": "contact@openfoodfacts.org",
         "domains": [
