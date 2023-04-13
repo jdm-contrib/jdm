@@ -2900,6 +2900,16 @@
     },
 
     {
+        "name": "CNN",
+        "url": "https://www.cnn.com/account/settings",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the page and click 'Delete Account'",
+        "domains": [
+            "cnn.com"
+        ]
+    },
+
+    {
         "name": "Coda",
         "url": "https://coda.io/account",
         "difficulty": "easy",
