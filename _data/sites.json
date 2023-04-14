@@ -1174,6 +1174,16 @@
     },
 
     {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/civis/",
+        "difficulty": "hard",
+        "notes": "You have to make a forum post about deleting your account and evantually the admins will delete your account, although your comment and post history stays on the website",
+        "domains": [
+            "arstechnica.com"
+        ]
+    },
+
+    {
         "name": "Artsy",
         "url": "https://www.artsy.net/user/delete",
         "difficulty": "easy",
