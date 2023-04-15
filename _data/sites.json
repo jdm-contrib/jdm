@@ -2117,10 +2117,10 @@
 
     {
         "name": "Bookmark OS",
-        "url": "https://bookmarkos.com/",
-        "difficulty": "impossible",
-        "notes": "There is no option to remove the account.",
-        "notes_tr": "Hesabınızı kaldırmanın bir yolu yok.",
+        "url": "https://bookmarkos.com/privacy_policy",
+        "difficulty": "hard",
+        "notes": "Send an email and request account deletion.",
+        "email": "dave@bookmarkos.com",
         "domains": [
             "bookmarkos.com"
         ]
@@ -5233,6 +5233,16 @@
     },
 
     {
+        "name": "FeedBin",
+        "url": "https://feedbin.com/settings/account",
+        "difficulty": "easy",
+        "notes": "At the bottom of the linked page, click 'Cancel Account'.",
+        "domains": [
+            "feedbin.com"
+        ]
+    },
+
+    {
         "name": "Feedly",
         "url": "https://feedly.com/i/erase",
         "difficulty": "easy",
@@ -6987,6 +6997,16 @@
     },
 
     {
+        "name": "Guildtag",
+        "url": "https://www.guilded.gg",
+        "difficulty": "medium",
+        "notes": "Navigate to your profile editor and click 'Delete Account'. If you want your posts deleted, you must remove them invidivially beforehand.",
+        "domains": [
+            "guildtag.com"
+        ]
+    },
+
+    {
         "name": "Gule Sider (Norwegian Yellow Pages)",
         "url": "https://oppdater.gulesider.no/person",
         "difficulty": "impossible",
@@ -7734,7 +7754,7 @@
 
     {
         "name": "IMDb",
-        "url": "https://secure.imdb.com/register-imdb/delete",
+        "url": "https://www.imdb.com/registration/delete",
         "difficulty": "easy",
         "domains": [
             "imdb.com",
@@ -8083,10 +8103,10 @@
     },
 
     {
-        "name": "issuu",
-        "url": "https://issuu.com/home/settings/billing",
+        "name": "Issuu",
+        "url": "https://issuu.com/home/settings",
         "difficulty": "easy",
-        "notes": "Closing your account will delete your profile and all of your publications. There is no going back, so don't say we didn't warn you.",
+        "notes": "Near the bottom of the linked page, expand the 'Manage Account' section and click 'Delete My Account'. Closing your account will delete your profile and all of your publications. There is no going back, so don't say we didn't warn you.",
         "notes_tr": "Hesabınızı kapatmak, profilinizi ve tüm yayınlarınızı siler. Geri dönüş yok, bu yüzden sizi uyarmadığımızı söyleme.",
         "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود.",
         "domains": [
@@ -8675,6 +8695,16 @@
         "notes" : "Go to Account settings and click Delete account.",
         "domains": [
             "lampyre.io"
+        ]
+    },
+
+    {
+        "name": "LanguageTool",
+        "url": "https://languagetool.org/editor/settings/account",
+        "difficulty": "easy",
+        "notes" : "At the bottom of the linked page, click 'Delete my account'.",
+        "domains": [
+            "languagetool.org"
         ]
     },
 
@@ -11480,7 +11510,7 @@
 
     {
         "name": "Osu!",
-        "url": "https://osu.ppy.sh/wiki/en/Help_Centre/Account#can-i-delete-my-account?",
+        "url": "https://osu.ppy.sh/wiki/en/Help_centre/Account#account-deletion",
         "email": "privacy@ppy.sh",
         "difficulty": "hard",
         "notes": "You can only request account deletion by sending an email.",
