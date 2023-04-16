@@ -4821,6 +4821,17 @@
     },
 
     {
+        "name": "Engadget",
+        "url": "https://engadget.mydashboard.oath.com/#section-manage",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the page and click 'Delete Account'.",
+        "domains": [
+            "engadget.com",
+            "engadget.mydashboard.oath.com"
+        ]
+    },
+
+    {
         "name": "enjin",
         "url": "https://www.enjin.com/dashboard/account/privacy",
         "difficulty": "easy",
