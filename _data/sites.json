@@ -11380,11 +11380,8 @@
         "meta": "popular",
         "name": "OpenAI",
         "url": "https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account",
-        "difficulty": "hard",
-        "notes": "There are two methods. Either by chat or sending an e-mail, both of them are hard.",
-        "email": "deletion@openai.com",
-        "email_body": "Please delete my account.",
-        "email_subject": "Account Deletion Request",
+        "difficulty": "easy",
+        "notes": "There are two methods: Sign in to ChatGPT, click on settings at the bottom left, click on 'Delete Account', or using OpenAI's help chat.",
         "domains": [
             "openai.com"
         ]
