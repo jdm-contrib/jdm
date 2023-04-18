@@ -16842,6 +16842,17 @@
     },
 
     {
+        "name": "The Washington Post",
+        "url": "https://helpcenter.washingtonpost.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You have to submit a request regarding account deletion, and support will get back to you by sending you a account deletion confirmation email. After confirming, your account is deleted. For residents of EEA, UK, Switzerland, California, or Virginia who verify your address, they will delete additional information.",
+        "domains": [
+            "helpcenter.washingtonpost.com",
+            "washingtonpost.com"
+        ]
+    },
+
+    {
         "name": "Watch2Gether",
         "url": "https://w2g.tv/users/current_user",
         "difficulty": "easy",
