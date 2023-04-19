@@ -12016,6 +12016,16 @@
     },
 
     {
+        "name": "Photomath",
+        "url": "https://photomath.com/en/help/delete-account",
+        "difficulty": "easy",
+        "notes": "Open the menu and sign in -> 'Security and Privacy' -> 'Edit profile' -> 'Delete profile'",
+        "domains": [
+            "photobucket.com"
+        ]
+    },
+
+    {
         "name": "phplist",
         "url": "https://www.phplist.com/privacy",
         "difficulty": "hard",
