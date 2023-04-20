@@ -2547,6 +2547,17 @@
     },
 
     {
+        "name": "CBC",
+        "url": "https://cbchelp.cbc.ca/hc/en-ca/requests/new",
+        "difficulty": "hard",
+        "notes": "Go to the link and make a request about deleting your account. Account deletion can take up to 30 days.",
+        "domains": [
+            "cbchelp.cbc.ca",
+            "cbc.ca"
+        ]
+    },
+
+    {
         "name": "CCMA (TV3 i CatRàdio)",
         "url": "https://registreusuari.ccma.cat/usuaris/baixa",
         "difficulty": "easy",
