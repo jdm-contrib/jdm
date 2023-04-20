@@ -7928,7 +7928,14 @@
             "insights.gg"
         ]
     },
-
+    {
+        "name": "Instacart",
+        "url": "https://www.instacart.com/user_privacy/form/",
+        "difficulty": "easy",
+        "domains": [
+            "instacart.com"
+        ]
+    },
     {
         "name": "Instagram",
         "meta": "popular",
