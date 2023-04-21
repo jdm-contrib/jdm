@@ -3927,10 +3927,17 @@
 
     {
         "name": "Discourse",
-        "url": "https://www.discourse.org/",
-        "difficulty": "impossible",
-        "notes": "There seems to be no standard way of handling account deletions on discourse-hosted forums.",
-        "notes_tr": "Discouse tarafından barındırılan forumlarda hesap silme işlemlerini ele almanın standart bir yolu yok gibi görünüyor.",
+        "email": "privacy@discourse.org",
+        "url": "https://www.discourse.org/privacy#heading--change",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "community.containo.us",
             "airlinepilot.life",
