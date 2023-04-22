@@ -7585,6 +7585,17 @@
     },
 
     {
+        "name": "HoYoverse",
+        "url": "https://account.hoyoverse.com/?lang=en#/account/safetySettings",
+        "difficulty": "medium",
+        "notes": "Log in to your HoYoverse account, navigate to the 'Requesting Account Deletion' button at the bottom of the page, then follow the steps given. Afterwards, your account will permanently be deleted after 30 days.",
+        "domains": [
+            "mihoyo.com",
+            "account.hoyoverse.com"
+        ]
+    },
+
+    {
         "name": "HP",
         "url": "https://www8.hp.com/us/en/privacy/ww-privacy-form.html",
         "difficulty": "hard",
