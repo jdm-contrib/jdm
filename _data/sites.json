@@ -5425,10 +5425,9 @@
 
     {
         "name": "Floatplane",
-        "url": "https://www.floatplane.com/support",
-        "difficulty": "hard",
-        "notes": "You need to contanct the Floatplane team through their official website to have your account deleted",
-        "notes_tr": "Hesabınızın silinmesi için Floatplane ekibiyle resmi web siteleri aracılığıyla iletişime geçmeniz gerekir",
+        "url": "https://www.floatplane.com/user/settings",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete Account' button and type your password. Your account will be deleted in 2 weeks.",
         "domains": [
             "floatplane.com"
         ]
