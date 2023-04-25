@@ -11982,6 +11982,18 @@
     },
 
     {
+        "name": "Perplexity",
+        "url": "https://www.perplexity.ai/privacy",
+        "difficulty": "hard",
+        "notes": "According to their privacy policy, you must send an e-mail requesting account deletion.",
+        "notes_pt_br": "De acordo com a política de privacidade, é preciso enviar um e-mail pedindo a remoção da conta.",
+        "email": "support@perplexity.ai",
+        "domains": [
+            "perplexity.ai"
+        ]
+    },
+
+    {
         "name": "Personal Capital",
         "url": "https://home.personalcapital.com/page/login/app#/settings",
         "difficulty": "easy",
