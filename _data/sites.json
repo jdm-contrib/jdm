@@ -4803,6 +4803,16 @@
     },
 
     {
+        "name": "Elfster",
+        "url": "https://www.elfster.com/settings/account/",
+        "difficulty": "easy",
+        "notes": "Go to 'Account Settings' and scroll to the very bottom to see an option to delete your account.",
+        "domains": [
+            "elfster.com"
+        ]
+    },
+
+    {
         "name": "Ello",
         "url": "https://ello.co/wtf/help/settings/",
         "difficulty": "easy",
