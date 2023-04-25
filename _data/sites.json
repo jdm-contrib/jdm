@@ -11099,6 +11099,16 @@
     },
 
     {
+        "name": "NovoEd",
+        "url": "http://help.novoed.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Create a new request titled \"Please delete my account\" using your e-mail address and the topic \"Course Not Listed/Not Course Related\".",
+        "domains": [
+            "novoed.com"
+        ]
+    },
+
+    {
         "name": "NOW TV",
         "url": "https://help.nowtv.com/contact-us/how-do-i-cancel-now-tv",
         "difficulty": "impossible",
@@ -14365,6 +14375,16 @@
         "domains": [
             "snapchat.com",
             "accounts.snapchat.com"
+        ]
+    },
+
+    {
+        "name": "Snapfish",
+        "url": "https://support.snapfish.com/hc/en-us/articles/360008146353-Delete-your-account",
+        "difficulty": "hard",
+        "notes": "You need to open a request with customer service to delete your account.",
+        "domains": [
+            "snapfish.com"
         ]
     },
 
