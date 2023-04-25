@@ -11976,8 +11976,8 @@
         "name": "Perplexity",
         "url": "https://www.perplexity.ai/privacy",
         "difficulty": "hard",
-        "notes": "According to privacy policy, you must send an e-mail to support@perplexity.ai requesting deletion.",
-        "notes_pt_br": "De acordo com a política de privacidade, é preciso enviar um e-mail para support@perplexity.ai pedindo a remoção da conta.",
+        "notes": "According to their privacy policy, you must send an e-mail requesting account deletion.",
+        "notes_pt_br": "De acordo com a política de privacidade, é preciso enviar um e-mail pedindo a remoção da conta.",
         "email": "support@perplexity.ai",
         "domains": [
             "perplexity.ai"
