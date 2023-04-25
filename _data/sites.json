@@ -12780,6 +12780,20 @@
     },
 
     {
+        "name": "PythonAnywhere",
+        "url": "https://help.pythonanywhere.com/pages/DeleteAccount/",
+        "difficulty": "hard",
+        "notes": "You must email support to delete your account.",
+        "email": "usercare@anaconda.com",
+        "email_body": "I request to permanently delete my PythonAnywhere account 'your-username' with all its files and data.",
+        "email_subject": "Delete account 'your-username'",
+        "domains": [
+            "pythonanywhere.com",
+            "help.pythonanywhere.com"
+        ]
+    },
+
+    {
         "name": "QIWI Wallet",
         "url": "https://qiwi.com/support/security/subject21/udalit-qiwi-koshelek",
         "difficulty": "medium",
