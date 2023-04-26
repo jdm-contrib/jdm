@@ -8389,6 +8389,16 @@
     },
 
     {
+        "name": "Kaggle",
+        "url": "https://www.kaggle.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Go to the page linked, verify you are a human, then click on the 'Delete account' button.",
+        "domains": [
+            "kaggle.com"
+        ]
+    },
+
+    {
         "name": "Kahoot",
         "url": "https://create.kahoot.it/delete-account",
         "difficulty": "easy",
