@@ -844,6 +844,17 @@
     },
 
     {
+        "name": "Anaconda Nucleus",
+        "url": "https://anaconda.cloud/profile/privacy-security",
+        "difficulty": "easy",
+        "notes": "Go to the 'Delete my Data' section, click the 'Delete Data' button and confirm.",
+        "notes_es": "Ve a la sección 'Delete my Data', haz clic en el botón 'Delete Data' y confirma la acción.",
+        "domains": [
+            "anaconda.cloud"
+        ]
+    },
+
+    {
         "name": "Ancestry",
         "url": "https://www.ancestry.com/account/data/user/delete",
         "difficulty": "easy",
