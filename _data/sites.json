@@ -1520,6 +1520,17 @@
     },
 
     {
+        "name": "BabyCenter",
+        "url": "https://dsar.babycenter.com/",
+        "difficulty": "hard",
+        "notes": "If you are protected under the GDPR or CCPA, complete the linked form. Otherwise, you must send an email.",
+        "email": "privacy_babycenter@everydayhealth.com",
+        "domains": [
+            "babycenter.com"
+        ]
+    },
+
+    {
         "name": "Backblaze",
         "url": "https://secure.backblaze.com/account_settings.htm",
         "difficulty": "medium",
@@ -5441,6 +5452,18 @@
         "email": "privacy@flixster-inc.com",
         "domains": [
             "flixster.com"
+        ]
+    },
+
+    {
+        "name": "Flo Health",
+        "url": "https://help.flo.health/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Contact support using the linked form or by email and request account deletion.",
+        "email": "support@flo.health",
+        "domains": [
+            "flo.health",
+            "app.flo.health"
         ]
     },
 
@@ -10499,6 +10522,17 @@
     },
 
     {
+        "name": "My Calendar",
+        "url": "https://www.simpleinnovation.us/contact",
+        "difficulty": "hard",
+        "notes": "Contact support using the linked form or by email and request account deletion.",
+        "email": "feedback@period-tracker.com",
+        "domains": [
+            "simpleinnovation.us"
+        ]
+    },
+
+    {
         "name": "My Fitness Pal",
         "url": "https://www.myfitnesspal.com/en/account/confirm_delete",
         "difficulty": "easy",
@@ -14097,9 +14131,9 @@
 
     {
         "name": "Shop Your Way",
-        "url": "https://www.shopyourway.com/secured/people/user/000/settings/account",
-        "difficulty": "easy",
-        "notes": "Visit the linked page, then from the left column, click on Account and follow the link to delete your account. Your account will be deleted within 14 days. Note that deleting your account does not cancel your rewards membership.",
+        "url": "https://privacyportal.onetrust.com/webform/cc9a8230-03c2-46ab-afe1-51ced9dc71c0/30774a09-e2e1-4f85-9d3d-fc51a7530f05",
+        "difficulty": "limited",
+        "notes": "Only California and Virginia residents may file a deletion request. Complete the linked form or call 1-888-527-6415.",
         "domains": [
             "shopyourway.com"
         ]
