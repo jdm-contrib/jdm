@@ -5338,23 +5338,6 @@
     },
 
     {
-        "name": "FinnishPod101.com",
-        "url": "",
-        "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
-        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
-        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "domains": [
-            "finnishpod101.com"
-        ]
-    },
-
-    {
         "name": "Figma",
         "url": "https://www.figma.com/",
         "difficulty": "easy",
@@ -5377,6 +5360,24 @@
         "notes_es": "Haz clic en tu usuario (arriba a la izquierda) → haz clic en 'Profileinstellungen' → 'Account löschen'. Todos tus datos serán eliminados.",
         "domains": [
             "finanzblick.de"
+        ]
+    },
+
+    {
+        "name": "FinnishPod101.com",
+        "email": "contactus@finnishpod101.com",
+        "url": "https://www.finnishpod101.com/#privacy_policy",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "domains": [
+            "finnishpod101.com"
         ]
     },
 
