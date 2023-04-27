@@ -12302,6 +12302,16 @@
     },
 
     {
+        "name": "Placeit",
+        "url": "https://placeit.net/account",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the page linked and click on the 'Delete my account' button.",
+        "domains": [
+            "placeit.net"
+        ]
+    },
+
+    {
         "name": "PlanetMinecraft",
         "url": "https://www.planetminecraft.com/tickets/new/",
         "difficulty": "hard",
