@@ -15106,11 +15106,9 @@
     {
         "name": "Surveytime",
         "url": "https://surveytime.io/privacy-policy",
-        "difficulty": "impossible",
-        "notes": "There's no provided way to remove an account, just a general-purpose support email that receives no attention.",
-        "notes_tr": "Bir hesabı kaldırmanın herhangi bir yolu yok, yalnızca geri dönüş yapmadıkları genel amaçlı bir destek e-postaları var.",
-        "notes_pt_br": "Não é fornecida nenhuma maneira para remover uma conta, apenas um email de geral de suporte que não recebe atenção.",
-        "email": "support@surveytime.io",
+        "difficulty": "hard",
+        "notes": "You have to mail them requesting deletion and then tap the \"Delete your account\" button in the Mobile App Settings screen.",
+        "email": "tommy@surveytime.io",
         "domains": [
             "surveytime.io"
         ]
