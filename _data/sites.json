@@ -11078,6 +11078,16 @@
     },
 
     {
+        "name": "Nitrous Networks",
+        "url": "https://nitrous-networks.com/support/article/44/how-to-cancel-your-server",
+        "difficulty": "hard",
+        "notes": "You need to login in order to request the removal.",
+        "domains": [
+            "nitrous-networks.com"
+        ]
+    },
+
+    {
         "name": "Njalla",
         "url": "https://njal.la/settings/delete",
         "difficulty": "easy",
