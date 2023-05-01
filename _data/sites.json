@@ -7524,6 +7524,25 @@
     },
 
     {
+        "name": "Holopin",
+        "email": "team@holopin.io",
+        "url": "https://www.holopin.io/privacy.html",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "domains": [
+            "https://www.holopin.com",
+            "holopin.io"
+        ]
+    },
+
+    {
         "name": "Honey",
         "url": "https://www.joinhoney.com/settings#account",
         "notes": "Scroll to the bottom of the linked page and click 'Delete Account'.",
