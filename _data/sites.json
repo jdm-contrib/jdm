@@ -32,9 +32,15 @@
         "name": "123RF",
         "url": "https://www.123rf.com/support/support-answer.php?id=8817",
         "difficulty": "hard",
-        "notes": "The only way to delete an account is to send an e-mail to customer support agents.",
-        "notes_fr": "L’unique façon de supprimer un compte est d’envoyer un email au service client.",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
         "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "email": "frsales@123rf.com",
         "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX, I want my account to be deleted because of XXXXXX. I request and authorize you to remove my profile from 123rf.com and delete all my content with you. I wish to terminate the 123RF Contributor Agreement and agree to the Terms and Conditions as set in the Contributor Agreement for the termination process.",
         "domains": [
@@ -102,6 +108,17 @@
         "notes_tr": "Hesap şifrenizi girin ve \"Hesabı Sil\" tuşuna basın.",
         "domains": [
             "280daily.com"
+        ]
+    },
+
+    {
+        "name": "2K Games",
+        "url": "https://support.2k.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Go to the page linked, create a request about deleting your account, and customer support should delete it.",
+        "domains": [
+            "support.2k.com",
+            "2k.com"
         ]
     },
 
@@ -5412,6 +5429,24 @@
     },
 
     {
+        "name": "FinnishPod101.com",
+        "email": "contactus@finnishpod101.com",
+        "url": "https://www.finnishpod101.com/#privacy_policy",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "domains": [
+            "finnishpod101.com"
+        ]
+    },
+
+    {
         "name": "Firefox",
         "url": "https://accounts.firefox.com/settings/delete_account",
         "difficulty": "easy",
@@ -7575,6 +7610,25 @@
             "ferienpiraten.ch",
             "semesterpiraterna.se",
             "travelpirates.com"
+        ]
+    },
+
+    {
+        "name": "Holopin",
+        "email": "team@holopin.io",
+        "url": "https://www.holopin.io/privacy.html",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "domains": [
+            "https://www.holopin.com",
+            "holopin.io"
         ]
     },
 
@@ -11129,6 +11183,16 @@
         "domains": [
             "nintendo.com",
             "accounts.nintendo.com"
+        ]
+    },
+
+    {
+        "name": "Nitrous Networks",
+        "url": "https://nitrous-networks.com/support/article/44/how-to-cancel-your-server",
+        "difficulty": "hard",
+        "notes": "You need to login in order to request the removal.",
+        "domains": [
+            "nitrous-networks.com"
         ]
     },
 
@@ -15181,8 +15245,8 @@
     {
         "name": "Surveytime",
         "url": "https://surveytime.io/privacy-policy",
-        "difficulty": "hard",
-        "notes": "You have to mail them requesting deletion and then tap the \"Delete your account\" button in the Mobile App Settings screen.",
+        "difficulty": "medium",
+        "notes": "You have to mail them requesting deletion or tap the \"Delete your account\" button in the Mobile App Settings screen.",
         "email": "tommy@surveytime.io",
         "domains": [
             "surveytime.io"
@@ -15819,6 +15883,18 @@
         "notes": "Select \"Support\" as the category and \"Developer Portal\" as the topic.",
         "domains": [
             "developers.tiktok.com"
+        ]
+    },
+
+    {
+        "name": "Time and Date",
+        "url": "https://www.timeanddate.com/custom/modify.html",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the linked page, click 'Delete Account' and confirm.",
+        "domains": [
+            "timeanddate.com",
+            "timeanddate.de",
+            "timeanddate.no"
         ]
     },
 
