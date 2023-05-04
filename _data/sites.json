@@ -112,6 +112,17 @@
     },
 
     {
+        "name": "2K Games",
+        "url": "https://support.2k.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Go to the page linked, create a request about deleting your account, and customer support should delete it.",
+        "domains": [
+            "support.2k.com",
+            "2k.com"
+        ]
+    },
+
+    {
         "name": "3D Aim Trainer",
         "url": "https://www.3daimtrainer.com/faq",
         "difficulty": "hard",
