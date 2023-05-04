@@ -1108,6 +1108,18 @@
     },
 
     {
+        "name": "AppJobber",
+        "url": "https://appjobber.com/profile/delete_account",
+        "difficulty": "easy",
+        "notes": "Go to the profile page, click the button to delete the account at the top right and confirm. Alternatively you can send and e-mail asking for the deletion.",
+        "notes_it": "Vai alla pagina del profilo, fai clic sul pulsante per eliminare l'account in alto a destra e conferma. In alternativa puoi inviare una e-mail chiedendo la cancellazione.",
+        "email": "datenschutz@appjobber.de",
+        "domains": [
+            "appjobber.com"
+        ]
+    },
+
+    {
         "name": "Apple ID / iTunes",
         "url": "https://support.apple.com/en-us/HT208504",
         "difficulty": "easy",
@@ -2213,6 +2225,19 @@
         "difficulty": "easy",
         "domains": [
             "boxcryptor.com"
+        ]
+    },
+
+    {
+        "name": "Braiins",
+        "url": "https://help.braiins.com/en/support/solutions/articles/77000434063-how-can-i-delete-my-account-",
+        "difficulty": "easy",
+        "notes": "Go to the menu on the top right corner, click 'Account', scroll down and click 'Request Account Deletion'.",
+        "notes_it": "Vai al menu nell'angolo in alto a destra, fai clic su 'Account', scorri verso il basso e fai clic su 'Request Account Deletion'.",
+        "domains": [
+            "braiins.com",
+            "pool.braiins.com",
+            "insights.braiins.com"
         ]
     },
 
@@ -3469,6 +3494,29 @@
         "domains": [
             "crunchyroll.com",
             "help.crunchyroll.com"
+        ]
+    },
+
+    {
+        "name": "Crushee",
+        "url": "http://crushee.com/pages/faq",
+        "difficulty": "impossible",
+        "notes": "They mock the very idea of wanting to delete your account in their faq: \"Can I delete my account cause I totally h8 you guise??!!!111\"",
+        "notes_tr": "SSS sayfalarında hesabınızı silmek isteme fikriyle dalga geçiyorlar: \"Senden tamamen nefret ediyorum bu yüzden hesabımı silebilir miyim??!!!111\"",
+        "domains": [
+            "crushee.com"
+        ]
+    },
+
+    {
+        "name": "CryEngine",
+        "url": "https://www.cryengine.com/user/dashboard/account/delete",
+        "difficulty": "easy",
+        "notes": "Go to your dashboard, click 'Delete your account' and confirm.",
+        "notes_it": "Vai alla tua dashboard, fai clic su 'Delete your account' e conferma.",
+        "domains": [
+            "cryengine.com",
+            "forum.cryengine.com"
         ]
     },
 
@@ -7396,6 +7444,19 @@
         "notes_tr": "Hesabınızı kapatmak için destek talebi oluşturmanız gerekiyor.",
         "domains": [
             "hepsiburada.com"
+        ]
+    },
+
+    {
+        "name": "Heroes and Generals",
+        "url": "https://account.heroesandgenerals.com/deleteaccount.aspx/",
+        "difficulty": "medium",
+        "notes": "You need to fill the form and submit it. There is a 30 days period in which you can reverse your decision. After that your account will be deleted.",
+        "notes_it": "Devi compilare il modulo e inviarlo. C'è un periodo di 30 giorni in cui puoi annullare la tua decisione. Successivamente il tuo account verrà eliminato.",
+        "domains": [
+            "heroesandgenerals.com",
+            "account.heroesandgenerals.com",
+            "support.heroesandgenerals.com"
         ]
     },
 
@@ -13528,6 +13589,20 @@
         "notes": "Visit the linked page and click 'Close Account'. Type 'CLOSE' in the text box, then click 'Close Account Forever'.",
         "domains": [
             "rev.com"
+        ]
+    },
+
+    {
+        "name": "RevenueHits",
+        "url": "https://www.revenuehits.com/privacy/",
+        "difficulty": "hard",
+        "notes": "In the support center it says that you can't delete your account, but if you contact them by e-mail, you should be able to get it deleted.",
+        "notes_it": "Nel centro di supporto c'è scritto che non puoi eliminare il tuo account, ma se li contatti via e-mail, dovresti essere in grado di fartelo eliminare.",
+        "email": "privacy@intango.com",
+        "domains": [
+            "revenuehits.com",
+            "support.revenuehits.com",
+            "intango.com"
         ]
     },
 
