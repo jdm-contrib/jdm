@@ -15152,8 +15152,8 @@
     {
         "name": "Surveytime",
         "url": "https://surveytime.io/privacy-policy",
-        "difficulty": "hard",
-        "notes": "You have to mail them requesting deletion and then tap the \"Delete your account\" button in the Mobile App Settings screen.",
+        "difficulty": "medium",
+        "notes": "You have to mail them requesting deletion or tap the \"Delete your account\" button in the Mobile App Settings screen.",
         "email": "tommy@surveytime.io",
         "domains": [
             "surveytime.io"
