@@ -15756,7 +15756,7 @@
     {
         "name": "Time and Date",
         "url": "https://www.timeanddate.com/custom/modify.html",
-        "difficulty": "hard",
+        "difficulty": "easy",
         "notes": "Scroll to the bottom of the linked page, click 'Delete Account' and confirm.",
         "domains": [
             "timeanddate.com",
