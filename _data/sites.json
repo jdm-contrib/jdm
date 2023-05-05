@@ -8727,14 +8727,8 @@
     {
         "name": "Kik",
         "url": "https://ws.kik.com/delete",
-        "difficulty": "impossible",
-        "notes": "You can only deactivate your account. There appears to be no way to permanently delete your account or data.",
-        "notes_tr": "Yalnızca hesabınızı devre dışı bırakabilirsiniz. Hesabınızı veya verilerinizi kalıcı olarak silmenin bir yolu yok gibi görünüyor.",
-        "notes_fr": "Vous ne pouvez que désactiver votre compte. Il ne paraît pas qu'il y ait de façon de supprimer votre compte définitivement.",
-        "notes_it": "Puoi solo disattivare il tuo account. Non c'è modo di eliminare il tuo account o le informazioni.",
-        "notes_pt_br": "Você apenas pode desativar sua conta. Aparentemente não há como deletar sua conta ou dados.",
-        "notes_cat": "Només podrà inhabilitar el compte, no hi ha manera de fer-ho permanentment.",
-        "notes_es": "Sólo podrás desactivar la cuenta, no hay manera de hacerlo permanentemente.",
+        "difficulty": "medium",
+        "notes": "To permanently deactivate your account, go to the <a href='https://ws.kik.com/delete'>permanent deactivation website</a>, enter your information and you will receive a link to permanently deactivate your account.",
         "domains": [
             "kik.com",
             "ws.kik.com",
