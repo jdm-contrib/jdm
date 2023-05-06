@@ -3340,6 +3340,17 @@
     },
 
     {
+        "name": "CoSpaces",
+        "url": "https://edu.cospaces.io/Studio/Account",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and scroll down to the bottom of page. From there, click the 'Delete' button next to the 'Delete account' section.",
+        "domains": [
+            "cospaces.io",
+            "edu.cospaces.io"
+        ]
+    },
+
+    {
         "name": "Coub",
         "url": "https://coub.com/account/edit",
         "difficulty": "easy",
