@@ -188,9 +188,9 @@
 
     {
         "name": "8tracks",
-        "url": "https://8tracks.com/",
-        "difficulty": "impossible",
-        "notes": "There exists an option to delete your account in your account settings, but it's not currently functional.",
+        "url": "https://8tracks.com/privacy",
+        "difficulty": "easy",
+        "notes": "Login, go to your account settings and click the delete button. That's it.",
         "domains": [
             "8tracks.com"
         ]
