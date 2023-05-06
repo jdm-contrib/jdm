@@ -187,7 +187,7 @@
     },
 
     {
-        "name": "8tracks"
+        "name": "8tracks",
         "url": "https://8tracks.com/privacy",
         "difficulty": "easy",
         "notes": "Login, go to your account settings and click the delete button. That's it.",
