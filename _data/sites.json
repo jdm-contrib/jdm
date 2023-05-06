@@ -10122,6 +10122,15 @@
     },
 
     {
+        "name": "Metacritic",
+        "url": "http://www.metacritic.com/contact-us",
+        "difficulty": "hard",
+        "domains": [
+            "metacritic.com"
+        ]
+    },
+
+    {
         "name": "MetalPay",
         "url": "https://help.metalpay.com/hc/en-us/articles/4409445335063-How-do-I-close-my-Metal-Pay-account-",
         "difficulty": "hard",
@@ -14571,6 +14580,16 @@
         "domains": [
             "smartrecruiters.com",
             "help.smartrecruiters.com"
+        ]
+    },
+
+    {
+        "name": "SmartyPig",
+        "url": "https://www.smartypig.com/faqs",
+        "difficulty": "hard",
+        "notes": "You have to contact their customer support team.",
+        "domains": [
+            "smartypig.com"
         ]
     },
 
