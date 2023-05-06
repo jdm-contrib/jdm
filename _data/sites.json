@@ -7118,12 +7118,12 @@
 
     {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2013/apr/04/guardian-managing-online-profiles",
-        "difficulty": "hard",
-        "notes": "You need to contact the user help team via e-mail to request account deletion.",
-        "email": "userhelp@guardian.co.uk",
+        "url": "https://profile.theguardian.com/delete",
+        "difficulty": "medium",
+        "notes": "Scroll to the bottom of the linked page, enter your password and confirm by clicking the \"Delete your account\" button. Deleting your account does not cancel subscriptions, see further information in the linked page.",
         "domains": [
-            "theguardian.com"
+            "theguardian.com",
+            "profile.theguardian.com"
         ]
     },
 
