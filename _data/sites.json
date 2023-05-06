@@ -8728,7 +8728,7 @@
         "name": "Kik",
         "url": "https://ws.kik.com/delete",
         "difficulty": "medium",
-        "notes": "To permanently deactivate your account, go to the <a href='https://ws.kik.com/delete'>permanent deactivation website</a>, enter your information and you will receive a link to permanently deactivate your account.",
+        "notes": "To permanently deactivate your account, go to the link provided, enter your information and you will receive a link to permanently deactivate your account.",
         "domains": [
             "kik.com",
             "ws.kik.com",
