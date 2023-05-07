@@ -1308,6 +1308,15 @@
     },
 
     {
+        "name": "Atavi",
+        "url": "http://atavi.com/user/remove",
+        "difficulty": "easy",
+        "domains": [
+            "atavi.com"
+        ]
+    },
+
+    {
         "name": "AtCoder",
         "url": "https://atcoder.jp/quit",
         "difficulty": "easy",
@@ -1477,6 +1486,16 @@
         "domains": [
             "avira.com",
             "support.avira.com"
+        ]
+    },
+
+    {
+        "name": "Avito",
+        "url": "https://www.avito.ru/registration/remove",
+        "difficulty": "easy",
+        "notes": "Enter any reason to delete",
+        "domains": [
+            "avito.ru"
         ]
     },
 
