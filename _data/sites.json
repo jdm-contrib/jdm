@@ -13110,6 +13110,17 @@
     },
 
     {
+        "name": "Qt",
+        "url": "https://my.qt.io/profile",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and scroll down to the bottom. From there, click on 'Delete Account'.",
+        "domains": [
+            "qt.io",
+            "my.qt.io"
+        ]
+    },
+
+    {
         "name": "Quantic Foundry",
         "url": "https://quanticfoundry.com/",
         "difficulty": "hard",
