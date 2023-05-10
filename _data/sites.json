@@ -18187,6 +18187,18 @@
     },
 
     {
+        "name": "Yannik",
+        "url": "https://yannik.biz/",
+        "difficulty": "hard",
+        "email": "support@yannik.biz",
+        "notes": "Contact the customer support and ask to delete your account.",
+        "notes_it": "Contatta l'assistenza clienti e chiedi di eliminare il tuo account.",
+        "domains": [
+            "yannik.biz"
+        ]
+    },
+
+    {
         "name": "Yelp",
         "meta": "popular",
         "url": "https://www.yelp.co.uk/contact?topic=support&subtopic=close",
