@@ -188,9 +188,9 @@
 
     {
         "name": "8tracks",
-        "url": "https://8tracks.com/",
-        "difficulty": "impossible",
-        "notes": "There exists an option to delete your account in your account settings, but it's not currently functional.",
+        "url": "https://8tracks.com/privacy",
+        "difficulty": "easy",
+        "notes": "Login, go to your account settings and click the delete button. That's it.",
         "domains": [
             "8tracks.com"
         ]
@@ -1308,6 +1308,15 @@
     },
 
     {
+        "name": "Atavi",
+        "url": "http://atavi.com/user/remove",
+        "difficulty": "easy",
+        "domains": [
+            "atavi.com"
+        ]
+    },
+
+    {
         "name": "AtCoder",
         "url": "https://atcoder.jp/quit",
         "difficulty": "easy",
@@ -1481,6 +1490,16 @@
     },
 
     {
+        "name": "Avito",
+        "url": "https://www.avito.ru/registration/remove",
+        "difficulty": "easy",
+        "notes": "Enter any reason to delete",
+        "domains": [
+            "avito.ru"
+        ]
+    },
+
+    {
         "name": "AwardWallet",
         "url": "https://awardwallet.com/user/delete",
         "difficulty": "easy",
@@ -1489,6 +1508,17 @@
         "notes_tr": "Şifrenizi girip, hesabınızın silme nedenini belirtmeniz gerekir",
         "domains": [
             "awardwallet.com"
+        ]
+    },
+
+    {
+        "name": "Axios",
+        "url": "https://www.axios.com/legal",
+        "difficulty": "limited",
+        "email": "privacy@axios.com",
+        "notes": "According to their Privacy Policy, if you are a California or Virginia resident, you can email Axios about account deletion and they should delete your account and data.",
+        "domains": [
+            "axios.com"
         ]
     },
 
@@ -1716,6 +1746,25 @@
         "domains": [
             "beamng.com",
             "support.beamng.com"
+        ]
+    },
+
+    {
+        "name": "Beatport",
+        "url": "https://support.beatport.com/hc/en-us/articles/4412533928596-How-can-I-close-my-account-",
+        "difficulty": "hard",
+        "email": "support@beatport.com",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "domains": [
+            "beatport.com",
+            "support.beatport.com"
         ]
     },
 
@@ -3336,6 +3385,17 @@
         "difficulty": "easy",
         "domains": [
             "correl.app"
+        ]
+    },
+
+    {
+        "name": "CoSpaces",
+        "url": "https://edu.cospaces.io/Studio/Account",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and scroll down to the bottom of page. From there, click the 'Delete' button next to the 'Delete account' section.",
+        "domains": [
+            "cospaces.io",
+            "edu.cospaces.io"
         ]
     },
 
@@ -7107,12 +7167,12 @@
 
     {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2013/apr/04/guardian-managing-online-profiles",
-        "difficulty": "hard",
-        "notes": "You need to contact the user help team via e-mail to request account deletion.",
-        "email": "userhelp@guardian.co.uk",
+        "url": "https://profile.theguardian.com/delete",
+        "difficulty": "medium",
+        "notes": "Scroll to the bottom of the linked page, enter your password and confirm by clicking the \"Delete your account\" button. Deleting your account does not cancel subscriptions, see further information in the linked page.",
         "domains": [
-            "theguardian.com"
+            "theguardian.com",
+            "profile.theguardian.com"
         ]
     },
 
@@ -7184,8 +7244,17 @@
 
     {
         "name": "gutefrage",
-        "url": "https://praxistipps.chip.de/gutefrage-net-account-loeschen-so-gehts_41493",
-        "difficulty": "easy",
+        "email": "info@gutefrage.net",
+        "url": "https://www.gutefrage.net/datenschutz",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "gutefrage.net"
         ]
@@ -8727,14 +8796,8 @@
     {
         "name": "Kik",
         "url": "https://ws.kik.com/delete",
-        "difficulty": "impossible",
-        "notes": "You can only deactivate your account. There appears to be no way to permanently delete your account or data.",
-        "notes_tr": "Yalnızca hesabınızı devre dışı bırakabilirsiniz. Hesabınızı veya verilerinizi kalıcı olarak silmenin bir yolu yok gibi görünüyor.",
-        "notes_fr": "Vous ne pouvez que désactiver votre compte. Il ne paraît pas qu'il y ait de façon de supprimer votre compte définitivement.",
-        "notes_it": "Puoi solo disattivare il tuo account. Non c'è modo di eliminare il tuo account o le informazioni.",
-        "notes_pt_br": "Você apenas pode desativar sua conta. Aparentemente não há como deletar sua conta ou dados.",
-        "notes_cat": "Només podrà inhabilitar el compte, no hi ha manera de fer-ho permanentment.",
-        "notes_es": "Sólo podrás desactivar la cuenta, no hay manera de hacerlo permanentemente.",
+        "difficulty": "medium",
+        "notes": "To permanently deactivate your account, go to the link provided, enter your information and you will receive a link to permanently deactivate your account.",
         "domains": [
             "kik.com",
             "ws.kik.com",
@@ -10117,6 +10180,15 @@
     },
 
     {
+        "name": "Metacritic",
+        "url": "http://www.metacritic.com/contact-us",
+        "difficulty": "hard",
+        "domains": [
+            "metacritic.com"
+        ]
+    },
+
+    {
         "name": "MetalPay",
         "url": "https://help.metalpay.com/hc/en-us/articles/4409445335063-How-do-I-close-my-Metal-Pay-account-",
         "difficulty": "hard",
@@ -10511,6 +10583,18 @@
         "domains": [
             "morningstar.com",
             "socialize.morningstar.com"
+        ]
+    },
+
+    {
+        "name": "Mote",
+        "url": "https://support.mote.com/hc/en-us/articles/4407299329940-How-do-I-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "Email them from the account you wish to delete.",
+        "email": "support@mote.com",
+        "domains": [
+            "mote.com",
+            "support.mote.com"
         ]
     },
 
@@ -13037,6 +13121,17 @@
     },
 
     {
+        "name": "Qt",
+        "url": "https://my.qt.io/profile",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and scroll down to the bottom. From there, click on 'Delete Account'.",
+        "domains": [
+            "qt.io",
+            "my.qt.io"
+        ]
+    },
+
+    {
         "name": "Quantic Foundry",
         "url": "https://quanticfoundry.com/",
         "difficulty": "hard",
@@ -14554,6 +14649,16 @@
         "domains": [
             "smartrecruiters.com",
             "help.smartrecruiters.com"
+        ]
+    },
+
+    {
+        "name": "SmartyPig",
+        "url": "https://www.smartypig.com/faqs",
+        "difficulty": "hard",
+        "notes": "You have to contact their customer support team.",
+        "domains": [
+            "smartypig.com"
         ]
     },
 
