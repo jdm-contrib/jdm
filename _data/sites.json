@@ -9939,6 +9939,15 @@
     },
 
     {
+        "name": "Meliuz",
+        "url": "https://www.meliuz.com.br/minha-conta/meus-dados/excluir-conta",
+        "difficulty": "easy",
+        "domains": [
+            "meliuz.com.br"
+        ]
+    },
+
+    {
         "name": "Melodics",
         "url": "https://melodics.com/support#form-header",
         "difficulty": "impossible",
@@ -9946,15 +9955,6 @@
         "notes_tr": "İletişim formu aracılığıyla hesabınızı silmeniz mümkün olabilir, ancak destek ekibinin yanıt vermediği biliniyor.",
         "domains": [
             "melodics.com"
-        ]
-    },
-
-    {
-        "name": "Méliuz",
-        "url": "https://www.meliuz.com.br/minha-conta/meus-dados/excluir-conta",
-        "difficulty": "easy",
-        "domains": [
-            "meliuz.com.br"
         ]
     },
 
