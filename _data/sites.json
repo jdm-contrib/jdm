@@ -16143,6 +16143,16 @@
     },
 
     {
+        "name": "Toronto Star",
+        "url": "https://www.thestar.com/about/privacy-anti-spam-notice-with-privacy-policy-and-terms-of-use-for-google-play-store.html",
+        "difficulty": "hard",
+        "notes": "According to their Privacy Policy, you must call customer service at 1-800-279-0181 to request the deletion of your account.",
+        "domains": [
+            "thestar.com"
+        ]
+    },
+
+    {
         "name": "Toyota.de",
         "url": "https://www.toyota.de/apps/customerportal#/publish/customer_portal_profile",
         "difficulty": "easy",
