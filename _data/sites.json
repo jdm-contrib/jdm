@@ -9939,6 +9939,15 @@
     },
 
     {
+        "name": "Méliuz",
+        "url": "https://www.meliuz.com.br/minha-conta/meus-dados/excluir-conta",
+        "difficulty": "easy",
+        "domains": [
+            "meliuz.com.br"
+        ]
+    },
+
+    {
         "name": "Melodics",
         "url": "https://melodics.com/support#form-header",
         "difficulty": "impossible",
