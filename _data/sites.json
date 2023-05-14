@@ -15110,8 +15110,8 @@
         "name": "Steam",
         "url": "https://help.steampowered.com/en/wizard/HelpDeleteAccount",
         "difficulty": "hard",
-        "notes": "First you must verify ownership of the account, then Steam Support will respond to confirm your identification. After it is confirmed your account will be locked and then deleted in 30 days. You can cancel the deletion by contacting Steam Support during the 30 days.",
-        "notes_tr": "Önce hesabın sahipliğini doğrulamanız gerekir, ardından Steam Desteği kimliğinizi doğrulamak için yanıt verecektir. Onayladıktan sonra hesabınız kilitlenecek ve ardından 30 gün içinde silinecektir. 30 gün boyunca Steam Destek ile iletişime geçerek silme işlemini iptal edebilirsiniz.",
+        "notes": "First you must verify ownership of the account, then Steam Support will respond to confirm your identification. After it is confirmed your account will be locked and then deleted in 30 days. You can cancel the deletion by contacting Steam Support during the 30 days. You can't reuse your account name.",
+        "notes_tr": "Önce hesabın sahipliğini doğrulamanız gerekir, ardından Steam Desteği kimliğinizi doğrulamak için yanıt verecektir. Onayladıktan sonra hesabınız kilitlenecek ve ardından 30 gün içinde silinecektir. 30 gün boyunca Steam Destek ile iletişime geçerek silme işlemini iptal edebilirsiniz. Hesap adınızı tekrar kullanamazsınız.",
         "domains": [
             "steampowered.com",
             "help.steampowered.com"
