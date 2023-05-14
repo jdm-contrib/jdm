@@ -6015,6 +6015,17 @@
     },
 
     {
+        "name": "galaxy",
+        "url": "https://galaxy.click",
+        "difficulty": "hard",
+        "notes": "Send an email to them requesting for your account's deletion.",
+        "email": "privacy@galaxy.click",
+        "domains": [
+            "galaxy.click"
+        ]
+    },
+
+    {
         "name": "Game Tracker",
         "url": "http://www.gametracker.com/account/manage/edit.php",
         "difficulty": "easy",
