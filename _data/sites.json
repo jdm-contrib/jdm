@@ -11694,7 +11694,8 @@
         "difficulty": "easy",
         "notes": "There are two methods: Sign in to ChatGPT, click on settings at the bottom left, click on 'Delete Account', or using OpenAI's help chat.",
         "domains": [
-            "openai.com"
+            "openai.com",
+            "chat.openai.com"
         ]
     },
 
