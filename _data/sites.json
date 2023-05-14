@@ -17352,8 +17352,8 @@
     {
         "name": "The Weather Network",
         "url": "https://www.theweathernetwork.com/my-account/?intcmp=twn_supernav_settings",
-        "difficulty": "easy",
-        "notes": "Scroll down to the bottom of the linked page and click on 'Delete my account'.",
+        "difficulty": "medium",
+        "notes": "Scroll down to the bottom of the linked page and click on 'Delete my account'. Then, an email will be sent to you asking you to confirm your account deletion.",
         "domains": [
             "theweathernetwork.com"
         ]
