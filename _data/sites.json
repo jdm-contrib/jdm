@@ -1852,6 +1852,19 @@
     },
 
     {
+        "name": "Betnacional",
+        "url": "https://assets.bet6.com.br/sistemans/skins/betnacional/doc/5eef829d8f.pdf",
+        "difficulty": "hard",
+        "notes": "According to privacy policy (item 8), you have to send an e-mail to them requesting the account removal.",
+        "notes_pt_br": "De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.",
+        "notes_pt_pt": "De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.",
+		"email":"contato@betnacional.com",
+        "domains": [
+            "betnacional.com"
+        ]
+    },
+
+    {
         "name": "Betterment",
         "url": "https://www.betterment.com",
         "difficulty": "impossible",
@@ -11975,6 +11988,19 @@
         "notes_pt_br": "No momento, não é possível remover a conta, mas você pode deixar o seu perfil em \"privado\".",
         "domains": [
             "padrim.com.br"
+        ]
+    },
+
+    {
+        "name": "PAGBET",
+        "url": "https://assets.bet6.com.br/sistemans/skins/pagbet/doc/ba98aa02a1.pdf",
+        "difficulty": "hard",
+        "notes": "According to privacy policy (item 8), you have to send an e-mail to them requesting the account removal.",
+        "notes_pt_br": "De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.",
+        "notes_pt_pt": "De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.",
+		"email":"contato@pagbet.com",
+        "domains": [
+            "pagbet.com"
         ]
     },
 
