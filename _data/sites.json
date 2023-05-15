@@ -11672,6 +11672,17 @@
     },
 
     {
+        "name": "OneFootball",
+        "url": "https://onefootball.com/payments/delete-account",
+        "difficulty": "hard",
+        "notes": "You need to contact OneFootball support by e-mail.",
+        "notes_es": "Debes contactar con el soporte de OneFootball a través de un correo electrónico.",
+        "domains": [
+            "onefootball.com"
+        ]
+    },
+
+    {
         "name": "OneSky",
         "url": "https://support.oneskyapp.com/hc/en-us/articles/115005242827-How-to-Delete-your-OneSky-Account",
         "difficulty": "hard",
