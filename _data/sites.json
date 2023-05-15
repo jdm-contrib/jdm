@@ -5593,6 +5593,17 @@
     },
 
     {
+        "name": "Flightradar24",
+        "url": "https://www.flightradar24.com/terms-and-conditions",
+        "difficulty": "hard",
+        "notes": "According to their Terms and Conditions, you must email them to delete your account.",
+        "email": "support@fr24.com",
+        "domains": [
+            "flightradar24.com"
+        ]
+    },
+
+    {
         "name": "Flipboard",
         "url": "https://accounts.flipboard.com/accounts/remove",
         "difficulty": "easy",
