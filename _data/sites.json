@@ -11674,6 +11674,7 @@
     {
         "name": "OneFootball",
         "url": "https://onefootball.com/payments/delete-account",
+        "email": "feedback@onefootball.com",
         "difficulty": "hard",
         "notes": "You need to contact OneFootball support by e-mail.",
         "notes_es": "Debes contactar con el soporte de OneFootball a través de un correo electrónico.",
