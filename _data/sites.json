@@ -4427,6 +4427,17 @@
     },
 
     {
+        "name": "Drawabox",
+        "url": "https://drawabox.com",
+        "difficulty": "hard",
+        "notes": "Send an email from the address associated with the account you'd like to delete.",
+        "email": "support@drawabox.com",
+        "domains": [
+            "drawabox.com"
+        ]
+    },
+
+    {
         "name": "Drawpile",
         "url": "https://drawpile.net/accounts/delete/",
         "difficulty": "easy",
