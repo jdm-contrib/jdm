@@ -6592,6 +6592,24 @@
     },
 
     {
+        "name": "GNOME",
+        "url": "https://www.gnome.org/privacy-policy/",
+        "difficulty": "hard",
+        "email": "info@gnome.org",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "domains": [
+            "gnome.org"
+        ]
+    },
+
+    {
         "name": "Gocatch",
         "url": "https://gocatch.zendesk.com/hc/en-us/articles/115005902046-How-to-deactivate-or-reactivate-your-GoCatch-account",
         "difficulty": "hard",
