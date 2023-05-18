@@ -14693,6 +14693,17 @@
     },
 
     {
+        "name": "Skinbaron",
+        "url": "https://skinbaron.de/en/profile/tickets",
+        "difficulty": "hard",
+        "notes": "Create a ticket on the website, or email them.",
+        "email": "info@skinbaron.de",
+        "domains": [
+            "skinbaron.de"
+        ]
+    },
+
+    {
         "name": "Skoob",
         "url": "https://www.skoob.com.br/usuario/excluir/",
         "difficulty": "easy",
