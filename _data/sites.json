@@ -9925,6 +9925,16 @@
     },
 
     {
+        "name": "Medal",
+        "url": "https://medal.tv/settings",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the linked page and click on 'Delete Account'.",
+        "domains": [
+            "medal.tv"
+        ]
+    },
+
+    {
         "name": "MediaFire",
         "url": "https://www.mediafire.com/myaccount/accountbilling.php",
         "difficulty": "medium",
