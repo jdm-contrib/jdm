@@ -12224,6 +12224,17 @@
     },
 
     {
+        "name": "Payoneer",
+        "url": "https://payoneer.custhelp.com/app/ask/l_id/1/c/3753",
+        "difficulty": "hard",
+        "notes": "According to their Support Center, you need to contact them via email, live chat, or phone.",
+        "domains": [
+            "payoneer.com",
+            "payoneer.custhelp.com"
+        ]
+    },
+
+    {
         "name": "PayPal",
         "url": "https://www.paypal.com/myaccount/privacy/data/deletion",
         "difficulty": "medium",
