@@ -3663,7 +3663,16 @@
             "help.ctrader.com"
         ]
     },
-
+    
+    {
+        "name": "Curio",
+        "url": "https://curio.io/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "curio.io"
+        ]
+    },
+    
     {
         "name": "Curriculum",
         "url": "https://curriculum.zendesk.com/hc/pt-br/requests/new",
@@ -3974,7 +3983,8 @@
         "url": "https://diasp.eu/user/edit#close_account_pane",
         "difficulty": "easy",
         "notes": "Click close my account and confirm with your password.",
-        "notes_tr": "\"Hesabımı Kapat\" tuşuna tıklayın ve şifrenizi girerek onaylayın.",
+        "notes_tr": "\"Hesabımı 
+        at\" tuşuna tıklayın ve şifrenizi girerek onaylayın.",
         "notes_fr": "Cliquez sur fermez mon compte et confirmer avec votre mot de passe.",
         "notes_it": "Clicca chiudi il mio account e conferma inserendo la tua password.",
         "notes_de": "Klicke auf 'close my account' und bestätige dies mit deinem Passwort.",
