@@ -8371,16 +8371,6 @@
     },
 
     {
-        "name": "The Inventory",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "theinventory.com"
-        ]
-    },
-
-    {
         "name": "Invajo",
         "url": "https://home.invajo.com/contact",
         "difficulty": "hard",
@@ -8388,6 +8378,16 @@
         "email": "support@invajo.com",
         "domains": [
             "invajo.com"
+        ]
+    },
+
+    {
+        "name": "The Inventory",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "theinventory.com"
         ]
     },
 
