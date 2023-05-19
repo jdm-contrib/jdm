@@ -4021,6 +4021,17 @@
     },
 
     {
+        "name": "Didsoft",
+        "url": "https://didsoft.com/contact.html",
+        "difficulty": "hard",
+        "notes": "Create a ticket on the website, or email them.",
+        "email": "support@didsoft.com",
+        "domains": [
+            "didsoft.com"
+        ]
+    },
+
+    {
         "name": "Dietollemode.com",
         "url": "https://dietollemode.com/",
         "difficulty": "easy",
@@ -8366,6 +8377,17 @@
         "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
             "theinventory.com"
+        ]
+    },
+
+    {
+        "name": "Invajo",
+        "url": "https://home.invajo.com/contact",
+        "difficulty": "hard",
+        "notes": "Create a ticket on the website, email them, or call them at: +46 (0) 46-270 60 60.",
+        "email": "support@invajo.com",
+        "domains": [
+            "invajo.com"
         ]
     },
 
@@ -14683,10 +14705,9 @@
 
     {
         "name": "Skillshare",
-        "url": "https://www.skillshare.com/settings/account",
-        "difficulty": "easy",
-        "notes": "Login to your profile, click on 'Account Settings', click on 'Deactivate Your Account', and confirm by clicking on 'Deactivate Account'.",
-        "notes_tr": "Profilinize giriş yapın, \"Hesap Ayarları\" seçeneğini tıklayın, \"Hesabınızı devre dışı bırakın\" seçeneğini tıklayın ve \"Hesabı Devre Dışı bırak\" seçeneğini tıklayarak onaylayın.",
+        "url": "https://preferences.skillshare.com/privacy",
+        "difficulty": "medium",
+        "notes": "Fill out the Privacy Request Form and select Delete under Type of Request.",
         "domains": [
             "skillshare.com"
         ]
