@@ -1840,6 +1840,16 @@
     },
 
     {
+        "name": "Betano",
+        "url": "https://betano.zendesk.com/hc/en-us/articles/360019002178-How-do-I-close-my-account",
+        "difficulty": "easy",
+        "domains": [
+            "betano.com",
+            "betano.zendesk.com"
+        ]
+    },
+
+    {
         "name": "Bethesda",
         "url": "https://help.bethesda.net/app/incident10/?prod=711&cat=1220",
         "difficulty": "hard",
@@ -3529,6 +3539,15 @@
     },
 
     {
+        "name": "Crevado Portfolios",
+        "url": "https://crevado.com/admin/account/cancel",
+        "difficulty": "easy",
+        "domains": [
+            "crevado.com"
+        ]
+    },
+
+    {
         "name": "Crowdcast.io",
         "url": "https://crowdcast.notion.site/Deleting-Your-Crowdcast-Account-952b7f9ff09648f7960e7d9ecfb6a1b4",
         "difficulty": "impossible",
@@ -4938,6 +4957,19 @@
             "edreams.co.uk",
             "edreams.net",
             "edreams.pt"
+        ]
+    },
+
+    {
+        "name": "Educaplay",
+        "url": "https://www.educaplay.com",
+        "difficulty": "easy",
+        "notes": "You must go to your profile, click on Account Settings and then on Delete Account",
+        "notes_es": "Tienes que ir a tu perfil, hacer clic en Configuración de cuenta y luego en Eliminar cuenta",
+        "notes_pt_br": "Acesse o perfil, clique em Account Settings e logo em seguida em Delete Account",
+        "notes_pt_pt": "Acesse o perfil, clique em Account Settings e logo em seguida em Delete Account"
+        "domains": [
+            "educaplay.com",
         ]
     },
 
@@ -6716,6 +6748,15 @@
     },
 
     {
+        "name": "GoldenLine",
+        "url": "https://www.goldenline.pl/ustawienia/kasuj-konto/",
+        "difficulty": "easy",
+        "domains": [
+            "goldenline.pl"
+        ]
+    },
+
+    {
         "name": "Golf GameBook Scorecard & GPS",
         "url": "https://golfgamebook.com/privacy-policy/",
         "difficulty": "easy",
@@ -7842,6 +7883,16 @@
         "notes_fr": "Connectez-vous, allez dans les paramatres du compte et supprimez votre profil. Voyez aussi l'article <a href=\"https://hotornot.com/privacy/\">« Can I deactivate or delete my Profile? »</a>",
         "domains": [
             "hotornot.com"
+        ]
+    },
+
+    {
+        "name": "Hotels.com",
+        "url": "https://www.hotels.com/user/delete",
+        "difficulty": "easy",
+        "domains": [
+            "hotels.com",
+            "hoteis.com"
         ]
     },
 
@@ -10769,6 +10820,18 @@
         "notes_pt_br": "Na página da sua conta, vá até o final e clique no botão vermelho 'Excluir'",
         "domains": [
             "muambator.com.br"
+        ]
+    },
+
+    {
+        "name": "MultCloud",
+        "url": "https://www.multcloud.com/",
+        "difficulty": "easy",
+        "notes": "Login to your account, click in the account icon > Settings > Delete Account and write the password and a note (optionally).",
+        "notes_pt_br": "Ao se logar, clique no ícone da conta > Settings > Delete Account e digite a senha e uma observação (este último não é obrigatório).",
+        "notes_pt_pt": "Ao se logar, clique no ícone da conta > Settings > Delete Account e digite a senha e uma observação (este último não é obrigatório)."
+        "domains": [
+            "multcloud.com"
         ]
     },
 
