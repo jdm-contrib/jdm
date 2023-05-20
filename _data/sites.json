@@ -4967,7 +4967,7 @@
         "notes": "You must go to your profile, click on Account Settings and then on Delete Account",
         "notes_es": "Tienes que ir a tu perfil, hacer clic en Configuración de cuenta y luego en Eliminar cuenta",
         "notes_pt_br": "Acesse o perfil, clique em Account Settings e logo em seguida em Delete Account",
-        "notes_pt_pt": "Acesse o perfil, clique em Account Settings e logo em seguida em Delete Account"
+        "notes_pt_pt": "Acesse o perfil, clique em Account Settings e logo em seguida em Delete Account",
         "domains": [
             "educaplay.com"
         ]
@@ -10829,7 +10829,7 @@
         "difficulty": "easy",
         "notes": "Login to your account, click in the account icon > Settings > Delete Account and write the password and a note (optionally).",
         "notes_pt_br": "Ao se logar, clique no ícone da conta > Settings > Delete Account e digite a senha e uma observação (este último não é obrigatório).",
-        "notes_pt_pt": "Ao se logar, clique no ícone da conta > Settings > Delete Account e digite a senha e uma observação (este último não é obrigatório)."
+        "notes_pt_pt": "Ao se logar, clique no ícone da conta > Settings > Delete Account e digite a senha e uma observação (este último não é obrigatório).",
         "domains": [
             "multcloud.com"
         ]
