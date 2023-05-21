@@ -1186,6 +1186,19 @@
     },
 
     {
+        "name": "Arc Games",
+        "url": "https://support.arcgames.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "email": "privacy@gearboxsf.com",
+        "notes": "Contact the customer support via email or from the website, and ask them to delete your account.",
+        "notes_it": "Contatta l'assistenza clienti via email o dal sito web e chiedi loro di eliminare il tuo account.",
+        "domains": [
+            "arcgames.com",
+            "support.arcgames.com"
+        ]
+    },
+
+    {
         "name": "Archipad",
         "url": "https://cloud.archipad.com/",
         "difficulty": "easy",
@@ -2671,6 +2684,18 @@
         "notes": "Just enter password and confirm deletion!",
         "domains": [
             "carrd.co"
+        ]
+    },
+
+    {
+        "name": "Cash'em All",
+        "url": "https://www.cashem-all.com/contact/",
+        "email": "support@justdice.io",
+        "difficulty": "hard",
+        "notes": "In the app, go to settings, under Profile, then click \"Cancel membership\" and fill the deletion request form. You can also contact them from the website or via email.", 
+        "notes_it": "Nell'app, vai nelle impostazioni, sotto Profilo, quindi fai clic su \"Elimina account\" e compila il modulo di richiesta di cancellazione. Puoi anche contattarli dal sito web o via email.",
+        "domains": [
+            "cashem-all.com"
         ]
     },
 
