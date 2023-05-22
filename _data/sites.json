@@ -3690,6 +3690,15 @@
     },
 
     {
+        "name": "Curio",
+        "url": "https://curio.io/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "curio.io"
+        ]
+    },
+
+    {
         "name": "Curriculum",
         "url": "https://curriculum.zendesk.com/hc/pt-br/requests/new",
         "difficulty": "hard",
