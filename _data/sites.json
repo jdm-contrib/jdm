@@ -18199,7 +18199,7 @@
     {
         "name": "Windy",
         "url": "https://account.windy.com/profile/delete",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "Go to the linked page, enter your email and password, click on 'Delete Account'.",
         "domains": [
             "windy.com",
