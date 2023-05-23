@@ -18209,6 +18209,17 @@
     },
 
     {
+        "name": "Windy",
+        "url": "https://account.windy.com/profile/delete",
+        "difficulty": "easy",
+        "notes": "Go to the linked page, enter your email and password, click on 'Delete Account'.",
+        "domains": [
+            "windy.com",
+            "account.windy.com"
+        ]
+    },
+
+    {
         "name": "Wine HQ",
         "url": "https://forum.winehq.org/",
         "difficulty": "hard",
