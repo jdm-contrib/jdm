@@ -9962,6 +9962,18 @@
     },
 
     {
+        "name": "Mathpix",
+        "url": "https://accounts.mathpix.com/account",
+        "difficulty": "easy",
+        "notes": "Use the link to navigate to your account settings page. Log in with your email and password then click 'Delete your account'. You will be asked to confirm with your email and a simple captcha. Your email will be blacklisted from creating new accounts.",
+        "notes_de": "Nutze den Link um zu deinen Kontoeinstellungen zu gelangen. Logge dich mit deiner E-Mail und deinem Passwort ein und klicke dann auf \"Delete your account\". Du wirst gebeten, dies mit deiner E-Mail und einem einfachen Captcha zu bestätigen. Deine E-Mail wird für die Erstellung neuer Konten gesperrt.",
+        "domains": [
+            "mathpix.com",
+            "accounts.mathpix.com"
+        ]
+    },
+
+    {
         "name": "Mathway",
         "url": "https://www.mathway.com/settings",
         "difficulty": "easy",
