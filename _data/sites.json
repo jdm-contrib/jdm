@@ -1854,8 +1854,10 @@
 
     {
         "name": "Betano",
-        "url": "https://betano.zendesk.com/hc/en-us/articles/360019002178-How-do-I-close-my-account",
+        "url": "https://br.betano.com/myaccount/profile/protection",
         "difficulty": "easy",
+        "notes": "Access Account > Profile > Player Protection and select Self-exclusion option. You can choose remove your account for a derised time, or definitely.",
+        "notes_pt_br": "Acesse Conta > Perfil > Proteção do Jogador e selecionar a Autoexclusão. Você pode remover sua conta por um tempo ou em definitivo.",
         "domains": [
             "betano.com",
             "betano.zendesk.com"
@@ -9135,7 +9137,7 @@
     {
         "name": "Kwai",
         "url": "https://www.kwai.com/legal",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "Click in the gear on left upper corner -> Account security -> \"Delete my account\" at the bottom -> Select the reason and press the \"Delete my account\" button. The deleting process will occur in 72 hours. Your account may be removed if you haven't used it for 6 months.",
         "notes_pt_br": "Clique na roda dentada no canto superior esquerdo -> Em Segurança da Conta -> \"Deletar minha conta\" no rodapé -> Selecione o motivo e clique no botão \"Excluir Minha Conta\". A exclusão em definitivo acontecerá em 72 horas. Além disso, sua conta pode ser removida caso você não a use por 6 meses.",
         "domains": [
