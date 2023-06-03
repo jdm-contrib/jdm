@@ -12768,6 +12768,16 @@
     },
 
     {
+        "name": "Pizza Hut",
+        "url": "https://pizzahut.com",
+        "difficulty": "hard",
+        "notes": "Download the Pizza Hut app. Sign-in with account information, click on the 'account' tab and tap on profile. On the close my account section, tap on the close my account. Fill in your information (name, address, phone, email,) and click submit.",
+        "domains": [
+            "pizzahut.com"
+        ]
+    },
+
+    {
         "name": "Placeit",
         "url": "https://placeit.net/account",
         "difficulty": "easy",
