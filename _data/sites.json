@@ -5662,6 +5662,16 @@
     },
 
     {
+        "name": "Flaticon",
+        "url": "https://www.flaticon.com/profile/me",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the linked page and click 'Close my account'.",
+        "domains": [
+            "flaticon.com"
+        ]
+    },
+
+    {
         "name": "Flattr",
         "url": "https://flattr.com/settings/account/delete",
         "difficulty": "easy",
