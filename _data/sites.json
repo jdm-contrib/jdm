@@ -18683,6 +18683,17 @@
     },
 
     {
+        "name": "Zeet",
+        "url": "https://zeet.co/profile",
+        "difficulty": "easy",
+        "notes": "Click on the \"Delete Account\" button.",
+        "notes_es": "Haz clic en el botón \"Eliminar cuenta\".",
+        "domains": [
+            "zeet.co"
+        ]
+    },
+
+    {
         "name": "Zeit Online",
         "url": "https://zeit.de",
         "difficulty": "hard",
