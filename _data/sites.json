@@ -15293,9 +15293,8 @@
     {
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "https://stackoverflow.com/help/deleting-account",
-        "difficulty": "easy",
-        "notes": "If you have not posted on the site, your profile will be immediately deleted. If you have posted, your profile will be scheduled for deletion after 24 hours. Your posts will remain on the site under a generic username.",
-        "notes_es": "Si nunca has publicado en el sitio, tu perfil será eliminado inmediatamente. Si tienes publicaciones, tu perfil será marcado para su eliminación luego de 24 horas. Tus publicaciones permanecerán en el sitio bajo un nombre de usuario genérico.",
+        "difficulty": "hard",
+        "notes": "You can delete using the provided link, but then you have to <a href=\"https://stackoverflow.com/legal/gdpr/request\">submit an Erase my account request</a> to have the profile fully deleted and the data removed or anonymized in the network.",
         "domains": [
             "stackoverflow.blog",
             "stackoverflow.co",
