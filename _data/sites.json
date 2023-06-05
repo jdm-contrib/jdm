@@ -5704,6 +5704,16 @@
     },
 
     {
+        "name": "Flip",
+        "url": "https://admin.flip.com/manage/settings",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the page and click 'Delete Account'.",
+        "domains": [
+            "flip.com"
+        ]
+    },
+
+    {
         "name": "Flipboard",
         "url": "https://accounts.flipboard.com/accounts/remove",
         "difficulty": "easy",
