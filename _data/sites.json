@@ -14118,6 +14118,17 @@
             "en.help.roblox.com"
         ]
     },
+    
+    {
+        "name": "RoboForm",
+        "url": "https://online.roboform.com/site/account/manage?type=profile",
+        "difficulty": "easy",
+        "notes": "Click \"Delete my RoboForm account\" then confirm.",
+        "domains": [
+            "roboform.com",
+            "online.roboform.com"
+        ]
+    },
 
     {
         "name": "Rockstar Games Social Club",
