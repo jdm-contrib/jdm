@@ -15243,6 +15243,27 @@
     },
 
     {
+        "name": "Sportsbet",
+        "url": "https://helpcentre.sportsbet.com.au/hc/en-us/articles/115007208487-How-do-I-close-my-account-",
+        "difficulty": "hard",
+        "notes": "On the bottom of the page, download and fill the Self Excluison Form.",
+        "domains": [
+            "sportsbet.com.au"
+        ]
+    },
+
+    {
+        "name": "Sportsbet.io",
+        "url": "https://sportsbet.io/help-centre/help-getting-started/help-account/how-do-i-close-my-account",
+        "difficulty": "hard",
+        "notes": "Send an e-mail to them, from the registered e-mail, requesting the account exclusion.",
+        "email": "hello@sportsbet.io",
+        "domains": [
+            "sportsbet.io"
+        ]
+    },
+
+    {
         "name": "Spotify",
         "meta": "popular",
         "url": "https://support.spotify.com/close-account",
@@ -16360,6 +16381,19 @@
         "domains": [
             "toggl.com",
             "track.toggl.com"
+        ]
+    },
+
+    {
+        "name": "Tois Bet",
+        "url": "https://toisbet.com/ptb/contents/self-exclusion",
+        "difficulty": "hard",
+        "notes": "Send an e-mail to them requesting the account exclusion.",
+        "notes_pt_br": "Envie um e-mail para eles, solicitando a exclusão da conta.",
+        "notes_pt_pt": "Envie um e-mail para eles, solicitando a exclusão da conta.",
+        "email": "suporte@toisbet.com",
+        "domains": [
+            "toisbet.com"
         ]
     },
 
