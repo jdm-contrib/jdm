@@ -4951,6 +4951,17 @@
     },
 
     {
+        "name": "Economist",
+        "url": "https://myaccount.economist.com/s/contact-us",
+        "difficulty": "hard",
+        "notes": "There are two ways to contact this website, such as calling a phone number that is based on where you reside, or use the live chat.",
+        "domains": [
+            "economist.com",
+            "myaccount.economist.com"
+        ]
+    },
+
+    {
         "name": "Edabit",
         "url": "https://edabit.com/challenges",
         "difficulty": "easy",
