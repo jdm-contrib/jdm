@@ -12448,7 +12448,6 @@
         "name": "pCloud",
         "url": "https://my.pcloud.com/#page=settings&settings=tab-account",
         "difficulty": "medium",
-        "email": "privacy@pcloud.com",
         "notes": "Go to Settings > Account > Delete Your Account and confirm the e-mail. The data will be deleted within three months.",
         "notes_it": "Vai su Impostazioni > Account > Elimina Account e conferma l'e-mail. I dati saranno cancellati entro tre mesi.",
         "domains": [
