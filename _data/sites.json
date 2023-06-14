@@ -8997,7 +8997,7 @@
         "url": "https://kick.com/",
         "difficulty": "hard",
         "notes": "To permanently deactivate your account, you need to send an email to Kick support.",
-        "email": "support@kick.com"
+        "email": "support@kick.com",
         "domains": [
             "kick.com",
         ]
