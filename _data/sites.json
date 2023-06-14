@@ -9619,18 +9619,6 @@
     },
 
     {
-        "name": "LogRocket",
-        "url": "https://docs.logrocket.com/docs/security",
-        "difficulty": "hard",
-        "notes": "According to their security documentation, contact customer support via email and request the deletion of your account.",
-        "email": "support@logrocket.com",
-        "domains": [
-            "logrocket.com",
-            "docs.logrocket.com"
-        ]
-    },
-
-    {
         "name": "LogMeIn / Hamachi",
         "url": "https://support.logmeininc.com/hamachi/help/how-do-i-contact-hamachi-customer-support",
         "difficulty": "hard",
@@ -9640,6 +9628,18 @@
             "logmein.com",
             "logmeininc.com",
             "support.logmeininc.com"
+        ]
+    },
+
+    {
+        "name": "LogRocket",
+        "url": "https://docs.logrocket.com/docs/security",
+        "difficulty": "hard",
+        "notes": "According to their security documentation, contact customer support via email and request the deletion of your account.",
+        "email": "support@logrocket.com",
+        "domains": [
+            "logrocket.com",
+            "docs.logrocket.com"
         ]
     },
 
