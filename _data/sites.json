@@ -9634,6 +9634,18 @@
     },
 
     {
+        "name": "LogRocket",
+        "url": "https://docs.logrocket.com/docs/security",
+        "difficulty": "hard",
+        "notes": "According to their security documentation, contact customer support via email and request the deletion of your account.",
+        "email": "support@logrocket.com",
+        "domains": [
+            "logrocket.com",
+            "docs.logrocket.com"
+        ]
+    },
+
+    {
         "name": "Lolja",
         "url": "https://lolja.com.br",
         "difficulty": "hard",
@@ -12454,6 +12466,19 @@
         "notes": "You need to contact support through built-in chat or you can comment on the linked thread",
         "domains": [
             "pcbway.com"
+        ]
+    },
+
+    {
+        "name": "pCloud",
+        "url": "https://my.pcloud.com/#page=settings&settings=tab-account",
+        "difficulty": "medium",
+        "notes": "Go to Settings > Account > Delete Your Account and confirm the e-mail. The data will be deleted within three months.",
+        "notes_it": "Vai su Impostazioni > Account > Elimina Account e conferma l'e-mail. I dati saranno cancellati entro tre mesi.",
+        "domains": [
+            "pcloud.com",
+            "my.pcloud.com",
+            "pass.pcloud.com"
         ]
     },
 
