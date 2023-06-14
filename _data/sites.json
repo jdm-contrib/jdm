@@ -8383,7 +8383,6 @@
     },
 
     {
-<<<<<<< HEAD
         "name": "insights",
         "url": "https://insights.gg/dashboard/settings/profile",
         "difficulty": "easy",
@@ -8391,13 +8390,6 @@
         "notes_it": "Elimina tutti i tuoi team, clicca su Delete Account e scrivi 'DELETE'",
         "domains":[
             "insights.gg"
-=======
-        "name": "Instacart",
-        "url": "https://www.instacart.com/user_privacy/form/",
-        "difficulty": "easy",
-        "domains": [
-            "instacart.com"
->>>>>>> 62112a4d01342666047566eb7ea09229ee0583bb
         ]
     },
 
