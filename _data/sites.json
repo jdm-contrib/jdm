@@ -14449,6 +14449,16 @@
     },
 
     {
+        "name": "SchoolCashOnline",
+        "url": "https://schoolcashonline.com/MyAccount/EditProfile",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the page and click 'Deactivate Account'.",
+        "domains": [
+            "schoolcashonline.com"
+        ]
+    },
+
+    {
         "name": "Schoology",
         "url": "https://app.schoology.com/settings/account/action?delete",
         "difficulty": "easy",
