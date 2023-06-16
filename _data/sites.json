@@ -15548,6 +15548,17 @@
     },
 
     {
+        "name": "Stocard",
+        "url": "https://stocardapp.com/privacy",
+        "difficulty": "medium",
+        "notes": "From the app: Account → Manage Account → Delete account.",
+        "notes_it": "Dall'applicazione: Account → Gestisci account → Elimina account.",
+        "domains": [
+            "stocardapp.com"
+        ]
+    },
+
+    {
         "name": "Stock Informer",
         "url": "https://www.stockinformer.com/myprofile.aspx",
         "difficulty": "easy",
