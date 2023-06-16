@@ -9825,6 +9825,17 @@
     },
 
     {
+        "name": "Magicflow",
+        "url": "https://magicflow.com/profile/account",
+        "difficulty": "easy",
+        "notes": "On your account page, click in 'Delete Account' then confirm.",
+        "notes_pt_br": "Nas preferências do seu perfil, clique em 'Delete Account' e depois confirme.",
+        "domains": [
+            "magicflow.com"
+        ]
+    },
+
+    {
         "name": "Magoosh",
         "url": "https://magoosh.zendesk.com/hc/en-us/articles/204307485-How-do-I-delete-my-account-",
         "email": "help@magoosh.com",
