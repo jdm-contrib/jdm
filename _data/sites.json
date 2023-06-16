@@ -9823,7 +9823,8 @@
             "macupdate.com"
         ]
     },
-{
+
+    {
         "name": "Magicflow",
         "url": "https://magicflow.com/profile/account",
         "difficulty": "easy",
@@ -9833,6 +9834,7 @@
             "magicflow.com",
         ]
     },
+
     {
         "name": "Magoosh",
         "url": "https://magoosh.zendesk.com/hc/en-us/articles/204307485-How-do-I-delete-my-account-",
