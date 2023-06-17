@@ -6118,6 +6118,16 @@
     },
 
     {
+        "name": "FutureLearn",
+        "url": "https://www.futurelearn.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the page and click 'Delete my account'.",
+        "domains": [
+            "futurelearn.com"
+        ]
+    },
+
+    {
         "name": "FXhome",
         "url": "https://fxhome.com",
         "difficulty": "hard",
