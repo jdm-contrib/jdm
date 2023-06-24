@@ -14869,6 +14869,17 @@
     },
 
     {
+        "name": "Similarweb",
+        "url": "https://account.similarweb.com/user-details",
+        "difficulty": "easy",
+        "notes": "In your Similarweb account settings, Within the user profile, click Delete Account, then click the 'Delete Account' button.",
+        "domains": [
+            "similarweb.com",
+            "support.similarweb.com"
+        ]
+    },
+
+    {
         "name": "Simple Machines",
         "url": "https://simplemachines.org/community/index.php?action=profile;area=deleteaccount",
         "difficulty": "hard",
