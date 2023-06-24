@@ -18569,11 +18569,11 @@
 
     {
         "name": "XDA Developers",
-        "url": "https://www.xda-developers.com/gdpr-data/",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdEwxhZ4uYkGXjnduf--jjTaTrdheSFEW8Wb9-wp8_DYnMXkg/viewform",
         "difficulty": "hard",
-        "notes": "Click 'Data Deletion Request' and fill in the form. Make sure to specify if you want your posts deleted.",
-        "notes_tr": "\"Hesap Silme Talebi\" öğesini tıklayın ve formu doldurun. Gönderilerinizin silinmesini isteyip istemediğinizi belirttiğinizden emin olun.",
-        "notes_fr": "Cliquez 'Data Deletion Request' et remplissez le formulaire. Assurez-vous de spécifier si vous voulez que vos posts soient supprimés",
+        "notes": "Visit this 'Data Deletion Request Form' and fill in the form. Make sure to specify if you want your posts deleted.",
+        "notes_tr": "Bu 'Veri Silme Talep Formu'nu ziyaret edin ve formu doldurun. Gönderilerinizin silinmesini isteyip istemediğinizi belirttiğinizden emin olun.",
+        "notes_fr": "Visitez ce 'Formulaire de demande de suppression de données' et remplissez le formulaire. Assurez-vous de spécifier si vous voulez que vos posts soient supprimés",
         "domains": [
             "xda-developers.com"
         ]
