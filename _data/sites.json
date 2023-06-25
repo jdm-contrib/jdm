@@ -8676,6 +8676,18 @@
     },
 
     {
+        "name": "JavaRush",
+        "url": "https://javarush.com/en/settings/security",
+        "url_ru": "https://javarush.com/settings/security",
+        "difficulty": "easy",
+        "notes": "Log in. Press the url. Scroll down and see button 'You can delete your account and your personal data'",
+        "notes_ru": "Войдите в аккаунт, который хотите удалить. Нажмите на ссылку. Пролистайте вниз и нажмите 'Вы можете удалить свой аккаунт и свои персональные данные'",
+        "domains": [
+            "javarush.com"
+        ]
+    },
+
+    {
         "name": "JB Hi-Fi",
         "url": "https://support.jbhifi.com.au/hc/en-au/requests/new",
         "difficulty": "hard",
