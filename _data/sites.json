@@ -17495,6 +17495,16 @@
     },
 
     {
+        "name": "VirusTotal",
+        "url": "https://www.virustotal.com/gui/settings",
+        "difficulty": "easy",
+        "notes": "Log in to your account, go to the page linked above, and press 'Delete account'",
+        "domains": [
+            "virustotal.com"
+        ]
+    },
+
+    {
         "name": "Viva o Linux (VOL)",
         "url": "https://www.vivaolinux.com.br/minhaConta.php",
         "difficulty": "easy",
