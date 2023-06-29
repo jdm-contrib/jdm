@@ -15591,6 +15591,19 @@
     },
 
     {
+		"name": "Storj",
+		"url": "https://docs.storj.io/dcs/billing-payment-and-accounts-1/closing-an-account/",
+		"difficulty": "hard",
+		"notes": "Before requesting account deletion, make sure you have deleted all Buckets, Objects and Access Grants. These can all be found on the main dashboard after logging in. You'll have to create another account for their helpdesk ticket system, but after contacting support, they will delete both the main Storj account as well as the Helpdesk one.",
+		"domains": [
+			"https://eu1.storj.io/",
+			"https://ap1.storj.io/",
+			"https://us1.storj.io/",
+			"https://storj.io/"
+		]
+    },
+
+    {
         "name": "Strava",
         "url": "https://www.strava.com/athlete/delete_your_account",
         "difficulty": "medium",
