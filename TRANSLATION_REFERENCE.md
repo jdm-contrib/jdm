@@ -8,7 +8,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `name`: Language name
 - `tagline`: The slogan of the website
 - `about`: Button that skips to the end of the page until the credits
-- `extension`: Button that takes to the chrome extension
+- `extension_browser`: Button that takes to the Chrome/Firefox browser extensions
 - `contribute`: Button to go to the GitHub repository
 - `twitter`: Button to tweet about JDM
 
@@ -35,7 +35,8 @@ This is a reference guide for translating, so that one can see where each key fi
 ## Footer
 
 - `whatisthis`: Title of the section with the explanation about the website
-- `whatisthis[1-3]`: Phrase that describes the website, pieced together as "`whatisthis1` `whatisthis2` `whatisthis3`". `whatisthis2` is the "dark patterns" hyperlink text
+- `whatisthis[1-3]`: Phrase that describes the website, pieced together as "`whatisthis1` `whatisthis2` `whatisthis3`".
+  `whatisthis2` is the "dark patterns" hyperlink text
 - `whatisthis4`: Second paragraph explaining the website
 - `pullrequest`: Text for the hyperlink that takes to the JDM GitHub webpage
 - `guide`: Title for the section explaining how difficulties work
@@ -45,9 +46,11 @@ This is a reference guide for translating, so that one can see where each key fi
 - `guidehard`: Short sentence explaining what "hard" means
 - `guidelimited`: Short sentence explaining what "limited availability" means
 - `guideimpossible`: Short sentence explaining what "impossible" means
-- `extension`: Title for the section explaining about the chrome extensions
+- `extension_browser`: Title for the section explaining about the Chrome/Firefox browser extensions
 - `extensionguide`: Sentence introducing the extension section
-- `extensionp[1-2]` + `mikerogers`: First paragraph about the extension with credits to author. It's pieced together as "`extensionp1` `mikerogers` `extensionp2`"
-- `extensionp3`: Explains what the Chrome extension does
-- `extensionp[4-6]`: Last paragraph showing how to install the extension. It is written as "`extensionp4` + `extensionp5` + `extensionp6`" where `extensionp5` is the text for the hyperlink of the Chrome Web Store.
+- `extensionp1`: Explains what the extensions do
+- `extensionp[2-5]`: Last paragraph showing how to install the extensions. It is written as "`extensionp2` +
+  `extensionp3`/`extensionp4` + `extensionp5`" where `extensionp3` and `extensionp4` are the texts for the hyperlinks of
+  the Chrome Web Store and Firefox Add-ons, respectively. `extensionp5` is expected to either be an empty string, or
+  include leading space (as needed) between the prior link and a trailing period.
 - `footercredits`: Text to introduce creators

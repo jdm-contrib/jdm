@@ -103,7 +103,6 @@ header h1 span {
     border-radius: 5px;
     color: white;
     display: inline-block;
-    font-weight: lighter;
     letter-spacing: 1px;
     margin-top: 10px;
     padding: 10px 20px;
@@ -186,7 +185,6 @@ button {
     border-radius: 5px;
     cursor: pointer;
     font-size: 70%;
-    font-weight: lighter;
     padding: 10px 15px;
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
@@ -511,7 +509,7 @@ main {
     border: 1px solid black;
 }
 
-.banner-block .banner-block-extension {
+.banner-block .banner-block-extension_browser {
     background-image: url('../img/block.png');
     background-position: center bottom;
     background-repeat: no-repeat;

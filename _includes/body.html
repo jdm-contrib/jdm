@@ -7,6 +7,7 @@
     <div class="sort-container">
         <button class="popular">{{ site.data.trans[page.lang].popular }}</button>
         <button data-dropdown="#alphabetical-dropdown" class="az-sort">A - Z</button>
+        <button data-dropdown="#number-dropdown" class="09-sort">0 - 9</button>
         <button data-dropdown="#difficulty-dropdown" class="diff-sort">{{ site.data.trans[page.lang].difficulty }}</button>
         <button class="reset">{{ site.data.trans[page.lang].reset }}</button>
     </div>
@@ -92,11 +93,19 @@
 
 <div class="banner-block">
     <div class="banner-content">
-        <div class="banner-block-half" id="extension">
-            <h2>{{ site.data.trans[page.lang].extension|safe }}</h2>
-            <p>{{ site.data.trans[page.lang].extensionp1|safe }} <a target='_blank' href='https://mikerogers.io'>{{ site.data.trans[page.lang].mikerogers|safe }}</a> {{ site.data.trans[page.lang].extensionp2|safe }}</p>
-            <p>{{ site.data.trans[page.lang].extensionp3|safe }}</p>
-            <p>{{ site.data.trans[page.lang].extensionp4|safe }} <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>{{ site.data.trans[page.lang].extensionp5|safe }}</a> {{ site.data.trans[page.lang].extensionp6|safe }}.</p>
+        <div class="banner-block-half" id="extension_browser">
+            <h2>{{ site.data.trans[page.lang].extension_browser|safe }}</h2>
+            <p>{{ site.data.trans[page.lang].extensionp1|safe }}</p>
+            <p>
+                {% assign post_extension_link_text = site.data.trans[page.lang].extensionp5 | safe %}
+                {% if post_extension_link_text == '' %}
+                    {% assign post_extension_link_text = '.' %}
+                {% endif %}
+                {{ site.data.trans[page.lang].extensionp2|safe }}
+                <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>{{ site.data.trans[page.lang].extensionp3|safe }}</a>
+                /
+                <a target='_blank' href='https://addons.mozilla.org/en-US/firefox/addon/justdeleteme/'>{{ site.data.trans[page.lang].extensionp4|safe }}</a>{{ post_extension_link_text }}
+            </p>
         </div>
         <div class="banner-block-half">
             <h2>{{ site.data.trans[page.lang].extensionguide|safe }}</h2>
@@ -109,7 +118,7 @@
             </ul>
         </div>
     </div>
-    <div class="banner-block-extension"></div>
+    <div class="banner-block-extension_browser"></div>
 </div>
 
 <!-- Language dropdown -->
@@ -135,6 +144,17 @@
             {% assign letters = 'a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z' | split:',' %}
             {% for letter in letters %}
             <li><a href="">{{ letter }}</a></li>
+            {% endfor %}
+        </span>
+    </ul>
+</div>
+
+<div id="number-dropdown" class="dropdown dropdown-tip">
+    <ul class="dropdown-menu ltr">
+        <span class="alpha-sort">
+            {% assign numbers = '0,1,2,3,4,5,6,7,8,9' | split:',' %}
+            {% for number in numbers %}
+            <li><a href="">{{ number }}</a></li>
             {% endfor %}
         </span>
     </ul>
