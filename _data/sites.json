@@ -3789,6 +3789,16 @@
     },
 
     {
+        "name": "The Daily Wire",
+        "url": "https://privacy.dailywire.com/",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Your Data\" and enter the verification code the company sends to your account email.",
+        "domains": [
+            "dailywire.com"
+        ]
+    },
+
+    {
         "name": "Dailymotion",
         "url": "https://www.dailymotion.com/settings/delete-account",
         "difficulty": "easy",
@@ -3797,16 +3807,6 @@
         "notes_pt_br": "Digite sua senha e clique em \"Delete account\" para confirmar a exclusão da sua conta.",
         "domains": [
             "dailymotion.com"
-        ]
-    },
-
-    {
-        "name": "The Daily Wire",
-        "url": "https://privacy.dailywire.com/",
-        "difficulty": "easy",
-        "notes": "Click \"Delete Your Data\" and enter the verification code the company sends to your account email.",
-        "domains": [
-            "dailywire.com"
         ]
     },
 
