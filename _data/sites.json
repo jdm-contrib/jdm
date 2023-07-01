@@ -3789,6 +3789,16 @@
     },
 
     {
+        "name": "The Daily Wire",
+        "url": "https://privacy.dailywire.com/",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Your Data\" and enter the verification code the company sends to your account email.",
+        "domains": [
+            "dailywire.com"
+        ]
+    },
+
+    {
         "name": "Dailymotion",
         "url": "https://www.dailymotion.com/settings/delete-account",
         "difficulty": "easy",
@@ -6145,6 +6155,16 @@
         "domains": [
             "g2a.com",
             "id.g2a.com"
+        ]
+    },
+
+    {
+        "name": "Gab Social",
+        "url": "https://gab.com/settings/delete",
+        "difficulty": "easy",
+        "notes": "Under \"Account Settings\" there is an option to delete your account. Enter your password and press \"Delete Account\"",
+        "domains": [
+            "gab.com"
         ]
     },
 
