@@ -17380,7 +17380,7 @@
     {
         "name": "VCRDB / Valorant Crosshair Database",
         "url": "https://www.vcrdb.net/profile",
-        "difficulty": "easy",
+        "difficulty": "medium",
         "notes": "Before deleting your account, make sure you have deleted all Crosshairs you have created, otherwise account deletion will fail with an unknown error.",
         "domains": [
             "vcrdb.net",
