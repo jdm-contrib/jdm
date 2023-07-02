@@ -97,11 +97,14 @@
             <h2>{{ site.data.trans[page.lang].extension_browser|safe }}</h2>
             <p>{{ site.data.trans[page.lang].extensionp1|safe }}</p>
             <p>
+                {% assign post_extension_link_text = site.data.trans[page.lang].extensionp5 | safe %}
+                {% if post_extension_link_text == '' %}
+                    {% assign post_extension_link_text = '.' %}
+                {% endif %}
                 {{ site.data.trans[page.lang].extensionp2|safe }}
                 <a target='_blank' href='https://chrome.google.com/webstore/detail/justdeleteme/hfpofkfbabpbbmchmiekfnlcgaedbgcf'>{{ site.data.trans[page.lang].extensionp3|safe }}</a>
                 /
-                <a target='_blank' href='https://addons.mozilla.org/en-US/firefox/addon/justdeleteme/'>{{ site.data.trans[page.lang].extensionp4|safe }}</a>
-                {{ site.data.trans[page.lang].extensionp5|safe }}.
+                <a target='_blank' href='https://addons.mozilla.org/en-US/firefox/addon/justdeleteme/'>{{ site.data.trans[page.lang].extensionp4|safe }}</a>{{ post_extension_link_text }}
             </p>
         </div>
         <div class="banner-block-half">

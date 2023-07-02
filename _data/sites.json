@@ -3789,6 +3789,16 @@
     },
 
     {
+        "name": "The Daily Wire",
+        "url": "https://privacy.dailywire.com/",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Your Data\" and enter the verification code the company sends to your account email.",
+        "domains": [
+            "dailywire.com"
+        ]
+    },
+
+    {
         "name": "Dailymotion",
         "url": "https://www.dailymotion.com/settings/delete-account",
         "difficulty": "easy",
@@ -6145,6 +6155,16 @@
         "domains": [
             "g2a.com",
             "id.g2a.com"
+        ]
+    },
+
+    {
+        "name": "Gab Social",
+        "url": "https://gab.com/settings/delete",
+        "difficulty": "easy",
+        "notes": "Under \"Account Settings\" there is an option to delete your account. Enter your password and press \"Delete Account\"",
+        "domains": [
+            "gab.com"
         ]
     },
 
@@ -8672,6 +8692,18 @@
         "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
             "jalopnik.com"
+        ]
+    },
+
+    {
+        "name": "JavaRush",
+        "url": "https://javarush.com/en/settings/security",
+        "url_ru": "https://javarush.com/settings/security",
+        "difficulty": "easy",
+        "notes": "Log in. Press the url. Scroll down and see button 'You can delete your account and your personal data'",
+        "notes_ru": "Войдите в аккаунт, который хотите удалить. Нажмите на ссылку. Пролистайте вниз и нажмите 'Вы можете удалить свой аккаунт и свои персональные данные'",
+        "domains": [
+            "javarush.com"
         ]
     },
 
@@ -14869,6 +14901,17 @@
     },
 
     {
+        "name": "Similarweb",
+        "url": "https://account.similarweb.com/user-details",
+        "difficulty": "easy",
+        "notes": "In your Similarweb account settings, Within the user profile, click Delete Account, then click the 'Delete Account' button.",
+        "domains": [
+            "similarweb.com",
+            "support.similarweb.com"
+        ]
+    },
+
+    {
         "name": "Simple Machines",
         "url": "https://simplemachines.org/community/index.php?action=profile;area=deleteaccount",
         "difficulty": "hard",
@@ -15588,6 +15631,19 @@
         "domains": [
             "storenvy.com"
         ]
+    },
+
+    {
+		"name": "Storj",
+		"url": "https://docs.storj.io/dcs/billing-payment-and-accounts-1/closing-an-account/",
+		"difficulty": "hard",
+		"notes": "Before requesting account deletion, make sure you have deleted all Buckets, Objects and Access Grants. These can all be found on the main dashboard after logging in. You'll have to create another account for their helpdesk ticket system, but after contacting support, they will delete both the main Storj account as well as the Helpdesk one.",
+		"domains": [
+			"https://eu1.storj.io/",
+			"https://ap1.storj.io/",
+			"https://us1.storj.io/",
+			"https://storj.io/"
+		]
     },
 
     {
@@ -16913,6 +16969,16 @@
     },
 
     {
+        "name":"TV Tropes",
+        "url":"https://tvtropes.org/pmwiki/profile.php",
+        "difficulty": "easy",
+        "notes":"In your profile, there is a 'Delete Account' link. Clicking this will permanently delete all personal information from your user profile and deactivate your account. Your username cannot be used again by you or anyone else",
+        "domains": [
+            "https://tvtropes.org/"
+        ]
+    },
+
+    {
         "name": "Tweek",
         "url": "https://tweek.so/calendar/help",
         "difficulty": "easy",
@@ -17455,6 +17521,16 @@
         "notes_pt_br": "Entre na sua conta e contate o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
         "domains": [
             "virtualmaster.com"
+        ]
+    },
+
+    {
+        "name": "VirusTotal",
+        "url": "https://www.virustotal.com/gui/settings",
+        "difficulty": "easy",
+        "notes": "Log in to your account, go to the page linked above, and press 'Delete account'",
+        "domains": [
+            "virustotal.com"
         ]
     },
 
