@@ -15658,16 +15658,14 @@
     },
 
     {
-        {
-            "name": "Strawpool",
-            "url": "https://strawpoll.com/account/settings/",
-            "difficulty": "easy",
-            "notes": "All of your polls will be eliminated",
-            "notes_it": "Tutti i tuoi sondaggi (poll) saranno eliminati permanentemente",
-            "domains": [
-                "strawpool.com"
-            ]
-        },
+        "name": "Strawpoll",
+        "url": "https://strawpoll.com/account/settings/",
+        "difficulty": "easy",
+        "notes": "All of your polls will be eliminated",
+        "notes_it": "Tutti i tuoi sondaggi (poll) saranno eliminati permanentemente",
+        "domains": [
+            "strawpool.com"
+        ]
     },
 
     {
