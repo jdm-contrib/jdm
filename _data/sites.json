@@ -2939,8 +2939,7 @@
         "name": "Chegg",
         "url": "https://www.chegg.com/contactus",
         "difficulty": "hard",
-        "notes": "Call customer service, email them with the email listed here, contact them via chat and ask them to delete your account, or request assistance via their Twitter account, <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>. There is also no option to delete your payment methods, you need to contact customer support as well.",
-        "notes_tr": "Müşteri hizmetlerini arayın ya da kendileriyle mesaj olarak iletişime geçin ve hesabınızı silmek istediğinizi belirtin, ya da kendilerinin Twitter hesabıyla yardım isteyin. Ayrıca ödeme yöntemlerinizi silmek için bir yöntem yok, bunun için de müşteri hizmetleriyle iletişime geçmeniz gerekir.",
+        "notes": "<ul><li>To request data deletion: Use the <a href=\"https://privacyportal-cdn.onetrust.com/dsarwebform/a21a74f4-2f93-44a2-a887-302a9213c997/06b040b7-49eb-464a-b19a-ea35c85c79fc.html\">Data Deletion Form</a></li> <li>To delete payment methods: Contact support using the SMS/WhatsApp number (408)-351-0942. You will need the last four digits of the payment method.</li> <li>To delete/deactivate account: Contact support with the email listed here, call, message with SMS/WhatsApp, or request assistance via their twitter <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>.</li></ul>",
         "email": "closemyaccount@chegg.com",
         "domains": [
             "chegg.com"
@@ -3849,6 +3848,16 @@
         "notes_tr": "Sayfanın altında kırmızı \"Hesabı Sil\" tuşuna basın.",
         "domains": [
             "datacamp.com"
+        ]
+    },
+
+    {
+        "name": "DataQuest",
+        "url": "https://app.dataquest.io/settings/account",
+        "difficulty": "easy",
+        "notes": "Click the red 'delete account' button",
+        "domains": [
+            "app.dataquest.io"
         ]
     },
 
@@ -9034,7 +9043,7 @@
             "khanacademy.org"
         ]
     },
-    
+
     {
         "name": "Kick Streaming",
         "url": "https://kick.com/",
@@ -9327,6 +9336,15 @@
         "domains": [
             "leetcode.com",
             "support.leetcode.com"
+        ]
+    },
+
+    {
+        "name": "Lemehost",
+        "url": "https://lemehost.com/user/settings/delete",
+        "difficulty": "easy",
+        "domains": [
+            "lemehost.com"
         ]
     },
 
@@ -10034,6 +10052,16 @@
         "notes_tr": "Hesabınıza giriş yapın, ve sayfanın altındaki \"Hesabım\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "marvelapp.com"
+        ]
+    },
+
+    {
+        "name": "Mashable",
+        "url": "https://support.stackcommerce.com/hc/en-us/requests/",
+        "difficulty": "impossible",
+        "notes": "It's not possible to delete your account, but you can send a request to deactivate your account.",
+        "domains": [
+            "shop.mashable.com"
         ]
     },
 
@@ -11786,6 +11814,16 @@
     },
 
     {
+        "name": "Nutaku",
+        "url": "https://www.nutaku.net/profile/delete/",
+        "difficulty": "easy",
+        "notes": "Click the Delete Account Button",
+        "domains": [
+            "nutaku.net"
+        ]
+    },
+
+    {
         "name": "NutraCheck",
         "url": "https://www.nutracheck.co.uk/",
         "difficulty": "hard",
@@ -12370,6 +12408,17 @@
             "crusaderkings.com",
             "citiesskylines.com",
             "heartsofiron4.com"
+        ]
+    },
+
+    {
+        "name": "Parallels",
+        "url": "https://my.parallels.com/profile/personal/general",
+        "difficulty": "hard",
+        "notes": "Need to login, click the delete button, confirm in the email, and confirm on the site again.",
+        "domains": [
+            "parallels.com",
+            "my.parallels.com"
         ]
     },
 
@@ -14239,7 +14288,7 @@
             "en.help.roblox.com"
         ]
     },
-    
+
     {
         "name": "RoboForm",
         "url": "https://online.roboform.com/site/account/manage?type=profile",
@@ -14668,6 +14717,17 @@
         "difficulty": "easy",
         "domains": [
             "sentry.io"
+        ]
+    },
+
+    {
+        "name": "Server.pro",
+        "url": "https://server.pro/",
+        "difficulty": "hard",
+        "notes": "Contact support with email provided here.",
+        "email": "support@server.pro",
+        "domains": [
+            "server.pro"
         ]
     },
 
@@ -16198,6 +16258,16 @@
     },
 
     {
+        "name": "Telltale",
+        "url": "https://telltale.com",
+        "difficulty": "hard",
+        "notes": "Contact support using the blue \"Support\" button at the bottom right, filling out all applicable fields with \"Account Deletion\"",
+        "domains": [
+            "telltale.com"
+        ]
+    },
+
+    {
         "name": "TEMPO",
         "url": "https://tempo.eu.com",
         "difficulty": "impossible",
@@ -16913,6 +16983,17 @@
         "difficulty": "easy",
         "domains": [
             "tumblr.com"
+        ]
+    },
+
+    {
+        "name": "TuneMyMusic",
+        "url": "https://app.tunemymusic.com/settings",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete Account\" button.",
+        "domains": [
+            "tunemymusic.com",
+            "app.tunemymusic.com"
         ]
     },
 
