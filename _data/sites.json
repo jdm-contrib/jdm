@@ -16795,6 +16795,16 @@
     },
 
     {
+        "name": "Tresorit",
+        "url": "https://web.tresorit.com/account/profile",
+        "difficulty": "easy",
+        "notes": "Click the link, it redirects you to your Tresorit profile. Login, scroll to the end, and click 'Delete my account'. The deletion of your account needs confirmation by email, open your email and click 'confirm'.",
+        "domains": [
+            "tresorit.com"
+        ]
+    },
+
+    {
         "name": "Trillian",
         "url": "https://trillian.im/account/#delete",
         "difficulty": "easy",
