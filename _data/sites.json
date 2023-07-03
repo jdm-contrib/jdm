@@ -15659,10 +15659,10 @@
         "difficulty": "hard",
         "notes": "Before requesting account deletion, make sure you have deleted all Buckets, Objects and Access Grants. These can all be found on the main dashboard after logging in. You'll have to create another account for their helpdesk ticket system, but after contacting support, they will delete both the main Storj account as well as the Helpdesk one.",
         "domains": [
-            "https://eu1.storj.io/",
-            "https://ap1.storj.io/",
-            "https://us1.storj.io/",
-            "https://storj.io/"
+            "eu1.storj.io",
+            "ap1.storj.io",
+            "us1.storj.io",
+            "storj.io"
         ]
     },
 
@@ -17383,8 +17383,7 @@
         "difficulty": "medium",
         "notes": "Before deleting your account, make sure you have deleted all Crosshairs you have created, otherwise account deletion will fail with an unknown error.",
         "domains": [
-            "vcrdb.net",
-            "www.vcrdb.net"
+            "vcrdb.net"
         ]
     },
 
