@@ -12941,6 +12941,15 @@
     },
 
     {
+        "name": "Playit.gg",
+        "url": "https://playit.gg/account/settings/account/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "playit.gg"
+        ]
+    },
+
+    {
         "name": "PlayPosit",
         "url": "https://go.playposit.com",
         "difficulty": "easy",
@@ -13395,6 +13404,17 @@
         "notes_tr": "Hesabınızda oturum açın, \"Ayarlar\" \"Genel\" \"Hesabınızı iptal etmek istiyorsanız buraya tıklayın\" öğesini tıklayın, neden ayrıldığınızı seçin ve \"Devam Et\" \"Evet, hesabımı iptal et\" düğmesini tıklayın",
         "domains": [
             "prottapp.com"
+        ]
+    },
+
+    {
+        "name": "Proxer",
+        "url": "https://proxer.me/ucp?s=deleteaccount",
+        "difficulty": "easy",
+        "notes": "The account deletion page can be found by hovering the logo -> Impressum -> FAQ/Kontakt -> Zur Accountlöschung. When logged in, the linked page should present a pop-up dialogue to confirm account deletion.",
+        "notes_de": "Die Accountlöschung findet man unter dem Logo-Dropdown -> Impressum -> FAQ/Kontakt -> Zur Accountlöschung. Man bekommt noch ein Pop-Up zur Bestätigung.",
+        "domains": [
+            "proxer.me"
         ]
     },
 
@@ -15634,16 +15654,16 @@
     },
 
     {
-		"name": "Storj",
-		"url": "https://docs.storj.io/dcs/billing-payment-and-accounts-1/closing-an-account/",
-		"difficulty": "hard",
-		"notes": "Before requesting account deletion, make sure you have deleted all Buckets, Objects and Access Grants. These can all be found on the main dashboard after logging in. You'll have to create another account for their helpdesk ticket system, but after contacting support, they will delete both the main Storj account as well as the Helpdesk one.",
-		"domains": [
-			"https://eu1.storj.io/",
-			"https://ap1.storj.io/",
-			"https://us1.storj.io/",
-			"https://storj.io/"
-		]
+        "name": "Storj",
+        "url": "https://docs.storj.io/dcs/billing-payment-and-accounts-1/closing-an-account/",
+        "difficulty": "hard",
+        "notes": "Before requesting account deletion, make sure you have deleted all Buckets, Objects and Access Grants. These can all be found on the main dashboard after logging in. You'll have to create another account for their helpdesk ticket system, but after contacting support, they will delete both the main Storj account as well as the Helpdesk one.",
+        "domains": [
+            "eu1.storj.io",
+            "ap1.storj.io",
+            "us1.storj.io",
+            "storj.io"
+        ]
     },
 
     {
@@ -17354,6 +17374,16 @@
         "notes": "Email customer service through the link and tell them you want your account deleted.",
         "domains": [
             "vans.com"
+        ]
+    },
+
+    {
+        "name": "VCRDB / Valorant Crosshair Database",
+        "url": "https://www.vcrdb.net/profile",
+        "difficulty": "medium",
+        "notes": "Before deleting your account, make sure you have deleted all Crosshairs you have created, otherwise account deletion will fail with an unknown error.",
+        "domains": [
+            "vcrdb.net"
         ]
     },
 
