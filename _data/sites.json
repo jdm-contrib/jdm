@@ -12414,7 +12414,7 @@
     {
         "name": "Parallels",
         "url": "https://my.parallels.com/profile/personal/general",
-        "difficulty": "hard",
+        "difficulty": "medium",
         "notes": "Need to login, click the delete button, confirm in the email, and confirm on the site again.",
         "domains": [
             "parallels.com",
