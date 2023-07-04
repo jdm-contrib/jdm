@@ -10058,8 +10058,8 @@
     {
         "name": "Mashable",
         "url": "https://support.stackcommerce.com/hc/en-us/requests/",
-        "difficulty": "impossible",
-        "notes": "It's not possible to delete your account, but you can send a request to deactivate your account.",
+        "difficulty": "hard",
+        "notes": "Contact customer support using the link here to fill out a request for account deletion",
         "domains": [
             "shop.mashable.com"
         ]
