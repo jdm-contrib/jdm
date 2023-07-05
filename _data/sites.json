@@ -15676,6 +15676,17 @@
     },
 
     {
+        "name": "Strawpoll",
+        "url": "https://strawpoll.com/account/settings/",
+        "difficulty": "easy",
+        "notes": "All of your polls will be eliminated",
+        "notes_it": "Tutti i tuoi sondaggi (poll) saranno eliminati permanentemente",
+        "domains": [
+            "strawpoll.com"
+        ]
+    },
+
+    {
         "name": "Streamable",
         "url": "https://support.streamable.com/contact-us",
         "difficulty": "hard",
