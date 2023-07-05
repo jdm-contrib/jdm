@@ -6281,13 +6281,11 @@
 
     {
         "name": "Gamehag",
-        "url": "https://www.gamehag.com",
-        "difficulty": "hard",
+        "url": "https://www.gamehag.com/profile/edit",
+        "difficulty": "easy",
         "email": "support@gamehag.com",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes": "Go to the bottom of the page and click on 'Delete Account'",
+        "notes_tr": "Sayfanın sonuna gidip 'Hesabı Sil' tuşuna basın.",
         "domains": [
             "gamehag.com"
         ]
