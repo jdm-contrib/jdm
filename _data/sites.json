@@ -2939,7 +2939,7 @@
         "name": "Chegg",
         "url": "https://www.chegg.com/contactus",
         "difficulty": "hard",
-        "notes": "<ul><li><strong>To request data deletion:</strong> Use the <a href=\"https://privacyportal-cdn.onetrust.com/dsarwebform/a21a74f4-2f93-44a2-a887-302a9213c997/06b040b7-49eb-464a-b19a-ea35c85c79fc.html\">Data Deletion Form</a></li><br><li><strong>To delete payment methods:</strong> Contact support using the SMS/WhatsApp number (408)-351-0942. You will need the last four digits of the payment method.</li><br><li><strong>To delete/deactivate account:</strong> Contact support with the email listed here, call, message with SMS/WhatsApp, or request assistance via their twitter <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>.</li></ul>",
+        "notes": "To close your account, contact support with the email listed, call/message (408)-351-0942, or request assistance via their twitter <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>. For data deletion, click <a href=\"https://privacyportal-cdn.onetrust.com/dsarwebform/a21a74f4-2f93-44a2-a887-302a9213c997/06b040b7-49eb-464a-b19a-ea35c85c79fc.html\">here</a>.",
         "email": "closemyaccount@chegg.com",
         "domains": [
             "chegg.com"
