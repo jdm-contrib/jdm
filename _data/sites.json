@@ -12640,7 +12640,7 @@
     {
         "name": "Peloton",
         "url": "https://privacyportal.onetrust.com/webform/18f92a28-d2ae-4a6a-8f99-85b4455e22c0/cfbaf35a-5e06-4010-a6b6-1ad61ba414f1",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "To permanently delete your Peloton Account, please fill out the Privacy Request Form. Once the form is completed, the Peloton Privacy Team will begin processing your request. ",
         "domains": [
             "onepeloton.com"
