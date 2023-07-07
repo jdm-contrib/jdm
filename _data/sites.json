@@ -5516,15 +5516,6 @@
     },
 
     {
-        "name": "FaucetHub",
-        "url": "https://faucethub.io/dashboard/security/deleteaccount",
-        "difficulty": "easy",
-        "domains": [
-            "faucethub.io"
-        ]
-    },
-
-    {
         "name": "Fauna",
         "url": "https://support.fauna.com/hc/en-us/articles/1260807007229-How-do-I-delete-my-account-entirely-",
         "difficulty": "hard",
@@ -5878,6 +5869,16 @@
         "notes": "On the linked page choose the 'Delete Everything' option, confirm your password and click 'Delete Account'.",
         "domains": [
             "fontstruct.com"
+        ]
+    },
+
+    {
+        "name": "Foodmaxx",
+        "url": "https://foodmaxx.com/contact-us",
+        "difficulty": "hard",
+        "notes": "Contact customer service using the linked form and request account deletion, or call 1-800-692-5710.",
+        "domains": [
+            "foodmaxx.com"
         ]
     },
 
@@ -7438,7 +7439,7 @@
 
     {
         "name": "Guildtag",
-        "url": "https://www.guilded.gg",
+        "url": "https://guildtag.com",
         "difficulty": "medium",
         "notes": "Navigate to your profile editor and click 'Delete Account'. If you want your posts deleted, you must remove them invidivially beforehand.",
         "domains": [
