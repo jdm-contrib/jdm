@@ -19178,9 +19178,10 @@
         "name": "Zynga",
         "url": "https://privacy.zynga.com/portal/#/",
         "difficulty": "medium",
-        "notes": "Select the game you want to delete your account from. Log in. Click on the FAQ tab on the top navigation bar. Then click “Go here to request account deletion”. Click the box indicating your understanding and then click Continue. To confirm deletion, click the box, select a reason, and then click Delete My Account. Your account deletion request is now pending. Expect the deletion request to be completed within 30 days of the request.",
+        "notes": "Select the game you want to delete your account from (if you want to delete the entire account choose zyngagames.com). Log in. Click on the FAQ tab on the top navigation bar. Then click “Go here to request account deletion”. Click the box indicating your understanding and then click Continue. To confirm deletion, click the box, select a reason, and then click Delete My Account. Your account deletion request is now pending. Expect the deletion request to be completed within 30 days of the request.",
         "domains": [
             "zynga.com",
+            "zyngagames.com",
             "privacy.zynga.com"
         ]
     },
