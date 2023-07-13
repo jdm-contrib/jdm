@@ -8693,6 +8693,16 @@
     },
 
     {
+        "name": "IVPN",
+        "url": "https://www.ivpn.net/account/",
+        "difficulty": "easy",
+        "notes": "Go to account settings and click on \"Delete Account\"",
+        "domains": [
+            "ivpn.net"
+        ]
+    },
+
+    {
         "name": "Jalopnik",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
