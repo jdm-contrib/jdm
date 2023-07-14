@@ -3229,10 +3229,9 @@
 
     {
         "name": "CodersRank",
-        "url": "https://profile.codersrank.io/login",
-        "difficulty": "hard",
-        "notes": "Click the Feedback button on the right and fill in the form asking for deletion. They'll ask for you to reply from the signed up e-mail and then delete the account.",
-        "notes_tr": "Sağdaki \"Geribildirim\" tuşuna tıklayın ve formda hesabınızı silmek istediğinizi belirtin. Kayıt olduğunuz e-posta adresinden cevap vermenizi isteyecekler ve ardından hesabı silecekler.",
+        "url": "https://profile.codersrank.io/account",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the \"Account settings\" page to the \"Danger Zone\" section and click on \"Delete your account\"",
         "domains": [
             "codersrank.io",
             "profile.codersrank.io"
@@ -8692,6 +8691,16 @@
         "difficulty": "easy",
         "domains": [
             "iversity.com"
+        ]
+    },
+
+    {
+        "name": "IVPN",
+        "url": "https://www.ivpn.net/account/",
+        "difficulty": "easy",
+        "notes": "Go to account settings and click on \"Delete Account\"",
+        "domains": [
+            "ivpn.net"
         ]
     },
 
