@@ -19209,5 +19209,15 @@
         "domains": [
             "ciceksepeti.com"
         ]
+    },
+
+    {
+        "name": "Pulse.red",
+        "url": "https://pulse.red/profile",
+        "difficulty": "easy",
+        "notes": "Hit the button with the user name in the top-right. Navigate to the 'Settings' tab and pick 'Delete account'. Confirm by clicking 'Yes, delete'.",
+        "domains": [
+            "pulse.red"
+        ]
     }
 ]
