@@ -150,8 +150,10 @@
 
     {
         "name": "4PDA",
-        "url": "https://4pda.ru/",
+        "url": "https://4pda.to/forum/index.php?act=findpost&pid=1930277&anchor=Spoil-1930277-33",
         "difficulty": "impossible",
+        "notes": "It is not possible to delete your account. Even if the account is banned, it will still exist, but in the «Banned» group.",
+        "notes_ru": "Удалить свой аккаунт невозможно. Даже если аккаунт будет забанен, он будет существовать, но в группе «Забанен».",
         "domains": [
             "4pda.ru",
             "4pda.to"
