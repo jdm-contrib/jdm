@@ -17485,6 +17485,17 @@
     },
 
     {
+        "name": "Valorant",
+        "url": "https://support-valorant.riotgames.com/hc/en-us/articles/360050328414-Deleting-Your-Riot-Account-and-All-Your-Data",
+        "difficulty": "hard",
+        "notes": "Go to the linked page, scroll down, click on \"LOG IN\" and confirm your deletion.",
+        "domains": [
+            "playvalorant.com",
+            "support-valorant.riotgames.com"
+        ]
+    },
+
+    {
         "name": "Vans.com",
         "url": "https://www.vans.com/utility/contact-us.html",
         "difficulty": "hard",
