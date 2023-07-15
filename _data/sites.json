@@ -9328,10 +9328,9 @@
 
     {
         "name": "League of Legends",
-        "url": "https://support-leagueoflegends.riotgames.com/hc/en-us/articles/202647784-Account-Deletion-FAQ",
+        "url": "https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454",
         "difficulty": "hard",
-        "notes": "<a href=\"https://support.riotgames.com/anonymous_requests/new\">Send Riot Games a ticket</a> with the following information: account name, summoner name, server, email address used for account registration, registration location (City, Country), last IP used to play League of Legends, Internet Service Provider used during registration, and payment methods used to purchase RP. (if applicable)",
-        "notes_tr": "Şu bilgilerle bir destek talebi gönderin: hesap adı, sihirdar adı, sunucu, hesap kaydı için kullanılan e-posta adresi, kayıt konumu (Şehir, Ülke), League of Legends oynamak için kullanılan son IP, kayıt sırasında kullanılan İnternet Servis Sağlayıcısı ve kullanılan ödeme yöntemleri RP satın almak için. (eğer varsa)",
+        "notes": "Go to the linked page, scroll down, click on \"LOG IN\" and confirm your deletion.",
         "domains": [
             "leagueoflegends.com",
             "support-leagueoflegends.riotgames.com"
@@ -14243,11 +14242,7 @@
         "notes_fr": "Pour supprimer votre compte, vous devez ouvrir une demande d'assistance à partir de la page d'assistance de n'importe quel jeu. Si votre compte est vérifié par l'algorithme, vous pouvez utiliser <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">option de libre-service</a>",
         "notes_ru": "Чтобы удалить свой аккаунт, необходимо открыть запрос в службу поддержки на странице поддержки любой игры. Если ваш аккаунт подтвержден алгоритмом, вы можете воспользоваться <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">вариантом самообслуживания</a>.",
         "domains": [
-            "riotgames.com",
-            "support-valorant.riotgames.com",
-            "playvalorant.com",
-            "leagueoflegends.com",
-            "playruneterra.com"
+            "riotgames.com"
         ]
     },
 
