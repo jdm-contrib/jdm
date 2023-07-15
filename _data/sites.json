@@ -14264,7 +14264,9 @@
         "notes_fr": "Pour supprimer votre compte, vous devez ouvrir une demande d'assistance à partir de la page d'assistance de n'importe quel jeu. Si votre compte est vérifié par l'algorithme, vous pouvez utiliser <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">option de libre-service</a>",
         "notes_ru": "Чтобы удалить свой аккаунт, необходимо открыть запрос в службу поддержки на странице поддержки любой игры. Если ваш аккаунт подтвержден алгоритмом, вы можете воспользоваться <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">вариантом самообслуживания</a>.",
         "domains": [
-            "riotgames.com"
+            "riotgames.com",
+            "account.riotgames.com",
+            "auth.riotgames.com"
         ]
     },
 
