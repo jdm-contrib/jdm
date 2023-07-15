@@ -9338,6 +9338,17 @@
     }, 
 
     {
+        "name": "League of Legends: Wild Rift",
+        "url": "https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454",
+        "difficulty": "hard",
+        "notes": "Go to the linked page, scroll down, click on \"LOG IN\" and confirm your deletion.",
+        "domains": [
+            "wildrift.leagueoflegends.com",
+            "support-wildrift.riotgames.com"
+        ]
+    },   
+
+    {
         "name": "LeetCode",
         "url": "https://support.leetcode.com/hc/en-us/requests/new",
         "difficulty": "hard",
