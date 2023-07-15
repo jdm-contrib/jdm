@@ -9335,7 +9335,7 @@
             "leagueoflegends.com",
             "support-leagueoflegends.riotgames.com"
         ]
-    },
+    }, 
 
     {
         "name": "LeetCode",
@@ -9345,6 +9345,17 @@
         "domains": [
             "leetcode.com",
             "support.leetcode.com"
+        ]
+    },
+
+    {
+        "name": "Legends of Runeterra",
+        "url": "https://support-legendsofruneterra.riotgames.com/hc/en-us/articles/360051089233-Deleting-Your-Riot-Account-and-All-Your-Data",
+        "difficulty": "hard",
+        "notes": "Go to the linked page, scroll down, click on \"LOG IN\" and confirm your deletion.",
+        "domains": [
+            "playruneterra.com",
+            "support-legendsofruneterra.riotgames.com"
         ]
     },
 
