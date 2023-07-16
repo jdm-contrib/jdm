@@ -9656,6 +9656,15 @@
     },
 
     {
+        "name": "Livelo",
+        "url": "https://www.livelo.com.br/profile?occsite=points&tab=tab_label_1",
+        "difficulty": "easy"
+        "domains": [
+            "livelo.com.br"
+        ]
+    },
+
+    {
         "name": "Lnk.Bio",
         "url": "https://help.lnk.bio/en/articles/4300436-how-do-i-delete-my-account",
         "difficulty": "hard",
