@@ -9658,7 +9658,7 @@
     {
         "name": "Livelo",
         "url": "https://www.livelo.com.br/profile?occsite=points&tab=tab_label_1",
-        "difficulty": "easy"
+        "difficulty": "easy",
         "domains": [
             "livelo.com.br"
         ]
