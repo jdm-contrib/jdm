@@ -11979,6 +11979,17 @@
     },
 
     {
+        "name": "OmaPosti",
+        "url": "https://asiakastiedot.posti.fi/myaccount/details",
+        "difficulty": "easy",
+        "notes": "In the bottom of the page, click 'Stop using Posti’s electronic services'.",
+        "notes_fi": "Sivun lopussa klikkaa 'Lopeta Postin sähköis­ten pal­ve­luiden käyttö'.",
+        "domains": [
+            "oma.posti.fi"
+        ]
+    },
+    
+    {
         "name": "One Month",
         "url": "https://www.iubenda.com/privacy-policy/735465",
         "difficulty": "hard",
@@ -17535,6 +17546,18 @@
         "difficulty": "easy",
         "domains": [
             "vercel.com"
+        ]
+    },
+
+    {
+        "name": "Verkkokauppa.com",
+        "url": "https://asiakaspalvelu.verkkokauppa.com/hc/fi/articles/360000242527-Asiakastili",
+        "difficulty": "hard",
+        "notes": "You need to contact the customer service via email and include certain identifying information to prove you own the account.",
+        "notes_fi": "Ole yhteydessä asiakaspalveluun, sisällytä sähköpostiin mm. asiakastilin numero tai puhelinnumero todistaaksesi omistavasi tilin.",
+        "email": "asiakaspalvelu@verkkokauppa.com",
+        "domains": [
+            "www.verkkokauppa.com"
         ]
     },
 
