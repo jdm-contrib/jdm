@@ -1809,6 +1809,20 @@
     },
 
     {
+        "name": "BeMyEye",
+        "url": "https://bemyeye.zendesk.com/hc/en-us/articles/360009596613-How-do-I-delete-my-account-",
+        "difficulty": "limited",
+        "email": "support@bemyeye.com",
+        "notes": "Contact the customer support via email and request to delete your account. You can only completely delete your account if you have not performed missions or have not made any money using the BeMyEye app, otherwise they will only deactivate it.",
+        "notes_it": "Contatta l'assistenza clienti via email e richiedi di eliminare il tuo account. Puoi eliminare completamente il tuo account solo se non hai svolto missioni o non hai guadagnato soldi utilizzando l'app BeMyEye, altrimenti lo disattiveranno solo.",
+        "domains": [
+            "bemyeye.com",
+            "pro.bemyeye.com",
+            "bemyeye.zendesk.com"
+        ]
+    },
+
+    {
         "name": "BeReal",
         "url": "https://help.bereal.com/hc/articles/7531255012381",
         "difficulty": "easy",
