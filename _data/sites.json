@@ -1494,6 +1494,16 @@
     },
 
     {
+        "name": "AVEN",
+        "url": "https://www.asexuality.org/en/topic/68514-deleting-account/",
+        "difficulty": "hard",
+        "notes": "Sign in and post a request in the deletion thread, a moderator will contact you and tell you the details.",
+        "domains": [
+            "asexuality.org"
+        ]
+    },
+
+    {
         "name": "AVG",
         "url": "https://profile.avg.com/",
         "difficulty": "easy",
