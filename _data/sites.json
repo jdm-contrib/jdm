@@ -10928,6 +10928,23 @@
     },
 
     {
+        "name": "Moovit",
+        "url": "https://support.moovitapp.com/hc/requests/new",
+        "difficulty": "hard",
+        "notes": "Contact the customer support and request account deletion. For \"Feedback Type\", choose \"Personal Data/GDPR\".",
+        "notes_it": "Contatta l'assistenza clienti e richiedi la cancellazione dell'account. Per \"Tipo di segnalazione\", scegli \"Personal Data/GDPR\".",
+        "domains": [
+            "moovit.com",
+            "editor.moovit.com",
+            "widgets.moovit.com",
+            "static-main.moovit.com",
+            "moovitapp.com",
+            "editor.moovitapp.com",
+            "support.moovitapp.com"
+        ]
+    },
+
+    {
         "name": "Morningstar",
         "url": "https://socialize.morningstar.com/feedback/feedbackform.asp",
         "difficulty": "hard",
