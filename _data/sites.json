@@ -17553,7 +17553,6 @@
         "url": "https://asiakaspalvelu.verkkokauppa.com/hc/fi/articles/360000242527-Asiakastili",
         "difficulty": "hard",
         "notes": "You need to contact the customer service via email and include certain identifying information to prove you own the account.",
-        "notes_fi": "Ole yhteydessä asiakaspalveluun, sisällytä sähköpostiin mm. asiakastilin numero tai puhelinnumero todistaaksesi omistavasi tilin.",
         "email": "asiakaspalvelu@verkkokauppa.com",
         "domains": [
             "verkkokauppa.com"
