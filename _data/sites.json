@@ -11983,7 +11983,6 @@
         "url": "https://asiakastiedot.posti.fi/myaccount/details",
         "difficulty": "easy",
         "notes": "In the bottom of the page, click 'Stop using Posti’s electronic services'.",
-        "notes_fi": "Sivun lopussa klikkaa 'Lopeta Postin sähköis­ten pal­ve­luiden käyttö'.",
         "domains": [
             "oma.posti.fi"
         ]
