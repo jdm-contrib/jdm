@@ -14935,14 +14935,8 @@
     {
         "name": "Shopify",
         "url": "https://shopify.com/admin/settings/account",
-        "difficulty": "easy",
-        "notes": "Select 'Please cancel my account'. Choose a reason then select 'close my shopify store'.",
-        "notes_tr": "\"Hesabımı İptal Et\" tuşuna tıklayın. Bir neden seçin ve \"Shopify mağazamı kapat\" seçeneğine tıklayın.",
-        "notes_fr": "Selectionnez supprimer mon compte. Choisissez la raison et cliquez 'close my shopify store'",
-        "notes_it": "Seleziona 'Please cancel my account'. Seleziona un motivo e seleziona 'close my shopify store'.",
-        "notes_pt_br": "Selecione 'Please cancel my account'. Escolha um motivo e selecione 'close my shopify store'.",
-        "notes_cat": "Seleccioni 'Please cancel my account'. Esculli un motiu i seleccioni 'close my shopify store'.",
-        "notes_es": "Selecciona 'Please cancel my account'. Selecciona un motivo y pulsa 'close my shopify store'.",
+        "difficulty": "impossible",
+        "notes": "The account is never deleted, just deactivated. If you want to deactivate it, select 'Please cancel my account'. Choose a reason then select 'close my shopify store'.",
         "domains": [
             "shopify.com"
         ]
