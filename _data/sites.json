@@ -19267,5 +19267,16 @@
         "domains": [
             "ciceksepeti.com"
         ]
+    },
+    {
+        "name": "CubieCloud",
+        "url": "https://sso.cubie.com.br/delacc",
+        "difficulty": "medium",
+        "notes": "Send an email asking to delete your account, providing your private id and other evidence."
+        "email": "suporte@cubie.com.br",
+        "domains": [
+            "cloud.cubie.com.br",
+            "sso.cubie.com.br"
+        ]
     }
 ]
