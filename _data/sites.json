@@ -18626,6 +18626,19 @@
     },
 
     {
+        "name": "WiseMapping",
+        "url": "https://app.wisemapping.com/c/maps/",
+        "difficulty": "easy",
+        "notes": "Click on the profile icon in the top right corner and select \"Account\", then check the box next to \"Delete Account\" and click on \"Accept\".",
+        "notes_it": "Clicca sull'icona del profilo nell'angolo in alto a destra e seleziona \"Account\", quindi seleziona la casella accanto a \"Delete Account\" e clicca su \"Accept\".",
+        "domains": [
+            "wisemapping.com",
+            "app.wisemapping.com",
+            "wisemapping.atlassian.net"
+        ]
+    },
+
+    {
         "name": "Wish",
         "url": "https://www.wish.com/settings/account",
         "difficulty": "medium",
