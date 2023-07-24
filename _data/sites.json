@@ -17402,8 +17402,8 @@
         "name": "Uphold",
         "url": "https://wallet.uphold.com/close-account",
         "difficulty": "medium",
-        "notes": "To close your account, you must withdraw all funds. Next, click on the three dots in the left menu, then \"Security\", \"Close account\", and \"Continue with account closure\".",
-        "notes_it": "Per chiudere il tuo account, devi prelevare tutti i fondi. Successivamente, fai clic sui tre puntini nel menu a sinistra, quindi su \"Security\", \"Close account\" e \"Continue with account closure\".",
+        "notes": "To close your account, you must withdraw all funds. Next, click on the three dots in the left menu, then \"Security\", \"Close account\", \"Continue with account closure\", and follow the procedure.",
+        "notes_it": "Per chiudere il tuo account, devi prelevare tutti i fondi. Successivamente, fai clic sui tre puntini nel menu a sinistra, quindi su \"Security\", \"Close account\", \"Continue with account closure\", e segui la procedura.",
         "domains": [
             "uphold.com",
             "wallet.uphold.com",
