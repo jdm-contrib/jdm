@@ -17748,6 +17748,18 @@
     },
 
     {
+        "name": "Visit Japan Web (Japanese Customs)",
+        "url": "https://www.vjw.digital.go.jp/main/#/vjwpco005",
+        "difficulty": "hard",
+        "notes": "Accounts are deleted after 18 months of inactivity, although it is possible to request deletion earlier via email.",
+        "email": "ciq@digital.go.jp",
+        "email_body": "Please delete my Visit Japan Web account.",
+        "domains": [
+            "vjw.digital.go.jp"
+        ]
+    },
+
+    {
         "name": "Viva o Linux (VOL)",
         "url": "https://www.vivaolinux.com.br/minhaConta.php",
         "difficulty": "easy",
