@@ -2725,6 +2725,17 @@
     },
 
     {
+        "name": "Catawiki",
+        "url": "https://www.catawiki.com/en/accounts/pre_delete_account",
+        "difficulty": "medium",
+        "notes": "Go to the profile icon in the top right corner and click \"Settings\", scroll down and click \"Continue\" under \"Delete my account\", and \"Confirm\". Then confirm the deletion from your email.",
+        "notes_it": "Vai sull'icona del profilo nell'angolo in alto a destra e fai clic su \"Impostazioni\", scorri verso il basso e fai clic su \"Continuare\" sotto \"Cancellare il mio account\", e \"Conferma\". Quindi conferma la cancellazione dalla tua email.",
+        "domains": [
+            "catawiki.com"
+        ]
+    },
+
+    {
         "name": "CBC",
         "url": "https://cbchelp.cbc.ca/hc/en-ca/requests/new",
         "difficulty": "hard",
