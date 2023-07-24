@@ -14188,6 +14188,19 @@
     },
 
     {
+        "name": "Resy",
+        "url": "https://resy.com/terms",
+        "difficulty": "hard",
+        "notes": "While self-deletion is possible through <a href='https://apps.apple.com/app/apple-store/id866163372'>their app</a>, it is iOS only. Everyone else must send an email.",
+        "email": "help@resy.com",
+        "email_body": "Please delete my Resy account as I do not wish to use it any further.",
+        "domains": [
+            "resy.com",
+            "widgets.resy.com"
+        ]
+    },
+
+    {
         "name": "RetroAchievements",
         "url": "https://retroachievements.org/controlpanel.php",
         "difficulty": "easy",
