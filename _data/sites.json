@@ -17492,11 +17492,13 @@
 
     {
         "name": "Uphold",
-        "url": "https://support.uphold.com/hc/en-us/articles/360043652251-How-to-close-your-account-and-delete-your-data",
-        "difficulty": "hard",
-        "notes": "To close your account, you must withdraw all funds. Next, contact Uphold support using their online support request form. They will then send you a response email with more information/instructions.",
+        "url": "https://wallet.uphold.com/close-account",
+        "difficulty": "medium",
+        "notes": "To close your account, you must withdraw all funds. Next, click on the three dots in the left menu, then \"Security\", \"Close account\", \"Continue with account closure\", and follow the procedure.",
+        "notes_it": "Per chiudere il tuo account, devi prelevare tutti i fondi. Successivamente, fai clic sui tre puntini nel menu a sinistra, quindi su \"Security\", \"Close account\", \"Continue with account closure\", e segui la procedura.",
         "domains": [
             "uphold.com",
+            "wallet.uphold.com",
             "support.uphold.com"
         ]
     },
