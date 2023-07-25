@@ -8807,6 +8807,21 @@
     },
 
     {
+        "name": "Joinrs",
+        "url": "https://www.joinrs.com/en/profile/settings/",
+        "difficulty": "easy",
+        "notes": "Click on your name at the top right, then \"Settings\", \"Delete account\" and confirm.",
+        "notes_it": "Fai clic sul tuo nome in alto a destra, poi \"Impostazioni\", \"Elimina account\" e conferma.",
+        "domains": [
+            "joinrs.com",
+            "community.joinrs.com",
+            "careers.joinrs.com",
+            "business.joinrs.com",
+            "opportunita.tutored.me"
+        ]
+    },
+
+    {
         "name": "Jolla Account",
         "url": "https://account.jolla.com/profile/settings/confirm_delete_profile",
         "difficulty": "easy",
