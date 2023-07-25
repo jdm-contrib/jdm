@@ -10931,8 +10931,8 @@
         "name": "Moovit",
         "url": "https://support.moovitapp.com/hc/requests/new",
         "difficulty": "hard",
-        "notes": "Contact the customer support and request account deletion. For \"Feedback Type\", choose \"Personal Data/GDPR\".",
-        "notes_it": "Contatta l'assistenza clienti e richiedi la cancellazione dell'account. Per \"Tipo di segnalazione\", scegli \"Personal Data/GDPR\".",
+        "notes": "In the app, go to \"Help & Support\", then \"My Accounts and Personal Information\", \"Deleting my Accounts and Personal Information\", scroll to the bottom of the page and click \"Give us feedback\", and fill out the form requesting cancellation of the account. For \"Feedback Type\" choose \"Edit or delete personal information\", under \"Privacy and Security\".",
+        "notes_it": "Nell'app, vai su \"Aiuto & Supporto\", poi \"I miei account e informazioni personali\", \"Cancellazione dei miei account e delle informazioni personali\", scorri in fondo alla pagina e clicca su \"Lasciaci il tuo feedback\", e compila il modulo richiedendo la cancellazione dell'account. Per \"Tipo di commento\" scegli \"Modifica o elimina informazioni personali\", sotto \"Privacy e sicurezza\".",
         "domains": [
             "moovit.com",
             "editor.moovit.com",
