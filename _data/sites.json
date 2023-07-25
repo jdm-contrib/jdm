@@ -15434,6 +15434,16 @@
     },
 
     {
+        "name": "Soundtrap",
+        "url": "https://support.soundtrap.com/hc/en-us/articles/360033406534-Delete-account",
+        "difficulty": "hard",
+        "notes": "If you have a subscription, you must cancel it before deleting your account. The only way to delete your account is by contacting support, which you can do using the \"Submit a request\" button at the top of their support site.",
+        "domains": [
+            "soundtrap.com"
+        ]
+    },
+
+    {
         "name": "SourceForge",
         "url": "https://sourceforge.net/auth/disable/",
         "difficulty": "medium",
