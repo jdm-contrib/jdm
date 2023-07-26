@@ -5063,6 +5063,21 @@
     },
 
     {
+        "name": "Electroneum",
+        "url": "https://support.electroneum.com/hc/en-gb/requests/new",
+        "difficulty": "hard",
+        "email": "support@electroneum.com",
+        "notes": "Contact the customer support using the form or via email and request the deletion of your account.",
+        "notes_it": "Contatta l'assistenza clienti tramite il form o via email e richiedi la cancellazione del tuo account.",
+        "domains": [
+            "electroneum.com",
+            "my.electroneum.com",
+            "support.electroneum.com",
+            "electroneum.zendesk.com"
+        ]
+    },
+
+    {
         "name": "Element",
         "url": "https://app.element.io/#/home",
         "difficulty": "easy",
