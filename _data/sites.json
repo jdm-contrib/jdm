@@ -17624,11 +17624,31 @@
 
     {
         "name": "Vinted",
-        "url": "https://www.vinted.de/member/general/delete_account",
+        "url": "https://www.vinted.com/member/general/delete_account",
         "difficulty": "easy",
-        "notes": "Go to the account deletion page (while you are logged in), then check the checkbox that you really want to delete your account and press confirm.",
+        "notes": "Click on your profile icon, then \"Settings\", \"Account settings\", \"Delete my account\", confirm that all transactions are completed, and click \"Delete account\".",
+        "notes_it": "Fai clic sull'icona del tuo profilo, quindi su \"Impostazioni\", \"Impostazioni dell'account\", \"Cancella il mio account\", conferma che tutte le transazioni sono state completate e fai clic su \"Cancella account\".",
         "domains": [
-            "vinted.de"
+            "vinted.com",
+            "company.vinted.com",
+            "vinted.at",
+            "vinted.be",
+            "vinted.ca",
+            "vinted.cz",
+            "vinted.de",
+            "vinted.es",
+            "vinted.fr",
+            "vinted.hu",
+            "vinted.it",
+            "vinted.lt",
+            "vinted.lu",
+            "vinted.nl",
+            "vinted.pl",
+            "vinted.pt",
+            "vinted.ro",
+            "vinted.se",
+            "vinted.sk",
+            "vinted.co.uk"
         ]
     },
 
