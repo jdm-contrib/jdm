@@ -10685,6 +10685,18 @@
     },
 
     {
+        "name": "Minecraft Tools",
+        "url": "https://minecraft.tools/en/contact.php",
+        "difficulty": "impossible",
+        "email": "contact@minecraft.tools",
+        "notes": "The only way to contact them is by email, but no one responds.",
+        "notes_it": "L'unico modo per contattarli è tramite email, ma nessuno risponde.",
+        "domains": [
+            "minecraft.tools"
+        ]
+    },
+
+    {
         "name": "Miniclip",
         "url": "https://me.miniclip.com/account/delete",
         "difficulty": "easy",
