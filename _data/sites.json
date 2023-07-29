@@ -2751,6 +2751,17 @@
     },
 
     {
+        "name": "Catawiki",
+        "url": "https://www.catawiki.com/en/accounts/pre_delete_account",
+        "difficulty": "medium",
+        "notes": "Go to the profile icon in the top right corner and click \"Settings\", scroll down and click \"Continue\" under \"Delete my account\", and \"Confirm\". Then confirm the deletion from your email.",
+        "notes_it": "Vai sull'icona del profilo nell'angolo in alto a destra e fai clic su \"Impostazioni\", scorri verso il basso e fai clic su \"Continuare\" sotto \"Cancellare il mio account\", e \"Conferma\". Quindi conferma la cancellazione dalla tua email.",
+        "domains": [
+            "catawiki.com"
+        ]
+    },
+
+    {
         "name": "CBC",
         "url": "https://cbchelp.cbc.ca/hc/en-ca/requests/new",
         "difficulty": "hard",
@@ -5084,6 +5095,21 @@
         "domains": [
             "edx.org",
             "account.edx.org"
+        ]
+    },
+
+    {
+        "name": "Electroneum",
+        "url": "https://support.electroneum.com/hc/en-gb/requests/new",
+        "difficulty": "hard",
+        "email": "support@electroneum.com",
+        "notes": "Contact the customer support using the form or via email and request the deletion of your account.",
+        "notes_it": "Contatta l'assistenza clienti tramite il form o via email e richiedi la cancellazione del tuo account.",
+        "domains": [
+            "electroneum.com",
+            "my.electroneum.com",
+            "support.electroneum.com",
+            "electroneum.zendesk.com"
         ]
     },
 
@@ -14188,6 +14214,19 @@
     },
 
     {
+        "name": "Resy",
+        "url": "https://resy.com/terms",
+        "difficulty": "hard",
+        "notes": "While self-deletion is possible through <a href='https://apps.apple.com/app/apple-store/id866163372'>their app</a>, it is iOS only. Everyone else must send an email.",
+        "email": "help@resy.com",
+        "email_body": "Please delete my Resy account as I do not wish to use it any further.",
+        "domains": [
+            "resy.com",
+            "widgets.resy.com"
+        ]
+    },
+
+    {
         "name": "RetroAchievements",
         "url": "https://retroachievements.org/controlpanel.php",
         "difficulty": "easy",
@@ -15417,6 +15456,16 @@
         "difficulty": "easy",
         "domains": [
             "soundcloud.com"
+        ]
+    },
+
+    {
+        "name": "Soundtrap",
+        "url": "https://support.soundtrap.com/hc/en-us/articles/360033406534-Delete-account",
+        "difficulty": "hard",
+        "notes": "If you have a subscription, you must cancel it before deleting your account. The only way to delete your account is by contacting support, which you can do using the \"Submit a request\" button at the top of their support site.",
+        "domains": [
+            "soundtrap.com"
         ]
     },
 
@@ -17458,11 +17507,13 @@
 
     {
         "name": "Uphold",
-        "url": "https://support.uphold.com/hc/en-us/articles/360043652251-How-to-close-your-account-and-delete-your-data",
-        "difficulty": "hard",
-        "notes": "To close your account, you must withdraw all funds. Next, contact Uphold support using their online support request form. They will then send you a response email with more information/instructions.",
+        "url": "https://wallet.uphold.com/close-account",
+        "difficulty": "medium",
+        "notes": "To close your account, you must withdraw all funds. Next, click on the three dots in the left menu, then \"Security\", \"Close account\", \"Continue with account closure\", and follow the procedure.",
+        "notes_it": "Per chiudere il tuo account, devi prelevare tutti i fondi. Successivamente, fai clic sui tre puntini nel menu a sinistra, quindi su \"Security\", \"Close account\", \"Continue with account closure\", e segui la procedura.",
         "domains": [
             "uphold.com",
+            "wallet.uphold.com",
             "support.uphold.com"
         ]
     },
@@ -17731,6 +17782,18 @@
         "notes": "Log in to your account, go to the page linked above, and press 'Delete account'",
         "domains": [
             "virustotal.com"
+        ]
+    },
+
+    {
+        "name": "Visit Japan Web (Japanese Customs)",
+        "url": "https://www.vjw.digital.go.jp/main/#/vjwpco005",
+        "difficulty": "hard",
+        "notes": "Accounts are deleted after 18 months of inactivity, although it is possible to request deletion earlier via email.",
+        "email": "ciq@digital.go.jp",
+        "email_body": "Please delete my Visit Japan Web account.",
+        "domains": [
+            "vjw.digital.go.jp"
         ]
     },
 
@@ -18691,6 +18754,19 @@
         "domains": [
             "wire.com",
             "support.wire.com"
+        ]
+    },
+
+    {
+        "name": "WiseMapping",
+        "url": "https://app.wisemapping.com/c/maps/",
+        "difficulty": "easy",
+        "notes": "Click on the profile icon in the top right corner and select \"Account\", then check the box next to \"Delete Account\" and click on \"Accept\".",
+        "notes_it": "Clicca sull'icona del profilo nell'angolo in alto a destra e seleziona \"Account\", quindi seleziona la casella accanto a \"Delete Account\" e clicca su \"Accept\".",
+        "domains": [
+            "wisemapping.com",
+            "app.wisemapping.com",
+            "wisemapping.atlassian.net"
         ]
     },
 
