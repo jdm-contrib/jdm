@@ -3778,6 +3778,19 @@
         ]
     },
 
+
+{
+        "name": "CubieCloud",
+        "url": "https://sso.cubie.com.br/delacc",
+        "difficulty": "medium",
+        "notes": "Send an email asking to delete your account, providing your private id and other evidence."
+        "email": "suporte@cubie.com.br",
+        "domains": [
+            "cloud.cubie.com.br",
+            "sso.cubie.com.br"
+        ]
+},
+    
     {
         "name": "CV online",
         "url": "https://cvonline.me/en/support/accounts/removing-account",
@@ -19342,6 +19355,17 @@
         "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
         "domains": [
             "ciceksepeti.com"
+        ]
+    },
+    {
+        "name": "CubieCloud",
+        "url": "https://sso.cubie.com.br/delacc",
+        "difficulty": "medium",
+        "notes": "Send an email asking to delete your account, providing your private id and other evidence."
+        "email": "suporte@cubie.com.br",
+        "domains": [
+            "cloud.cubie.com.br",
+            "sso.cubie.com.br"
         ]
     }
 ]
