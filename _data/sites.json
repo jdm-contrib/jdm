@@ -5599,6 +5599,20 @@
     },
 
     {
+        "name": "Fedora",
+        "url": "https://pagure.io/fedora-pdr/new_issue",
+        "difficulty": "hard",
+        "notes": "Create a new issue and ask for your account to be deleted.",
+        "domains": [
+            "fedoraproject.org",
+            "accounts.fedoraproject.org",
+            "discussion.fedoraproject.org",
+            "pagure.io"
+        ]
+
+    },
+
+    {
         "name": "FeedBin",
         "url": "https://feedbin.com/settings/account",
         "difficulty": "easy",
