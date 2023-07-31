@@ -15527,6 +15527,17 @@
     },
 
     {
+        "name": "Sourcery.ai",
+        "url": "https://sourcery.ai/privacy/",
+        "difficulty": "hard",
+        "notes": "Contact support by email and request account deletion.",
+        "email": "info@sourcery.ai",
+        "domains": [
+            "sourcery.ai"
+        ]
+    },
+
+    {
         "name": "SpaceHey",
         "url": "https://spacehey.com/deleteaccount",
         "difficulty": "easy",
