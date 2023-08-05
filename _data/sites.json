@@ -9647,6 +9647,16 @@
     },
 
     {
+        "name": "Lingvano",
+        "url": "https://linking.lingvano.com/TEoq",
+        "difficulty": "easy",
+        "notes": "Make sure you canceled your subscription! You can delete your account via the web or mobile app.",
+        "domains": [
+            "app.lingvano.com"
+        ]
+    },
+
+    {
         "name": "Lingvist",
         "url": "https://lingvist.com/help/how-to-delete-my-account-and-download-my-data/",
         "email": "hello@lingvist.io",
