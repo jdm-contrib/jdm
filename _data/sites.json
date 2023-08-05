@@ -15284,6 +15284,16 @@
     },
 
     {
+        "name": "SkySilk",
+        "url": "https://help.skysilk.com/support/solutions/articles/9000106317-how-do-i-deactivate-my-account-",
+        "difficulty": "limited",
+        "notes": "Once you <a href='https://www.skysilk.com/settings/deactivation'>deactivate your account</a> you can request a GDPR delete by submitting the request in a <a href='https://help.skysilk.com/support/tickets/new'>support ticket</a>. A GDPR delete will erase 100% of your personal information that you provided when you created an account with them.",
+        "domains": [
+            "skysilk.com"
+        ]
+    },
+
+    {
         "name": "Slack",
         "url": "https://my.slack.com/account/settings",
         "difficulty": "hard",
