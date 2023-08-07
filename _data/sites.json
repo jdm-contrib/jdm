@@ -2168,7 +2168,7 @@
         "name": "Board Games Online",
         "url": "https://boardgamesonline.net/",
         "difficulty": "easy",
-        "notes": "Log-in -> My Profile -> Click Profile (Settings Icon) -> Click on Delete Profile. Account will be deleted in about one week.",
+        "notes": "Log-in → My Profile → Click Profile (Settings Icon) → Click on Delete Profile. Account will be deleted in about one week.",
         "domains": [
             "boardgamesonline.net"
         ]
@@ -2609,7 +2609,7 @@
         "name": "Cabify",
         "url": "https://cabify.com",
         "difficulty": "hard",
-        "notes": "Login and go to Contact us -> My Account, payment method, and invoices -> I want to delete my account. Write a message and it will create a ticket.",
+        "notes": "Login and go to Contact us → My Account, payment method, and invoices → I want to delete my account. Write a message and it will create a ticket.",
         "domains": [
             "cabify.com"
         ]
@@ -3187,7 +3187,7 @@
         "name": "Codeberg",
         "url": "https://codeberg.org/user/settings/account",
         "difficulty": "easy",
-        "notes": "Log into your account, go to settings -> account and type in your password to delete your account.",
+        "notes": "Log into your account, go to settings → account and type in your password to delete your account.",
         "domains": [
             "codeberg.org"
         ]
@@ -4625,7 +4625,7 @@
         "name": "Drivvo",
         "url": "https://www.drivvo.com/",
         "difficulty": "easy",
-        "notes": "On the app, open the 'Menu' -> 'My Account' -> tap the three dots on the upper right corner, click 'Delete Account' and confirm.",
+        "notes": "On the app, open the 'Menu' → 'My Account' → tap the three dots on the upper right corner, click 'Delete Account' and confirm.",
         "domains": [
             "drivvo.com"
         ]
@@ -5307,7 +5307,7 @@
         "name": "Even",
         "url": "https://www.even.com/employees/support",
         "difficulty": "easy",
-        "notes": "Head to the account information page (Profile -> App settings -> Account info) and click on \"Delete your Even account & data\".",
+        "notes": "Head to the account information page (Profile → App settings → Account info) and click on \"Delete your Even account & data\".",
         "domains": [
             "even.com"
         ]
@@ -7695,7 +7695,7 @@
         "name": "HBO Max",
         "url": "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/6555225c-a911-4af8-bdb5-20158994ece0",
         "difficulty": "hard",
-        "notes": "It is also possible to file an account deletion request in the iOS app (account settings -> subscription)",
+        "notes": "It is also possible to file an account deletion request in the iOS app (account settings → subscription)",
         "domains": [
             "hbo.com",
             "hbomax.com"
@@ -8161,7 +8161,7 @@
         "name": "HUAWEI ID",
         "url": "https://consumer.huawei.com/ph/support/content/en-us00681307/",
         "difficulty": "easy",
-        "notes": "On mobile, go to Settings -> HUAWEI ID -> Account Security -> More -> Security Center -> Delete account. On the desktop, id.cloud.huawei.com -> Account Security -> Security Center -> Delete account.",
+        "notes": "On mobile, go to Settings → HUAWEI ID → Account Security → More → Security Center → Delete account. On the desktop, id.cloud.huawei.com → Account Security → Security Center → Delete account.",
         "domains": [
             "huawei.com"
         ]
@@ -9339,8 +9339,8 @@
         "name": "Kwai",
         "url": "https://www.kwai.com/legal",
         "difficulty": "easy",
-        "notes": "Click in the gear on left upper corner -> Account security -> \"Delete my account\" at the bottom -> Select the reason and press the \"Delete my account\" button. The deleting process will occur in 72 hours. Your account may be removed if you haven't used it for 6 months.",
-        "notes_pt_br": "Clique na roda dentada no canto superior esquerdo -> Em Segurança da Conta -> \"Deletar minha conta\" no rodapé -> Selecione o motivo e clique no botão \"Excluir Minha Conta\". A exclusão em definitivo acontecerá em 72 horas. Além disso, sua conta pode ser removida caso você não a use por 6 meses.",
+        "notes": "Click in the gear on left upper corner → Account security → \"Delete my account\" at the bottom → Select the reason and press the \"Delete my account\" button. The deleting process will occur in 72 hours. Your account may be removed if you haven't used it for 6 months.",
+        "notes_pt_br": "Clique na roda dentada no canto superior esquerdo → Em Segurança da Conta → \"Deletar minha conta\" no rodapé → Selecione o motivo e clique no botão \"Excluir Minha Conta\". A exclusão em definitivo acontecerá em 72 horas. Além disso, sua conta pode ser removida caso você não a use por 6 meses.",
         "domains": [
             "kwai.com"
         ]
@@ -9511,9 +9511,9 @@
         "url_tr": "https://help.letgo.com/hc/tr/requests/new?ticket_form_id=528",
         "url_es": "https://help.letgo.com/hc/es-es/requests/new?ticket_form_id=5285423513618",
         "difficulty": "hard",
-        "notes": "To delete your account you have to go to \"I have a question about my account\"->\"Delete\" and write your request. You will get a return later on.",
-        "notes_tr": "Hesabınızı silmek için formda \"Hesabım hakkında sorum var\"->\"Sil\" ve dilekçenizi yazmanız gerekiyor. Biraz zaman geçtikten sonra cevap alacaksınız.",
-        "notes_es": "Para eliminar tu cuenta tienes que ir a \"Tengo una pregunta sobre mi cuenta\" -> \"Eliminar\" y escribir tu solicitud. Más adelante recibirás una respuesta.",
+        "notes": "To delete your account you have to go to \"I have a question about my account\"→\"Delete\" and write your request. You will get a return later on.",
+        "notes_tr": "Hesabınızı silmek için formda \"Hesabım hakkında sorum var\"→\"Sil\" ve dilekçenizi yazmanız gerekiyor. Biraz zaman geçtikten sonra cevap alacaksınız.",
+        "notes_es": "Para eliminar tu cuenta tienes que ir a \"Tengo una pregunta sobre mi cuenta\" → \"Eliminar\" y escribir tu solicitud. Más adelante recibirás una respuesta.",
         "domains": [
             "letgo.com"
         ]
@@ -10102,7 +10102,7 @@
         "name": "Mailfence",
         "url": "https://kb.mailfence.com/kb/how-can-i-delete-my-account/",
         "difficulty": "easy",
-        "notes": "Go to 'Settings'->'General'->'Delete Account'.",
+        "notes": "Go to 'Settings'→'General'→'Delete Account'.",
         "notes_tr": "\"Ayarlar\" \"Genel\" \"Hesabı Sil\" tuşuna basın.",
         "domains": [
             "kb.mailfence.com",
@@ -10138,9 +10138,9 @@
         "name": "Mapbox",
         "url": "https://account.mapbox.com/settings",
         "difficulty": "easy",
-        "notes": "Enter Password -> Scroll to bottom -> Click 'Delete Account'",
+        "notes": "Enter Password → Scroll to bottom → Click 'Delete Account'",
         "notes_tr": "Şifrenizi girin, alta kaydırın ve \"Hesabı Sil\" tuşuna tıklayın",
-        "notes_de": "Passwort eingeben -> An das Ende der Seite scrollen -> 'Delete Account' klicken",
+        "notes_de": "Passwort eingeben → An das Ende der Seite scrollen → 'Delete Account' klicken",
         "domains": [
             "mapbox.com",
             "account.mapbox.com"
@@ -10195,7 +10195,7 @@
         "name": "Marvel",
         "url": "https://marvelapp.com/account/",
         "difficulty": "easy",
-        "notes": "Log into your account -> My Account -> click on Delete Account at the bottom of page.",
+        "notes": "Log into your account → My Account → click on Delete Account at the bottom of page.",
         "notes_tr": "Hesabınıza giriş yapın, ve sayfanın altındaki \"Hesabım\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "marvelapp.com"
@@ -10227,7 +10227,7 @@
         "name": "Mastodon.social",
         "url": "https://mastodon.social/settings/delete",
         "difficulty": "easy",
-        "notes": "Login -> Account Settings -> Security > Delete Account",
+        "notes": "Login → Account Settings → Security > Delete Account",
         "notes_tr": "Giriş yapın, \"Hesap Ayarları\" \"Güvenlik\" \"Hesabı Sil\" tuşuna tıklayın",
         "domains": [
             "mastodon.social"
@@ -10705,7 +10705,7 @@
         "name": "Metropolis",
         "url": "https://app.metropolis.io/profile/terms-and-privacy",
         "difficulty": "easy",
-        "notes": "Account Settings -> Terms and Privacy -> Delete Account",
+        "notes": "Account Settings → Terms and Privacy → Delete Account",
         "domains": [
             "app.metropolis.io",
             "metropolis.io"
@@ -10962,7 +10962,7 @@
         "name": "Mockflow",
         "url": "https://support.mockflow.com/article/10-can-i-delete-my-mockflow-account",
         "difficulty": "easy",
-        "notes": "Login to your account -> Open the menu and choose My Account -> In the Profile Details tab click on 'Delete Account' & confirm deletion by entering your password.",
+        "notes": "Login to your account → Open the menu and choose My Account → In the Profile Details tab click on 'Delete Account' & confirm deletion by entering your password.",
         "notes_tr": "Hesabınıza giriş yapın, menüyü açın ve \"Hesabım\" \"Profil Detayları\" \"Hesabı Sil\" tuşuna tıklayın ve ardından şifrenizi girerek hesabınızın silinmesini onaylayın.",
         "domains": [
             "mockflow.com",
@@ -12901,9 +12901,9 @@
         "name": "Personello Germany",
         "url": "https://de.personello.com/service",
         "difficulty": "hard",
-        "notes": "It is necessary to contact the support, for example through 'Mein Konto' -> 'Meinung abgeben'.",
+        "notes": "It is necessary to contact the support, for example through 'Mein Konto' → 'Meinung abgeben'.",
         "notes_tr": "Örneğin, \"Hesabım\" \"Gönder\" aracılığıyla destekle iletişim kurmak gerekir.",
-        "notes_de": "Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter 'Mein Konto' -> 'Meinung abgeben'",
+        "notes_de": "Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter 'Mein Konto' → 'Meinung abgeben'",
         "domains": [
             "de.personello.com"
         ]
@@ -12959,7 +12959,7 @@
         "name": "Photomath",
         "url": "https://photomath.com/en/help/delete-account",
         "difficulty": "easy",
-        "notes": "Open the menu and sign in -> 'Security and Privacy' -> 'Edit profile' -> 'Delete profile'",
+        "notes": "Open the menu and sign in → 'Security and Privacy' → 'Edit profile' → 'Delete profile'",
         "domains": [
             "photobucket.com"
         ]
@@ -13337,7 +13337,7 @@
         "name": "Pokémon GO",
         "url": "https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3518-how-do-i-delete-my-pokemon-go-account-1656453288/",
         "difficulty": "easy",
-        "notes": "Sign in to the app with the game account you want to delete, then navigate to the Pokémon GO app 'Settings' -> 'Advanced Settings' -> 'Delete Account' and confirm.",
+        "notes": "Sign in to the app with the game account you want to delete, then navigate to the Pokémon GO app 'Settings' → 'Advanced Settings' → 'Delete Account' and confirm.",
         "domains": [
             "niantic.helpshift.com",
             "gorelease-assets.nianticstatic.com",
@@ -13374,9 +13374,9 @@
         "name": "Porkbun",
         "url": "https://porkbun.com/account",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click the link -> Click the Delete Account button and follow instructions.",
+        "notes": "Log into your account → Click the link → Click the Delete Account button and follow instructions.",
         "notes_tr": "Hesabınızda oturum açın, bağlantıyı tıklayın, ardından \"Hesabı Sil\" düğmesini tıklayın ve talimatları izleyin.",
-        "notes_fr": "Connectez-vous -> Appuyez le lien -> Cliquez sur le bouton Delete Account et suivez les instructions.",
+        "notes_fr": "Connectez-vous → Appuyez le lien → Cliquez sur le bouton Delete Account et suivez les instructions.",
         "domains": [
             "porkbun.com"
         ]
@@ -13407,13 +13407,13 @@
         "name": "Postcrossing",
         "url": "https://www.postcrossing.com/removal",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click the link (data fully deleted, not possible to revert this).",
+        "notes": "Log into your account → Click the link (data fully deleted, not possible to revert this).",
         "notes_tr": "Hesabınızda oturum açın, bağlantıya tıklayın (veriler tamamen silinir, bunu geri almak mümkün değildir).",
-        "notes_fr": "Connectez-vous -> Appuyez le lien (toutes les données sont supprimées définitivement).",
-        "notes_it": "Entra nel tuo account -> Clicca il link (informazioni completamente eliminate, operazione non reversibile).",
-        "notes_pt_br": "Faça login em sua conta -> Clique no link (dados totalmente apagados, não é possível reverter).",
-        "notes_cat": "Entri al seu compte -> Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
-        "notes_es": "Entra en tu cuenta -> Haz clic en el enlace (los datos se eliminan permanentmente, no es posible de deshacerlo).",
+        "notes_fr": "Connectez-vous → Appuyez le lien (toutes les données sont supprimées définitivement).",
+        "notes_it": "Entra nel tuo account → Clicca il link (informazioni completamente eliminate, operazione non reversibile).",
+        "notes_pt_br": "Faça login em sua conta → Clique no link (dados totalmente apagados, não é possível reverter).",
+        "notes_cat": "Entri al seu compte → Cliqui a l'enllaç (les dades s'eliminen permanentment, no es pot revertir).",
+        "notes_es": "Entra en tu cuenta → Haz clic en el enlace (los datos se eliminan permanentmente, no es posible de deshacerlo).",
         "domains": [
             "postcrossing.com"
         ]
@@ -13491,7 +13491,7 @@
         "name": "Premiumize.me",
         "url": "https://www.premiumize.me/deleteaccount",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click the link -> Click on Send verification code -> Paste the code you got on your email and click Delete Account.",
+        "notes": "Log into your account → Click the link → Click on Send verification code → Paste the code you got on your email and click Delete Account.",
         "notes_tr": "Hesabınıza giriş yapın, verilen bağlantıya tıklayın, \"Onay kodu gönder\" seçeneğine tıklayın ve ardından e-postanıza aldığınız kodu yapıştırarak \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "premiumize.me"
@@ -13502,7 +13502,7 @@
         "name": "Previewed",
         "url": "https://previewed.app/account",
         "difficulty": "easy",
-        "notes": "Log into your account -> Go to account settings -> Scroll down to the bottom of the page -> Click Delete Account.",
+        "notes": "Log into your account → Go to account settings → Scroll down to the bottom of the page → Click Delete Account.",
         "domains": [
             "previewed.app"
         ]
@@ -13512,9 +13512,9 @@
         "name": "Prey",
         "url": "https://panel.preyproject.com/settings/account",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click 'Need to close your account?' near the bottom of the page -> Confirm deletion",
+        "notes": "Log into your account → Click 'Need to close your account?' near the bottom of the page → Confirm deletion",
         "notes_tr": "Hesabınıza giriş yapın, sayfanın altındaki \"Hesabınızı kapatmanız mı gerekiyor?\" seçeneğini tıklayın, ardından \"Silmeyi Onayla\" tuşuna tıklayın",
-        "notes_fr": "Connectez-vous -> Cliquez sur « Need to close your account? » au bas de la page -> Confirmez la suppression de votre compte",
+        "notes_fr": "Connectez-vous → Cliquez sur « Need to close your account? » au bas de la page → Confirmez la suppression de votre compte",
         "domains": [
             "preyproject.com",
             "panel.preyproject.com"
@@ -13525,9 +13525,9 @@
         "name": "Prezi",
         "url": "https://prezi.com/settings/delete-account/",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click the link -> Enter your password and click on Delete Account.",
+        "notes": "Log into your account → Click the link → Enter your password and click on Delete Account.",
         "notes_tr": "Hesabınızda oturum açın, bağlantıyı tıklayın, şifrenizi girin ve \"Hesabı Sil\" seçeneğini tıklayın.",
-        "notes_fr": "Connectez-vous -> Cliquez sur le lien -> Entrez votre mot de passe et cliquez sur « Delete Account ».",
+        "notes_fr": "Connectez-vous → Cliquez sur le lien → Entrez votre mot de passe et cliquez sur « Delete Account ».",
         "domains": [
             "prezi.com"
         ]
@@ -13588,7 +13588,7 @@
         "name": "Prosper",
         "url": "https://www.prosper.com/secure/account/borrower/close_account.aspx",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click the link -> Click on Close My Account Now.",
+        "notes": "Log into your account → Click the link → Click on Close My Account Now.",
         "notes_tr": "Hesabınıza giriş yapın, verilen bağlantıyı tıklayın ve \"Hesabımı şimdi kapat\" tuşuna tıklayın.",
         "domains": [
             "prosper.com"
@@ -13599,7 +13599,7 @@
         "name": "Proto.io",
         "url": "https://support.proto.io/hc/en-us/articles/222733628-Dashboard-basics-Billing-Settings",
         "difficulty": "easy",
-        "notes": "You can either close your account temporary or delete it permanently. Log into your account -> Click Settings -> Manage Subscription -> NEED TO CLOSE YOUR ACCOUNT? click Yes, Close Account",
+        "notes": "You can either close your account temporary or delete it permanently. Log into your account → Click Settings → Manage Subscription → NEED TO CLOSE YOUR ACCOUNT? click Yes, Close Account",
         "notes_tr": "Hesabınızı geçici olarak kapatabilir veya kalıcı olarak silebilirsiniz. Hesabınıza giriş yapın, \"Ayarlar\" \"Aboneliği Yönet\" \"Hesabınızı kapatmanız mı gerekiyor?\" \"Evet, hesabı kapat\" yolunu izleyin",
         "domains": [
             "proto.io",
@@ -13611,7 +13611,7 @@
         "name": "Proton",
         "url": "https://account.proton.me/u/0/mail/account-password",
         "difficulty": "medium",
-        "notes": "Open your account settings, go to 'Account' -> 'Account and password' -> 'Delete your account'. You need to select a reason for deleting your account and give some feedback.",
+        "notes": "Open your account settings, go to 'Account' → 'Account and password' → 'Delete your account'. You need to select a reason for deleting your account and give some feedback.",
         "domains": [
             "proton.me",
             "account.proton.me",
@@ -13628,7 +13628,7 @@
         "name": "Prott",
         "url": "https://prottapp.com/app/#/users/edit/general",
         "difficulty": "easy",
-        "notes": "Log into your account -> Click Settings -> in General tab scroll down and find 'Click here if you want to cancel your account' -> Choose why you are leaving and click 'Continue' -> Click 'Yes Cancel My Account'",
+        "notes": "Log into your account → Click Settings → in General tab scroll down and find 'Click here if you want to cancel your account' → Choose why you are leaving and click 'Continue' → Click 'Yes Cancel My Account'",
         "notes_tr": "Hesabınızda oturum açın, \"Ayarlar\" \"Genel\" \"Hesabınızı iptal etmek istiyorsanız buraya tıklayın\" öğesini tıklayın, neden ayrıldığınızı seçin ve \"Devam Et\" \"Evet, hesabımı iptal et\" düğmesini tıklayın",
         "domains": [
             "prottapp.com"
@@ -13639,8 +13639,8 @@
         "name": "Proxer",
         "url": "https://proxer.me/ucp?s=deleteaccount",
         "difficulty": "easy",
-        "notes": "The account deletion page can be found by hovering the logo -> Impressum -> FAQ/Kontakt -> Zur Accountlöschung. When logged in, the linked page should present a pop-up dialogue to confirm account deletion.",
-        "notes_de": "Die Accountlöschung findet man unter dem Logo-Dropdown -> Impressum -> FAQ/Kontakt -> Zur Accountlöschung. Man bekommt noch ein Pop-Up zur Bestätigung.",
+        "notes": "The account deletion page can be found by hovering the logo → Impressum → FAQ/Kontakt → Zur Accountlöschung. When logged in, the linked page should present a pop-up dialogue to confirm account deletion.",
+        "notes_de": "Die Accountlöschung findet man unter dem Logo-Dropdown → Impressum → FAQ/Kontakt → Zur Accountlöschung. Man bekommt noch ein Pop-Up zur Bestätigung.",
         "domains": [
             "proxer.me"
         ]
@@ -14048,7 +14048,7 @@
         "url": "https://www.rebuy.de/my/personal-data",
         "difficulty": "easy",
         "notes": "At the bottom of your Account/personal-data page should be a button to delete your account",
-        "notes_de": "Nachdem sie auf der 'Mein Konto' -> 'Persönliche Daten' Seite sind, ist ganz unten ein 'Konto löschen' Button",
+        "notes_de": "Nachdem sie auf der 'Mein Konto' → 'Persönliche Daten' Seite sind, ist ganz unten ein 'Konto löschen' Button",
         "domains": [
             "rebuy.de"
         ]
@@ -15706,7 +15706,7 @@
         "meta": "popular",
         "url": "https://support.spotify.com/close-account",
         "difficulty": "medium",
-        "notes": "1. Cancel your subscription at https://www.spotify.com/us/account/subscription/ 2. Public playlists will be anonymised, delete any playlists you want. 3. Go to the provided link, Account -> I want to close my account and follow the instructions. The account can still be restored within 7 days of the request.",
+        "notes": "1. Cancel your subscription at https://www.spotify.com/us/account/subscription/ 2. Public playlists will be anonymised, delete any playlists you want. 3. Go to the provided link, Account → I want to close my account and follow the instructions. The account can still be restored within 7 days of the request.",
         "notes_tr": "1. Aboneliğinizi iptal linkinden iptal edin. 2. Herkese açık çalma listeleri anonimleştirilecek, istediğiniz tüm çalma listelerini silin. 3. Verilen bağlantıya girin ve \"Hesap\" \"Hesabımı kapatmak istiyorum\" kısmından talimatları takip edin. Hesap, talepten sonraki 7 gün içinde yine de geri yüklenebilir.",
         "domains": [
             "spotify.com",
@@ -16580,7 +16580,7 @@
     {
         "name": "Tesla",
         "url": "https://www.tesla.com/support/how-create-or-delete-tesla-account#deleting-your-tesla-account",
-        "notes": "Open the Tesla app, tap the profile picture in the top-right corner -> ‘Account' -> ‘Security and Privacy' and finally ‘Delete Account’.",
+        "notes": "Open the Tesla app, tap the profile picture in the top-right corner → ‘Account' → ‘Security and Privacy' and finally ‘Delete Account’.",
         "difficulty": "easy",
         "domains": [
             "tesla.com"
@@ -16591,7 +16591,7 @@
         "name": "Testbirds",
         "url": "https://nest.testbirds.com/faq/category/list#accordion_faq-167",
         "difficulty": "easy",
-        "notes": "Click on your Username -> Settings and Press the 'Delete account' Button on the bottom left, then confirm.",
+        "notes": "Click on your Username → Settings and Press the 'Delete account' Button on the bottom left, then confirm.",
         "domains": [
             "testbirds.com",
             "nest.testbirds.com"
@@ -16684,9 +16684,9 @@
         "name": "Things",
         "url": "https://support.culturedcode.com/customer/en/portal/articles/2803591-deleting-your-account-data",
         "difficulty": "easy",
-        "notes": "In the Things app go to Preferences -> Things Cloud and select Edit Account. Then select 'Delete Account'.",
+        "notes": "In the Things app go to Preferences → Things Cloud and select Edit Account. Then select 'Delete Account'.",
         "notes_tr": "Things uygulamasında \"Seçenekler\" kısmına gidin. Ardından Things Cloud'a gidin ve \"Hesabı Düzenle\" seçeneğini seçin. Son olarak, \"Hesabı Sil\" öğesini seçin.",
-        "notes_de": "Der Account kann über die Things Einstellungen -> Things Cloud bei 'Account bearbeiten' über 'Account löschen' gelöscht werden.",
+        "notes_de": "Der Account kann über die Things Einstellungen → Things Cloud bei 'Account bearbeiten' über 'Account löschen' gelöscht werden.",
         "domains": [
             "culturedcode.com",
             "support.culturedcode.com"
@@ -17822,7 +17822,7 @@
         "name": "Viber",
         "url": "https://help.viber.com/en/article/deactivate-uninstall-and-reinstall-viber",
         "difficulty": "easy",
-        "notes": "In application open Settings -> Account -> Deactivate Account",
+        "notes": "In application open Settings → Account → Deactivate Account",
         "domains": [
             "viber.com",
             "help.viber.com"
@@ -18404,7 +18404,7 @@
         "difficulty": "medium",
         "notes": "From the app: Settings → Account → Delete your account.",
         "notes_tr": "Uygulama içinden: \"Ayarlar\" \"Hesap\" \"Hesabınızı Silin\".",
-        "notes_fr": "Depuis l'app: Réglages -> Compte -> Supprimer mon compte.",
+        "notes_fr": "Depuis l'app: Réglages → Compte → Supprimer mon compte.",
         "notes_it": "Dall'applicazione: Impostazioni → Account → Elimina il tuo account.",
         "notes_pt_br": "No aplicativo: Settings → Account → Delete your account.",
         "notes_cat": "Des de l'aplicació: Settings → Account → Delete your account.",
@@ -19365,7 +19365,7 @@
         "name": "Zendesk",
         "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
         "difficulty": "easy",
-        "notes": "Go to Admin->Settings->Subscription and click 'Yes, cancel my account'.",
+        "notes": "Go to Admin→Settings→Subscription and click 'Yes, cancel my account'.",
         "notes_tr": "\"Yönetici\" \"Ayarlar\" \"Abonelik\" \"Evet, hesabımı iptal et\" tuşuna tıklayın.",
         "domains": [
             "zendesk.co.jp",
@@ -19399,7 +19399,7 @@
         "name": "Zeplin",
         "url": "https://app.zeplin.io/profile/account",
         "difficulty": "medium",
-        "notes": "You need to transfer or delete your projects and cancel your subscription (if you have one) before deleting you account. Unlink your google account if you used it to login. Go to \"Profile\" -> \"account\" -> click \"Want to remove your account completely?\" -> click \"DELETE ACCOUNT\" and provide your password.",
+        "notes": "You need to transfer or delete your projects and cancel your subscription (if you have one) before deleting you account. Unlink your google account if you used it to login. Go to \"Profile\" → \"account\" → click \"Want to remove your account completely?\" → click \"DELETE ACCOUNT\" and provide your password.",
         "domains": [
             "zeplin.io",
             "app.zeplin.io"
