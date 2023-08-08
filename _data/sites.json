@@ -3,9 +3,9 @@
         "name": "/e/",
         "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
         "difficulty": "easy",
-        "notes": "Profile > settings > delete account > confirm",
-        "notes_de": "Profil > Einstellungen > Account löschen > Bestätigen",
-        "notes_ru": "Профиль > настройки > удалить аккаунт > подтвердить.",
+        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
+        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
+        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
         "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
         "domains": [
             "doc.e.foundation",
@@ -18,10 +18,10 @@
         "name": "000Webhost",
         "url": "https://000webhost.com/members/profile",
         "difficulty": "easy",
-        "notes": "Go to \"Profile > Delete My Account\" and select why you are deleting your account.",
-        "notes_ru": "Перейдите в Профиль > «Удалить мою учетную запись» и выберите, почему вы удаляете свою учетную запись.",
+        "notes": "Go to \"Profile ⮕ Delete My Account\" and select why you are deleting your account.",
+        "notes_ru": "Перейдите в Профиль ⮕ «Удалить мою учетную запись» и выберите, почему вы удаляете свою учетную запись.",
         "notes_tr": "\"Profil\" kısmına girip \"Hesabımı Sil\" seçeneğini seçin ve ardından neden hesabınızı sileceğinizi belirtin.",
-        "notes_pt_br": "Vá para \"Profile > Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
+        "notes_pt_br": "Vá para \"Profile ⮕ Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
         "domains": [
             "000webhost.com",
             "000webhostapp.com"
@@ -950,8 +950,8 @@
         "name": "AniList",
         "url": "https://anilist.co/settings/account",
         "difficulty": "easy",
-        "notes": "Go to \"Delete User Account > OK, Delete my account\".",
-        "notes_ru": "Перейдите к «Удалить учетную запись пользователя > ОК, Удалить мою учетную запись».",
+        "notes": "Go to \"Delete User Account ⮕ OK, Delete my account\".",
+        "notes_ru": "Перейдите к «Удалить учетную запись пользователя ⮕ ОК, Удалить мою учетную запись».",
         "notes_tr": "\"Kullanıcı Hesabını Sil\" \"Tamam, Hesabımı Sil\" tuşuna basın.",
         "domains": [
             "anilist.co"
@@ -1882,8 +1882,8 @@
         "name": "Betano",
         "url": "https://betano.com/myaccount/profile/protection",
         "difficulty": "easy",
-        "notes": "Access Account > Profile > Player Protection and select Self-exclusion option. You can choose remove your account for a derised time, or definitely.",
-        "notes_pt_br": "Acesse Conta > Perfil > Proteção do Jogador e selecionar a Autoexclusão. Você pode remover sua conta por um tempo ou em definitivo.",
+        "notes": "Access Account ⮕ Profile ⮕ Player Protection and select Self-exclusion option. You can choose remove your account for a derised time, or definitely.",
+        "notes_pt_br": "Acesse Conta ⮕ Perfil ⮕ Proteção do Jogador e selecionar a Autoexclusão. Você pode remover sua conta por um tempo ou em definitivo.",
         "domains": [
             "betano.com",
             "betano.zendesk.com"
@@ -2000,7 +2000,7 @@
         "notes": "At the bottom of the linked page, click the red 'Delete Account' button. Select an option specifying why you want to leave Bitly, and confirm your action by typing \"DELETE ACCOUNT\", then click 'Delete Account' again.",
         "notes_tr": "\"Profil\" \"Hesabı Sil\" kısmına girin ve ardından neden hesabınızı sileceğinizi seçin. Hesabınız silinecek fakat tüm kısaltılmış linkler geçerli kalacak.",
         "notes_pl": "Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.",
-        "notes_pt_br": "Vá para \" Profile > Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
+        "notes_pt_br": "Vá para \" Profile ⮕ Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
         "domains": [
             "bit.ly",
             "bitly.com",
@@ -2191,7 +2191,7 @@
         "name": "bobatea",
         "url":"https://git.boba.best/user/settings/account",
         "difficulty": "easy",
-        "notes": "Log-in, go to Settings > Account then at the bottom you can delete your account.",
+        "notes": "Log-in, go to Settings ⮕ Account then at the bottom you can delete your account.",
         "domains": [
             "git.boba.best"
         ]
@@ -3084,9 +3084,9 @@
         "name": "Cloud Convert",
         "url": "https://cloudconvert.com/delete#",
         "difficulty": "easy",
-        "notes": "Go to the dashboard > account > details, and fill your username and password. The acount is deleted after 72 hours.",
+        "notes": "Go to the dashboard ⮕ account ⮕ details, and fill your username and password. The acount is deleted after 72 hours.",
         "notes_tr": "\"Kontrol Paneli\" \"Hesap\" \"Detaylar\" kısmına gidin, kullanıcı adınızı ve şifrenizi doldurun. 72 saat sonra hesap silinecektir.",
-        "notes_pt_br": "Vá em \"dashboard\" > \"account\" > \"details\", e preencha seu nome de usuário e senha. A conta é removida após 72 horas.",
+        "notes_pt_br": "Vá em \"dashboard\" ⮕ \"account\" ⮕ \"details\", e preencha seu nome de usuário e senha. A conta é removida após 72 horas.",
         "domains": [
             "cloudconvert.com"
         ]
@@ -3363,7 +3363,7 @@
         "name": "CoinGecko",
         "url": "https://support.coingecko.com/hc/en-us/articles/4537981325977-How-can-I-delete-my-account-",
         "difficulty": "easy",
-        "notes": "You can delete your CoinGecko account directly from the website by clicking the 'Profile' icon > 'Login' and 'Security'. At the 'Login and Security' page, please click on 'Delete my account' to proceed with account deletion",
+        "notes": "You can delete your CoinGecko account directly from the website by clicking the 'Profile' icon ⮕ 'Login' and 'Security'. At the 'Login and Security' page, please click on 'Delete my account' to proceed with account deletion",
         "domains": [
             "coingecko.com",
             "support.coingecko.com"
@@ -3816,9 +3816,9 @@
         "name": "Cybrary",
         "url": "https://app.cybrary.it/settings/account",
         "difficulty": "easy",
-        "notes": "Go to \"Delete Your Account > Delete Account\".",
+        "notes": "Go to \"Delete Your Account ⮕ Delete Account\".",
         "notes_tr": "\"Hesabınızı Silin\" sayfasına girin ardından \"Hesabı Sil\" tuşuna basın.",
-        "notes_pt_br": "Vá para \"Delete Your Account > Delete Account\".",
+        "notes_pt_br": "Vá para \"Delete Your Account ⮕ Delete Account\".",
         "domains": [
             "cybrary.com",
             "app.cybrary.it"
@@ -4168,9 +4168,9 @@
         "name": "Digg",
         "url": "https://digg.com/privacy#:~:text=How%20Can%20I%20Delete%20My%20Account%3F",
         "difficulty": "easy",
-        "notes": "Go to \"Settings > Delete my account\".",
+        "notes": "Go to \"Settings ⮕ Delete my account\".",
         "notes_tr": "\"Ayarlar\" \"Hesabımı Sil\" tuşuna basın.",
-        "notes_pt_br": "Vá para \"Settings > Delete my account\".",
+        "notes_pt_br": "Vá para \"Settings ⮕ Delete my account\".",
         "domains": [
             "digg.com"
         ]
@@ -5573,7 +5573,7 @@
         "name": "FastWeb",
         "url": "https://www.fastweb.com/login",
         "difficulty": "easy",
-        "notes": "Go to the URL and log in with your credentials. Go to 'My Account' > 'Account' and select 'Delete My Account'. Answer 'Yes' to the prompt. FastWeb will immediately log you out, and your credentials will no longer work.",
+        "notes": "Go to the URL and log in with your credentials. Go to 'My Account' ⮕ 'Account' and select 'Delete My Account'. Answer 'Yes' to the prompt. FastWeb will immediately log you out, and your credentials will no longer work.",
         "domains": [
             "fastweb.com"
         ]
@@ -6239,7 +6239,7 @@
         "name": "G2A",
         "url": "https://id.g2a.com/panel/account-details/delete-account",
         "difficulty": "easy",
-        "notes": "You will find a delete account button under 'My Account' > 'Account details' click it and accept, you will then receive an email requiring you to confirm the account deletion. Confirm it, then your account will be deleted if you do not login in the next 14 days.",
+        "notes": "You will find a delete account button under 'My Account' ⮕ 'Account details' click it and accept, you will then receive an email requiring you to confirm the account deletion. Confirm it, then your account will be deleted if you do not login in the next 14 days.",
         "domains": [
             "g2a.com",
             "id.g2a.com"
@@ -6481,9 +6481,9 @@
         "name": "Gearbest",
         "url": "https://wap-support.gearbest.com/ticket/ticket/ticket-add",
         "difficulty": "hard",
-        "notes": "You will need to open a ticket. In the first field, select \"Account Management > Advanced Account Information\" and then send your message requesting the deletion of the account. Within 48 hours, the customer support will return your message asking if you confirm the deletion of the account. You can also contact them <a href=\"mailto:support@gearbest.com\">via email</a>.",
+        "notes": "You will need to open a ticket. In the first field, select \"Account Management ⮕ Advanced Account Information\" and then send your message requesting the deletion of the account. Within 48 hours, the customer support will return your message asking if you confirm the deletion of the account. You can also contact them <a href=\"mailto:support@gearbest.com\">via email</a>.",
         "notes_tr": "Bir destek talebi açmanız gerekecek. İlk alanda, \"Hesap Yönetimi\" \"Gelişmiş Hesap Bilgisi\" seçeneğini seçin ve ardından hesabın silinmesini belirtin. 48 saat içinde müşteri desteği, hesabın silinmesini onaylayıp onaylamadığınızı soran mesajınızı geri verecektir. Onlarla e-posta yoluyla da iletişime geçebilirsiniz.",
-        "notes_pt_br": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management > Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los <a href=\"mailto:support@gearbest.com\">via e-mail</a>.",
+        "notes_pt_br": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management ⮕ Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los <a href=\"mailto:support@gearbest.com\">via e-mail</a>.",
         "domains": [
             "gearbest.com",
             "wap-support.gearbest.com"
@@ -7683,9 +7683,9 @@
         "name": "Happy Scribe",
         "url": "https://www.happyscribe.co/users/edit",
         "difficulty": "easy",
-        "notes": "Go to \"Settings > Delete Account > Delete my account\".",
+        "notes": "Go to \"Settings ⮕ Delete Account ⮕ Delete my account\".",
         "notes_tr": "\"Ayarlar\" \"Hesabı Sil\" \"Hesabımı Sil\" tuşuna basın.",
-        "notes_pt_br": "Vá para \"Settings > Delete Account > Delete my account\".",
+        "notes_pt_br": "Vá para \"Settings ⮕ Delete Account ⮕ Delete my account\".",
         "domains": [
             "happyscribe.co"
         ]
@@ -8029,7 +8029,7 @@
         "name": "Hoop",
         "url": "https://hoop.photo/",
         "difficulty": "impossible",
-        "notes": "Navigate to 'Account' > 'gear icon' > 'delete account' > 'delete'. This will remove some of your account data, but not all. There is no way to remove all data, despite their privacy policy claiming it is.",
+        "notes": "Navigate to 'Account' ⮕ 'gear icon' ⮕ 'delete account' ⮕ 'delete'. This will remove some of your account data, but not all. There is no way to remove all data, despite their privacy policy claiming it is.",
         "domains": [
             "hoop.photo"
         ]
@@ -8095,7 +8095,7 @@
         "name": "Houzz",
         "url": "https://help.houzz.com/s/article/How-do-I-delete-my-account",
         "difficulty": "hard",
-        "notes": "Your Houzz > Edit Profile and Settings > Advanced Settings > Deactivate Houzz Account (at the bottom of the page)",
+        "notes": "Your Houzz ⮕ Edit Profile and Settings ⮕ Advanced Settings ⮕ Deactivate Houzz Account (at the bottom of the page)",
         "email": "EUprivacy@houzz.com",
         "domains": [
             "houzz.com",
@@ -8119,7 +8119,7 @@
         "name": "HowLongToBeat",
         "url": "https://howlongtobeat.com/",
         "difficulty": "easy",
-        "notes": "Go to 'My Account' > 'Options', click 'Delete Profile & Data' and confirm.",
+        "notes": "Go to 'My Account' ⮕ 'Options', click 'Delete Profile & Data' and confirm.",
         "domains": [
             "howlongtobeat.com"
         ]
@@ -8140,8 +8140,8 @@
         "name": "HP",
         "url": "https://www8.hp.com/us/en/privacy/ww-privacy-form.html",
         "difficulty": "hard",
-        "notes": "Select language > Fill submission > Submit",
-        "notes_tr": "Dil seçin > Gönderimi doldurun > Gönderin",
+        "notes": "Select language ⮕ Fill submission ⮕ Submit",
+        "notes_tr": "Dil seçin ⮕ Gönderimi doldurun ⮕ Gönderin",
         "domains": [
             "www8.hp.com",
             "hp.com"
@@ -8152,7 +8152,7 @@
         "name": "HRK Game",
         "url": "https://www.hrkgame.com/en/account/settings/privacy",
         "difficulty": "easy",
-        "notes": "Delete Account > proceed > confirm > enter password and click ok.",
+        "notes": "Delete Account ⮕ proceed ⮕ confirm ⮕ enter password and click ok.",
         "domains": [
             "hrkgame.com"
         ]
@@ -8203,7 +8203,7 @@
         "name": "Humble Bundle",
         "url": "https://dsar.humblebundle.com",
         "difficulty": "medium",
-        "notes": "The easiest method is to submit a Data Subject Access Request at their <a href=\"https://dsar.humblebundle.com/\">DSAR Privacy Portal</a> to request account deletion. Alternatively, you can also <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\">submit a support request</a> for account deletion. In the linked page under \"What can we help you with?\" select \"Humble Bundle Account\" > \"Delete Account\", fill in your email, enter \"Account deletion\" as subject, add your honest reason for account deletion in the message, and submit. Someone from support should contact you and guide you further.",
+        "notes": "The easiest method is to submit a Data Subject Access Request at their <a href=\"https://dsar.humblebundle.com/\">DSAR Privacy Portal</a> to request account deletion. Alternatively, you can also <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\">submit a support request</a> for account deletion. In the linked page under \"What can we help you with?\" select \"Humble Bundle Account\" ⮕ \"Delete Account\", fill in your email, enter \"Account deletion\" as subject, add your honest reason for account deletion in the message, and submit. Someone from support should contact you and guide you further.",
         "domains": [
             "humblebundle.com",
             "dsar.humblebundle.com"
@@ -8694,7 +8694,7 @@
         "name": "IO Interactive",
         "url": "https://account.ioi.dk/",
         "difficulty": "easy",
-        "notes": "Go to the deletion URL, 'login' > 'account settings' > 'delete account'.",
+        "notes": "Go to the deletion URL, 'login' ⮕ 'account settings' ⮕ 'delete account'.",
         "domains": [
             "ioi.dk"
         ]
@@ -10240,7 +10240,7 @@
         "name": "Mastodon.social",
         "url": "https://mastodon.social/settings/delete",
         "difficulty": "easy",
-        "notes": "Login ⮕ Account Settings ⮕ Security > Delete Account",
+        "notes": "Login ⮕ Account Settings ⮕ Security ⮕ Delete Account",
         "notes_tr": "Giriş yapın, \"Hesap Ayarları\" \"Güvenlik\" \"Hesabı Sil\" tuşuna tıklayın",
         "domains": [
             "mastodon.social"
@@ -11183,9 +11183,9 @@
         "name": "MultCloud",
         "url": "https://www.multcloud.com/",
         "difficulty": "easy",
-        "notes": "Login to your account, click in the account icon > Settings > Delete Account and write the password and a note (optionally).",
-        "notes_pt_br": "Ao se logar, clique no ícone da conta > Settings > Delete Account e digite a senha e uma observação (este último não é obrigatório).",
-        "notes_pt_pt": "Ao se logar, clique no ícone da conta > Settings > Delete Account e digite a senha e uma observação (este último não é obrigatório).",
+        "notes": "Login to your account, click in the account icon ⮕ Settings ⮕ Delete Account and write the password and a note (optionally).",
+        "notes_pt_br": "Ao se logar, clique no ícone da conta ⮕ Settings ⮕ Delete Account e digite a senha e uma observação (este último não é obrigatório).",
+        "notes_pt_pt": "Ao se logar, clique no ícone da conta ⮕ Settings ⮕ Delete Account e digite a senha e uma observação (este último não é obrigatório).",
         "domains": [
             "multcloud.com"
         ]
@@ -11596,7 +11596,7 @@
         "name": "New Relic",
         "url": "https://docs.newrelic.com/docs/accounts/accounts-billing/account-setup/downgradecancel-account/#cancel-simple-org",
         "difficulty": "easy",
-        "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account. Select the confirmation prompt.",
+        "notes": "From the New Relic menu bar, select (account) ⮕ Upgrade subscription ⮕ Cancel account. Select the confirmation prompt.",
         "notes_tr": "New Relic menü çubuğundan, \"Hesap\" \"Aboneliği Yükselt\" \"Hesabı İptal Et\" tuşuna tıklayın. Ardından onaylayın.",
         "domains": [
             "newrelic.com",
@@ -11665,7 +11665,7 @@
         "name": "Nexo",
         "url": "https://platform.nexo.io/security/close-account",
         "difficulty": "easy",
-        "notes": "Login to your account, go to 'Account > Security' and enable 2FA. Go to the URL and then close your account.",
+        "notes": "Login to your account, go to 'Account ⮕ Security' and enable 2FA. Go to the URL and then close your account.",
         "domains": [
             "nexo.io",
             "platform.nexo.io"
@@ -11926,7 +11926,7 @@
         "name": "NOW TV",
         "url": "https://help.nowtv.com/contact-us/how-do-i-cancel-now-tv",
         "difficulty": "impossible",
-        "notes": "You must first cancel any active passes under 'My Account' > 'My Passes'. After this, you can contact the live chat and ask for your billing information to be removed. Your account must remain inactive for an indeterminate amount of time before the remaining data will be removed 'in accordance with our group data retention and deletion policies'.",
+        "notes": "You must first cancel any active passes under 'My Account' ⮕ 'My Passes'. After this, you can contact the live chat and ask for your billing information to be removed. Your account must remain inactive for an indeterminate amount of time before the remaining data will be removed 'in accordance with our group data retention and deletion policies'.",
         "notes_tr": "Öncelikle \"Hesabım\" \"Geçişlerim\" sayfası altından tüm aktif abonelikleri iptal etmelisiniz. Bundan sonra, canlı sohbete başvurabilir ve ödeme bilgilerinizin kaldırılmasını isteyebilirsiniz. Geri kalan veriler ise 'toplu veri saklama ve silme politikalarımıza uygun olması için' kaldırılmadan önce hesabınız belirsiz bir süre boyunca pasif kalmalıdır.",
         "domains": [
             "nowtv.com",
@@ -12767,8 +12767,8 @@
         "name": "pCloud",
         "url": "https://my.pcloud.com/#page=settings&settings=tab-account",
         "difficulty": "medium",
-        "notes": "Go to Settings > Account > Delete Your Account and confirm the e-mail. The data will be deleted within three months.",
-        "notes_it": "Vai su Impostazioni > Account > Elimina Account e conferma l'e-mail. I dati saranno cancellati entro tre mesi.",
+        "notes": "Go to Settings ⮕ Account ⮕ Delete Your Account and confirm the e-mail. The data will be deleted within three months.",
+        "notes_it": "Vai su Impostazioni ⮕ Account ⮕ Elimina Account e conferma l'e-mail. I dati saranno cancellati entro tre mesi.",
         "domains": [
             "pcloud.com",
             "my.pcloud.com",
@@ -12867,7 +12867,7 @@
         "name": "peopleperhour",
         "url": "https://www.peopleperhour.com/settings/general",
         "difficulty": "medium",
-        "notes": "Profile > settings > account > edit > select a reason > deactivate",
+        "notes": "Profile ⮕ settings ⮕ account ⮕ edit ⮕ select a reason ⮕ deactivate",
         "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesap\" \"Düzenle\" \"Sebep seçin\" \"Devre dışı bırak\"",
         "domains": [
             "peopleperhour.com"
@@ -13750,7 +13750,7 @@
         "name": "Python Package Index (PyPI)",
         "url": "https://pypi.org/manage/account/",
         "difficulty": "medium",
-        "notes": "Go to \"Delete account > Delete your PyPI account\". Projects that you are the sole of owner of will be needed to have their ownership transferred to another user or to be deleted before being able to proceed.",
+        "notes": "Go to \"Delete account ⮕ Delete your PyPI account\". Projects that you are the sole of owner of will be needed to have their ownership transferred to another user or to be deleted before being able to proceed.",
         "domains": [
             "pypi.org"
         ]
@@ -14117,7 +14117,7 @@
         "url": "https://www.redacteur.com/identities/edit",
         "difficulty": "easy",
         "notes": "Login to your account. Click on \"My Account\" then \"My connection information\". Finally click \"Delete my account\"",
-        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte > Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
+        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte ⮕ Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
         "domains": [
             "redacteur.com"
         ]
@@ -14457,7 +14457,7 @@
         "name": "RiseUp",
         "url": "https://account.riseup.net",
         "difficulty": "easy",
-        "notes": "Go to account.riseup.net > 'Login' > Press 'purge data' then press 'close account'. Finally, follow any instructions on screen.",
+        "notes": "Go to account.riseup.net ⮕ 'Login' ⮕ Press 'purge data' then press 'close account'. Finally, follow any instructions on screen.",
         "domains": [
             "riseup.net",
             "account.riseup.net"
@@ -14788,7 +14788,7 @@
         "name": "Scholly",
         "url": "https://search.myscholly.com/settings",
         "difficulty": "easy",
-        "notes": "Log in, go to the URL, open 'Account Details' > 'Delete Account', and press 'Yes' to confirm. Scholly will immediately log you out and your credentials will no longer work.",
+        "notes": "Log in, go to the URL, open 'Account Details' ⮕ 'Delete Account', and press 'Yes' to confirm. Scholly will immediately log you out and your credentials will no longer work.",
         "domains": [
             "myscholly.com",
             "search.myscholly.com"
@@ -15180,7 +15180,7 @@
         "name": "Signal",
         "url": "https://support.signal.org/hc/en-us/articles/360007061192-Delete-Account",
         "difficulty": "easy",
-        "notes": "In Signal, tap your 'profile' > 'Account' > 'Delete account'. And Enter your Signal number, Tap 'Delete account'.",
+        "notes": "In Signal, tap your 'profile' ⮕ 'Account' ⮕ 'Delete account'. And Enter your Signal number, Tap 'Delete account'.",
         "domains": [
             "signal.org",
             "support.signal.org"
@@ -15213,7 +15213,7 @@
         "name": "SimpleLogin",
         "url": "https://app.simplelogin.io/dashboard/setting",
         "difficulty": "easy",
-        "notes": "Go to \"Delete Account > Yes, delete my account\".",
+        "notes": "Go to \"Delete Account ⮕ Yes, delete my account\".",
         "notes_tr": "\"Hesabı Sil\" \"Evet, hesabımı sil\" tuşuna basın.",
         "domains": [
             "simplelogin.io",
@@ -15237,7 +15237,7 @@
         "name": "SimplePlanes",
         "url": "https://www.simpleplanes.com/Account/DeleteAccount",
         "difficulty": "easy",
-        "notes": "Login to your account, open your profile page and follow these steps: click 'Manage Account' > click 'Close Account' > click 'OK' > type 'CLOSE' > click 'CLOSE' > click 'OK'. Using the link from here also skips every step before \"type 'CLOSE'\".",
+        "notes": "Login to your account, open your profile page and follow these steps: click 'Manage Account' ⮕ click 'Close Account' ⮕ click 'OK' ⮕ type 'CLOSE' ⮕ click 'CLOSE' ⮕ click 'OK'. Using the link from here also skips every step before \"type 'CLOSE'\".",
         "domains": [
             "simpleplanes.com"
         ]
@@ -15505,7 +15505,7 @@
         "name": "SoloLearn",
         "url": "https://www.sololearn.com",
         "difficulty": "easy",
-        "notes": "Go to Profile > Settings > Delete account",
+        "notes": "Go to Profile ⮕ Settings ⮕ Delete account",
         "domains": [
             "sololearn.com"
         ]
@@ -15944,7 +15944,7 @@
         "name": "Storenvy",
         "url": "https://www.storenvy.com/account",
         "difficulty": "easy",
-        "notes": "Log in, then navigate to 'Account Settings' > 'Profile'. Scroll to the bottom and click 'Delete my Storenvy store & account'. Click 'OK' when prompted to confirm.",
+        "notes": "Log in, then navigate to 'Account Settings' ⮕ 'Profile'. Scroll to the bottom and click 'Delete my Storenvy store & account'. Click 'OK' when prompted to confirm.",
         "notes_tr": "Giriş yapın, ardından \"Hesap Ayarları\" \"Profil\" sayfasına gidin. Alta doğru ilerleyin ve \"Storenvy mağazamı & hesabımı kapat\" seçeneğini tıklayın. Onaylamanız istendiğinde \"Tamam\" seçeneğini tıklayın.",
         "domains": [
             "storenvy.com"
@@ -16409,7 +16409,7 @@
         "name": "TeamGantt",
         "url": "https://app.teamgantt.com/admin/account-settings",
         "difficulty": "easy",
-        "notes": "Go to Account Settings > Subscription > Cancel. Click 'Cancel my subscription and delete my data'",
+        "notes": "Go to Account Settings ⮕ Subscription ⮕ Cancel. Click 'Cancel my subscription and delete my data'",
         "notes_tr": "\"Hesap Ayarları\" \"Abonelik\" \"İptal\" \"Aboneliğimi iptal et ve verilerimi sil\" tuşuna tıklayın",
         "domains": [
             "teamgantt.com",
@@ -16569,7 +16569,7 @@
         "name": "Terms of Service; Didn't Read",
         "url": "https://edit.tosdr.org/users/edit",
         "difficulty": "easy",
-        "notes": "Log-in, then go to Menu > Settings, scroll down and click 'Cancel my account'. Your contributions will stay and will be switched to an anonymous account.",
+        "notes": "Log-in, then go to Menu ⮕ Settings, scroll down and click 'Cancel my account'. Your contributions will stay and will be switched to an anonymous account.",
         "domains": [
             "status.tosdr.org",
             "forum.tosdr.org",
@@ -17036,7 +17036,7 @@
         "url": "https://traduc.com/users/edit",
         "difficulty": "easy",
         "notes": "Login to your account. Click on \"My Account\" then \"My connection information\". Finally click \"Delete my account\"",
-        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte > Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
+        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte ⮕ Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
         "domains": [
             "traduc.com"
         ]
@@ -18903,7 +18903,7 @@
         "name": "Wire",
         "url": "https://support.wire.com/hc/en-us/articles/207555795-Delete-a-Wire-Personal-account",
         "difficulty": "medium",
-        "notes": "On Windows/MacOS : Go Settings > Account > Delete Account And on mobile devices Tap Profile > Settings > Account > Delete Account. You will receive a SMS to confirm the deletion.",
+        "notes": "On Windows/MacOS : Go Settings ⮕ Account ⮕ Delete Account And on mobile devices Tap Profile ⮕ Settings ⮕ Account ⮕ Delete Account. You will receive a SMS to confirm the deletion.",
         "domains": [
             "wire.com",
             "support.wire.com"
@@ -19465,7 +19465,7 @@
         "name": "Zulip",
         "url": "https://zulipchat.com/help/deactivate-your-account",
         "difficulty": "easy",
-        "notes": "Navigate to Settings > Your Account > Deactivate Account",
+        "notes": "Navigate to Settings ⮕ Your Account ⮕ Deactivate Account",
         "notes_tr": "\"Ayarlar\" \"Hesabınız\" \"Hesabı Devre Dışı bırak\" yolunu izleyin",
         "domains": [
             "zulipchat.com"
