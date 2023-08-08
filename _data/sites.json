@@ -1967,15 +1967,6 @@
     },
 
     {
-        "name": "Bilibili",
-        "url": "https://passport.bilibili.com/register/logout.html",
-        "difficulty": "medium",
-        "domains": [
-            "bilibili.com"
-        ]
-    },
-
-    {
         "name": "Bigstock",
         "url": "https://support.bigstockphoto.com/s/article/How-do-I-close-my-Bigstock-contributor-account",
         "difficulty": "hard",
@@ -1983,6 +1974,15 @@
         "email": "support@bigstockphoto.com",
         "domains": [
             "bigstockphoto.com"
+        ]
+    },
+
+    {
+        "name": "Bilibili",
+        "url": "https://passport.bilibili.com/register/logout.html",
+        "difficulty": "medium",
+        "domains": [
+            "bilibili.com"
         ]
     },
 
