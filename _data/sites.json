@@ -3747,6 +3747,19 @@
     },
 
     {
+        "name": "CubieCloud",
+        "url": "https://sso.cubie.com.br/delacc",
+        "difficulty": "hard",
+        "notes": "Send an email asking to delete your account, providing your private id and other evidence.",
+        "notes_pt_br": "Envie um e-mail pedindo para deletar sua conta, enviando deu id privado e outras provas.",
+        "email": "suporte@cubie.com.br",
+        "domains": [
+            "cloud.cubie.com.br",
+            "sso.cubie.com.br"
+        ]
+    },
+
+    {
         "name": "Curio",
         "url": "https://curio.io/account/delete",
         "difficulty": "easy",
