@@ -785,7 +785,7 @@
         "name": "AliPay",
         "url": "https://memberprod.alipay.com/account/close/apply.htm",
         "difficulty": "easy",
-        "notes": "From the app: Settings → Account and Security → Account Cancel.",
+        "notes": "From the app: Settings ⮕ Account and Security ⮕ Account Cancel.",
         "domains": [
             "alipay.com"
         ]
@@ -13761,7 +13761,7 @@
         "name": "QQ",
         "url": "https://kf.qq.com/faq/1803146n2yMr180314MbIfER.html",
         "difficulty": "easy",
-        "notes": "From the app: Avatar → Settings → Account Security → Account Cancellation.",
+        "notes": "From the app: Avatar ⮕ Settings ⮕ Account Security ⮕ Account Cancellation.",
         "domains": [
             "qq.com"
         ]
@@ -18304,7 +18304,7 @@
         "name": "WeChat",
         "url": "https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&id=1706083AnYFb170608VF3Ur2",
         "difficulty": "easy",
-        "notes": "From the app: Me → Settings → Account Security → WeChat Security Center → Account Cancellation.",
+        "notes": "From the app: Me ⮕ Settings ⮕ Account Security ⮕ WeChat Security Center ⮕ Account Cancellation.",
         "domains": [
             "wechat.com",
             "weixin.qq.com",
