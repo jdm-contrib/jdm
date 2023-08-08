@@ -3,9 +3,9 @@
         "name": "/e/",
         "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
         "difficulty": "easy",
-        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
-        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
-        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
+        "notes": "Profile > settings > delete account > confirm",
+        "notes_de": "Profil > Einstellungen > Account löschen > Bestätigen",
+        "notes_ru": "Профиль > настройки > удалить аккаунт > подтвердить.",
         "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
         "domains": [
             "doc.e.foundation",
@@ -18,10 +18,10 @@
         "name": "000Webhost",
         "url": "https://000webhost.com/members/profile",
         "difficulty": "easy",
-        "notes": "Go to \"Profile ⮕ Delete My Account\" and select why you are deleting your account.",
-        "notes_ru": "Перейдите в Профиль ⮕ «Удалить мою учетную запись» и выберите, почему вы удаляете свою учетную запись.",
+        "notes": "Go to \"Profile > Delete My Account\" and select why you are deleting your account.",
+        "notes_ru": "Перейдите в Профиль > «Удалить мою учетную запись» и выберите, почему вы удаляете свою учетную запись.",
         "notes_tr": "\"Profil\" kısmına girip \"Hesabımı Sil\" seçeneğini seçin ve ardından neden hesabınızı sileceğinizi belirtin.",
-        "notes_pt_br": "Vá para \"Profile ⮕ Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
+        "notes_pt_br": "Vá para \"Profile > Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
         "domains": [
             "000webhost.com",
             "000webhostapp.com"
@@ -421,7 +421,7 @@
         "name": "ActiveCampaign",
         "url": "https://ac.activehosted.com/f/2175",
         "difficulty": "hard",
-        "notes": "For account deletion requests or requests to remove all account information, submit the <a href='https://ac.activehosted.com/f/2175'⮕Data Subject Rights Request form</a⮕. When asked \"What would you like to initiate with us?\" choose the option <b⮕I want to be forgotten, and want my personal data erased</b⮕ in .",
+        "notes": "For account deletion requests or requests to remove all account information, submit the <a href='https://ac.activehosted.com/f/2175'>Data Subject Rights Request form</a>. When asked \"What would you like to initiate with us?\" choose the option <b>I want to be forgotten, and want my personal data erased</b> in .",
         "notes_ru": "Для запроса на удаление учетной записи или запроса на удаление всей информации учетной записи отправьте форму запроса прав субъекта данных. На вопрос: «Что бы вы хотели принять с нами?» выберите вариант «Я хочу, чтобы меня забыли, и хочу, чтобы мои личные данные были удалены».",
         "domains": [
             "activehosted.com",
@@ -950,8 +950,8 @@
         "name": "AniList",
         "url": "https://anilist.co/settings/account",
         "difficulty": "easy",
-        "notes": "Go to \"Delete User Account ⮕ OK, Delete my account\".",
-        "notes_ru": "Перейдите к «Удалить учетную запись пользователя ⮕ ОК, Удалить мою учетную запись».",
+        "notes": "Go to \"Delete User Account > OK, Delete my account\".",
+        "notes_ru": "Перейдите к «Удалить учетную запись пользователя > ОК, Удалить мою учетную запись».",
         "notes_tr": "\"Kullanıcı Hesabını Sil\" \"Tamam, Hesabımı Sil\" tuşuna basın.",
         "domains": [
             "anilist.co"
@@ -1882,8 +1882,8 @@
         "name": "Betano",
         "url": "https://betano.com/myaccount/profile/protection",
         "difficulty": "easy",
-        "notes": "Access Account ⮕ Profile ⮕ Player Protection and select Self-exclusion option. You can choose remove your account for a derised time, or definitely.",
-        "notes_pt_br": "Acesse Conta ⮕ Perfil ⮕ Proteção do Jogador e selecionar a Autoexclusão. Você pode remover sua conta por um tempo ou em definitivo.",
+        "notes": "Access Account > Profile > Player Protection and select Self-exclusion option. You can choose remove your account for a derised time, or definitely.",
+        "notes_pt_br": "Acesse Conta > Perfil > Proteção do Jogador e selecionar a Autoexclusão. Você pode remover sua conta por um tempo ou em definitivo.",
         "domains": [
             "betano.com",
             "betano.zendesk.com"
@@ -2000,7 +2000,7 @@
         "notes": "At the bottom of the linked page, click the red 'Delete Account' button. Select an option specifying why you want to leave Bitly, and confirm your action by typing \"DELETE ACCOUNT\", then click 'Delete Account' again.",
         "notes_tr": "\"Profil\" \"Hesabı Sil\" kısmına girin ve ardından neden hesabınızı sileceğinizi seçin. Hesabınız silinecek fakat tüm kısaltılmış linkler geçerli kalacak.",
         "notes_pl": "Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.",
-        "notes_pt_br": "Vá para \" Profile ⮕ Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
+        "notes_pt_br": "Vá para \" Profile > Delete Account\" e selecione uma razão pela qual você está excluindo sua conta. Sua conta será excluída, mais os seus links encurtados permanecerão ativos.",
         "domains": [
             "bit.ly",
             "bitly.com",
@@ -2098,7 +2098,7 @@
         "meta": "popular",
         "url": "https://support.google.com/blogger/answer/41932",
         "difficulty": "impossible",
-        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\"⮕Google</a⮕.",
+        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "notes_tr": "Google hesabınızın tamamını silmeden Blogger hesabınızı silemezsiniz. Fakat blogunuzu silebilirsiniz.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
         "notes_cat": "Haurieu d'esborrar tot el compte de Google. Tanmateix, també podeu esborrar únicament el vostre blog.",
@@ -2191,7 +2191,7 @@
         "name": "bobatea",
         "url":"https://git.boba.best/user/settings/account",
         "difficulty": "easy",
-        "notes": "Log-in, go to Settings ⮕ Account then at the bottom you can delete your account.",
+        "notes": "Log-in, go to Settings > Account then at the bottom you can delete your account.",
         "domains": [
             "git.boba.best"
         ]
@@ -2405,7 +2405,7 @@
         "name": "British Airways",
         "url": "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
         "difficulty": "hard",
-        "notes": "Must send a request in writing. See this page for contact details <a href=\"https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us\"⮕https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us</a⮕",
+        "notes": "Must send a request in writing. See this page for contact details <a href=\"https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us\">https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us</a>",
         "notes_tr": "Yazılı bir istek gönderilmelidir. İletişim detayları için iletişim bağlantısına bakın.",
         "domains": [
             "britishairways.com"
@@ -2470,7 +2470,7 @@
         "name": "Bukalapak",
         "url": "https://www.bukalapak.com",
         "difficulty": "medium",
-        "notes": "Open Akun (Account)⮕BukaBantuan (Open Help)⮕In Akun & Info Personal (Account & Personal Info), tap Selanjutnya (Next)⮕Tap Menonaktifkan Akun (Disable Account)⮕Tap Isi Form Bantuan (Type on Help Form)⮕Explain the reason why you delete it⮕Tap Kirim (Send).",
+        "notes": "Open Akun (Account)>BukaBantuan (Open Help)>In Akun & Info Personal (Account & Personal Info), tap Selanjutnya (Next)>Tap Menonaktifkan Akun (Disable Account)>Tap Isi Form Bantuan (Type on Help Form)>Explain the reason why you delete it>Tap Kirim (Send).",
         "notes_tr": "\"Hesap\" \"Yardımı Aç\" \"Hesap & Kişisel Bilgiler\" \"Sonraki\" \"Hesabı Devre Dışı Bırak\" \"Yardım Formuna Yaz\" yolunu takip edin ve ardından neden silmek istediğinizi belirtin. Son olarak \"Gönder\" tuşuna tıklayın.",
         "domains": [
             "bukalapak.com"
@@ -2481,7 +2481,7 @@
         "name": "Bukkit",
         "url": "https://bukkit.org",
         "difficulty": "impossible",
-        "notes": "Message an <a href='https://bukkit.org/XenStaff/'⮕administrator</a⮕ (<a href='https://bukkit.org/members/timtower.87695/'⮕timtower</a⮕ is the most active) and tell them you want your account deleted, and they will tell you it will be done when it's possible.<br⮕ So deletion of an account is not an option.",
+        "notes": "Message an <a href='https://bukkit.org/XenStaff/'>administrator</a> (<a href='https://bukkit.org/members/timtower.87695/'>timtower</a> is the most active) and tell them you want your account deleted, and they will tell you it will be done when it's possible.<br> So deletion of an account is not an option.",
         "domains": [
             "bukkit.org"
         ]
@@ -2976,7 +2976,7 @@
         "name": "Chegg",
         "url": "https://www.chegg.com/contactus",
         "difficulty": "hard",
-        "notes": "To close your account, contact support with the email listed, call/message (408)-351-0942, or request assistance via their twitter <a href=\"https://twitter.com/chegghelp\"⮕@CheggHelp</a⮕. For data deletion, click <a href=\"https://privacyportal-cdn.onetrust.com/dsarwebform/a21a74f4-2f93-44a2-a887-302a9213c997/06b040b7-49eb-464a-b19a-ea35c85c79fc.html\"⮕here</a⮕.",
+        "notes": "To close your account, contact support with the email listed, call/message (408)-351-0942, or request assistance via their twitter <a href=\"https://twitter.com/chegghelp\">@CheggHelp</a>. For data deletion, click <a href=\"https://privacyportal-cdn.onetrust.com/dsarwebform/a21a74f4-2f93-44a2-a887-302a9213c997/06b040b7-49eb-464a-b19a-ea35c85c79fc.html\">here</a>.",
         "email": "closemyaccount@chegg.com",
         "domains": [
             "chegg.com"
@@ -2997,7 +2997,7 @@
         "name": "Chick-fil-A",
         "url": "https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55",
         "difficulty": "hard",
-        "notes": "Fill out the provided <a href='https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55'⮕ privacy web form</a⮕, send an email to mailto:privacy@chick-fil-a.com, or call 1-866-232-2040.",
+        "notes": "Fill out the provided <a href='https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55'> privacy web form</a>, send an email to mailto:privacy@chick-fil-a.com, or call 1-866-232-2040.",
         "domains": [
             "chick-fil-a.com"
         ]
@@ -3084,9 +3084,9 @@
         "name": "Cloud Convert",
         "url": "https://cloudconvert.com/delete#",
         "difficulty": "easy",
-        "notes": "Go to the dashboard ⮕ account ⮕ details, and fill your username and password. The acount is deleted after 72 hours.",
+        "notes": "Go to the dashboard > account > details, and fill your username and password. The acount is deleted after 72 hours.",
         "notes_tr": "\"Kontrol Paneli\" \"Hesap\" \"Detaylar\" kısmına gidin, kullanıcı adınızı ve şifrenizi doldurun. 72 saat sonra hesap silinecektir.",
-        "notes_pt_br": "Vá em \"dashboard\" ⮕ \"account\" ⮕ \"details\", e preencha seu nome de usuário e senha. A conta é removida após 72 horas.",
+        "notes_pt_br": "Vá em \"dashboard\" > \"account\" > \"details\", e preencha seu nome de usuário e senha. A conta é removida após 72 horas.",
         "domains": [
             "cloudconvert.com"
         ]
@@ -3210,7 +3210,7 @@
         "name": "CodeChef",
         "url": "https://discuss.codechef.com/t/how-do-i-delete-a-codechef-account/30476",
         "difficulty": "easy",
-        "notes": "Navigate to the Privacy tab in your edit profile section. Scroll all the way down and click on \"I don’t want to continue with CodeChef\". Alternatively login to codechef and visit \"https://www.codechef.com/users/<username⮕/discontinue\", after substituting in your username.",
+        "notes": "Navigate to the Privacy tab in your edit profile section. Scroll all the way down and click on \"I don’t want to continue with CodeChef\". Alternatively login to codechef and visit \"https://www.codechef.com/users/<username>/discontinue\", after substituting in your username.",
         "notes_tr": "Profili düzenle menünüzden \"Gizlilik\" sekmesine gidin. Aşağı doğru kaydırın ve \"CodeChef ile devam etmek istemiyorum\" tuşuna tıklayın.",
         "domains": [
             "codechef.com",
@@ -3277,12 +3277,12 @@
         "name": "Coderwall",
         "url": "https://coderwall.com/delete_account",
         "difficulty": "easy",
-        "notes": "Sign in then visit <a href=\"https://coderwall.com/delete_account\"⮕https://coderwall.com/delete_account</a⮕",
+        "notes": "Sign in then visit <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
         "notes_tr": "Giriş yapın ve bağlantıyı ziyaret edin.",
-        "notes_fr": "Identifiez-vous puis visitez <a href=\"https://coderwall.com/delete_account\"⮕https://coderwall.com/delete_account</a⮕",
-        "notes_cat": "Identifica't al lloc web i entra <a href=\"https://coderwall.com/delete_account\"⮕https://coderwall.com/delete_account</a⮕",
-        "notes_es": "Identifícate en el sitio web y entra en <a href=\"https://coderwall.com/delete_account\"⮕https://coderwall.com/delete_account</a⮕",
-        "notes_pl": "Zaloguj się i przejdź do <a href=\"https://coderwall.com/delete_account\"⮕https://coderwall.com/delete_account</a⮕",
+        "notes_fr": "Identifiez-vous puis visitez <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
+        "notes_cat": "Identifica't al lloc web i entra <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
+        "notes_es": "Identifícate en el sitio web y entra en <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
+        "notes_pl": "Zaloguj się i przejdź do <a href=\"https://coderwall.com/delete_account\">https://coderwall.com/delete_account</a>",
         "domains": [
             "coderwall.com"
         ]
@@ -3335,7 +3335,7 @@
         "name": "Coinbase",
         "url": "https://www.coinbase.com/settings/privacy-rights",
         "difficulty": "medium",
-        "notes": "Sign in then visit <a href=\"https://www.coinbase.com/settings/privacy-rights\"⮕https://www.coinbase.com/settings/privacy-rights</a⮕ and request the deletion of all of your data. You will then be directed to <a href=\"https://www.coinbase.com/settings/account_activity\"⮕https://www.coinbase.com/settings/account_activity</a⮕ where you must close your account after withdrawing all funds.",
+        "notes": "Sign in then visit <a href=\"https://www.coinbase.com/settings/privacy-rights\">https://www.coinbase.com/settings/privacy-rights</a> and request the deletion of all of your data. You will then be directed to <a href=\"https://www.coinbase.com/settings/account_activity\">https://www.coinbase.com/settings/account_activity</a> where you must close your account after withdrawing all funds.",
         "notes_tr": "Giriş yapın ve bağlantıyı ziyaret edin. Sayfanın altında hesabınızı kapatmak için bir seçenek göreceksiniz. Hesabı silmek için, hesabınızda bekleyen ödemelerin olmaması gerekir.",
         "domains": [
             "coinbase.com"
@@ -3363,7 +3363,7 @@
         "name": "CoinGecko",
         "url": "https://support.coingecko.com/hc/en-us/articles/4537981325977-How-can-I-delete-my-account-",
         "difficulty": "easy",
-        "notes": "You can delete your CoinGecko account directly from the website by clicking the 'Profile' icon ⮕ 'Login' and 'Security'. At the 'Login and Security' page, please click on 'Delete my account' to proceed with account deletion",
+        "notes": "You can delete your CoinGecko account directly from the website by clicking the 'Profile' icon > 'Login' and 'Security'. At the 'Login and Security' page, please click on 'Delete my account' to proceed with account deletion",
         "domains": [
             "coingecko.com",
             "support.coingecko.com"
@@ -3583,7 +3583,7 @@
         "name": "CreditExpert",
         "url": "https://www.creditexpert.co.uk",
         "difficulty": "hard",
-        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info here: <a href=\"http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS\"⮕http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS</a⮕",
+        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info here: <a href=\"http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS\">http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS</a>",
         "notes_tr": "Üyeliğinizi sadece sigorta içeriyorsa e-posta ile iptal edebilirsiniz. Aksi takdirde, e-posta ile gönderdiğiniz iptal mesajları görmezden gelinecek. Hesabınızı iptal etmek için 0800 561 0083 numarasını aramak zorundasınız. Bu yapabileceğiniz tek yol. Daha fazlası için bağlantıya göz atın.",
         "email": "Customerservice@creditexpert.co.uk",
         "domains": [
@@ -3816,9 +3816,9 @@
         "name": "Cybrary",
         "url": "https://app.cybrary.it/settings/account",
         "difficulty": "easy",
-        "notes": "Go to \"Delete Your Account ⮕ Delete Account\".",
+        "notes": "Go to \"Delete Your Account > Delete Account\".",
         "notes_tr": "\"Hesabınızı Silin\" sayfasına girin ardından \"Hesabı Sil\" tuşuna basın.",
-        "notes_pt_br": "Vá para \"Delete Your Account ⮕ Delete Account\".",
+        "notes_pt_br": "Vá para \"Delete Your Account > Delete Account\".",
         "domains": [
             "cybrary.com",
             "app.cybrary.it"
@@ -3829,8 +3829,8 @@
         "name": "DaFONT",
         "url": "https://www.dafont.com/forum/read/12643/how-do-i-delete-my-account",
         "difficulty": "hard",
-        "notes": "Send a private message to <a href='http://www.dafont.com/fr/profile.php?user=1'⮕Rodolphe</a⮕.",
-        "notes_it": "Dovrai mandare un messagio privato a <a href='http://www.dafont.com/fr/profile.php?user=1'⮕Rodolphe</a⮕",
+        "notes": "Send a private message to <a href='http://www.dafont.com/fr/profile.php?user=1'>Rodolphe</a>.",
+        "notes_it": "Dovrai mandare un messagio privato a <a href='http://www.dafont.com/fr/profile.php?user=1'>Rodolphe</a>",
         "domains":[
             "dafont.com"
         ]
@@ -3957,9 +3957,9 @@
         "name": "Deezer",
         "url": "https://www.deezer.com/account",
         "difficulty": "medium",
-        "notes": "If you signed up via Google/Facebook setup a Deezer password at <a href=\"https://www.deezer.com/password/reset\"⮕https://www.deezer.com/password/reset</a⮕ and click the confirmation link you'll get via mail. If you have your Deezer password, open your account settings. Click 'Delete my Account' at the bottom of the page. Enter your Deezer password and confirm the deletion in the confirmation mail.",
+        "notes": "If you signed up via Google/Facebook setup a Deezer password at <a href=\"https://www.deezer.com/password/reset\">https://www.deezer.com/password/reset</a> and click the confirmation link you'll get via mail. If you have your Deezer password, open your account settings. Click 'Delete my Account' at the bottom of the page. Enter your Deezer password and confirm the deletion in the confirmation mail.",
         "notes_tr": "Eeğer Google/Facebook hesabı ile kayıt olduysanız, şifre oluştur bağlantısından Deezer şifresi oluşturun ve e-postanıza gelecek olan onay bağlantısına tıklayın. Eğer Deezer şifreniz varsa, \"Hesap Ayarları\" kısmına girin. Sayfanın altındaki \"Hesabımı Sil\" tuşuna tıklayın. Deezer şifrenizi girin ve e-postanıza gelecek olan onaylama bağlantısı ile onaylayın.",
-        "notes_de": "Wenn du dich mit Google/Facebook registriert hast, fordere unter <a href=\"https://www.deezer.com/password/reset\"⮕https://www.deezer.com/password/reset</a⮕ ein Deezer-Passwort an und bestätige einen Link, den du per Mail erhältst. Wenn du ein Deezer-Passwort hast, öffne deine Konto-Einstellungen und klicke unten auf 'Mein Konto löschen'. Gib dort dein Deezer-Passwort ein und bestätige das Löschen in der Bestätigungsmail.",
+        "notes_de": "Wenn du dich mit Google/Facebook registriert hast, fordere unter <a href=\"https://www.deezer.com/password/reset\">https://www.deezer.com/password/reset</a> ein Deezer-Passwort an und bestätige einen Link, den du per Mail erhältst. Wenn du ein Deezer-Passwort hast, öffne deine Konto-Einstellungen und klicke unten auf 'Mein Konto löschen'. Gib dort dein Deezer-Passwort ein und bestätige das Löschen in der Bestätigungsmail.",
         "domains": [
             "deezer.com",
             "developers.deezer.com",
@@ -4168,9 +4168,9 @@
         "name": "Digg",
         "url": "https://digg.com/privacy#:~:text=How%20Can%20I%20Delete%20My%20Account%3F",
         "difficulty": "easy",
-        "notes": "Go to \"Settings ⮕ Delete my account\".",
+        "notes": "Go to \"Settings > Delete my account\".",
         "notes_tr": "\"Ayarlar\" \"Hesabımı Sil\" tuşuna basın.",
-        "notes_pt_br": "Vá para \"Settings ⮕ Delete my account\".",
+        "notes_pt_br": "Vá para \"Settings > Delete my account\".",
         "domains": [
             "digg.com"
         ]
@@ -4225,7 +4225,7 @@
         "name": "Discord",
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "medium",
-        "notes": "Account deletion will not delete your messages, which you must do manually (Automating this process is possible using projects such as Undiscord). If you're a server owner, you'll need to either <a href=\"https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-\"⮕delete the server</a⮕, or <a href=\"https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-\"⮕transfer ownership</a⮕ for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
+        "notes": "Account deletion will not delete your messages, which you must do manually (Automating this process is possible using projects such as Undiscord). If you're a server owner, you'll need to either <a href=\"https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-\">delete the server</a>, or <a href=\"https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-\">transfer ownership</a> for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
         "domains": [
             "discord.com",
             "support.discord.com",
@@ -4711,7 +4711,7 @@
         "name": "Dropmark",
         "url": "https://support.dropmark.com/article/92-how-do-i-delete-my-account",
         "difficulty": "medium",
-        "notes": "Personal accounts can be deleted from the \"Danger Zone\" section at the bottom of your <a href=\"https://app.dropmark.com/account\"⮕Account page</a⮕. Note: Before deleting your personal account, you must first <a href=\"https://support.dropmark.com/article/53-transferring-collection-ownership\"⮕transfer ownership</a⮕ or <a href=\"https://support.dropmark.com/article/20-deleting-a-collection\"⮕delete all collections</a⮕ owned by your account.",
+        "notes": "Personal accounts can be deleted from the \"Danger Zone\" section at the bottom of your <a href=\"https://app.dropmark.com/account\">Account page</a>. Note: Before deleting your personal account, you must first <a href=\"https://support.dropmark.com/article/53-transferring-collection-ownership\">transfer ownership</a> or <a href=\"https://support.dropmark.com/article/20-deleting-a-collection\">delete all collections</a> owned by your account.",
         "notes_tr": "Kişisel hesaplar, hesap sayfasının alt kısmında bulunan \"Tehlikeli Bölge\" bölümünden silinebilir. Not: Kişisel hesabınızı silmeden önce, hesabınızda bulunan koleksiyonları silmeniz veya sahipliği devretmeniz gerekir.",
         "domains": [
             "dropmark.com",
@@ -4745,8 +4745,8 @@
         "url": "https://help.duo.com/s/article/2162",
         "difficulty": "hard",
         "email": "support@duosecurity.com",
-        "notes": "Delete all applications, users and other administrators in the Admin Panel according to the <a href=\"https://help.duo.com/s/article/2162\"⮕ support article </a⮕, then contact support via email.",
-        "notes_pt_br": "Apague todos os aplicativos, usuários e outros administradores no Painel de Aministrador, de acordo com <a href=\"https://help.duo.com/s/article/2162\"⮕ o artigo do suporte</a⮕, depois contate o suporte via e-mail.",
+        "notes": "Delete all applications, users and other administrators in the Admin Panel according to the <a href=\"https://help.duo.com/s/article/2162\"> support article </a>, then contact support via email.",
+        "notes_pt_br": "Apague todos os aplicativos, usuários e outros administradores no Painel de Aministrador, de acordo com <a href=\"https://help.duo.com/s/article/2162\"> o artigo do suporte</a>, depois contate o suporte via e-mail.",
         "domains": [
             "duo.com",
             "help.duo.com",
@@ -5487,7 +5487,7 @@
         "name": "Facebook Messenger",
         "url": "https://www.facebook.com/help/messenger-app/458908261952384?cms_platform=android-app&helpref=platform_switcher",
         "difficulty": "easy",
-        "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, go to your account settings and tap on <em⮕Delete Your Account and Information</em⮕.",
+        "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, go to your account settings and tap on <em>Delete Your Account and Information</em>.",
         "domains": [
             "messenger.com"
         ]
@@ -5497,7 +5497,7 @@
         "name": "Faceit",
         "url": "https://support.faceit.com/hc/en-us/requests/new",
         "difficulty": "hard",
-        "notes": "See <a href=\"https://support.faceit.com/hc/en-us/articles/360001449004-How-do-I-get-my-personal-details-deleted-on-FACEIT-\"⮕'How do I get my personal details deleted on FACEIT?'</a⮕",
+        "notes": "See <a href=\"https://support.faceit.com/hc/en-us/articles/360001449004-How-do-I-get-my-personal-details-deleted-on-FACEIT-\">'How do I get my personal details deleted on FACEIT?'</a>",
         "notes_tr": "Aşağıdaki makaleye göz atın.",
         "domains": [
             "faceit.com",
@@ -5573,7 +5573,7 @@
         "name": "FastWeb",
         "url": "https://www.fastweb.com/login",
         "difficulty": "easy",
-        "notes": "Go to the URL and log in with your credentials. Go to 'My Account' ⮕ 'Account' and select 'Delete My Account'. Answer 'Yes' to the prompt. FastWeb will immediately log you out, and your credentials will no longer work.",
+        "notes": "Go to the URL and log in with your credentials. Go to 'My Account' > 'Account' and select 'Delete My Account'. Answer 'Yes' to the prompt. FastWeb will immediately log you out, and your credentials will no longer work.",
         "domains": [
             "fastweb.com"
         ]
@@ -5755,7 +5755,7 @@
         "name": "Fiverr",
         "url": "https://www.fiverr.com/support_tickets/new/account_and_security",
         "difficulty": "hard",
-        "notes": "For each checkbox, choose: <ul⮕<li⮕<strong⮕Category:</strong⮕ \"Data and privacy\"</li⮕<li⮕<strong⮕Topic:</strong⮕ \"Permanently delete my personal data\"</li⮕<br⮕Click on the little link \"here\" under the light blue box. Fill the fields and submit request, soon, an account manager will answer you and process your request.",
+        "notes": "For each checkbox, choose: <ul><li><strong>Category:</strong> \"Data and privacy\"</li><li><strong>Topic:</strong> \"Permanently delete my personal data\"</li><br>Click on the little link \"here\" under the light blue box. Fill the fields and submit request, soon, an account manager will answer you and process your request.",
         "domains": [
             "fiverr.com"
         ]
@@ -6130,7 +6130,7 @@
         "name": "Freesound",
         "url": "https://freesound.org/home/delete/",
         "difficulty": "medium",
-        "notes": "You cannot delete your account yourself if you have sounds uploaded to your account. In their own words: \"Because you have sounds on freesound, deleting your user is not a trivial task. As such, we ask you to please <a href=\"https://freesound.org/contact/\"⮕contact the administrators via the Contact Form</a⮕. They will help you with the deletion of your account....\". Alternatively - you can go through all your sounds, delete them one-by-one, and then delete your account.",
+        "notes": "You cannot delete your account yourself if you have sounds uploaded to your account. In their own words: \"Because you have sounds on freesound, deleting your user is not a trivial task. As such, we ask you to please <a href=\"https://freesound.org/contact/\">contact the administrators via the Contact Form</a>. They will help you with the deletion of your account....\". Alternatively - you can go through all your sounds, delete them one-by-one, and then delete your account.",
         "notes_tr": "Eğer hesabınızda yüklenmiş sesler varsa hesabı kendi başınıza silemezsiniz. Sitenin kendi söyleriyle: 'Freesound'da kendi sesleriniz olduğundan olayı, hesabınızı silmek önemsiz bir iş değildir. Bu nedenle, lütfen iletişime geçmenizi rica ederiz. Hesabınızı silmenize yardım edecekler...'. Alternatif olarak, yüklediğiniz tüm sesleri bulup teker teker silebilirsiniz, ardından hesabı silebilirsiniz.",
         "domains": [
             "freesound.org"
@@ -6239,7 +6239,7 @@
         "name": "G2A",
         "url": "https://id.g2a.com/panel/account-details/delete-account",
         "difficulty": "easy",
-        "notes": "You will find a delete account button under 'My Account' ⮕ 'Account details' click it and accept, you will then receive an email requiring you to confirm the account deletion. Confirm it, then your account will be deleted if you do not login in the next 14 days.",
+        "notes": "You will find a delete account button under 'My Account' > 'Account details' click it and accept, you will then receive an email requiring you to confirm the account deletion. Confirm it, then your account will be deleted if you do not login in the next 14 days.",
         "domains": [
             "g2a.com",
             "id.g2a.com"
@@ -6481,9 +6481,9 @@
         "name": "Gearbest",
         "url": "https://wap-support.gearbest.com/ticket/ticket/ticket-add",
         "difficulty": "hard",
-        "notes": "You will need to open a ticket. In the first field, select \"Account Management ⮕ Advanced Account Information\" and then send your message requesting the deletion of the account. Within 48 hours, the customer support will return your message asking if you confirm the deletion of the account. You can also contact them <a href=\"mailto:support@gearbest.com\"⮕via email</a⮕.",
+        "notes": "You will need to open a ticket. In the first field, select \"Account Management > Advanced Account Information\" and then send your message requesting the deletion of the account. Within 48 hours, the customer support will return your message asking if you confirm the deletion of the account. You can also contact them <a href=\"mailto:support@gearbest.com\">via email</a>.",
         "notes_tr": "Bir destek talebi açmanız gerekecek. İlk alanda, \"Hesap Yönetimi\" \"Gelişmiş Hesap Bilgisi\" seçeneğini seçin ve ardından hesabın silinmesini belirtin. 48 saat içinde müşteri desteği, hesabın silinmesini onaylayıp onaylamadığınızı soran mesajınızı geri verecektir. Onlarla e-posta yoluyla da iletişime geçebilirsiniz.",
-        "notes_pt_br": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management ⮕ Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los <a href=\"mailto:support@gearbest.com\"⮕via e-mail</a⮕.",
+        "notes_pt_br": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management > Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los <a href=\"mailto:support@gearbest.com\">via e-mail</a>.",
         "domains": [
             "gearbest.com",
             "wap-support.gearbest.com"
@@ -6532,7 +6532,7 @@
         "name": "Gentoo Forums",
         "url": "https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests",
         "difficulty": "hard",
-        "notes": "Send an email to forum-mods@gentoo.org requesting account deletion. However, all your forum posts and comments will still be shown, and your account will only be anonymized as detailed <a href='https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests'⮕here</a⮕.",
+        "notes": "Send an email to forum-mods@gentoo.org requesting account deletion. However, all your forum posts and comments will still be shown, and your account will only be anonymized as detailed <a href='https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests'>here</a>.",
         "email": "forum-mods@gentoo.org",
         "email_subject": "Account Removal Request",
         "email_body": "I request for my Gentoo Forums account to be deleted. My username is XXXXXXXXX",
@@ -6754,7 +6754,7 @@
         "name": "Glassdoor",
         "url": "https://help.glassdoor.com/s/privacyrequest",
         "difficulty": "medium",
-        "notes": "Submit the form on the linked page. Under the field \"<b⮕What is your personal data request?</b⮕\", be sure to select \"Delete my personal data\". You'll be asked to verify your email, then your account will be deleted within 30 days.",
+        "notes": "Submit the form on the linked page. Under the field \"<b>What is your personal data request?</b>\", be sure to select \"Delete my personal data\". You'll be asked to verify your email, then your account will be deleted within 30 days.",
         "domains": [
             "glassdoor.com",
             "help.glassdoor.com"
@@ -6803,7 +6803,7 @@
         "name": "Gmail",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to gmail, enter your new email address, and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\"⮕Google</a⮕.",
+        "notes": "Click the trash can next to gmail, enter your new email address, and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "notes_tr": "Gmail'in yanındaki çöp kutusunu tıklayın, yeni e-posta adresinizi girin ve doğrulama e-postasını onaylayın",
         "domains": [
             "gmail.com",
@@ -7229,7 +7229,7 @@
         "name": "Google One",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to Google One and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\"⮕Google</a⮕.",
+        "notes": "Click the trash can next to Google One and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "domains": [
             "one.google.com"
         ]
@@ -7239,7 +7239,7 @@
         "name": "Google Pay",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to Google Pay and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\"⮕Google</a⮕.",
+        "notes": "Click the trash can next to Google Pay and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "domains": [
             "pay.google.com"
         ]
@@ -7529,7 +7529,7 @@
         "name": "Gule Sider (Norwegian Yellow Pages)",
         "url": "https://oppdater.gulesider.no/person",
         "difficulty": "impossible",
-        "notes": "In order to change your information on Gule Sider you'll have to find your profile by searching it in the search box from the link above, and sign in using BankID. You will be able to <b⮕edit</b⮕ your information. <b⮕You can't fully remove yourself (remove your name), but you can remove your address and phone number.</b⮕ Some people don't have BankID, for example minors. If you are a minor without BankID, try asking your parents for help. If you're an adult/teen without BankID you're probably screwed.  Their <a href=\"https://www.gulesider.no/hjelp/mine-opplysninger\"⮕help page</a⮕ about changing your details seems to be out of date.",
+        "notes": "In order to change your information on Gule Sider you'll have to find your profile by searching it in the search box from the link above, and sign in using BankID. You will be able to <b>edit</b> your information. <b>You can't fully remove yourself (remove your name), but you can remove your address and phone number.</b> Some people don't have BankID, for example minors. If you are a minor without BankID, try asking your parents for help. If you're an adult/teen without BankID you're probably screwed.  Their <a href=\"https://www.gulesider.no/hjelp/mine-opplysninger\">help page</a> about changing your details seems to be out of date.",
         "domains": [
             "gulesider.no",
             "oppdater.gulesider.no"
@@ -7683,9 +7683,9 @@
         "name": "Happy Scribe",
         "url": "https://www.happyscribe.co/users/edit",
         "difficulty": "easy",
-        "notes": "Go to \"Settings ⮕ Delete Account ⮕ Delete my account\".",
+        "notes": "Go to \"Settings > Delete Account > Delete my account\".",
         "notes_tr": "\"Ayarlar\" \"Hesabı Sil\" \"Hesabımı Sil\" tuşuna basın.",
-        "notes_pt_br": "Vá para \"Settings ⮕ Delete Account ⮕ Delete my account\".",
+        "notes_pt_br": "Vá para \"Settings > Delete Account > Delete my account\".",
         "domains": [
             "happyscribe.co"
         ]
@@ -8029,7 +8029,7 @@
         "name": "Hoop",
         "url": "https://hoop.photo/",
         "difficulty": "impossible",
-        "notes": "Navigate to 'Account' ⮕ 'gear icon' ⮕ 'delete account' ⮕ 'delete'. This will remove some of your account data, but not all. There is no way to remove all data, despite their privacy policy claiming it is.",
+        "notes": "Navigate to 'Account' > 'gear icon' > 'delete account' > 'delete'. This will remove some of your account data, but not all. There is no way to remove all data, despite their privacy policy claiming it is.",
         "domains": [
             "hoop.photo"
         ]
@@ -8062,9 +8062,9 @@
         "name": "Hot or Not",
         "url": "https://hotornot.com",
         "difficulty": "easy",
-        "notes": "Sign in to your account, go to the 'Account' options in your settings and delete your profile. See also <a href=\"https://hotornot.com/privacy/\"⮕'Can I deactivate or delete my Profile?'</a⮕",
+        "notes": "Sign in to your account, go to the 'Account' options in your settings and delete your profile. See also <a href=\"https://hotornot.com/privacy/\">'Can I deactivate or delete my Profile?'</a>",
         "notes_tr": "Hesabınızda oturum açın, ayarlarınızdaki \"Hesap\" seçeneklerine ve \"Profilinizi silin\" seçeneğine gidin. Ayrıca aşağıdaki makaleye bakın.",
-        "notes_fr": "Connectez-vous, allez dans les paramatres du compte et supprimez votre profil. Voyez aussi l'article <a href=\"https://hotornot.com/privacy/\"⮕« Can I deactivate or delete my Profile? »</a⮕",
+        "notes_fr": "Connectez-vous, allez dans les paramatres du compte et supprimez votre profil. Voyez aussi l'article <a href=\"https://hotornot.com/privacy/\">« Can I deactivate or delete my Profile? »</a>",
         "domains": [
             "hotornot.com"
         ]
@@ -8095,7 +8095,7 @@
         "name": "Houzz",
         "url": "https://help.houzz.com/s/article/How-do-I-delete-my-account",
         "difficulty": "hard",
-        "notes": "Your Houzz ⮕ Edit Profile and Settings ⮕ Advanced Settings ⮕ Deactivate Houzz Account (at the bottom of the page)",
+        "notes": "Your Houzz > Edit Profile and Settings > Advanced Settings > Deactivate Houzz Account (at the bottom of the page)",
         "email": "EUprivacy@houzz.com",
         "domains": [
             "houzz.com",
@@ -8119,7 +8119,7 @@
         "name": "HowLongToBeat",
         "url": "https://howlongtobeat.com/",
         "difficulty": "easy",
-        "notes": "Go to 'My Account' ⮕ 'Options', click 'Delete Profile & Data' and confirm.",
+        "notes": "Go to 'My Account' > 'Options', click 'Delete Profile & Data' and confirm.",
         "domains": [
             "howlongtobeat.com"
         ]
@@ -8140,8 +8140,8 @@
         "name": "HP",
         "url": "https://www8.hp.com/us/en/privacy/ww-privacy-form.html",
         "difficulty": "hard",
-        "notes": "Select language ⮕ Fill submission ⮕ Submit",
-        "notes_tr": "Dil seçin ⮕ Gönderimi doldurun ⮕ Gönderin",
+        "notes": "Select language > Fill submission > Submit",
+        "notes_tr": "Dil seçin > Gönderimi doldurun > Gönderin",
         "domains": [
             "www8.hp.com",
             "hp.com"
@@ -8152,7 +8152,7 @@
         "name": "HRK Game",
         "url": "https://www.hrkgame.com/en/account/settings/privacy",
         "difficulty": "easy",
-        "notes": "Delete Account ⮕ proceed ⮕ confirm ⮕ enter password and click ok.",
+        "notes": "Delete Account > proceed > confirm > enter password and click ok.",
         "domains": [
             "hrkgame.com"
         ]
@@ -8203,7 +8203,7 @@
         "name": "Humble Bundle",
         "url": "https://dsar.humblebundle.com",
         "difficulty": "medium",
-        "notes": "The easiest method is to submit a Data Subject Access Request at their <a href=\"https://dsar.humblebundle.com/\"⮕DSAR Privacy Portal</a⮕ to request account deletion. Alternatively, you can also <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\"⮕submit a support request</a⮕ for account deletion. In the linked page under \"What can we help you with?\" select \"Humble Bundle Account\" ⮕ \"Delete Account\", fill in your email, enter \"Account deletion\" as subject, add your honest reason for account deletion in the message, and submit. Someone from support should contact you and guide you further.",
+        "notes": "The easiest method is to submit a Data Subject Access Request at their <a href=\"https://dsar.humblebundle.com/\">DSAR Privacy Portal</a> to request account deletion. Alternatively, you can also <a href=\"https://support.humblebundle.com/hc/en-us/requests/new\">submit a support request</a> for account deletion. In the linked page under \"What can we help you with?\" select \"Humble Bundle Account\" > \"Delete Account\", fill in your email, enter \"Account deletion\" as subject, add your honest reason for account deletion in the message, and submit. Someone from support should contact you and guide you further.",
         "domains": [
             "humblebundle.com",
             "dsar.humblebundle.com"
@@ -8694,7 +8694,7 @@
         "name": "IO Interactive",
         "url": "https://account.ioi.dk/",
         "difficulty": "easy",
-        "notes": "Go to the deletion URL, 'login' ⮕ 'account settings' ⮕ 'delete account'.",
+        "notes": "Go to the deletion URL, 'login' > 'account settings' > 'delete account'.",
         "domains": [
             "ioi.dk"
         ]
@@ -10240,7 +10240,7 @@
         "name": "Mastodon.social",
         "url": "https://mastodon.social/settings/delete",
         "difficulty": "easy",
-        "notes": "Login ⮕ Account Settings ⮕ Security ⮕ Delete Account",
+        "notes": "Login ⮕ Account Settings ⮕ Security > Delete Account",
         "notes_tr": "Giriş yapın, \"Hesap Ayarları\" \"Güvenlik\" \"Hesabı Sil\" tuşuna tıklayın",
         "domains": [
             "mastodon.social"
@@ -10252,7 +10252,7 @@
         "meta": "popular",
         "url": "https://help.match.com/hc/en-us/articles/5610035266075-Delete-My-Account",
         "difficulty": "medium",
-        "notes": "Only possible within the mobile app, otherwise can only be done via <a href='https://help.match.com/hc/en-us/requests/new'⮕contacting support</a⮕.",
+        "notes": "Only possible within the mobile app, otherwise can only be done via <a href='https://help.match.com/hc/en-us/requests/new'>contacting support</a>.",
         "domains": [
             "match.com",
             "help.match.com"
@@ -10286,9 +10286,9 @@
         "name": "Maxdome",
         "url": "https://faq.maxdome.de/frage/mxdallgemein/mxdalleszu/was-ist-maxdome/wo-finde-ich-den-live-chat-von-maxdome",
         "difficulty": "hard",
-        "notes": "Contact support via the live chat and request the deletion of your account. This is also possible via the <a href=\"https://faq.maxdome.de/kontakt\"⮕contact form</a⮕, though it could take longer.",
+        "notes": "Contact support via the live chat and request the deletion of your account. This is also possible via the <a href=\"https://faq.maxdome.de/kontakt\">contact form</a>, though it could take longer.",
         "notes_tr": "Canlı sohbet yoluyla desteğe başvurun ve hesabınızın silinmesini isteyin. Bu, daha uzun sürebilmesine rağmen iletişim formu aracılığıyla da mümkündür.",
-        "notes_de": "Kontaktiere den Support über den Live Chat und fordere die Löschung deines Kontos. Dies ist auch über das <a href=\"https://faq.maxdome.de/kontakt\"⮕Kontaktformular</a⮕ möglich, dauert aber ggf. länger.",
+        "notes_de": "Kontaktiere den Support über den Live Chat und fordere die Löschung deines Kontos. Dies ist auch über das <a href=\"https://faq.maxdome.de/kontakt\">Kontaktformular</a> möglich, dauert aber ggf. länger.",
         "domains": [
             "maxdome.de",
             "faq.maxdome.de"
@@ -10388,7 +10388,7 @@
         "difficulty": "hard",
         "notes": "No information is clearly provided how to delete account. You have to send an email to explicitly ask for deletion of every information related to your account otherwise they will only disable it.",
         "notes_tr": "Hesabın nasıl silineceği açıkça belirtilmemiştir. Hesabınızla ilgili her bilginin silinmesini açıkça istemek için bir e-posta göndermelisiniz, aksi takdirde yalnızca devre dışı bırakırlar.",
-        "notes_fr": "Il faut envoyer un mail et demander la suppression définitive de toute information liée au compte, sinon ils vont uniquement le désactiver(ex: les données bancaires demeurent). Conseil: Invoquer la CNIL (<a href\"https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet\"⮕https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet</a⮕).",
+        "notes_fr": "Il faut envoyer un mail et demander la suppression définitive de toute information liée au compte, sinon ils vont uniquement le désactiver(ex: les données bancaires demeurent). Conseil: Invoquer la CNIL (<a href\"https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet\">https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet</a>).",
         "domains": [
             "mediapart.fr"
         ]
@@ -10490,8 +10490,8 @@
         "name": "Mercado Libre Argentina",
         "url": "https://myaccount.mercadolibre.com.ar/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.ar",
             "myaccount.mercadolibre.com.ar",
@@ -10503,8 +10503,8 @@
         "name": "Mercado Libre Bolivia",
         "url": "https://myaccount.mercadolibre.com.bo/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.bo"
         ]
@@ -10514,8 +10514,8 @@
         "name": "Mercado Libre Chile",
         "url": "https://myaccount.mercadolibre.cl/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.cl",
             "mercadopago.cl"
@@ -10526,8 +10526,8 @@
         "name": "Mercado Libre Colombia",
         "url": "https://myaccount.mercadolibre.com.co/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.co",
             "mercadopago.com.co"
@@ -10538,8 +10538,8 @@
         "name": "Mercado Libre Costa Rica",
         "url": "https://myaccount.mercadolibre.co.cr/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.co.cr"
         ]
@@ -10549,8 +10549,8 @@
         "name": "Mercado Libre Ecuador",
         "url": "https://myaccount.mercadolibre.com.ec/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.ec"
         ]
@@ -10560,8 +10560,8 @@
         "name": "Mercado Libre El Salvador",
         "url": "https://myaccount.mercadolibre.com.sv/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.sv"
         ]
@@ -10571,8 +10571,8 @@
         "name": "Mercado Libre Guatemala",
         "url": "https://myaccount.mercadolibre.com.gt/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.gt"
         ]
@@ -10582,8 +10582,8 @@
         "name": "Mercado Libre Honduras",
         "url": "https://myaccount.mercadolibre.com.hn/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.hn"
         ]
@@ -10593,8 +10593,8 @@
         "name": "Mercado Libre México",
         "url": "https://myaccount.mercadolibre.com.mx/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.mx",
             "mercadopago.com.mx"
@@ -10605,8 +10605,8 @@
         "name": "Mercado Libre Nicaragua",
         "url": "https://myaccount.mercadolibre.com.ni/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.ni"
         ]
@@ -10616,8 +10616,8 @@
         "name": "Mercado Libre Panamá",
         "url": "https://myaccount.mercadolibre.com.pa/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.pa"
         ]
@@ -10627,8 +10627,8 @@
         "name": "Mercado Libre Paraguay",
         "url": "https://myaccount.mercadolibre.com.py/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.py"
         ]
@@ -10638,8 +10638,8 @@
         "name": "Mercado Libre Perú",
         "url": "https://myaccount.mercadolibre.com.pe/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.pe",
             "mercadopago.com.pe"
@@ -10650,8 +10650,8 @@
         "name": "Mercado Libre República Dominicana",
         "url": "https://myaccount.mercadolibre.com.do/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes.",
         "domains": [
             "mercadolibre.com.do"
         ]
@@ -10661,8 +10661,8 @@
         "name": "Mercado Libre Uruguay",
         "url": "https://myaccount.mercadolibre.com.uy/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.uy",
             "mercadopago.com.uy"
@@ -10673,8 +10673,8 @@
         "name": "Mercado Libre Venezuela",
         "url": "https://myaccount.mercadolibre.com.ve/cancelar-cuenta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estoy de acuerdo\", and confirm your action by clinking \"Aceptar\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Libre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Libre account, your Mercado Pago account will be deleted too.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estoy de acuerdo\" e clique em \"Aceptar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Libre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Libre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolibre.com.ve",
             "mercadopago.com.ve"
@@ -10685,8 +10685,8 @@
         "name": "Mercado Livre Brasil",
         "url": "https://myaccount.mercadolivre.com.br/cancelar-conta",
         "difficulty": "medium",
-        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estou de acordo\", and confirm your action by clinking \"Aceito\".<br⮕<br⮕<strong⮕Warning:</strong⮕ You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Livre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Livre account, your Mercado Pago account will be deleted too.",
-        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estou de acordo\" e clique em \"Aceitar\".<br⮕<br⮕<strong⮕Aviso:</strong⮕ Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Livre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Livre, sua conta do Mercado Pago também será excluída.",
+        "notes": "To cancel/delete your account, access the account deletion link specified above and log in to your account. In the options, select a reason why you want to cancel your account, click in the checkbox \"Estou de acordo\", and confirm your action by clinking \"Aceito\".<br><br><strong>Warning:</strong> You may cancel your account only if there is no limitation, partial and/or total blockage applied to it. You will also be unable to cancel your account if you have outstanding payments and/or purchases. Mercado Livre and Mercado Pago are services associated with the same type of account. If you choose to delete your Mercado Livre account, your Mercado Pago account will be deleted too.",
+        "notes_pt_br": "Para cancelar/excluir sua conta, acesse o link de exclusão especificado acima e faça login em sua conta. Nos opções de exclusão, selecione um motivo pelo qual você quer cancelar sua conta, marque a opção \"Estou de acordo\" e clique em \"Aceitar\".<br><br><strong>Aviso:</strong> Você poderá cancelar sua conta apenas se não houver nenhuma limitação, bloqueio parcial e/ou total aplicado aplicado à ela. Você também não poderá cancelar sua conta caso você tenha pagamentos e/ou compras pendentes. O Mercado Livre e o Mercado Pago são serviços associados ao mesmo tipo de conta, se você optar por excluir sua conta do Mercado Livre, sua conta do Mercado Pago também será excluída.",
         "domains": [
             "mercadolivre.com.br",
             "mercadopago.com.br",
@@ -10836,7 +10836,7 @@
     {
         "name": "Minecraft",
         "url": "https://help.minecraft.net/hc/en-us/requests/new",
-        "notes": "On this page, chose the dropdown boxes that apply. Preferably use the email address that the account is associated with. You will be required to supply the transaction ID for the purchase of the account, or any other valid proof-of-purchase. If you have migrated to a Microsoft account, visit <a href='https://support.xbox.com/contact-us'⮕Xbox Support</a⮕, sign in, and start a session with the virtual agent. Specify that your minecraft profile is linked to your microsoft account, and that you wish for it to be deleted. Alternatively, if you do not use your Microsoft account for anything else, you can <a href='https://account.live.com/closeaccount.aspx'⮕delete it</a⮕ entirely.",
+        "notes": "On this page, chose the dropdown boxes that apply. Preferably use the email address that the account is associated with. You will be required to supply the transaction ID for the purchase of the account, or any other valid proof-of-purchase. If you have migrated to a Microsoft account, visit <a href='https://support.xbox.com/contact-us'>Xbox Support</a>, sign in, and start a session with the virtual agent. Specify that your minecraft profile is linked to your microsoft account, and that you wish for it to be deleted. Alternatively, if you do not use your Microsoft account for anything else, you can <a href='https://account.live.com/closeaccount.aspx'>delete it</a> entirely.",
         "difficulty": "hard",
         "domains": [
             "minecraft.net",
@@ -10882,7 +10882,7 @@
         "name": "mintos.com",
         "url": "https://help.mintos.com/hc/en-us/requests/new?ticket_form_id=1900000292453",
         "difficulty": "hard",
-        "notes": "Before requesting account deletion, make sure you wait for the remaining payments to come through, and withdraw all available funds. The account balance must be 0. Then you can either use a <a href=\"https://help.mintos.com/hc/en-us/requests/new?ticket_form_id=1900000292453\"⮕request form</a⮕ or send an email to support directly.",
+        "notes": "Before requesting account deletion, make sure you wait for the remaining payments to come through, and withdraw all available funds. The account balance must be 0. Then you can either use a <a href=\"https://help.mintos.com/hc/en-us/requests/new?ticket_form_id=1900000292453\">request form</a> or send an email to support directly.",
         "email": "support@mintos.com",
         "email_subject": "Request to delete my account from Mintos",
         "email_body": "I have an account in your database associated with the email address XXXXXX (investor id: XXXXXX). I have decided not to use the account again; therefore, I request that you kindly delete my account from your database and delete all the associated data.",
@@ -11015,7 +11015,7 @@
         "name": "Money Dashboard",
         "url": "https://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
-        "notes": "If you wish to delete your account and its belonging data and bank accounts held within it, you have to submit a request to the user support (or send an e-mail to support@moneydashboard.com). Make it clear that you require the full deletion of your account, not simply the deletion of one of your bank accounts. If you only want to delete/remove a bank account, but keep your Money Dashboard account open, please visit <a href=\"https://help.moneydashboard.com/entries/21936798\"⮕https://help.moneydashboard.com/entries/21936798</a⮕",
+        "notes": "If you wish to delete your account and its belonging data and bank accounts held within it, you have to submit a request to the user support (or send an e-mail to support@moneydashboard.com). Make it clear that you require the full deletion of your account, not simply the deletion of one of your bank accounts. If you only want to delete/remove a bank account, but keep your Money Dashboard account open, please visit <a href=\"https://help.moneydashboard.com/entries/21936798\">https://help.moneydashboard.com/entries/21936798</a>",
         "notes_tr": "Hesabınızı ve ona ait verileri ve içinde tutulan banka hesaplarını silmek isterseniz, kullanıcı desteğine bir talep göndermeniz (veya bir e-posta göndermeniz) gerekir. Yalnızca banka hesaplarınızdan birinin silinmesini değil, hesabınızın tamamen silinmesini istediğinizi açıkça belirtin. Yalnızca bir banka hesabını silmek / kaldırmak, ancak Money Dashboard hesabınızı açık tutmak istiyorsanız, lütfen banka hesabını silme bağlantısını ziyaret edin.",
         "email": "support@moneydashboard.com",
         "domains": [
@@ -11149,9 +11149,9 @@
         "name": "Mozilla Developer Network (MDN)",
         "url": "https://bugzilla.mozilla.org/enter_bug.cgi?product=developer.mozilla.org",
         "difficulty": "hard",
-        "notes": "Log in to Bugzilla and create a bug report to request the deletion of your account (see examples: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\"⮕#1576401</a⮕ and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345\"⮕#1353345</a⮕).</br⮕</br⮕If you have made contributions to the MDN Web Docs, you will also need to specify what you would like to happen with them after deleting your account.",
+        "notes": "Log in to Bugzilla and create a bug report to request the deletion of your account (see examples: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345\">#1353345</a>).</br></br>If you have made contributions to the MDN Web Docs, you will also need to specify what you would like to happen with them after deleting your account.",
         "notes_tr": "Bugzilla'da oturum açın ve hesabınızın silinmesini istemek için bir hata raporu oluşturun, aşağıdaki örneklere bakın. MDN Web Belgelerine katkıda bulunduysanız, hesabınızı sildikten sonra bunlara ne olmasını istediğinizi de belirtmeniz gerekecektir.",
-        "notes_pt_br": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\"⮕#1576401</a⮕ e <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345\"⮕#1353345</a⮕)</br⮕</br⮕Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
+        "notes_pt_br": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> e <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345\">#1353345</a>)</br></br>Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
         "domains": [
             "bugzilla.mozilla.org",
             "developer.mozilla.org"
@@ -11183,9 +11183,9 @@
         "name": "MultCloud",
         "url": "https://www.multcloud.com/",
         "difficulty": "easy",
-        "notes": "Login to your account, click in the account icon ⮕ Settings ⮕ Delete Account and write the password and a note (optionally).",
-        "notes_pt_br": "Ao se logar, clique no ícone da conta ⮕ Settings ⮕ Delete Account e digite a senha e uma observação (este último não é obrigatório).",
-        "notes_pt_pt": "Ao se logar, clique no ícone da conta ⮕ Settings ⮕ Delete Account e digite a senha e uma observação (este último não é obrigatório).",
+        "notes": "Login to your account, click in the account icon > Settings > Delete Account and write the password and a note (optionally).",
+        "notes_pt_br": "Ao se logar, clique no ícone da conta > Settings > Delete Account e digite a senha e uma observação (este último não é obrigatório).",
+        "notes_pt_pt": "Ao se logar, clique no ícone da conta > Settings > Delete Account e digite a senha e uma observação (este último não é obrigatório).",
         "domains": [
             "multcloud.com"
         ]
@@ -11284,9 +11284,9 @@
         "name": "MyAnimeList",
         "url": "https://myanimelist.net/account_deletion",
         "difficulty": "hard",
-        "notes": "Enter your email address in the \"Enter your registered email address\" field and click \"Confirmation\" to request the deletion of your account. After that, confirm your request by clicking on the confirmation link that will be sent to you by email.<br⮕<br⮕If your account has been banned for any reason or you are an MAL Supporter, request the deletion of your account through <a href=\"https://myanimelist.net/about.php?go=contact\"⮕this</a⮕ contact form instead of using the method explained above.",
-        "notes_tr": "E-posta adresinizi \"Kayıtlı e-posta adresinizi girin\" alanına girin ve hesabınızın silinmesini istemek için \"Onay\" tuşuna tıklayın. Bundan sonra, size e-posta ile gönderilecek olan onay bağlantısına tıklayarak talebinizi onaylayın.<br⮕<br⮕Hesabınız herhangi bir nedenle yasaklandıysa veya MAL Destekçisiyseniz, hesabınızın silinmesini şu adresten talep edin: Yukarıda açıklanan yöntemi kullanmak yerine <a href=\"https://myanimelist.net/about.php?go=contact\"⮕bu iletişim formunu kullanın.</a⮕",
-        "notes_pt_br": "Insira seu endereço de e-mail no campo \"Enter your registered email address\" e clique em \"Confirmation\" para solicitar a exclusão da sua conta. Após isso, confirme sua solicitação clicando no link de confirmação que será lhe enviado via e-mail.<br⮕<br⮕Caso sua conta tenha sido banida por algum motivo ou então você seja um MAL Supporter, solicite a exclusão da sua conta através <a href=\"https://myanimelist.net/about.php?go=contact\"⮕deste</a⮕ formulário de contato em vez de usar o método explicado acima.",
+        "notes": "Enter your email address in the \"Enter your registered email address\" field and click \"Confirmation\" to request the deletion of your account. After that, confirm your request by clicking on the confirmation link that will be sent to you by email.<br><br>If your account has been banned for any reason or you are an MAL Supporter, request the deletion of your account through <a href=\"https://myanimelist.net/about.php?go=contact\">this</a> contact form instead of using the method explained above.",
+        "notes_tr": "E-posta adresinizi \"Kayıtlı e-posta adresinizi girin\" alanına girin ve hesabınızın silinmesini istemek için \"Onay\" tuşuna tıklayın. Bundan sonra, size e-posta ile gönderilecek olan onay bağlantısına tıklayarak talebinizi onaylayın.<br><br>Hesabınız herhangi bir nedenle yasaklandıysa veya MAL Destekçisiyseniz, hesabınızın silinmesini şu adresten talep edin: Yukarıda açıklanan yöntemi kullanmak yerine <a href=\"https://myanimelist.net/about.php?go=contact\">bu iletişim formunu kullanın.</a>",
+        "notes_pt_br": "Insira seu endereço de e-mail no campo \"Enter your registered email address\" e clique em \"Confirmation\" para solicitar a exclusão da sua conta. Após isso, confirme sua solicitação clicando no link de confirmação que será lhe enviado via e-mail.<br><br>Caso sua conta tenha sido banida por algum motivo ou então você seja um MAL Supporter, solicite a exclusão da sua conta através <a href=\"https://myanimelist.net/about.php?go=contact\">deste</a> formulário de contato em vez de usar o método explicado acima.",
         "domains": [
             "myanimelist.net"
         ]
@@ -11596,7 +11596,7 @@
         "name": "New Relic",
         "url": "https://docs.newrelic.com/docs/accounts/accounts-billing/account-setup/downgradecancel-account/#cancel-simple-org",
         "difficulty": "easy",
-        "notes": "From the New Relic menu bar, select (account) ⮕ Upgrade subscription ⮕ Cancel account. Select the confirmation prompt.",
+        "notes": "From the New Relic menu bar, select (account) > Upgrade subscription > Cancel account. Select the confirmation prompt.",
         "notes_tr": "New Relic menü çubuğundan, \"Hesap\" \"Aboneliği Yükselt\" \"Hesabı İptal Et\" tuşuna tıklayın. Ardından onaylayın.",
         "domains": [
             "newrelic.com",
@@ -11665,7 +11665,7 @@
         "name": "Nexo",
         "url": "https://platform.nexo.io/security/close-account",
         "difficulty": "easy",
-        "notes": "Login to your account, go to 'Account ⮕ Security' and enable 2FA. Go to the URL and then close your account.",
+        "notes": "Login to your account, go to 'Account > Security' and enable 2FA. Go to the URL and then close your account.",
         "domains": [
             "nexo.io",
             "platform.nexo.io"
@@ -11926,7 +11926,7 @@
         "name": "NOW TV",
         "url": "https://help.nowtv.com/contact-us/how-do-i-cancel-now-tv",
         "difficulty": "impossible",
-        "notes": "You must first cancel any active passes under 'My Account' ⮕ 'My Passes'. After this, you can contact the live chat and ask for your billing information to be removed. Your account must remain inactive for an indeterminate amount of time before the remaining data will be removed 'in accordance with our group data retention and deletion policies'.",
+        "notes": "You must first cancel any active passes under 'My Account' > 'My Passes'. After this, you can contact the live chat and ask for your billing information to be removed. Your account must remain inactive for an indeterminate amount of time before the remaining data will be removed 'in accordance with our group data retention and deletion policies'.",
         "notes_tr": "Öncelikle \"Hesabım\" \"Geçişlerim\" sayfası altından tüm aktif abonelikleri iptal etmelisiniz. Bundan sonra, canlı sohbete başvurabilir ve ödeme bilgilerinizin kaldırılmasını isteyebilirsiniz. Geri kalan veriler ise 'toplu veri saklama ve silme politikalarımıza uygun olması için' kaldırılmadan önce hesabınız belirsiz bir süre boyunca pasif kalmalıdır.",
         "domains": [
             "nowtv.com",
@@ -12767,8 +12767,8 @@
         "name": "pCloud",
         "url": "https://my.pcloud.com/#page=settings&settings=tab-account",
         "difficulty": "medium",
-        "notes": "Go to Settings ⮕ Account ⮕ Delete Your Account and confirm the e-mail. The data will be deleted within three months.",
-        "notes_it": "Vai su Impostazioni ⮕ Account ⮕ Elimina Account e conferma l'e-mail. I dati saranno cancellati entro tre mesi.",
+        "notes": "Go to Settings > Account > Delete Your Account and confirm the e-mail. The data will be deleted within three months.",
+        "notes_it": "Vai su Impostazioni > Account > Elimina Account e conferma l'e-mail. I dati saranno cancellati entro tre mesi.",
         "domains": [
             "pcloud.com",
             "my.pcloud.com",
@@ -12867,7 +12867,7 @@
         "name": "peopleperhour",
         "url": "https://www.peopleperhour.com/settings/general",
         "difficulty": "medium",
-        "notes": "Profile ⮕ settings ⮕ account ⮕ edit ⮕ select a reason ⮕ deactivate",
+        "notes": "Profile > settings > account > edit > select a reason > deactivate",
         "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesap\" \"Düzenle\" \"Sebep seçin\" \"Devre dışı bırak\"",
         "domains": [
             "peopleperhour.com"
@@ -12961,7 +12961,7 @@
         "name": "Photobucket",
         "url": "https://support.photobucket.com/hc/en-us/articles/360039780614",
         "difficulty": "hard",
-        "notes": "To delete your account, you must <a href=\"https://support.photobucket.com/hc/en-us/requests/new\"⮕open a support ticket</a⮕ and provide your username, email address, full name, dob, the postal code and country from where you registered for verification. According to Photobucket, account deletion takes up to 30 days, and your old pictures cannot be recovered from deleted accounts as they will be completely erased from their servers.",
+        "notes": "To delete your account, you must <a href=\"https://support.photobucket.com/hc/en-us/requests/new\">open a support ticket</a> and provide your username, email address, full name, dob, the postal code and country from where you registered for verification. According to Photobucket, account deletion takes up to 30 days, and your old pictures cannot be recovered from deleted accounts as they will be completely erased from their servers.",
         "domains": [
             "photobucket.com",
             "support.photobucket.com"
@@ -13750,7 +13750,7 @@
         "name": "Python Package Index (PyPI)",
         "url": "https://pypi.org/manage/account/",
         "difficulty": "medium",
-        "notes": "Go to \"Delete account ⮕ Delete your PyPI account\". Projects that you are the sole of owner of will be needed to have their ownership transferred to another user or to be deleted before being able to proceed.",
+        "notes": "Go to \"Delete account > Delete your PyPI account\". Projects that you are the sole of owner of will be needed to have their ownership transferred to another user or to be deleted before being able to proceed.",
         "domains": [
             "pypi.org"
         ]
@@ -14117,7 +14117,7 @@
         "url": "https://www.redacteur.com/identities/edit",
         "difficulty": "easy",
         "notes": "Login to your account. Click on \"My Account\" then \"My connection information\". Finally click \"Delete my account\"",
-        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte ⮕ Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
+        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte > Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
         "domains": [
             "redacteur.com"
         ]
@@ -14194,7 +14194,7 @@
         "name": "RedShelf",
         "url": "https://solve.redshelf.com/hc/requests/new?ticket_form_id=1260804993770",
         "difficulty": "hard",
-        "notes": "Brytewave users should <a href='https://www.follett.com/policies/'⮕submit a DSAR request to Follett</a⮕.",
+        "notes": "Brytewave users should <a href='https://www.follett.com/policies/'>submit a DSAR request to Follett</a>.",
         "domains": [
             "redshelf.com",
             "solve.redshelf.com"
@@ -14298,7 +14298,7 @@
         "name": "Reservio",
         "url": "https://app.reservio.com/#/business/settings",
         "difficulty": "medium",
-        "notes": "Go to the <b⮕Business</b⮕ tab ⮕ <b⮕Settings</b⮕. You will find the option for the deletion of your account at the bottom of this page.",
+        "notes": "Go to the <b>Business</b> tab ⮕ <b>Settings</b>. You will find the option for the deletion of your account at the bottom of this page.",
         "domains": [
             "reservio.com",
             "app.reservio.com"
@@ -14320,7 +14320,7 @@
         "name": "Resy",
         "url": "https://resy.com/terms",
         "difficulty": "hard",
-        "notes": "While self-deletion is possible through <a href='https://apps.apple.com/app/apple-store/id866163372'⮕their app</a⮕, it is iOS only. Everyone else must send an email.",
+        "notes": "While self-deletion is possible through <a href='https://apps.apple.com/app/apple-store/id866163372'>their app</a>, it is iOS only. Everyone else must send an email.",
         "email": "help@resy.com",
         "email_body": "Please delete my Resy account as I do not wish to use it any further.",
         "domains": [
@@ -14433,10 +14433,10 @@
         "name": "Riot Games",
         "url": "https://support-valorant.riotgames.com/hc/en-us/requests/new?ticket_form_id=360004036693",
         "difficulty": "easy",
-        "notes": "To delete your account, you need to open a support request from any game's support page. If your account is verified by the algorithm, you can use <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\"⮕self service option</a⮕.",
-        "notes_tr": "Hesabınızı silmek için her hangi bir oyunun destek sayfasından destek isteği açmanız gerekiyor. Hesabınız algoritma tarafından onaylandıysa, <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\"⮕kendiniz de silebilirsiniz</a⮕.",
-        "notes_fr": "Pour supprimer votre compte, vous devez ouvrir une demande d'assistance à partir de la page d'assistance de n'importe quel jeu. Si votre compte est vérifié par l'algorithme, vous pouvez utiliser <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\"⮕option de libre-service</a⮕",
-        "notes_ru": "Чтобы удалить свой аккаунт, необходимо открыть запрос в службу поддержки на странице поддержки любой игры. Если ваш аккаунт подтвержден алгоритмом, вы можете воспользоваться <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\"⮕вариантом самообслуживания</a⮕.",
+        "notes": "To delete your account, you need to open a support request from any game's support page. If your account is verified by the algorithm, you can use <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">self service option</a>.",
+        "notes_tr": "Hesabınızı silmek için her hangi bir oyunun destek sayfasından destek isteği açmanız gerekiyor. Hesabınız algoritma tarafından onaylandıysa, <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">kendiniz de silebilirsiniz</a>.",
+        "notes_fr": "Pour supprimer votre compte, vous devez ouvrir une demande d'assistance à partir de la page d'assistance de n'importe quel jeu. Si votre compte est vérifié par l'algorithme, vous pouvez utiliser <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">option de libre-service</a>",
+        "notes_ru": "Чтобы удалить свой аккаунт, необходимо открыть запрос в службу поддержки на странице поддержки любой игры. Если ваш аккаунт подтвержден алгоритмом, вы можете воспользоваться <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">вариантом самообслуживания</a>.",
         "domains": [
             "riotgames.com",
             "account.riotgames.com",
@@ -14457,7 +14457,7 @@
         "name": "RiseUp",
         "url": "https://account.riseup.net",
         "difficulty": "easy",
-        "notes": "Go to account.riseup.net ⮕ 'Login' ⮕ Press 'purge data' then press 'close account'. Finally, follow any instructions on screen.",
+        "notes": "Go to account.riseup.net > 'Login' > Press 'purge data' then press 'close account'. Finally, follow any instructions on screen.",
         "domains": [
             "riseup.net",
             "account.riseup.net"
@@ -14579,7 +14579,7 @@
         "name": "Rosetta Stone",
         "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/27aac3ab-c36e-4457-81d4-9773ba27887e/f1e6ce28-8f84-4cae-9bdd-bc40113d5ee0.html",
         "difficulty": "hard",
-        "notes": "Submit a personal data deletion request via the support site form using your registered email. Your data will be deleted after some time without any email confirmation. (Note: <a href=\"https://privacyportal-cdn.onetrust.com/dsarwebform/27aac3ab-c36e-4457-81d4-9773ba27887e/a4611d02-cd40-4c80-8efb-af97324e0cc4.html\"⮕California residents must use this form instead!</a⮕)",
+        "notes": "Submit a personal data deletion request via the support site form using your registered email. Your data will be deleted after some time without any email confirmation. (Note: <a href=\"https://privacyportal-cdn.onetrust.com/dsarwebform/27aac3ab-c36e-4457-81d4-9773ba27887e/a4611d02-cd40-4c80-8efb-af97324e0cc4.html\">California residents must use this form instead!</a>)",
         "notes_tr": "Kayıtlı e-postanızı kullanarak destek sitesi formu aracılığıyla kişisel veri silme talebi gönderin. Verileriniz, herhangi bir e-posta onayı olmadan bir süre sonra silinecektir. Not: Kaliforniya'da ikamet edenler başka bir form kullanmalıdır!",
         "domains": [
             "rosettastone.com"
@@ -14788,7 +14788,7 @@
         "name": "Scholly",
         "url": "https://search.myscholly.com/settings",
         "difficulty": "easy",
-        "notes": "Log in, go to the URL, open 'Account Details' ⮕ 'Delete Account', and press 'Yes' to confirm. Scholly will immediately log you out and your credentials will no longer work.",
+        "notes": "Log in, go to the URL, open 'Account Details' > 'Delete Account', and press 'Yes' to confirm. Scholly will immediately log you out and your credentials will no longer work.",
         "domains": [
             "myscholly.com",
             "search.myscholly.com"
@@ -15089,7 +15089,7 @@
         "name": "Shopee",
         "url": "https://www.sharelatex.com/user/settings",
         "difficulty": "medium",
-        "notes": "Tap Saya (me)⮕Akun Saya (My account)⮕Ajukan Penghapusan akun (Submit Account removal/Submit Account Deletion).",
+        "notes": "Tap Saya (me)>Akun Saya (My account)>Ajukan Penghapusan akun (Submit Account removal/Submit Account Deletion).",
         "notes_tr": "\"Ben\" \"Hesabım\" \"Hesap Silmeyi Gönder\" tuşuna tıklayın.",
         "domains": [
             "shopee.com"
@@ -15156,7 +15156,7 @@
         "name": "Shutterstock",
         "url": "https://www.shutterstock.com/account/profile",
         "difficulty": "easy",
-        "notes": "Go to your <a href='//www.shutterstock.com/account/profile'⮕account details</a⮕ and press <a href='//accounts.shutterstock.com/remove'⮕Delete my account</a⮕ and confirm.",
+        "notes": "Go to your <a href='//www.shutterstock.com/account/profile'>account details</a> and press <a href='//accounts.shutterstock.com/remove'>Delete my account</a> and confirm.",
         "domains": [
             "shutterstock.com",
             "accounts.shutterstock.com"
@@ -15180,7 +15180,7 @@
         "name": "Signal",
         "url": "https://support.signal.org/hc/en-us/articles/360007061192-Delete-Account",
         "difficulty": "easy",
-        "notes": "In Signal, tap your 'profile' ⮕ 'Account' ⮕ 'Delete account'. And Enter your Signal number, Tap 'Delete account'.",
+        "notes": "In Signal, tap your 'profile' > 'Account' > 'Delete account'. And Enter your Signal number, Tap 'Delete account'.",
         "domains": [
             "signal.org",
             "support.signal.org"
@@ -15213,7 +15213,7 @@
         "name": "SimpleLogin",
         "url": "https://app.simplelogin.io/dashboard/setting",
         "difficulty": "easy",
-        "notes": "Go to \"Delete Account ⮕ Yes, delete my account\".",
+        "notes": "Go to \"Delete Account > Yes, delete my account\".",
         "notes_tr": "\"Hesabı Sil\" \"Evet, hesabımı sil\" tuşuna basın.",
         "domains": [
             "simplelogin.io",
@@ -15237,7 +15237,7 @@
         "name": "SimplePlanes",
         "url": "https://www.simpleplanes.com/Account/DeleteAccount",
         "difficulty": "easy",
-        "notes": "Login to your account, open your profile page and follow these steps: click 'Manage Account' ⮕ click 'Close Account' ⮕ click 'OK' ⮕ type 'CLOSE' ⮕ click 'CLOSE' ⮕ click 'OK'. Using the link from here also skips every step before \"type 'CLOSE'\".",
+        "notes": "Login to your account, open your profile page and follow these steps: click 'Manage Account' > click 'Close Account' > click 'OK' > type 'CLOSE' > click 'CLOSE' > click 'OK'. Using the link from here also skips every step before \"type 'CLOSE'\".",
         "domains": [
             "simpleplanes.com"
         ]
@@ -15299,7 +15299,7 @@
         "meta": "popular",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
         "difficulty": "impossible",
-        "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.\nIf you want to delete your entire Microsoft account, use the instructions for <a  href=\"https://justdeleteme.xyz/#microsoft\"⮕Microsoft Account</a⮕.",
+        "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.\nIf you want to delete your entire Microsoft account, use the instructions for <a  href=\"https://justdeleteme.xyz/#microsoft\">Microsoft Account</a>.",
         "domains": [
             "skype.com",
             "support.skype.com"
@@ -15310,7 +15310,7 @@
         "name": "SkySilk",
         "url": "https://help.skysilk.com/support/solutions/articles/9000106317-how-do-i-deactivate-my-account-",
         "difficulty": "limited",
-        "notes": "Once you <a href='https://www.skysilk.com/settings/deactivation'⮕deactivate your account</a⮕ you can request a GDPR delete by submitting the request in a <a href='https://help.skysilk.com/support/tickets/new'⮕support ticket</a⮕. A GDPR delete will erase 100% of your personal information that you provided when you created an account with them.",
+        "notes": "Once you <a href='https://www.skysilk.com/settings/deactivation'>deactivate your account</a> you can request a GDPR delete by submitting the request in a <a href='https://help.skysilk.com/support/tickets/new'>support ticket</a>. A GDPR delete will erase 100% of your personal information that you provided when you created an account with them.",
         "domains": [
             "skysilk.com"
         ]
@@ -15505,7 +15505,7 @@
         "name": "SoloLearn",
         "url": "https://www.sololearn.com",
         "difficulty": "easy",
-        "notes": "Go to Profile ⮕ Settings ⮕ Delete account",
+        "notes": "Go to Profile > Settings > Delete account",
         "domains": [
             "sololearn.com"
         ]
@@ -15776,7 +15776,7 @@
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "https://stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
-        "notes": "You can delete using the provided link, but then you have to <a href=\"https://stackoverflow.com/legal/gdpr/request\"⮕submit an Erase my account request</a⮕ to have the profile fully deleted and the data removed or anonymized in the network.",
+        "notes": "You can delete using the provided link, but then you have to <a href=\"https://stackoverflow.com/legal/gdpr/request\">submit an Erase my account request</a> to have the profile fully deleted and the data removed or anonymized in the network.",
         "domains": [
             "stackoverflow.blog",
             "stackoverflow.co",
@@ -15944,7 +15944,7 @@
         "name": "Storenvy",
         "url": "https://www.storenvy.com/account",
         "difficulty": "easy",
-        "notes": "Log in, then navigate to 'Account Settings' ⮕ 'Profile'. Scroll to the bottom and click 'Delete my Storenvy store & account'. Click 'OK' when prompted to confirm.",
+        "notes": "Log in, then navigate to 'Account Settings' > 'Profile'. Scroll to the bottom and click 'Delete my Storenvy store & account'. Click 'OK' when prompted to confirm.",
         "notes_tr": "Giriş yapın, ardından \"Hesap Ayarları\" \"Profil\" sayfasına gidin. Alta doğru ilerleyin ve \"Storenvy mağazamı & hesabımı kapat\" seçeneğini tıklayın. Onaylamanız istendiğinde \"Tamam\" seçeneğini tıklayın.",
         "domains": [
             "storenvy.com"
@@ -16197,7 +16197,7 @@
         "name": "Swiggy",
         "url": "https://swiggy.com",
         "difficulty": "impossible",
-        "notes": "Despite their <a href=\"https://www.swiggy.com/privacy-policy\" target=\"_blank\"⮕privacy policy</a⮕ stating that account deletion is possible, their response to such a request was that \"there is no way to delete/erase your order history, and personal information.\"",
+        "notes": "Despite their <a href=\"https://www.swiggy.com/privacy-policy\" target=\"_blank\">privacy policy</a> stating that account deletion is possible, their response to such a request was that \"there is no way to delete/erase your order history, and personal information.\"",
         "domains": [
             "swiggy.com",
             "swiggy.in"
@@ -16409,7 +16409,7 @@
         "name": "TeamGantt",
         "url": "https://app.teamgantt.com/admin/account-settings",
         "difficulty": "easy",
-        "notes": "Go to Account Settings ⮕ Subscription ⮕ Cancel. Click 'Cancel my subscription and delete my data'",
+        "notes": "Go to Account Settings > Subscription > Cancel. Click 'Cancel my subscription and delete my data'",
         "notes_tr": "\"Hesap Ayarları\" \"Abonelik\" \"İptal\" \"Aboneliğimi iptal et ve verilerimi sil\" tuşuna tıklayın",
         "domains": [
             "teamgantt.com",
@@ -16474,7 +16474,7 @@
         "name": "TED",
         "url": "https://support.ted.com/hc/en-us/articles/360005310614-TED-Ed-Accounts-and-managing-students",
         "difficulty": "hard",
-        "notes": "Contact the TED support team <a href=\"https://support.ted.com/customer/portal/emails/new\"⮕via their online contact form</a⮕ for account deletion requests",
+        "notes": "Contact the TED support team <a href=\"https://support.ted.com/customer/portal/emails/new\">via their online contact form</a> for account deletion requests",
         "notes_tr": "Hesap silme talepleri için TED destek ekibiyle iletişime geçin",
         "domains": [
             "ted.com",
@@ -16569,7 +16569,7 @@
         "name": "Terms of Service; Didn't Read",
         "url": "https://edit.tosdr.org/users/edit",
         "difficulty": "easy",
-        "notes": "Log-in, then go to Menu ⮕ Settings, scroll down and click 'Cancel my account'. Your contributions will stay and will be switched to an anonymous account.",
+        "notes": "Log-in, then go to Menu > Settings, scroll down and click 'Cancel my account'. Your contributions will stay and will be switched to an anonymous account.",
         "domains": [
             "status.tosdr.org",
             "forum.tosdr.org",
@@ -16646,7 +16646,7 @@
         "name": "Textures.com",
         "url": "https://www.textures.com/my-account/delete",
         "difficulty": "easy",
-        "notes": "If you want to permanently delete your Textures.com account, go to the <a href='https://www.textures.com/my-account/delete'⮕<b⮕Delete Account</b⮕ tab on your account</a⮕ fill out your password and press <b⮕Delete My Account</b⮕.",
+        "notes": "If you want to permanently delete your Textures.com account, go to the <a href='https://www.textures.com/my-account/delete'><b>Delete Account</b> tab on your account</a> fill out your password and press <b>Delete My Account</b>.",
         "domains": [
             "textures.com"
         ]
@@ -16710,9 +16710,9 @@
         "name": "Threema",
         "url": "https://myid.threema.ch/revoke",
         "difficulty": "easy",
-        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to <a href=\"https://myid.threema.ch/revoke\"⮕https://myid.threema.ch/unlink</a⮕ and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under <a href=\"https://myid.threema.ch/unlink\"⮕https://myid.threema.ch/unlink</a⮕.",
+        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to <a href=\"https://myid.threema.ch/revoke\">https://myid.threema.ch/unlink</a> and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under <a href=\"https://myid.threema.ch/unlink\">https://myid.threema.ch/unlink</a>.",
         "notes_tr": "Uygulamada kimliğinize gidin ve alttaki \"Kimliği Sil\" öğesini seçin. Alternatif olarak verilen bağlantıya gidin ve iptal etme şifrenizle kimliğinizi kaldırın. Telefon numaranız yoksa, yalnızca bu bağlantı altında telefon numaranız ve e-postanız arasındaki bağlantıyı kaldırabilirsiniz.",
-        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu <a href=\"https://myid.threema.ch/revoke\"⮕https://myid.threema.ch/unlink</a⮕ gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter <a href=\"https://myid.threema.ch/unlink\"⮕https://myid.threema.ch/unlink</a⮕ von der ID entfernen.",
+        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu <a href=\"https://myid.threema.ch/revoke\">https://myid.threema.ch/unlink</a> gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter <a href=\"https://myid.threema.ch/unlink\">https://myid.threema.ch/unlink</a> von der ID entfernen.",
         "domains": [
             "threema.ch",
             "myid.threema.ch"
@@ -16787,7 +16787,7 @@
         "meta": "popular",
         "url": "https://www.tiktok.com",
         "difficulty": "medium",
-        "notes": "Tap account (with people depicton, on the bottom right edge)⮕Menu (on top right edge)⮕Privacy and Settings⮕Privacy and Safety⮕Delete Account⮕Next⮕Continue⮕Delete Account.",
+        "notes": "Tap account (with people depicton, on the bottom right edge)>Menu (on top right edge)>Privacy and Settings>Privacy and Safety>Delete Account>Next>Continue>Delete Account.",
         "notes_tr": "\"Hesap\" \"Menü\" \"Gizlilik Ayarları\" \"Gizlilik ve Güvenlik\" \"Hesabı Sil\" \"Sonraki\" \"Devam Et\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "tiktok.com"
@@ -17036,7 +17036,7 @@
         "url": "https://traduc.com/users/edit",
         "difficulty": "easy",
         "notes": "Login to your account. Click on \"My Account\" then \"My connection information\". Finally click \"Delete my account\"",
-        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte ⮕ Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
+        "notes_fr": "Connectez-vous à votre compte. Allez dans \"Mon compte > Mes informations de connexion\". Finalement, cliquez sur \"Supprimer mon compte\" en bas à gauche.",
         "domains": [
             "traduc.com"
         ]
@@ -18325,7 +18325,7 @@
         "name": "WEBTOON",
         "url": "https://www.webtoons.com/en/account/delete",
         "difficulty": "easy",
-        "notes": "Check the \"I understand and want to delete my account\" option and click on \"Delete my account\". Note that any comments you wrote will not be deleted automatically so you will need to go <a href=\"https://www.webtoons.com/en/mycomment\"⮕here</a⮕ and delete them yourself.",
+        "notes": "Check the \"I understand and want to delete my account\" option and click on \"Delete my account\". Note that any comments you wrote will not be deleted automatically so you will need to go <a href=\"https://www.webtoons.com/en/mycomment\">here</a> and delete them yourself.",
         "domains": [
             "www.webtoons.com"
         ]
@@ -18378,7 +18378,7 @@
         "email": "customercare@westernunion.com",
         "email_body": "My name is XXXXXX%0AMy registered phone number is XXXXXX%0AMy WU number is XXXXXX%0AI would like to delete my WU profile because XXXXXX",
         "difficulty": "hard",
-        "notes": "To delete your profile, <a href=\"https://www.westernunion.com/us/en/contactus.html\"⮕contact</a⮕ Customer Care or send an email from the account you registered with containing your name, registered phone number, My WU number (if applicable), and reason for deleting your profile.",
+        "notes": "To delete your profile, <a href=\"https://www.westernunion.com/us/en/contactus.html\">contact</a> Customer Care or send an email from the account you registered with containing your name, registered phone number, My WU number (if applicable), and reason for deleting your profile.",
         "notes_tr": "Profilinizi silmek için, Müşteri Hizmetleri ile iletişime geçin veya kaydolduğunuz hesaptan adınızı, kayıtlı telefon numaranızı, WU numaramı (varsa) ve profilinizi silme nedeninizi içeren bir e-posta gönderin.",
         "domains": [
             "westernunion.ch",
@@ -18437,7 +18437,7 @@
         "domains": [
             "which.co.uk"
         ],
-        "notes": "Require your membership number to be sent in the email. This can be found here <a href=\"https://www.which.co.uk/account/#/\"⮕https://www.which.co.uk/account/#/</a⮕",
+        "notes": "Require your membership number to be sent in the email. This can be found here <a href=\"https://www.which.co.uk/account/#/\">https://www.which.co.uk/account/#/</a>",
         "notes_tr": "Üyelik numaranızın e-postayla gönderilmesi gerekiyor. Bu hesap bağlantısından bulunabilir."
     },
 
@@ -18491,7 +18491,7 @@
         "name": "Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/Commons:Username_policy#Deleting_your_account",
         "difficulty": "impossible",
-        "notes": "An account cannot be deleted as all contibutions to Wikimedia Commons are licensed under licenses that require attribution. However, you can place the template {{SD|U1}} on your user and talk pages, and rename your account to something random <a href='https://commons.wikimedia.org/wiki/Special:GlobalRenameRequest'⮕here</a⮕",
+        "notes": "An account cannot be deleted as all contibutions to Wikimedia Commons are licensed under licenses that require attribution. However, you can place the template {{SD|U1}} on your user and talk pages, and rename your account to something random <a href='https://commons.wikimedia.org/wiki/Special:GlobalRenameRequest'>here</a>",
         "domains": [
             "commons.wikimedia.org",
             "commons.m.wikimedia.org"
@@ -18503,7 +18503,7 @@
         "meta": "popular",
         "url": "https://en.wikipedia.org/wiki/Wikipedia:FAQ/Main#How_do_I_change_my_username%2Fdelete_my_account?",
         "difficulty": "impossible",
-        "notes": "An account cannot be deleted because to all contributions to Wikipedia are licensed under licenses that require attribution. However, they do have some suggestions, such as <a href='https://en.wikipedia.org/wiki/Wikipedia:Courtesy_vanishing'⮕Courtesy Vanishing</a⮕",
+        "notes": "An account cannot be deleted because to all contributions to Wikipedia are licensed under licenses that require attribution. However, they do have some suggestions, such as <a href='https://en.wikipedia.org/wiki/Wikipedia:Courtesy_vanishing'>Courtesy Vanishing</a>",
         "notes_tr": "'Bir kullanıcı adı silinemez.' Ancak, bazı önerileri var.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte.",
         "notes_it": "'Un username non può essere eliminato.'. In ogni caso, ci sono alcuni consigli.",
@@ -18903,7 +18903,7 @@
         "name": "Wire",
         "url": "https://support.wire.com/hc/en-us/articles/207555795-Delete-a-Wire-Personal-account",
         "difficulty": "medium",
-        "notes": "On Windows/MacOS : Go Settings ⮕ Account ⮕ Delete Account And on mobile devices Tap Profile ⮕ Settings ⮕ Account ⮕ Delete Account. You will receive a SMS to confirm the deletion.",
+        "notes": "On Windows/MacOS : Go Settings > Account > Delete Account And on mobile devices Tap Profile > Settings > Account > Delete Account. You will receive a SMS to confirm the deletion.",
         "domains": [
             "wire.com",
             "support.wire.com"
@@ -19022,7 +19022,7 @@
         "meta": "popular",
         "url": "https://wordpress.org/about/privacy/data-erasure-request",
         "difficulty": "impossible",
-        "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data <a href='https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account'⮕https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account</a⮕",
+        "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data <a href='https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account'>https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account</a>",
         "domains": [
             "wordpress.org"
         ]
@@ -19233,7 +19233,7 @@
         "meta": "popular",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to YouTube and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\"⮕Google</a⮕.",
+        "notes": "Click the trash can next to YouTube and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
         "notes_tr": "YouTube hesabınızı silmeden önce verilerinizin bir kopyasını talep edebilirsiniz.",
         "notes_ru": "Вы можете запросить копию данных перед удалением учетной записи YouTube.",
         "domains": [
@@ -19465,7 +19465,7 @@
         "name": "Zulip",
         "url": "https://zulipchat.com/help/deactivate-your-account",
         "difficulty": "easy",
-        "notes": "Navigate to Settings ⮕ Your Account ⮕ Deactivate Account",
+        "notes": "Navigate to Settings > Your Account > Deactivate Account",
         "notes_tr": "\"Ayarlar\" \"Hesabınız\" \"Hesabı Devre Dışı bırak\" yolunu izleyin",
         "domains": [
             "zulipchat.com"
@@ -19488,8 +19488,8 @@
         "name": "ÇiçekSepeti",
         "url": "https://www.ciceksepeti.com/gizlilik-sozlesmesi",
         "difficulty": "hard",
-        "notes": "In order to delete your account you have to email them and fill out their \"KVKK\" form and send them an email. <a href=\"https://cdn03.ciceksepeti.com/images/Ciceksepeti_KVKK_Basvuru_Formu_06022019.docx\"⮕The form is only in Turkish</a⮕.",
-        "notes_tr": "Hesabınızı silmek için \"KVKK\" formunu doldurup onlara email aracılığı ile göndermeniz gerekiyor. <a href=\"https://cdn03.ciceksepeti.com/images/Ciceksepeti_KVKK_Basvuru_Formu_06022019.docx\"⮕Form sadece Türkçe'dir</a⮕.",
+        "notes": "In order to delete your account you have to email them and fill out their \"KVKK\" form and send them an email. <a href=\"https://cdn03.ciceksepeti.com/images/Ciceksepeti_KVKK_Basvuru_Formu_06022019.docx\">The form is only in Turkish</a>.",
+        "notes_tr": "Hesabınızı silmek için \"KVKK\" formunu doldurup onlara email aracılığı ile göndermeniz gerekiyor. <a href=\"https://cdn03.ciceksepeti.com/images/Ciceksepeti_KVKK_Basvuru_Formu_06022019.docx\">Form sadece Türkçe'dir</a>.",
         "email": "kvkk@ciceksepeti.com",
         "email_subject": "Hesap Silme Talebi",
         "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
