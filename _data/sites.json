@@ -782,6 +782,16 @@
     },
 
     {
+        "name": "AliPay",
+        "url": "https://memberprod.alipay.com/account/close/apply.htm",
+        "difficulty": "easy",
+        "notes": "From the app: Settings ⮕ Account and Security ⮕ Account Cancel.",
+        "domains": [
+            "alipay.com"
+        ]
+    },
+
+    {
         "name": "All 4 / Channel 4",
         "url": "https://4id.channel4.com/account#!/close",
         "difficulty": "easy",
@@ -1654,6 +1664,15 @@
     },
 
     {
+        "name": "Baidu",
+        "url": "https://passport.baidu.com/v6/cancelAccount",
+        "difficulty": "medium",
+        "domains": [
+            "baidu.com"
+        ]
+    },
+
+    {
         "name": "Balance",
         "url": "https://balanceapp.com/balance-privacy",
         "difficulty": "hard",
@@ -1955,6 +1974,15 @@
         "email": "support@bigstockphoto.com",
         "domains": [
             "bigstockphoto.com"
+        ]
+    },
+
+    {
+        "name": "Bilibili",
+        "url": "https://passport.bilibili.com/register/logout.html",
+        "difficulty": "medium",
+        "domains": [
+            "bilibili.com"
         ]
     },
 
@@ -5183,6 +5211,16 @@
         "domains": [
             "elpais.com.uy",
             "registro.elpais.com.uy"
+        ]
+    },
+
+    {
+        "name": "Elsevier",
+        "url": "https://service.elsevier.com/app/answers/detail/a_id/30148/supporthub/ecommerce/~/how-do-i-request-deletion-of-my-elsevier.com-account",
+        "difficulty": "hard",
+        "notes": "Fill out the form with your Account name, Email and a reason for deletion request.",
+        "domains": [
+            "elsevier.com"
         ]
     },
 
@@ -13783,8 +13821,9 @@
 
     {
         "name": "QQ",
-        "url": "https://support.weixin.qq.com/security/readtemplate?page=statement_page&t=account_cancellation/w_index&wechat_real_lang=en_US",
+        "url": "https://kf.qq.com/faq/1803146n2yMr180314MbIfER.html",
         "difficulty": "easy",
+        "notes": "From the app: Avatar ⮕ Settings ⮕ Account Security ⮕ Account Cancellation.",
         "domains": [
             "qq.com"
         ]
@@ -18346,9 +18385,11 @@
         "name": "WeChat",
         "url": "https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&id=1706083AnYFb170608VF3Ur2",
         "difficulty": "easy",
+        "notes": "From the app: Me ⮕ Settings ⮕ Account Security ⮕ WeChat Security Center ⮕ Account Cancellation.",
         "domains": [
             "wechat.com",
-            "weixin.qq.com"
+            "weixin.qq.com",
+            "wx.qq.com"
         ]
     },
 
@@ -18369,6 +18410,15 @@
         "difficulty": "easy",
         "domains": [
             "weheartit.com"
+        ]
+    },
+
+    {
+        "name": "Weibo",
+        "url": "https://kefu.weibo.com/faqdetail?id=20690",
+        "difficulty": "easy",
+        "domains": [
+            "weibo.com"
         ]
     },
 
@@ -19426,6 +19476,15 @@
         "domains": [
             "zerossl.com",
             "app.zerossl.com"
+        ]
+    },
+
+    {
+        "name": "Zhihu",
+        "url": "https://www.zhihu.com/unregister",
+        "difficulty": "easy",
+        "domains": [
+            "zhihu.com"
         ]
     },
 
