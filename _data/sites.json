@@ -11622,6 +11622,18 @@
     },
 
     {
+        "name": "NetSfere",
+        "url": "https://help.netsfere.com/",
+        "difficulty": "hard",
+        "email": "support@netsfere.com",
+        "domains": [
+            "netsfere.com",
+            "help.netsfere.com",
+            "web.netsfere.com"
+        ]
+    },
+
+    {
         "name": "Netvibes",
         "url": "https://www.netvibes.com/account/unsubscribe",
         "difficulty": "easy",
