@@ -3032,6 +3032,17 @@
     },
 
     {
+        "name": "CircleCI",
+        "url": "https://privacy.circleci.com",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click 'Make a Privacy Request', and then 'Delete all my data'. Enter your email address. You will receive an email; In that email, click 'Log in', and then 'Confirm Request'. More info <a href='https://support.circleci.com/hc/en-us/articles/360037058873'>here</a>.",
+        "domains": [
+            "circleci.com",
+            "app.circleci.com"
+        ]
+    },
+
+    {
         "name": "Cisco",
         "url": "https://privacyrequest.cisco.com/",
         "difficulty": "hard",
@@ -19540,17 +19551,6 @@
             "zynga.com",
             "zyngagames.com",
             "privacy.zynga.com"
-        ]
-    },
-
-    {
-        "name": "CircleCI",
-        "url": "https://privacy.circleci.com",
-        "difficulty": "easy",
-        "notes": "Visit the linked page and click 'Make a Privacy Request', and then 'Delete all my data'. Enter your email address. You will receive an email; In that email, click 'Log in', and then 'Confirm Request'. More info <a href='https://support.circleci.com/hc/en-us/articles/360037058873'>here</a>.",
-        "domains": [
-            "circleci.com",
-            "app.circleci.com"
         ]
     },
 
