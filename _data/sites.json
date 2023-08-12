@@ -10931,8 +10931,8 @@
         "name": "Moovit",
         "url": "https://support.moovitapp.com/hc/requests/new",
         "difficulty": "hard",
-        "notes": "In the app, go to \"Help & Support\", then \"My Accounts and Personal Information\", \"Deleting my Accounts and Personal Information\", scroll to the bottom of the page and click \"Give us feedback\", and fill out the form requesting cancellation of the account. For \"Feedback Type\" choose \"Edit or delete personal information\", under \"Privacy and Security\".",
-        "notes_it": "Nell'app, vai su \"Aiuto & Supporto\", poi \"I miei account e informazioni personali\", \"Cancellazione dei miei account e delle informazioni personali\", scorri in fondo alla pagina e clicca su \"Lasciaci il tuo feedback\", e compila il modulo richiedendo la cancellazione dell'account. Per \"Tipo di commento\" scegli \"Modifica o elimina informazioni personali\", sotto \"Privacy e sicurezza\".",
+        "notes": "In the app, go to \"Help & Support\", then \"My Accounts and Personal Information\", \"Deleting my Accounts and Personal Information\", scroll to the bottom of the page and click \"Give us feedback\", and fill out the form requesting cancellation of the account. For \"Feedback Type\" choose \"Edit or delete personal information\", under \"Privacy and Security\". If you also want to delete the Moovit Editor account you will have to explicitly ask for it.",
+        "notes_it": "Nell'app, vai su \"Aiuto & Supporto\", poi \"I miei account e informazioni personali\", \"Cancellazione dei miei account e delle informazioni personali\", scorri in fondo alla pagina e clicca su \"Lasciaci il tuo feedback\", e compila il modulo richiedendo la cancellazione dell'account. Per \"Tipo di commento\" scegli \"Modifica o elimina informazioni personali\", sotto \"Privacy e sicurezza\". Se vuoi eliminare anche l'account dell'Editor Moovit dovrai chiederlo esplicitamente.",
         "domains": [
             "moovit.com",
             "editor.moovit.com",
