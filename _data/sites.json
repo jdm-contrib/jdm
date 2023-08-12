@@ -8425,6 +8425,17 @@
     },
 
     {
+        "name": "Immowelt",
+        "url": "https://www.immowelt.de/benutzerkonto/loeschen/",
+        "difficulty": "easy",
+        "notes": "Login, go to your account settings and click on 'Delete Account' at the bottom.",
+        "notes_de": "Melde dich in deinem Benutzerkonto an und öffe die Account-Einstellungen. Klicke unten auf 'Benutzerkonto löschen'.",
+        "domains": [
+            "immowelt.de"
+        ]
+    },
+
+    {
         "name": "imo.im",
         "url": "https://imo.im",
         "difficulty": "easy",
