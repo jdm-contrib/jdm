@@ -19578,6 +19578,16 @@
     },
 
     {
+        "name": "Zotero",
+        "url": "https://www.zotero.org/settings/account",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to 'Settings', click on 'Permanently Delete Account' at the bottom of the page.",
+        "domains": [
+            "zotero.org"
+        ]
+    },
+
+    {
         "name": "Zulip",
         "url": "https://zulipchat.com/help/deactivate-your-account",
         "difficulty": "easy",
