@@ -8413,6 +8413,18 @@
     },
 
     {
+        "name": "Immomio",
+        "url": "https://tenant.immomio.com/de/settings/account",
+        "difficulty": "easy",
+        "notes": "Login, go to your account settings and click 'Delete Account'.",
+        "notes_de": "Melde dich in deienm Konto an, öffne die Einstellungne und klicke auf 'Account löschen'.",
+        "domains": [
+            "immomio.com",
+            "tenant.immomio.com"
+        ]
+    },
+
+    {
         "name": "imo.im",
         "url": "https://imo.im",
         "difficulty": "easy",
