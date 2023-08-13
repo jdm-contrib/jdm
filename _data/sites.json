@@ -12462,6 +12462,17 @@
     },
 
     {
+        "name": "OpenTable",
+        "url": "https://help.opentable.com/s/article/How-do-I-unsubscribe-from-OpenTable-emails",
+        "difficulty": "hard",
+        "notes": "If you are using the IOS app, you can delete your account via Account Settings ⮕ Your details ⮕ Delete my account. Otherwise, you will need to contact OpenTable on <a href=\"help.opentable.com\">help.opentable.com</a> or through email <a href\"mailto:privacy@opentable.com\">privacy@opentable.com</a> and request account deletion",
+        "domains": [
+            "opentable.com",
+            "help.opentable.com"
+        ]
+    },
+
+    {
         "name": "OpenWeather",
         "url": "https://home.openweathermap.org/privacy/notifications#del_poll_modal",
         "difficulty": "easy",
