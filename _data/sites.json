@@ -748,6 +748,24 @@
     },
 
     {
+        "name": "Algor Education",
+        "url": "https://en.algoreducation.com/contact-us",
+        "difficulty": "hard",
+        "email": "support@algoreducation.com",
+        "notes": "Contact the customer support and ask to delete your account.",
+        "notes_it": "Contatta l'assistenza clienti e chiedi di eliminare il tuo account.",
+        "domains": [
+            "algoreducation.com",
+            "app.algoreducation.com",
+            "community.algoreducation.com",
+            "en.algoreducation.com",
+            "es.algoreducation.com",
+            "de.algoreducation.com",
+            "fr.algoreducation.com"
+        ]
+    },
+
+    {
         "name": "Alibaba",
         "url": "https://accounts.alibaba.com/user/organization/manage_person_profile.htm",
         "difficulty": "easy",
