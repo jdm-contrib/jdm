@@ -3331,7 +3331,7 @@
         "name": "CodeSignal",
         "url": "https://app.codesignal.com/account/username-password",
         "difficulty": "easy",
-        "notes": "Sign in then visit <a href=\"https://app.codesignal.com/account/username-password\">https://app.codesignal.com/account/username-password</a> and press delete profile",
+        "notes": "Sign in, visit the provided link and press delete profile",
         "domains": [
             "codesignal.com",
             "app.codesignal.com"
