@@ -3346,6 +3346,17 @@
     },
 
     {
+        "name": "CodeSignal",
+        "url": "https://app.codesignal.com/account/username-password",
+        "difficulty": "easy",
+        "notes": "Sign in, visit the provided link and press delete profile",
+        "domains": [
+            "codesignal.com",
+            "app.codesignal.com"
+        ]
+    },
+
+    {
         "name": "Codetasty",
         "url": "https://codetasty.com/settings/security",
         "difficulty": "easy",
@@ -8721,7 +8732,7 @@
             "invideo.io"
         ]
     },
-    
+
     {
         "name": "Invidious",
         "url": "https://redirect.invidious.io/preferences",
@@ -9512,7 +9523,7 @@
             "leagueoflegends.com",
             "support-leagueoflegends.riotgames.com"
         ]
-    }, 
+    },
 
     {
         "name": "League of Legends: Wild Rift",
@@ -9523,7 +9534,7 @@
             "wildrift.leagueoflegends.com",
             "support-wildrift.riotgames.com"
         ]
-    },   
+    },
 
     {
         "name": "LeetCode",
@@ -12228,7 +12239,7 @@
             "oma.posti.fi"
         ]
     },
-    
+
     {
         "name": "One Month",
         "url": "https://www.iubenda.com/privacy-policy/735465",
