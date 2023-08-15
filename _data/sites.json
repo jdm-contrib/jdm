@@ -2948,7 +2948,7 @@
         "name": "ChangeIP",
         "url": "https://www.changeip.com/tos.php#:~:text=Account%20Cancellation",
         "difficulty": "hard",
-        "notes": "All requests for canceling accounts must be made via email to support@changeip.com or by opening a support ticket from the client area. It may take up to 7 days to be processed. You must have all account information to cancel.",
+        "notes": "All requests for canceling accounts must be made via email or by opening a support ticket from the client area. It may take up to 7 days to be processed. You must have all account information to cancel.",
         "email": "support@changeip.com",
         "domains": [
             "changeip.com"
