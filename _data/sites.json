@@ -15727,6 +15727,17 @@
     },
 
     {
+        "name": "SPC",
+        "url": "https://www.spccard.ca/privacy-policy",
+        "difficulty": "impossible",
+        "email": "privacy@spccard.ca",
+        "notes": "According to their privacy policy, emailing should be sufficient for data deletion, but they are unresponsive.",
+        "domains": [
+            "spccard.ca"
+        ]
+    },
+
+    {
         "name": "Speaker Deck",
         "url": "https://speakerdeck.com/account",
         "difficulty": "easy",
