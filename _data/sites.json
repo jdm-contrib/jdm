@@ -14100,11 +14100,9 @@
 
     {
         "name": "RapidAPI",
-        "url": "https://rapidapi.com/contact-us",
-        "difficulty": "hard",
-        "notes": "Account can only be deleted by sending a request to their support team",
-        "notes_tr": "Sadece müşteri hizmetleri ile iletişime geçilerek hesap silinebilir",
-        "email": "support@rapidapi.com",
+        "url": "https://rapidapi.com/user/settings",
+        "difficulty": "easy",
+        "notes": "Account can be deleted by clicking delete under 'Delete Current User'",
         "domains": [
             "rapidapi.com"
         ]
