@@ -2119,6 +2119,16 @@
     },
 
     {
+        "name": "Blind",
+        "url": "https://www.teamblind.com/faqs",
+        "difficulty": "hard",
+        "email": "blindapp@teamblind.com",
+        "domains": [
+            "teamblind.com"
+        ]
+    },
+
+    {
         "name": "Blinkee",
         "url": "https://blinkee.city/en-pl/faq",
         "difficulty": "hard",
