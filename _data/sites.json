@@ -3050,6 +3050,17 @@
     },
 
     {
+        "name": "Cineplex",
+        "url": "https://www.cineplex.com/Global/PrivacyPolicy",
+        "difficulty": "hard",
+        "email": "privacy@cineplex.com",
+        "domains": [
+            "www.cineplex.com",
+            "cineplex.com"
+        ]
+    },
+
+    {
         "name": "CircleCI",
         "url": "https://privacy.circleci.com",
         "difficulty": "easy",
