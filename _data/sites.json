@@ -12472,6 +12472,18 @@
     },
 
     {
+        "name": "OpenTable",
+        "url": "https://help.opentable.com",
+        "difficulty": "hard",
+        "notes": "If you are using the iOS app, you can delete your account via Account Settings ⮕ Your details ⮕ Delete my account. Otherwise, you will need to contact OpenTable on their help page or via email",
+        "email": "privacy@opentable.com",
+        "domains": [
+            "opentable.com",
+            "help.opentable.com"
+        ]
+    },
+
+    {
         "name": "OpenWeather",
         "url": "https://home.openweathermap.org/privacy/notifications#del_poll_modal",
         "difficulty": "easy",
