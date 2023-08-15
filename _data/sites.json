@@ -2973,6 +2973,17 @@
     },
 
     {
+        "name": "ChangeIP",
+        "url": "https://www.changeip.com/tos.php#:~:text=Account%20Cancellation",
+        "difficulty": "hard",
+        "notes": "All requests for canceling accounts must be made via email or by opening a support ticket from the client area. It may take up to 7 days to be processed. You must have all account information to cancel.",
+        "email": "support@changeip.com",
+        "domains": [
+            "changeip.com"
+        ]
+    },
+
+    {
         "name": "changelly",
         "url": "https://changelly.com/profile",
         "notes": "Click on 'Delete account' under 'Email settings'",
@@ -8447,6 +8458,29 @@
         "difficulty": "easy",
         "domains": [
             "imgur.com"
+        ]
+    },
+
+    {
+        "name": "Immomio",
+        "url": "https://tenant.immomio.com/de/settings/account",
+        "difficulty": "easy",
+        "notes": "Login, go to your account settings and click 'Delete Account'.",
+        "notes_de": "Melde dich in deienm Konto an, öffne die Einstellungne und klicke auf 'Account löschen'.",
+        "domains": [
+            "immomio.com",
+            "tenant.immomio.com"
+        ]
+    },
+
+    {
+        "name": "Immowelt",
+        "url": "https://www.immowelt.de/benutzerkonto/loeschen/",
+        "difficulty": "easy",
+        "notes": "Login, go to your account settings and click on 'Delete Account' at the bottom.",
+        "notes_de": "Melde dich in deinem Benutzerkonto an und öffe die Account-Einstellungen. Klicke unten auf 'Benutzerkonto löschen'.",
+        "domains": [
+            "immowelt.de"
         ]
     },
 
@@ -19628,6 +19662,16 @@
         "notes_tr": "Hesabınıza giriş yapın, \"Hesap Ayarları\" sayfasına gidin, hesabı iptal et tuşuna tıklayın. Onay kutusunu onaylayın.",
         "domains": [
             "zoom.us"
+        ]
+    },
+
+    {
+        "name": "Zotero",
+        "url": "https://www.zotero.org/settings/account",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to 'Settings', click on 'Permanently Delete Account' at the bottom of the page.",
+        "domains": [
+            "zotero.org"
         ]
     },
 
