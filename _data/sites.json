@@ -14991,6 +14991,16 @@
     },
 
     {
+        "name": "Score",
+        "url": "https://getscore.app",
+        "difficulty": "hard",
+        "notes": "Email hello@getscore.app to ensure your account is deleted.",
+        "domains": [
+            "getscore.app"
+        ]
+    },
+
+    {
         "name": "Scratch",
         "url": "https://scratch.mit.edu/accounts/settings/delete_account_confirmation/",
         "difficulty": "easy",
