@@ -14994,7 +14994,8 @@
         "name": "Score",
         "url": "https://getscore.app",
         "difficulty": "hard",
-        "notes": "Email hello@getscore.app to ensure your account is deleted.",
+        "notes": "Email to ensure your account is deleted.",
+        "email": "hello@getscore.app",
         "domains": [
             "getscore.app"
         ]
