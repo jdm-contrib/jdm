@@ -2057,6 +2057,16 @@
     },
 
     {
+        "name": "Bitstamp",
+        "url": "https://www.bitstamp.net/settings/deactivate/",
+        "difficulty": "easy",
+        "notes": "Process described on their <a href=\"https://www.bitstamp.net/faq/how-can-i-close-my-account/\">FAQ</a>. You will need to enter your password to confirm the operation.",
+        "domains": [
+            "bitstamp.net"
+        ]
+    },
+
+    {
         "name": "Bittrex",
         "url": "https://bittrex.zendesk.com/hc/en-us/requests/new?ticket_form_id=114093958171",
         "difficulty": "hard",
