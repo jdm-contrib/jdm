@@ -4322,6 +4322,15 @@
     },
 
     {
+        "name": "Directleaks",
+        "url": "https://directleaks.net/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "directleaks.net"
+        ]
+    },
+
+    {
         "name": "Discogs",
         "url": "https://www.discogs.com/users/delete",
         "difficulty": "easy",
