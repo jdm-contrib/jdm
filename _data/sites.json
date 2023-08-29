@@ -2325,6 +2325,39 @@
     },
 
     {
+        "name": "Bolt",
+        "url": "https://bolt.eu/en/support/articles/360000336273/",
+        "difficulty": "hard",
+        "notes": "You will need to contact support team via the app or request account deletion by sending an e-mail to the Data Protection Officer.",
+        "email": "privacy@bolt.eu",
+        "domains": [
+            "bolt.eu"
+        ]
+    },
+
+    {
+        "name": "Bolt Driver",
+        "url": "https://bolt.eu/en/support/articles/360000329553/",
+        "difficulty": "hard",
+        "notes": "You will need to contact support team via the app or request account deletion by sending an e-mail to the Data Protection Officer.",
+        "email": "privacy@bolt.eu",
+        "domains": [
+            "bolt.eu"
+        ]
+    },
+
+    {
+        "name": "Bolt Food",
+        "url": "https://bolt.eu/en/support/articles/360007153180/",
+        "difficulty": "hard",
+        "notes": "You will need to contact support team via the app or request account deletion by sending an e-mail to the Data Protection Officer.",
+        "email": "privacy@bolt.eu",
+        "domains": [
+            "bolt.eu"
+        ]
+    },
+
+    {
         "name": "BookBub",
         "url": "https://www.bookbub.com/contact/new",
         "difficulty": "hard",
@@ -19095,7 +19128,7 @@
         "name": "Windscribe",
         "url": "https://windscribe.com/myaccount",
         "difficulty": "easy",
-        "notes": "Go to your account page, the delete button is small, you can find it under the 'joining date'. Also, their privacy policy states they'll store your username, password, email(if provided) even after account deletion.",
+        "notes": "Go to your account page, the delete button is small, you can find it under the 'Member since'. Also, their privacy policy states they'll store your username, password, email(if provided) even after account deletion.",
         "domains": [
             "windscribe.com"
         ]
