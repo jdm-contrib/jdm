@@ -13519,10 +13519,8 @@
     {
         "name": "Pocket Casts",
         "url": "https://support.pocketcasts.com",
-        "difficulty": "hard",
-        "notes": "You must request account deletion via email. If the web player was purchased, access to it will be lost as well.",
-        "notes_tr": "E-posta yoluyla hesap silme talebinde bulunmalısınız. Web oynatıcı satın alındıysa, erişim kaybedilecektir.",
-        "email": "support@shiftyjelly.com",
+        "difficulty": "easy",
+        "notes": "On your phone: Open the Pocket Casts app, click on the \"Profile\" tab and then on your account, finally scroll down and click on \"Delete Account\" at the bottom of the screen. On your browser: Log in to the Pocket Casts web player, click on the profile icon in the top right-hand corner, click on your email address then scroll down and click on the \"Delete Account\" link. A confirmation pop-up will appear asking if you're sure you want to delete your account. Click \"Delete\" to confirm",
         "domains": [
             "pocketcasts.com",
             "support.pocketcasts.com"
