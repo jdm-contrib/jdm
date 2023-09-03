@@ -7917,8 +7917,9 @@
         "name": "HeadshotGenerator",
         "url": "https://www.headshotgenerator.io/dashboard",
         "difficulty": "hard",
-        "notes": "You have to send an email to contact@headshotgenerator.io",
-        "notes_fr": "Vous devez envoyer un mail à contact@headshotgenerator.io",
+        "notes": "You have to send an email.",
+        "notes_fr": "Vous devez envoyer un mail.",
+        "email": "contact@headshotgenerator.io",
         "domains": [
             "headshotgenerator.io"
         ]
