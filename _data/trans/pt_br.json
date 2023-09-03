@@ -1,5 +1,5 @@
 {
-    "about": "About",
+    "about": "Sobre",
     "contribute": "Contribua no GitHub",
     "defaultnote_easy": "Visite a página do link e delete a sua conta.",
     "defaultnote_email": "Envie um e-mail para o endereço fornecido e solicite a que a conta seja deletada.",
@@ -31,7 +31,7 @@
     "noresults": "Não encontrou o que procurava?",
     "noresultshelp": "Ajude a tornar o JustDeleteMe melhor",
     "popular": "Popular",
-    "pullrequest": "Faça um 'Pull Request' no GitHub",
+    "pullrequest": "Faça um \"Pull Request\" no GitHub",
     "reset": "Reset",
     "search": "Pesquisar",
     "sendmail": "Enviar e-mail",
@@ -41,7 +41,7 @@
     "twitter": "Tuíte sobre o JDM",
     "whatisthis": "O que é isto?",
     "whatisthis1": "Diversas empresas usam técnicas",
-    "whatisthis2": "dark pattern",
+    "whatisthis2": "\"dark pattern\"",
     "whatisthis3": "para tornar difícil encontrar como deletar sua conta. JustDeleteMe tem por objetivo ser um diretório de urls que tornem fácil a remoção de sua conta em serviços da web.",
     "whatisthis4": "Sabe de um site que você acha que deve ser adicionado?"
 }
