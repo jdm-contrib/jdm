@@ -7914,6 +7914,17 @@
     },
 
     {
+        "name": "HeadshotGenerator",
+        "url": "https://www.headshotgenerator.io/dashboard",
+        "difficulty": "hard",
+        "notes": "You have to send an email to contact@headshotgenerator.io",
+        "notes_fr": "Vous devez envoyer un mail à contact@headshotgenerator.io",
+        "domains": [
+            "headshotgenerator.io"
+        ]
+    },
+
+    {
         "name": "Headspace",
         "url": "https://my.headspace.com/profile/account",
         "difficulty": "easy",
