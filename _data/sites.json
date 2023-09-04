@@ -2743,6 +2743,21 @@
     },
 
     {
+        "name": "Call of Duty Mobile",
+        "url": "https://support.activision.com/privacy",
+        "difficulty": "hard",
+        "email": "privacy@activision.com",
+        "notes": "Must put in a request, via a ticket system, while logged in to the account (to verify the identity of the account owner). You may also need to install and log into the game to get PlayerID/UID/PrivacyID needed for account deletion.",
+        "domains": [
+            "activision.com",
+            "s.activision.com",
+            "support.activision.com",
+            "callofduty.com",
+            "profile.callofduty.com"
+        ]
+    },
+
+    {
         "name": "CamelCamelCamel",
         "url": "https://camelcamelcamel.com/close_account",
         "difficulty": "easy",
@@ -8752,6 +8767,17 @@
         "email_subject": "Information Deletion Request",
         "domains": [
             "intelius.com"
+        ]
+    },
+
+    {
+        "name": "Intelligence X",
+        "url": "https://intelx.io/account?tab=settings",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Account\" button and check the \"I want to permanently delete my Intelligence X account.\" box ",
+        "email_subject": "Information Deletion Request",
+        "domains": [
+            "intelx.io"
         ]
     },
 
@@ -18461,6 +18487,17 @@
         "notes": "Click the \"Cancel account\" button at the bottom of the page when editing your account.",
         "domains": [
             "warmshowers.org"
+        ]
+    },
+    
+    {
+        "name": "Warner Bros. Games",
+        "url": "https://account.wbgames.com/account",
+        "difficulty": "medium",
+        "notes": "Click the \"Delete my account\" button and enter a confirmatin code sent yo your email.",
+        "domains": [
+            "warnerbrosgames.com",
+            "wbgames.com"
         ]
     },
 
