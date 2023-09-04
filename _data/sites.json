@@ -8774,7 +8774,7 @@
         "name": "Intelligence X",
         "url": "https://intelx.io/account?tab=settings",
         "difficulty": "easy",
-        "notes": "Click \"Delete Account\" button and chceck the \"I want to permanently delete my Intelligence X account.\" box ",
+        "notes": "Click \"Delete Account\" button and check the \"I want to permanently delete my Intelligence X account.\" box ",
         "email_subject": "Information Deletion Request",
         "domains": [
             "intelx.io"
