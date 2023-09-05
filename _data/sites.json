@@ -2743,6 +2743,21 @@
     },
 
     {
+        "name": "Call of Duty Mobile",
+        "url": "https://support.activision.com/privacy",
+        "difficulty": "hard",
+        "email": "privacy@activision.com",
+        "notes": "Must put in a request, via a ticket system, while logged in to the account (to verify the identity of the account owner). You may also need to install and log into the game to get PlayerID/UID/PrivacyID needed for account deletion.",
+        "domains": [
+            "activision.com",
+            "s.activision.com",
+            "support.activision.com",
+            "callofduty.com",
+            "profile.callofduty.com"
+        ]
+    },
+
+    {
         "name": "CamelCamelCamel",
         "url": "https://camelcamelcamel.com/close_account",
         "difficulty": "easy",
@@ -8775,6 +8790,16 @@
         ]
     },
 
+    {
+        "name": "Intelligence X",
+        "url": "https://intelx.io/account?tab=settings",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Account\" button and check the \"I want to permanently delete my Intelligence X account.\" box ",
+        "domains": [
+            "intelx.io"
+        ]
+    },
+    
     {
         "name": "Interactive Brokers",
         "url": "https://www.interactivebrokers.com/RegTemplates/PDF/closeAccount.pdf",
@@ -16280,6 +16305,8 @@
         "difficulty": "hard",
         "notes": "Contact customer support via email, set subject line to \"REQUEST TO DELETE MY ACCOUNT\". You will soon recive an email informing you about need to appeal on Logitec's website in order to fully delete your account with a link provided. Here you will need to enter your name, email, choose \"Data privacy request\" for a topic and say that you want to delete your Streamlabs account in the textbox below",
         "email": "support@streamlabs.com",
+        "email_subject": "REQUEST TO DELETE MY ACCOUNT",
+        
         "domains": [
             "streamlabs.com"
         ]
@@ -18491,6 +18518,17 @@
         "notes": "Click the \"Cancel account\" button at the bottom of the page when editing your account.",
         "domains": [
             "warmshowers.org"
+        ]
+    },
+
+    {
+        "name": "Warner Bros. Games",
+        "url": "https://account.wbgames.com/account",
+        "difficulty": "medium",
+        "notes": "Click the \"Delete my account\" button and enter a confirmatin code sent yo your email.",
+        "domains": [
+            "warnerbrosgames.com",
+            "wbgames.com"
         ]
     },
 
