@@ -16302,11 +16302,11 @@
 
     {
         "name": "StreamLabs",
+        "url": "https://getonstream.com/how-to-delete-a-streamlabs-account-easy-guide/"
         "difficulty": "hard",
         "notes": "Contact customer support via email, set subject line to \"REQUEST TO DELETE MY ACCOUNT\". You will soon recive an email informing you about need to appeal on Logitec's website in order to fully delete your account with a link provided. Here you will need to enter your name, email, choose \"Data privacy request\" for a topic and say that you want to delete your Streamlabs account in the textbox below",
         "email": "support@streamlabs.com",
         "email_subject": "REQUEST TO DELETE MY ACCOUNT",
-        
         "domains": [
             "streamlabs.com"
         ]
