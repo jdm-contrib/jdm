@@ -3922,6 +3922,16 @@
     },
 
     {
+        "name": "CurseForge",
+        "url": "https://support.curseforge.com/en/support/tickets/new",
+        "difficulty": "hard",
+        "notes": "Send a support ticket from the email associated with your account and include the following information: your account username; a screenshot of you logged in to account settings / authors dashboard.",
+        "domains": [
+            "curseforge.com"
+        ]
+    },
+
+    {
         "name": "Curve",
         "url": "https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account",
         "difficulty": "medium",
@@ -4638,6 +4648,16 @@
         "email_subject": "Hello\n, please delete the account associated to this email. My phone number is XXXXXXXX and I would like all data associated to my account to be removed.",
         "domains": [
             "dollskill.com"
+        ]
+    },
+
+    {
+        "name": "DonationAlerts",
+        "url": "https://www.donationalerts.com/dashboard/general-settings/account",
+        "notes": "Press \"Delete account\" under the \"Account removal\". Your account will be deleted within a month.",
+        "difficulty": "easy",
+        "domains": [
+            "donationalerts.com"
         ]
     },
 
@@ -16252,6 +16272,16 @@
         "domains": [
             "streamable.com",
             "support.streamable.com"
+        ]
+    },
+
+    {
+        "name": "StreamLabs",
+        "difficulty": "hard",
+        "notes": "Contact customer support via email, set subject line to \"REQUEST TO DELETE MY ACCOUNT\". You will soon recive an email informing you about need to appeal on Logitec's website in order to fully delete your account with a link provided. Here you will need to enter your name, email, choose \"Data privacy request\" for a topic and say that you want to delete your Streamlabs account in the textbox below",
+        "email": "support@streamlabs.com",
+        "domains": [
+            "streamlabs.com"
         ]
     },
 
