@@ -10232,8 +10232,8 @@
 
     {
         "name": "Lutris",
-        "url": "https://lutris.net",
-        "notes": "After logging in, click on your profile picture in the top right. Then, click on 'Edit Profile,' once on that page, click 'Delete my account.'",
+        "url": "https://lutris.net/user/edit",
+        "notes": "Log in to Lutris, then click on the linked page and scroll down to the 'Delete my account.' button.",
         "difficulty": "easy",
         "domains": [
             "lutris.net"
