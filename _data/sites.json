@@ -1827,6 +1827,16 @@
     },
 
     {
+        "name": "Bearblog",
+        "url": "https://bearblog.dev/accounts/delete/",
+        "difficulty": "easy",
+        "notes": "Follow the link and confirm account deletion.",
+        "domains": [
+            "bearblog.dev"
+        ]
+    },
+
+    {
         "name": "Beatport",
         "url": "https://support.beatport.com/hc/en-us/articles/4412533928596-How-can-I-close-my-account-",
         "difficulty": "hard",
@@ -7850,23 +7860,18 @@
 
     {
         "name": "Hacker News",
-        "url": "https://jacquesmattheij.com/the-unofficial-hn-faq/#deleteaccount",
-        "difficulty": "impossible",
-        "notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address.",
-        "notes_tr": "Katkılarınız kalıcıdır, ancak en azından profilinizi, hatta e-posta adresinizi bile temizleyebilirsiniz.",
-        "notes_fr": "Vos contributions resteront sur le site, mais vous pouvez 'vider' votre profil, même votre email.",
-        "notes_it": "Le tue donazioni resteranno, ma puoi almeno pulire il tuo profilo -- anche il tuo indirizzo email",
-        "notes_pt_br": "Suas contribuições serão mantidas, mas você pode limpar o seu perfil -- inclusive seu endereço de e-mail.",
-        "notes_cat": "Les seves contribucions es mantindran, però pot netejar el seu perfil -- incloent el seu e-mail.",
-        "notes_es": "Tus contribuciones se permanecerán, pero puedes borrar los datos en tu perfil (incluso tu e-mail).",
+        "url": "https://news.ycombinator.com/item?id=23623799",
+        "difficulty": "hard",
+        "notes": "You can remove your account's data, includng your emaill, but removal of your posts should be negotiated with the staff, as it may harm the project.",
         "domains": [
-            "jacquesmattheij.com"
+            "news.ycombinator.com"
         ]
     },
 
     {
         "name": "Hackerrank",
         "url": "https://www.hackerrank.com/settings/account",
+        "email": "hn@ycombinator.com",
         "difficulty": "easy",
         "notes": "According to the site you must go to the profile settings url and there will be a button called 'delete account' which will delete the account if it is wished to. ",
         "notes_tr": "Siteye göre profil ayarları bağlantısına gitmelisiniz ve hesabı silmeye yarayan \"Hesabı Sil\" adlı bir düğme olacaktır. ",
