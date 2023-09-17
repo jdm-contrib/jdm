@@ -7028,15 +7028,8 @@
     {
         "name": "GNOME",
         "url": "https://extensions.gnome.org/accounts/settings",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "In the section Account removal, you need to accept the option delete your account, and input your password.",
-        "notes_tr": "Hesap kaldırma bölümünde, hesabınızı silme seçeneğini kabul etmeniz ve şifrenizi girmeniz gerekiyor.",
-        "notes_fr": "Dans la section Suppression de compte, vous devez accepter l'option supprimer votre compte et saisir votre mot de passe.",
-        "notes_it": "Nella sezione Rimozione account, è necessario accettare l'opzione elimina il tuo account e inserire la tua password.",
-        "notes_de": "Im Abschnitt Konto entfernen müssen Sie die Option Ihr Konto löschen akzeptieren und Ihr Passwort eingeben.",
-        "notes_pt_br": "Na seção Remoção de conta, você precisa aceitar a opção de excluir sua conta e inserir sua senha.",
-        "notes_cat": "A la secció Eliminació de compte, cal que accepteu l'opció d'eliminar el vostre compte i introduir la vostra contrasenya.",
-        "notes_es": "En la sección Eliminación de cuenta, debes aceptar la opción de eliminar tu cuenta e ingresar tu contraseña.",
         "domains": [
             "gnome.org"
         ]
@@ -8798,7 +8791,7 @@
             "intelx.io"
         ]
     },
-    
+
     {
         "name": "Interactive Brokers",
         "url": "https://www.interactivebrokers.com/RegTemplates/PDF/closeAccount.pdf",
