@@ -42,7 +42,7 @@
         "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
         "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "email": "frsales@123rf.com",
-        "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX, I want my account to be deleted because of XXXXXX. I request and authorize you to remove my profile from 123rf.com and delete all my content with you. I wish to terminate the 123RF Contributor Agreement and agree to the Terms and Conditions as set in the Contributor Agreement for the termination process.",
+        "email_body": "I want my account tosega.com be deleted. My full name is XXXXXX and my user name is XXXXXX, I want my account to be deleted because of XXXXXX. I request and authorize you to remove my profile from 123rf.com and delete all my content with you. I wish to terminate the 123RF Contributor Agreement and agree to the Terms and Conditions as set in the Contributor Agreement for the termination process.",
         "domains": [
             "123rf.com"
         ]
@@ -1823,6 +1823,16 @@
         "domains": [
             "beamng.com",
             "support.beamng.com"
+        ]
+    },
+
+    {
+        "name": "Bearblog",
+        "url": "https://bearblog.dev/accounts/delete/",
+        "difficulty": "easy",
+        "notes": "Follow the link and confirm account deletion.",
+        "domains": [
+            "bearblog.dev"
         ]
     },
 
@@ -7850,17 +7860,12 @@
 
     {
         "name": "Hacker News",
-        "url": "https://jacquesmattheij.com/the-unofficial-hn-faq/#deleteaccount",
-        "difficulty": "impossible",
-        "notes": "Your contributions are there to stay, but you can at least clear out your profile -- even your email address.",
-        "notes_tr": "Katkılarınız kalıcıdır, ancak en azından profilinizi, hatta e-posta adresinizi bile temizleyebilirsiniz.",
-        "notes_fr": "Vos contributions resteront sur le site, mais vous pouvez 'vider' votre profil, même votre email.",
-        "notes_it": "Le tue donazioni resteranno, ma puoi almeno pulire il tuo profilo -- anche il tuo indirizzo email",
-        "notes_pt_br": "Suas contribuições serão mantidas, mas você pode limpar o seu perfil -- inclusive seu endereço de e-mail.",
-        "notes_cat": "Les seves contribucions es mantindran, però pot netejar el seu perfil -- incloent el seu e-mail.",
-        "notes_es": "Tus contribuciones se permanecerán, pero puedes borrar los datos en tu perfil (incluso tu e-mail).",
+        "url": "https://news.ycombinator.com/item?id=23623799",
+        "difficulty": "hard",
+        "email": "hn@ycombinator.com",
+        "notes": "You can remove your account's data, including your email, but removal of your posts should be negotiated with the staff, as it may harm the project.",
         "domains": [
-            "jacquesmattheij.com"
+            "news.ycombinator.com"
         ]
     },
 
@@ -15205,6 +15210,21 @@
         "notes": "Scroll down to the bottom of the webpage and click on \"Contact Us\". Fill in the message as \"Please delete my seedr.cc account\", include your registered email in the contact email field, submit the form and wait for their confirmation email. Note that the chances of them actually replying is very very low.",
         "domains": [
             "seedr.cc"
+        ]
+    },
+
+    {
+        "name": "Sega",
+        "url": "https://privacy.sega.com/en/your-rights",
+        "difficulty": "hard",
+        "notes": "Send an email to dataprivacy@sega.com / dpo@sega.co.uk / dataprivacy@segaamerica.com that says \"I want to delete all my data from Sega.\".",
+        "email": "dataprivacy@sega.com",
+        "email_body": "Data erasure.",
+        "email_subject": "I want to delete all my data from Sega",
+        "domains": [
+            "sega.co.jp",
+            "sega.co.uk",
+            "sega.com"
         ]
     },
 
