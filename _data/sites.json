@@ -9350,6 +9350,19 @@
     },
 
     {
+        "name": "Kixeye",
+        "url": "https://corp.kixeye.com/pp.html",
+        "email": "privacy@kixeye.com",
+        "difficulty": "hard",
+        "notes": "Send an email, specifying your username, requesting to delete your account.",
+        "notes_it": "Invia un'email, specificando il tuo nome utente, chiedendo di eliminare il tuo account.",
+        "domains": [
+            "kixeye.com",
+            "corp.kixeye.com"
+        ]
+    },
+
+    {
         "name": "Klarna",
         "url": "https://www.klarna.com/us/customer-service/",
         "difficulty": "hard",
