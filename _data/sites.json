@@ -10926,6 +10926,11 @@
     {
         "name": "Minecraft Tools",
         "url": "https://minecraft.tools/en/contact.php",
+        "url_fr": "https://minecraft.tools/fr/contact.php",
+        "url_de": "https://minecraft.tools/de/contact.php",
+        "url_it": "https://minecraft.tools/it/contact.php",
+        "url_ru": "https://minecraft.tools/ru/contact.php",
+        "url_es": "https://minecraft.tools/es/contact.php",
         "difficulty": "impossible",
         "email": "contact@minecraft.tools",
         "notes": "The only way to contact them is by email, but no one responds.",
