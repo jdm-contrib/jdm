@@ -750,6 +750,10 @@
     {
         "name": "Algor Education",
         "url": "https://en.algoreducation.com/contact-us",
+        "url_es": "https://es.algoreducation.com/contact-us",
+        "url_de": "https://de.algoreducation.com/contact-us",
+        "url_fr": "https://fr.algoreducation.com/contact-us",
+        "url_it": "https://www.algoreducation.com/contattaci",
         "difficulty": "hard",
         "email": "support@algoreducation.com",
         "notes": "Contact the customer support and ask to delete your account.",
