@@ -11349,6 +11349,18 @@
     },
 
     {
+        "name": "Moodle",
+        "url": "https://moodle.org/admin/tool/dataprivacy/createdatarequest.php?type=2",
+        "difficulty": "easy",
+        "notes": "After you place a request, you need to wait until the account is manually deleted by the administrator.",
+        "notes_ru": "После подачи заявки вам нужно подождать, пока аккаунт не удалит администратор.",
+        "notes_ua": "Після подачі заявки вам треба зачекати, поки акаунт не видалить адміністратор.",
+        "domains": [
+            "moodle.com"
+        ]
+    },
+
+    {
         "name": "Moonpig",
         "url": "https://support-uk.moonpig.com/hc/en-gb/articles/360007011998-How-do-I-delete-my-Account-Data-",
         "difficulty": "hard",
@@ -19923,6 +19935,17 @@
         "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
         "domains": [
             "ciceksepeti.com"
+        ]
+    },
+
+    {
+        "name": "Мій Клас",
+        "url": "https://www.miyklas.com.ua/Account/DeleteProfile",
+        "difficulty": "easy",
+        "notes_ru": "Перейдите по сслке и подтвердите удаление аккаунта.",
+        "notes_ua": "Перейдіть за посиланням і підтвердіть видалення акаунту.",
+        "domains": [
+            "miyklas.com.ua"
         ]
     }
 ]
