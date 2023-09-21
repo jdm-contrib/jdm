@@ -11186,6 +11186,17 @@
     },
 
     {
+        "name": "Мій Клас",
+        "url": "hhttps://www.miyklas.com.ua/Account/DeleteProfile",
+        "difficulty": "easy",
+        "notes_ru": "Перейдите по сслке и подтвердите удаление аккаунта.",
+        "notes_ua": "Перейдіть за посиланням і підтвердіть видалення акаунту.",
+        "domains": [
+            "miyklas.com.ua"
+        ]
+    },
+
+    {
         "name": "MMORPG.com",
         "url": "https://www.mmorpg.com/notice/delete-account",
         "difficulty": "easy",
@@ -11332,6 +11343,18 @@
         "notes": "On the linked page, complete the form and ask for your account to be deleted.",
         "domains": [
             "monster.com"
+        ]
+    },
+
+    {
+        "name": "Moodle",
+        "url": "https://moodle.org/admin/tool/dataprivacy/createdatarequest.php?type=2",
+        "notes": "After you place a request, you need to wait until the account is manually deleted by the administrator.",
+        "notes_ru": "После подачи заявки вам нужно подождать, пока аккаунт не удалит администратор.",
+        "notes_ua": "Після подачі заявки вам треба зачекати, поки акаунт не видалить адміністратор.",
+        "difficulty": "easy",
+        "domains": [
+            "moodle.com"
         ]
     },
 
