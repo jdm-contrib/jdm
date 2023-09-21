@@ -750,6 +750,10 @@
     {
         "name": "Algor Education",
         "url": "https://en.algoreducation.com/contact-us",
+        "url_es": "https://es.algoreducation.com/contact-us",
+        "url_de": "https://de.algoreducation.com/contact-us",
+        "url_fr": "https://fr.algoreducation.com/contact-us",
+        "url_it": "https://www.algoreducation.com/contattaci",
         "difficulty": "hard",
         "email": "support@algoreducation.com",
         "notes": "Contact the customer support and ask to delete your account.",
@@ -11086,6 +11090,11 @@
     {
         "name": "Minecraft Tools",
         "url": "https://minecraft.tools/en/contact.php",
+        "url_fr": "https://minecraft.tools/fr/contact.php",
+        "url_de": "https://minecraft.tools/de/contact.php",
+        "url_it": "https://minecraft.tools/it/contact.php",
+        "url_ru": "https://minecraft.tools/ru/contact.php",
+        "url_es": "https://minecraft.tools/es/contact.php",
         "difficulty": "impossible",
         "email": "contact@minecraft.tools",
         "notes": "The only way to contact them is by email, but no one responds.",
