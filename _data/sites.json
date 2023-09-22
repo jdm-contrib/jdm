@@ -10073,6 +10073,17 @@
     },
 
     {
+        "name": "Login.gov",
+        "url": "https://secure.login.gov/account/delete",
+        "difficulty": "easy",
+        "notes": "Sometimes the login page won't redirect properly, click the \"Delete Account\" link on the side if this happens.",
+        "domains": [
+            "login.gov",
+            "secure.login.gov"
+        ]
+    },
+
+    {
         "name": "Logitech",
         "url": "https://support.logi.com/hc/en-us/requests/new",
         "difficulty": "hard",
