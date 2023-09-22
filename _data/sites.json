@@ -19429,6 +19429,31 @@
     },
 
     {
+        "name": "Zanichelli",
+        "url": "https://my.zanichelli.it/registrazione/profilo",
+        "difficulty": "easy",
+        "notes": "Go to your profile, click on the button to delete the account and confirm. Your account will be deleted after 30 days, if you log in during this period, you cancel the deletion of the account.",
+        "notes_it": "Vai sul tuo profilo, clicca sul pulsante per eliminare l'account e conferma. Il tuo account sarà eliminato dopo 30 giorni, se fai il login in questo periodo, annulli la cancellazione dell'account.",
+        "domains": [
+            "zanichelli.it",
+            "my.zanichelli.it",
+            "assistenza.zanichelli.it",
+            "zte.zanichelli.it",
+            "insegnareindigitale.zanichelli.it",
+            "educazionecivica.zanichelli.it",
+            "classivirtuali.zanichelli.it",
+            "creaverifiche.zanichelli.it",
+            "online.scuola.zanichelli.it",
+            "collezioni.scuola.zanichelli.it",
+            "zte-universita.zanichelli.it",
+            "collezioni-universita.zanichelli.it",
+            "zte.unitutor.zanichelli.it",
+            "dizionari.zanichelli.it",
+            "dizionaripiu.zanichelli.it"
+        ]
+    },
+
+    {
         "name": "Zapier",
         "url": "https://zapier.com/app/settings/delete",
         "difficulty": "easy",
