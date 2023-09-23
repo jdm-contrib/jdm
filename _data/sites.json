@@ -5905,6 +5905,18 @@
     },
 
     {
+        "name": "Fin.do",
+        "url": "https://www.fin.do/support",
+        "notes": "Request account deletion via the contact form.",
+        "notes_ru": "Запросите удаление аккаунта через форму обратной связи.",
+        "notes_ua": "Зробіть запит видалення акаунту через форму зворотнього зв'язку.",
+        "difficulty": "hard",
+        "domains": [
+            "fin.do"
+        ]
+    },
+
+    {
         "name": "Firefox",
         "url": "https://accounts.firefox.com/settings/delete_account",
         "difficulty": "easy",
