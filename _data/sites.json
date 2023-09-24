@@ -2772,18 +2772,6 @@
     },
 
     {
-        "name": "Cash'em All Web",
-        "url": "https://cashem-all.com/profile",
-        "email": "contact@appstation.online",
-        "difficulty": "medium",
-        "notes": "Go to settings in the profile page, then click \"Delete account\" and confirm the email. You can also request the deletion via email.",
-        "notes_it": "Vai nelle impostazioni nella pagina del profilo, quindi fai clic su \"Delete account\" e conferma l'email. Puoi anche richiedere la cancellazione via email.",
-        "domains": [
-            "cashem-all.com"
-        ]
-    },
-
-    {
         "name": "Cash'em All",
         "url": "https://cashemall.online/legal/v1/privacy/online.cashemall.app",
         "email": "contact@cashemall.online",
@@ -2792,6 +2780,18 @@
         "notes_it": "Vai nelle impostazioni nella pagina del profilo, quindi fai clic su \"Annullamento dell'iscrizione\" e conferma l'email. Puoi anche richiedere la cancellazione via email.",
         "domains": [
             "cashemall.online"
+        ]
+    },
+
+    {
+        "name": "Cash'em All Web",
+        "url": "https://cashem-all.com/profile",
+        "email": "contact@appstation.online",
+        "difficulty": "medium",
+        "notes": "Go to settings in the profile page, then click \"Delete account\" and confirm the email. You can also request the deletion via email.",
+        "notes_it": "Vai nelle impostazioni nella pagina del profilo, quindi fai clic su \"Delete account\" e conferma l'email. Puoi anche richiedere la cancellazione via email.",
+        "domains": [
+            "cashem-all.com"
         ]
     },
 
