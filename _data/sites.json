@@ -8446,7 +8446,7 @@
     {
         "name": "IBMid",
         "url": "https://www.ibm.com/ibmid/myibm/help/us/helpdesk.html",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "Contact your relevant help desk, and an email should be sent back with confirmation of deletion. You need to contact ibmidsupportuk@ibm.com, if you live in one if the following countries: Austria, Belgium, Denmark, Finland, France, Germany, Italy, Netherlands, Sweden, Switzerland or UK. Else you should contact ibmidsupport@ibm.com.",
         "domains": [
             "ibm.com"
