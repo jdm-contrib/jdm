@@ -910,6 +910,16 @@
     },
 
     {
+        "name": "AmiAmi",
+        "url": "https://support.amiami.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You have to contact their customer service to close your account. Beware, it's supposedly not possible to open a new account on their site after deleting the current one.",
+        "domains": [
+            "https://www.amiami.com/"
+        ]
+    },
+
+    {
         "name": "Anaconda Nucleus",
         "url": "https://anaconda.cloud/profile/privacy-security",
         "difficulty": "easy",
@@ -3840,6 +3850,16 @@
     },
 
     {
+        "name": "Crowdsorsa",
+        "url": "https://crowdsorsa.com/contact/",
+        "difficulty": "hard",
+        "notes": "As of now there's not a simple way to delete your account. You have to contact their team, your account will be quickly deleted upon request.",
+        "domains": [
+            "https://crowdsorsa.com/"
+        ]
+    },
+
+    {
         "name": "Crunchyroll",
         "url": "https://help.crunchyroll.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -6650,6 +6670,16 @@
         "notes_tr": "Hesaplar, 6 ay boyunca herhangi bir işlem yapılmadığında veya destek ekibine bir talep gönderilerek silinir.",
         "domains": [
             "garena.sg"
+        ]
+    },
+
+    {
+        "name": "Garmin",
+        "url": "https://www.garmin.com/account/datamanagement/",
+        "difficulty": "easy",
+        "notes": "Select the DELETE YOUR DATA option under the DATA MANAGEMENT section. Deletion process will be started and an email is sent upon finishing.",
+        "domains": [
+            "https://connect.garmin.com/"
         ]
     },
 
@@ -9647,6 +9677,16 @@
         "notes" : "At the bottom of the linked page, click 'Delete my account'.",
         "domains": [
             "languagetool.org"
+        ]
+    },
+
+    {
+        "name": "LaptopKeyReplacements",
+        "url": "https://www.laptopkeyreplacements.com/contact-us/",
+        "difficulty": "impossible",
+        "notes": "Account deletion request hasn't been fulfilled several months after contacting support.",
+        "domains": [
+            "https://www.laptopkeyreplacements.com/"
         ]
     },
 
@@ -13745,6 +13785,16 @@
             "support.pokemon.com",
             "pokemon.com",
             "club.pokemon.com"
+        ]
+    },
+
+    {
+        "name": "Polar",
+        "url": "https://account.polar.com/",
+        "difficulty": "easy",
+        "notes": "Select the account deletion option from the site.",
+        "domains": [
+            "https://flow.polar.com/diary"
         ]
     },
 
