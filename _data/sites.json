@@ -11723,11 +11723,15 @@
 
     {
         "name": "My Lands",
-        "url": "https://mlgame.co.uk/",
+        "url": "https://uk.mlgame.org/",
+        "url_ru": "https://ru.mlgame.org/",
+        "url_fr": "https://fr.mlgame.org/",
+        "url_it": "https://it.mlgame.org/",
+        "url_cz": "https://cz.mlgame.org/",
         "difficulty": "hard",
         "email": "support_uk@elyland.net",
-        "notes": "Contact the customer support via email and ask to delete your account. You should use the email of the country where you are registered.",
-        "notes_it": "Contatta l'assistenza clienti via email e chiedi di eliminare il tuo account. Dovresti utilizzare l'email della nazione in cui sei registrato.",
+        "notes": "Contact the customer support via email and ask to delete your account. You should use the email of the country where you are registered: it's in the contacts, at the bottom of the website.",
+        "notes_it": "Contatta l'assistenza clienti via email e chiedi di eliminare il tuo account. Dovresti utilizzare l'email della nazione in cui sei registrato: è nei contatti, in fondo al sito web.",
         "domains": [
             "mlgame.org",
             "mlgame.co.uk",
