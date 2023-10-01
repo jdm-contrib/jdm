@@ -9197,9 +9197,9 @@
 
     {
         "name": "Joom",
-        "url": "https://www.joom.com/en/privac",
+        "url": "https://www.joom.com/en/privacy",
         "difficulty": "easy",
-        "notes": "Login to your account, scroll down to the bottom of the privacy policy and click `delete account`. Confirm the deletion dialog. OPTIONAL: Enter an email address to be notified of when deletion completes.",
+        "notes": "Login to your account, scroll down to the bottom of the privacy policy and click \"delete account\". Confirm the deletion dialog. OPTIONAL: Enter an email address to be notified of when deletion completes.",
         "domains": [
             "joom.com"
         ]
