@@ -19456,6 +19456,20 @@
     },
 
     {
+        "name": "Withings",
+        "url": "https://account.withings.com/account/account_delete",
+        "difficulty": "easy",
+        "notes": "You can delete your account after logging in, in one click from the user settings page. You can also choose to have your data sent to you first. The deletion process takes 7 days.",
+        "domains": [
+            "withings.com",
+            "account.withings.com",
+            "blog.withings.com",
+            "healthmate.withings.com",
+            "support.withings.com"
+        ]
+    },
+
+    {
         "name": "Wix",
         "url": "https://manage.wix.com/account/close-account",
         "difficulty": "medium",
