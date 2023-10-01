@@ -915,7 +915,7 @@
         "difficulty": "hard",
         "notes": "You have to contact their customer service to close your account. Beware, it's supposedly not possible to open a new account on their site after deleting the current one.",
         "domains": [
-            "https://www.amiami.com/"
+            "amiami.com"
         ]
     },
 
@@ -3855,7 +3855,7 @@
         "difficulty": "hard",
         "notes": "As of now there's not a simple way to delete your account. You have to contact their team, your account will be quickly deleted upon request.",
         "domains": [
-            "https://crowdsorsa.com/"
+            "crowdsorsa.com"
         ]
     },
 
@@ -6679,7 +6679,7 @@
         "difficulty": "easy",
         "notes": "Select the DELETE YOUR DATA option under the DATA MANAGEMENT section. Deletion process will be started and an email is sent upon finishing.",
         "domains": [
-            "https://connect.garmin.com/"
+            "connect.garmin.com"
         ]
     },
 
@@ -9686,7 +9686,7 @@
         "difficulty": "impossible",
         "notes": "Account deletion request hasn't been fulfilled several months after contacting support.",
         "domains": [
-            "https://www.laptopkeyreplacements.com/"
+            "laptopkeyreplacements.com"
         ]
     },
 
@@ -13794,7 +13794,7 @@
         "difficulty": "easy",
         "notes": "Select the account deletion option from the site.",
         "domains": [
-            "https://flow.polar.com/diary"
+            "flow.polar.com"
         ]
     },
 
