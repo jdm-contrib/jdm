@@ -5464,6 +5464,40 @@
     },
 
     {
+        "name": "Epoch Times",
+        "url": "https://help.theepochtimes.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Send a request to customer support demanding for the deletion of your account.",
+        "domains": [
+            "reader.epoch.cloud",
+            "epochtimes.bg",
+            "epochtimes.com",
+            "epochtimes.com.au",
+            "epochtimes.com.br",
+            "epochtimes.cz",
+            "epochtimes.de",
+            "epochtimes.fr",
+            "epochtimes.it",
+            "epochtimes.jp",
+            "epochtimes.nl",
+            "epochtimes.pl",
+            "epochtimes.ru",
+            "epochtimes.se",
+            "epochtimes.sk",
+            "epochtimes-romania.com",
+            "epochtimestr.com",
+            "epochtimesviet.com",
+            "erabaru.net",
+            "help.theepochtimes.com",
+            "persianepochtimes.com",
+            "theepochtimes.com",
+            "es.theepochtimes.com",
+            "kr.theepochtimes.com",
+            "theepochtimes.gr"
+        ]
+    },
+
+    {
         "name": "eProject.me",
         "url": "https://eproject.me",
         "difficulty": "hard",
