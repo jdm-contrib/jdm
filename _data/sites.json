@@ -2007,6 +2007,18 @@
         "domains": [
             "bigstockphoto.com"
         ]
+    },   
+
+    {
+        "name": "Bikemap",
+        "url": "https://www.bikemap.net/",
+        "difficulty": "easy",
+        "notes": "Login, click settings, click 'Delete Account', confirm.",
+        "domains": [
+            "bikemap.net",
+            "blog.bikemap.net",
+            "help.bikemap.net"
+        ]
     },
 
     {
