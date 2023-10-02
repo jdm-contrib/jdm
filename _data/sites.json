@@ -8306,7 +8306,7 @@
 
     {
         "name": "Holopin",
-        "email": "team@holopin.io",
+        "email": "support@holopin.io",
         "url": "https://www.holopin.io/privacy.html",
         "difficulty": "hard",
         "notes": "Account deletion requires contacting Customer Support.",
@@ -8318,8 +8318,9 @@
         "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
-            "https://www.holopin.com",
-            "holopin.io"
+            "holopin.io",
+            "blog.holopin.io",
+            "docs.holopin.io"
         ]
     },
 
