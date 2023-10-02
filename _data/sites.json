@@ -4062,6 +4062,16 @@
     },
 
     {
+        "name": "DagsHub",
+        "url": "https://dagshub.com/user/settings/delete",
+        "difficulty": "medium",
+        "notes": "You first need to delete/transfer all your repositories. After that you can visit the linked page and delete your account.",
+        "domains": [
+            "dagshub.com"
+        ]
+    },
+
+    {
         "name": "The Daily Wire",
         "url": "https://privacy.dailywire.com/",
         "difficulty": "easy",
