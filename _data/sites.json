@@ -6886,6 +6886,17 @@
     },
 
     {
+        "name": "Genymotion Desktop",
+        "url": "https://www-v1.genymotion.com/account/#account-info",
+        "difficulty": "easy",
+        "notes": "Log in, and on the \"Account Info\" tab, scroll to the bottom and click \"Delete account\". There should then be a confirmation box, where you can delete your account.",
+        "domains": [
+            "genymotion.com",
+            "www-v1.genymotion.com"
+        ]
+    },
+
+    {
         "name": "Geocaching",
         "url": "https://www.geocaching.com/account/settings/account",
         "difficulty": "easy",
