@@ -20036,6 +20036,18 @@
     },
 
     {
+        "name": "Zenamu",
+        "url": "https://zenamu.com/contact/",
+        "difficulty": "hard",
+        "notes": "To request account deletion, you must email them",
+        "email": "support@zenamu.com",
+        "domains": [
+            "zenamu.com",
+            "app.zenamu.com"
+        ]
+    },
+
+    {
         "name": "Zendesk",
         "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
         "difficulty": "easy",
