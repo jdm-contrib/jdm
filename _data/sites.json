@@ -6886,6 +6886,17 @@
     },
 
     {
+        "name": "Genymotion Cloud (SaaS)",
+        "url": "https://support.genymotion.com/hc/en-us/requests/new?ticket_form_id=360000289657",
+        "difficulty": "hard",
+        "notes": "First, log in to your account and go to the  <a href=\"https://cloud.geny.io/administration/\">Administration Panel</a>, cancel your plan and remove all credit cards. \nAfter doing that, you can <a href=\"https://support.genymotion.com/hc/en-us/requests/new?ticket_form_id=360000289657\">submit a support ticket requesting the account deletion</a>.",
+        "domains": [
+            "geny.io",
+            "cloud.geny.io"
+        ]
+    },
+
+    {
         "name": "Genymotion Desktop",
         "url": "https://www-v1.genymotion.com/account/#account-info",
         "difficulty": "easy",
