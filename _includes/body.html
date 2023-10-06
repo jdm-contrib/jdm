@@ -1,3 +1,4 @@
+<!-- Search / Filter section -->
 <div class="search">
     <div class="search-container">
         <input type="text" id="search" placeholder="{{ site.data.trans[page.lang].search }}">
@@ -13,6 +14,7 @@
     </div>
 </div>
 
+<!-- Site list -->
 <main>
     <section class="sites" id="sites">
         <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/jdm-contrib/jdm'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
@@ -43,9 +45,9 @@
                 {% if entry.notes or entry[lang_notes] or entry.email or entry.difficulty == 'easy' %}
                     <div class="tooltip-content">
                         {% if entry[lang_notes] %}
-                            {{ entry[lang_notes] }}
+                            {{ entry[lang_notes] | markdownify }}
                         {% elsif entry.notes %}
-                            {{ entry.notes }}
+                            {{ entry.notes | markdownify }}
                         {% elsif entry.email %}
                             {{ site.data.trans[page.lang].defaultnote_email }}
                         {% elsif entry.difficulty == 'easy' %}
@@ -149,6 +151,7 @@
     </ul>
 </div>
 
+<!-- Numerical sorting -->
 <div id="number-dropdown" class="dropdown dropdown-tip">
     <ul class="dropdown-menu ltr">
         <span class="alpha-sort">
@@ -160,6 +163,7 @@
     </ul>
 </div>
 
+<!-- Difficulty sorting -->
 <div id="difficulty-dropdown" class="dropdown dropdown-tip">
     <ul class="dropdown-menu">
         <span class="diff-sort">
