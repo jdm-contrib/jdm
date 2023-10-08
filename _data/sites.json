@@ -2540,7 +2540,7 @@
         "name": "British Airways",
         "url": "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
         "difficulty": "hard",
-        "notes": "Must send a request in writing. See this page for contact details [https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us](https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us)",
+        "notes": "Must send a request in writing. See [this page](https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us) for contact details.",
         "notes_tr": "Yazılı bir istek gönderilmelidir. İletişim detayları için iletişim bağlantısına bakın.",
         "domains": [
             "britishairways.com"
@@ -3540,8 +3540,7 @@
         "name": "Coinbase",
         "url": "https://www.coinbase.com/settings/privacy-rights",
         "difficulty": "medium",
-        "notes": "Sign in then visit [https://www.coinbase.com/settings/account_activity](https://www.coinbase.com/settings/privacy-rights\">https://www.coinbase.com/settings/privacy-rights</a> and request the deletion of all of your data. You will then be directed to <a href=\"https://www.coinbase.com/settings/account_activity) where you must close your account after withdrawing all funds.",
-        "notes_tr": "Giriş yapın ve bağlantıyı ziyaret edin. Sayfanın altında hesabınızı kapatmak için bir seçenek göreceksiniz. Hesabı silmek için, hesabınızda bekleyen ödemelerin olmaması gerekir.",
+        "notes": "Sign in then visit [their website](https://www.coinbase.com/settings/privacy-rights) and request the deletion of all of your data. You will then be directed to [their account activity page](https://www.coinbase.com/settings/account_activity) where you must close your account after withdrawing all funds.",
         "domains": [
             "coinbase.com"
         ]
@@ -3788,7 +3787,7 @@
         "name": "CreditExpert",
         "url": "https://www.creditexpert.co.uk",
         "difficulty": "hard",
-        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info here: [http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS](http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS)",
+        "notes": "You can cancel by email but only if your membership includes insurance. Otherwise, an email cancellation will be ignored. You have to call 0800 561 0083 to cancel your account. This is the only way. More info [here](http://experian.metafaq.com/help/CreditExpertBRS/Cancel_and_duration/CancelBRS)",
         "notes_tr": "Üyeliğinizi sadece sigorta içeriyorsa e-posta ile iptal edebilirsiniz. Aksi takdirde, e-posta ile gönderdiğiniz iptal mesajları görmezden gelinecek. Hesabınızı iptal etmek için 0800 561 0083 numarasını aramak zorundasınız. Bu yapabileceğiniz tek yol. Daha fazlası için bağlantıya göz atın.",
         "email": "Customerservice@creditexpert.co.uk",
         "domains": [
@@ -4487,7 +4486,7 @@
         "name": "Discord",
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "medium",
-        "notes": "Account deletion will not delete your messages, which you must do manually (Automating this process is possible using projects such as Undiscord). If you're a server owner, you'll need to either [transfer ownership](https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-\">delete the server</a>, or <a href=\"https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
+        "notes": "Account deletion will not delete your messages, which you must do manually (Automating this process is possible using projects such as Undiscord). If you're a server owner, you'll need to either [delete the server](https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-), or [transfer ownership](https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
         "domains": [
             "discord.com",
             "support.discord.com",
@@ -4983,7 +4982,7 @@
         "name": "Dropmark",
         "url": "https://support.dropmark.com/article/92-how-do-i-delete-my-account",
         "difficulty": "medium",
-        "notes": "Personal accounts can be deleted from the \"Danger Zone\" section at the bottom of your [delete all collections](https://app.dropmark.com/account\">Account page</a>. Note: Before deleting your personal account, you must first <a href=\"https://support.dropmark.com/article/53-transferring-collection-ownership\">transfer ownership</a> or <a href=\"https://support.dropmark.com/article/20-deleting-a-collection) owned by your account.",
+        "notes": "Personal accounts can be deleted from the \"Danger Zone\" section at the bottom of your [Account page](https://app.dropmark.com/account). Note: Before deleting your personal account, you must first [transfer ownership](https://support.dropmark.com/article/53-transferring-collection-ownership) or [delete all collections](https://support.dropmark.com/article/20-deleting-a-collection) owned by your account.",
         "notes_tr": "Kişisel hesaplar, hesap sayfasının alt kısmında bulunan \"Tehlikeli Bölge\" bölümünden silinebilir. Not: Kişisel hesabınızı silmeden önce, hesabınızda bulunan koleksiyonları silmeniz veya sahipliği devretmeniz gerekir.",
         "domains": [
             "dropmark.com",
@@ -5017,8 +5016,8 @@
         "url": "https://help.duo.com/s/article/2162",
         "difficulty": "hard",
         "email": "support@duosecurity.com",
-        "notes": "Delete all applications, users and other administrators in the Admin Panel according to the [ support article ](https://help.duo.com/s/article/2162), then contact support via email.",
-        "notes_pt_br": "Apague todos os aplicativos, usuários e outros administradores no Painel de Aministrador, de acordo com [ o artigo do suporte](https://help.duo.com/s/article/2162), depois contate o suporte via e-mail.",
+        "notes": "Delete all applications, users and other administrators in the Admin Panel according to the [support article](https://help.duo.com/s/article/2162), then contact support via email.",
+        "notes_pt_br": "Apague todos os aplicativos, usuários e outros administradores no Painel de Aministrador, de acordo com [o artigo do suporte](https://help.duo.com/s/article/2162), depois contate o suporte via e-mail.",
         "domains": [
             "duo.com",
             "help.duo.com",
@@ -8547,7 +8546,7 @@
         "name": "Humble Bundle",
         "url": "https://dsar.humblebundle.com",
         "difficulty": "medium",
-        "notes": "The easiest method is to submit a Data Subject Access Request at their [submit a support request](https://dsar.humblebundle.com/\">DSAR Privacy Portal</a> to request account deletion. Alternatively, you can also <a href=\"https://support.humblebundle.com/hc/en-us/requests/new) for account deletion. In the linked page under \"What can we help you with?\" select \"Humble Bundle Account\" ⮕ \"Delete Account\", fill in your email, enter \"Account deletion\" as subject, add your honest reason for account deletion in the message, and submit. Someone from support should contact you and guide you further.",
+        "notes": "The easiest method is to submit a Data Subject Access Request at their [DSAR Privacy Portal](https://dsar.humblebundle.com/) to request account deletion. Alternatively, you can also [submit a support request](https://support.humblebundle.com/hc/en-us/requests/new) for account deletion. In the linked page under \"What can we help you with?\" select \"Humble Bundle Account\" ⮕ \"Delete Account\", fill in your email, enter \"Account deletion\" as subject, add your honest reason for account deletion in the message, and submit. Someone from support should contact you and guide you further.",
         "domains": [
             "humblebundle.com",
             "dsar.humblebundle.com"
@@ -11616,9 +11615,9 @@
         "name": "Mozilla Developer Network (MDN)",
         "url": "https://bugzilla.mozilla.org/enter_bug.cgi?product=developer.mozilla.org",
         "difficulty": "hard",
-        "notes": "Log in to Bugzilla and create a bug report to request the deletion of your account (see examples: [#1353345](https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345)).</br></br>If you have made contributions to the MDN Web Docs, you will also need to specify what you would like to happen with them after deleting your account.",
+        "notes": "Log in to Bugzilla and create a bug report to request the deletion of your account (see examples: [#1576401](https://bugzilla.mozilla.org/show_bug.cgi?id=1576401)and [#1353345](https://bugzilla.mozilla.org/show_bug.cgi?id=1353345)).</br></br>If you have made contributions to the MDN Web Docs, you will also need to specify what you would like to happen with them after deleting your account.",
         "notes_tr": "Bugzilla'da oturum açın ve hesabınızın silinmesini istemek için bir hata raporu oluşturun, aşağıdaki örneklere bakın. MDN Web Belgelerine katkıda bulunduysanız, hesabınızı sildikten sonra bunlara ne olmasını istediğinizi de belirtmeniz gerekecektir.",
-        "notes_pt_br": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: [#1353345](https://bugzilla.mozilla.org/show_bug.cgi?id=1576401\">#1576401</a> e <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1353345))</br></br>Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
+        "notes_pt_br": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: [#1576401](https://bugzilla.mozilla.org/show_bug.cgi?id=1576401) e [#1353345](https://bugzilla.mozilla.org/show_bug.cgi?id=1353345))</br></br>Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
         "domains": [
             "bugzilla.mozilla.org",
             "developer.mozilla.org"
@@ -17300,9 +17299,9 @@
         "name": "Threema",
         "url": "https://myid.threema.ch/revoke",
         "difficulty": "easy",
-        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to [https://myid.threema.ch/unlink](https://myid.threema.ch/revoke\">https://myid.threema.ch/unlink</a> and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under <a href=\"https://myid.threema.ch/unlink).",
+        "notes": "In the app, go to your ID and select 'Delete ID' at the bottom. Alternatively go to [https://myid.threema.ch/revoke](https://myid.threema.ch/revoke) and remove your ID with your revocation password. If you do not have one, you can only unlink your phone number and mail under [https://myid.threema.ch/unlink](https://myid.threema.ch/unlink).",
         "notes_tr": "Uygulamada kimliğinize gidin ve alttaki \"Kimliği Sil\" öğesini seçin. Alternatif olarak verilen bağlantıya gidin ve iptal etme şifrenizle kimliğinizi kaldırın. Telefon numaranız yoksa, yalnızca bu bağlantı altında telefon numaranız ve e-postanız arasındaki bağlantıyı kaldırabilirsiniz.",
-        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu [https://myid.threema.ch/unlink](https://myid.threema.ch/revoke\">https://myid.threema.ch/unlink</a> gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter <a href=\"https://myid.threema.ch/unlink) von der ID entfernen.",
+        "notes_de": "Gehe in der App zu deiner ID und wähle 'ID löschen' am unteren Rand aus. Alternativ kannst du zu [https://myid.threema.ch/revoke](https://myid.threema.ch/revoke) gehen und dort deine ID mit deinem Widerrufspassword löschen. Wenn du dies nicht hast, kannst du nur deine Telefonnummer und E-Mail-Adresse unter [https://myid.threema.ch/unlink](https://myid.threema.ch/unlink) von der ID entfernen.",
         "domains": [
             "threema.ch",
             "myid.threema.ch"
@@ -19059,7 +19058,7 @@
         "domains": [
             "which.co.uk"
         ],
-        "notes": "Require your membership number to be sent in the email. This can be found here [https://www.which.co.uk/account/#/](https://www.which.co.uk/account/#/)",
+        "notes": "Require your membership number to be sent in the email. This can be found [here](https://www.which.co.uk/account/#/)",
         "notes_tr": "Üyelik numaranızın e-postayla gönderilmesi gerekiyor. Bu hesap bağlantısından bulunabilir."
     },
 
