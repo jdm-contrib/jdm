@@ -421,7 +421,7 @@
         "name": "ActiveCampaign",
         "url": "https://ac.activehosted.com/f/2175",
         "difficulty": "hard",
-        "notes": "For account deletion requests or requests to remove all account information, submit the <a href='https://ac.activehosted.com/f/2175'>Data Subject Rights Request form</a>. When asked \"What would you like to initiate with us?\" choose the option <b>I want to be forgotten, and want my personal data erased</b> in .",
+        "notes": "For account deletion requests or requests to remove all account information, submit the [Data Subject Rights Request form](https://ac.activehosted.com/f/2175). When asked \"What would you like to initiate with us?\" choose the option <b>I want to be forgotten, and want my personal data erased</b> in .",
         "notes_ru": "Для запроса на удаление учетной записи или запроса на удаление всей информации учетной записи отправьте форму запроса прав субъекта данных. На вопрос: «Что бы вы хотели принять с нами?» выберите вариант «Я хочу, чтобы меня забыли, и хочу, чтобы мои личные данные были удалены».",
         "domains": [
             "activehosted.com",
@@ -2096,7 +2096,7 @@
         "name": "Bitstamp",
         "url": "https://www.bitstamp.net/settings/deactivate/",
         "difficulty": "easy",
-        "notes": "Process described on their <a href=\"https://www.bitstamp.net/faq/how-can-i-close-my-account/\">FAQ</a>. You will need to enter your password to confirm the operation.",
+        "notes": "Process described on their [FAQ](https://www.bitstamp.net/faq/how-can-i-close-my-account/). You will need to enter your password to confirm the operation.",
         "domains": [
             "bitstamp.net"
         ]
@@ -2200,7 +2200,7 @@
         "meta": "popular",
         "url": "https://support.google.com/blogger/answer/41932",
         "difficulty": "impossible",
-        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
+        "notes": "You can't delete your Blogger Account without deleting your entire Google Account. But you can delete your blog.\nIf you want to delete your entire google account, use the instructions for [Google](https://justdeleteme.xyz/#google).",
         "notes_tr": "Google hesabınızın tamamını silmeden Blogger hesabınızı silemezsiniz. Fakat blogunuzu silebilirsiniz.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte Blogger sans supprimer votre compte Google, mais vous pouvez supprimer votre blog.",
         "notes_cat": "Haurieu d'esborrar tot el compte de Google. Tanmateix, també podeu esborrar únicament el vostre blog.",
@@ -2616,7 +2616,7 @@
         "name": "Bukkit",
         "url": "https://bukkit.org",
         "difficulty": "impossible",
-        "notes": "Message an <a href='https://bukkit.org/XenStaff/'>administrator</a> (<a href='https://bukkit.org/members/timtower.87695/'>timtower</a> is the most active) and tell them you want your account deleted, and they will tell you it will be done when it's possible.<br> So deletion of an account is not an option.",
+        "notes": "Message an [administrator](https://bukkit.org/XenStaff/') ([timtower](https://bukkit.org/members/timtower.87695/) is the most active) and tell them you want your account deleted, and they will tell you it will be done when it's possible.<br> So deletion of an account is not an option.",
         "domains": [
             "bukkit.org"
         ]
@@ -3149,7 +3149,7 @@
         "name": "Chegg",
         "url": "https://www.chegg.com/contactus",
         "difficulty": "hard",
-        "notes": "To close your account, contact support with the email listed, call/message (408)-351-0942, or request assistance via their twitter [here](https://twitter.com/chegghelp\">@CheggHelp</a>. For data deletion, click <a href=\"https://privacyportal-cdn.onetrust.com/dsarwebform/a21a74f4-2f93-44a2-a887-302a9213c997/06b040b7-49eb-464a-b19a-ea35c85c79fc.html).",
+        "notes": "To close your account, contact support with the email listed, call/message (408)-351-0942, or request assistance via their twitter [@CheggHelp](https://twitter.com/chegghelp). For data deletion, click [here](https://privacyportal-cdn.onetrust.com/dsarwebform/a21a74f4-2f93-44a2-a887-302a9213c997/06b040b7-49eb-464a-b19a-ea35c85c79fc.html).",
         "email": "closemyaccount@chegg.com",
         "domains": [
             "chegg.com"
@@ -3170,7 +3170,7 @@
         "name": "Chick-fil-A",
         "url": "https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55",
         "difficulty": "hard",
-        "notes": "Fill out the provided <a href='https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55'> privacy web form</a>, send an email to mailto:privacy@chick-fil-a.com, or call 1-866-232-2040.",
+        "notes": "Fill out the provided [ privacy web form](https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55), send an email to mailto:privacy@chick-fil-a.com, or call 1-866-232-2040.",
         "domains": [
             "chick-fil-a.com"
         ]
@@ -3190,7 +3190,7 @@
         "name": "CircleCI",
         "url": "https://privacy.circleci.com",
         "difficulty": "easy",
-        "notes": "Visit the linked page and click 'Make a Privacy Request', and then 'Delete all my data'. Enter your email address. You will receive an email; In that email, click 'Log in', and then 'Confirm Request'. More info <a href='https://support.circleci.com/hc/en-us/articles/360037058873'>here</a>.",
+        "notes": "Visit the linked page and click 'Make a Privacy Request', and then 'Delete all my data'. Enter your email address. You will receive an email; In that email, click 'Log in', and then 'Confirm Request'. More info [here](https://support.circleci.com/hc/en-us/articles/360037058873).",
         "domains": [
             "circleci.com",
             "app.circleci.com"
@@ -4053,8 +4053,8 @@
         "name": "DaFONT",
         "url": "https://www.dafont.com/forum/read/12643/how-do-i-delete-my-account",
         "difficulty": "hard",
-        "notes": "Send a private message to <a href='http://www.dafont.com/fr/profile.php?user=1'>Rodolphe</a>.",
-        "notes_it": "Dovrai mandare un messagio privato a <a href='http://www.dafont.com/fr/profile.php?user=1'>Rodolphe</a>",
+        "notes": "Send a private message to [Rodolphe](http://www.dafont.com/fr/profile.php?user=1).",
+        "notes_it": "Dovrai mandare un messagio privato a [Rodolphe](http://www.dafont.com/fr/profile.php?user=1)",
         "domains":[
             "dafont.com"
         ]
@@ -6875,7 +6875,7 @@
         "name": "Gentoo Forums",
         "url": "https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests",
         "difficulty": "hard",
-        "notes": "Send an email to forum-mods@gentoo.org requesting account deletion. However, all your forum posts and comments will still be shown, and your account will only be anonymized as detailed <a href='https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests'>here</a>.",
+        "notes": "Send an email to forum-mods@gentoo.org requesting account deletion. However, all your forum posts and comments will still be shown, and your account will only be anonymized as detailed [here](https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests).",
         "email": "forum-mods@gentoo.org",
         "email_subject": "Account Removal Request",
         "email_body": "I request for my Gentoo Forums account to be deleted. My username is XXXXXXXXX",
@@ -7146,7 +7146,7 @@
         "name": "Gmail",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to gmail, enter your new email address, and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
+        "notes": "Click the trash can next to gmail, enter your new email address, and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for [Google](https://justdeleteme.xyz/#google).",
         "notes_tr": "Gmail'in yanındaki çöp kutusunu tıklayın, yeni e-posta adresinizi girin ve doğrulama e-postasını onaylayın",
         "domains": [
             "gmail.com",
@@ -7564,7 +7564,7 @@
         "name": "Google One",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to Google One and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
+        "notes": "Click the trash can next to Google One and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for [Google](https://justdeleteme.xyz/#google).",
         "domains": [
             "one.google.com"
         ]
@@ -7574,7 +7574,7 @@
         "name": "Google Pay",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to Google Pay and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
+        "notes": "Click the trash can next to Google Pay and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for [Google](https://justdeleteme.xyz/#google).",
         "domains": [
             "pay.google.com"
         ]
@@ -10683,7 +10683,7 @@
         "meta": "popular",
         "url": "https://help.match.com/hc/en-us/articles/5610035266075-Delete-My-Account",
         "difficulty": "medium",
-        "notes": "Only possible within the mobile app, otherwise can only be done via <a href='https://help.match.com/hc/en-us/requests/new'>contacting support</a>.",
+        "notes": "Only possible within the mobile app, otherwise can only be done via [contacting support](https://help.match.com/hc/en-us/requests/new).",
         "domains": [
             "match.com",
             "help.match.com"
@@ -10819,7 +10819,6 @@
         "difficulty": "hard",
         "notes": "No information is clearly provided how to delete account. You have to send an email to explicitly ask for deletion of every information related to your account otherwise they will only disable it.",
         "notes_tr": "Hesabın nasıl silineceği açıkça belirtilmemiştir. Hesabınızla ilgili her bilginin silinmesini açıkça istemek için bir e-posta göndermelisiniz, aksi takdirde yalnızca devre dışı bırakırlar.",
-        "notes_fr": "Il faut envoyer un mail et demander la suppression définitive de toute information liée au compte, sinon ils vont uniquement le désactiver(ex: les données bancaires demeurent). Conseil: Invoquer la CNIL (<a href\"https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet\">https://www.cnil.fr/fr/modele/courrier/supprimer-des-informations-vous-concernant-dun-site-internet</a>).",
         "domains": [
             "mediapart.fr"
         ]
@@ -11267,7 +11266,7 @@
     {
         "name": "Minecraft",
         "url": "https://help.minecraft.net/hc/en-us/requests/new",
-        "notes": "On this page, chose the dropdown boxes that apply. Preferably use the email address that the account is associated with. You will be required to supply the transaction ID for the purchase of the account, or any other valid proof-of-purchase. If you have migrated to a Microsoft account, visit <a href='https://support.xbox.com/contact-us'>Xbox Support</a>, sign in, and start a session with the virtual agent. Specify that your minecraft profile is linked to your microsoft account, and that you wish for it to be deleted. Alternatively, if you do not use your Microsoft account for anything else, you can <a href='https://account.live.com/closeaccount.aspx'>delete it</a> entirely.",
+        "notes": "On the linked page, chose the dropdown boxes that apply. Preferably use the email address that the account is associated with. You will be required to supply the transaction ID for the purchase of the account, or any other valid proof-of-purchase. If you have migrated to a Microsoft account, visit [this page](https://support.xbox.com/contact-us), sign in, and start a session with the virtual agent. Specify that your minecraft profile is linked to your microsoft account, and that you wish for it to be deleted. Alternatively, if you do not use your Microsoft account for anything else, you can [close your account](https://account.live.com/closeaccount.aspx) entirely.",
         "difficulty": "hard",
         "domains": [
             "minecraft.net",
@@ -14734,7 +14733,7 @@
         "name": "RedShelf",
         "url": "https://solve.redshelf.com/hc/requests/new?ticket_form_id=1260804993770",
         "difficulty": "hard",
-        "notes": "Brytewave users should <a href='https://www.follett.com/policies/'>submit a DSAR request to Follett</a>.",
+        "notes": "Brytewave users should [submit a DSAR request to Follett](https://www.follett.com/policies/).",
         "domains": [
             "redshelf.com",
             "solve.redshelf.com"
@@ -14860,7 +14859,7 @@
         "name": "Resy",
         "url": "https://resy.com/terms",
         "difficulty": "hard",
-        "notes": "While self-deletion is possible through <a href='https://apps.apple.com/app/apple-store/id866163372'>their app</a>, it is iOS only. Everyone else must send an email.",
+        "notes": "While self-deletion is possible through [their app](https://apps.apple.com/app/apple-store/id866163372), it is iOS only. Everyone else must send an email.",
         "email": "help@resy.com",
         "email_body": "Please delete my Resy account as I do not wish to use it any further.",
         "domains": [
@@ -15722,7 +15721,7 @@
         "name": "Shutterstock",
         "url": "https://www.shutterstock.com/account/profile",
         "difficulty": "easy",
-        "notes": "Go to your <a href='//www.shutterstock.com/account/profile'>account details</a> and press <a href='//accounts.shutterstock.com/remove'>Delete my account</a> and confirm.",
+        "notes": "Go to your [account details](https://www.shutterstock.com/account/profile) and press [Delete my account](https://accounts.shutterstock.com/remove) and confirm.",
         "domains": [
             "shutterstock.com",
             "accounts.shutterstock.com"
@@ -15865,7 +15864,7 @@
         "meta": "popular",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
         "difficulty": "impossible",
-        "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.\nIf you want to delete your entire Microsoft account, use the instructions for <a  href=\"https://justdeleteme.xyz/#microsoft\">Microsoft Account</a>.",
+        "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.\nIf you want to delete your entire Microsoft account, use the instructions for [Microsoft Account](https://justdeleteme.xyz/#microsoft).",
         "domains": [
             "skype.com",
             "support.skype.com"
@@ -15876,7 +15875,7 @@
         "name": "SkySilk",
         "url": "https://help.skysilk.com/support/solutions/articles/9000106317-how-do-i-deactivate-my-account-",
         "difficulty": "limited",
-        "notes": "Once you <a href='https://www.skysilk.com/settings/deactivation'>deactivate your account</a> you can request a GDPR delete by submitting the request in a <a href='https://help.skysilk.com/support/tickets/new'>support ticket</a>. A GDPR delete will erase 100% of your personal information that you provided when you created an account with them.",
+        "notes": "Once you [deactivate your account](https://www.skysilk.com/settings/deactivation) you can request a GDPR delete by submitting the request in a [support ticket](https://help.skysilk.com/support/tickets/new). A GDPR delete will erase 100% of your personal information that you provided when you created an account with them.",
         "domains": [
             "skysilk.com"
         ]
@@ -17235,7 +17234,7 @@
         "name": "Textures.com",
         "url": "https://www.textures.com/my-account/delete",
         "difficulty": "easy",
-        "notes": "If you want to permanently delete your Textures.com account, go to the <a href='https://www.textures.com/my-account/delete'><b>Delete Account</b> tab on your account</a> fill out your password and press <b>Delete My Account</b>.",
+        "notes": "If you want to permanently delete your Textures.com account, go to the [<b>Delete Account</b> tab on your account](https://www.textures.com/my-account/delete) fill out your password and press <b>Delete My Account</b>.",
         "domains": [
             "textures.com"
         ]
@@ -19112,7 +19111,7 @@
         "name": "Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/Commons:Username_policy#Deleting_your_account",
         "difficulty": "impossible",
-        "notes": "An account cannot be deleted as all contibutions to Wikimedia Commons are licensed under licenses that require attribution. However, you can place the template {{SD|U1}} on your user and talk pages, and rename your account to something random <a href='https://commons.wikimedia.org/wiki/Special:GlobalRenameRequest'>here</a>",
+        "notes": "An account cannot be deleted as all contibutions to Wikimedia Commons are licensed under licenses that require attribution. However, you can place the template {{SD|U1}} on your user and talk pages, and rename your account to something random [here](https://commons.wikimedia.org/wiki/Special:GlobalRenameRequest)",
         "domains": [
             "commons.wikimedia.org",
             "commons.m.wikimedia.org"
@@ -19124,7 +19123,7 @@
         "meta": "popular",
         "url": "https://en.wikipedia.org/wiki/Wikipedia:FAQ/Main#How_do_I_change_my_username%2Fdelete_my_account?",
         "difficulty": "impossible",
-        "notes": "An account cannot be deleted because to all contributions to Wikipedia are licensed under licenses that require attribution. However, they do have some suggestions, such as <a href='https://en.wikipedia.org/wiki/Wikipedia:Courtesy_vanishing'>Courtesy Vanishing</a>",
+        "notes": "An account cannot be deleted because to all contributions to Wikipedia are licensed under licenses that require attribution. However, they do have some suggestions, such as [Courtesy Vanishing](https://en.wikipedia.org/wiki/Wikipedia:Courtesy_vanishing)",
         "notes_tr": "'Bir kullanıcı adı silinemez.' Ancak, bazı önerileri var.",
         "notes_fr": "Vous ne pouvez pas supprimer votre compte.",
         "notes_it": "'Un username non può essere eliminato.'. In ogni caso, ci sono alcuni consigli.",
@@ -19657,7 +19656,7 @@
         "meta": "popular",
         "url": "https://wordpress.org/about/privacy/data-erasure-request",
         "difficulty": "impossible",
-        "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data <a href='https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account'>https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account</a>",
+        "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data [https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account](https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account)",
         "domains": [
             "wordpress.org"
         ]
@@ -19868,7 +19867,7 @@
         "meta": "popular",
         "url": "https://myaccount.google.com/deleteservices",
         "difficulty": "medium",
-        "notes": "Click the trash can next to YouTube and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for <a  href=\"https://justdeleteme.xyz/#google\">Google</a>.",
+        "notes": "Click the trash can next to YouTube and confirm the verification email. You can request a copy of your data, before you delete it.\nIf you want to delete your entire google account, use the instructions for [Google](https://justdeleteme.xyz/#google).",
         "notes_tr": "YouTube hesabınızı silmeden önce verilerinizin bir kopyasını talep edebilirsiniz.",
         "notes_ru": "Вы можете запросить копию данных перед удалением учетной записи YouTube.",
         "domains": [
