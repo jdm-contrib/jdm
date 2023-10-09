@@ -706,6 +706,17 @@
     },
 
     {
+        "name": "Akinator",
+        "url": "https://akinator.com",
+        "difficulty": "easy",
+        "notes": "At the app ⮕ Click in settings (gear icon) ⮕ Account settings ⮕ Delete account (at the bottom of the screen).",
+        "notes_pt_br": "No aplicativo ⮕ Clique em configurações (ícone da engrenagem) ⮕ Configurações de conta ⮕ Excluir conta (no fim da tela).",
+        "domains": [
+            "akinator.com"
+        ]
+    },
+
+    {
         "name": "Albion Online",
         "url": "https://albiononline.com/en/profile/support",
         "difficulty": "hard",
