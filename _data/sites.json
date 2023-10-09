@@ -15716,6 +15716,16 @@
     },
 
     {
+        "name": "Shotgun.live",
+        "url": "https://support.shotgun.live/hc/en-us/articles/360016912580--I-want-to-delete-my-account-",
+        "difficulty": "hard",
+        "notes": "You need to download the mobile app to delete your account. See the link for instructions on how to do it.",
+        "domains": [
+            "shotgun.live"
+        ]
+    },
+
+    {
         "name": "showRSS",
         "url": "https://showrss.info/edit/delete",
         "difficulty": "easy",
