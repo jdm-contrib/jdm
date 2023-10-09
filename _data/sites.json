@@ -4397,6 +4397,16 @@
     },
 
     {
+        "name": "Dictionary.com",
+        "url": "https://www.dictionary.com/account",
+        "difficulty": "easy",
+        "notes": "Account data will be deleted along with all the saved data and words. You fill find the detele button at the bottom of the page.",
+        "domains": [
+            "dictionary.com"
+        ]
+    },
+
+    {
         "name": "Didsoft",
         "url": "https://didsoft.com/contact.html",
         "difficulty": "hard",
