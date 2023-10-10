@@ -1047,7 +1047,8 @@
         "notes_es": "Hay que pedir al soporte tecnico que borren la cuenta.",
         "notes_pt_br": "É necessário entrar em contato com o suporte técnico para pedir a exclusão da conta.",
         "domains": [
-            "ankama.com"
+            "ankama.com",
+            "support.ankama.com"
         ]
     },
 
