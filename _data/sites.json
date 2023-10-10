@@ -8565,6 +8565,18 @@
     },
 
     {
+        "name": "Huggingface",
+        "url": "https://huggingface.co/settings/account",
+        "difficulty": "easy",
+        "notes": "Log in to your account, visit your [account settings](https://huggingface.co/settings/account), scroll to the bottom and click \"Delete my account\", and confirm.",
+        "domains": [
+            "huggingface.co",
+            "discuss.huggingface.co",
+            "status.huggingface.co"
+        ]
+    },
+
+    {
         "name": "Hulu",
         "url": "https://secure.hulu.com/users/delete",
         "difficulty": "easy",
