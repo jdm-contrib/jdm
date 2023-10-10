@@ -710,7 +710,7 @@
         "url": "https://akinator.com",
         "difficulty": "easy",
         "notes": "At the app, click on settings (gear icon) ⮕ Account settings ⮕ Delete account (at the bottom of the screen).",
-        "notes_pt_br": "No aplicativo ⮕ Clique em configurações (ícone da engrenagem) ⮕ Configurações de conta ⮕ Excluir conta (no fim da tela).",
+        "notes_pt_br": "No aplicativo, clique em configurações (ícone da engrenagem) ⮕ Configurações de conta ⮕ Excluir conta (no fim da tela).",
         "domains": [
             "akinator.com",
             "ar.akinator.com",
