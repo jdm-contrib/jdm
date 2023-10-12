@@ -17798,6 +17798,22 @@
     },
 
     {
+        "name": "tree-nation",
+        "url": "https://tree-nation.com/userProfile/settings",
+        "url_de": "https://tree-nation.com/de/benutzer-profil/einstellungen",
+        "url_en": "https://tree-nation.com/userProfile/settings",
+        "url_es": "https://tree-nation.com/es/perfil-de-usuario/configuracion",
+        "url_fr": "https://tree-nation.com/fr/profil-utilisateur/parametres",
+        "url_it": "https://tree-nation.com/it/profilo-utente/impostazioni",
+        "url_pt_pt": "https://tree-nation.com/pt/perfil-do-usuario/configuracoes",
+        "difficulty": "easy",
+        "notes": "Log in to your account, go to the linked page, scroll to the \"Account management\" section, click \"Delete account\" and confirm. You will have 5 days to cancel the deletion.",
+        "domains": [
+            "tree-nation.com"
+        ]
+    },
+
+    {
         "name": "Trello",
         "url": "https://trello.com/your/account",
         "difficulty": "easy",
