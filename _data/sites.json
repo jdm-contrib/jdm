@@ -4726,6 +4726,16 @@
     },
 
     {
+        "name": "Divize",
+        "url": "https://divize.io/account/delete",
+        "difficulty": "easy",
+        "notes": "Click on \"Delete\" and confirm by clicking on \"Yes, Delete it!\".",
+        "domains": [
+            "divize.io"
+        ]
+    },
+
+    {
         "name": "DJI",
         "url": "https://account.dji.com/account/userCancel",
         "difficulty": "easy",
