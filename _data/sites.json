@@ -11512,6 +11512,21 @@
     },
 
     {
+        "name": "Modrinth",
+        "url": "https://modrinth.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Go to the profile icon in the top right corner and select \"Settings\", then \"Account\", click \"Delete account\" at the bottom of the page, type your username and confirm. Your projects will not be deleted.",
+        "notes_it": "Vai sull'icona del profilo nell'angolo in alto a destra e seleziona \"Settings\", quindi \"Account\", fai clic su \"Delete account\" nella parte inferiore della pagina, digita il tuo nome utente e conferma. I tuoi progetti non verranno eliminati.",
+        "domains": [
+            "modrinth.com",
+            "careers.modrinth.com",
+            "blog.modrinth.com",
+            "docs.modrinth.com",
+            "status.modrinth.com"
+        ]
+    },
+
+    {
         "name": "Mojang",
         "url": "https://account.mojang.com/me/settings",
         "difficulty": "easy",
