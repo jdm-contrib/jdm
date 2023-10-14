@@ -11271,6 +11271,21 @@
     },
 
     {
+        "name": "Modrinth",
+        "url": "https://modrinth.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Go to the profile icon in the top right corner and select \"Settings\", then \"Account\", click \"Delete account\" at the bottom of the page, type your username and confirm. Your projects will not be deleted.",
+        "notes_it": "Vai sull'icona del profilo nell'angolo in alto a destra e seleziona \"Settings\", quindi \"Account\", fai clic su \"Delete account\" nella parte inferiore della pagina, digita il tuo nome utente e conferma. I tuoi progetti non verranno eliminati.",
+        "domains": [
+            "modrinth.com",
+            "careers.modrinth.com",
+            "blog.modrinth.com",
+            "docs.modrinth.com",
+            "status.modrinth.com"
+        ]
+    },
+
+    {
         "name": "Mojang",
         "url": "https://account.mojang.com/me/settings",
         "difficulty": "easy",
@@ -18304,6 +18319,16 @@
     {
         "name": "Vinted",
         "url": "https://www.vinted.com/member/general/delete_account",
+        "url_cz": "https://www.vinted.cz/member/general/delete_account",
+        "url_de": "https://www.vinted.de/member/general/delete_account",
+        "url_es": "https://www.vinted.es/member/general/delete_account",
+        "url_fr": "https://www.vinted.fr/member/general/delete_account",
+        "url_it": "https://www.vinted.it/member/general/delete_account",
+        "url_nl": "https://www.vinted.nl/member/general/delete_account",
+        "url_pl": "https://www.vinted.pl/member/general/delete_account",
+        "url_pt_pt": "https://www.vinted.pt/member/general/delete_account",
+        "url_ro": "https://www.vinted.ro/member/general/delete_account",
+        "url_sk": "https://www.vinted.sk/member/general/delete_account",
         "difficulty": "easy",
         "notes": "Click on your profile icon, then \"Settings\", \"Account settings\", \"Delete my account\", confirm that all transactions are completed, and click \"Delete account\".",
         "notes_it": "Fai clic sull'icona del tuo profilo, quindi su \"Impostazioni\", \"Impostazioni dell'account\", \"Cancella il mio account\", conferma che tutte le transazioni sono state completate e fai clic su \"Cancella account\".",
