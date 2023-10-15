@@ -10694,6 +10694,31 @@
     },
 
     {
+        "name": "Major League Hacking (MLH)",
+        "difficulty": "easy",
+        "url": "https://my.mlh.io/users/edit",
+        "notes": "Go to the linked page, scroll to the bottom, click \"Cancel Account\" and confirm.",
+        "domains": [
+            "mlh.io",
+            "careerlab.mlh.io",
+            "careers.mlh.io",
+            "challenges.mlh.io",
+            "click.mlh.io",
+            "events.mlh.io",
+            "fellowship.mlh.io",
+            "ghw.mlh.io",
+            "guide.mlh.io",
+            "hack.mlh.io",
+            "hackcon.mlh.io",
+            "my.mlh.io",
+            "news.mlh.io",
+            "organize.mlh.io",
+            "sponsor.mlh.io",
+            "static.mlh.io"
+        ]
+    },
+
+    {
         "name": "Mangadex",
         "url": "https://mangadex.org/settings#del",
         "difficulty": "easy",
