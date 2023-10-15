@@ -10534,6 +10534,16 @@
         ]
     },
 
+      {
+        "name": "Lush",
+        "url": "https://www.lush.com/us/en_us/faq/usa-contact-us",
+        "notes": "Conctact customer service and request account deletion",
+        "difficulty": "hard",
+        "domains": [
+            "lush.com"
+        ]
+    },
+    
     {
         "name": "Lutris",
         "url": "https://lutris.net/user/edit",
