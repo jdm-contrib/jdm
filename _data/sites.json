@@ -8444,7 +8444,9 @@
         "domains": [
             "holopin.io",
             "blog.holopin.io",
-            "docs.holopin.io"
+            "boards.holopin.io",
+            "docs.holopin.io",
+            "holopin.me"
         ]
     },
 
