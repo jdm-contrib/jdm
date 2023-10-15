@@ -10540,7 +10540,9 @@
         "notes": "Conctact customer service and request account deletion",
         "difficulty": "hard",
         "domains": [
-            "lush.com"
+            "lush.com",
+            "forms.lush.com",
+            "weare.lush.com"
         ]
     },
     
