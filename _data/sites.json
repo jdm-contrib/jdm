@@ -11293,6 +11293,7 @@
             "live.com",
             "login.live.com",
             "signup.live.com",
+            "onedrive.live.com",
             "microsoft.com",
             "account.microsoft.com",
             "dynamics.microsoft.com",
@@ -11304,15 +11305,7 @@
             "techcommunity.microsoft.com",
             "visualstudio.microsoft.com",
             "login.microsoftonline.com",
-            "xbox.com"
-        ]
-    },
-
-    {
-        "name": "Microsoft Office 365",
-        "url": "https://office.com/myaccount",
-        "difficulty": "easy",
-        "domains": [
+            "xbox.com",
             "office.com"
         ]
     },
