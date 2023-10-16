@@ -12115,6 +12115,17 @@
     },
 
     {
+        "name": "NationStates",
+        "url": "https://www.nationstates.net/page=faq",
+        "difficulty": "medium",
+        "notes": "Stay logged out of your nation for 28 or 60 days, depending on your settings.",
+        "domains": [
+            "nationstates.net",
+            "forum.nationstates.net"
+        ]
+    },
+    
+    {
         "name": "Native Instruments",
         "url": "https://support.native-instruments.com/hc/requests/new",
         "difficulty": "hard",
