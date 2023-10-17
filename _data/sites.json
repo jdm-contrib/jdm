@@ -12720,6 +12720,18 @@
     },
 
     {
+        "name": "OceanHero",
+        "url": "https://oceanhero.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You need to [open a support ticket](https://oceanhero.zendesk.com/hc/en-us/requests/new).",
+        "domains": [
+            "oceanhero.today",
+            "about.oceanhero.today",
+            "api.oceanhero.today"
+        ]
+    },
+
+    {
         "name": "Octopus",
         "url": "https://octopus.do/sitemap/support/help",
         "difficulty": "easy",
