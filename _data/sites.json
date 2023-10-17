@@ -12579,6 +12579,22 @@
     },
 
     {
+        "name": "Notesnook",
+        "url": "https://app.notesnook.com/tags#/settings",
+        "difficulty": "easy",
+        "notes": "Log in to your account via the app or website, go to the settings, click on \"Profile\" and then \"Delete account\".",
+        "domains": [
+            "notesnook.com",
+            "app.notesnook.com",
+            "blog.notesnook.com",
+            "help.notesnook.com",
+            "importer.notesnook.com",
+            "monograph.notesnook.com",
+            "vericrypt.notesnook.com"
+        ]
+    },
+
+    {
         "name": "The Noun Project",
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
