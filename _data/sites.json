@@ -7158,7 +7158,7 @@
 
     {
         "name": "GitLab",
-        "url": "https://gitlab.com/profile/account",
+        "url": "https://gitlab.com/-/profile/account",
         "difficulty": "easy",
         "notes": "Click on 'Delete account' near the bottom of the page. Some user content will continue to exist anonymously on the website.",
         "notes_tr": "Sayfanın altındaki \"Hesabı Sil\" tuşuna tıklayın. Bazı kullanıcı içerikleri web sitesinde anonim olarak bulunmaya devam edecek.",
