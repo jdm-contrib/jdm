@@ -8461,6 +8461,19 @@
     },
 
     {
+        "name": "Honeypot.io",
+        "url": "https://app.honeypot.io/profile",
+        "notes": "Go to the profile page, click the cog icon, click 'delete your account' and then 'yes delete'",
+        "difficulty": "easy",
+        "domains": [
+            "honeypot.io",
+            "app.honeypot.io",
+            "blog.honeypot.io",
+            "cult.honeypot.io"
+        ]
+    },
+
+    {
         "name": "Hooked (Deals)",
         "url": "https://www.hookedapp.com/",
         "difficulty": "impossible",
@@ -10545,7 +10558,7 @@
             "weare.lush.com"
         ]
     },
-    
+
     {
         "name": "Lutris",
         "url": "https://lutris.net/user/edit",
@@ -12124,7 +12137,7 @@
             "forum.nationstates.net"
         ]
     },
-    
+
     {
         "name": "Native Instruments",
         "url": "https://support.native-instruments.com/hc/requests/new",
