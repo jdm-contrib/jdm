@@ -8466,7 +8466,10 @@
         "notes": "Go to the profile page, click the cog icon, click 'delete your account' and then 'yes delete'",
         "difficulty": "easy",
         "domains": [
-            "honeypot.io"
+            "honeypot.io",
+            "app.honeypot.io",
+            "blog.honeypot.io",
+            "cult.honeypot.io"
         ]
     },
 
