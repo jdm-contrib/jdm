@@ -5329,16 +5329,6 @@
     },
 
     {
-        "name": "eBay Kleinanzeigen",
-        "url": "https://themen.ebay-kleinanzeigen.de/hilfe/nutzerkonto/datenloeschung/",
-        "difficulty": "medium",
-        "domains": [
-            "ebay-kleinanzeigen.de",
-            "themen.ebay-kleinanzeigen.de"
-        ]
-    },
-
-    {
         "name": "eBonus",
         "url": "https://ebonus.gg/contact",
         "difficulty": "hard",
@@ -9816,6 +9806,17 @@
         "notes_tr": "Tüm siparişlerinizi ödeyin (varsa), ondan sonra 10 gün bekleyin, ödeme bilgilerinizi uygulamadan kaldırın, müşteri hizmetleri ile sohbet edin ve onlara pazarlama gönderilerinizin durdurulmasını ve kişisel verilerinizin silinmesini istediğinizi söyleyin.",
         "domains": [
             "klarna.com"
+        ]
+    },
+
+    {
+        "name": "Kleinanzeigen",
+        "url": "https://themen.kleinanzeigen.de/hilfe/nutzerkonto/datenloeschung/",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and follow the instructions.",
+        "domains": [
+            "kleinanzeigen.de",
+            "themen.kleinanzeigen.de"
         ]
     },
 
