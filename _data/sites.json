@@ -12609,18 +12609,6 @@
     },
 
     {
-        "name": "The Noun Project",
-        "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
-        "email": "info@thenounproject.com",
-        "difficulty": "hard",
-        "notes": "'Email us at info@thenounproject.com and we'll deactivate your account.'",
-        "notes_tr": "Bize e-posta gönderin, hesabınızı devre dışı bırakalım.",
-        "domains": [
-            "thenounproject.com"
-        ]
-    },
-
-    {
         "name": "Novation Music",
         "url": "https://www.iubenda.com/privacy-policy/29650626/legal",
         "email": "dpo@focusrite.com",
@@ -17106,16 +17094,6 @@
     },
 
     {
-        "name": "The Takeout",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "thetakeout.com"
-        ]
-    },
-
-    {
         "name": "Tanga",
         "url": "https://www.tanga.com/support",
         "difficulty": "hard",
@@ -17459,6 +17437,28 @@
         "notes": "If you want to permanently delete your Textures.com account, go to the [<b>Delete Account</b> tab on your account](https://www.textures.com/my-account/delete) fill out your password and press <b>Delete My Account</b>.",
         "domains": [
             "textures.com"
+        ]
+    },
+
+    {
+        "name": "The Noun Project",
+        "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
+        "email": "info@thenounproject.com",
+        "difficulty": "hard",
+        "notes": "'Email us at info@thenounproject.com and we'll deactivate your account.'",
+        "notes_tr": "Bize e-posta gönderin, hesabınızı devre dışı bırakalım.",
+        "domains": [
+            "thenounproject.com"
+        ]
+    },
+
+    {
+        "name": "The Takeout",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "thetakeout.com"
         ]
     },
 
