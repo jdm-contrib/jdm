@@ -8937,6 +8937,42 @@
     },
 
     {
+        "name": "illa / ILLA Cloud",
+        "url": "https://www.illacloud.com/docs/privacy-policy#your-rights",
+        "url_cz": "https://www.illacloud.com/cs-CZ/docs/privacy-policy#your-rights",
+        "url_de": "https://www.illacloud.com/de-DE/docs/privacy-policy#your-rights",
+        "url_en": "https://www.illacloud.com/docs/privacy-policy#your-rights",
+        "url_es": "https://www.illacloud.com/es-ES/docs/privacy-policy#your-rights",
+        "url_fr": "https://www.illacloud.com/fr-FR/docs/privacy-policy#your-rights",
+        "url_gr": "https://www.illacloud.com/el-GR/docs/privacy-policy#your-rights",
+        "url_it": "https://www.illacloud.com/it-IT/docs/privacy-policy#your-rights",
+        "url_nl": "https://www.illacloud.com/nl-NL/docs/privacy-policy#your-rights",
+        "url_pl": "https://www.illacloud.com/pl-PL/docs/privacy-policy#your-rights",
+        "url_pt_pt": "https://www.illacloud.com/pt-PT/docs/privacy-policy#your-rights",
+        "url_ro": "https://www.illacloud.com/ro-RO/docs/privacy-policy#your-rights",
+        "url_ru": "https://www.illacloud.com/ru-RU/docs/privacy-policy#your-rights",
+        "url_ua": "https://www.illacloud.com/uk-UA/docs/privacy-policy#your-rights",
+        "url_zh-cn": "https://www.illacloud.com/zh-CN/docs/privacy-policy#-14",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_de": "Account-Löschung erfordert es den Kundensupport zu kontaktieren",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "La cancellazione account richiede di contattare il servizio clienti.",
+        "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "email": "vincent@illasoft.com",
+        "domains": [
+            "illa.ai",
+            "illacloud.com",
+            "blog.illacloud.com",
+            "builder.illacloud.com",
+            "cloud.illacloud.com"
+        ]
+    },
+
+    {
         "name": "ImageShack",
         "url": "https://imageshack.com/my/settings",
         "difficulty": "easy",
