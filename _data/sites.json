@@ -6493,6 +6493,25 @@
     },
 
     {
+        "name": "Freejam",
+        "url": "https://account.freejamgames.com/delete",
+        "difficulty": "easy",
+        "notes": "Visit the Account page, click \"Delete account\", type your username and confirm.",
+        "notes_it": "Visita la pagina Account, fai clic su \"Elimina account\", digita il tuo nome utente e conferma.",
+        "domains": [
+            "freejamgames.com",
+            "account.freejamgames.com",
+            "support.freejamgames.com",
+            "freejam.uvdesk.com",
+            "robocraftgame.com",
+            "factory.robocraftgame.com",
+            "leaderboards.robocraftgame.com",
+            "robocraft2.com",
+            "cardlifegame.com"
+        ]
+    },
+
+    {
         "name": "Freelancer",
         "url": "https://www.freelancer.in/users/settings.php#AccountSettings",
         "difficulty": "easy",
