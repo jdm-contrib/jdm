@@ -3521,6 +3521,17 @@
     },
 
     {
+        "name": "Cocoleech",
+        "url": "https://members.cocoleech.com/settings",
+        "difficulty": "easy",
+        "notes": "Go to <a href='https://members.cocoleech.com/settings'>your profile</a> and press Delete Account.",
+        "domains": [
+            "cocoleech.com",
+            "members.cocoleech.com"
+        ]
+    },
+
+    {
         "name": "Coda",
         "url": "https://coda.io/account",
         "difficulty": "easy",
