@@ -14897,11 +14897,11 @@
 
     {
         "name": "Rakuten",
-        "url": "https://www.rakuten.com/help/article/privacy-policy-360002101688",
-        "difficulty": "hard",
+        "url": "https://www.rakuten.com/privacy-preferences.htm",
+        "difficulty": "limited",
         "email": "memberservices@rakuten.com",
         "email_subject": "Request to Delete Rakuten Account",
-        "notes": "Email memberservices@rakuten.com asking to delete your account.",
+        "notes": "If you're on a region where privacy rights are covered by law, it's as easy as clicking a button, otherwise you have to send an e-mail.",
         "domains": [
             "rakuten.com",
             "rakuten.ca",
