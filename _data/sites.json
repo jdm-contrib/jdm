@@ -3524,7 +3524,7 @@
         "name": "Cocoleech",
         "url": "https://members.cocoleech.com/settings",
         "difficulty": "easy",
-        "notes": "Go to <a href='https://members.cocoleech.com/settings'>your profile</a> and press Delete Account.",
+        "notes": "Go to [your profile](https://members.cocoleech.com/settings) and press 'Delete Account'.",
         "domains": [
             "cocoleech.com",
             "members.cocoleech.com"
