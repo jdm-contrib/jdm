@@ -8006,7 +8006,19 @@
     },
 
     {
-        "name": "Groupon",
+        "name": "Groupon (USA)",
+        "meta": "popular",
+        "url": "https://privacy.groupon.com/",
+        "difficulty": "easy",
+        "notes": "Select \"Delete all my data\" and verify your identity.",
+        "domains": [
+            "groupon.com",
+            "privacy.groupon.com"
+        ]
+    },
+
+    {
+        "name": "Groupon (Worldwide)",
         "meta": "popular",
         "url": "https://privacy.groupon.co.uk/?modal=take-control",
         "difficulty": "easy",
@@ -8015,7 +8027,6 @@
             "groupon.ae",
             "groupon.be",
             "groupon.ca",
-            "groupon.com",
             "groupon.com.au",
             "groupon.co.uk",
             "groupon.de",
@@ -8025,8 +8036,7 @@
             "groupon.it",
             "groupon.nl",
             "groupon.pl",
-            "privacy.groupon.co.uk",
-            "privacy.groupon.com"
+            "privacy.groupon.co.uk"
         ]
     },
 
