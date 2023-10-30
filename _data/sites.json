@@ -13956,7 +13956,17 @@
             "picpay.me"
         ]
     },
-
+    
+    {
+        "name": "Pillpack",
+        "url": "https://help.pillpack.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Will need to contact customer support and confirm your name and information before they'll delete.",
+        "domains": [
+            "https://www.pillpack.com/"
+        ]
+    },
+    
     {
         "name": "Pinboard",
         "url": "https://pinboard.in/faq/#close_account",
