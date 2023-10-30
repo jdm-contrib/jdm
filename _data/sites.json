@@ -13963,7 +13963,10 @@
         "difficulty": "hard",
         "notes": "Will need to contact customer support and confirm your name and information before they'll delete.",
         "domains": [
-            "https://www.pillpack.com/"
+            "pillpack.com",
+            "app.pillpack.com",
+            "folks.pillpack.com",
+            "my.pillpack.com"
         ]
     },
     
