@@ -13968,6 +13968,19 @@
     },
 
     {
+        "name": "Pillpack",
+        "url": "https://help.pillpack.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Will need to contact customer support and confirm your name and information before they'll delete.",
+        "domains": [
+            "pillpack.com",
+            "app.pillpack.com",
+            "folks.pillpack.com",
+            "my.pillpack.com"
+        ]
+    },
+
+    {
         "name": "Pinboard",
         "url": "https://pinboard.in/faq/#close_account",
         "difficulty": "easy",
