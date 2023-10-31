@@ -4045,7 +4045,8 @@
         "name": "Crowdin",
         "url": "https://crowdin.com/settings#account",
         "difficulty": "easy",
-        "notes": "Login to your account. Click on 'Settings', then 'Remove Account' (at the bottom). Choose one of the options why you want to delete your account and click 'Remove Account'.",
+        "notes": "Login to your account. Click on 'Settings', then 'Delete Account' (at the bottom). Choose one of the options why you want to delete your account and click 'Delete Account'.",
+        "notes_nl": "Log in op je account. Klik op 'Settings' en vervolgens op 'Delete Account' (helemaal onderaan). Kies een van de opties waarom je je account wilt verwijderen en klik op 'Delete Account'.",
         "notes_tr": "Hesabınıza giriş yapın. \"Ayarlar\" menüsüne tıklayın. Ardından sayfanın altında \"Hesabı Kaldır\" tuşuna tıklayın. Neden hesabınızı silmek istediğinizi belirten seçeneklerden bir tanesini seçin ve ardından \"Hesabı Kaldır\" tuşuna tıklayın.",
         "domains": [
             "crowdin.com"
