@@ -12876,6 +12876,19 @@
         ]
     },
 
+    
+    {
+        "name": "NS (Nederlandse Spoorwegen)",
+        "url": "https://www.ns.nl/en/mijnns#/account-verwijderen",
+        "url_nl": "https://www.ns.nl/mijnns#/account-verwijderen",
+        "difficulty": "easy",
+        "notes": "Login to your NS (Nederlandse Spoorwegen) account and click on the linked URL. On this page you can click \"Delete NS-account\" in order to delete your account.",
+        "notes_nl": "Log in op je NS (Nederlandse Spoorwegen) account en klik op de gekoppelde URL. Op deze pagina kun je klikken op \"Verwijder NS-account\" om je account te verwijderen.",
+        "domains": [
+            "ns.nl"
+        ]
+    },
+
     {
         "name": "NS1",
         "url": "https://ns1.com",
