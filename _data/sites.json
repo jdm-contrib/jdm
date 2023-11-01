@@ -16742,6 +16742,18 @@
     },
 
     {
+        "name": "Splitser",
+        "url": "https://app.splitser.com/account/delete",
+        "difficulty": "easy",
+        "notes": "Select 'Close account' and press 'OK' in the popup.",
+        "notes_de": "Drücke 'Konto schließen' und bestätige das Popup mit 'OK'.",
+        "domains": [
+            "splitser.com",
+            "app.splitser.com"
+        ]
+    },
+
+    {
         "name": "Splitwise",
         "url": "https://secure.splitwise.com/account/settings",
         "difficulty": "easy",
