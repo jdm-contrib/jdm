@@ -9309,6 +9309,19 @@
     },
 
     {
+        "name": "Interrail",
+        "url": "https://www.interrail.eu/",
+        "difficulty": "hard",
+        "notes": "Send an email to the email linked below and ask to delete your Interrail account. You will get an automatic reply as a confirmation that they're processing your request to remove your personal data. If there are legal grounds preventing them from (immediately) processing your request they will send you an email.",
+        "notes_nl": "Stuur een e-mail naar het e-mailadres dat hieronder is vermeld en vraag om je Interrail-account te verwijderen. Je krijgt een automatisch antwoord als bevestiging dat ze je verzoek om je persoonlijke gegevens te verwijderen in behandeling hebben genomen. Als er wettelijke redenen zijn om je verzoek niet (meteen) te kunnen verwerken, sturen ze je een e-mail.",
+        "email": "privacy@eurail.com",
+        "email_body": "Please delete my Interrail account.",
+        "domains": [
+            "interrail.eu"
+        ]
+    },
+
+    {
         "name": "Invajo",
         "url": "https://home.invajo.com/contact",
         "difficulty": "hard",
