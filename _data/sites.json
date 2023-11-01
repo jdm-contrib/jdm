@@ -2335,6 +2335,17 @@
     },
 
     {
+        "name": "Bleep",
+        "url": "https://bleep.com/account/show",
+        "difficulty": "hard",
+        "notes": "Make sure you're logged in and go to the linked URL and click \"Delete Account\", this will show some text telling you to contact support. Click the \"Contact Support\" button and click the \"Contact Us\" button in the pop-up. Fill out the form and ask to delete your account.",
+        "notes_nl": "Zorg ervoor dat je bent ingelogd en ga naar de gelinkte URL en klik op \"Delete Account\". Klik op de knop \"Contact Support\" en klik op de knop \"Contact Us\" in het pop-upvenster. Vul het formulier in en vraag om je account te verwijderen.",
+        "domains": [
+            "bleep.com"
+        ]
+    },
+
+    {
         "name": "BlendSwap",
         "url": "https://blendswap.com/profile",
         "difficulty": "easy",
