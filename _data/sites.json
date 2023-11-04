@@ -13432,6 +13432,19 @@
     },
 
     {
+        "name": "OV-chipkaart",
+        "url": "https://www.ov-chipkaart.nl/en/privacy",
+        "url_nl": "https://www.ov-chipkaart.nl/privacy",
+        "difficulty": "hard",
+        "notes": "You have the right to erasure ('right to be forgotten') with ov-chipkaart.nl, only you have to send an email and exercise your right to erasure to do so. Send an email to the email address provided requesting to delete your account and personal information.",
+        "notes_nl": "Je hebt het recht op vergetelheid bij ov-chipkaart.nl, alleen moet je hiervoor een e-mail sturen en jouw recht op vergetelheid uitoefenen. Stuur een e-mail naar het toegevoegde e-mailadres en vraag of jouw account en persoonlijke gegevens te laten verwijderen.",
+        "email": "privacy@ov-chipkaart.nl",
+        "domains": [
+            "ov-chipkaart.nl"
+        ]
+    },
+
+    {
         "name": "Overcast.fm",
         "url": "https://overcast.fm/account",
         "difficulty": "impossible",
