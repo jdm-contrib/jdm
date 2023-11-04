@@ -11025,6 +11025,17 @@
     },
 
     {
+        "name": "Marktplaats",
+        "url": "https://www.marktplaats.nl/my-account/profile/edit.html",
+        "difficulty": "easy",
+        "notes": "Log in to Marktplaats. Go to the linked URL or in Marktplaats click on your name at the top right, choose 'Mijn Profiel' and go to your contact information. On this page, click 'Account verwijderen' at the bottom. Indicate why you want to delete your account and click 'Bevestigen'. Your account will be deleted and you will receive a confirmation email.",
+        "notes_nl": "Log in op Marktplaats. Ga naar de gekoppelde URL of klik in Marktplaats rechtsboven op de naam, kies voor 'Mijn Profiel' en ga naar je contactgegevens. Op deze pagina klik je onderaan op 'Account verwijderen'. Geef aan waarom je je account wilt verwijderen en klik op 'Bevestigen'. Je account wordt verwijdert en je ontvangt een e-mail ter bevestiging.",
+        "domains": [
+            "marktplaats.nl"
+        ]
+    },
+
+    {
         "name": "Marvel",
         "url": "https://marvelapp.com/account/",
         "difficulty": "easy",
