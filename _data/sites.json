@@ -20464,6 +20464,19 @@
     },
 
     {
+        "name": "Zamnesia",
+        "url": "https://www.zamnesia.com/contact-us",
+        "url_nl": "https://www.zamnesia.nl/neem-contact-op",
+        "difficulty": "hard",
+        "notes": "If you want to have your account deleted you have to send Zamnesia an email and they will delete your account according to the GDPR rules.",
+        "notes_nl": "Als je je account wilt verwijderen moet je Zamnesia een email sturen. Vervolgens zullen ze je account verwijderen volgens de AVG-privacyregels.",
+        "email": "support@zamnesia.com",
+        "domains": [
+            "zamnesia.nl"
+        ]
+    },
+
+    {
         "name": "Zanichelli",
         "url": "https://my.zanichelli.it/registrazione/profilo",
         "difficulty": "easy",
