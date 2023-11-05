@@ -5372,6 +5372,20 @@
     },
 
     {
+        "name": "Edizioni Simone",
+        "url": "https://edizioni.simone.it/informativa-sulla-privacy/",
+        "difficulty": "hard",
+        "email": "privacy@simone.it",
+        "notes": "Contact support via email and request your account to be deleted.",
+        "notes_it": "Contatta l'assistenza via e-mail e richiedi l'eliminazione del tuo account.",
+        "domains": [
+            "simone.it",
+            "edizioni.simone.it",
+            "scuola.simone.it"
+        ]
+    },
+
+    {
         "name": "Edpuzzle",
         "url": "https://edpuzzle.com/profile",
         "difficulty": "easy",
