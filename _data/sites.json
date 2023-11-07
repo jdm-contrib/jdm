@@ -880,7 +880,6 @@
         "notes_pt_br": "Para deletar a sua conta contate a assistência ao cliente",
         "notes_cat": "Per esborrar el seu compte contacti amb l'assistència al client",
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_it": "Contatta l'assistenza clienti e chiedi di eliminare il tuo account.",
         "domains": [
             "algoreducation.com",
             "app.algoreducation.com",
@@ -1218,16 +1217,16 @@
     },
 
     {
-        "name": "AnonAddy",
-        "url": "https://app.anonaddy.com/settings",
+        "name": "addy.io",
+        "url": "https://app.addy.io/settings/account",
         "difficulty": "easy",
-        "notes": "Enter password at the bottom of the page and click 'Delete Account'. The usernames of deleted accounts cannot be reused.",
+        "notes": "Click the 'Delete Account' tab. Enter your password and click 'Delete Account'. The usernames of deleted accounts cannot be reused.",
         "notes_it": "Inserisci la password nella parte inferiore della pagina e fai clic su 'Delete Account'. I nomi utente degli account eliminati non possono essere riutilizzati.",
         "notes_ru": "Введите пароль и внизу страницы нажмите «Удалить учетную запись».",
         "notes_tr": "Sayfanın altında şifrenizi girin ve \"Hesabı Sil\" tuşuna basın.",
         "domains": [
-            "anonaddy.com",
-            "app.anonaddy.com"
+            "addy.io",
+            "app.addy.io"
         ]
     },
 
@@ -1374,6 +1373,16 @@
         "domains": [
             "appypie.com",
             "accounts.appypie.com"
+        ]
+    },
+
+        {
+        "name": "Aquaillumination",
+        "url": "https://www.aquaillumination.com/",
+        "difficulty": "impossible",
+        "notes": "Customer service is unable to delete accounts.",
+        "domains": [
+            "aquaillumination.com"
         ]
     },
 
@@ -3003,6 +3012,17 @@
         "notes": "At the bottom of the page click on the button that says 'Delete account.' There will be a 14 day waiting period, after this period, all your account data will be deleted.",
         "domains": [
             "canva.com"
+        ]
+    },
+
+        {
+        "name": "Capsule",
+        "url": "https://www.capsule.com/privacy",
+        "email": "privacy@capsule.com",
+        "difficulty": "hard",
+        "notes": "Contact support by email or by phone at 1-888-910-1808 and request that your account be deleted. Your request can be denied if you still have an active service or transaction with them.",
+        "domains": [
+            "capsule.com"
         ]
     },
 
@@ -6047,12 +6067,12 @@
 
     {
         "name": "Fanatical",
-        "url": "https://support.fanatical.com/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "Create a support ticket requesting for a closure of your account.",
+        "url": "https://www.fanatical.com/en/account/login",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click 'Delete Account'.",
         "domains": [
             "fanatical.com",
-            "upport.fanatical.com"
+            "support.fanatical.com"
         ]
     },
 
@@ -9848,6 +9868,17 @@
     },
 
     {
+        "name": "KBDfans",
+        "url": "https://kbdfans.com/pages/contact-1",
+        "difficulty": "hard",
+        "notes": "Use the linked contact form to request account deletion.",
+        "domains": [
+            "kbdfans.com",
+            "kbdfans.myshopify.com"
+        ]
+    },
+
+    {
         "name": "KDE Bugtracking System",
         "url": "https://bugs.kde.org",
         "difficulty": "hard",
@@ -10772,7 +10803,7 @@
         ]
     },
 
-      {
+    {
         "name": "Lush",
         "url": "https://www.lush.com/us/en_us/faq/usa-contact-us",
         "notes": "Conctact customer service and request account deletion",
@@ -12878,6 +12909,16 @@
     },
 
     {
+        "name": "NovelAI",
+        "url": "https://novelai.net/stories",
+        "difficulty": "medium",
+        "notes": "Log into your account, and press your account icon in the top left corner of the screen. Under the User Settings column, select 'Account'. Next to 'Delete Account', click the 'Request' button. Submit your email address, then check your inbox for an account deletion confirmation. Follow the included link, then click 'Delete Account'. Your data will be deleted within 24 hours.",
+        "domains": [
+            "novelai.net"
+        ]
+    },
+
+    {
         "name": "NovoEd",
         "url": "http://help.novoed.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -12899,7 +12940,6 @@
         ]
     },
 
-    
     {
         "name": "NS (Nederlandse Spoorwegen)",
         "url": "https://www.ns.nl/en/mijnns#/account-verwijderen",
@@ -13474,6 +13514,17 @@
         "notes_fr": "Vous devez contactez le support directement pour leur demander d'invalider votre compte. Cependant, vos donnéés des transcations ne peuvent pas être supprimées.",
         "domains": [
             "overstock.com"
+        ]
+    },
+
+    {
+        "name": "Overwolf",
+        "url": "https://support.overwolf.com/en/support/solutions/articles/9000178281-deleting-your-overwolf-account-and-related-data",
+        "email": "support@overwolf.com",
+        "notes": "Follow the instructions on the linked page to delete your account within the Overwolf app. Alternatively, you may email support and request account deletion.",
+        "difficulty": "easy",
+        "domains": [
+            "overwolf.com"
         ]
     },
 
@@ -17600,6 +17651,16 @@
     },
 
     {
+        "name": "Teladoc",
+        "url": "https://member.teladoc.com/help/contact",
+        "difficulty": "hard",
+        "notes": "You must contact your insurance to delete your Teladoc account.",
+        "domains": [
+            "my.teladoc.com"
+        ]
+    },
+
+    {
         "name": "Telegram",
         "url": "https://telegram.org/deactivate",
         "difficulty": "easy",
@@ -20545,6 +20606,17 @@
             "support.zattoo.com"
         ]
     },
+
+        {
+        "name": "Zaxby's",
+        "url": "https://www.zaxbys.com/",
+        "difficulty": "hard",
+        "notes": "Call 1-866-892-9297 and press 2 to be connected with a reward account services agent and ask to have your account deleted. Your account will be deleted after 24-48 hours.",
+        "domains": [
+            "zaxbys.com"
+        ]
+    },
+
 
     {
         "name": "Zazzle",
