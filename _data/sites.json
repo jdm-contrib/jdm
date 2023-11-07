@@ -20247,6 +20247,18 @@
     },
 
     {
+        "name": "Wordfeud",
+        "url": "https://wordfeud.com/",
+        "difficulty": "easy",
+        "notes": "Log in to your Wordfeud account in the Wordfeud app and go to settings. Click on 'Wordfeud-account' and click 'Delete account'. A notice will appear telling you your account is planned for deletion in 7 days.",
+        "notes_nl": "Log in op je Wordfeud account in de Wordfeud app en ga naar instellingen. Klik op 'Wordfeud-account' en klik op 'Account verwijderen'. Er verschijnt een melding dat je account over 7 dagen verwijderd zal worden.",
+        "email": "support@wordfeud.com",
+        "domains": [
+            "wordfeud.com"
+        ]
+    },
+
+    {
         "name": "WordPress.com",
         "meta": "popular",
         "url": "https://wordpress.com/me/account",
