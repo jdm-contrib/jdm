@@ -516,6 +516,20 @@
     },
 
     {
+        "name": "addy.io",
+        "url": "https://app.addy.io/settings/account",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete Account' tab. Enter your password and click 'Delete Account'. The usernames of deleted accounts cannot be reused.",
+        "notes_it": "Inserisci la password nella parte inferiore della pagina e fai clic su 'Delete Account'. I nomi utente degli account eliminati non possono essere riutilizzati.",
+        "notes_ru": "Введите пароль и внизу страницы нажмите «Удалить учетную запись».",
+        "notes_tr": "Sayfanın altında şifrenizi girin ve \"Hesabı Sil\" tuşuna basın.",
+        "domains": [
+            "addy.io",
+            "app.addy.io"
+        ]
+    },
+
+    {
         "name": "Adfly",
         "url": "https://adf.ly/account/delete",
         "difficulty": "easy",
@@ -1216,19 +1230,6 @@
         ]
     },
 
-    {
-        "name": "addy.io",
-        "url": "https://app.addy.io/settings/account",
-        "difficulty": "easy",
-        "notes": "Click the 'Delete Account' tab. Enter your password and click 'Delete Account'. The usernames of deleted accounts cannot be reused.",
-        "notes_it": "Inserisci la password nella parte inferiore della pagina e fai clic su 'Delete Account'. I nomi utente degli account eliminati non possono essere riutilizzati.",
-        "notes_ru": "Введите пароль и внизу страницы нажмите «Удалить учетную запись».",
-        "notes_tr": "Sayfanın altında şifrenizi girin ve \"Hesabı Sil\" tuşuna basın.",
-        "domains": [
-            "addy.io",
-            "app.addy.io"
-        ]
-    },
 
     {
         "name": "Anti-Captcha",
