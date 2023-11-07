@@ -5758,6 +5758,18 @@
     },
 
     {
+        "name": "Epik",
+        "url": "https://www.epik.com/",
+        "difficulty": "hard",
+        "notes": "Log in to your account. Start a new chat with customer support and request the deletion of your account and personal data. Make sure you have your customer support PIN on hand.",
+        "notes_nl": "Log in op je account. Begin een nieuwe chat met de klantenservice en vraag of je account en persoonlijke gegevens verwijderd kunnen worden. Zorg dat je je klantenservice PIN bij de hand hebt.",
+        "domains": [
+            "epik.com",
+            "registrar.epik.com"
+        ]
+    },
+
+    {
         "name": "Epoch Times",
         "url": "https://help.theepochtimes.com/hc/en-us/requests/new",
         "difficulty": "hard",
