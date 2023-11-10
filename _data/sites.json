@@ -12441,7 +12441,17 @@
             "forum.nationstates.net"
         ]
     },
-
+    
+  {
+        "name": "Native",
+        "url": "https://www.nativecos.com/pages/contact-us",
+        "difficulty": "hard",
+        "notes": "Fill out the contact form. They will email you to verify your request via email, and will then ask for two pieces of personal information from the account. They will then delete the account but retain information relevant to any orders made.",
+        "domains": [
+            "nativecos.com"
+        ]
+    },
+    
     {
         "name": "Native Instruments",
         "url": "https://support.native-instruments.com/hc/requests/new",
