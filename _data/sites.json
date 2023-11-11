@@ -12441,7 +12441,8 @@
             "forum.nationstates.net"
         ]
     },
-  {
+
+    {
         "name": "Native",
         "url": "https://www.nativecos.com/pages/contact-us",
         "difficulty": "hard",
@@ -12450,6 +12451,7 @@
             "nativecos.com"
         ]
     },
+
     {
         "name": "Native Instruments",
         "url": "https://support.native-instruments.com/hc/requests/new",
