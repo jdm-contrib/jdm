@@ -10439,6 +10439,15 @@
     },
 
     {
+        "name": "lidraughts",
+        "url": "https://lidraughts.org/account/close",
+        "difficulty": "easy",
+        "domains": [
+            "lidraughts.org"
+        ]
+    },
+
+    {
         "name": "Lieferando",
         "url": "https://www.lieferando.de/en/customerservice/article/how-do-i-delete-my-account",
         "difficulty": "hard",
