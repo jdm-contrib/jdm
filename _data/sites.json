@@ -8664,11 +8664,12 @@
 
     {
         "name": "Honey",
-        "url": "https://www.joinhoney.com/settings#account",
-        "notes": "Scroll to the bottom of the linked page and click 'Delete Account'.",
+        "url": "https://www.joinhoney.com/settings/account",
+        "notes": "Visit the linked and page, click \"DeleteAccount\" and confirm. For more details see this [help article](https://help.joinhoney.com/article/53-how-do-i-delete-my-honey-account).",
         "difficulty": "easy",
         "domains": [
-            "joinhoney.com"
+            "joinhoney.com",
+            "help.joinhoney.com"
         ]
     },
 
