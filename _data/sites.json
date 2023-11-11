@@ -20120,11 +20120,12 @@
 
     {
         "name": "Windscribe",
-        "url": "https://windscribe.com/myaccount",
+        "url": "https://windscribe.com/cancel/account",
         "difficulty": "easy",
-        "notes": "Go to your account page, the delete button is small, you can find it under the 'Member since'. Also, their privacy policy states they'll store your username, password, email(if provided) even after account deletion.",
+        "notes": "Visit the linked page, enter your password, give a cancellation reason and click \"Delete Account\" at the bottom.",
         "domains": [
-            "windscribe.com"
+            "windscribe.com",
+            "blog.windscribe.com"
         ]
     },
 
