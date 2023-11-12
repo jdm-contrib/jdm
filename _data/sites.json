@@ -9818,6 +9818,20 @@
     },
 
     {
+        "name": "Kaleido (remove.bg, unscreen, designify)",
+        "url": "https://accounts.kaleido.ai/profile",
+        "difficulty": "easy",
+        "notes": "Go to your profile, at the bottom there will be a 'click here' to delete account. Retype your password and after 14 days the account gets deleted.",
+        "domains": [
+            "accounts.kaleido.ai",
+            "kaleido.ai",
+            "designify.com",
+            "remove.bg",
+            "unscreen.com"
+        ]
+    },
+
+    {
         "name": "Kanji Koohii",
         "url": "https://kanji.koohii.com/account/delete",
         "difficulty": "easy",
