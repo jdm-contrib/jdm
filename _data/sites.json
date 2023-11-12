@@ -19004,6 +19004,16 @@
     },
 
     {
+        "name": "Venmo",
+        "url": "https://account.venmo.com/settings/profile",
+        "difficulty": "easy",
+        "domains": [
+            "venmo.com",
+            "account.venmo.com"
+        ]
+    },
+
+    {
         "name": "Vercel",
         "url": "https://vercel.com/account",
         "notes": "In the dashboard, click your profile picture on the top right, click \"Settings\", scroll down and then click \"Delete Personal Account\".",
