@@ -17548,6 +17548,17 @@
     },
 
     {
+        "name": "Tapas",
+        "url": "https://tapas.io/profile/settings",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom, click \"Delete Account\", and click through the prompts.  You'll need to re-enter your password.",
+        "domains": [
+            "tapas.io",
+            "help.tapas.io"
+        ]
+    },
+
+    {
         "name": "Target",
         "url": "https://www.target.com/ccpa-intake-form",
         "notes": "Select \"Delete your personal info and Target.com account\"",
