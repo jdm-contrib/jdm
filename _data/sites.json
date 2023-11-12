@@ -9818,6 +9818,20 @@
     },
 
     {
+        "name": "Kaleido (remove.bg, unscreen, designify)",
+        "url": "https://accounts.kaleido.ai/profile",
+        "difficulty": "easy",
+        "notes": "Go to your profile, at the bottom there will be a 'click here' to delete account. Retype your password and after 14 days the account gets deleted.",
+        "domains": [
+            "accounts.kaleido.ai",
+            "kaleido.ai",
+            "designify.com",
+            "remove.bg",
+            "unscreen.com"
+        ]
+    },
+
+    {
         "name": "Kanji Koohii",
         "url": "https://kanji.koohii.com/account/delete",
         "difficulty": "easy",
@@ -13914,7 +13928,7 @@
     {
         "name": "Peacock",
         "url": "https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/2aa79e13-e7d2-4d45-b928-7df9a72bec32",
-        "difficulty": "hard",
+        "difficulty": "medium",
         "notes": "If you live in the U.S., fill out the form, select Peacock under applicable brands, and your account will be automatically deleted after some time. You may still receive a human response later however. Users outside of the U.S. should send an email to the privacy contact listed at the top of the form.",
         "domains": [
             "peacocktv.com"
@@ -18986,6 +19000,16 @@
         "domains": [
             "velohero.com",
             "app.velohero.com"
+        ]
+    },
+
+    {
+        "name": "Venmo",
+        "url": "https://account.venmo.com/settings/profile",
+        "difficulty": "easy",
+        "domains": [
+            "venmo.com",
+            "account.venmo.com"
         ]
     },
 
