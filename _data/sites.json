@@ -20903,6 +20903,18 @@
     },
 
     {
+    	"name": "character.ai",
+    	"url": "https://beta.character.ai/settings/",
+    	"difficulty": "easy",
+    	"notes": "Scroll to the bottom of the settings page on your profile and click ”Remove Account“, then insert your username and choose whether you want to export your data while deleting it or not.",
+    	"domains": [
+    		"character.ai",
+    		"book.character.ai",
+    		"beta.character.ai"
+    	]
+    },
+    
+    {
         "name": "Мій Клас",
         "url": "https://www.miyklas.com.ua/Account/DeleteProfile",
         "difficulty": "easy",
@@ -20911,17 +20923,5 @@
         "domains": [
             "miyklas.com.ua"
         ]
-    },
-
-    {
-	"name": "character.ai",
-	"url": "https://beta.character.ai/settings/",
-	"difficulty": "easy",
-	"notes": "Scroll to the bottom of the settings page on your profile and click ”Remove Account“, then insert your username and choose whether you want to export your data while deleting it or not.",
-	"domains": [
-		"character.ai",
-		"book.character.ai",
-		"beta.character.ai"
-	]
     }
 ]
