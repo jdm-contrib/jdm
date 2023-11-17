@@ -19578,7 +19578,7 @@
     {
         "name": "Webex - Free Account",
         "url": "https://help.webex.com/en-us/5m4i4y/Delete-Your-Free-Webex-Account#id_111643",
-        "difficulty": "easy",
+        "difficulty": "medium",
         "notes": "Just follow the settings to find the delete account button and click it",
         "notes_tr": "Hesabı sil düğmesini bulmak için ayarları takip edin ve tıklayın.",
         "domains": [
