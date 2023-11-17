@@ -13005,7 +13005,7 @@
         "name": "npm",
         "url": "https://www.npmjs.com/settings/~/profile/",
         "difficulty": "easy",
-        "notes": "Go to [your account settings](https://www.npmjs.com/settings/~/profile) and press 'Delete your account'.",
+        "notes": "Go to your account settings and press 'Delete your account'.",
         "domains" : [
             "npmjs.com"
         ]
