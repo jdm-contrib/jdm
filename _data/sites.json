@@ -5698,6 +5698,16 @@
     },
 
     {
+        "name": "Emby",
+        "url": "https://emby.media/community/index.php?/settings/deletemyaccount/",
+        "difficulty": "easy",
+        "notes": "To delete your account, you must [log into the community](https://emby.media/community/index.php?/login/) (not the app).",
+        "domains": [
+            "emby.media"
+        ]
+    },
+
+    {
         "name": "Empik",
         "url": "https://www.empik.com/polityka-prywatnosci-empik",
         "difficulty": "hard",
