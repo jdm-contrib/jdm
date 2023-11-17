@@ -17229,7 +17229,7 @@
     {
         "name": "Stripe",
         "meta": "popular",
-        "url": "https://dashboard.stripe.com/account/data",
+        "url": "https://dashboard.stripe.com/settings/account",
         "difficulty": "easy",
         "notes": "Account owners only, not team members can delete the account. Balances and pending invoices all need to be resolved before the account is permanently closed. Cannot be reversed.",
         "notes_tr": "Yalnızca hesap sahipleri (ekip üyeleri değil) hesabı silebilir. Hesap kalıcı olarak kapatılmadan önce bakiyelerin ve bekleyen faturaların tamamının çözülmesi gerekir. Tersine çevrilemez.",
