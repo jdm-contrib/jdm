@@ -19426,6 +19426,16 @@
     },
 
     {
+        "name": "Waifudex",
+        "url": "https://waifudex.com/home",
+        "difficulty": "easy",
+        "notes": "Click on your username (top right) ⮕ Delete account (bottom of window) ⮕ Confirm",
+        "domains": [
+            "waifudex.com"
+        ]
+    },
+
+    {
         "name": "Wakanim",
         "url": "https://www.wakanim.tv/sc/v2/static/contactus",
         "url_fr": "https://www.wakanim.tv/fr/v2/static/contactus",
