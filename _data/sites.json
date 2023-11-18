@@ -2646,6 +2646,7 @@
         "name": "Boostcamp",
         "url": "https://www.boostcamp.app/data-deletion-request",
         "difficulty": "easy",
+        "notes": "Visit the linked page and confirm the deletion.",
         "domains": [
             "boostcamp.app"
         ]
