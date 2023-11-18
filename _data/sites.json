@@ -1053,6 +1053,16 @@
     },
 
     {
+        "name": "AMD Rewards",
+        "url": "https://www.amdrewards.com/my-account",
+        "difficulty": "impossible",
+        "notes": "You can not delete your account, only dissable it, At the bottom of the page is a 'Deactivate your account' ⮕ Enter password ⮕ Deactivate account",
+        "domains": [
+            "amdrewards.com"
+        ]
+    },
+    
+    {
         "name": "AmiAmi",
         "url": "https://support.amiami.com/hc/en-us/requests/new",
         "difficulty": "hard",
