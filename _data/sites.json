@@ -18937,6 +18937,16 @@
     },
 
     {
+        "name": "Urcdkey",
+        "url": "https://www.urcdkey.com/",
+        "difficulty": "hard",
+        "notes": "Send a message using the website chat feature (bottom right), asking them to delete your account",
+        "domains": [
+            "urcdkey.com"
+        ]
+    },
+    
+    {
         "name": "Usersnap",
         "url": "https://usersnap.com/contact",
         "difficulty": "hard",
