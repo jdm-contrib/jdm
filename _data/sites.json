@@ -16218,6 +16218,7 @@
         "name": "Shazam",
         "url": "https://www.shazam.com/privacy/login/delete",
         "difficulty": "easy",
+        "notes": "Visit the linked page and sign in to your account. Your account will be deleted within 30 days. According to their privacy page \"Shazam may retain data that has been deidentified and is no longer associated with you.\"",
         "domains": [
             "shazam.com"
         ]
