@@ -1061,7 +1061,7 @@
             "amdrewards.com"
         ]
     },
-    
+
     {
         "name": "AmiAmi",
         "url": "https://support.amiami.com/hc/en-us/requests/new",
@@ -19319,6 +19319,15 @@
         ]
     },
 
+    {
+        "name": "Voicemod",
+        "url": "https://www.voicemod.net/support/?letstalk=Account%20and%20Login&issue",
+        "difficulty": "hard",
+        "notes": "Fill out the form, in the 'lets talk' field select 'Account & Login', in the second field select 'Delete account'.",
+        "domains": [
+            "voicemod.net"
+        ]
+    },
     {
         "name": "VoucherCodes",
         "url": "https://support.vouchercodes.co.uk/hc/en-us/articles/360000349566-How-do-I-delete-my-Account-",
