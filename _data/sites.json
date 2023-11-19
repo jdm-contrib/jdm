@@ -5528,17 +5528,6 @@
     },
 
     {
-        "name": "EDDB",
-        "url": "https://eddb.io/contact",
-        "difficulty": "hard",
-        "notes": "Request deletion in the contact form",
-        "notes_tr": "İletişim formunda silmeyi talep edin",
-        "domains": [
-            "eddb.io"
-        ]
-    },
-
-    {
         "name": "Edizioni Simone",
         "url": "https://edizioni.simone.it/informativa-sulla-privacy/",
         "difficulty": "hard",
