@@ -11346,10 +11346,18 @@
 
     {
         "name": "Meetup",
-        "url": "https://www.meetup.com/account/remove/",
-        "difficulty": "easy",
+        "url": "https://help.meetup.com/hc/en-us/articles/360002861092-Deactivating-an-account-",
+        "url_de": "https://help.meetup.com/hc/de/articles/360002861092-Konto-deaktivieren",
+        "url_en": "https://meet.meetup.com/hc/en-us/articles/360002861092-Deactivating-an-account-",
+        "url_es": "https://help.meetup.com/hc/es/articles/360002861092-Desactivaci%C3%B3n-de-una-cuenta",
+        "url_fr": "https://help.meetup.com/hc/fr-fr/articles/360002861092-D%C3%A9sactiver-un-compte",
+        "url_it": "https://help.meetup.com/hc/it/articles/360002861092-Disattivare-un-account",
+        "url_pt_pt": "https://help.meetup.com/hc/pt/articles/360002861092-Desativar-uma-conta-",
+        "difficulty": "impossible",
+        "notes": "Meetup accounts can only be deactivated, not deleted. To deactivate your account visit the linked page and follow the appropriate instructions for the method you used to sign up.",
         "domains": [
-            "meetup.com"
+            "meetup.com",
+            "help.meetup.com"
         ]
     },
 
