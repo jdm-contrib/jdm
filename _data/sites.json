@@ -1975,7 +1975,7 @@
 
     {
         "name": "Bato.to",
-        "url": "https://id.bato.to/manager/deletion",
+        "url": "https://bato.to/account/deletion",
         "difficulty": "easy",
         "notes": "Go to the linked site and click \"Delete account\". Remember that you won't be able to reuse e-mail associated with this account, and all uploaded chapters and comments will not be deleted.",
         "domains": [
