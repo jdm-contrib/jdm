@@ -7976,8 +7976,9 @@
 
     {
         "name": "Gradcracker",
-        "url": "https://www.gradcracker.com/my-gradcracker/my-account/delete",
+        "url": "https://www.gradcracker.com/my-gradcracker/my-account",
         "difficulty": "easy",
+        "notes": "Visit the linked page, scroll to the bottom of the page, click \"Delete my account\" and confirm.",
         "domains": [
             "gradcracker.com"
         ]
