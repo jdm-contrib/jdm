@@ -19133,9 +19133,9 @@
 
     {
         "name": "Viber",
-        "url": "https://help.viber.com/en/article/deactivate-uninstall-and-reinstall-viber",
+        "url": "https://help.viber.com/hc/en-us/articles/9174583112861",
         "difficulty": "easy",
-        "notes": "In application open Settings ⮕ Account ⮕ Deactivate Account",
+        "notes": "Visit the linked page and follow the instructions.",
         "domains": [
             "viber.com",
             "help.viber.com"
