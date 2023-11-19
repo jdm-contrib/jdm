@@ -1053,6 +1053,16 @@
     },
 
     {
+        "name": "AMD Rewards",
+        "url": "https://www.amdrewards.com/my-account",
+        "difficulty": "impossible",
+        "notes": "You can not delete your account, only disable it, At the bottom of the page there is a 'Deactivate your account' ⮕ Enter password ⮕ Deactivate account",
+        "domains": [
+            "amdrewards.com"
+        ]
+    },
+
+    {
         "name": "AmiAmi",
         "url": "https://support.amiami.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -4940,6 +4950,18 @@
         "notes": "Complete the captcha and press the button to request account deletion. An email will be sent to you to confirm such action.",
         "domains": [
             "dlh.net"
+        ]
+    },
+
+    {
+        "name": "DLive",
+        "url": "https://dlive.tv/s/settings",
+        "difficulty": "easy",
+        "notes": "In settings scroll to the bottom, click the delete account button and enter your password. Your account will be deleted in 30 days.",
+        "domains": [
+            "dlive.tv",
+            "community.dlive.tv",
+            "help.dlive.tv"
         ]
     },
 
@@ -18969,6 +18991,16 @@
     },
 
     {
+        "name": "Urcdkey",
+        "url": "https://www.urcdkey.com/",
+        "difficulty": "hard",
+        "notes": "Send a message using the website chat feature (bottom right), asking them to delete your account",
+        "domains": [
+            "urcdkey.com"
+        ]
+    },
+
+    {
         "name": "Usersnap",
         "url": "https://usersnap.com/contact",
         "difficulty": "hard",
@@ -19322,6 +19354,16 @@
     },
 
     {
+        "name": "Voicemod",
+        "url": "https://www.voicemod.net/support/?letstalk=Account%20and%20Login&issue",
+        "difficulty": "hard",
+        "notes": "Fill out the form, in the 'lets talk' field select 'Account & Login', in the second field select 'Delete account'.",
+        "domains": [
+            "voicemod.net"
+        ]
+    },
+
+    {
         "name": "Volcano Hosting",
         "url": "https://www.volcanohosting.net",
         "difficulty": "hard",
@@ -19454,6 +19496,16 @@
         "notes_pt_pt": "Preencha o formulario, selecionando \"Customer/Former Customer\" e \"Delete My Information\". Será enviada uma hiperligação de confirmação para o seu e-mail.",
         "domains": [
             "wahoofitness.com"
+        ]
+    },
+
+    {
+        "name": "Waifudex",
+        "url": "https://waifudex.com/home",
+        "difficulty": "easy",
+        "notes": "Click on your username (top right) ⮕ Delete account (bottom of window) ⮕ Confirm",
+        "domains": [
+            "waifudex.com"
         ]
     },
 
