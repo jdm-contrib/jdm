@@ -4932,6 +4932,16 @@
     },
 
     {
+        "name": "DLive",
+        "url": "https://dlive.tv/s/settings",
+        "difficulty": "easy",
+        "notes": "In settings scroll to the bottom, click the delete account button and enter your password. Your account will be deleted in 30 days.",
+        "domains": [
+            "dlive.tv"
+        ]
+    },
+
+    {
         "name": "DNSimple",
         "url": "https://dnsimple.com/user/cancellation",
         "difficulty": "easy",
@@ -19310,6 +19320,16 @@
     },
 
     {
+        "name": "Voicemod",
+        "url": "https://www.voicemod.net/support/?letstalk=Account%20and%20Login&issue",
+        "difficulty": "hard",
+        "notes": "Fill out the form, in the 'lets talk' field select 'Account & Login', in the second field select 'Delete account'.",
+        "domains": [
+            "voicemod.net"
+        ]
+    },
+
+    {
         "name": "Volcano Hosting",
         "url": "https://www.volcanohosting.net",
         "difficulty": "hard",
@@ -19319,15 +19339,6 @@
         ]
     },
 
-    {
-        "name": "Voicemod",
-        "url": "https://www.voicemod.net/support/?letstalk=Account%20and%20Login&issue",
-        "difficulty": "hard",
-        "notes": "Fill out the form, in the 'lets talk' field select 'Account & Login', in the second field select 'Delete account'.",
-        "domains": [
-            "voicemod.net"
-        ]
-    },
     {
         "name": "VoucherCodes",
         "url": "https://support.vouchercodes.co.uk/hc/en-us/articles/360000349566-How-do-I-delete-my-Account-",
