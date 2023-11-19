@@ -1056,7 +1056,7 @@
         "name": "AMD Rewards",
         "url": "https://www.amdrewards.com/my-account",
         "difficulty": "impossible",
-        "notes": "You can not delete your account, only dissable it, At the bottom of the page is a 'Deactivate your account' ⮕ Enter password ⮕ Deactivate account",
+        "notes": "You can not delete your account, only disable it, At the bottom of the page there is a 'Deactivate your account' ⮕ Enter password ⮕ Deactivate account",
         "domains": [
             "amdrewards.com"
         ]
@@ -18967,7 +18967,6 @@
             "urcdkey.com"
         ]
     },
-    
     {
         "name": "Usersnap",
         "url": "https://usersnap.com/contact",
