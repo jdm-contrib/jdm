@@ -2643,6 +2643,16 @@
     },
 
     {
+        "name": "Boostcamp",
+        "url": "https://www.boostcamp.app/data-deletion-request",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and confirm the deletion.",
+        "domains": [
+            "boostcamp.app"
+        ]
+    },
+
+    {
         "name": "Boots Viewpoint",
         "url": "https://www.bootsviewpoint.co.uk",
         "difficulty": "hard",
@@ -16221,6 +16231,16 @@
         "notes_pt_br": "Na aba Privacy, clique no botão 'Delete Account'. Após o clique, insira um motivo (esse passo é opcional) e a senha da sua conta.",
         "domains": [
             "sharesome.com"
+        ]
+    },
+
+    {
+        "name": "Shazam",
+        "url": "https://www.shazam.com/privacy/login/delete",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and sign in to your account. Your account will be deleted within 30 days. According to their privacy page \"Shazam may retain data that has been deidentified and is no longer associated with you.\"",
+        "domains": [
+            "shazam.com"
         ]
     },
 
