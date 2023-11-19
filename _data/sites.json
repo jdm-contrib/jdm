@@ -1220,13 +1220,16 @@
 
     {
         "name": "AnkiWeb",
-        "url": "https://ankiweb.net/account/remove",
+        "url": "https://ankiweb.net/account/remove-account",
         "difficulty": "easy",
-        "notes": "Confirm by entering your e-mail address and click 'Remove'.",
+        "notes": "Visit the linked page, log in to your account, confirm your password and click \"Remove Account\".",
         "notes_ru": "Подтвердите, введя свой адрес электронной почты и нажмите «Удалить».",
         "notes_tr": "E-posta adresinizi girerek onaylayın ve sonrasında \"Sil\" tuşuna basın.",
         "domains": [
-            "ankiweb.net"
+            "ankiweb.net",
+            "apps.ankiweb.net",
+            "faqs.ankiweb.net",
+            "help.ankiweb.net"
         ]
     },
 
