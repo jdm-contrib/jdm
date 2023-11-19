@@ -9492,9 +9492,9 @@
 
     {
         "name": "ipinfo.io",
-        "url": "https://ipinfo.io/privacy-policy",
+        "url": "https://ipinfo.io/faq/article/126-deleting-ipinfo-account",
         "difficulty": "hard",
-        "notes": "Email support@ipinfo.io asking to delete your account.",
+        "notes": "Send them an email asking to delete your account.",
         "email": "support@ipinfo.io",
         "domains": [
             "ipinfo.io"
