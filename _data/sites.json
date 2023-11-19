@@ -11110,13 +11110,16 @@
 
     {
         "name": "Mapstr",
-        "url": "https://mapstr.com/faq.html",
+        "url": "https://en.mapstr.com/faq",
+        "url_en": "https://en.mapstr.com/faq",
+        "url_fr": "https://mapstr.com/faq",
         "difficulty": "easy",
-        "notes": "Log in to your account in the app, then in the account settings choose 'Delete my account'.",
-        "notes_tr": "Hesabınıza giriş yapın, ve \"Hesap Ayarları\" sayfasından \"Hesabımı Sil\" seçeneğini seçin.",
-        "notes_de": "Melde dich in der App mit deinem Account an. Wähle dann in den Konto-Einstellungen 'Mein Konto löschen'.",
+        "notes": "Log in to your account in the app, then got to the \"Profile\" tab and open settings. After that, find the \"Data Management\" section and click \"Delete my account\".",
         "domains": [
-            "mapstr.com"
+            "mapstr.com",
+            "en.mapstr.com",
+            "go.mapstr.com",
+            "web.mapstr.com"
         ]
     },
 
