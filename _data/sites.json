@@ -4937,7 +4937,9 @@
         "difficulty": "easy",
         "notes": "In settings scroll to the bottom, click the delete account button and enter your password. Your account will be deleted in 30 days.",
         "domains": [
-            "dlive.tv"
+            "dlive.tv",
+            "community.dlive.tv",
+            "help.dlive.tv"
         ]
     },
 
