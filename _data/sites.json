@@ -19591,8 +19591,8 @@
     {
         "name": "Webhosting.dk",
         "url": "https://www.webhosting.dk/DKK/deleteaccount.php",
-        "difficulty": "easy",
-        "notes": "Due to a legal requirement to retain information for the last 5 financial years, user accounts cannot be deleted even if they are no longer in use. This retention is necessary because the accounts are linked to domain names, payment details with Nets, and invoices, as mandated by law.",
+        "difficulty": "hard",
+        "notes": "The service claims to be required by law to retain information for the last 5 financial years, and doesn't allow you to delete it. Your account must be inactive for 5 full years before you can delete it.",
         "domains": [
             "webhosting.dk"
         ]
