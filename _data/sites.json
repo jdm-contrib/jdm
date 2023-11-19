@@ -7262,18 +7262,6 @@
     },
 
     {
-        "name": "Gfycat",
-        "url": "https://gfycat.com/support",
-        "email": "support@gfycat.com",
-        "difficulty": "hard",
-        "notes": "You can't delete your account without contacting them. Send them an email from the address used to create the account",
-        "notes_tr": "Onlarla iletişim kurmadan hesabınızı silemezsiniz. Kayıt olduğunuz e-posta adresi ile e-posta gönderin",
-        "domains": [
-            "gfycat.com"
-        ]
-    },
-
-    {
         "name": "GG2U",
         "url": "https://www.gg2u.org/privacy.html",
         "email": "privacy@gg2u.org",
