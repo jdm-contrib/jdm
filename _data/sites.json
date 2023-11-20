@@ -5572,17 +5572,6 @@
     },
 
     {
-        "name": "EDDB",
-        "url": "https://eddb.io/contact",
-        "difficulty": "hard",
-        "notes": "Request deletion in the contact form",
-        "notes_tr": "İletişim formunda silmeyi talep edin",
-        "domains": [
-            "eddb.io"
-        ]
-    },
-
-    {
         "name": "Edizioni Simone",
         "url": "https://edizioni.simone.it/informativa-sulla-privacy/",
         "difficulty": "hard",
@@ -7313,18 +7302,6 @@
         "difficulty": "easy",
         "domains": [
             "gettr.com"
-        ]
-    },
-
-    {
-        "name": "Gfycat",
-        "url": "https://gfycat.com/support",
-        "email": "support@gfycat.com",
-        "difficulty": "hard",
-        "notes": "You can't delete your account without contacting them. Send them an email from the address used to create the account",
-        "notes_tr": "Onlarla iletişim kurmadan hesabınızı silemezsiniz. Kayıt olduğunuz e-posta adresi ile e-posta gönderin",
-        "domains": [
-            "gfycat.com"
         ]
     },
 
