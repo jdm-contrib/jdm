@@ -1230,13 +1230,16 @@
 
     {
         "name": "AnkiWeb",
-        "url": "https://ankiweb.net/account/remove",
+        "url": "https://ankiweb.net/account/remove-account",
         "difficulty": "easy",
-        "notes": "Confirm by entering your e-mail address and click 'Remove'.",
+        "notes": "Visit the linked page, log in to your account, confirm your password and click \"Remove Account\".",
         "notes_ru": "Подтвердите, введя свой адрес электронной почты и нажмите «Удалить».",
         "notes_tr": "E-posta adresinizi girerek onaylayın ve sonrasında \"Sil\" tuşuna basın.",
         "domains": [
-            "ankiweb.net"
+            "ankiweb.net",
+            "apps.ankiweb.net",
+            "faqs.ankiweb.net",
+            "help.ankiweb.net"
         ]
     },
 
@@ -1982,7 +1985,7 @@
 
     {
         "name": "Bato.to",
-        "url": "https://id.bato.to/manager/deletion",
+        "url": "https://bato.to/account/deletion",
         "difficulty": "easy",
         "notes": "Go to the linked site and click \"Delete account\". Remember that you won't be able to reuse e-mail associated with this account, and all uploaded chapters and comments will not be deleted.",
         "domains": [
@@ -7994,8 +7997,9 @@
 
     {
         "name": "Gradcracker",
-        "url": "https://www.gradcracker.com/my-gradcracker/my-account/delete",
+        "url": "https://www.gradcracker.com/my-gradcracker/my-account",
         "difficulty": "easy",
+        "notes": "Visit the linked page, scroll to the bottom of the page, click \"Delete my account\" and confirm.",
         "domains": [
             "gradcracker.com"
         ]
@@ -9509,9 +9513,9 @@
 
     {
         "name": "ipinfo.io",
-        "url": "https://ipinfo.io/privacy-policy",
+        "url": "https://ipinfo.io/faq/article/126-deleting-ipinfo-account",
         "difficulty": "hard",
-        "notes": "Email support@ipinfo.io asking to delete your account.",
+        "notes": "Send them an email asking to delete your account.",
         "email": "support@ipinfo.io",
         "domains": [
             "ipinfo.io"
@@ -11127,13 +11131,16 @@
 
     {
         "name": "Mapstr",
-        "url": "https://mapstr.com/faq.html",
+        "url": "https://en.mapstr.com/faq",
+        "url_en": "https://en.mapstr.com/faq",
+        "url_fr": "https://mapstr.com/faq",
         "difficulty": "easy",
-        "notes": "Log in to your account in the app, then in the account settings choose 'Delete my account'.",
-        "notes_tr": "Hesabınıza giriş yapın, ve \"Hesap Ayarları\" sayfasından \"Hesabımı Sil\" seçeneğini seçin.",
-        "notes_de": "Melde dich in der App mit deinem Account an. Wähle dann in den Konto-Einstellungen 'Mein Konto löschen'.",
+        "notes": "Log in to your account in the app, then got to the \"Profile\" tab and open settings. After that, find the \"Data Management\" section and click \"Delete my account\".",
         "domains": [
-            "mapstr.com"
+            "mapstr.com",
+            "en.mapstr.com",
+            "go.mapstr.com",
+            "web.mapstr.com"
         ]
     },
 
@@ -11360,10 +11367,18 @@
 
     {
         "name": "Meetup",
-        "url": "https://www.meetup.com/account/remove/",
-        "difficulty": "easy",
+        "url": "https://help.meetup.com/hc/en-us/articles/360002861092-Deactivating-an-account-",
+        "url_de": "https://help.meetup.com/hc/de/articles/360002861092-Konto-deaktivieren",
+        "url_en": "https://help.meetup.com/hc/en-us/articles/360002861092-Deactivating-an-account-",
+        "url_es": "https://help.meetup.com/hc/es/articles/360002861092-Desactivaci%C3%B3n-de-una-cuenta",
+        "url_fr": "https://help.meetup.com/hc/fr-fr/articles/360002861092-D%C3%A9sactiver-un-compte",
+        "url_it": "https://help.meetup.com/hc/it/articles/360002861092-Disattivare-un-account",
+        "url_pt_pt": "https://help.meetup.com/hc/pt/articles/360002861092-Desativar-uma-conta-",
+        "difficulty": "impossible",
+        "notes": "Meetup accounts can only be deactivated, not deleted. To deactivate your account visit the linked page and follow the appropriate instructions for the method you used to sign up.",
         "domains": [
-            "meetup.com"
+            "meetup.com",
+            "help.meetup.com"
         ]
     },
 
@@ -19159,9 +19174,9 @@
 
     {
         "name": "Viber",
-        "url": "https://help.viber.com/en/article/deactivate-uninstall-and-reinstall-viber",
+        "url": "https://help.viber.com/hc/en-us/articles/9174583112861",
         "difficulty": "easy",
-        "notes": "In application open Settings ⮕ Account ⮕ Deactivate Account",
+        "notes": "Visit the linked page and follow the instructions.",
         "domains": [
             "viber.com",
             "help.viber.com"
