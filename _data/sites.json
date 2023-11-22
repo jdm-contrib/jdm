@@ -2608,7 +2608,7 @@
         ]
     },
 
-     {
+    {
         "name": "Bones Coffee Company",
         "url": "https://www.bonescoffee.com/pages/contact-us",
         "difficulty": "hard",
@@ -2619,7 +2619,7 @@
             "bonescoffeecompany.com"
         ]
     },
-    
+
     {
         "name": "BookBub",
         "url": "https://www.bookbub.com/contact/new",
@@ -6861,7 +6861,7 @@
             "functionofbeauty.com"
         ]
     },
-    
+
     {
         "name": "Funimation",
         "url": "https://help.funimation.com/hc/en-us/articles/360046541711-How-do-I-delete-or-close-my-account-",
@@ -8402,17 +8402,18 @@
             "harkaudio.com"
         ]
     },
-  {
+
+    {
         "name": "Harney & Sons Fine Teas",
         "url": "https://www.harney.com/pages/contact-us",
         "difficulty": "hard",
         "email": "customerservice@harneyteas.com",
-        "notes": "Contact them through email or phone and ask for account deleted",
+        "notes": "Contact them through email or phone and ask for account to be deleted",
         "domains": [
             "harney.com"
         ]
     },
-    
+
     {
         "name": "HBO Max",
         "url": "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/6555225c-a911-4af8-bdb5-20158994ece0",
@@ -19035,7 +19036,7 @@
             "usersnap.com"
         ]
     },
- 
+
     {
         "name": "Usmobile",
         "url": "https://www.usmobile.com/about-us",
@@ -19045,7 +19046,7 @@
             "usmobile.com"
         ]
     },
-    
+
     {
         "name": "Uswitch",
         "url": "https://www.uswitch.com/account/settings",
