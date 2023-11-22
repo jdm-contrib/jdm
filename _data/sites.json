@@ -2608,6 +2608,18 @@
         ]
     },
 
+     {
+        "name": "Bones Coffee Company",
+        "url": "https://www.bonescoffee.com/pages/contact-us",
+        "difficulty": "hard",
+        "notes": "You will need to contact support team via chat or email to request account deletion.",
+        "email": "Support@BonesCoffee.com ",
+        "domains": [
+            "bonescoffee.com",
+            "bonescoffeecompany.com"
+        ]
+    },
+    
     {
         "name": "BookBub",
         "url": "https://www.bookbub.com/contact/new",
@@ -6841,6 +6853,16 @@
     },
 
     {
+        "name": "Function of Beauty",
+        "url": "https://functionofbeauty.com/pages/contact-us",
+        "difficulty": "hard",
+        "notes": "You will need to request account deletion throught chat or email.",
+        "domains": [
+            "functionofbeauty.com"
+        ]
+    },
+    
+    {
         "name": "Funimation",
         "url": "https://help.funimation.com/hc/en-us/articles/360046541711-How-do-I-delete-or-close-my-account-",
         "difficulty": "hard",
@@ -8380,7 +8402,17 @@
             "harkaudio.com"
         ]
     },
-
+  {
+        "name": "Harney & Sons Fine Teas",
+        "url": "https://www.harney.com/pages/contact-us",
+        "difficulty": "hard",
+        "email": "customerservice@harneyteas.com",
+        "notes": "Contact them through email or phone and ask for account deleted",
+        "domains": [
+            "harney.com"
+        ]
+    },
+    
     {
         "name": "HBO Max",
         "url": "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/6555225c-a911-4af8-bdb5-20158994ece0",
@@ -19003,7 +19035,17 @@
             "usersnap.com"
         ]
     },
-
+ 
+    {
+        "name": "Usmobile",
+        "url": "https://www.usmobile.com/about-us",
+        "difficulty": "hard",
+        "notes": "Request account deletion through chat. They'll send you a code to give back to them, takes about 15 minutes before deletion.",
+        "domains": [
+            "usmobile.com"
+        ]
+    },
+    
     {
         "name": "Uswitch",
         "url": "https://www.uswitch.com/account/settings",
