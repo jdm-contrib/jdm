@@ -435,6 +435,16 @@
     },
 
     {
+        "name": "Acciobooks",
+        "url": "https://acciobooks.com/users/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "Just visit the linked page, login and confirm the deletion of your account",
+        "domains": [
+            "acciobooks.com"
+        ]
+    },
+
+    {
         "name": "Acorns",
         "url": "https://app.acorns.com/close-account",
         "difficulty": "easy",
