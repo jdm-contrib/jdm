@@ -7202,6 +7202,17 @@
     },
 
     {
+        "name": "Genesis Cloud",
+        "url": "https://id.genesiscloud.com/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "genesiscloud.com",
+            "console.genesiscloud.com",
+            "id.genesiscloud.com"
+        ]
+    },
+
+    {
         "name": "Geni",
         "url": "https://www.geni.com/account_settings",
         "difficulty": "medium",
