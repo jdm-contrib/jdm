@@ -9079,6 +9079,7 @@
         "name": "IFTTT",
         "url": "https://ifttt.com/settings/confirm_deletion",
         "difficulty": "easy",
+        "notes": "Visit the linked page and follow the instructions. For good measure you might want to disconnect [your services](https://ifttt.com/my_services).",
         "domains": [
             "ifttt.com"
         ]
