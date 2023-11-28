@@ -4609,6 +4609,16 @@
     },
 
     {
+        "name": "DevITjobs",
+        "url": "https://devitjobs.com/contact",
+        "difficulty": "medium",
+        "notes": "Click on the 'Log in here' button. After logging in, go to 'Account', then 'Delete Account'. You will be redirected to write to the support email. Account gets deleted within 48 hours.",
+        "domains": [
+            "devitjobs.com"
+        ]
+    },
+
+    {
         "name": "Devpost",
         "url": "https://devpost.com/settings/delete_account",
         "difficulty": "easy",
@@ -21069,16 +21079,6 @@
         "notes_ua": "Перейдіть за посиланням і підтвердіть видалення акаунту.",
         "domains": [
             "miyklas.com.ua"
-        ]
-    },
-
-    {
-        "name": "DevITjobs",
-        "url": "https://devitjobs.com/contact",
-        "difficulty": "medium",
-        "notes": "Click on the 'Log in here' button. After logging in, go to 'Account', then 'Delete Account'. You will be redirected to write to the support email. Account gets deleted within 48 hours.",
-        "domains": [
-            "devitjobs.com"
         ]
     }
 ]
