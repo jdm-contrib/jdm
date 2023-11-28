@@ -1622,6 +1622,16 @@
     },
 
     {
+        "name": "Athletic Greens",
+        "url": "https://ag-privacy.relyance.ai/?mockData=false",
+        "difficulty": "medium",
+        "notes": "Deleting account does not cancel subscription, so do that first. Requires submitting name, address, and phone number to start deletion.",
+        "domains": [
+            "drinkag1.com"
+        ]
+    },
+
+    {
         "name": "The Atlantic",
         "url": "https://support.theatlantic.com/hc/en-us/requests/new",
         "difficulty": "limited",
