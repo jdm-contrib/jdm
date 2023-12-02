@@ -5641,6 +5641,19 @@
     },
 
     {
+        "name": "Edraw Software",
+        "url": "https://www.edrawsoft.com/faq/#account",
+        "difficulty": "hard",
+        "notes": "You need to contact Edraw Software support through their support center.",
+        "notes_es": "Debes contactar al soporte de Edraw Software a través de su centro de soporte.",
+        "domains": [
+            "edrawsoft.com",
+            "edrawmind.com",
+            "edrawmax.com"
+        ]
+    },
+
+    {
         "name": "eDreams",
         "url": "https://www.edreams.co.uk/travel/secure/#accountpreferences/",
         "difficulty": "easy",
