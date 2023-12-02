@@ -10531,6 +10531,17 @@
     },
 
     {
+        "name": "LG Account",
+        "url": "https://www.lgaccount.com",
+        "difficulty": "easy",
+        "notes": "[Log in](https://dk.lgaccount.com/member/delete_account_introduce), open the account administration tab, and press 'Delete Account'. Note that you might need to repeat going to the adminstration tab and pressing delete a couple times depending on the services you've got connected to LG Account. Once there's no more to delete, you should be logged out automatically (for good measure, verify you cannot login again).",
+        "domains": [
+            "lgaccount.com",
+            "www.lgaccount.com"
+        ]
+    },
+
+    {
         "name": "Liberland",
         "url": "https://liberland.org",
         "difficulty": "impossible",
