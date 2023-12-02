@@ -20400,6 +20400,16 @@
     },
 
     {
+        "name": "Wise",
+        "url": "https://wise.com/settings/",
+        "difficulty": "impossible",
+        "notes": "You can find the \"Close Account\" option at the bottom of the settings page, but you can log in any time after closing to reactivate it, so it is never deleted.",
+        "domains": [
+            "wise.com"
+        ]
+    },
+
+    {
         "name": "WiseMapping",
         "url": "https://app.wisemapping.com/c/maps/",
         "difficulty": "easy",
