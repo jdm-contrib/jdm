@@ -18605,6 +18605,16 @@
     },
 
     {
+        "name": "TruthFinder",
+        "url": "https://www.truthfinder.com/privacy-center",
+        "difficulty": "easy",
+        "notes": "Click 'Right to Delete' under 'User Data Tools'. Then enter your email and click 'Delete My User Data'.",
+        "domains": [
+            "truthfinder.com"
+        ]
+    },
+
+    {
         "name": "TryHackMe",
         "url": "https://tryhackme.com/profile",
         "difficulty": "easy",
