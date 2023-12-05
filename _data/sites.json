@@ -10173,6 +10173,19 @@
     },
 
     {
+        "name": "Kino.dk",
+        "url": "https://kino.dk/user",
+        "difficulty": "hard",
+        "notes": "",
+        "email": "kontakt@kino.dk",
+        "email_subject": "Sletning af profil",
+        "email_body": "Jeg ønsker at slette min konto hos jer. Tak.",
+        "domains": [
+            "kino.dk"
+        ]
+    },
+
+    {
         "name": "Kistania",
         "url": "https://www.kistania.com/pages/contact-us",
         "difficulty": "impossible",
