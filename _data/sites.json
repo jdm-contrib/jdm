@@ -10625,6 +10625,16 @@
     },
 
     {
+        "name": "Lifesum",
+        "url": "https://lifesum.com/account/delete-account",
+        "difficulty": "easy",
+        "notes": "On you account page, go to the ['Close Account & Delete Data' tab](https://lifesum.com/account/delete-account).",
+        "domains": [
+            "lifesum.com"
+        ]
+    },
+
+    {
         "name": "Lime",
         "url": "https://help.li.me/hc/en/articles/360017597013",
         "difficulty": "hard",
