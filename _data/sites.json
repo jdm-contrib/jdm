@@ -10176,7 +10176,7 @@
         "name": "Kino.dk",
         "url": "https://kino.dk/user",
         "difficulty": "hard",
-        "notes": "",
+        "notes": "Requires sending an email.",
         "email": "kontakt@kino.dk",
         "email_subject": "Sletning af profil",
         "email_body": "Jeg ønsker at slette min konto hos jer. Tak.",
