@@ -11046,6 +11046,16 @@
     },
 
     {
+        "name": "Magasin",
+        "url": "https://www.magasin.dk/profilaendring/",
+        "difficulty": "easy",
+        "notes": "Go to your profile, press 'Rediger' and then 'Slet profil'.",
+        "domains": [
+            "magasin.dk"
+        ]
+    },
+
+    {
         "name": "Magicflow",
         "url": "https://magicflow.com/profile/account",
         "difficulty": "easy",
