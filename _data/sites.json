@@ -10628,7 +10628,7 @@
         "name": "Lifesum",
         "url": "https://lifesum.com/account/delete-account",
         "difficulty": "easy",
-        "notes": "On you account page, go to the ['Close Account & Delete Data' tab](https://lifesum.com/account/delete-account).",
+        "notes": "On you account page, go to the 'Close Account & Delete Data' tab.",
         "domains": [
             "lifesum.com"
         ]
