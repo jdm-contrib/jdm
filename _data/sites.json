@@ -7006,8 +7006,8 @@
         "name": "Gaijin Entertainment",
         "url": "https://support.gaijin.net/hc/en-us/articles/200071071-Account-Deletion-Suspension-",
         "difficulty": "easy",
-        "notes": "If you want to suspend your account on the website Store.Gaijin.net, please press the "Delete account" link in your account's settings, or proceed directly through the "Confirm account deletion" link. After following the instructions from the letter, your account will be suspended.",
-        "notes_ru": "В случае, если вы хотите приостановить доступ к аккаунту на сайте Store.gaijin.net, проследуйте по ссылке "Удалить аккаунт" в настройках вашего профиля, либо сразу перейдите по ссылке на страницу подтверждения удаления аккаунта."
+        "notes": "If you want to suspend your account on the website Store.Gaijin.net, please press the \"Delete account\" link in your account's settings, or proceed directly through the \"Confirm account deletion\" link. After following the instructions from the letter, your account will be suspended.",
+        "notes_ru": "В случае, если вы хотите приостановить доступ к аккаунту на сайте Store.gaijin.net, проследуйте по ссылке \"Удалить аккаунт\" в настройках вашего профиля, либо сразу перейдите по ссылке на страницу подтверждения удаления аккаунта.",
         "domains": [
             "gaijin.net",
             "store.gaijin.net",
