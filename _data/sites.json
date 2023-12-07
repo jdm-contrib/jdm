@@ -6993,16 +6993,6 @@
     },
 
     {
-        "name": "GAINSFIRE",
-        "url": "https://www.gainsfire.com/",
-        "difficulty": "easy",
-        "notes": "Open the App on your phone, navigate to your settings and select \"Delete account\" at the very bottom of the page.",
-        "domains": [
-            "gainsfire.com"
-        ]
-    },
-
-    {
         "name": "Gaijin Entertainment",
         "url": "https://support.gaijin.net/hc/en-us/articles/200071071-Account-Deletion-Suspension-",
         "difficulty": "easy",
@@ -7012,6 +7002,16 @@
             "gaijin.net",
             "store.gaijin.net",
             "support.gaijin.net"
+        ]
+    },
+
+    {
+        "name": "GAINSFIRE",
+        "url": "https://www.gainsfire.com/",
+        "difficulty": "easy",
+        "notes": "Open the App on your phone, navigate to your settings and select \"Delete account\" at the very bottom of the page.",
+        "domains": [
+            "gainsfire.com"
         ]
     },
 
