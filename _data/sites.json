@@ -12625,8 +12625,8 @@
     {
         "name": "NationStates",
         "url": "https://www.nationstates.net/page=faq",
-        "difficulty": "medium",
-        "notes": "Stay logged out of your nation for 28 or 60 days, depending on your settings.",
+        "difficulty": "hard",
+        "notes": "Stay logged out of your nation for 28 or 60 days, depending on your settings. However, your nation will be merely deactivated. The only way to have your nation truly deleted is to not have the nation long enough to reach a population of over 1 billion, and for someone else to create a nation with the same name.",
         "domains": [
             "nationstates.net",
             "forum.nationstates.net"
