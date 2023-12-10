@@ -19742,6 +19742,18 @@
     },
 
     {
+        "name": "TV 2",
+        "url": "https://mit.tv2.dk/konto/luk",
+        "difficulty": "easy",
+        "notes": "Go to your account page and press 'Slet konto'.",
+        "domains": [
+            "tv2.dk",
+            "mit.tv2.dk",
+            "play.tv2.dk"
+        ]
+    },
+
+    {
         "name": "Watch2Gether",
         "url": "https://w2g.tv/users/current_user",
         "difficulty": "easy",
