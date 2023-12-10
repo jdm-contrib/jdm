@@ -19187,7 +19187,11 @@
         "difficulty": "hard",
         "notes": "You must call them to close your account.",
         "domains" : [
-            "uxpin.com"
+            "uxpin.com",
+            "app.uxpin.com",
+            "files.uxpin.com",
+            "get.uxpin.com",
+            "showcase.uxpin.com"
         ]
     },
 
