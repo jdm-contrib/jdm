@@ -19443,6 +19443,16 @@
     },
 
     {
+        "name": "Visualping",
+        "url": "https://visualping.io/account/profile/",
+        "difficulty": "limited",
+        "notes": "You can go to your profile and press 'Close Account', however, this will merely deactivate your account. To delete your account, you must contact them.",
+        "domains": [
+            "visualping.io"
+        ]
+    },
+
+    {
         "name": "Viva o Linux (VOL)",
         "url": "https://www.vivaolinux.com.br/minhaConta.php",
         "difficulty": "easy",
