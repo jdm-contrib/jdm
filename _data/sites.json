@@ -1360,8 +1360,8 @@
         "name": "Apple ID / iTunes",
         "url": "https://support.apple.com/en-us/HT208504",
         "difficulty": "easy",
-        "notes": "Follow the steps to request account deletion. It is possible to undo for a few days. If you have bought a developer license, it's impossible to delete your account.",
-        "notes_ru": "Следуйте инструкциям, чтобы запросить удаление учетной записи. Отменить можно за несколько дней.",
+        "notes": "Follow the steps to request account deletion. It is possible to undo for a few days. If you have bought a developer license, it's impossible to delete your account. Once deleted, you will no longer be able to open a new one with the same email address.",
+        "notes_it" : "Segui i passaggi per richiedere la cancellazione dell'account. È possibile annullarla per alcuni giorni. Se hai acquistato una licenza per sviluppatore, è impossibile eliminare il tuo account. Una volta eliminato, non potrai più aprirne uno nuovo con lo stesso indirizzo email.",
         "domains": [
             "apple.com",
             "appleid.apple.com",
