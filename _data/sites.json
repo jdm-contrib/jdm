@@ -18254,6 +18254,16 @@
     },
 
     {
+        "name": "TinyLetter",
+        "url": "https://app.tinyletter.com/#!/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "tinyletter.com",
+            "app.tinyletter.com"
+        ]
+    },
+
+    {
         "name": "TKirch.dev",
         "url": "https://tkirch.dev/account-management/",
         "difficulty": "easy",
