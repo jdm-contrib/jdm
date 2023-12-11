@@ -16614,6 +16614,16 @@
     },
 
     {
+        "name": "SitePoint",
+        "url": "https://www.sitepoint.com/community/faq/#leaving",
+        "difficulty": "impossible",
+        "domains": [
+            "sitepoint.com",
+            "support.sitepoint.com"
+        ]
+    },
+
+    {
         "name": "Sketchfab",
         "url": "https://sketchfab.com/settings/account",
         "difficulty": "easy",
