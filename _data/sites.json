@@ -19214,6 +19214,20 @@
     },
 
     {
+        "name": "UXPin",
+        "url": "https://www.uxpin.com/docs/account/closing-your-account/",
+        "difficulty": "hard",
+        "notes": "You must call them to close your account.",
+        "domains" : [
+            "uxpin.com",
+            "app.uxpin.com",
+            "files.uxpin.com",
+            "get.uxpin.com",
+            "showcase.uxpin.com"
+        ]
+    },
+
+    {
         "name": "Valorant",
         "url": "https://support-valorant.riotgames.com/hc/en-us/articles/360050328414-Deleting-Your-Riot-Account-and-All-Your-Data",
         "difficulty": "easy",
