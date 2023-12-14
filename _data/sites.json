@@ -10784,6 +10784,16 @@
     },
 
     {
+        "name": "Litmus",
+        "url": "https://help.litmus.com/article/420-delete-your-account",
+        "difficulty": "limited",
+        "notes": "They offer a \"simple deletion\" where your account will be dissociated with your email address, and a [\"full data deletion\"](https://trust.litmus.com/?itemUid=af8eb7bc-d4b7-4e13-a4b7-6f05e2744c22) for complete data deletion.",
+        "domains": [
+            "litmus.com"
+        ]
+    },
+
+    {
         "name": "Live Nation",
         "url": "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/ba7654b2-26ce-47df-8954-0884b9a0cea5",
         "difficulty": "hard",
