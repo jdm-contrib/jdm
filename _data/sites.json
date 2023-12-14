@@ -17450,6 +17450,16 @@
     },
 
     {
+        "name": "Studios New York",
+        "url": "https://www.studiosnewyork.com/dashboard/profile",
+        "difficulty": "easy",
+        "notes": "Login and navigate to Your Profile by clicking on your name in the header. Scroll down to the bottom of the page and click 'Remove My Profile'.",
+        "domains": [
+            "studiosnewyork.com"
+        ]
+    },
+
+    {
         "name": "StudyMode",
         "url": "https://www.studymode.com/about-us/contact",
         "difficulty": "hard",
@@ -21168,16 +21178,5 @@
         "domains": [
             "miyklas.com.ua"
         ]
-    },
-
-    {
-        "name": "Studios New York",
-        "url": "https://www.studiosnewyork.com/",
-        "difficulty": "easy",
-        "notes": "Login and navigate to Your Profile by clicking on your name in the header. Scroll down to the bottom of the page and click Remove My Profile.",
-        "url": "https://www.studiosnewyork.com/dashboard/profile",
-        "domains": [
-            "studiosnewyork.com"
-        ]
-    },
+    }
 ]
