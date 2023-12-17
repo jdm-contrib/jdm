@@ -33,8 +33,29 @@ $(function(){
             var siteUrl = siteHeader.href.toLowerCase();
             var lowerTerm = term.toLowerCase();
 
-            // returns true if lowerTerm isn't found in site title or URL
-            return Math.max(siteTitle.indexOf(lowerTerm), siteUrl.indexOf(lowerTerm)) === -1;
+            // split words at spaces/dashes (' ' and '-')
+            const splitTerm = lowerTerm.trim().split(/ |-/g);
+            const splitTitle = siteTitle.trim().split(/ |-/g)
+           
+            // don't hide if part of term is included in title
+            for (let i = 0; i < splitTerm.length; i++) {
+               if (siteTitle.indexOf(splitTerm[i]) != -1) {
+                 return false;
+               }
+            }
+            // don't hide if substantial part (length > 2) of title is included in term
+            for (let i = 0; i < splitTitle.length; i++) {
+                if (lowerTerm.indexOf(splitTitle[i]) != -1 && splitTitle[i].length > 2) {
+                  return false;
+                }
+            }
+            // don't hide if term is included in url
+            if (siteUrl.indexOf(lowerTerm) != -1) {
+                return false;
+            }
+           
+            // else, hide
+            return true;
         });
 
         // Insert the term into the search field
