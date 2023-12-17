@@ -35,22 +35,27 @@ $(function(){
 
             // split words at spaces/dashes (' ' and '-')
             const splitTerm = lowerTerm.trim().split(/ |-/g);
-            const splitTitle = siteTitle.trim().split(/ |-/g)
+            const splitTitle = siteTitle.trim().split(/ |-/g);
+            const siteDomain = siteUrl.match(/(?<=http(?:s?):\/\/)[^\/]+/)[0];
            
-            // don't hide if part of term is included in title
+            // don't hide if substantial part (length > 3) of term is included in title
             for (let i = 0; i < splitTerm.length; i++) {
-               if (siteTitle.indexOf(splitTerm[i]) != -1) {
+               if (siteTitle.indexOf(splitTerm[i]) != -1 && splitTerm[i].length > 3) {
                  return false;
                }
             }
-            // don't hide if substantial part (length > 2) of title is included in term
+            // don't hide if substantial part (length > 3) of title is included in term
             for (let i = 0; i < splitTitle.length; i++) {
-                if (lowerTerm.indexOf(splitTitle[i]) != -1 && splitTitle[i].length > 2) {
+                if (lowerTerm.indexOf(splitTitle[i]) != -1 && splitTitle[i].length > 3) {
                   return false;
                 }
             }
             // don't hide if term is included in url
-            if (siteUrl.indexOf(lowerTerm) != -1) {
+            if (siteDomain.indexOf(lowerTerm) != -1) {
+                return false;
+            }
+            // if other options fail, default to old search
+            if (Math.max(siteTitle.indexOf(lowerTerm), siteUrl.indexOf(lowerTerm)) != -1) {
                 return false;
             }
            
