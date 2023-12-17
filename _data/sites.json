@@ -19039,7 +19039,14 @@
         "url": "https://www.twitch.tv/user/delete-account",
         "difficulty": "easy",
         "domains": [
-            "twitch.tv"
+            "twitch.tv",
+            "appeals.twitch.tv",
+            "blog.twitch.tv",
+            "clips.twitch.tv",
+            "dashboard.twitch.tv",
+            "help.twitch.tv",
+            "link.twitch.tv",
+            "safety.twitch.tv"
         ]
     },
 
