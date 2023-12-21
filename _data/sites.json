@@ -9756,6 +9756,16 @@
     },
 
     {
+        "name": "JEDEC",
+        "url": "https://www.jedec.org/user",
+        "difficulty": "easy",
+        "notes": "Edit ⮕ Cancel account, then click the link sent to your email.",
+        "domains": [
+            "jedec.org"
+        ]
+    },
+
+    {
         "name": "JetBrains",
         "url": "https://account.jetbrains.com/delete-account",
         "difficulty": "easy",
