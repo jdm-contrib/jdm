@@ -9219,6 +9219,16 @@
     },
 
     {
+        "name": "ImmiAccount (Australian Home Affairs)",
+        "url": "https://online.immi.gov.au/usm/summary",
+        "difficulty": "medium",
+        "notes": "Click the 'Delete my ImmiAccount' link and follow the instructions sent to your email.",
+        "domains": [
+            "online.immi.gov.au"
+        ]
+    },
+
+    {
         "name": "Immomio",
         "url": "https://tenant.immomio.com/de/settings/account",
         "difficulty": "easy",
