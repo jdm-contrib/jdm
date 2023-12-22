@@ -7354,6 +7354,16 @@
     },
 
     {
+        "name": "GermanTechJobs",
+        "url": "https://germantechjobs.de/contact",
+        "difficulty": "medium",
+        "notes": "Click on the 'Log in' button. Then, go to 'Account' and 'Delete Account'. You will be redirected to write to the support email. Account gets deleted within 48 hours.",
+        "domains": [
+            "germantechjobs.de"
+        ]
+    },
+
+    {
         "name": "get.tech",
         "url": "https://get.tech/privacy-policy",
         "difficulty": "hard",
