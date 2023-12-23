@@ -2266,9 +2266,9 @@
 
     {
         "name": "Binance",
-        "url": "https://www.binance.com/fr/my/risk/delete-account-appeal",
-        "difficulty": "medium",
-        "notes": "First you have to empty your account from all cryptocurrencies, then click the link and enter your email.",
+        "url": "https://www.binance.com/en/my/security",
+        "difficulty": "easy",
+        "notes": "First you have to empty your account from all cryptocurrencies, then go to the website linked, scroll down and click on \"delete account\", then follow the steps.",
         "domains": [
             "binance.com"
         ]
