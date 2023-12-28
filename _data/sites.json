@@ -15702,6 +15702,16 @@
     },
 
     {
+        "name": "Redirect.ing",
+        "url": "https://redirect.ing/account/settings/edit",
+        "difficulty": "easy",
+        "notes": "On the settings page, click the \"Delete my account & data\" button at the bottom of the page.",
+        "domains": [
+            "redirect.ing"
+        ]
+    },
+
+    {
         "name": "redirect.pizza",
         "url": "https://redirect.pizza/profile",
         "difficulty": "easy",
