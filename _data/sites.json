@@ -16348,6 +16348,17 @@
     },
 
     {
+        "name": "SchoolFinder",
+        "url": "https://www.schoolfinder.com/About/SchoolFinder-Privacy-Policy.pdf",
+        "email": "info@SchoolFinder.com",
+        "difficulty": "hard",
+        "notes": "Email customer service to request account deletion.",
+        "domains": [
+            "schoolfinder.com"
+        ]
+    },
+
+    {
         "name": "Schoology",
         "url": "https://app.schoology.com/settings/account/action?delete",
         "difficulty": "easy",
