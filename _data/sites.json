@@ -5873,6 +5873,16 @@
     },
 
     {
+        "name": "Epidemic Sound",
+        "url": "https://support.epidemicsound.com/s/article/how-do-i-delete-my-account-2020-05-27-050641?language=en_US",
+        "difficulty": "hard",
+        "notes": "Follow the link to the contact form by follwing the link in \"If you still want to delete your account please contact us by clicking here.\". In the contact form choose \"My account\" from the dropdown.",
+        "domains": [
+            "epidemicsound.com"
+        ]
+    },
+
+    {
         "name": "Epik",
         "url": "https://www.epik.com/",
         "difficulty": "hard",
