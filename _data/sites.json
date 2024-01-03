@@ -4164,9 +4164,8 @@
 
     {
         "name": "Crunchyroll",
-        "url": "https://github.com/jdm-contrib/jdm/issues/1895",
-        "difficulty": "limited",
-        "notes": "If you live in California, use the [CCPA Request Form](https://privacyportal.onetrust.com/webform/d19e506f-1a64-463d-94e4-914dd635817d/fc46fc0c-407c-4735-9a43-14dfa283d17c). Otherwise, use the [All Other Requests Form](https://sites.sonypictures.com/corp/privacypolicies/b2c/contact-us.html).\n\nSelect \"Crunchyroll/Crunchyroll Games\" as your service.",
+        "url": "https://www.crunchyroll.com/nuke",
+        "difficulty": "easy",
         "domains": [
             "crunchyroll.com",
             "help.crunchyroll.com"
