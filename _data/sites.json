@@ -6247,6 +6247,17 @@
     },
 
     {
+        "name": "FaucetPay",
+        "url": "https://faq.faucetpay.io/knowledge-base/i-want-to-delete-my-account-how-can-i-do-it/",
+        "difficulty": "impossible",
+        "notes": "Accounts cannot be deleted by the users, they can only be suspended by writing at Customer Support",
+        "domains": [
+            "faucetpay.io",
+            "faq.faucetpay.io"
+        ]
+    },
+
+    {
         "name": "Fauna",
         "url": "https://support.fauna.com/hc/en-us/articles/1260807007229-How-do-I-delete-my-account-entirely-",
         "difficulty": "hard",
