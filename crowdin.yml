@@ -3,5 +3,12 @@ files:
     translation: /_data/trans/%two_letters_code%.json
     languages_mapping:
       two_letters_code:
+        ca: cat
+        cs: cz
+        el: gr
+        ko: kr
+        pt-PT: pt_pt
+        pt-BR: pt_br
+        uk: ua
         zh-CN: zh-cn
         zh-TW: zh-tw
