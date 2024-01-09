@@ -1159,6 +1159,16 @@
     },
 
     {
+        "name": "AniDB",
+        "url": "https://anidb.net/perl-bin/animedb.pl?show=policies",
+        "difficulty": "hard",
+        "notes": "Go to the page linked and send an email to the address found under \"Privacy - Removal of Your Account\".",
+        "domains": [
+            "anidb.net"
+        ]
+    },
+
+    {
         "name": "AniList",
         "url": "https://anilist.co/settings/account",
         "difficulty": "easy",
