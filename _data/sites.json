@@ -17559,6 +17559,16 @@
     },
 
     {
+        "name": "STEP (Smart Traveler Enrollment Program)",
+        "url": "https://step.state.gov",
+        "difficulty": "impossible",
+        "notes": "No self-serve options are available, and they will not delete accounts because \"Profile deletion requires an enormous amount of data about yourself, and your trips, which places users at risk for potential fraud issues\"",
+        "domains": [
+            "step.state.gov"
+        ]
+    },
+
+    {
         "name": "StickK",
         "difficulty": "hard",
         "url": "https://stickk.zendesk.com/hc/en-us/requests/new",
