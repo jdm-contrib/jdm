@@ -1162,7 +1162,8 @@
         "name": "AniDB",
         "url": "https://anidb.net/perl-bin/animedb.pl?show=policies",
         "difficulty": "hard",
-        "notes": "Go to the page linked and send an email to the address found under \"Privacy - Removal of Your Account\".",
+        "notes": "Needs to contact customer support.",
+        "email": "info@anidb.net",
         "domains": [
             "anidb.net"
         ]
