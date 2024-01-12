@@ -14149,9 +14149,9 @@
 
     {
         "name": "Paramount Plus",
-        "url": "https://help.paramountplus.com/s/article/PD-How-do-I-delete-my-Paramount-account",
+        "url": "https://privacyportal.onetrust.com/webform/869be997-c257-4071-b658-a5427317b5c6/bda9b2b4-9be6-4f30-9d55-94b308f9af4d",
         "difficulty": "hard",
-        "notes": "You may also use the privacy form linked if you reside in California, but be warned, it is much slower.",
+        "notes": "You may also use the [contact us](https://help.paramountplus.com/s/article/PD-How-do-I-delete-my-Paramount-account) link, but it doesn't work on every country.",
         "domains": [
             "paramountplus.com",
             "help.paramountplus.com"
