@@ -13302,8 +13302,11 @@
 
     {
         "name": "Nomad",
-        "url": "https://benomad.zendesk.com/hc/pt-br/articles/360042473234-Como-solicito-o-fechamento-da-minha-conta-corrente-Nomad",
-        "difficulty": "easy",
+        "url": "https://benomad.zendesk.com/hc/en-us/articles/360042473234-How-do-I-request-the-closing-of-my-Nomad-global-account-",
+        "url_pt_pt": "https://benomad.zendesk.com/hc/pt-br/articles/360042473234-Como-solicito-o-fechamento-da-minha-conta-corrente-Nomad",
+        "difficulty": "medium",
+        "notes": "You have to clear the account before requesting the account deletion on the app. And after 15 or 20 days of email confirmation, the account is finally deleted.",
+        "notes_pt_br": "Antes de pedir para encerrar a conta no aplicativo, você precisa zerar sua conta. E após 15 ou 20 dias depois de responder o e-mail confirmando a remoção da conta, ela é finalmente apagada.",
         "domains": [
             "nomadglobal.com",
             "benomad.zendesk.com"
