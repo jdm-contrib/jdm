@@ -9991,6 +9991,16 @@
     },
 
     {
+        "name": "Jstris",
+        "url": "https://jstris.jezevec10.com/settings/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "jezevec10.com",
+            "jstris.jezevec10.com"
+        ]
+    },
+
+    {
         "name": "Kaggle",
         "url": "https://www.kaggle.com/account/delete",
         "difficulty": "easy",
