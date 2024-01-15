@@ -468,7 +468,7 @@
         "name": "ActiveCampaign",
         "url": "https://ac.activehosted.com/f/2175",
         "difficulty": "hard",
-        "notes": "For account deletion requests or requests to remove all account information, submit the [Data Subject Rights Request form](https://ac.activehosted.com/f/2175). When asked \"What would you like to initiate with us?\" choose the option <b>I want to be forgotten, and want my personal data erased</b> in .",
+        "notes": "For account deletion requests or requests to remove all account information, submit the [Data Subject Rights Request form](https://ac.activehosted.com/f/2175). When asked \"What would you like to initiate with us?\" choose the option <b>"I want to be forgotten, and want my personal data erased"</b>.",
         "notes_ru": "Для запроса на удаление учетной записи или запроса на удаление всей информации учетной записи отправьте форму запроса прав субъекта данных. На вопрос: «Что бы вы хотели принять с нами?» выберите вариант «Я хочу, чтобы меня забыли, и хочу, чтобы мои личные данные были удалены».",
         "domains": [
             "activehosted.com",
@@ -1565,7 +1565,7 @@
         "name": "Ashampoo",
         "url": "https://www.ashampoo.com/en/usd/ppy",
         "difficulty": "hard",
-        "notes": "Request deletion by emailing privacy team. Ask them to close your account and send them your name and email address. You’ll receive a mail back from them with a personal removal link in it",
+        "notes": "Request deletion by emailing privacy team. Ask them to close your account and send them your name and email address. You’ll receive a mail back from them with a personal removal link in it.",
         "email": "privacy@ashampoo.com",
         "domains": [
             "ashampoo.com"
