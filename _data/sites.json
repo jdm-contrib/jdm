@@ -1090,6 +1090,17 @@
     },
 
     {
+        "name": "Amigo Secreto",
+        "url": "https://www.amigosecreto.com.br/",
+        "difficulty": "hard",
+        "notes": "You need to send them a message through [Whatsapp](https://wa.me/+5511912074002) requesting deletion. It takes roughly 20 days.",
+        "notes_pt_br": "Você precisa mandar uma mensagem para eles por [Whatsapp](https://wa.me/+5511912074002) pedindo a exclusão da conta. Leva aproximadamente 20 dias.",
+        "domains": [
+            "amigosecreto.com.br"
+        ]
+    },
+
+    {
         "name": "Anaconda Nucleus",
         "url": "https://anaconda.cloud/profile/privacy-security",
         "difficulty": "easy",
