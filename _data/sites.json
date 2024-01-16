@@ -2150,6 +2150,17 @@
     },
 
     {
+        "name": "BerryByte",
+        "url": "https://billing.berrybyte.net/submitticket.php",
+        "difficulty": "hard",
+        "notes": "Log into your BerryByte client area and send a ticket asking for account deletion. If you only have a game control panel account, you can submit a ticket without having to login.",
+        "domains": [
+            "berrybyte.net",
+            "billing.berrybyte.net"
+        ]
+    },
+
+    {
         "name": "Best Buy",
         "url": "https://www.bestbuy.com/sentry/confirm/residency?context=ca&type=delete",
         "difficulty": "hard",
