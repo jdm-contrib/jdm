@@ -11145,6 +11145,17 @@
     },
 
     {
+        "name": "Logo Maker",
+        "url": "https://www.logomaker.com/contact-us/",
+        "difficulty": "hard",
+        "notes": "According to their privacy policy, you need to directly contact them.",
+        "email": "help@logomaker.com",
+        "domains": [
+            "logomaker.com"
+        ]
+    },
+
+    {
         "name": "LogRocket",
         "url": "https://docs.logrocket.com/docs/security",
         "difficulty": "hard",
