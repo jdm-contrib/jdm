@@ -4080,7 +4080,7 @@
         "difficulty": "hard",
         "notes": "Send an email to abuse@craigslist.org and request deletion.",
         "notes_tr": "Silmeyi talep etmek için e-posta gönderin.",
-        "notes_fr": "Envoyez un mail à abuse@craigslist.org et demandez la suppression du compte. ",
+        "notes_fr": "Envoyez un mail à abuse@craigslist.org et demandez la suppression du compte.",
         "notes_it": "Spedisci un email a abuse@craigslist.org e richiedi la cancellazione",
         "notes_de": "Sende eine E-Mail an abuse@craigslist.org und beantrage die Löschung",
         "notes_pt_br": "Envie um e-mail para abuse@craigslist.org e peça a remoção.",
@@ -5194,7 +5194,7 @@
         "name": "Dr. Martens",
         "url": "https://www.drmartens.com/us/en/faq",
         "difficulty": "hard",
-        "notes": "Send an email stating that you want them to close your account. Include: full name on account, full billing address and registered email address. Once they confirm deletion it may take 7-10 days to take effect. ",
+        "notes": "Send an email stating that you want them to close your account. Include: full name on account, full billing address and registered email address. Once they confirm deletion it may take 7-10 days to take effect.",
         "domains": [
             "drmartens.com"
         ]
@@ -8515,8 +8515,8 @@
         "name": "Hackerrank",
         "url": "https://www.hackerrank.com/settings/account",
         "difficulty": "easy",
-        "notes": "According to the site you must go to the profile settings url and there will be a button called 'delete account' which will delete the account if it is wished to. ",
-        "notes_tr": "Siteye göre profil ayarları bağlantısına gitmelisiniz ve hesabı silmeye yarayan \"Hesabı Sil\" adlı bir düğme olacaktır. ",
+        "notes": "According to the site you must go to the profile settings url and there will be a button called 'delete account' which will delete the account if it is wished to.",
+        "notes_tr": "Siteye göre profil ayarları bağlantısına gitmelisiniz ve hesabı silmeye yarayan \"Hesabı Sil\" adlı bir düğme olacaktır.",
         "domains": [
             "www.hackerrank.com"
         ]
@@ -10052,8 +10052,8 @@
         "name": "Kakao",
         "url": "https://accounts.kakao.com/weblogin/deactivate",
         "difficulty": "medium",
-        "notes": "Click the 'Settings' button on the KakaoTalk app, enter 'General Settings', 'Privacy', and 'Manage My Personal Info' in the drop-down menu, and click the 'Unregister Form KakaoTalk' menu to delete account. Note: If you don't use other Kakao linked services, you will immediately switch to delete your Kakao account. If you were using some services, delete all of them, and then click the provided link to delete your Kakao account. ",
-        "notes_kr": "카카오톡 앱에서 '설정' 버튼을 탭합니다, 그리고 드롭다운에서 '전체설정', '개인/보안', '개인정보 관리' 순으로 메뉴를 진입한 후 '카카오톡 탈퇴' 메뉴를 탭하여 탈퇴합니다. 참고: 다른 카카오 연계 서비스를 사용하지 않을 경우 바로 카카오 계정 탈퇴로 전환됩니다. 만약 일부 서비스를 사용하고 있었다면 해당 서비스를 모두 탈퇴한 후, 제공된 링크를 클릭하여 카카오 계정을 탈퇴하여 주세요. ",
+        "notes": "Click the 'Settings' button on the KakaoTalk app, enter 'General Settings', 'Privacy', and 'Manage My Personal Info' in the drop-down menu, and click the 'Unregister Form KakaoTalk' menu to delete account. Note: If you don't use other Kakao linked services, you will immediately switch to delete your Kakao account. If you were using some services, delete all of them, and then click the provided link to delete your Kakao account.",
+        "notes_kr": "카카오톡 앱에서 '설정' 버튼을 탭합니다, 그리고 드롭다운에서 '전체설정', '개인/보안', '개인정보 관리' 순으로 메뉴를 진입한 후 '카카오톡 탈퇴' 메뉴를 탭하여 탈퇴합니다. 참고: 다른 카카오 연계 서비스를 사용하지 않을 경우 바로 카카오 계정 탈퇴로 전환됩니다. 만약 일부 서비스를 사용하고 있었다면 해당 서비스를 모두 탈퇴한 후, 제공된 링크를 클릭하여 카카오 계정을 탈퇴하여 주세요.",
         "domains": [
             "kakao.com",
             "accounts.kakao.com"
@@ -12955,8 +12955,8 @@
         "name": "NAVER",
         "url": "https://nid.naver.com/user2/help/leaveId?menu=nid",
         "difficulty": "medium",
-        "notes": "Re-registration is not possible with a deleted ID, and posts written on the bulletin board are not automatically deleted. So, make delete or make them private before you terminate your account. ",
-        "notes_kr": "아이디는 재사용이 불가하며, 게시판에 글을 작성했던 경우 탈퇴 시 자동으로 삭제되지 않으므로 비공개 처리하거나 삭제한 후 탈퇴하시기 바랍니다. ",
+        "notes": "Re-registration is not possible with a deleted ID, and posts written on the bulletin board are not automatically deleted. So, make delete or make them private before you terminate your account.",
+        "notes_kr": "아이디는 재사용이 불가하며, 게시판에 글을 작성했던 경우 탈퇴 시 자동으로 삭제되지 않으므로 비공개 처리하거나 삭제한 후 탈퇴하시기 바랍니다.",
         "domains": [
             "naver.com",
             "nid.naver.com"
@@ -14428,7 +14428,7 @@
         "name": "Peloton",
         "url": "https://privacyportal.onetrust.com/webform/18f92a28-d2ae-4a6a-8f99-85b4455e22c0/cfbaf35a-5e06-4010-a6b6-1ad61ba414f1",
         "difficulty": "hard",
-        "notes": "To permanently delete your Peloton Account, please fill out the Privacy Request Form. Once the form is completed, the Peloton Privacy Team will begin processing your request. ",
+        "notes": "To permanently delete your Peloton Account, please fill out the Privacy Request Form. Once the form is completed, the Peloton Privacy Team will begin processing your request.",
         "domains": [
             "onepeloton.com"
         ]
