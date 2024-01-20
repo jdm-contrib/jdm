@@ -18666,6 +18666,17 @@
     },
 
     {
+        "name": "Threads",
+        "url": "https://www.instagram.com/accounts/remove/request/permanent/",
+        "difficulty": "impossible",
+        "notes": "You must submit a request to close your INSTAGRAM account via form.",
+        "notes_es": "Deberás solicitar que borren tu cuenta de INSTAGRAM vía formulario.",
+        "domains": [
+            "threads.net"
+        ]
+    },
+
+    {
         "name": "Threema",
         "url": "https://myid.threema.ch/revoke",
         "difficulty": "easy",
