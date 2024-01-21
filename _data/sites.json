@@ -5508,6 +5508,18 @@
     },
 
     {
+        "name": "Easy Food Handlers",
+        "url":  "https://easyfoodhandlers.com/privacy-policy/",
+        "difficulty": "hard",
+        "notes": "Send an email requesting account deletion to michele@easyfoodhandlers.com. Make sure to include the account's email and name.",
+        "email": "michele@easyfoodhandlers.com",
+        "email_subject": "GDPR Data Deletion Request",
+        "email_body": "As per GDPR, I'm requesting my account and all associated data to be deleted. The account's email is xxxx@xxx.com, under the name XXX",
+        "domains": [
+            "easyfoodhandlers.com"
+        ]
+    },
+    {
         "name": "easyfundraising",
         "url": "https://www.easyfundraising.org.uk/account/delete-account/",
         "difficulty": "easy",
