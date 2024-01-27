@@ -12511,6 +12511,18 @@
     },
 
     {
+        "name": "Notion",
+        "url": "https://www.notion.so",
+        "difficulty": "easy",
+        "notes": "Go to \"Settings & members\", then \"My account\", and click \"Delete my account\", type your email address and confirm.",
+        "notes_it": "Vai su \"Settings & members\", quindi su \"My account\", quindi fai clic su \"Delete my account\", digita il tuo indirizzo email e conferma.",
+        "domains": [
+            "notion.so",
+            "status.notion.so"
+        ]
+    },
+
+    {
         "name": "The Noun Project",
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
