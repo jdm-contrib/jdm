@@ -19934,6 +19934,16 @@
     },
 
     {
+        "name": "VidIQ",
+        "url": "https://app.vidiq.com/account/settings/my-account",
+        "difficulty": "hard",
+        "notes": "You have to cancel your Subscription before writing the Support (Bot)",
+        "domains": [
+            "app.vidiq.com"
+        ]
+    },
+
+    {
         "name": "Vidyard",
         "url": "https://knowledge.vidyard.com/hc/en-us/requests/new",
         "difficulty": "hard",
