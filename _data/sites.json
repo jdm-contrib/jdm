@@ -17214,6 +17214,16 @@
     },
 
     {
+        "name": "solo.to",
+        "url": "https://solo.to/account",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the Account page linked and click the 'Delete Account' button.",
+        "domains": [
+            "solo.to"
+        ]
+    },
+
+    {
         "name": "SoloLearn",
         "url": "https://www.sololearn.com",
         "difficulty": "easy",
