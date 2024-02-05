@@ -8512,6 +8512,19 @@
     },
 
     {
+        "name": "Hacker One",
+        "url": "https://hackerone.com/settings/deactivate/edit",
+        "difficulty": "hard",
+        "notes": "Deleting your account requires you to first create an account on their support platform, you can then request account deletion by creating a ticket.",
+        "domains": [
+            "hackerone.com",
+            "docs.hacerkone.com",
+            "hacker101.com",
+            "ctf.hacker101.com"
+        ]
+    },
+
+    {
         "name": "Hackerrank",
         "url": "https://www.hackerrank.com/settings/account",
         "difficulty": "easy",
@@ -9601,6 +9614,24 @@
         "email_body": "Please delete my Interrail account.",
         "domains": [
             "interrail.eu"
+        ]
+    },
+
+    {
+        "name": "Intigriti",
+        "url": "https://kb.intigriti.com/en/articles/6839008-privacy-statement-intigriti-researcher",
+        "difficulty": "hard",
+        "email": "privacy@intigriti.com",
+        "notes": "You must send an email requesting account deletion and confirm it in a second email.",
+        "domains": [
+            "intigriti.com",
+            "app.intigriti.com",
+            "kb.intigriti.com",
+            "blog.intigriti.com",
+            "newsletter.intigriti.com",
+            "status.intigriti.com",
+            "trust.intigriti.com",
+            "swag.intigriti.com"
         ]
     },
 
