@@ -21589,7 +21589,7 @@
 
     {
         "name": "Zapier",
-        "url": "https://zapier.com/app/settings/delete",
+        "url": "https://zapier.com/app/settings/advanced/delete",
         "difficulty": "easy",
         "notes": "Go to the URL, confirm your email. You'll be redirected to the login page. Confirm your email again and enter \"DELETE\" (all caps) In the \"Confirm you want to delete your account\" field.",
         "notes_tr": "Verilen bağlantıya gidin, e-postanızı onaylayın. Giriş sayfasına yönlendirileceksiniz. E-postanızı tekrar onaylayın ve 'Hesabınızı silmek istediğinizi onaylayın' alanına 'DELETE' (tümü büyük harf) yazın.",
