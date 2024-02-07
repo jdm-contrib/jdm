@@ -19316,6 +19316,16 @@
     },
 
     {
+        "name": "TurboScribe",
+        "url": "https://turboscribe.ai/account",
+        "notes": "Visit \"Account Settings\" then click \"Delete Account\".",
+        "difficulty": "easy",
+        "domains": [
+            "turboscribe.ai"
+        ]
+    },
+
+    {
         "name": "TurboSquid",
         "url": "https://resources.turbosquid.com/how-do-i-close-my-account/",
         "difficulty": "impossible",
