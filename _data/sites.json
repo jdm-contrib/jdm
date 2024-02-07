@@ -13714,6 +13714,16 @@
     },
 
     {
+        "name": "Olo",
+        "url": "https://app.oloauth.com/Manage/delete",
+        "difficulty": "medium",
+        "notes": "Click the link in the email sent to you",
+        "domains": [
+            "app.oloauth.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "OLX",
         "url": "https://www.olx.com",
