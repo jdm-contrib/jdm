@@ -20160,6 +20160,16 @@
     },
 
     {
+        "name": "ViVo",
+        "url": "https://passport.vivo.com/in/#/personalCenter",
+        "difficulty": "easy",
+        "notes": "All data related to the account will be wiped in 180 days.",
+        "domains": [
+            "passport.vivo.com"
+        ]
+    },
+
+    {
         "name": "VK/ВКонтакте",
         "url": "https://vk.com/settings?act=deactivate",
         "difficulty": "easy",
