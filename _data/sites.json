@@ -21402,6 +21402,7 @@
         "name": "Yahoo!",
         "meta": "popular",
         "url": "https://edit.yahoo.com/config/delete_user",
+        "notes": "Account gets deactivated for a waiting period of 30-180 days depending on your country, then permanently deleted.",
         "difficulty": "easy",
         "domains": [
             "yahoo.com",
