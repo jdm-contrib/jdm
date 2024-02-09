@@ -1309,10 +1309,12 @@
 
     {
         "name": "AOL / Instant Messenger",
-        "url": "https://cancel.aol.com",
+        "url": "https://aol.mydashboard.oath.com/#section-manage",
+        "notes": "Account gets deactivated for a waiting period of 30-180 days depending on your country, then permanently deleted.",
         "difficulty": "easy",
         "domains": [
             "aol.com",
+            "aol.mydashboard.oath.com",
             "cancel.aol.com"
         ]
     },
