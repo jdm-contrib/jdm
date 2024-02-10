@@ -1309,10 +1309,12 @@
 
     {
         "name": "AOL / Instant Messenger",
-        "url": "https://cancel.aol.com",
+        "url": "https://aol.mydashboard.oath.com/#section-manage",
+        "notes": "Account gets deactivated for a waiting period of 30-180 days depending on your country, then permanently deleted.",
         "difficulty": "easy",
         "domains": [
             "aol.com",
+            "aol.mydashboard.oath.com",
             "cancel.aol.com"
         ]
     },
@@ -20158,6 +20160,16 @@
     },
 
     {
+        "name": "ViVo",
+        "url": "https://passport.vivo.com/in/#/personalCenter",
+        "difficulty": "easy",
+        "notes": "All data related to the account will be wiped in 180 days.",
+        "domains": [
+            "passport.vivo.com"
+        ]
+    },
+
+    {
         "name": "VK/ВКонтакте",
         "url": "https://vk.com/settings?act=deactivate",
         "difficulty": "easy",
@@ -21400,6 +21412,7 @@
         "name": "Yahoo!",
         "meta": "popular",
         "url": "https://edit.yahoo.com/config/delete_user",
+        "notes": "Account gets deactivated for a waiting period of 30-180 days depending on your country, then permanently deleted.",
         "difficulty": "easy",
         "domains": [
             "yahoo.com",
