@@ -1491,7 +1491,17 @@
             "cloud.archipad.com"
         ]
     },
-
+    
+    {
+		"name": "Archive of Our Own",
+		"url": "https://archiveofourown.org/faq/your-account?language_id=en#deleteaccount",
+		"difficulty": "easy",
+		"notes": "Clcik on your profile picture on the top right, go to 'Profile', and click the 'Delete my account' button",
+		"domains":[
+			"https://archiveofourown.org/"
+		]
+	},
+    
     {
         "name": "Arduino",
         "url": "https://id.arduino.cc/",
