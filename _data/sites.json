@@ -3503,6 +3503,16 @@
     },
 
     {
+        "name": "Chessable",
+        "url": "https://www.chessable.com/settings/delete",
+        "difficulty": "easy",
+        "notes": "Once you submit your account for deletion, your account (and all data associated with it, including your purchased content) will be scheduled for deletion in compliance with the applicable legislation.",
+        "domains": [
+            "chessable.com"
+        ]
+    },
+
+    {
         "name": "Chick-fil-A",
         "url": "https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55",
         "difficulty": "hard",
