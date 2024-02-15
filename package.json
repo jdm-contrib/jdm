@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "@htmlacademy/editorconfig-cli": "^1.0.0"
+    "@htmlacademy/editorconfig-cli": "^2.0.8"
   }
 }
