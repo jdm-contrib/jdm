@@ -4,3 +4,4 @@ _site/
 .jekyll-cache/
 .bundle/
 vendor/
+node_modules/
