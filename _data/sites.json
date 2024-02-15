@@ -19401,6 +19401,7 @@
         "notes_tr": "\"Hesabı Sil\" kısmına gidin, şifrenizi yazın ve \"Sil\" düğmesini tıklayarak işleminizi onaylayın.",
         "notes_pt_br": "Vá para \"Delete account\", digite sua senha e clique em \"Delete\" para confirmar a exclusão da sua conta.",
         "domains": [
+            "tuta.com",
             "app.tuta.com",
             "keemail.me",
             "tuta.io",
