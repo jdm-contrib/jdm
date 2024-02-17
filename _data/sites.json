@@ -13839,8 +13839,11 @@
     {
         "name": "PlayStation Network",
         "url": "https://www.playstation.com/en-us/support/account/close-account-for-psn/",
+        "url_it": "https://www.playstation.com/it-it/support/account/close-account-for-psn/",
         "difficulty": "hard",
-        "notes": "You need to have your account e-mail address, gamer tag, playstation serial number (or payment method, with transaction ID), and account name (not profile name) on hand to fulfill the request. This may take some time and should be done properly the first time (if possible).",
+        "email": "siee.dpo@sony.com",
+        "notes": "You have to contact customer support or send them an email, and supply the email address associated with the account, along with the online ID, and one of the following information:\nthe first four and last four digits of the bank card associated with the account,\nor the details of a recent transaction made using the account,\nor the serial number of the original console associated with the account.\nAlternatively, if you don't have this information, you can supply a proof of identity (identity document) and a proof of address. If your account is linked to another account of the Sony group, you will have to delete it first. After closure, your online ID will not be reusable.",
+        "notes_it": "Devi contattare l'assistenza clienti o inviare loro un'email, e fornire l'indirizzo email associato all'account, insieme all'ID online e una delle seguenti informazioni:\nle prime quattro e le ultime quattro cifre della carta bancaria associata all'account,\no i dettagli di una transazione recente effettuata utilizzando l'account,\no il numero di serie della console originale associata all'account.\nIn alternativa, se non disponi di queste informazioni, puoi fornire una prova di identità (documento di identità) e una prova di indirizzo. Se il tuo account è collegato a un altro account del gruppo Sony, dovrai prima eliminarlo. Dopo la chiusura, il tuo ID online non sarà riutilizzabile.",
         "domains": [
             "playstation.com",
             "sony.com",
