@@ -6046,6 +6046,18 @@
     },
 
     {
+        "name": "EteSync",
+        "url": "https://dashboard.etebase.com/user/partner/account/deactivate/request/",
+        "difficulty": "medium",
+        "notes": "It will send a Deletion verification email, follow the link there to delete your account.",
+        "domains": [
+            "etesync.com",
+            "pim.etesync.com",
+            "dashboard.etebase.com"
+        ]
+    },
+    
+    {
         "name": "eToro",
         "url": "https://www.etoro.com/settings/account",
         "difficulty": "easy",
