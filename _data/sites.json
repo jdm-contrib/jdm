@@ -9160,6 +9160,17 @@
     },
 
     {
+        "name": "Humata",
+        "url": "https://app.humata.ai/settings/personal",
+        "difficulty": "easy",
+        "notes": "Go to your account settings, scroll down to the end and click the 'Delete account' button.",
+        "notes_es": "Ve a los ajustes de tu cuenta, desplázate hasta el final y haz clic en el botón 'Delete account'.",
+        "domains": [
+            "app.humata.ai"
+        ]
+    },
+
+    {
         "name": "Humble Bundle",
         "url": "https://dsar.humblebundle.com",
         "difficulty": "medium",
