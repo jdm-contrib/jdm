@@ -6551,7 +6551,7 @@
         "name": "Fiverr",
         "url": "https://www.fiverr.com/support_tickets/account-and-security/data-and-privacy/remove-personal-data",
         "difficulty": "easy",
-        "notes": "Go to https://www.fiverr.com/users/YOUR_USERNAME/edit/account, select any reason and click on <strong>deactivate account.</strong>",
+        "notes": "Go to https://www.fiverr.com/users/**YOUR_USERNAME**/edit/account, select any reason and click on **deactivate account**",
         "domains": [
             "fiverr.com"
         ]
