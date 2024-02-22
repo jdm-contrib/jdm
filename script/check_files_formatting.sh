@@ -9,6 +9,7 @@ mapfile -t editorconfigargs < <(
         -type 'f' \
         ! -name '*.png' \
         ! -name '*.ico' \
+        ! -name 'CNAME' \
         ! -name 'LICENSE' \
         ! -name 'Gemfile.lock' \
         ! -path './assets/*/libs/*' \
@@ -16,7 +17,5 @@ mapfile -t editorconfigargs < <(
         ! -path './.git/*' \
         ! -path './_site/*' \
         ! -path './vendor/*' \
-        ! -path './node_modules/*' \
-        ! -path './package*.json' \
 )
 npx @htmlacademy/editorconfig-cli "${editorconfigargs[@]}"

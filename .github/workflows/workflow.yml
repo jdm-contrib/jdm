@@ -39,7 +39,5 @@ jobs:
     name: Check Files Formatting
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
-    - run: npm ci
+    - uses: actions/checkout@v3
     - run: script/check_files_formatting.sh
