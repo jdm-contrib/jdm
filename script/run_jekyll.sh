@@ -3,4 +3,4 @@ set -e # halt script on error
 
 # Build site, validate HTML
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --checks-to-ignore 'LinkCheck'
+bundle exec htmlproofer ./_site --checks 'Images,Scripts,Favicon,OpenGraph'
