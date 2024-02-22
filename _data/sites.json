@@ -17739,6 +17739,17 @@
     },
 
     {
+        "name": "StatusInvest",
+        "difficulty": "easy",
+        "url": "https://statusinvest.com.br/usuario/configuracao",
+        "notes": "Go to your account configurations and click the button to permanently delete. You have 15 days to go back and ask for it to be restored, after that it is deleted.",
+        "notes_pt_br": "Vá para as configurações da sua conta e clique no botão de excluir permanentemente. Você tem 15 dias para desistir e restaura-la, após isso a conta é excluída.",
+        "domains": [
+            "statusinvest.com.br"
+        ]
+    },
+
+    {
         "name": "Steam",
         "url": "https://help.steampowered.com/en/wizard/HelpDeleteAccount",
         "difficulty": "hard",
