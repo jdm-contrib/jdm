@@ -16,7 +16,5 @@ mapfile -t editorconfigargs < <(
         ! -path './.git/*' \
         ! -path './_site/*' \
         ! -path './vendor/*' \
-        ! -path './node_modules/*' \
-        ! -path './package*.json' \
 )
 npx @htmlacademy/editorconfig-cli "${editorconfigargs[@]}"
