@@ -91,7 +91,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  ffi (>= 1.15.0)
   html-proofer (>= 3.19.0)
   jekyll (= 4.3.0)
 
