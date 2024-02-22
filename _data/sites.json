@@ -6549,9 +6549,9 @@
 
     {
         "name": "Fiverr",
-        "url": "https://www.fiverr.com/support_tickets/new/account_and_security",
-        "difficulty": "hard",
-        "notes": "For each checkbox, choose: <ul><li><strong>Category:</strong> \"Data and privacy\"</li><li><strong>Topic:</strong> \"Permanently delete my personal data\"</li><br>Click on the little link \"here\" under the light blue box. Fill the fields and submit request, soon, an account manager will answer you and process your request.",
+        "url": "https://www.fiverr.com/support_tickets/account-and-security/data-and-privacy/remove-personal-data",
+        "difficulty": "easy",
+        "notes": "Log-in, go to the link and make the request to **deactivate account**",
         "domains": [
             "fiverr.com"
         ]
