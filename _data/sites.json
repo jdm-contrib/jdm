@@ -17190,12 +17190,15 @@
 
     {
         "name": "Slideshare",
-        "url": "https://www.linkedin.com/help/slideshare/answer/53671?query=delete%20account",
+        "url": "https://support.scribd.com/hc/en-us/articles/360000894843-Deleting-your-account#h_01HBVYCPRH4GEMX24PD473BHP8",
         "difficulty": "easy",
-        "notes": "Sign in to SlideShare, move your cursor over your photo in the top right and select Account Settings, click the Change Password tab on the left, click Delete Account, click 'Yes, delete my account', enter your password and select applicable reasons for deleting this account, then click Delete Account. Note: If you created your SlideShare account through LinkedIn, you'll have to close your LinkedIn account.",
-        "notes_tr": "SlideShare'de oturum açın, imlecinizi sağ üstteki fotoğrafınızın üzerine getirin ve \"Hesap Ayarları\" seçeneğini seçin, soldaki \"Şifreyi Değiştir\" sekmesini tıklayın, \"Hesabı Sil\" ve ardından \"Evet, hesabımı sil\" tuşuna tıklayarak şifrenizi girin ve silme için uygun nedenleri seçin. Son olarak \"Hesabı Sil\" öğesini tıklayın. Not: SlideShare hesabınızı LinkedIn aracılığıyla oluşturduysanız, LinkedIn hesabınızı kapatmanız gerekir.",
+        "notes": "Follow the instructions from this link.",
+        "notes_ru": "Следуйте инструкциям по этой ссылке.",
+        "notes_ua": "Дотримуйтесь інструкцій за цим посиланням.",
+        "notes_tr": "Bu bağlantıdaki talimatları izleyin.",
         "domains": [
-            "slideshare.com"
+            "slideshare.com",
+            "slideshare.net"
         ]
     },
 
