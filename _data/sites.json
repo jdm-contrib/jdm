@@ -6110,6 +6110,18 @@
     },
 
     {
+        "name": "Everand",
+        "url": "https://support.scribd.com/hc/en-us/articles/360000894843-Deleting-your-account#h_01HBVYCPRH4GEMX24PD473BHP8",
+        "difficulty": "easy",
+        "notes": "Follow the instructions from this link.",
+        "notes_ru": "Следуйте инструкциям по этой ссылке.",
+        "notes_ua": "Дотримуйтесь інструкцій за цим посиланням.",
+        "domains": [
+            "everand.com"
+        ]
+    },
+
+    {
         "name": "Everhelper",
         "url": "https://www.everhelper.me/remove-account/",
         "difficulty": "easy",
