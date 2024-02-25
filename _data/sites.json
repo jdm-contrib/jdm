@@ -20887,6 +20887,16 @@
     },
 
     {
+        "name": "wikiHow",
+        "url": "wikihow.com/Special:Preferences#mw-prefsection-personal",
+        "difficulty": "hard",
+        "notes": "Requires emailing them to request for deletion.",
+        "domains": [
+            "wikihow.com"
+        ]
+    },
+
+    {
         "name": "Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/Commons:Username_policy#Deleting_your_account",
         "difficulty": "impossible",
