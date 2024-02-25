@@ -20521,6 +20521,17 @@
     },
 
     {
+        "name": "wallabag",
+        "url": "https://app.wallabag.it/subscription/",
+        "difficulty": "easy",
+        "domains": [
+            "wallabag.org",
+            "wallabag.it",
+            "app.wallabag.it"
+        ]
+    },
+
+    {
         "name": "Walmart",
         "url": "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=access",
         "difficulty": "hard",
