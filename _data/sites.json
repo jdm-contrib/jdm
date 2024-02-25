@@ -19294,13 +19294,12 @@
 
     {
         "name": "Transifex",
-        "url": "https://docs.transifex.com/account/deactivating-your-account",
+        "url": "https://app.transifex.com/user/settings/",
         "difficulty": "easy",
-        "notes": "In the main navigation, click on your profile image in the top right corner; from the dropdown menu, select User Settings; scroll to the bottom of the page and click Deactivate my account; confirm you want to delete your account by clicking Deactivate my account in the popup.",
-        "notes_tr": "Ana gezinme bölümünde sağ üst köşedeki profil resminize tıklayın; açılır menüden, sayfanın altına kaydırarak \"Kullanıcı Ayarları\" \"Hesabımı devre dışı bırak\" tuşuna tıklayın; açılır pencerede \"Hesabımı devre dışı bırak\" düğmesini tıklayarak hesabınızı silmek istediğinizi onaylayın.",
+        "notes": "Click on the link, scroll to the bottom and click 'Delete my account'. Confirm you want to delete your account by clicking 'Delete my account' in the popup view.",
         "domains": [
             "transifex.com",
-            "docs.transifex.com"
+            "app.transifex.com"
         ]
     },
 
@@ -20518,6 +20517,17 @@
         "notes": "Fill the form with your account's username and mail, select category \"Account/Login\" and subcategory \"Account Deletion\". Shortly after you will receive a mail that your request is being reviewed. You'll be notified via mail when the request is completed by support staff.",
         "domains": [
             "wakanim.tv"
+        ]
+    },
+
+    {
+        "name": "wallabag",
+        "url": "https://app.wallabag.it/subscription/",
+        "difficulty": "easy",
+        "domains": [
+            "wallabag.org",
+            "wallabag.it",
+            "app.wallabag.it"
         ]
     },
 
