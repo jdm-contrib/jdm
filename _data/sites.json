@@ -3118,6 +3118,18 @@
     },
 
     {
+        "name": "CamScanner",
+        "url": "https://www.camscanner.com/",
+        "difficulty": "hard",
+        "email": "support@camscanner.com",
+        "notes": "Either e-mail them requesting deletion or download the app, cancel the premium subscription, go to the bottom menu, account, tap the account name and click \"Permanently delete/cancel an account\". This will delete all data you have stored too.",
+        "domains": [
+            "camscanner.com",
+            "v3.camscanner.com"
+        ]
+    },
+
+    {
         "name": "Canva",
         "url": "https://www.canva.com/settings/login-and-security",
         "difficulty": "easy",
@@ -3127,7 +3139,7 @@
         ]
     },
 
-        {
+    {
         "name": "Capsule",
         "url": "https://www.capsule.com/privacy",
         "email": "privacy@capsule.com",
@@ -3630,7 +3642,7 @@
 
     {
         "name": "Clockify",
-        "url": "https://clockify.me/user/settings/delete",
+        "url": "https://app.clockify.me/user/settings/delete",
         "difficulty": "easy",
         "domains": [
             "clockify.me",
@@ -20883,6 +20895,16 @@
         "notes_tr": "\"Hesabı Sil\" tuşuna tıklayın. E-posta adresinize gönderilen bağlantı ile silme işlemini onaylayın.",
         "domains": [
             "wikidot.com"
+        ]
+    },
+
+    {
+        "name": "wikiHow",
+        "url": "wikihow.com/Special:Preferences#mw-prefsection-personal",
+        "difficulty": "hard",
+        "notes": "Requires emailing them to request for deletion.",
+        "domains": [
+            "wikihow.com"
         ]
     },
 
