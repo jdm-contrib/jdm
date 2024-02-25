@@ -3642,7 +3642,7 @@
 
     {
         "name": "Clockify",
-        "url": "https://clockify.me/user/settings/delete",
+        "url": "https://app.clockify.me/user/settings/delete",
         "difficulty": "easy",
         "domains": [
             "clockify.me",
