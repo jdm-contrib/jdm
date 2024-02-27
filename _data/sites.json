@@ -6587,7 +6587,8 @@
         "difficulty": "easy",
         "notes": "Log-in, go to the link and click the **Delete my account** button",
         "domains": [
-            "flat.io"
+            "flat.io",
+            "help.flat.io"
         ]
     },
 
