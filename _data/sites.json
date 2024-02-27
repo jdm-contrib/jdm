@@ -6582,6 +6582,17 @@
     },
 
     {
+        "name": "Flat",
+        "url": "https://flat.io/settings/account/profile",
+        "difficulty": "easy",
+        "notes": "Log-in, go to the link and click the **Delete my account** button",
+        "domains": [
+            "flat.io",
+            "help.flat.io"
+        ]
+    },
+
+    {
         "name": "Flaticon",
         "url": "https://www.flaticon.com/profile/me",
         "difficulty": "easy",
