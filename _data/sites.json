@@ -5234,7 +5234,7 @@
         name: "Douyin",
         "url": "https://aweme.snssdk.com/ucenter_web/app/aweme/delete-account-notice?_theme=light&hide_nav_bar=1&title=%E6%8A%96%E9%9F%B3%E6%B3%A8%E9%94%80%E9%A1%BB%E7%9F%A5&hide_status_bar=0&disable_auto_expose=1&font_scale=1.0",
         "diificulty": "medium",
-        "notes": "You can log out of your account at 'Me'→'≡'→'Settings'→'Account and Security'→'Cancel Account'. However, your account has to meet the conditions linked.",
+        "notes": "You can log out of your account at 'Me'⮕'≡'⮕'Settings'⮕'Account and Security'⮕'Cancel Account'. However, your account has to meet the conditions linked.",
         "domains": [
             "douyin.com"
         ]
