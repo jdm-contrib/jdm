@@ -15645,6 +15645,16 @@
     },
 
     {
+        "name": "Quire",
+        "url": "https://quire.io/r/setting?tab=options#additional",
+        "difficulty": "medium",
+        "notes": "Settings ⮕ Options ⮕ Advanced ⮕ Delete account... Type in a reason and your password.",
+        "domains": [
+            "quire.io"
+        ]
+    },
+
+    {
         "name": "Quizlet",
         "url": "https://quizlet.com/delete-account",
         "difficulty": "easy",
