@@ -13014,6 +13014,16 @@
     },
 
     {
+        "name": "NameMC",
+        "url": "https://namemc.com/my-profile/abandon",
+        "difficulty": "easy",
+        "notes": "All of your follows, favorite servers, and social media information will be removed from your Minecraft profile if you abandon it.",
+        "domains": [
+            "namemc.com"
+        ]
+    },
+
+    {
         "name": "Nandos",
         "url": "https://help.nandos.co.uk/hc/en-gb/requests/new",
         "difficulty": "hard",
