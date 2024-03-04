@@ -13015,9 +13015,9 @@
 
     {
         "name": "NameMC",
-        "url": "https://namemc.com/my-profile/abandon",
+        "url": "https://namemc.com/my-account",
         "difficulty": "easy",
-        "notes": "All of your follows, favorite servers, and social media information will be removed from your Minecraft profile if you abandon it.",
+        "notes": "All of your followers, favorite servers, and social media information will be removed from all of your linked Minecraft profiles if you delete your NameMC account.",
         "domains": [
             "namemc.com"
         ]
