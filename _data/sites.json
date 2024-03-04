@@ -13824,6 +13824,16 @@
     },
 
     {
+        "name": "OGLoot",
+        "url": "https://ogloot.com/",
+        "difficulty": "hard",
+        "notes": "Need to write a ticket for the app. Once the account is deleted, it is impossible to create a new account with the same login information.",
+        "domains": [
+            "ogloot.com"
+        ]
+    },
+
+    {
         "name": "OkCupid",
         "url": "https://www.okcupid.com/settings",
         "difficulty": "easy",
