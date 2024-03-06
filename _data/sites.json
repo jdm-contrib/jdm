@@ -20601,6 +20601,15 @@
     },
 
     {
+        "name": "wallpiece",
+        "url": "https://wallpiece.io/account/register/",
+        "difficulty": "easy",
+        "domains": [
+            "wallpiece.io"
+        ]
+    },
+
+    {
         "name": "Walmart",
         "url": "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=access",
         "difficulty": "hard",
