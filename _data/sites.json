@@ -4403,6 +4403,16 @@
     },
 
     {
+        "name": "Cutout",
+        "url": "https://www.cutout.pro/user/set",
+        "difficulty": "easy",
+        "notes": "Go to My Dashboard, then Account Settings to delete your account.",
+        "domains": [
+            "cutout.pro"
+        ]
+    },
+
+    {
         "name": "CV online",
         "url": "https://cvonline.me/en/support/accounts/removing-account",
         "difficulty": "hard",
