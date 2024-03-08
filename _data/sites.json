@@ -11777,6 +11777,18 @@
     },
 
     {
+        "name": "MathCad",
+        "url": "https://www.ptc.com/en/support/article/CS115856",
+        "difficulty": "hard",
+        "notes": "Log into your account to check the current state of the help page for any updates. If you cannot log in to your account anymore, use this [link](https://support.ptc.com/support/feedback/web-account.htm) and fill out the form to request the deletion of a personal accounts data. A support agent should reach out to reconfirm your choice via email. This process may differ for education or business accounts.",
+        "notes_de": "Logge dich in deinen Account ein, um die aktuellste Version des Hilfsartikels einzusehen. Falls du dich nicht mehr mit deinem Account anmelden kannst, verwende diesen [Link](https://support.ptc.com/support/feedback/web-account.htm) und fülle das Formular aus, um die Löschung eines persönlichen Accounts auf Englisch zu beantragen. Supportmitarbeiter sollten sich einige Tage später per Mail melden und eine Bestätigung verlangen. Der Prozess für Geschäfts- und Bildungskonten kann abweichen.",
+        "domains": [
+            "ptc.com",
+            "mathcad.com"
+        ]
+    },
+    
+    {
         "name": "Mathpix",
         "url": "https://accounts.mathpix.com/account",
         "difficulty": "easy",
