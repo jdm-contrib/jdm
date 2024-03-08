@@ -18638,7 +18638,8 @@
         "notes": "Visit the linked page and delete your account. The account will be locked for a week, after which it will be deleted.",
         "notes_ru": "Перейдите по ссылке и удалите свою учетную запись. Аккаунт будет заблокирован в течение недели, после чего будет удалён.",
         "domains": [
-            "taptap.io"
+            "taptap.io",
+            "accounts.taptap.io"
         ]
     },
 
