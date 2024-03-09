@@ -16718,6 +16718,15 @@
     },
 
     {
+        "name": "Sdc.com",
+        "url": "http://www.sdc.com/react/#/settings2",
+        "difficulty": "easy",
+        "domains": [
+            "sdc.com"
+        ]
+    },
+
+    {
         "name": "Seagate",
         "url": "https://myportal.seagate.com/consumer-identity/profile/",
         "difficulty": "medium",
