@@ -1725,6 +1725,17 @@
     },
 
     {
+        "name": "Author.today",
+        "url": "https://help.author.today/knowledge_base/item/268554?sid=58980",
+        "difficulty": "impossible",
+        "notes": "You cannot delete your account, only disable it. To do so, go to ⮕ personal area ⮕ account ⮕ general ⮕ account management.",
+        "notes_ru": "Вы не можете удалить свою учётную запись, только отключить её. Чтобы сделать это, перейдите в ⮕ личный кабинет ⮕ учётная запись ⮕ общее ⮕ управление учётной записью.",
+        "domains": [
+            "author.today"
+        ]
+    },
+
+    {
         "name": "Authy",
         "url": "https://authy.com/account/delete/",
         "difficulty": "medium",
@@ -2890,6 +2901,19 @@
         "domains": [
             "brutx.com",
             "help.brutx.com"
+        ]
+    },
+
+    {
+        "name": "Bubbl.us",
+        "url": "https://help.bubbl.us/article/110-remove-my-account",
+        "difficulty": "hard",
+        "notes": "You need to contact support and request account deletion, but the address listed on the help page is incorrect. You need to send an email to the address listed below.",
+        "notes_ru": "Вам нужно связаться со службой поддержки и запросить удаление аккаунта, но адрес, указанный на странице помощи неверен. Вам нужно отправлять сообщение на адрес: support@bubbl.us.",
+        "email": "support@bubbl.us",
+        "domains": [
+            "bubbl.us",
+            "help.bubbl.us"
         ]
     },
 
@@ -16958,6 +16982,17 @@
     },
 
     {
+        "name": "Shikimori",
+        "url": "https://shikimori.one/clubs/1093-faq-chasto-zadavaemye-voprosy",
+        "difficulty": "impossible",
+        "notes": "The site does not provide for the possibility of account deletion. However, you can remove all contact information from your profile and replace your email with a non-existent one. After performing these actions, there will be virtually nothing left of your account.",
+        "notes_ru": "Сайт не предусматривает возможность удаления аккаунта. Однако вы можете удалить из профиля всю контактную информацию и заменить email на несуществующий. После выполнения данных действий, от вашего аккаунта фактически ничего не останется.",
+        "domains": [
+            "shikimori.one"
+        ]
+    },
+
+    {
         "name": "Shinden",
         "url": "https://shinden.pl",
         "difficulty": "easy",
@@ -18601,6 +18636,18 @@
         "domains": [
             "tapas.io",
             "help.tapas.io"
+        ]
+    },
+
+    {
+        "name": "TapTap",
+        "url": "https://accounts.taptap.io/delete-account",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and delete your account. The account will be locked for a week, after which it will be deleted.",
+        "notes_ru": "Перейдите по ссылке и удалите свою учетную запись. Аккаунт будет заблокирован в течение недели, после чего будет удалён.",
+        "domains": [
+            "taptap.io",
+            "accounts.taptap.io"
         ]
     },
 
