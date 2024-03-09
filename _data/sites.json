@@ -1728,8 +1728,8 @@
         "name": "Author.today",
         "url": "https://help.author.today/knowledge_base/item/268554?sid=58980",
         "difficulty": "impossible",
-        "notes:" "You cannot delete your account, only disable it. To do so, go to → personal area → account → general → account management.",
-        "notes_ru": "Вы не можете удалить свою учётную запись, только отключить её. Чтобы сделать это, перейдите в → личный кабинет → учётная запись → общее → управление учётной записью.",
+        "notes": "You cannot delete your account, only disable it. To do so, go to ⮕ personal area ⮕ account ⮕ general ⮕ account management.",
+        "notes_ru": "Вы не можете удалить свою учётную запись, только отключить её. Чтобы сделать это, перейдите в ⮕ личный кабинет ⮕ учётная запись ⮕ общее ⮕ управление учётной записью.",
         "domains": [
             "author.today"
         ]
@@ -2908,7 +2908,7 @@
         "name": "Bubbl.us",
         "url": "https://help.bubbl.us/article/110-remove-my-account",
         "difficulty": "hard",
-        "notes": "You need to contact support and request account deletion, but the address listed on the help page is incorrect. You need to send an email to: support@bubbl.us.",
+        "notes": "You need to contact support and request account deletion, but the address listed on the help page is incorrect. You need to send an email to the address listed below.",
         "notes_ru": "Вам нужно связаться со службой поддержки и запросить удаление аккаунта, но адрес, указанный на странице помощи неверен. Вам нужно отправлять сообщение на адрес: support@bubbl.us.",
         "email": "support@bubbl.us",
         "domains": [
