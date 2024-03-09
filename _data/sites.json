@@ -6649,16 +6649,6 @@
     },
 
     {
-        "name": "Flaticon",
-        "url": "https://www.flaticon.com/profile/me",
-        "difficulty": "easy",
-        "notes": "Scroll down to the bottom of the linked page and click 'Close my account'.",
-        "domains": [
-            "flaticon.com"
-        ]
-    },
-
-    {
         "name": "Flathub",
         "url": "https://flathub.org/settings",
         "difficulty": "easy",
@@ -6666,6 +6656,16 @@
         "notes_ru": "Войдите в свой аккаунт, перейдите на указанную страницу, нажмите \"Удалить аккаунт\" и подтвердите удаление.",
         "domains": [
             "flathub.org"
+        ]
+    },
+
+    {
+        "name": "Flaticon",
+        "url": "https://www.flaticon.com/profile/me",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the linked page and click 'Close my account'.",
+        "domains": [
+            "flaticon.com"
         ]
     },
 
@@ -16313,8 +16313,7 @@
             "dictionary.reverso.net",
             "grammar.reverso.net"
         ]
-    },
-        
+    },  
 
     {
         "name": "Revolt",
