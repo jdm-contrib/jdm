@@ -20554,6 +20554,17 @@
     },
 
     {
+        "name": "Vuforia Developer Account",
+        "url": "https://developer.vuforia.com/support/contact/login",
+        "difficulty": "hard",
+        "notes": "Use [this form](https://developer.vuforia.com/support/contact/login) to request deletion of your Vuforia developer account and its associated data. A support agent will reach out to you to reconfirm account ownership and intent to delete.<br>WARNING: The form may not display properly if not logged in, using a privacy focused browser, using a cookie blocker or using Firefox or Safari. Using Chrome or Edge without extensions is recommended for this step.",
+        "notes_de": "Benutze [dieses Formular](https://developer.vuforia.com/support/contact/login) um die Löschung deines Vuforia Developer Accounts in Auftrag zu geben. Der Kundendienst wird dich per E-Mail kontaktieren und eine Bestätigung anfordern.<br>WARNUNG: Das Formular wird ggf. nicht angezeigt, falls du nicht angemeldet bist, mit Privatsphäre Einstellungen surfst, einen Cookie- oder Werbeblocker installiert hast, Firefox oder Safari verwendest. Bitte verwende Chrome oder Edge ohne Browsererweiterungen für diesen Schritt.",
+        "domains": [
+            "developer.vuforia.com"
+        ]
+    },
+
+    {
         "name": "Vultr",
         "url": "https://my.vultr.com/support",
         "difficulty": "hard",
