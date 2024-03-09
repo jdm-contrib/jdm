@@ -20545,13 +20545,11 @@
 
     {
         "name": "Vuforia Chalk",
-        "url": "https://support.ptc.com/help/vuforia/chalk_app_center/#page/Vuforia_Chalk_Admin_Center%2Fcommon%2Fget_help.html%23",
-        "difficulty": "hard",
-        "notes": "Business Account users must contact their company administrator. Peronal Account users must contact PTC by phone to request account deletion. (The email address provided at the URL does not accept mail.) Call 1-877-275-4782, press 2 for Support Services, 9 for an operator, and ask them to delete your account. They should pass your information to the Vuforia team to delete your account. After about two weeks, your login credentials should no longer work in the Chalk app.",
+        "url": "https://support.ptc.com/help/vuforia/chalk_app_center/index.html#page/Vuforia_Chalk_Admin_Center/common/delete_account.html",
+        "difficulty": "easy",
+        "notes": "To request that your Chalk account be deleted, open the Chalk app and navigate to Settings > My Account, and tap Delete Account. When a pop-up appears at the bottom of your screen, tap Request account deletion. This action will trigger a process in which a PTC Administrator will delete the specific personal or business user.  If the user account being deleted belongs to a Primary Administrator, a new Primary Administrator must be designated before the user account can be deleted. Business Account users may need to contact their company administrator. You can contact your administrator by navigating to Settings > Help > Contact Company Admin in the Chalk app.<br>Alternatively you might still be able to reach the Vuforia team at PTC by [email](mailto:vuforia-support@ptc.com) (vuforia-support@ptc.com) or get transferred by calling your regions phone number found [here]( https://support.ptc.com/company/mathsoft/).",
         "domains": [
-            "ptc.com",
-            "support.ptc.com",
-            "vuforia.com"
+            "vuforiachalk.com"
         ]
     },
 
