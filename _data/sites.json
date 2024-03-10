@@ -9451,7 +9451,8 @@
         "notes": "Fill out the form, selecting the topic \"Privacy\", in which request the deletion of your account.",
         "notes_ru": "Заполните форму, выбрав тему \"Конфиденциальность\", в который запросите удаление вашего аккаунта.",
         "domains": [
-            "iloveimg.com"
+            "iloveimg.com",
+            "developer.iloveimg.com"
         ]
     },
 
