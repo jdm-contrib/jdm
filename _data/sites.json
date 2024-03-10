@@ -4051,6 +4051,18 @@
     },
 
     {
+        "name": "Computeruniverse",
+        "url": "https://www.computeruniverse.net/en/page/computeruniverse-privacy-policy#hbmpp-toc-III-4",
+        "difficulty": "hard",
+        "notes": "You need to email them to request deletion of your data.",
+        "notes_ru": "Вам нужно написать им на почту, чтобы запросить удаление своих данных.",
+        "email": "computeruniverse@datenschutzanfrage.de",
+        "domains": [
+            "computeruniverse.net"
+        ]
+    },
+
+    {
         "name": "Conte.it",
         "url": "https://www.conte.it/privacy-unsubscribe/",
         "difficulty": "easy",
@@ -6633,6 +6645,17 @@
         "domains": [
             "flat.io",
             "help.flat.io"
+        ]
+    },
+
+    {
+        "name": "Flathub",
+        "url": "https://flathub.org/settings",
+        "difficulty": "easy",
+        "notes": "Log in to your account, go to the linked page, click \"Delete account\" and confirm the deletion.",
+        "notes_ru": "Войдите в свой аккаунт, перейдите на указанную страницу, нажмите \"Удалить аккаунт\" и подтвердите удаление.",
+        "domains": [
+            "flathub.org"
         ]
     },
 
@@ -9418,6 +9441,30 @@
             "blog.illacloud.com",
             "builder.illacloud.com",
             "cloud.illacloud.com"
+        ]
+    },
+
+    {
+        "name": "iLoveIMG",
+        "url": "https://www.iloveimg.com/contact",
+        "difficulty": "hard",
+        "notes": "Fill out the form, selecting the topic \"Privacy\", in which request the deletion of your account.",
+        "notes_ru": "Заполните форму, выбрав тему \"Конфиденциальность\", в который запросите удаление вашего аккаунта.",
+        "domains": [
+            "iloveimg.com",
+            "developer.iloveimg.com"
+        ]
+    },
+
+    {
+        "name": "iLovePDF",
+        "url": "https://www.ilovepdf.com/contact",
+        "difficulty": "hard",
+        "notes": "Fill out the form, selecting the topic \"Privacy\", in which request the deletion of your account.",
+        "notes_ru": "Заполните форму, выбрав тему \"Конфиденциальность\", в который запросите удаление вашего аккаунта.",
+        "domains": [
+            "ilovepdf.com",
+            "developer.ilovepdf.com"
         ]
     },
 
@@ -16262,6 +16309,35 @@
             "revenuehits.com",
             "support.revenuehits.com",
             "intango.com"
+        ]
+    },
+
+    {
+        "name": "Reverso",
+        "url": "https://www.reverso.net/contact",
+        "difficulty": "hard",
+        "notes": "On your own, you can only disable your account in your profile settings. If you want to request its removal, you must contact support using the linked form, but they may ask you to confirm your identity.",
+        "notes_ru": "Самостоятельно вы можете только отключить свой аккаунт в настройках профиля. Если вы хотите запросить его удаление, то вы должны обратиться в поддержку, используя форму ниже, но они могут попросить от вас подтверждения личности.",
+        "domains": [
+            "reverso.net",
+            "coniugazione.reverso.net",
+            "conjugacao.reverso.net",
+            "conjugador.reverso.net",
+            "conjugator.reverso.net",
+            "conjugueur.reverso.net",
+            "context.reverso.net",
+            "corporate-translation.reverso.com",
+            "synonyms.reverso.net",
+            "glagol.reverso.net",
+            "documents.reverso.net",
+            "diccionario.reverso.net",
+            "dicionario.reverso.net",
+            "dictionary.reverso.net",
+            "dictionnaire.reverso.net",
+            "dizionario.reverso.net",
+            "grammar.reverso.net",
+            "konjugator.reverso.net",
+            "woerterbuch.reverso.net"
         ]
     },
 
