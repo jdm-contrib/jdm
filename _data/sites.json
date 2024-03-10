@@ -6655,7 +6655,9 @@
         "notes": "Log in to your account, go to the linked page, click \"Delete account\" and confirm the deletion.",
         "notes_ru": "Войдите в свой аккаунт, перейдите на указанную страницу, нажмите \"Удалить аккаунт\" и подтвердите удаление.",
         "domains": [
-            "flathub.org"
+            "flathub.org",
+            "discourse.flathub.org",
+            "docs.flathub.org"
         ]
     },
 
