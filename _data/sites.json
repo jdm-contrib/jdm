@@ -15532,6 +15532,18 @@
     },
 
     {
+        "name": "PTC (MathCad, Vuforia Chalk Community)",
+        "url": "https://www.ptc.com/en/support/article/CS115856",
+        "difficulty": "hard",
+        "notes": "Log into your account to check the current state of the help page for any updates. If you cannot log in to your account anymore, use this [link](https://support.ptc.com/support/feedback/web-account.htm) and fill out the form to request the deletion of a personal accounts data. A support agent should reach out to reconfirm your choice via email. This process may differ for education or business accounts.",
+        "notes_de": "Logge dich in deinen Account ein, um die aktuellste Version des Hilfsartikels einzusehen. Falls du dich nicht mehr mit deinem Account anmelden kannst, verwende diesen [Link](https://support.ptc.com/support/feedback/web-account.htm) und fülle das Formular aus, um die Löschung eines persönlichen Accounts auf Englisch zu beantragen. Supportmitarbeiter sollten sich einige Tage später per Mail melden und eine Bestätigung verlangen. Der Prozess für Geschäfts- und Bildungskonten kann abweichen.",
+        "domains": [
+            "ptc.com",
+            "mathcad.com"
+        ]
+    },
+
+    {
         "name": "Public Lab",
         "url": "https://publiclab.org/questions/niklasjordan/03-25-2019/how-can-i-delete-a-user-account",
         "difficulty": "impossible",
@@ -20589,13 +20601,22 @@
 
     {
         "name": "Vuforia Chalk",
-        "url": "https://support.ptc.com/help/vuforia/chalk_app_center/#page/Vuforia_Chalk_Admin_Center%2Fcommon%2Fget_help.html%23",
-        "difficulty": "hard",
-        "notes": "Business Account users must contact their company administrator. Peronal Account users must contact PTC by phone to request account deletion. (The email address provided at the URL does not accept mail.) Call 1-877-275-4782, press 2 for Support Services, 9 for an operator, and ask them to delete your account. They should pass your information to the Vuforia team to delete your account. After about two weeks, your login credentials should no longer work in the Chalk app.",
+        "url": "https://support.ptc.com/help/vuforia/chalk_app_center/index.html#page/Vuforia_Chalk_Admin_Center/common/delete_account.html",
+        "difficulty": "easy",
+        "notes": "To request that your Chalk account be deleted, open the Chalk app and navigate to Settings > My Account, and tap Delete Account. When a pop-up appears at the bottom of your screen, tap Request account deletion. This action will trigger a process in which a PTC Administrator will delete the specific personal or business user.  If the user account being deleted belongs to a Primary Administrator, a new Primary Administrator must be designated before the user account can be deleted. Business Account users may need to contact their company administrator. You can contact your administrator by navigating to Settings > Help > Contact Company Admin in the Chalk app.<br>Alternatively you might still be able to reach the Vuforia team at PTC by [email](mailto:vuforia-support@ptc.com) (vuforia-support@ptc.com) or get transferred by calling your regions phone number found [here]( https://support.ptc.com/company/mathsoft/).",
         "domains": [
-            "ptc.com",
-            "support.ptc.com",
-            "vuforia.com"
+            "vuforiachalk.com"
+        ]
+    },
+
+    {
+        "name": "Vuforia Developer Account",
+        "url": "https://developer.vuforia.com/support/contact/login",
+        "difficulty": "hard",
+        "notes": "Use [this form](https://developer.vuforia.com/support/contact/login) to request deletion of your Vuforia developer account and its associated data. A support agent will reach out to you to reconfirm account ownership and intent to delete.<br>WARNING: The form may not display properly if not logged in, using a privacy focused browser, using a cookie blocker or using Firefox or Safari. Using Chrome or Edge without extensions is recommended for this step.",
+        "notes_de": "Benutze [dieses Formular](https://developer.vuforia.com/support/contact/login) um die Löschung deines Vuforia Developer Accounts in Auftrag zu geben. Der Kundendienst wird dich per E-Mail kontaktieren und eine Bestätigung anfordern.<br>WARNUNG: Das Formular wird ggf. nicht angezeigt, falls du nicht angemeldet bist, mit Privatsphäre Einstellungen surfst, einen Cookie- oder Werbeblocker installiert hast, Firefox oder Safari verwendest. Bitte verwende Chrome oder Edge ohne Browsererweiterungen für diesen Schritt.",
+        "domains": [
+            "developer.vuforia.com"
         ]
     },
 
