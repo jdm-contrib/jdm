@@ -15049,9 +15049,9 @@
 
     {
         "name": "PlanetMinecraft",
-        "url": "https://www.planetminecraft.com/tickets/new/",
-        "difficulty": "hard",
-        "notes": "Visit the linked page and submit a ticket asking to have your account deleted.",
+        "url": "https://www.planetminecraft.com/account/settings/delete/",
+        "difficulty": "easy",
+        "notes": "Sends a verification email with a confirmation button before submitting the deletion request.",
         "domains": [
             "planetminecraft.com"
         ]
