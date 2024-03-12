@@ -19057,7 +19057,7 @@
     {
         "name": "Text.ru",
         "url": "https://text.ru/user/profile/settings/secure",
-        "difficulty": "",
+        "difficulty": "easy",
         "notes_ru": "Перейдите по указанной ссылке и нажмите \"Удалить аккаунт\".",
         "domains": [
             "text.ru"
