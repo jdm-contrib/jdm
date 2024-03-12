@@ -10693,6 +10693,17 @@
     },
 
     {
+        "name": "Lingualeo",
+        "url": "https://lingualeo.com/profile/edit",
+        "difficulty": "medium",
+        "notes": "Go to the linked page, scroll to the bottom and click \"Delete account\". You'll have to confirm the deletion by clicking the link from the confirmation email.",
+        "notes_ru": "Перейдите на указанную страницу, пролистайте в самый низ и нажмите \"Удалить аккаунт\". Вам придётся подтвердить удаление, перейдя по ссылки из письма подтверждения.",
+        "domains": [
+            "lingualeo.com"
+        ]
+    },
+
+    {
         "name": "LaptopKeyReplacements",
         "url": "https://www.laptopkeyreplacements.com/contact-us/",
         "difficulty": "impossible",
@@ -19044,6 +19055,16 @@
     },
 
     {
+        "name": "Text.ru",
+        "url": "https://text.ru/user/profile/settings/secure",
+        "difficulty": "",
+        "notes_ru": "Перейдите по указанной ссылке и нажмите \"Удалить аккаунт\".",
+        "domains": [
+            "text.ru"
+        ]
+    },
+
+    {
         "name": "TextNow",
         "url": "https://www.textnow.com/account/new#requestDataDeletionDisclosure",
         "difficulty":"easy",
@@ -21768,6 +21789,18 @@
         "notes": "Visit the linked page, scroll down to `Account Deletion`, enter your username, then click `Delete Account`",
         "domains": [
             "worldanvil.com"
+        ]
+    },
+
+    {
+        "name": "WOT (Web Of Trust)",
+        "url": "https://support.mywot.com/hc/en-us/articles/115002805334-How-can-I-delete-my-account",
+        "difficulty": "easy",
+        "notes": "Log into your account ⮕ go to \"My profile\" page ⮕ click on pencil icon ⮕ click on \"Delete account\".",
+        "notes_ru": "Зайдите в свой аккаунт ⮕ перейдите в \"Мой профиль\" ⮕ нажмите на иконку карандаша ⮕ нажмите \"Удалить аккаунт\".",
+        "domains": [
+            "mywot.com",
+            "support.mywot.com"
         ]
     },
 
