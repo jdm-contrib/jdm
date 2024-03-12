@@ -10693,6 +10693,16 @@
     },
 
     {
+        "name": "LaptopKeyReplacements",
+        "url": "https://www.laptopkeyreplacements.com/contact-us/",
+        "difficulty": "impossible",
+        "notes": "Account deletion request hasn't been fulfilled several months after contacting support.",
+        "domains": [
+            "laptopkeyreplacements.com"
+        ]
+    },
+
+    {
         "name": "Lingualeo",
         "url": "https://lingualeo.com/profile/edit",
         "difficulty": "medium",
@@ -10700,16 +10710,6 @@
         "notes_ru": "Перейдите на указанную страницу, пролистайте в самый низ и нажмите \"Удалить аккаунт\". Вам придётся подтвердить удаление, перейдя по ссылки из письма подтверждения.",
         "domains": [
             "lingualeo.com"
-        ]
-    },
-
-    {
-        "name": "LaptopKeyReplacements",
-        "url": "https://www.laptopkeyreplacements.com/contact-us/",
-        "difficulty": "impossible",
-        "notes": "Account deletion request hasn't been fulfilled several months after contacting support.",
-        "domains": [
-            "laptopkeyreplacements.com"
         ]
     },
 
