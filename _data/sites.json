@@ -10703,17 +10703,6 @@
     },
 
     {
-        "name": "Lingualeo",
-        "url": "https://lingualeo.com/profile/edit",
-        "difficulty": "medium",
-        "notes": "Go to the linked page, scroll to the bottom and click \"Delete account\". You'll have to confirm the deletion by clicking the link from the confirmation email.",
-        "notes_ru": "Перейдите на указанную страницу, пролистайте в самый низ и нажмите \"Удалить аккаунт\". Вам придётся подтвердить удаление, перейдя по ссылки из письма подтверждения.",
-        "domains": [
-            "lingualeo.com"
-        ]
-    },
-
-    {
         "name": "Last.fm",
         "url": "https://www.last.fm/settings/account",
         "difficulty": "easy",
@@ -11164,6 +11153,17 @@
         "domains": [
             "li.me",
             "help.li.me"
+        ]
+    },
+
+    {
+        "name": "Lingualeo",
+        "url": "https://lingualeo.com/profile/edit",
+        "difficulty": "medium",
+        "notes": "Go to the linked page, scroll to the bottom and click \"Delete account\". You'll have to confirm the deletion by clicking the link from the confirmation email.",
+        "notes_ru": "Перейдите на указанную страницу, пролистайте в самый низ и нажмите \"Удалить аккаунт\". Вам придётся подтвердить удаление, перейдя по ссылки из письма подтверждения.",
+        "domains": [
+            "lingualeo.com"
         ]
     },
 
