@@ -2558,6 +2558,17 @@
     },
 
     {
+        "name": "Bluesky",
+        "url": "https://bsky.app/settings",
+        "difficulty": "medium",
+        "notes": "Scroll to the bottom and click \"Delete My Account...\". Then provide the confirmation code sent to your email and your account password. No confirmation is given, but the account is deleted instantly.",
+        "domains": [
+            "bsky.app",
+            "bsky.social"
+        ]
+    },
+
+    {
         "name": "Board Game Arena",
         "url": "https://boardgamearena.com/preferences?section=account",
         "difficulty": "easy",
@@ -9922,6 +9933,16 @@
     },
 
     {
+        "name": "iOSGods",
+        "url": "https://iosgods.com/settings/account-security/#requestAccountDeletion",
+        "difficulty": "easy",
+        "notes": "Sends a verification email with a confirmation button before submitting the deletion request.",
+        "domains": [
+            "iosgods.com"
+        ]
+    },
+
+    {
         "name": "ipinfo.io",
         "url": "https://ipinfo.io/faq/article/126-deleting-ipinfo-account",
         "difficulty": "hard",
@@ -15385,6 +15406,16 @@
         "domains": [
             "postmates.com",
             "support.postmates.com"
+        ]
+    },
+
+    {
+        "name": "Pottermore",
+        "url": "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/780a7716-f409-47f4-afdf-fbe274737e6f",
+        "difficulty": "hard",
+        "notes": "Fill out form and submit. Non-USA form entries will receive an email to confirm the deletion request. If you are from the USA, use [this form](https://privacy.wizardingworld.com/delete-data-request/) instead.",
+        "domains": [
+            "pottermore.com"
         ]
     },
 
@@ -21674,6 +21705,16 @@
         "domains": [
             "wix.com",
             "manage.wix.com"
+        ]
+    },
+
+    {
+        "name": "Wizarding World",
+        "url": "https://www.wizardingworld.com/profile/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "Does not delete data from a previous Pottermore account. See [Pottermore entry](https://justdeleteme.xyz/#pottermore).",
+        "domains": [
+            "wizardingworld.com"
         ]
     },
 
