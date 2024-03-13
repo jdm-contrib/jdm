@@ -15647,7 +15647,7 @@
 
     {
         "name": "Put.io",
-        "url": "https://put.io/payment/billing",
+        "url": "https://app.put.io/account",
         "difficulty": "easy",
         "notes": "Click Destroy my account completely, then click Delete everything.",
         "notes_tr": "\"Hesabımı tamamen yok et\" öğesini ve ardından \"Her şeyi sil\" öğesini tıklayın.",
