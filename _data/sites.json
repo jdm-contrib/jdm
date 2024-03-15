@@ -3676,6 +3676,17 @@
     },
 
     {
+        "name": "Clipchamp",
+        "url": "https://app.clipchamp.com/account/general",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom and click \"Delete your account\".",
+        "domains": [
+            "clipchamp.com",
+            "app.clipchamp.com"
+        ]
+    },
+
+    {
         "name": "Clockify",
         "url": "https://app.clockify.me/user/settings/delete",
         "difficulty": "easy",
@@ -10659,6 +10670,18 @@
     },
 
     {
+        "name": "Krafton",
+        "url": "https://accounts.krafton.com/personal-info",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom and click \"Delete your KRAFTON ID\". Then request deletion.",
+        "domains": [
+            "krafton.com",
+            "accounts.krafton.com",
+            "pubg.com"
+        ]
+    },
+
+    {
         "name": "Kraken",
         "url": "https://support.kraken.com/hc/en-us/articles/203727206-How-can-I-delete-my-Kraken-account-",
         "difficulty": "hard",
@@ -12572,6 +12595,16 @@
         "difficulty": "easy",
         "domains": [
             "mmorpg.com"
+        ]
+    },
+
+    {
+        "name": "Mobalytics",
+        "url": "https://mobalytics.gg/lol/account-settings/account-information",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom and click \"Delete my account\".",
+        "domains": [
+            "mobalytics.gg"
         ]
     },
 
