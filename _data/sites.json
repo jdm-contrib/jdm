@@ -22099,6 +22099,19 @@
     },
 
     {
+        "name": "Z-Library",
+        "url": "https://z-library.se",
+        "difficulty": "medium",
+        "notes": "Click on top-right-corner menu ⮕ Edit Profile ⮕ Remove Profile ⮕ Remove my account. Enter Captcha to remove account permanently. Note that you'll unable to create a new account associated with this emailID.",
+        "domains": [
+            "singlelogin.re",
+            "z-library.se",
+            "loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion",
+            "zlib24th6ptyb4ibzn3tj2cndqafs6rhm4ed4gruxztaaco35lka.b32.i2p"
+        ]
+    },
+
+    {
         "name": "Zalando",
         "url": "https://www.zalando.co.uk/myaccount/privacy/",
         "difficulty": "easy",
