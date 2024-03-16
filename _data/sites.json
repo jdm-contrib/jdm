@@ -2732,7 +2732,10 @@
     {
         "name": "Booking",
         "url": "https://secure.booking.com/login.en-us.html?tmpl=profile/delete_account",
-        "difficulty": "easy",
+        "difficulty": "hard",
+        "notes": "There is a button on the site to delete your account, but you will never receive a confirmation email. Instead, you need to email them and request account deletion.",
+        "notes_ru": "На сайте присутствует кнопка для удаления аккаунта, но вы никогда не получите подтверждающий email. Вместо этого вам нужно написать им на почту и запросить удаления аккаунта.",
+        "email": "privacyrequests@booking.com",
         "domains": [
             "booking.com",
             "secure.booking.com"
