@@ -9873,6 +9873,16 @@
     },
 
     {
+        "name": "Inventory Shield",
+        "url": "https://inventoryshield.com/support_docs/account/",
+        "difficulty": "easy",
+        "notes": "Log in, open the menu, click \"Account Settings\", scroll to the \"Delete Your Account\" form, enter your password and click \"Confirm Deletion\".",
+        "domains": [
+            "inventoryshield.com"
+        ]
+    },
+
+    {
         "name": "Investopedia",
         "url": "https://invcontent.zendesk.com/hc/en-us/articles/360017064553-Account-Deletion",
         "difficulty": "hard",
