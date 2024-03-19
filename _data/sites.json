@@ -10830,9 +10830,8 @@
 
     {
         "name": "LeetCode",
-        "url": "https://support.leetcode.com/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "Log in to your LeetCode account, go to the URL to submit an account deletion request. Include in your request the USERNAME and EMAIL ADDRESS associated with your account. When you receive email confirmation, your account credentials will no longer work.",
+        "url": "https://leetcode.com/delete-account/",
+        "difficulty": "easy",
         "domains": [
             "leetcode.com",
             "support.leetcode.com"
