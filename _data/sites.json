@@ -5948,6 +5948,19 @@
     },
 
     {
+        "name": "elmah.io",
+        "url": "https://app.elmah.io/profile/#actions",
+        "difficulty": "easy",
+        "notes": "Click the Delete Account button to remove your user account.",
+        "domains": [
+            "elmah.io",
+            "app.elmah.io",
+            "blog.elmah.io",
+            "docs.elmah.io"
+        ]
+    },
+
+    {
         "name": "Elpais",
         "url": "https://registro.elpais.com.uy/regasistencia.asp",
         "difficulty": "hard",
