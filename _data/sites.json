@@ -2738,7 +2738,13 @@
         "email": "privacyrequests@booking.com",
         "domains": [
             "booking.com",
-            "secure.booking.com"
+            "account.booking.com",
+            "careers.booking.com",
+            "join.booking.com",
+            "news.booking.com",
+            "partner.booking.com",
+            "secure.booking.com",
+            "sustainability.booking.com"
         ]
     },
 
