@@ -9878,7 +9878,8 @@
         "difficulty": "easy",
         "notes": "Log in, open the menu, click \"Account Settings\", scroll to the \"Delete Your Account\" form, enter your password and click \"Confirm Deletion\".",
         "domains": [
-            "inventoryshield.com"
+            "inventoryshield.com",
+            "app.inventoryshield.com"
         ]
     },
 
