@@ -5947,7 +5947,10 @@
         "difficulty": "easy",
         "notes": "Click the Delete Account button to remove your user account.",
         "domains": [
-            "app.elmah.io"
+            "elmah.io",
+            "app.elmah.io",
+            "blog.elmah.io",
+            "docs.elmah.io"
         ]
     },
 
