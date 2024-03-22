@@ -14940,6 +14940,17 @@
     },
 
     {
+        "name": "Pholder",
+        "url": "https://pholder.com/policies/#Terms",
+        "difficulty": "impossible",
+        "notes": "It is not possible to delete your account. The email address from the TOS (abuse@pholder.com) does not respond to any emails.",
+        "email": "abuse@pholder.com",
+        "domains": [
+            "pholder.com"
+        ]
+    },
+
+    {
         "name": "Photobucket",
         "url": "https://support.photobucket.com/hc/en-us/articles/360039780614",
         "difficulty": "hard",
