@@ -14510,6 +14510,15 @@
     },
 
     {
+        "name": "Panda-Plush",
+        "url": "https://panda-plush.com/account/register",
+        "difficulty": "easy",
+        "domains": [
+            "panda-plush.com"
+        ]
+    },
+
+    {
         "name": "Pandora",
         "url": "https://www.pandora.com/settings/info",
         "difficulty": "easy",
