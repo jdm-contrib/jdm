@@ -14097,6 +14097,17 @@
     },
 
     {
+        "name": "Omnipilot",
+        "url": "https://omnipilot.ai/account",
+        "difficulty": "easy",
+        "notes": "On your account page, click on 'Delete Account' then confirm.",
+        "notes_pt_br": "Nas preferências do seu perfil, clique em 'Delete Account' e depois confirme.",
+        "domains": [
+            "omnipilot.ai"
+        ]
+    },
+
+    {
         "name": "One Month",
         "url": "https://www.iubenda.com/privacy-policy/735465",
         "difficulty": "hard",
