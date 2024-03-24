@@ -9816,14 +9816,14 @@
     },
 
     {
-        "name": "Internet Archive",
-        "url": "https://archive.org/account/index.php?settings=1",
-        "difficulty": "easy",
-        "notes": "Go to settings, enter your password to unlock modifying settings, click \"Delete Account\".  Your library items will remain unless you remove them before deleting your account.",
-        "notes_tr": "Ayarlara gidin, ayarların değiştirilmesinin kilidini açmak için şifrenizi girin, \"Hesabı Sil\" tuşuna tıklayın. Kütüphane öğeleriniz, hesabınızı silmeden önce kaldırmadığınız sürece kalacaktır.",
+        "name": "Internet Archive / Open Library",
+        "url": "https://help.archive.org/help/how-do-i-delete-my-account/",
+        "difficulty": "medium",
+        "notes": "Click on your screen name in the top right-hand corner. Click on Account setting, enter your password to unlock modifying settings, click “Delete Account”. Your library pages will remain unless you remove them manually before deleting your account. Alternatively, you can send them an [email](mailto:info@archive.org) to remove pages from their side.",
         "domains": [
             "archive.org",
-            "web.archive.org"
+            "web.archive.org",
+            "openlibrary.org"
         ]
     },
 
