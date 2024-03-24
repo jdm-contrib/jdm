@@ -15310,6 +15310,15 @@
     },
 
     {
+        "name": "Plushiies",
+        "url": "https://plushiies.com/account/register"
+        "difficulty": "easy",
+        "domains": [
+            "plushiies.com"
+        ]
+    },
+
+    {
         "name": "Pocket",
         "url": "https://getpocket.com/account_deletion/",
         "difficulty": "easy",
