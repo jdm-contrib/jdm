@@ -20756,6 +20756,17 @@
     },
 
     {
+        "name": "Voi",
+        "url": "https://help.voi.com/en_gb/i-want-to-delete-my-voi-account-S1TgkzhO_",
+        "difficulty": "easy",
+        "notes": "In the Voi, view your profile, and press 'Delete Account' at the bottom of the screen.",
+        "domains": [
+            "voi.com",
+            "voiscooters.com"
+        ]
+    },
+
+    {
         "name": "VoucherCodes",
         "url": "https://support.vouchercodes.co.uk/hc/en-us/articles/360000349566-How-do-I-delete-my-Account-",
         "difficulty": "hard",
