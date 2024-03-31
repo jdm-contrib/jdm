@@ -6206,7 +6206,8 @@
         "url": "https://www.eventbrite.com/account-close",
         "difficulty": "easy",
         "domains": [
-            "eventbrite.com"
+            "eventbrite.com",
+            "privacy.eventbrite.com"
         ]
     },
 
