@@ -20736,6 +20736,17 @@
     },
 
     {
+        "name": "Voi",
+        "url": "https://help.voi.com/en_gb/i-want-to-delete-my-voi-account-S1TgkzhO_",
+        "difficulty": "easy",
+        "notes": "In the Voi, view your profile, and press 'Delete Account' at the bottom of the screen.",
+        "domains": [
+            "voi.com",
+            "voiscooters.com"
+        ]
+    },
+
+    {
         "name": "Voicemod",
         "url": "https://www.voicemod.net/support/?letstalk=Account%20and%20Login&issue",
         "difficulty": "hard",
