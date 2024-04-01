@@ -9189,6 +9189,17 @@
     },
 
     {
+        "name": "Hotstar",
+        "url": "https://help.hotstar.com/in/en/support/tickets/new",
+        "difficulty": "hard",
+        "notes": "Select account related, then delete my account and write your issue.",
+        "domains": [
+            "help.hotstar.com",
+            "hotstar.com"
+        ]
+    },
+
+    {
         "name": "Houzz",
         "url": "https://help.houzz.com/s/article/How-do-I-delete-my-account",
         "difficulty": "hard",
@@ -11809,6 +11820,16 @@
             "organize.mlh.io",
             "sponsor.mlh.io",
             "static.mlh.io"
+        ]
+    },
+
+    {
+        "name": "MakeMyTrip",
+        "url": "https://www.makemytrip.com/",
+        "difficulty": "easy",
+        "notes": "App ⮕ Menu ⮕ Account ⮕ Settings ⮕ Delete.",
+        "domains": [
+            "makemytrip.com"
         ]
     },
 
