@@ -15150,6 +15150,18 @@
     },
 
     {
+        "name": "Pivot Interactives",
+        "url": "https://www.pivotinteractives.com",
+        "email": "info@pivotinteractives.com",
+        "notes": "You must send an email to remove your account. This service \"may still retain certain information associated with your account\" for any of the reasons outlined in section 7 of their [privacy policy](https://www.discoveryeducation.com/privacy-policy/).",
+        "email_subject": "Privacy Rights Request",
+        "difficulty": "hard",
+        "domains": [
+            "pivotinteractives.com"
+        ]
+    },
+
+    {
         "name": "Pixabay",
         "url": "https://pixabay.com/de/accounts/settings/",
         "difficulty": "easy",
