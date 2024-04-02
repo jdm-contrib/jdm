@@ -4740,6 +4740,16 @@
     },
 
     {
+        "name": "Demiplane",
+        "url": "https://support.demiplane.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You must submit a support ticket to request account closure.",
+        "domains": [
+            "demiplane.com"
+        ]
+    },
+
+    {
         "name": "Depop",
         "url": "https://depophelp.zendesk.com/hc/en-gb/articles/360001772988-How-can-I-delete-my-Depop-account-",
         "difficulty": "hard",
