@@ -4426,6 +4426,16 @@
     },
 
     {
+        "name": "Cubeast",
+        "url": "https://app.cubeast.com/settings/user_settings",
+        "difficulty": "easy",
+        "notes": "Select \"Remove Account,\" confirm your email, then select \"DELETE MY ACCOUNT.\"",
+        "domains": [
+            "app.cubeast.com"
+        ]
+    },
+
+    {
         "name": "CubieCloud",
         "url": "https://sso.cubie.com.br/delacc",
         "difficulty": "hard",
@@ -4435,16 +4445,6 @@
         "domains": [
             "cloud.cubie.com.br",
             "sso.cubie.com.br"
-        ]
-    },
-
-    {
-        "name": "Cubeast",
-        "url": "https://app.cubeast.com/settings/user_settings",
-        "difficulty": "easy",
-        "notes": "Select \"Remove Account,\" confirm your email, then select \"DELETE MY ACCOUNT.\"",
-        "domains": [
-            "app.cubeast.com"
         ]
     },
 
