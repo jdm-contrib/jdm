@@ -6860,6 +6860,16 @@
     },
 
     {
+        "name": "Floor Plan Creator",
+        "url": "https://floorplancreator.net/account/",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete Account' button and confirm your selection.",
+        "domains": [
+            "floorplancreator.net"
+        ]
+    },
+
+    {
         "name": "Flowkey",
         "url": "https://help.flowkey.com/en/articles/4466433-how-to-unsubscribe-or-delete-your-account",
         "difficulty": "hard",
