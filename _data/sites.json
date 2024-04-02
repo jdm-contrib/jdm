@@ -14421,6 +14421,17 @@
     },
 
     {
+        "name": "Optum",
+        "url": "https://docasap.com/user/profile",
+        "difficulty": "easy",
+        "notes": "On the linked page select \"Deactivate Account\" and provide the code sent to the account's email address.",
+        "domains": [
+            "docasap.com",
+            "optum.com"
+        ]
+    },
+
+    {
         "name": "Oracle",
         "url": "https://www.oracle.com/legal/data-privacy-inquiry-form.html",
         "difficulty": "hard",
