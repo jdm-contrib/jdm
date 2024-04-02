@@ -4428,6 +4428,16 @@
     },
 
     {
+        "name": "Cubeast",
+        "url": "https://app.cubeast.com/settings/user_settings",
+        "difficulty": "easy",
+        "notes": "Select \"Remove Account,\" confirm your email, then select \"DELETE MY ACCOUNT.\"",
+        "domains": [
+            "app.cubeast.com"
+        ]
+    },
+
+    {
         "name": "Curio",
         "url": "https://curio.io/account/delete",
         "difficulty": "easy",
