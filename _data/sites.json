@@ -18412,6 +18412,16 @@
     },
 
     {
+        "name": "StudentBeans",
+        "url": "https://accounts.studentbeans.com/us/my/account",
+        "difficulty": "easy",
+        "notes": "Open account settings, click on 'Delete Account', provide a reason, and confirm you'd like to delete it.",
+        "domains": [
+            "studentbeans.com"
+        ]
+    },
+
+    {
         "name": "Studio",
         "url": "https://studio.com/settings?page=advanced",
         "difficulty": "easy",
