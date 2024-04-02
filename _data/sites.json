@@ -5584,6 +5584,16 @@
     },
 
     {
+        "name": "Duotrope",
+        "url": "https://duotrope.com/contact/customerservice.aspx",
+        "difficulty": "hard",
+        "notes": "You must submit a support ticket to request account deletion.",
+        "domains": [
+            "duotrope.com"
+        ]
+    },
+
+    {
         "name": "Dwell",
         "url": "https://dwell.co.uk/contactus.php",
         "difficulty": "impossible",
