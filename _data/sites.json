@@ -22064,7 +22064,10 @@
         "name": "XREAL",
         "url": "https://us.shop.xreal.com/",
         "difficulty": "hard",
-        "notes": "\"Account deactivation requires you to contact the support email (support@xreal.com) and they will assist you with the deactivation process. Deactivation removes all your personal information, including your account details, profile, and data associated with your account. This information will be permanently removed, and the operation cannot be undone.\"",
+        "email": "support@xreal.com",
+        "email_subject": "XREAL Account Deletion Request",
+        "email_body": "Please delete my XREAL account.",
+        "notes": "\"Account deactivation requires you to contact the support email, and they will assist you with the deactivation process. Deactivation removes all your personal information, including your account details, profile, and data associated with your account. This information will be permanently removed, and the operation cannot be undone.\"",
         "domains": [
             "xreal.com"
         ]
