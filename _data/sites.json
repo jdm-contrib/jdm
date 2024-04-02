@@ -7870,6 +7870,16 @@
     },
 
     {
+        "name": "Glorious Forums",
+        "url": "https://gloriousforum.com",
+        "difficulty": "easy",
+        "notes": "Select your account in the top right, select the bottom-most yellow button (contact icon), and select \"Delete My Account\". Confirm your selection, and it is done.",
+        "domains": [
+            "gloriousforum.com"
+        ]
+    },
+
+    {
         "name": "Glovo",
         "url": "https://privacyportal-de.onetrust.com/webform/823e95df-5300-421a-bd72-0c9e0180184f/ff436245-5e5d-44f9-8463-eb48c2052eb5",
         "difficulty": "hard",
