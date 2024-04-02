@@ -9005,6 +9005,16 @@
     },
 
     {
+        "name": "HigherMe",
+        "url": "https://app.higherme.com/profile/settings",
+        "difficulty": "easy",
+        "notes": "Select \"Delete Account,\" confirm your email, then select \"Yes, delete account.\" You have 30 days to recover the account.",
+        "domains": [
+            "higherme.com"
+        ]
+    },
+
+    {
         "name": "HiNative",
         "url": "https://hinative.com/users/edit?type=delete_my_account",
         "difficulty": "easy",
