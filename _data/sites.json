@@ -4082,6 +4082,17 @@
     },
 
     {
+        "name": "Compiled",
+        "url": "https://cosoc.com",
+        "difficulty": "easy",
+        "notes": "Enter your user settings and select \"Delete Account,\" and \"Delete\" when prompted again. This is irreversible.",
+        "domains": [
+            "cosoc.com",
+            "compiled.social"
+        ]
+    },
+
+    {
         "name": "Computeruniverse",
         "url": "https://www.computeruniverse.net/en/page/computeruniverse-privacy-policy#hbmpp-toc-III-4",
         "difficulty": "hard",
