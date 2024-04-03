@@ -4082,6 +4082,17 @@
     },
 
     {
+        "name": "Compiled",
+        "url": "https://cosoc.com",
+        "difficulty": "easy",
+        "notes": "Enter your user settings and select \"Delete Account,\" and \"Delete\" when prompted again. This is irreversible.",
+        "domains": [
+            "cosoc.com",
+            "compiled.social"
+        ]
+    },
+
+    {
         "name": "Computeruniverse",
         "url": "https://www.computeruniverse.net/en/page/computeruniverse-privacy-policy#hbmpp-toc-III-4",
         "difficulty": "hard",
@@ -4415,6 +4426,16 @@
     },
 
     {
+        "name": "Cubeast",
+        "url": "https://app.cubeast.com/settings/user_settings",
+        "difficulty": "easy",
+        "notes": "Select \"Remove Account,\" confirm your email, then select \"DELETE MY ACCOUNT.\"",
+        "domains": [
+            "app.cubeast.com"
+        ]
+    },
+
+    {
         "name": "CubieCloud",
         "url": "https://sso.cubie.com.br/delacc",
         "difficulty": "hard",
@@ -4726,6 +4747,16 @@
         "notes": "There is no way to delete an account. Inactive accounts are deleted automatically after 15 months.",
         "domains": [
             "delugerpg.com"
+        ]
+    },
+
+    {
+        "name": "Demiplane",
+        "url": "https://support.demiplane.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You must submit a support ticket to request account closure.",
+        "domains": [
+            "demiplane.com"
         ]
     },
 
@@ -5549,6 +5580,16 @@
         "domains": [
             "duolingo.com",
             "drive-thru.duolingo.com"
+        ]
+    },
+
+    {
+        "name": "Duotrope",
+        "url": "https://duotrope.com/contact/customerservice.aspx",
+        "difficulty": "hard",
+        "notes": "You must submit a support ticket to request account deletion.",
+        "domains": [
+            "duotrope.com"
         ]
     },
 
@@ -6819,6 +6860,16 @@
     },
 
     {
+        "name": "Floor Plan Creator",
+        "url": "https://floorplancreator.net/account/",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete Account' button and confirm your selection.",
+        "domains": [
+            "floorplancreator.net"
+        ]
+    },
+
+    {
         "name": "Flowkey",
         "url": "https://help.flowkey.com/en/articles/4466433-how-to-unsubscribe-or-delete-your-account",
         "difficulty": "hard",
@@ -7815,6 +7866,16 @@
         "notes_tr": "İlk olarak giriş yapın, bağlantıya girip aşağı kaydırın ve \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "glitch.com"
+        ]
+    },
+
+    {
+        "name": "Glorious Forums",
+        "url": "https://gloriousforum.com",
+        "difficulty": "easy",
+        "notes": "Select your account in the top right, select the bottom-most yellow button (contact icon), and select \"Delete My Account\". Confirm your selection, and it is done.",
+        "domains": [
+            "gloriousforum.com"
         ]
     },
 
@@ -8981,6 +9042,16 @@
             "hide.me",
             "community.hide.me",
             "member.hide.me"
+        ]
+    },
+
+    {
+        "name": "HigherMe",
+        "url": "https://app.higherme.com/profile/settings",
+        "difficulty": "easy",
+        "notes": "Select \"Delete Account,\" confirm your email, then select \"Yes, delete account.\" You have 30 days to recover the account.",
+        "domains": [
+            "higherme.com"
         ]
     },
 
@@ -14380,6 +14451,17 @@
     },
 
     {
+        "name": "Optum",
+        "url": "https://docasap.com/user/profile",
+        "difficulty": "easy",
+        "notes": "On the linked page select \"Deactivate Account\" and provide the code sent to the account's email address.",
+        "domains": [
+            "docasap.com",
+            "optum.com"
+        ]
+    },
+
+    {
         "name": "Oracle",
         "url": "https://www.oracle.com/legal/data-privacy-inquiry-form.html",
         "difficulty": "hard",
@@ -15104,6 +15186,18 @@
         "notes_ru": "В настройках учетной записи нажмите «Удалить учетную запись», выберите причину и нажмите «Далее», затем «отправить электронную почту». Вам нужно будет проверить электронную почту и подтвердить удаление.",
         "domains": [
             "pinterest.com"
+        ]
+    },
+
+    {
+        "name": "Pivot Interactives",
+        "url": "https://www.pivotinteractives.com",
+        "email": "info@pivotinteractives.com",
+        "notes": "You must send an email to remove your account. This service \"may still retain certain information associated with your account\" for any of the reasons outlined in section 7 of their [privacy policy](https://www.discoveryeducation.com/privacy-policy/).",
+        "email_subject": "Privacy Rights Request",
+        "difficulty": "hard",
+        "domains": [
+            "pivotinteractives.com"
         ]
     },
 
@@ -18408,6 +18502,16 @@
         "domains": [
             "strongholdkingdoms.com",
             "login.strongholdkingdoms.com"
+        ]
+    },
+
+    {
+        "name": "StudentBeans",
+        "url": "https://accounts.studentbeans.com/us/my/account",
+        "difficulty": "easy",
+        "notes": "Open account settings, click on 'Delete Account', provide a reason, and confirm you'd like to delete it.",
+        "domains": [
+            "studentbeans.com"
         ]
     },
 
@@ -22047,6 +22151,19 @@
         "notes": "Select 'Delete Profile' at the bottom of the page.",
         "domains": [
             "xing.com"
+        ]
+    },
+
+    {
+        "name": "XREAL",
+        "url": "https://us.shop.xreal.com/",
+        "difficulty": "hard",
+        "email": "support@xreal.com",
+        "email_subject": "XREAL Account Deletion Request",
+        "email_body": "Please delete my XREAL account.",
+        "notes": "\"Account deactivation requires you to contact the support email, and they will assist you with the deactivation process. Deactivation removes all your personal information, including your account details, profile, and data associated with your account. This information will be permanently removed, and the operation cannot be undone.\"",
+        "domains": [
+            "xreal.com"
         ]
     },
 
