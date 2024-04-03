@@ -15190,18 +15190,6 @@
     },
 
     {
-        "name": "PivotalTracker",
-        "url": "https://www.pivotaltracker.com",
-        "email": "tracker@pivotal.io",
-        "notes": "You can delete your account using the website, but it is only fully deleted after e-mailing",
-        "notes_tr": "Hesabınızı, web sitesini kullanarak silebilirsiniz, ancak yalnızca e-postayla iletişime geçtikten sonra tamamen silinir",
-        "difficulty": "medium",
-        "domains": [
-            "pivotaltracker.com"
-        ]
-    },
-
-    {
         "name": "Pivot Interactives",
         "url": "https://www.pivotinteractives.com",
         "email": "info@pivotinteractives.com",
@@ -15210,6 +15198,18 @@
         "difficulty": "hard",
         "domains": [
             "pivotinteractives.com"
+        ]
+    },
+
+    {
+        "name": "PivotalTracker",
+        "url": "https://www.pivotaltracker.com",
+        "email": "tracker@pivotal.io",
+        "notes": "You can delete your account using the website, but it is only fully deleted after e-mailing",
+        "notes_tr": "Hesabınızı, web sitesini kullanarak silebilirsiniz, ancak yalnızca e-postayla iletişime geçtikten sonra tamamen silinir",
+        "difficulty": "medium",
+        "domains": [
+            "pivotaltracker.com"
         ]
     },
 
