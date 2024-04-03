@@ -9466,6 +9466,17 @@
     },
 
     {
+        "name": "ICANN",
+        "url": "https://account.icann.org/",
+        "difficulty": "easy",
+        "notes": "On the account settings, click 'delete my data'.",
+        "domains": [
+            "icann.org",
+            "account.icann.org"
+        ]
+    },
+
+    {
         "name": "Icedrive",
         "url": "https://icedrive.net/dashboard/#/page/settings",
         "difficulty": "easy",
