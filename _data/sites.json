@@ -9476,6 +9476,17 @@
     },
 
     {
+        "name": "ICANN",
+        "url": "https://account.icann.org/",
+        "difficulty": "easy",
+        "notes": "On the account settings, click 'delete my data'.",
+        "domains": [
+            "icann.org",
+            "account.icann.org"
+        ]
+    },
+
+    {
         "name": "Icedrive",
         "url": "https://icedrive.net/dashboard/#/page/settings",
         "difficulty": "easy",
@@ -19497,7 +19508,7 @@
 
     {
         "name": "TickTick",
-        "url": "https://support.ticktick.com/hc/en-us/articles/360011759031",
+        "url": "https://help.ticktick.com/articles/7136181511681736704",
         "difficulty": "easy",
         "notes": "Follow the instructions from this link.",
         "notes_es": "Sigue las instrucciones del enlace",
