@@ -5183,6 +5183,16 @@
     },
 
     {
+        "name": "distill.io",
+        "url": "distill.io",
+        "difficulty": "easy",
+        "notes": "It does not take many steps, just look for the button to delete the account and that's it.",
+        "domains": [
+            "distill.io"
+        ]
+    },
+
+    {
         "name": "Divize",
         "url": "https://divize.io/account/delete",
         "difficulty": "easy",
