@@ -2342,6 +2342,16 @@
     },
 
     {
+        "name": "BingX",
+        "url": "https://bingx.com/removeAccount/",
+        "difficulty": "medium",
+        "notes": "Once you open the url and accept the terms and services your account goes into review. The account is deleted within 1 to 5 business days.",
+        "domains": [
+            "bingx.com"
+        ]
+    },
+
+    {
         "name": "Bitdefender Central",
         "url": "https://account.bitdefender.com/delete_account/info",
         "difficulty": "medium",
@@ -5169,6 +5179,16 @@
             "user.disroot.org",
             "webchat.disroot.org",
             "webmail.disroot.org"
+        ]
+    },
+
+    {
+        "name": "distill.io",
+        "url": "distill.io",
+        "difficulty": "easy",
+        "notes": "Click the button to delete the account.",
+        "domains": [
+            "distill.io"
         ]
     },
 
