@@ -2345,7 +2345,7 @@
         "name": "BingX",
         "url": "https://bingx.com/removeAccount/",
         "difficulty": "medium",
-        "notes": "Once you open the url and accept the terms and services our account goes into review. The account is deleted within 1 to 5 business days.",
+        "notes": "Once you open the url and accept the terms and services your account goes into review. The account is deleted within 1 to 5 business days.",
         "domains": [
             "bingx.com"
         ]
@@ -5186,7 +5186,7 @@
         "name": "distill.io",
         "url": "distill.io",
         "difficulty": "easy",
-        "notes": "It does not take many steps, just look for the button to delete the account and that's it.",
+        "notes": "Click the button to delete the account.",
         "domains": [
             "distill.io"
         ]
