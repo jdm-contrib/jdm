@@ -15282,9 +15282,8 @@
     {
         "name": "pixiv",
         "url": "https://www.pixiv.net/leave_pixiv.php",
-        "difficulty": "easy",
-        "notes": "It takes 2 weeks to delete an account. You will be unable to re-use the same e-mail during that period. They won't delete \"pixiv ID\".",
-        "notes_tr": "Bir hesabı silmek 2 hafta sürer. Bu süre içinde aynı e-postayı tekrar kullanamayacaksınız. 'Pixiv ID'yi silmeyecekler.",
+        "difficulty": "medium",
+        "notes": "It takes 2 weeks to delete an account. You will be unable to re-use the same e-mail during that period. They won't delete \"pixiv ID\". If you have other accounts created from your Pixiv account, you have to delete them before you can delete your Pixiv account",
         "domains": [
             "www.pixiv.net"
         ]
