@@ -55,7 +55,7 @@
 
         <a class="button" href="https://github.com/jdm-contrib/jdm">{{ site.data.trans[page.lang].contribute }}</a>
 
-        <a class="button" href="https://twitter.com/intent/tweet?text={{ site.data.trans[page.lang].title | replace: ' ', '+' }}+https%3A%2F%2Fjustdeleteme.xyz">{{ site.data.trans.[page.lang].twitter }}</a>
+        <a class="button" href="https://twitter.com/intent/tweet?text={{ site.data.trans[page.lang].title | replace: ' ', '+' | replace: '|', '-'}}+https%3A%2F%2Fjustdeleteme.xyz">{{ site.data.trans.[page.lang].twitter }}</a>
 
         <a class="button jgmd" href="https://justgetmydata.com{%if page.lang != 'en'%}/{{page.lang}}{% endif %} "> {{site.data.trans[page.lang].jgmd }}</a>
     </p>
