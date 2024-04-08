@@ -2797,7 +2797,7 @@
     {
         "name": "BOOTH",
         "url": "https://accounts.booth.pm/settings/delete",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "Go to your profile page and the \"Delete Account\" button. If you did not set a password, it will ask you to create one before you can delete your account.",
         "domains": [
             "booth.pm"
