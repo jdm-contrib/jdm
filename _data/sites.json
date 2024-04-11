@@ -3597,6 +3597,21 @@
     },
 
     {
+        "name": "Chocolatey",
+        "url": "https://chocolatey.org/contact/general",
+        "difficulty": "hard",
+        "notes": "Visit the link, select the section \"General\" and fill out the form, in which request the deletion of your account.",
+        "notes_ru": "Перейдите по ссылке, выберите раздел \"Общее\" и заполните форму, в которой запросите удаление вашего аккаунта.",
+        "domains": [
+            "chocolatey.org",
+            "community.chocolatey.org",
+            "docs.chocolatey.org",
+            "blog.chocolatey.org",
+            "status.chocolatey.org"
+        ]
+    },
+
+    {
         "name": "Chick-fil-A",
         "url": "https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55",
         "difficulty": "hard",
@@ -9609,7 +9624,7 @@
         "url": "https://www.iloveimg.com/contact",
         "difficulty": "hard",
         "notes": "Fill out the form, selecting the topic \"Privacy\", in which request the deletion of your account.",
-        "notes_ru": "Заполните форму, выбрав тему \"Конфиденциальность\", в который запросите удаление вашего аккаунта.",
+        "notes_ru": "Заполните форму, выбрав тему \"Конфиденциальность\", в которой запросите удаление вашего аккаунта.",
         "domains": [
             "iloveimg.com",
             "developer.iloveimg.com"
@@ -9621,7 +9636,7 @@
         "url": "https://www.ilovepdf.com/contact",
         "difficulty": "hard",
         "notes": "Fill out the form, selecting the topic \"Privacy\", in which request the deletion of your account.",
-        "notes_ru": "Заполните форму, выбрав тему \"Конфиденциальность\", в который запросите удаление вашего аккаунта.",
+        "notes_ru": "Заполните форму, выбрав тему \"Конфиденциальность\", в которой запросите удаление вашего аккаунта.",
         "domains": [
             "ilovepdf.com",
             "developer.ilovepdf.com"
