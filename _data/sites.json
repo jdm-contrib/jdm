@@ -8326,6 +8326,7 @@
             "duo.google.com",
             "drive.google.com",
             "earth.google.com",
+            "edu.google.com",
             "hangouts.google.com",
             "jamboard.google.com",
             "keep.google.com",
@@ -8336,11 +8337,14 @@
             "news.google.com",
             "play.google.com",
             "photos.google.com",
+            "policies.google.com",
+            "safety.google",
             "sites.google.com",
             "stadia.google.com",
             "support.google.com",
             "takeout.google.com",
-            "translate.google.com"
+            "translate.google.com",
+            "workspace.google.com"
         ]
     },
 
