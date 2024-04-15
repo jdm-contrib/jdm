@@ -19290,6 +19290,16 @@
     },
 
     {
+        "name": "Temu",
+        "url": "https://www.temu.com/bgp_close_account.html",
+        "difficulty": "easy",
+        "notes": "Log into Temu and open your profile. Click on \"Account security\" and then select \"Delete my account\".",
+        "domains": [
+            "temu.com"
+        ]
+    },
+
+    {
         "name": "Ten Percent Happier",
         "url": "https://support.tenpercent.com/article/22-how-do-i-delete-my-account",
         "difficulty": "hard",
