@@ -4229,7 +4229,7 @@
 
     {
         "name": "Coursera",
-        "url": "https://www.coursera.org",
+        "url": "https://www.coursera.org/account-settings",
         "difficulty": "easy",
         "notes": "Delete acccount button is at the bottom of the account settings page.",
         "notes_tr": "\"Hesap Ayarları\" sayfasının altında hesabı silme tuşu bulunuyor.",
