@@ -14679,17 +14679,6 @@
     },
 
     {
-        "name": "Padrim",
-        "url": "https://padrim.zendesk.com/hc/pt-br/articles/360015115254-Como-excluo-minha-conta-do-Padrim-",
-        "difficulty": "impossible",
-        "notes": "At the moment, it's not possible to exclude the account, but you can change the profile to the \"private\" mode.",
-        "notes_pt_br": "No momento, não é possível remover a conta, mas você pode deixar o seu perfil em \"privado\".",
-        "domains": [
-            "padrim.com.br"
-        ]
-    },
-
-    {
         "name": "PAGBET",
         "url": "https://assets.bet6.com.br/sistemans/skins/pagbet/doc/ba98aa02a1.pdf",
         "difficulty": "hard",
