@@ -15121,6 +15121,16 @@
     },
 
     {
+        "name": "Phind",
+        "url": "https://www.phind.com/",
+        "difficulty": "easy",
+        "notes": "Сlick on your email at the top of the page, then in the \"Danger zone\" field select delete acccount",
+        "domains": [
+            "phind.com"
+        ]
+    },
+
+    {
         "name": "PhishTank",
         "url": "https://privacyrequest.cisco.com",
         "difficulty": "hard",
