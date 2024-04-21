@@ -20622,6 +20622,18 @@
     },
 
     {
+        "name": "V.PS Hosting",
+        "url": "https://vps.hosting/clientarea/delete",
+        "difficulty": "easy",
+        "notes": " Go to the page and click the delete account button.",
+        "domains": [
+            "v.ps",
+            "status.v.ps",
+            "vps.hosting"
+        ]
+    },
+
+    {
         "name": "Valorant",
         "url": "https://support-valorant.riotgames.com/hc/en-us/articles/360050328414-Deleting-Your-Riot-Account-and-All-Your-Data",
         "difficulty": "easy",
