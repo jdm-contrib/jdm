@@ -18280,7 +18280,7 @@
         "name": "Stackhero",
         "url": "https://www.stackhero.io/",
         "difficulty": "hard",
-        "notes": "Click the lower right position messenger, you can request delete account.",
+        "notes": "Click the lower right position messenger to request for account deletion.",
         "domains": [
             "stackhero.io"
         ]
