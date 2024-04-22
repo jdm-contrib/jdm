@@ -13068,6 +13068,16 @@
     },
 
     {
+        "name": "MSI",
+        "url": "https://account.msi.com/",
+        "difficulty": "easy",
+        "notes": "On your account page, in Account section, go to Login Management, and in DELETE ACCOUNT click Delete.",
+        "domains": [
+            "account.msi.com"
+        ]
+    },
+
+    {
         "name": "Multiplayer Game Hacking MPGH",
         "url": "https://www.mpgh.net/",
         "difficulty": "impossible",
@@ -13075,16 +13085,6 @@
         "notes_nl": "Accounts kunnen niet verwijderd worden, maar op aanvraag zijn admins bereid een 'account purge' uit te voeren. Het is verstandig om handmatig persoonlijke gegevens van je account te verwijderen.",
         "domains": [
             "mpgh.net"
-        ]
-    },
-
-    {
-        "name": "MSI",
-        "url": "https://account.msi.com/",
-        "difficulty": "easy",
-        "notes": "On your account page, in Account section, go to Login Management, and in DELETE ACCOUNT click Delete.",
-        "domains": [
-            "account.msi.com"
         ]
     },
 
