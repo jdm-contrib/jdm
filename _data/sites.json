@@ -13101,6 +13101,17 @@
     },
 
     {
+        "name": "Multiplayer Game Hacking MPGH",
+        "url": "https://www.mpgh.net/",
+        "difficulty": "impossible",
+        "notes": "Accounts can not be deleted, but admins offer an 'account purge' per request. It is wise to manually strip your account from any personal data.",
+        "notes_nl": "Accounts kunnen niet verwijderd worden, maar op aanvraag zijn admins bereid een 'account purge' uit te voeren. Het is verstandig om handmatig persoonlijke gegevens van je account te verwijderen.",
+        "domains": [
+            "mpgh.net"
+        ]
+    },
+
+    {
         "name": "MuniMobile (San Francisco Municipal Transportation Agency)",
         "url": "https://sfmta.transitsherpa.com/rider-web/",
         "difficulty": "impossible",
