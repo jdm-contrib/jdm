@@ -1713,10 +1713,9 @@
         ],
         "email": "relationclient@auchan.fr",
         "email_subject": "Suppression de mon compte Auchan",
-        "email_body": "Bonjour, s'il vous plaît supprimer mon compte Auchan et les données personelles associées avec cette adresse e-mail."
+        "email_body": "Bonjour, veuillez supprimer mon compte Auchan et les données personelles associées avec cette adresse e-mail."
     },
-        
-    
+
     {
         "name": "Audiomack",
         "url": "https://audiomack.com/dashboard#delete-account",
