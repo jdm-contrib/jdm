@@ -1708,7 +1708,8 @@
         "notes": "Send an email to the address given here. It's not listed on the FAQ page.",
         "notes_fr": "Envoyez un courriel à l'adresse e-mail donné sur ce site. L'adresse n'est pas donné sur le site d'Auchan.",
         "domains": [
-            "auchan.fr"
+            "auchan.fr",
+            "www.auchan.fr"
         ],
         "email": "relationclient@auchan.fr",
         "email_subject": "Suppression de mon compte Auchan",
