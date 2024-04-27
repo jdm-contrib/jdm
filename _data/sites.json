@@ -16720,12 +16720,16 @@
 
     {
         "name": "Revolut",
-        "url": "https://www.revolut.com/help/profile/i-want-to-close-my-revolut-account",
-        "difficulty": "easy",
-        "notes": "Open the Revolut app on your phone, go to the Settings tab, press 'Close account' button and follow the instructions.",
-        "notes_tr": "Telefonunuzda Revolut uygulamasını açın, \"Ayarlar\" sekmesine gidin, \"Hesabı Kapat\" düğmesine basın ve talimatları izleyin.",
+        "url": "https://help.revolut.com/en-US/help/profile-and-plan/closing-account/",
+        "url_it": "https://help.revolut.com/it-IT/help/profile-and-plan/closing-account/",
+        "difficulty": "medium",
+        "notes": "Open the Revolut app on your phone, go to the profile icon, then press on \"Account\", \"Close account\", and follow the instructions.\nIn order to close your account you must meet the requirements written in the linked page.",
+        "notes_it": "Apri l'applicazione Revolut sul tuo telefono, vai sull'icona del profilo, quindi premi su \"Conto\", \"Chiudi conto\", e segui le istruzioni.\nPer chiudere il tuo account devi soddisfare i requisiti scritti nella pagina collegata.",
         "domains": [
-            "revolut.com"
+            "revolut.com",
+            "help.revolut.com",
+            "community.revolut.com",
+            "developer.revolut.com"
         ]
     },
 
