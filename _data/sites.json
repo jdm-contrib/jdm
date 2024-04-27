@@ -4017,6 +4017,16 @@
     },
 
     {
+        "name": "Cohost",
+        "difficulty": "hard",
+        "notes": "Contact support from the email associated with your account and ask for your account to be deleted. ([Support article](https://help.antisoftware.club/support/solutions/articles/62000225460-how-do-i-delete-a-page-my-account-))",
+        "email": "support@cohost.org",
+        "domains": [
+            "cohost.org"
+        ]
+    },
+
+    {
         "name": "Coin",
         "url": "https://support.coinapp.co/hc/en-us/requests/new",
         "difficulty": "hard",
