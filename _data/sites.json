@@ -1514,6 +1514,15 @@
     },
 
     {
+        "name": "AREX (Airport Railway Company)",
+        "url": "https://www.arex.or.kr/user/leaveSite.do",
+        "difficulty": "easy",
+        "domains": [
+            "arex.or.kr"
+        ]
+    },
+
+    {
         "name": "Arlo",
         "url": "https://my.arlo.com/#/settings/privacy/delete-account",
         "difficulty": "medium",
