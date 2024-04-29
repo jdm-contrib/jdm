@@ -14947,6 +14947,17 @@
     },
 
     {
+        "name": "PaperNodes",
+        "url": "https://papernodes.com",
+        "difficulty": "easy",
+        "notes": "Hover over More Pages then click on login, then go to account settings scroll down and u see Delete my account then just press the Delete Account button then enter your password and all the data asociated to your account will be deleted in 48 hours.",
+        "domains": [
+            "papernodes.com",
+            "billing.papernodes.com"
+        ]
+    },
+
+    {
         "name": "PaySafeCard",
         "url": "https://login.paysafecard.com/customer-auth/?client_id=mypinsPR&theme=mypins&locale=en_US&redirect_uri=https%3A%2F%2Fmy.paysafecard.com%2Fmypins-psc%2FtokenExchange.xhtml",
         "difficulty": "easy",
