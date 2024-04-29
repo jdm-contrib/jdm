@@ -14950,7 +14950,7 @@
         "name": "PaperNodes",
         "url": "https://papernodes.com",
         "difficulty": "easy",
-        "notes": "Hover over More Pages then click on login, then go to account settings scroll down and u see Delete my account then just press the Delete Account button then enter your password and all the data asociated to your account will be deleted in 48 hours.",
+        "notes": "Hover over 'More Pages' then click on 'login' ⮕'account settings' and scroll down to see 'Delete my account' and press it. After confirming your password, all the data asociated to your account will be deleted in 48 hours.",
         "domains": [
             "papernodes.com",
             "billing.papernodes.com"
