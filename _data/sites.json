@@ -8016,6 +8016,16 @@
     },
 
     {
+        "name": "GNC",
+        "url": "https://www.gnc.com/help/contact-us.html#chat",
+        "difficulty": "hard",
+        "notes": "Open a live chat ⮕ Ask for agent ⮕ Request account deletion. Put a random phone number if you need to. It will take 7-10 days for it to be processed.",
+        "domains": [
+            "gnc.com"
+        ]
+    },
+
+    {
         "name": "GNOME",
         "url": "https://extensions.gnome.org/accounts/settings",
         "difficulty": "easy",
