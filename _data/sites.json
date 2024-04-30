@@ -19904,6 +19904,16 @@
     },
 
     {
+        "name": "Trading 212",
+        "url": "https://app.trading212.com",
+        "difficulty": "easy",
+        "notes": "Go to Settings ⮕ My Account ⮕ Account Details then click 'Close Account'",
+        "domains": [
+            "app.trading212.com"
+        ]
+    },
+
+    {
         "name": "TradingView",
         "url": "https://www.tradingview.com/u/account/#settings-profile",
         "difficulty": "easy",
