@@ -7623,6 +7623,15 @@
     },
 
     {
+        "name": "Gdeposylka",
+        "url": "https://gdeposylka.ru/auth/remove",
+        "difficulty": "easy",
+        "domains": [
+            "gdeposylka.ru"
+        ]
+    },
+
+    {
         "name": "Gearbest",
         "url": "https://wap-support.gearbest.com/ticket/ticket/ticket-add",
         "difficulty": "hard",
@@ -8012,6 +8021,16 @@
             "shopping.gmx.net",
             "suche.gmx.net",
             "vorteile.gmx.net"
+        ]
+    },
+
+    {
+        "name": "GNC",
+        "url": "https://www.gnc.com/help/contact-us.html#chat",
+        "difficulty": "hard",
+        "notes": "Open a live chat ⮕ Ask for agent ⮕ Request account deletion. Put a random phone number if you need to. It will take 7-10 days for it to be processed.",
+        "domains": [
+            "gnc.com"
         ]
     },
 
@@ -10941,6 +10960,21 @@
         "notes_pt_br": "Clique na roda dentada no canto superior esquerdo ⮕ Em Segurança da Conta ⮕ \"Deletar minha conta\" no rodapé ⮕ Selecione o motivo e clique no botão \"Excluir Minha Conta\". A exclusão em definitivo acontecerá em 72 horas. Além disso, sua conta pode ser removida caso você não a use por 6 meses.",
         "domains": [
             "kwai.com"
+        ]
+    },
+
+    {
+        "name": "Kyun!",
+        "url": "https://kyun.host/dashboard",
+        "difficulty": "easy",
+        "notes": "In the 'Disaster Zone' field, click on the 'Nuke account' button.",
+        "domains": [
+            "kyun.host",
+            "kyun.li",
+            "kyun.network",
+            "blog.kyun.host",
+            "files.kyun.host",
+            "status.kyun.host"
         ]
     },
 
@@ -19900,6 +19934,16 @@
         "notes": "Click on the link and ask the staff to delete your account",
         "domains": [
             "trademe.co.nz"
+        ]
+    },
+
+    {
+        "name": "Trading 212",
+        "url": "https://app.trading212.com",
+        "difficulty": "easy",
+        "notes": "Go to Settings ⮕ My Account ⮕ Account Details then click 'Close Account'",
+        "domains": [
+            "app.trading212.com"
         ]
     },
 
