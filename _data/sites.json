@@ -14793,6 +14793,17 @@
     },
 
     {
+        "name": "PaperNodes",
+        "url": "https://papernodes.com",
+        "difficulty": "easy",
+        "notes": "Hover over 'More Pages' then click on 'login' ⮕'account settings' and scroll down to see 'Delete my account' and press it. After confirming your password, all the data asociated to your account will be deleted in 48 hours.",
+        "domains": [
+            "papernodes.com",
+            "billing.papernodes.com"
+        ]
+    },
+
+    {
         "name": "Paradox Plaza",
         "url": "https://support.paradoxplaza.com/hc/en-us/requests/new?ticket_form_id=360000086974",
         "difficulty": "hard",
@@ -14933,17 +14944,6 @@
         "domains": [
             "payoneer.com",
             "payoneer.custhelp.com"
-        ]
-    },
-
-    {
-        "name": "PaperNodes",
-        "url": "https://papernodes.com",
-        "difficulty": "easy",
-        "notes": "Hover over 'More Pages' then click on 'login' ⮕'account settings' and scroll down to see 'Delete my account' and press it. After confirming your password, all the data asociated to your account will be deleted in 48 hours.",
-        "domains": [
-            "papernodes.com",
-            "billing.papernodes.com"
         ]
     },
 
