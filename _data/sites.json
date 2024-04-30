@@ -14937,16 +14937,6 @@
     },
 
     {
-        "name": "PayPal",
-        "url": "https://www.paypal.com/myaccount/privacy/data/deletion",
-        "difficulty": "medium",
-        "notes": "You must resolve any account limitations and outstanding payments or balance before closing.",
-        "domains": [
-            "paypal.com"
-        ]
-    },
-
-    {
         "name": "PaperNodes",
         "url": "https://papernodes.com",
         "difficulty": "easy",
@@ -14954,6 +14944,16 @@
         "domains": [
             "papernodes.com",
             "billing.papernodes.com"
+        ]
+    },
+
+    {
+        "name": "PayPal",
+        "url": "https://www.paypal.com/myaccount/privacy/data/deletion",
+        "difficulty": "medium",
+        "notes": "You must resolve any account limitations and outstanding payments or balance before closing.",
+        "domains": [
+            "paypal.com"
         ]
     },
 
