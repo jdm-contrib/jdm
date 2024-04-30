@@ -7623,6 +7623,15 @@
     },
 
     {
+        "name": "Gdeposylka",
+        "url": "https://gdeposylka.ru/auth/remove",
+        "difficulty": "easy",
+        "domains": [
+            "gdeposylka.ru"
+        ]
+    },
+
+    {
         "name": "Gearbest",
         "url": "https://wap-support.gearbest.com/ticket/ticket/ticket-add",
         "difficulty": "hard",
