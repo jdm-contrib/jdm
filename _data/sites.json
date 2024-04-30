@@ -7412,9 +7412,9 @@
 
     {
         "name": "galaxy",
-        "url": "https://galaxy.click",
-        "difficulty": "hard",
-        "notes": "Send an email to them requesting for your account's deletion.",
+        "url": "https://galaxy.click/settings#danger",
+        "difficulty": "medium",
+        "notes": "Navigate to the \"delete your account\" section of the \"danger zone\" in your account settings and follow the instructions. If you have published any games, you must delete them before you can proceed with account deletion. Games can be deleted within their edit page.",
         "email": "privacy@galaxy.click",
         "domains": [
             "galaxy.click"
