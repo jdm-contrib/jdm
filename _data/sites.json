@@ -10964,6 +10964,21 @@
     },
 
     {
+        "name": "Kyun!",
+        "url": "https://kyun.host/dashboard",
+        "difficulty": "easy",
+        "notes": "In the 'Disaster Zone' field, click on the 'Nuke account' button.",
+        "domains": [
+            "kyun.host",
+            "kyun.li",
+            "kyun.network",
+            "blog.kyun.host",
+            "files.kyun.host",
+            "status.kyun.host"
+        ]
+    },
+
+    {
         "name": "Lampyre",
         "url": "https://lampyre.io/",
         "difficulty": "easy",
