@@ -1215,6 +1215,16 @@
             "animalcrossingcommunity.com"
         ]
     },
+    
+    {
+        "name": "Anime News Network",
+        "url": "https://www.animenewsnetwork.com/account/edit",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click the button, click the confirmation url that sent via email.",
+        "domains":[
+            "animenewsnetwork.com"
+        ]
+    },
 
     {
         "name": "Anime-Planet",
