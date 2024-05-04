@@ -1217,6 +1217,16 @@
     },
 
     {
+        "name": "Anime News Network",
+        "url": "https://www.animenewsnetwork.com/account/edit",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click the delete button, click the confirmation url that sent via email.",
+        "domains":[
+            "animenewsnetwork.com"
+        ]
+    },
+
+    {
         "name": "Anime-Planet",
         "url": "https://www.anime-planet.com/users/delete_account.php",
         "difficulty": "easy",
