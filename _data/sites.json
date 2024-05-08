@@ -18947,6 +18947,16 @@
     },
 
     {
+        "name": "Super Tux Kart",
+        "url": "https://online.supertuxkart.net/users.php",
+        "difficulty": "easy",
+        "notes": "Enter your passwords in the account deletion page.",
+        "domains": [
+            "supertuxkart.net"
+        ]
+    },
+
+    {
         "name": "Supercell ID",
         "url": "https://help.supercellsupport.com/clash-of-clans/en/articles/gdpr-request-deletion-of-your-personal-data.html",
         "difficulty": "impossible",
