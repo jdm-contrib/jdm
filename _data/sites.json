@@ -10577,7 +10577,6 @@
         "name": "KanbanFlow",
         "url": "https://kanbanflow.com/settings/delete-account",
         "difficulty": "easy",
-        "notes": "Direct link to delete account.",
         "domains": [
             "kanbanflow.com"
         ]
