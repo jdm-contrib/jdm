@@ -10574,6 +10574,15 @@
     },
 
     {
+        "name": "KanbanFlow",
+        "url": "https://kanbanflow.com/settings/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "kanbanflow.com"
+        ]
+    },
+
+    {
         "name": "Kanji Koohii",
         "url": "https://kanji.koohii.com/account/delete",
         "difficulty": "easy",
