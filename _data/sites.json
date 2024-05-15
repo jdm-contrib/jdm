@@ -12789,6 +12789,16 @@
     },
 
     {
+        "name": "Minehut",
+        "url": "https://app.minehut.com/support/form",
+        "difficulty": "hard",
+        "notes": "The only way to contact them is at https://app.minehut.com/support/form and https://support.minehut.com/hc/en-us/requests/new.",
+        "domains": [
+            "minehut.com"
+        ]
+    },
+
+    {
         "name": "Miniclip",
         "url": "https://me.miniclip.com/account/delete",
         "difficulty": "easy",
