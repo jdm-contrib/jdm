@@ -12794,7 +12794,9 @@
         "difficulty": "hard",
         "notes": "The only way to contact them is at https://app.minehut.com/support/form and https://support.minehut.com/hc/en-us/requests/new.",
         "domains": [
-            "minehut.com"
+            "minehut.com",
+            "app.minehut.com",
+            "support.minehut.com"
         ]
     },
 
