@@ -4359,6 +4359,16 @@
     },
 
     {
+        "name": "Cronometer",
+        "url": "https://support.cronometer.com/hc/en-us/articles/360018760151-Account-Settings#h_440005960211545174984655",
+        "difficulty": "easy",
+        "notes": "Login ⮕ More ⮕ Account ⮕ Delete Account",
+        "domains": [
+            "cronometer.com"
+        ]
+    },
+
+    {
         "name": "Crowdcast.io",
         "url": "https://crowdcast.notion.site/Deleting-Your-Crowdcast-Account-952b7f9ff09648f7960e7d9ecfb6a1b4",
         "difficulty": "impossible",
