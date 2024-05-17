@@ -6631,6 +6631,20 @@
     },
 
     {
+        "name": "Featurebase",
+        "url": "https://help.featurebase.app/en/articles/8033192-how-to-delete-my-featurebase-account-organization-and-data",
+        "difficulty": "easy",
+        "domains": [
+            "featurebase.app",
+            "auth.featurebase.app",
+            "developers.featurebase.app",
+            "docs.featurebase.app",
+            "help.featurebase.app",
+            "status.featurebase.app"
+        ]
+    },
+
+    {
         "name": "FedEx",
         "url": "https://privacyportal.onetrust.com/webform/8a471a7b-6a52-49d0-bcb0-fa8bdb61598f/c121cce6-6cfb-4c3d-9b61-334f56a01b5f",
         "difficulty": "hard",
