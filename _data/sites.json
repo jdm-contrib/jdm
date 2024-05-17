@@ -4284,6 +4284,16 @@
     },
 
     {
+        "name": "Cracker Barrel",
+        "url": "http://www.crackerbarrel.com/privacy",
+        "difficulty": "hard",
+        "notes": "Visit their Privacy Policy website ⮕ Section E, number 9, PRIVACY PORTAL link ⮕ Click URL ⮕ Fill out form (includes filling out personal info) ⮕ Verify your email ⮕ Wait for a response",
+        "domains": [
+            "crackerbarrel.com"
+        ]
+    },
+
+    {
         "name": "Craigslist",
         "url": "https://www.craigslist.org/about/help/user_accounts",
         "difficulty": "hard",
