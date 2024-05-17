@@ -3012,6 +3012,16 @@
     },
 
     {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/account/removal",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Account Details ⮕ Settings ⮕ Account Removal ⮕ Delete account",
+        "domains": [
+            "builtbybit.com"
+        ]
+    },
+
+    {
         "name": "Bukalapak",
         "url": "https://www.bukalapak.com",
         "difficulty": "medium",
