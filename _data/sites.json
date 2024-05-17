@@ -3012,6 +3012,16 @@
     },
 
     {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/account/removal",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Account Details ⮕ Settings ⮕ Account Removal ⮕ Delete account",
+        "domains": [
+            "builtbybit.com"
+        ]
+    },
+
+    {
         "name": "Bukalapak",
         "url": "https://www.bukalapak.com",
         "difficulty": "medium",
@@ -3636,6 +3646,16 @@
         "difficulty": "easy",
         "domains": [
             "chesspuzzle.net"
+        ]
+    },
+
+    {
+        "name": "Chewy",
+        "url": "https://www.chewy.com/app/account/privacy",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Account ⮕ Settings ⮕ Privacy Preferences ⮕ Continue to Delete",
+        "domains": [
+            "chewy.com"
         ]
     },
 
@@ -4284,6 +4304,16 @@
     },
 
     {
+        "name": "Cracker Barrel",
+        "url": "http://www.crackerbarrel.com/privacy",
+        "difficulty": "hard",
+        "notes": "Visit their Privacy Policy website ⮕ Section E, number 9, PRIVACY PORTAL link ⮕ Click URL ⮕ Fill out form (includes filling out personal info) ⮕ Verify your email ⮕ Wait for a response",
+        "domains": [
+            "crackerbarrel.com"
+        ]
+    },
+
+    {
         "name": "Craigslist",
         "url": "https://www.craigslist.org/about/help/user_accounts",
         "difficulty": "hard",
@@ -4355,6 +4385,16 @@
         "difficulty": "easy",
         "domains": [
             "crevado.com"
+        ]
+    },
+
+    {
+        "name": "Cronometer",
+        "url": "https://support.cronometer.com/hc/en-us/articles/360018760151-Account-Settings#h_440005960211545174984655",
+        "difficulty": "easy",
+        "notes": "Login ⮕ More ⮕ Account ⮕ Delete Account",
+        "domains": [
+            "cronometer.com"
         ]
     },
 
@@ -6627,6 +6667,20 @@
         "email": "DPO@FDMGroup.com",
         "domains": [
             "fdmgroup.com"
+        ]
+    },
+
+    {
+        "name": "Featurebase",
+        "url": "https://help.featurebase.app/en/articles/8033192-how-to-delete-my-featurebase-account-organization-and-data",
+        "difficulty": "easy",
+        "domains": [
+            "featurebase.app",
+            "auth.featurebase.app",
+            "developers.featurebase.app",
+            "docs.featurebase.app",
+            "help.featurebase.app",
+            "status.featurebase.app"
         ]
     },
 
@@ -15372,6 +15426,16 @@
         "notes_ru": "В настройках учетной записи нажмите «Удалить учетную запись», выберите причину и нажмите «Далее», затем «отправить электронную почту». Вам нужно будет проверить электронную почту и подтвердить удаление.",
         "domains": [
             "pinterest.com"
+        ]
+    },
+
+    {
+        "name": "Pionex",
+        "url": "https://www.pionex.com/en/my-account/security",
+        "difficulty": "easy",
+        "notes": "Inside your account (at the top), within the user space go to the 'Security' option, scroll to the bottom where you will find the 'Account Management' option. Under it, there is a 'Delete Account' button.",
+        "domains": [
+            "pionex.com"
         ]
     },
 
