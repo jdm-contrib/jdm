@@ -15376,6 +15376,16 @@
     },
 
     {
+        "name": "Pionex",
+        "url": "https://www.pionex.com/en/my-account/security",
+        "difficulty": "easy",
+        "notes": "Inside your account (at the top), within the user space go to the 'Security' option, scroll to the bottom where you will find the 'Account Management' option. Under it, there is a 'Delete Account' button.",
+        "domains": [
+            "pionex.com"
+        ]
+    },
+
+    {
         "name": "Pivot Interactives",
         "url": "https://www.pivotinteractives.com",
         "email": "info@pivotinteractives.com",
