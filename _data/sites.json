@@ -3640,6 +3640,16 @@
     },
 
     {
+        "name": "Chewy",
+        "url": "https://www.chewy.com/app/account/privacy",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Account ⮕ Settings ⮕ Privacy Preferences ⮕ Continue to Delete",
+        "domains": [
+            "chewy.com"
+        ]
+    },
+
+    {
         "name": "Chick-fil-A",
         "url": "https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55",
         "difficulty": "hard",
