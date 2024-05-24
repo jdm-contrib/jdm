@@ -21221,6 +21221,16 @@
     },
 
     {
+        "name": "Vox Media",
+        "url": "https://www.voxmedia.com/contact",
+        "difficulty": "hard",
+        "notes": "Account can only be deleted by a contact form.",
+        "domains": [
+            "voxmedia.com"
+        ]
+    },
+
+    {
         "name": "Voxer",
         "url": "https://support.voxer.com/hc/en-us/articles/204330173-How-do-I-delete-my-Voxer-account-",
         "difficulty": "medium",
@@ -21229,16 +21239,6 @@
         "domains": [
             "voxer.com",
             "support.voxer.com"
-        ]
-    },
-
-    {
-        "name": "Vox Media",
-        "url": "https://www.voxmedia.com/contact",
-        "difficulty": "hard",
-        "notes": "Account can only be deleted by a contact form.",
-        "domains": [
-            "voxmedia.com"
         ]
     },
 
