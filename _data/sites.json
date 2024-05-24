@@ -21233,6 +21233,16 @@
     },
 
     {
+        "name": "Vox Media",
+        "url": "https://www.voxmedia.com/contact",
+        "difficulty": "hard",
+        "notes": "Account can only be deleted by a contact form.",
+        "domains": [
+            "voxmedia.com"
+        ]
+    },
+
+    {
         "name": "Vrbo",
         "url": "https://help.vrbo.com/articles/How-do-I-delete-my-account",
         "difficulty": "hard",
