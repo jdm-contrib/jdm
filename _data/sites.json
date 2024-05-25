@@ -9585,6 +9585,19 @@
     },
 
     {
+        "name": "Hype",
+        "url": "https://support.hype.it/hc/it/articles/360003556214-Come-chiudere-il-conto",
+        "difficulty": "medium",
+        "notes": "First of all, you must meet the requirements written in the linked page. From the app, click on the profile icon, then go to settings, click on the button to close the account and follow the instructions.",
+        "notes_it": "Innanzitutto, devi soddisfare i requisiti scritti nella pagina collegata. Dall'applicazione, clicca sull'icona del profilo, quindi vai sulle impostazioni, clicca sul pulsante per chiudere l'account e segui le istruzioni.",
+        "domains": [
+            "hype.it",
+            "signup.hype.it",
+            "support.hype.it"
+        ]
+    },
+
+    {
         "name": "Hype Machine",
         "url": "http://hypem.com/remove_account",
         "difficulty": "easy",
