@@ -19712,7 +19712,8 @@
         "difficulty": "easy",
         "notes": "In the app go to your profile, click on the right top corner and go to \"Account ⮕ Deactivate or delete profile ⮕ Delete profile\"",
         "domains": [
-            "threads.net"
+            "threads.net",
+            "www.threads.net"
         ]
     },
 
