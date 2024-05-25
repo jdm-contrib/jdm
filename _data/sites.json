@@ -19721,10 +19721,9 @@
 
     {
         "name": "Threads",
-        "url": "https://www.instagram.com/accounts/remove/request/permanent/",
-        "difficulty": "impossible",
-        "notes": "You must submit a request to close your INSTAGRAM account via form.",
-        "notes_es": "Deberás solicitar que borren tu cuenta de INSTAGRAM vía formulario.",
+        "url": "https://www.threads.net/settings/account",
+        "difficulty": "easy",
+        "notes": "In the app go to your profile, click on the right top corner and go to \"Account ⮕ Deactivate or delete profile ⮕ Delete profile\"",
         "domains": [
             "threads.net"
         ]
