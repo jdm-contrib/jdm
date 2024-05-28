@@ -17338,6 +17338,16 @@
     },
 
     {
+        "name": "scite_",
+        "url": "https://scite.ai/policy#your-privacy-choices",
+        "difficulty": "hard",
+        "email": "hi@scite.ai",
+        "domains": [
+            "scite.ai"
+        ]
+    },
+
+    {
         "name": "Score",
         "url": "https://getscore.app",
         "difficulty": "hard",
