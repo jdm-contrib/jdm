@@ -15249,11 +15249,9 @@
 
     {
         "name": "Perplexity",
-        "url": "https://www.perplexity.ai/privacy",
-        "difficulty": "hard",
-        "notes": "According to their privacy policy, you must send an e-mail requesting account deletion.",
-        "notes_pt_br": "De acordo com a política de privacidade, é preciso enviar um e-mail pedindo a remoção da conta.",
-        "email": "support@perplexity.ai",
+        "url": "https://www.perplexity.ai/settings/account",
+        "difficulty": "easy",
+        "notes": " In the \"System\" field, select \"Delete Account\" and confirm the action. All data will be permanently deleted 30 days after the account is deleted.",
         "domains": [
             "perplexity.ai"
         ]
