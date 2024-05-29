@@ -4172,6 +4172,15 @@
     },
 
     {
+        "name": "commiss.io",
+        "url": "https://commiss.io/",
+        "difficulty": "impossible",
+        "domains": [
+            "commiss.io"
+        ]
+    },
+
+    {
         "name": "Commun",
         "url": "https://commun.it/content/cancel_account",
         "difficulty": "easy",
