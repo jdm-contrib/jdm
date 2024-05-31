@@ -19611,6 +19611,20 @@
     },
 
     {
+        "name": "Terraform Cloud",
+        "url": "https://support.hashicorp.com/hc/en-us/articles/1500002617421-Deleting-Terraform-Cloud-Accounts",
+        "difficulty": "hard",
+        "notes": "You must contact customer support through email. The email must include the email address of the account as well as the account's organization.",
+        "notes_de": "Die Löschung muss über den Kundensupport per E-Mail angefordert werden. In der E-Mail muss die E-Mail-Adresse des Accounts sowie dessen Organisation genannt werden.",
+        "email": "tf-cloud@hashicorp.support",
+        "domains": [
+            "terraform.io",
+            "terraform.com",
+            "support.terraform.com"
+        ]
+    },
+
+    {
         "name": "Tesla",
         "url": "https://www.tesla.com/support/how-create-or-delete-tesla-account#deleting-your-tesla-account",
         "notes": "Open the Tesla app, tap the profile picture in the top-right corner ⮕ ‘Account' ⮕ ‘Security and Privacy' and finally ‘Delete Account’.",
