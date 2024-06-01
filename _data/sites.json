@@ -13648,6 +13648,16 @@
     },
 
     {
+        "name": "Natural Readers",
+        "url": "https://www.naturalreaders.com/",
+        "difficulty": "easy",
+        "notes": "Login first, then on the left menu click 'account' then 'edit' under your email address. A popup will appear where you can delete your account.",
+        "domains": [
+            "naturalreaders.com"
+        ]
+    },
+
+    {
         "name": "NAVER",
         "url": "https://nid.naver.com/user2/help/leaveId?menu=nid",
         "difficulty": "medium",
