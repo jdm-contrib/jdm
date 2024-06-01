@@ -6876,6 +6876,16 @@
     },
 
     {
+        "name": "Fixer.io",
+        "url": "https://fixer.io/account",
+        "difficulty": "easy",
+        "notes": "Go to your account page, click 'delete account' at the bottom.",
+        "domains": [
+            "fixer.io"
+        ]
+    },
+
+    {
         "name": "Flat",
         "url": "https://flat.io/settings/account/profile",
         "difficulty": "easy",
