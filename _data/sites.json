@@ -10748,6 +10748,16 @@
     },
 
     {
+        "name": "KBin",
+        "url": "https://kbin.social/settings/general",
+        "difficulty": "easy",
+        "notes": "You can go to the account page, scroll to the bottom and click the account deletion request button. It can take some time for the account to be deleted.",
+        "domains": [
+            "kbin.social"
+        ]
+    },
+
+    {
         "name": "KDE Bugtracking System",
         "url": "https://bugs.kde.org",
         "difficulty": "hard",
