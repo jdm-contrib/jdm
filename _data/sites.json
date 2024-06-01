@@ -6876,6 +6876,16 @@
     },
 
     {
+        "name": "Fixer.io",
+        "url": "https://fixer.io/account",
+        "difficulty": "easy",
+        "notes": "Go to your account page, click 'delete account' at the bottom.",
+        "domains": [
+            "fixer.io"
+        ]
+    },
+
+    {
         "name": "Flat",
         "url": "https://flat.io/settings/account/profile",
         "difficulty": "easy",
@@ -10748,6 +10758,16 @@
     },
 
     {
+        "name": "KBin",
+        "url": "https://kbin.social/settings/general",
+        "difficulty": "easy",
+        "notes": "You can go to the account page, scroll to the bottom and click the account deletion request button. It can take some time for the account to be deleted.",
+        "domains": [
+            "kbin.social"
+        ]
+    },
+
+    {
         "name": "KDE Bugtracking System",
         "url": "https://bugs.kde.org",
         "difficulty": "hard",
@@ -13634,6 +13654,16 @@
         "domains": [
             "native-instruments.com",
             "support.native-instruments.com"
+        ]
+    },
+
+    {
+        "name": "Natural Readers",
+        "url": "https://www.naturalreaders.com/",
+        "difficulty": "easy",
+        "notes": "Login first, then on the left menu click 'account' then 'edit' under your email address. A popup will appear where you can delete your account.",
+        "domains": [
+            "naturalreaders.com"
         ]
     },
 
