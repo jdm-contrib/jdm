@@ -22649,8 +22649,8 @@
 
     {
         "name": "You.com",
-        "url": "https://about.you.com/hc/faq/how-do-i-delete-my-profile/",
-        "difficulty": "hard",
+        "url": "https://you.com/profile",
+        "difficulty": "easy",
         "email": "legal@you.com",
         "domains": [
             "you.com",
