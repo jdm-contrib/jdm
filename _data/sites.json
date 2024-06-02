@@ -7223,6 +7223,19 @@
     },
 
     {
+        "name": "FREAKHOSTING",
+        "url": "https://freakhosting.com/clientarea/clientarea.php",
+        "difficulty": "medium",
+        "notes": "Create a ticket to the Billing department and request your account to be deleted.",
+        "domains": [
+            "freakhosting.com",
+            "games.freakhosting.com",
+            "cloud.freakhosting.com",
+            "web.freakhosting.com"
+        ]
+    },
+
+    {
         "name": "FreeBitco.In",
         "url": "https://freebitco.in",
         "difficulty": "impossible",
