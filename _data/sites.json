@@ -231,6 +231,16 @@
     },
 
     {
+        "name": "99app",
+        "url": "https://99app.com/ajuda/passageiro/como-excluir-minha-conta/",
+        "difficulty": "hard",
+        "notes_pt_br": "Necessário ser via app: Configurações ⮕ Privacidade ⮕ Excluir Minha Conta. Não deve ter nenhuma chave pix associada ou valor na sua carteira 99pay.",
+        "domains": [
+            "99app.com"
+        ]
+    },
+
+    {
         "name": "99designs",
         "url": "https://support.99designs.com/hc/en-us/articles/204108919-How-do-I-delete-my-account-",
         "difficulty": "hard",
