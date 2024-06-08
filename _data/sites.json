@@ -234,6 +234,7 @@
         "name": "99app",
         "url": "https://99app.com/ajuda/passageiro/como-excluir-minha-conta/",
         "difficulty": "medium",
+        "notes": "This must be done via the app: Settings ⮕ Privacy ⮕ Delete My Account. You must not have any associated pix key or value in your 99pay wallet.",
         "notes_pt_br": "Necessário ser via app: Configurações ⮕ Privacidade ⮕ Excluir Minha Conta. Não deve ter nenhuma chave pix associada ou valor na sua carteira 99pay.",
         "domains": [
             "99app.com"
