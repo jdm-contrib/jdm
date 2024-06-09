@@ -21840,6 +21840,16 @@
     },
 
     {
+        "name": "Whimsical",
+        "url": "https://whimsical.com/account",
+        "difficulty": "easy",
+        "notes": "You will need to enter your e-mail address and then confirm by re-authenticating.",
+        "domains": [
+            "whimsical.com"
+        ]
+    },
+
+    {
         "name": "Whirlpool",
         "url": "http://whirlpool.net.au/wiki/wp_deleteaccount",
         "difficulty": "impossible",
