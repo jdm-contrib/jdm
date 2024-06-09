@@ -21873,13 +21873,13 @@
             "whosay.com"
         ]
     },
-    
+
     {
         "name": "Wifi Map",
         "url": "https://www.wifimap.io/accountDeleting",
         "difficulty": "easy",
         "notes": "Follow the link, log in, choose a reason (optional), then click on Delete account.",
-        "notes_de": "Folg dem Link, wähl einen Grund (optional) und klick dann auf Konto löschen.", 
+        "notes_de": "Folg dem Link, wähl einen Grund (optional) und klick dann auf Konto löschen.",
         "domains": [
             "wifimap.io"
         ]
