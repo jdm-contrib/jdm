@@ -14898,6 +14898,17 @@
     },
 
     {
+        "name": "Oùra - Auvergne-Rhône-Alpes",
+        "url": "https://oura.com/contact-et-reclamation",
+        "difficulty": "hard",
+        "notes": "You have to send a request via the contact page with your account information. You will recieve an email a few days after asking for your birth date to prove it's your account. Give them and they will delete your account a few days later.",
+        "notes_fr": "Vous devrz envoyer une requète via la page de contact avec les informations de votre compte. Vous recevrez un email quelques jours après demandant votre date de naissance pour prouver que c'est bien votre compte. Donnez leur et ils supprimeront votre compte peu de temps après.",
+        "domains": [
+            "oura.com"
+        ]
+    },
+
+    {
         "name": "Packagist",
         "url": "https://packagist.org/profile/",
         "difficulty": "easy",
