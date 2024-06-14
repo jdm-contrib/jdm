@@ -17306,6 +17306,16 @@
     },
 
     {
+        "name": "SamyGO Forum",
+        "url": "https://forum.samygo.tv/memberlist.php?mode=contactadmin",
+        "difficulty": "impossible",
+        "notes": "The only way is to send a request but no one responds.",
+        "domains": [
+            "forum.samygo.tv"
+        ]
+    },
+
+    {
         "name": "Satispay",
         "url": "https://disattivazione-account-satispay.paperform.co/",
         "difficulty": "medium",
