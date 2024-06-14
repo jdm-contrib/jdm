@@ -19985,7 +19985,17 @@
             "tituskirch.de"
         ]
     },
-
+ 
+    {
+        "name": "TLauncher",
+        "url": "https://tlauncher.org/en/how-remove-tl-account.html",
+        "difficulty": "impossible",
+        "notes": "They say they are working on it but planned to support it in March 2023. Sending an email leads to nothing",
+        "domains": [
+            "tlauncher.org"
+        ]
+    },
+    
     {
         "name": "Todo Cloud",
         "url": "https://support.appigo.com/support/solutions/articles/4000180942-how-to-delete-my-todo-cloud-account",
