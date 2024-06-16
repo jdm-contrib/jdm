@@ -7057,6 +7057,17 @@
     },
 
     {
+        "name": "FlokiNET",
+        "url": "https://flokinet.is/privacy",
+        "difficulty": "hard",
+        "email": "info@flokinet.is",
+        "domains": [
+            "flokinet.is",
+            "billing.flokinet.is"
+        ]
+    },
+
+    {
         "name": "Floor Plan Creator",
         "url": "https://floorplancreator.net/account/",
         "difficulty": "easy",
