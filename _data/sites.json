@@ -17562,6 +17562,16 @@
     },
 
     {
+        "name": "Seedbox",
+        "url": "https://wiki.seedbox.fr/index.php/Comment_R%C3%A9silier_son_abonnement",
+        "difficulty": "easy",
+        "notes": "There are two ways of cancelling your pack, depending on how you ordered your services: **Without automatic payment:** Simply ignore the reminders and the pack will be automatically deleted from our servers. **With automatic payment:** It is imperative to cancel the automatic payment before the renewal of your service, no refund will be made. Log in to your PayPal account, click on Preferences at the top of the page, click on \"My money\", then on \"Update\" next to \"My pre-approved payments\". Select the payment, then click Cancel, now all you have to do is ignore the renewal calls issued by the system and your pack will be deleted automatically when it expires.",
+        "domains": [
+            "seedbox.fr"
+        ]
+    },
+
+    {
         "name": "Sega",
         "url": "https://privacy.sega.com/en/your-rights",
         "difficulty": "hard",
