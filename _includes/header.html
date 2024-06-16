@@ -10,11 +10,11 @@
     <meta name="title" content="JustDeleteMe">
     <meta name="description" content="{{ site.data.trans.[page.lang].tagline }}">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="{{ site.baseurl }}">
+    <meta property="og:url" content="https://justdeleteme.xyz/">
     <meta property="og:title" content="JustDeleteMe">
     <meta property="og:description" content="{{ site.data.trans.[page.lang].tagline }}">
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="{{ site.baseurl }}">
+    <meta property="twitter:url" content="https://justdeleteme.xyz/">
     <meta property="twitter:title" content="JustDeleteMe">
     <meta property="twitter:description" content="{{ site.data.trans.[page.lang].tagline }}">
 
@@ -55,7 +55,7 @@
 
         <a class="button" href="https://github.com/jdm-contrib/jdm">{{ site.data.trans[page.lang].contribute }}</a>
 
-        <a class="button" href="https://twitter.com/intent/tweet?text={{ site.data.trans[page.lang].title | replace: ' ', '+' }}+https%3A%2F%2Fjustdeleteme.xyz">{{ site.data.trans.[page.lang].twitter }}</a>
+        <a class="button" href="https://twitter.com/intent/tweet?text={{ site.data.trans[page.lang].title | replace: ' ', '+' | replace: '|', '-'}}+https%3A%2F%2Fjustdeleteme.xyz">{{ site.data.trans.[page.lang].twitter }}</a>
 
         <a class="button jgmd" href="https://justgetmydata.com{%if page.lang != 'en'%}/{{page.lang}}{% endif %} "> {{site.data.trans[page.lang].jgmd }}</a>
     </p>

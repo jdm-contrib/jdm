@@ -9,6 +9,7 @@ mapfile -t editorconfigargs < <(
         -type 'f' \
         ! -name '*.png' \
         ! -name '*.ico' \
+        ! -name 'CNAME' \
         ! -name 'LICENSE' \
         ! -name 'Gemfile.lock' \
         ! -path './assets/*/libs/*' \

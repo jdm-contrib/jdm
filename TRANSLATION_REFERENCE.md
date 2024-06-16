@@ -11,6 +11,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `extension_browser`: Button that takes to the Chrome/Firefox browser extensions
 - `contribute`: Button to go to the GitHub repository
 - `twitter`: Button to tweet about JDM
+- `jgmd`: Invitation to visit the sibling website "Just Get My Data"
 
 ## Body
 
