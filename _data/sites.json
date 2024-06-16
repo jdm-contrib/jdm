@@ -17308,11 +17308,21 @@
     {
         "name": "Sapinet",
         "url": "https://my.sapinet.fr/submitticket.php",
-        "difficulty": "limited",
+        "difficulty": "impossible",
         "notes": "Send a support request, they will delete your \"account\" you will still be able to login and your ability to send support request will be removed. The website will tell you \"no account found, to make a mew one you have to make a new order.\". Your name and email address will not be deleted.",
         "notes_fr": "Envoyez une requète au support, ils vont supprimer votre \"compte\" mais vous pourrez toujours vous connecter et vous ne pourrez plus envoyer de requète au support. Le site web vous dira \"Aucun compte trouvé, Pour créer un nouveau compte, vous devrez passer une nouvelle commande.\". Votre nom et adresse e-mail ne seront pas supprimé.s",
         "domains": [
             "sapinet.fr"
+        ]
+    },
+
+    {
+        "name": "SamyGO Forum",
+        "url": "https://forum.samygo.tv/memberlist.php?mode=contactadmin",
+        "difficulty": "impossible",
+        "notes": "The only way is to send a request but no one responds.",
+        "domains": [
+            "forum.samygo.tv"
         ]
     },
 
@@ -19994,6 +20004,16 @@
             "tkirch.dev",
             "tkirch.de",
             "tituskirch.de"
+        ]
+    },
+
+    {
+        "name": "TLauncher",
+        "url": "https://tlauncher.org/en/how-remove-tl-account.html",
+        "difficulty": "impossible",
+        "notes": "They say they are working on it but planned to support it in March 2023. Sending an email leads to nothing",
+        "domains": [
+            "tlauncher.org"
         ]
     },
 
