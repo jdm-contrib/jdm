@@ -2639,6 +2639,19 @@
     },
 
     {
+        "name": "Buddy UniCredit",
+        "url": "https://www.buddyunicredit.it",
+        "notes": "From the app, contact the support chat and request to close your account, then follow the procedure.",
+        "notes_it": "Dall'applicazione, contatta la chat di supporto e richiedi la chiusura del tuo conto, quindi segui la procedura.",
+        "difficulty": "hard",
+        "domains": [
+            "buddyunicredit.it",
+            "buddy.unicredit.it",
+            "openaccount.unicredit.it"
+        ]
+    },
+
+    {
         "name": "Buffer",
         "url": "https://bufferapp.com/app/account/leave",
         "difficulty": "easy",
