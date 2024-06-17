@@ -7057,6 +7057,17 @@
     },
 
     {
+        "name": "FlokiNET",
+        "url": "https://flokinet.is/privacy",
+        "difficulty": "hard",
+        "email": "info@flokinet.is",
+        "domains": [
+            "flokinet.is",
+            "billing.flokinet.is"
+        ]
+    },
+
+    {
         "name": "Floor Plan Creator",
         "url": "https://floorplancreator.net/account/",
         "difficulty": "easy",
@@ -17537,6 +17548,16 @@
         "notes": "You can only request account deletion by sending an email. \"Upon your request, we will deactivate and delete your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, email contact@sedo.com. Your account will be deactivated and deleted as soon as reasonably possible after we receive your request but no later than 30 days.\"",
         "domains": [
             "sedo.com"
+        ]
+    },
+
+    {
+        "name": "Seedbox",
+        "url": "https://wiki.seedbox.fr/index.php/Comment_R%C3%A9silier_son_abonnement",
+        "difficulty": "easy",
+        "notes": "There are two ways of cancelling your pack, depending on how you ordered your services: **Without automatic payment:** Simply ignore the reminders and the pack will be automatically deleted from our servers. **With automatic payment:** It is imperative to cancel the automatic payment before the renewal of your service, no refund will be made. Log in to your PayPal account, click on Preferences at the top of the page, click on \"My money\", then on \"Update\" next to \"My pre-approved payments\". Select the payment, then click Cancel, now all you have to do is ignore the renewal calls issued by the system and your pack will be deleted automatically when it expires.",
+        "domains": [
+            "seedbox.fr"
         ]
     },
 
