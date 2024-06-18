@@ -11222,6 +11222,18 @@
     },
 
     {
+        "name": "L'identité Numérique La Poste",
+        "url": "https://aide.lidentitenumerique.laposte.fr/kb/guide/fr/comment-supprimer-mon-identite-numerique-DmTz0vr4Hc/Steps/101590",
+        "notes": "On your customer page, click on the \"My Profile\" icon in the top right corner, then at the bottom on \"Suppression de votre Identité Numérique\". You will need to enter the 4 last digits of the ID card you used when registering.",
+        "notes_fr": "Sur votre espace client, cliquez sur l’icône \"Mon profil\" en haut à droite puis tout en bas sur \"Suppression de votre Identité Numérique\". Vous devrez entrer les 4 derniers chiffres de la carte d'identité utilisée lors de l'inscription.",
+        "difficulty": "medium",
+        "domains": [
+            "lidentitenumerique.laposte.fr",
+            "moncompte.laposte.fr"
+        ]
+    },
+
+    {
         "name": "Lampyre",
         "url": "https://lampyre.io/",
         "difficulty": "easy",
