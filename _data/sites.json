@@ -631,6 +631,18 @@
     },
 
     {
+        "name": "Agence nationale des titres sécurisés",
+        "url": "https://moncompte.ants.gouv.fr/mes_donn%C3%A9es#delete",
+        "difficulty": "easy",
+        "notes": "Go to your profile settings and click \"Supprimer mon compte\"",
+        "notes_fr": "Allez sur les paramètres de votre compte et cliquez sur \"Supprimer mon compte\"",
+        "domains": [
+            "ants.gouv.fr",
+            "moncompte.ants.gouv.fr"
+        ]
+    },
+
+    {
         "name": "Agoda",
         "url": "https://www.agoda.com/en-au/info/privacy.html",
         "difficulty": "hard",
