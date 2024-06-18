@@ -15729,7 +15729,7 @@
     {
         "name": "Pix",
         "url": "https://support.pix.org/en/support/tickets/new",
-        "url_fr": "https://pix.fr/support/form/particulier-fr-fr"
+        "url_fr": "https://pix.fr/support/form/particulier-fr-fr",
         "difficulty": "hard",
         "notes": "You can request that your account be deleted by making a request through our contact form",
         "notes_tr": "Pour supprimer votre compte Pix, faites-en la demande en complétant le formulaire de contact du support Pix, en renseignant le motif adéquat.",
