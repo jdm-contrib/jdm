@@ -3896,6 +3896,21 @@
     },
 
     {
+        "name": "CNIL",
+        "url": "https://www.cnil.fr/en/contact-us",
+        "url_fr": "https://www.cnil.fr/fr/saisir-la-cnil/contacter-la-cnil-standard-et-permanences-telephoniques",
+        "difficulty": "hard",
+        "notes": "You have to contact them in order to ask to delete your account.",
+        "notes_fr": "Vous devez les contacter pour demander a supprimer votre compte.",
+        "domains": [
+            "cnil.fr",
+            "services.cnil.fr",
+            "connexion.services.cnil.fr",
+            "demarche.services.cnil.fr"
+        ]
+    },
+
+    {
         "name": "CNN",
         "url": "https://www.cnn.com/account/settings",
         "difficulty": "easy",
