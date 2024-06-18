@@ -11226,18 +11226,6 @@
     },
 
     {
-        "name": "La Poste",
-        "url": "https://aide.laposte.fr/mesdonneespersonnelles/moncompte/suppression",
-        "difficulty": "hard",
-        "notes" : "Send a request on the GDPR form. Delete all other services linked to it (Digiposte, Identité Numérique, etc) before sending the request.",
-        "notes_fr" : "Envoyez une demande sur le formulaire RGPD. Supprimez les autres services associés (Digiposte, Identité Numérique, etc) avant d'envoyer la demande.",
-        "domains": [
-            "laposte.fr",
-            "moncompte.laposte.fr"
-        ]
-    },
-
-    {
         "name": "L'identité Numérique La Poste",
         "url": "https://aide.lidentitenumerique.laposte.fr/kb/guide/fr/comment-supprimer-mon-identite-numerique-DmTz0vr4Hc/Steps/101590",
         "notes": "On your customer page, click on the \"My Profile\" icon in the top right corner, then at the bottom on \"Suppression de votre Identité Numérique\". You will need to enter the 4 last digits of the ID card you used when registering.",
@@ -11245,6 +11233,18 @@
         "difficulty": "medium",
         "domains": [
             "lidentitenumerique.laposte.fr",
+            "moncompte.laposte.fr"
+        ]
+    },
+
+    {
+        "name": "La Poste",
+        "url": "https://aide.laposte.fr/mesdonneespersonnelles/moncompte/suppression",
+        "difficulty": "hard",
+        "notes" : "Send a request on the GDPR form. Delete all other services linked to it (Digiposte, Identité Numérique, etc) before sending the request.",
+        "notes_fr" : "Envoyez une demande sur le formulaire RGPD. Supprimez les autres services associés (Digiposte, Identité Numérique, etc) avant d'envoyer la demande.",
+        "domains": [
+            "laposte.fr",
             "moncompte.laposte.fr"
         ]
     },
