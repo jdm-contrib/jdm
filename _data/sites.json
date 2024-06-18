@@ -4806,6 +4806,17 @@
     },
 
     {
+        "name": "data.gouv.fr",
+        "url": "https://doc.data.gouv.fr/gestion-du-compte/supprimer-un-compte/",
+        "difficulty": "easy",
+        "notes": "On your profile page, click on the arrow next to the \"Edit\" button, in the top right of your screen, then on \"Delete my profile\"",
+        "notes_fr": "Sur la page de votre profil, cliquez sur la flèche située à côté du bouton \"Éditer\", en haut à droite de votre écran, puis sur \"Supprimer le profil\"",
+        "domains": [
+            "www.data.gouv.fr"
+        ]
+    },
+
+    {
         "name": "DataQuest",
         "url": "https://app.dataquest.io/settings/account",
         "difficulty": "easy",
