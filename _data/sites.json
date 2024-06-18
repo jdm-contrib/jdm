@@ -13168,6 +13168,18 @@
     },
 
     {
+        "name": "Mon Espace Santé",
+        "url": "https://www.monespacesante.fr/questions-frequentes/acceder-a-mon-espace-sante/14",
+        "difficulty": "easy",
+        "notes": "Login to your account, click on your profile, then on \"Paramètres\". Then click on \"Clôture du profil\"",
+        "notes_fr": "Connectez vous à l'aide de vos identifiants puis cliquez sur votre profil situé en haut à droite de l'écran puis sur \"Paramètres\". Cliquez ensuite sur \"Clôture du profil\"",
+        "domains": [
+            "www.monespacesante.fr",
+            "am.monespacesante.fr"
+        ]
+    },
+
+    {
         "name": "Money Dashboard",
         "url": "https://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
