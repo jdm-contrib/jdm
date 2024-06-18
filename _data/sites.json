@@ -11210,6 +11210,18 @@
     },
 
     {
+        "name": "La Poste",
+        "url": "https://aide.laposte.fr/mesdonneespersonnelles/moncompte/suppression",
+        "difficulty": "hard",
+        "notes" : "Send a request on the GDPR form. Delete all other services linked to it (Digiposte, Identité Numérique, etc) before sending the request.",
+        "notes_fr" : "Envoyez une demande sur le formulaire RGPD. Supprimez les autres services associés (Digiposte, Identité Numérique, etc) avant d'envoyer la demande.",
+        "domains": [
+            "laposte.fr",
+            "moncompte.laposte.fr"
+        ]
+    },
+
+    {
         "name": "Lampyre",
         "url": "https://lampyre.io/",
         "difficulty": "easy",
