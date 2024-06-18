@@ -15228,6 +15228,17 @@
     },
 
     {
+        "name": "pass Culture",
+        "url": "https://passculture.app/profil/suppression",
+        "difficulty": "easy",
+        "notes": "Go to your profile, then \"Informations personelles\", and click on \"Supprimer mon compte\".",
+        "notes_fr": "Allez sur votre profil, sur \"Informations personelles\" puis cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "passculture.app"
+        ]
+    },
+
+    {
         "name": "PassDock",
         "url": "https://api.passdock.net/users/edit",
         "difficulty": "easy",
