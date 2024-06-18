@@ -1095,6 +1095,18 @@
     },
 
     {
+        "name": "Ameli",
+        "url": "https://www.ameli.fr/assure/mentions-legales-cgu",
+        "difficulty": "easy",
+        "notes": "On the page \"Mes informations\", click on \"Résilier mon compte\". It will automatically re-enable sending documents trough your mailbox.",
+        "notes_fr": "Sur la page \"Mes informations\", cliquez sur \"Résilier mon compte\". Cela réactivera automatiquement l'envoi de vos documents dans votre boite aux lettres.",
+        "domains": [
+            "ameli.fr",
+            "assure.ameli.fr"
+        ]
+    },
+
+    {
         "name": "AmiAmi",
         "url": "https://support.amiami.com/hc/en-us/requests/new",
         "difficulty": "hard",
