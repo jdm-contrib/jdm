@@ -9969,6 +9969,17 @@
     },
 
     {
+        "name": "impots.gouv.fr",
+        "url": "https://www.impots.gouv.fr/",
+        "difficulty": "impossible",
+        "notes": "Your account depends on your fiscal number, you cannot delete it.",
+        "notes_fr": "Votre compte dépend de votre numéro fiscal, vous ne pouvez pas le supprimer.",
+        "domains": [
+            "www.impots.gouv.fr"
+        ]
+    },
+
+    {
         "name": "Indeed",
         "url": "https://indeed.com",
         "difficulty": "easy",
