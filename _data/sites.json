@@ -13521,6 +13521,16 @@
     },
 
     {
+        "name": "MyFigureCollection",
+        "url": "https://myfigurecollection.net/settings/profile/",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account settings page, click on \"Delete my account\"",
+        "domains": [
+            "myfigurecollection.net"
+        ]
+    },
+
+    {
         "name": "MyFonts",
         "url": "https://www.myfonts.com/my/settings/",
         "difficulty": "easy",
