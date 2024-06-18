@@ -7293,6 +7293,18 @@
     },
 
     {
+        "name": "France Identité",
+        "url": "https.//idp.france-identite.gouv.fr/usager",
+        "difficulty": "medium",
+        "notes": "Enter your document number then a deletion code recieved by e-mail to delete your account.",
+        "notes_fr": "Entrez votre numéro de document puis un code de suppression reçu par e-mail pour supprimer votre compte.",
+        "domains": [
+            "france-identite.gouv.fr",
+            "idp.france-identite.gouv.fr"
+        ]
+    },
+
+    {
         "name": "Franz",
         "url": "https://meetfranz.com/user/profile",
         "difficulty": "easy",
