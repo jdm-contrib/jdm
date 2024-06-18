@@ -4287,17 +4287,6 @@
     },
 
     {
-        "name": "Mon Compte Formation",
-        "url": "https://www.moncompteformation.gouv.fr/espace-public/comment-me-desinscrire-de-mon-compte-formation",
-        "difficulty": "easy",
-        "notes": "On the \"My Account\" page, click on \"Unregister\"",
-        "notes_fr": "Sur la page \"Mon Compte\", cliquez sur \"Me Désinscrire\"",
-        "domains": [
-            "www.moncompteformation.gouv.fr"
-        ]
-    },
-
-    {
         "name": "Conte.it",
         "url": "https://www.conte.it/privacy-unsubscribe/",
         "difficulty": "easy",
@@ -13261,6 +13250,17 @@
         "notes_fr": "Connectez-vous, allez dans vos paramètre de profil, enfin trouver en bas de page (Supprimer mon compte).",
         "domains": [
             "molotov.tv"
+        ]
+    },
+
+    {
+        "name": "Mon Compte Formation",
+        "url": "https://www.moncompteformation.gouv.fr/espace-public/comment-me-desinscrire-de-mon-compte-formation",
+        "difficulty": "easy",
+        "notes": "On the \"My Account\" page, click on \"Unregister\"",
+        "notes_fr": "Sur la page \"Mon Compte\", cliquez sur \"Me Désinscrire\"",
+        "domains": [
+            "www.moncompteformation.gouv.fr"
         ]
     },
 
