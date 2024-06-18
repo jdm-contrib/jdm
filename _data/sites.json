@@ -22949,6 +22949,18 @@
     },
 
     {
+        "name": "YRIS",
+        "url": "https://www.yris.eu/en/frequently-asked-questions/",
+        "url_fr", "https://www.yris.eu/fr/questions-frequentes/",
+        "difficulty": "medium",
+        "notes": "To unsubscribe from YRIS, open the application on your smartphone, log in, go to \"Settings\" (the icon at the bottom right of the main screen), then click on \"Delete my account\". If you are unable to log in, you can request to unsubscribe via the contact form.",
+        "notes_fr": "Pour vous désinscrire d’YRIS, ouvrez l’application sur votre smartphone, connectez-vous, allez dans \"Paramètres\" (l’icône en bas à droite de l’écran principal), puis cliquez sur \"Supprimer mon compte\". Si vous n’arrivez pas à vous connecter, vous pouvez faire une demande de désinscription via le formulaire de contact.",
+        "domains": [
+            "www.yris.eu"
+        ]
+    },
+
+    {
         "name": "Yummly",
         "url": "https://www.yummly.com/settings",
         "difficulty": "easy",
