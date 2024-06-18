@@ -4811,17 +4811,6 @@
     },
 
     {
-        "name": "DataCamp",
-        "url": "https://www.datacamp.com/profile/account_settings/advanced",
-        "difficulty": "easy",
-        "notes": "Click the red 'delete account' button at the bottom.",
-        "notes_tr": "Sayfanın altında kırmızı \"Hesabı Sil\" tuşuna basın.",
-        "domains": [
-            "datacamp.com"
-        ]
-    },
-
-    {
         "name": "data.gouv.fr",
         "url": "https://doc.data.gouv.fr/gestion-du-compte/supprimer-un-compte/",
         "difficulty": "easy",
@@ -4829,6 +4818,17 @@
         "notes_fr": "Sur la page de votre profil, cliquez sur la flèche située à côté du bouton \"Éditer\", en haut à droite de votre écran, puis sur \"Supprimer le profil\"",
         "domains": [
             "www.data.gouv.fr"
+        ]
+    },
+
+    {
+        "name": "DataCamp",
+        "url": "https://www.datacamp.com/profile/account_settings/advanced",
+        "difficulty": "easy",
+        "notes": "Click the red 'delete account' button at the bottom.",
+        "notes_tr": "Sayfanın altında kırmızı \"Hesabı Sil\" tuşuna basın.",
+        "domains": [
+            "datacamp.com"
         ]
     },
 
