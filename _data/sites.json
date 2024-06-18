@@ -12806,6 +12806,18 @@
     },
 
     {
+        "name": "Mes Services Étudiant",
+        "url": "https://www.messervices.etudiant.gouv.fr/envole/message/new",
+        "difficulty": "hard",
+        "notes": "You can request the deletion of your account via the assistance form.",
+        "notes_fr": "Vous pouvez faire une demande de suppression de votre compte via le formulaire d'assistance.",
+        "domains": [
+            "www.messervices.etudiant.gouv.fr",
+            "idp.messervices.etudiant.gouv.fr"
+        ]
+    },
+
+    {
         "name": "Metacritic",
         "url": "http://www.metacritic.com/contact-us",
         "difficulty": "hard",
