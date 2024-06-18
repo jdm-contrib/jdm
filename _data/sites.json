@@ -17820,6 +17820,18 @@
     },
 
     {
+        "name": "Service-Public.fr",
+        "url": "https://www.service-public.fr/compte/parametres",
+        "difficulty": "easy",
+        "notes": "Open your profile settings and click on \"Supprimer mon Compte\".",
+        "notes_fr": "Ouvrez les paramètres de votre profil et cliquez sur \"Supprimer mon Compte\".",
+        "domains": [
+            "service-public.fr",
+            "auth.service-public.fr"
+        ]
+    },
+
+    {
         "name": "Session",
         "url": "https://sessionapp.zendesk.com/hc/en-us/articles/7726435197849-How-can-I-delete-my-Session-account-",
         "difficulty": "easy",
