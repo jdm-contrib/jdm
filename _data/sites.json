@@ -16818,12 +16818,11 @@
 
     {
         "name": "Remitly",
-        "url": "https://help.remitly.com/s/article/delete-account",
-        "difficulty": "hard",
-        "notes": "Contact the customer support and request the deletion of your account.",
+        "url": "https://www.remitly.com/fr/en/help/article/138e6277-84e5-43d1-9034-382f58e5eff1",
+        "difficulty": "medium",
+        "notes": "In your profile settings, scroll down and select \"Close my profile\". You account will remain recoverable anytime but you con contact the support to delete your data.",
         "domains": [
-            "remitly.com",
-            "help.remitly.com"
+            "remitly.com"
         ]
     },
 
