@@ -6251,6 +6251,17 @@
     },
 
     {
+        "name": "Enphase",
+        "url": "https://support.enphase.com/s/article/deleting-your-enphase-app-account",
+        "difficulty": "easy",
+        "notes": "Scroll down on your account page and click on 'Delete Account'.",
+        "domains": [
+            "enphase.com",
+            "enlighten.enphaseenergy.com"
+        ]
+    },
+
+    {
         "name": "Envato",
         "url": "https://help.market.envato.com/hc/en-us/articles/202500394-How-Do-I-Close-My-Account-",
         "difficulty": "hard",
