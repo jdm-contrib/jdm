@@ -4817,7 +4817,8 @@
         "notes": "On your profile page, click on the arrow next to the \"Edit\" button, in the top right of your screen, then on \"Delete my profile\"",
         "notes_fr": "Sur la page de votre profil, cliquez sur la flèche située à côté du bouton \"Éditer\", en haut à droite de votre écran, puis sur \"Supprimer le profil\"",
         "domains": [
-            "www.data.gouv.fr"
+            "data.gouv.fr",
+            "doc.data.gouv.fr"
         ]
     },
 
@@ -7311,8 +7312,8 @@
     {
         "name": "France Identité",
         "url": "https.//idp.france-identite.gouv.fr/usager",
-        "difficulty": "medium",
-        "notes": "Enter your document number then a deletion code recieved by e-mail to delete your account.",
+        "difficulty": "easy",
+        "notes": "Enter your document number then a deletion code received by e-mail to delete your account.",
         "notes_fr": "Entrez votre numéro de document puis un code de suppression reçu par e-mail pour supprimer votre compte.",
         "domains": [
             "france-identite.gouv.fr",
@@ -10014,7 +10015,7 @@
         "notes": "Your account depends on your fiscal number, you cannot delete it.",
         "notes_fr": "Votre compte dépend de votre numéro fiscal, vous ne pouvez pas le supprimer.",
         "domains": [
-            "www.impots.gouv.fr"
+            "impots.gouv.fr"
         ]
     },
 
@@ -11230,10 +11231,10 @@
         "url": "https://aide.lidentitenumerique.laposte.fr/kb/guide/fr/comment-supprimer-mon-identite-numerique-DmTz0vr4Hc/Steps/101590",
         "notes": "On your customer page, click on the \"My Profile\" icon in the top right corner, then at the bottom on \"Suppression de votre Identité Numérique\". You will need to enter the 4 last digits of the ID card you used when registering.",
         "notes_fr": "Sur votre espace client, cliquez sur l’icône \"Mon profil\" en haut à droite puis tout en bas sur \"Suppression de votre Identité Numérique\". Vous devrez entrer les 4 derniers chiffres de la carte d'identité utilisée lors de l'inscription.",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "domains": [
             "lidentitenumerique.laposte.fr",
-            "moncompte.laposte.fr"
+            "aide.lidentitenumerique.laposte.fr"
         ]
     },
 
@@ -12886,7 +12887,7 @@
         "notes": "You can request the deletion of your account via the assistance form.",
         "notes_fr": "Vous pouvez faire une demande de suppression de votre compte via le formulaire d'assistance.",
         "domains": [
-            "www.messervices.etudiant.gouv.fr",
+            "messervices.etudiant.gouv.fr",
             "idp.messervices.etudiant.gouv.fr"
         ]
     },
@@ -13260,7 +13261,7 @@
         "notes": "On the \"My Account\" page, click on \"Unregister\"",
         "notes_fr": "Sur la page \"Mon Compte\", cliquez sur \"Me Désinscrire\"",
         "domains": [
-            "www.moncompteformation.gouv.fr"
+            "moncompteformation.gouv.fr"
         ]
     },
 
@@ -13271,7 +13272,7 @@
         "notes": "Login to your account, click on your profile, then on \"Paramètres\". Then click on \"Clôture du profil\"",
         "notes_fr": "Connectez vous à l'aide de vos identifiants puis cliquez sur votre profil situé en haut à droite de l'écran puis sur \"Paramètres\". Cliquez ensuite sur \"Clôture du profil\"",
         "domains": [
-            "www.monespacesante.fr",
+            "monespacesante.fr",
             "am.monespacesante.fr"
         ]
     },
@@ -15731,7 +15732,7 @@
         "url": "https://support.pix.org/en/support/tickets/new",
         "url_fr": "https://pix.fr/support/form/particulier-fr-fr",
         "difficulty": "hard",
-        "notes": "You can request that your account be deleted by making a request through our contact form",
+        "notes": "You can request that your account be deleted by making a request through their contact form",
         "notes_tr": "Pour supprimer votre compte Pix, faites-en la demande en complétant le formulaire de contact du support Pix, en renseignant le motif adéquat.",
         "domains": [
             "pix.fr",
@@ -23019,7 +23020,7 @@
         "notes": "To unsubscribe from YRIS, open the application on your smartphone, log in, go to \"Settings\" (the icon at the bottom right of the main screen), then click on \"Delete my account\". If you are unable to log in, you can request to unsubscribe via the contact form.",
         "notes_fr": "Pour vous désinscrire d’YRIS, ouvrez l’application sur votre smartphone, connectez-vous, allez dans \"Paramètres\" (l’icône en bas à droite de l’écran principal), puis cliquez sur \"Supprimer mon compte\". Si vous n’arrivez pas à vous connecter, vous pouvez faire une demande de désinscription via le formulaire de contact.",
         "domains": [
-            "www.yris.eu"
+            "yris.eu"
         ]
     },
 
