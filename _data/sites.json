@@ -22817,6 +22817,16 @@
     },
 
     {
+        "name": "youlookfab",
+        "url": "https://youlookfab.com",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Profile Dropdown ⮕ Profile ⮕ Account ⮕ Delete Your Account",
+        "domains": [
+            "youlookfab.com"
+        ]
+    },
+
+    {
         "name": "Yousician",
         "url": "https://account.yousician.com/",
         "difficulty": "easy",
