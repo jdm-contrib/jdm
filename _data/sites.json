@@ -19641,10 +19641,10 @@
 
     {
         "name": "Teespring",
-        "url": "https://teespring.com/",
+        "url": "https://forms.gle/T8LQEYdQrwRoTa469 ",
         "email": "privacy@spri.ng",
-        "difficulty": "impossible",
-        "notes": "'It's currently unknown if they allow account deletions, but you can try emailing and asking. Do share their response with us on GitHub!",
+        "difficulty": "hard",
+        "notes": "Use the form listed above, which can be obtained by: Login ⮕ Chat with bot ⮕ Get form ⮕ Fill out form",
         "domains": [
             "teespring.com"
         ]
