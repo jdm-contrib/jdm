@@ -631,6 +631,18 @@
     },
 
     {
+        "name": "Agence nationale des titres sécurisés",
+        "url": "https://moncompte.ants.gouv.fr/mes_donn%C3%A9es#delete",
+        "difficulty": "easy",
+        "notes": "Go to your profile settings and click \"Supprimer mon compte\"",
+        "notes_fr": "Allez sur les paramètres de votre compte et cliquez sur \"Supprimer mon compte\"",
+        "domains": [
+            "ants.gouv.fr",
+            "moncompte.ants.gouv.fr"
+        ]
+    },
+
+    {
         "name": "Agoda",
         "url": "https://www.agoda.com/en-au/info/privacy.html",
         "difficulty": "hard",
@@ -1091,6 +1103,18 @@
         "notes": "You can not delete your account, only disable it, At the bottom of the page there is a 'Deactivate your account' ⮕ Enter password ⮕ Deactivate account",
         "domains": [
             "amdrewards.com"
+        ]
+    },
+
+    {
+        "name": "Ameli",
+        "url": "https://www.ameli.fr/assure/mentions-legales-cgu",
+        "difficulty": "easy",
+        "notes": "On the page \"Mes informations\", click on \"Résilier mon compte\". It will automatically re-enable sending documents trough your mailbox.",
+        "notes_fr": "Sur la page \"Mes informations\", cliquez sur \"Résilier mon compte\". Cela réactivera automatiquement l'envoi de vos documents dans votre boite aux lettres.",
+        "domains": [
+            "ameli.fr",
+            "assure.ameli.fr"
         ]
     },
 
@@ -3884,6 +3908,21 @@
     },
 
     {
+        "name": "CNIL",
+        "url": "https://www.cnil.fr/en/contact-us",
+        "url_fr": "https://www.cnil.fr/fr/saisir-la-cnil/contacter-la-cnil-standard-et-permanences-telephoniques",
+        "difficulty": "hard",
+        "notes": "You have to contact them in order to ask to delete your account.",
+        "notes_fr": "Vous devez les contacter pour demander a supprimer votre compte.",
+        "domains": [
+            "cnil.fr",
+            "services.cnil.fr",
+            "connexion.services.cnil.fr",
+            "demarche.services.cnil.fr"
+        ]
+    },
+
+    {
         "name": "CNN",
         "url": "https://www.cnn.com/account/settings",
         "difficulty": "easy",
@@ -4768,6 +4807,18 @@
         "notes_de": "Nach Angabe der E-Mail-Adresse und der Auswahl eines Grunds der Löschung, erhält man per Mail einen Sicherheitscode. Dieser wird im Löschformular eingetragen und abgeschickt. Danach wird der Account unwiederbringlich gelöscht.",
         "domains": [
             "dashlane.com"
+        ]
+    },
+
+    {
+        "name": "data.gouv.fr",
+        "url": "https://doc.data.gouv.fr/gestion-du-compte/supprimer-un-compte/",
+        "difficulty": "easy",
+        "notes": "On your profile page, click on the arrow next to the \"Edit\" button, in the top right of your screen, then on \"Delete my profile\"",
+        "notes_fr": "Sur la page de votre profil, cliquez sur la flèche située à côté du bouton \"Éditer\", en haut à droite de votre écran, puis sur \"Supprimer le profil\"",
+        "domains": [
+            "data.gouv.fr",
+            "doc.data.gouv.fr"
         ]
     },
 
@@ -7266,6 +7317,18 @@
         "email": "support@framer.com",
         "domains": [
             "framer.com"
+        ]
+    },
+
+    {
+        "name": "France Identité",
+        "url": "https.//idp.france-identite.gouv.fr/usager",
+        "difficulty": "easy",
+        "notes": "Enter your document number then a deletion code received by e-mail to delete your account.",
+        "notes_fr": "Entrez votre numéro de document puis un code de suppression reçu par e-mail pour supprimer votre compte.",
+        "domains": [
+            "france-identite.gouv.fr",
+            "idp.france-identite.gouv.fr"
         ]
     },
 
@@ -9957,6 +10020,17 @@
     },
 
     {
+        "name": "impots.gouv.fr",
+        "url": "https://www.impots.gouv.fr/",
+        "difficulty": "impossible",
+        "notes": "Your account depends on your fiscal number, you cannot delete it.",
+        "notes_fr": "Votre compte dépend de votre numéro fiscal, vous ne pouvez pas le supprimer.",
+        "domains": [
+            "impots.gouv.fr"
+        ]
+    },
+
+    {
         "name": "Indeed",
         "url": "https://indeed.com",
         "difficulty": "easy",
@@ -11160,6 +11234,30 @@
             "blog.kyun.host",
             "files.kyun.host",
             "status.kyun.host"
+        ]
+    },
+
+    {
+        "name": "L'identité Numérique La Poste",
+        "url": "https://aide.lidentitenumerique.laposte.fr/kb/guide/fr/comment-supprimer-mon-identite-numerique-DmTz0vr4Hc/Steps/101590",
+        "notes": "On your customer page, click on the \"My Profile\" icon in the top right corner, then at the bottom on \"Suppression de votre Identité Numérique\". You will need to enter the 4 last digits of the ID card you used when registering.",
+        "notes_fr": "Sur votre espace client, cliquez sur l’icône \"Mon profil\" en haut à droite puis tout en bas sur \"Suppression de votre Identité Numérique\". Vous devrez entrer les 4 derniers chiffres de la carte d'identité utilisée lors de l'inscription.",
+        "difficulty": "easy",
+        "domains": [
+            "lidentitenumerique.laposte.fr",
+            "aide.lidentitenumerique.laposte.fr"
+        ]
+    },
+
+    {
+        "name": "La Poste",
+        "url": "https://aide.laposte.fr/mesdonneespersonnelles/moncompte/suppression",
+        "difficulty": "hard",
+        "notes" : "Send a request on the GDPR form. Delete all other services linked to it (Digiposte, Identité Numérique, etc) before sending the request.",
+        "notes_fr" : "Envoyez une demande sur le formulaire RGPD. Supprimez les autres services associés (Digiposte, Identité Numérique, etc) avant d'envoyer la demande.",
+        "domains": [
+            "laposte.fr",
+            "moncompte.laposte.fr"
         ]
     },
 
@@ -12794,6 +12892,18 @@
     },
 
     {
+        "name": "Mes Services Étudiant",
+        "url": "https://www.messervices.etudiant.gouv.fr/envole/message/new",
+        "difficulty": "hard",
+        "notes": "You can request the deletion of your account via the assistance form.",
+        "notes_fr": "Vous pouvez faire une demande de suppression de votre compte via le formulaire d'assistance.",
+        "domains": [
+            "messervices.etudiant.gouv.fr",
+            "idp.messervices.etudiant.gouv.fr"
+        ]
+    },
+
+    {
         "name": "Metacritic",
         "url": "http://www.metacritic.com/contact-us",
         "difficulty": "hard",
@@ -13152,6 +13262,29 @@
         "notes_fr": "Connectez-vous, allez dans vos paramètre de profil, enfin trouver en bas de page (Supprimer mon compte).",
         "domains": [
             "molotov.tv"
+        ]
+    },
+
+    {
+        "name": "Mon Compte Formation",
+        "url": "https://www.moncompteformation.gouv.fr/espace-public/comment-me-desinscrire-de-mon-compte-formation",
+        "difficulty": "easy",
+        "notes": "On the \"My Account\" page, click on \"Unregister\"",
+        "notes_fr": "Sur la page \"Mon Compte\", cliquez sur \"Me Désinscrire\"",
+        "domains": [
+            "moncompteformation.gouv.fr"
+        ]
+    },
+
+    {
+        "name": "Mon Espace Santé",
+        "url": "https://www.monespacesante.fr/questions-frequentes/acceder-a-mon-espace-sante/14",
+        "difficulty": "easy",
+        "notes": "Login to your account, click on your profile, then on \"Paramètres\". Then click on \"Clôture du profil\"",
+        "notes_fr": "Connectez vous à l'aide de vos identifiants puis cliquez sur votre profil situé en haut à droite de l'écran puis sur \"Paramètres\". Cliquez ensuite sur \"Clôture du profil\"",
+        "domains": [
+            "monespacesante.fr",
+            "am.monespacesante.fr"
         ]
     },
 
@@ -15144,6 +15277,17 @@
     },
 
     {
+        "name": "pass Culture",
+        "url": "https://passculture.app/profil/suppression",
+        "difficulty": "easy",
+        "notes": "Go to your profile, then \"Informations personelles\", and click on \"Supprimer mon compte\".",
+        "notes_fr": "Allez sur votre profil, sur \"Informations personelles\" puis cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "passculture.app"
+        ]
+    },
+
+    {
         "name": "PassDock",
         "url": "https://api.passdock.net/users/edit",
         "difficulty": "easy",
@@ -15601,6 +15745,19 @@
         "difficulty": "medium",
         "domains": [
             "pivotaltracker.com"
+        ]
+    },
+
+    {
+        "name": "Pix",
+        "url": "https://support.pix.org/en/support/tickets/new",
+        "url_fr": "https://pix.fr/support/form/particulier-fr-fr",
+        "difficulty": "hard",
+        "notes": "You can request that your account be deleted by making a request through their contact form",
+        "notes_tr": "Pour supprimer votre compte Pix, faites-en la demande en complétant le formulaire de contact du support Pix, en renseignant le motif adéquat.",
+        "domains": [
+            "pix.fr",
+            "pix.org"
         ]
     },
 
@@ -17680,6 +17837,18 @@
         "domains": [
             "serverless.com",
             "app.serverless.com"
+        ]
+    },
+
+    {
+        "name": "Service-Public.fr",
+        "url": "https://www.service-public.fr/compte/parametres",
+        "difficulty": "easy",
+        "notes": "Open your profile settings and click on \"Supprimer mon Compte\".",
+        "notes_fr": "Ouvrez les paramètres de votre profil et cliquez sur \"Supprimer mon Compte\".",
+        "domains": [
+            "service-public.fr",
+            "auth.service-public.fr"
         ]
     },
 
@@ -22861,6 +23030,18 @@
         "domains": [
             "yoyogames.com",
             "help.yoyogames.com"
+        ]
+    },
+
+    {
+        "name": "YRIS",
+        "url": "https://www.yris.eu/en/frequently-asked-questions/",
+        "url_fr": "https://www.yris.eu/fr/questions-frequentes/",
+        "difficulty": "medium",
+        "notes": "To unsubscribe from YRIS, open the application on your smartphone, log in, go to \"Settings\" (the icon at the bottom right of the main screen), then click on \"Delete my account\". If you are unable to log in, you can request to unsubscribe via the contact form.",
+        "notes_fr": "Pour vous désinscrire d’YRIS, ouvrez l’application sur votre smartphone, connectez-vous, allez dans \"Paramètres\" (l’icône en bas à droite de l’écran principal), puis cliquez sur \"Supprimer mon compte\". Si vous n’arrivez pas à vous connecter, vous pouvez faire une demande de désinscription via le formulaire de contact.",
+        "domains": [
+            "yris.eu"
         ]
     },
 
