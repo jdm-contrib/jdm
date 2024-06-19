@@ -18222,7 +18222,8 @@
 
     {
         "name": "SNCF",
-        "url": "https://www.sncf-connect.com/aide/mon-identifiant-sncf",
+        "url": "https://www.sncf-connect.com/en-en/help/your-customer-account",
+        "url_fr": "https://www.sncf-connect.com/aide/mon-identifiant-sncf",
         "difficulty": "easy",
         "notes": "Once logged into your customer account, you can take the request by clicking \"delete my account\", in the bottom of your homepage, then follow the instructions.",
         "notes_fr": "Une fois connecté à votre compte client, vous pouvez en faire la demande en cliquant sur \"supprimer votre compte\", tout en bas de votre page d'accueil, puis laissez-vous guider.",
