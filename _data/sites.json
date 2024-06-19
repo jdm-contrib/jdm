@@ -21541,6 +21541,18 @@
     },
 
     {
+        "name": "W3Schools",
+        "url": "https://support.w3schools.com/hc/en-gb/articles/14697964112402-How-can-I-delete-my-account",
+        "difficulty": "hard",
+        "email": "hello@w3schools.com",
+        "email_subject": "#deleteme",
+        "email_body": "#deleteme",
+        "domains": [
+            "w3schools.com"
+        ]
+    },
+
+    {
         "name": "Wacom Cloud",
         "url": "https://account.wacom.com/en-us/profile",
         "difficulty": "easy",
