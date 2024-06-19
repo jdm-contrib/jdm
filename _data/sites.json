@@ -11969,9 +11969,9 @@
 
     {
         "name": "LogMeIn / Hamachi",
-        "url": "https://support.logmeininc.com/hamachi/help/how-do-i-contact-hamachi-customer-support",
+        "url": "https://submit-irm.trustarc.com/services/validation/818563f9-8d9c-4029-880a-bc743fb49de5",
         "difficulty": "hard",
-        "notes": "Scroll to the bottom of the given URL, open a new ticket and ask for account deletion",
+        "notes": "Submit a request on the linked form. It can take up to 15 days for them to comply.",
         "domains": [
             "logme.in",
             "logmein.com",
@@ -18977,6 +18977,16 @@
     },
 
     {
+        "name": "SteelSeries",
+        "url": "https://steelseries.com/dashboard/profile/delete",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Hover over your username ⮕ Overview ⮕ Profile ⮕ Delete Account ⮕ Delete",
+        "domains": [
+            "steelseries.com"
+        ]
+    },
+
+    {
         "name": "STEP (Smart Traveler Enrollment Program)",
         "url": "https://step.state.gov",
         "difficulty": "impossible",
@@ -19821,10 +19831,10 @@
 
     {
         "name": "Teespring",
-        "url": "https://teespring.com/",
+        "url": "https://forms.gle/T8LQEYdQrwRoTa469 ",
         "email": "privacy@spri.ng",
-        "difficulty": "impossible",
-        "notes": "'It's currently unknown if they allow account deletions, but you can try emailing and asking. Do share their response with us on GitHub!",
+        "difficulty": "hard",
+        "notes": "Use the form listed above, which can be obtained by: Login ⮕ Chat with bot ⮕ Get form ⮕ Fill out form",
         "domains": [
             "teespring.com"
         ]
@@ -21721,6 +21731,18 @@
     },
 
     {
+        "name": "W3Schools",
+        "url": "https://support.w3schools.com/hc/en-gb/articles/14697964112402-How-can-I-delete-my-account",
+        "difficulty": "hard",
+        "email": "hello@w3schools.com",
+        "email_subject": "#deleteme",
+        "email_body": "#deleteme",
+        "domains": [
+            "w3schools.com"
+        ]
+    },
+
+    {
         "name": "Wacom Cloud",
         "url": "https://account.wacom.com/en-us/profile",
         "difficulty": "easy",
@@ -22993,6 +23015,16 @@
         "domains": [
             "you.com",
             "about.you.com"
+        ]
+    },
+
+    {
+        "name": "youlookfab",
+        "url": "https://youlookfab.com",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Profile Dropdown ⮕ Profile ⮕ Account ⮕ Delete Your Account",
+        "domains": [
+            "youlookfab.com"
         ]
     },
 
