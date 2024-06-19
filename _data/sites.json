@@ -18787,6 +18787,16 @@
     },
 
     {
+        "name": "SteelSeries",
+        "url": "https://steelseries.com/dashboard/profile/delete",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Hover over your username ⮕ Overview ⮕ Profile ⮕ Delete Account ⮕ Delete",
+        "domains": [
+            "steelseries.com"
+        ]
+    },
+
+    {
         "name": "STEP (Smart Traveler Enrollment Program)",
         "url": "https://step.state.gov",
         "difficulty": "impossible",
