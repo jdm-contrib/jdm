@@ -21205,6 +21205,16 @@
     },
 
     {
+        "name": "uVPN",
+        "url": "https://uvpn.me/support/#contactus",
+        "difficulty": "hard",
+        "email": "support@uvpn.me",
+        "domains": [
+            "uvpn.me"
+        ]
+    },
+
+    {
         "name": "Uxcel",
         "url": "https://help.uxcel.com/en/articles/4634446-can-i-delete-my-uxcel-account",
         "difficulty": "hard",
