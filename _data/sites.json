@@ -2043,13 +2043,8 @@
         "url": "https://www.badlion.net/settings",
         "url_en": "https://www.badlion.net/settings?lang=en",
         "difficulty": "easy",
-        "notes": "Open the [this link](https://www.badlion.net/settings?lang=en), scroll down and enter your username and delete your account.",
-        "notes_de": "Öffnen Sie [diesen Link](https://www.badlion.net/settings), scrollen Sie nach unten, geben Sie Ihren Benutzernamen ein und löschen Sie Ihr Konto.",
-        "notes_ru": "Откройте [эту ссылку](https://www.badlion.net/settings), прокрутите вниз, введите свое имя пользователя и удалите свою учетную запись.",
-        "notes_fr": "Ouvrez le [ce lien](https://www.badlion.net/settings), faites défiler vers le bas et entrez votre nom d'utilisateur et supprimez votre compte.",
-        "notes_es": "Abra [este enlace](https://www.badlion.net/settings), desplácese hacia abajo, ingrese su nombre de usuario y elimine su cuenta.",
-        "notes_cz": "Otevřete [tento odkaz](https://www.badlion.net/settings), přejděte dolů a zadejte své uživatelské jméno a smažte svůj účet.",
-        "notes_pl": "Otwórz [ten link] (https://www.badlion.net/settings), przewiń w dół, wprowadź swoją nazwę użytkownika i usuń konto.",
+        "notes": "Open settings, scroll down and enter your username and delete your account.",,
+        "notes_cz": "Otevřete nastavení, přejděte dolů a zadejte své uživatelské jméno a smažte svůj účet.",
         "domains": [
             "www.badlion.net",
             "badlion.net"
