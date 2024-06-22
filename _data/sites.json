@@ -2041,6 +2041,24 @@
     {
         "name": "Badoo",
         "url": "https://badoo.com/settings/",
+        "url_en": "https://www.badlion.net/settings?lang=en",
+        "difficulty": "easy",
+        "notes": "Open the [this link](https://www.badlion.net/settings?lang=en), scroll down and enter your username and delete your account.",
+        "notes_de": "Öffnen Sie [diesen Link](https://www.badlion.net/settings), scrollen Sie nach unten, geben Sie Ihren Benutzernamen ein und löschen Sie Ihr Konto.",
+        "notes_ru": "Откройте [эту ссылку](https://www.badlion.net/settings), прокрутите вниз, введите свое имя пользователя и удалите свою учетную запись.",
+        "notes_fr": "Ouvrez le [ce lien](https://www.badlion.net/settings), faites défiler vers le bas et entrez votre nom d'utilisateur et supprimez votre compte.",
+        "notes_es": "Abra [este enlace](https://www.badlion.net/settings), desplácese hacia abajo, ingrese su nombre de usuario y elimine su cuenta.",
+        "notes_cz": "Otevřete [tento odkaz](https://www.badlion.net/settings), přejděte dolů a zadejte své uživatelské jméno a smažte svůj účet.",
+        "notes_pl": "Otwórz [ten link] (https://www.badlion.net/settings), przewiń w dół, wprowadź swoją nazwę użytkownika i usuń konto.",
+        "domains": [
+            "www.badlion.net",
+            "badlion.net"
+        ]
+    },
+
+    {
+        "name": "Badoo",
+        "url": "https://badoo.com/settings/",
         "difficulty": "easy",
         "notes": "On the top right corner click 'Settings', then on the left hand side click 'Delete'. Type your information, to delete Badoo, enter your password and in the other box, explain why you want to leave. Click on the 'Confirm' button, you will receive a message page confirming your rquest was successfully completed.",
         "notes_tr": "Sağ üst köşedeki \"Ayarlar\" tuşuna tıklayın, ardından sol taraftaki \"Sil\" tuşuna tıklayın. Badoo hesabınızı silmek için bilgilerinizi girin, şifrenizi girin ve diğer kutuya neden ayrılmak istediğinizi belirtin. \"Onayla\" tuşuna tıklayın, işleminizin başarıyla tamamlandığına dair bir mesaj alacaksınız.",
