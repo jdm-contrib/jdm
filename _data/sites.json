@@ -595,6 +595,16 @@
     },
 
     {
+        "name": "Adidas US",
+        "url": "https://www.adidas.com/us/my-account/profile",
+        "difficulty": "easy",
+        "notes": "On your account settings, scroll down to 'Manage Account' and click 'Delete Account'",
+        "domains": [
+            "adidas.com"
+        ]
+    },
+
+    {
         "name": "Adobe",
         "url": "https://account.adobe.com/privacy/delete-account",
         "difficulty": "easy",
