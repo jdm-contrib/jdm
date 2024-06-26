@@ -13513,9 +13513,10 @@
         "url": "https://mullvad.net/en/help/faq#119",
         "difficulty": "hard",
         "notes": "Contact support via email to request deletion of your account.",
-        "email": "support@mullvad.net",
+        "email": "support@mullvadvpn.net",
         "domains": [
-            "mullvad.net"
+            "mullvad.net",
+            "mullvadvpn.net"
         ]
     },
 
