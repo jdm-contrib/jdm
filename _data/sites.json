@@ -18011,7 +18011,7 @@
         "notes": "Send an email to Shodan support to delete your account.",
         "email": "support@shodan.io",
         "domains": [
-            "shipito.com"
+            "shodan.io"
         ]
     },
 
