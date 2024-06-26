@@ -18005,6 +18005,17 @@
     },
 
     {
+        "name": "Shodan",
+        "url": "https://static.shodan.io/legal/terms.html",
+        "difficulty": "hard",
+        "notes": "Send an email to Shodan support to delete your account.",
+        "email": "support@shodan.io",
+        "domains": [
+            "shipito.com"
+        ]
+    },
+
+    {
         "name": "Shop",
         "url": "https://help.shop.app/hc/en-us/articles/360058842072-Delete-your-account",
         "difficulty": "easy",
