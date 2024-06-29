@@ -6565,6 +6565,16 @@
     },
 
     {
+        "name": "Exclusive Car Registry",
+        "url": "https://exclusivecarregistry.com/account/security",
+        "notes": "Click Profile icon ⮕ Show Menu ⮕ Security ⮕ Delete Profile ⮕ Type CONFIRM ⮕ Click Delete account button ⮕ Email Sent ⮕ Click DELETE ACCOUNT button.",
+        "difficulty": "easy",
+        "domains": [
+            "exclusivecarregistry.com"
+        ]
+    },
+
+    {
         "name": "Exercism",
         "notes": "Login and click 'Delete my Account'. Then click again on the next page to confirm deletion.",
         "notes_tr": "Giriş yapın ve \"Hesabımı Sil\" tuşuna tıklayın. Ve bir sonraki sayfada tekrar tıklayarak silmeyi onaylayın.",
