@@ -21060,6 +21060,19 @@
     },
 
     {
+        "name": "umami",
+        "url": "https://cloud.umami.is/account",
+        "difficulty": "easy",
+        "notes": "After logging in, proceed to the “Manage” section and select the red button labelled “Delete”. In the pop-up text box, type “DELETE” and confirm once more.",
+        "notes_cz": "Po přihlášení přejděte v nastavení Account do sekce „Manage“ a vyberte červené tlačítko „Delete“. Do kontextového pole zadejte „DELETE“ a ještě jednou potvrďte.",
+        "notes_sk": "Po prihlásení prejdite v nastaveniach Account do časti „Manage“ a zvoľte červené tlačidlo „Delete“. Do kontextového poľa napíšte „DELETE“ a ešte raz potvrďte.",
+        "domains": [
+            "umami.is",
+            "cloud.umami.is"
+        ]
+    },
+
+    {
         "name": "Uncubed",
         "url": "https://uncubed.com/learn/users/edit",
         "difficulty": "hard",
