@@ -1043,6 +1043,25 @@
     },
 
     {
+        "name": "Alza",
+        "url": "https://www.alza.cz/my-account?setlang=en-GB",
+        "url_cz": "https://www.alza.cz/my-account?setlang=cs-CZ",
+        "url_sk": "https://www.alza.sk/my-account?setlang=sk-SK",
+        "url_de": "https://www.alza.de/my-account?setlang=de-DE",
+        "difficulty": "easy",
+        "notes": "Open the link scroll down and press on the \"Request the deletion of my personal data\" ",
+        "notes_cz": "Otevřete odkaz, posuňte se dolů a stiskněte tlačítko \"Žádost o výmaz osobních údajů\"",
+        "notes_sk": "Otvorte odkaz, prejdite nadol a stlačte tlačidlo \"Žiadosť o vymazanie osobných údajov\" ",
+        "notes_de": "Öffnen Sie den Link scrollen Sie nach unten und drücken Sie auf die \"Antrag auf Löschung persönlicher Daten\" ",
+        "domains": [
+            "alza.de",
+            "alza.cz",
+            "alza.sk",
+            "alza.hu",
+            "alza.at"
+        ]
+    },
+    {
         "name": "Amara",
         "url": "https://amara.org/profiles/account/",
         "difficulty": "easy",
@@ -4758,6 +4777,17 @@
         ]
     },
 
+    {
+        "name": "CZC",
+        "url": "https://www.czc.cz/soukromi/sprava-udaju",
+        "difficulty": "easy",
+        "notes": "You have to fill out a form. (BUT IT'S ONLY IN CZECH)",
+        "notes_cz": "Musíte vyplnit formulář.",
+        "notes_sk": "Musíte vyplniť formulár.",
+        "domains": [
+            "czc.cz"
+        ]
+    },
     {
         "name": "DaFONT",
         "url": "https://www.dafont.com/forum/read/12643/how-do-i-delete-my-account",
