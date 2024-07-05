@@ -14961,6 +14961,19 @@
     },
 
     {
+        "name": "OpenPhone",
+        "url": "https://support.openphone.com/hc/en-us/requests/new",
+        "email": "help@openphone.co",
+        "email_subject": "Account deletion request",
+        "email_body": "I request a deletion of my OpenPhone account associated with this email adress.",
+        "difficulty": "medium",
+        "notes": "You need to contact OpenPhone support.",
+        "domains": [
+            "openphone.com"
+        ]
+    },
+    
+    {
         "name": "OpenSea",
         "url": "https://support.opensea.io/hc/requests/new",
         "difficulty": "limited",
