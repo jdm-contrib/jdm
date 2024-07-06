@@ -1895,6 +1895,16 @@
     },
 
     {
+        "name": "AutoWebSurf",
+        "url": "https://autowebsurf.com/members/delete.php",
+        "difficulty": "easy",
+        "notes": "Enter your password to confirm the deletion.",
+        "domains": [
+            "autowebsurf.com"
+        ]
+    },
+
+    {
         "name": "AV Club",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
