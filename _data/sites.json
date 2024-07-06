@@ -3467,6 +3467,17 @@
     },
 
     {
+        "name": "Catappult ",
+        "url": "https://developers.catappult.io/settings/account",
+        "difficulty": "easy",
+        "notes": "Go to Manage Users Access section, click Request account deletion.",
+        "domains": [
+            "catappult.io",
+            "developers.catappult.io"
+        ]
+    },
+
+    {
         "name": "CBC",
         "url": "https://cbchelp.cbc.ca/hc/en-ca/requests/new",
         "difficulty": "hard",
