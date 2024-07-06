@@ -14966,7 +14966,7 @@
         "email": "help@openphone.co",
         "email_subject": "Account deletion request",
         "email_body": "I request a deletion of my OpenPhone account associated with this email address.",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "You need to contact OpenPhone support.",
         "domains": [
         "openphone.com"
