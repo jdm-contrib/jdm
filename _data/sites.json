@@ -4373,6 +4373,17 @@
     },
 
     {
+        "name": "Copyrighted",
+        "url": "https://app.copyrighted.com/users/settings/cancel",
+        "difficulty": "easy",
+        "notes": "Enter your current password to confirm deletion.",
+        "domains": [
+            "copyrighted.com",
+            "app.copyrighted.com"
+        ]
+    },
+
+    {
         "name": "Coolors",
         "url": "https://coolors.co/account/delete",
         "difficulty": "medium",
