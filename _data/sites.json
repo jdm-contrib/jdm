@@ -4373,6 +4373,16 @@
     },
 
     {
+        "name": "Coolors",
+        "url": "https://coolors.co/account/delete",
+        "difficulty": "medium",
+        "notes": "Use the link provided to request account deletion. Enter your password, then you get an e-mail with a code. Enter this code in the next input field. If you created the account with a 'Social Login' you need to set a password first.",
+        "domains": [
+            "coolors.co"
+        ]
+    },
+
+    {
         "name": "Copyrighted",
         "url": "https://app.copyrighted.com/users/settings/cancel",
         "difficulty": "easy",
@@ -4380,16 +4390,6 @@
         "domains": [
             "copyrighted.com",
             "app.copyrighted.com"
-        ]
-    },
-
-    {
-        "name": "Coolors",
-        "url": "https://coolors.co/account/delete",
-        "difficulty": "medium",
-        "notes": "Use the link provided to request account deletion. Enter your password, then you get an e-mail with a code. Enter this code in the next input field. If you created the account with a 'Social Login' you need to set a password first.",
-        "domains": [
-            "coolors.co"
         ]
     },
 
