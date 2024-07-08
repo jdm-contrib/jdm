@@ -7320,7 +7320,7 @@
         "name": "Followlike",
         "url": "https://www.followlike.net/settings.php",
         "difficulty": "easy",
-        "notes": "On Delete Sites or Account section, click the red 'Delete account'.",
+        "notes": "On \"Delete Sites or Account\" section, click the red 'Delete account'.",
         "domains": [
             "followlike.net"
         ]
