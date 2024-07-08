@@ -7746,7 +7746,7 @@
         "name": "Galaxy Play",
         "url": "https://galaxyplay.vn/account/info/delete-account",
         "difficulty": "medium",
-        "notes": "Check confirm checkbox and click Delete account. Enter PIN code send to your phone number. Your account will now be locked, logged out on all devices and will be permanently deleted after 14 days",
+        "notes": "Check the \"confirm\" checkbox and click \"Delete account\". Enter PIN code sent to your phone number. Your account will now be locked, logged out on all devices and will be permanently deleted after 14 days",
         "domains": [
             "galaxyplay.vn"
         ]
