@@ -7907,10 +7907,17 @@
         "name": "Garena",
         "url": "https://www.garena.sg/support/",
         "difficulty": "hard",
-        "notes": "Accounts are deleted with 6 months of inactivity or by opening a ticket to their support team.",
-        "notes_tr": "Hesaplar, 6 ay boyunca herhangi bir işlem yapılmadığında veya destek ekibine bir talep gönderilerek silinir.",
+        "notes": "Accounts can only be deleted by opening a ticket to their support team.",
+        "notes_tr": "Hesaplar, destek ekibine bir talep gönderilerek silinebilir.",
         "domains": [
-            "garena.sg"
+            "account.garena.com",
+            "garena.com",
+            "garena.my",
+            "garena.ph",
+            "garena.sg",
+            "garena.tw",
+            "garena.vn",
+            "hotro.garena.vn"
         ]
     },
 
