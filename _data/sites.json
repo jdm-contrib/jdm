@@ -7743,6 +7743,16 @@
     },
 
     {
+        "name": "Galaxy Play",
+        "url": "https://galaxyplay.vn/account/info/delete-account",
+        "difficulty": "medium",
+        "notes": "Check confirm checkbox and click Delete account. Enter PIN code send to your phone number. Your account will now be locked, logged out on all devices and will be permanently deleted after 14 days",
+        "domains": [
+            "galaxyplay.vn"
+        ]
+    },
+
+    {
         "name": "Game Tracker",
         "url": "http://www.gametracker.com/account/manage/edit.php",
         "difficulty": "easy",
