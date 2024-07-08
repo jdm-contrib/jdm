@@ -7317,6 +7317,16 @@
     },
 
     {
+        "name": "Followlike",
+        "url": "https://www.followlike.net/settings.php",
+        "difficulty": "easy",
+        "notes": "On \"Delete Sites or Account\" section, click the red 'Delete account'.",
+        "domains": [
+            "followlike.net"
+        ]
+    },
+
+    {
         "name": "Font Awesome",
         "url": "https://fontawesome.com/account",
         "difficulty": "easy",
