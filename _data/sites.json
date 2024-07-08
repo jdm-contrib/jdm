@@ -20018,11 +20018,14 @@
 
     {
         "name": "Telltale",
-        "url": "https://telltale.com",
-        "difficulty": "hard",
-        "notes": "Contact support using the blue \"Support\" button at the bottom right, filling out all applicable fields with \"Account Deletion\"",
+        "url": "https://account.telltale.com/account/settings",
+        "difficulty": "easy",
+        "notes": "After logging in, navigate to your account's settings, scroll down to the “Delete Account” section. After pressing the “DELETE” button, enter your E-Mail and click the button again to confirm.",
+        "notes_cz": "Po přihlášení přejděte do nastavení účtu a přejděte do části „Delete Account“. Po stisknutí tlačítka „DELETE“ zadejte svůj e-mail a opětovným kliknutím na tlačítko potvrďte.",
+        "notes_sk": "Po prihlásení prejdite do nastavení svojho účtu a prejdite do časti „Delete Account“. Po stlačení tlačidla „DELETE“ zadajte svoj e-mail a opätovným kliknutím na tlačidlo potvrďte.",
         "domains": [
-            "telltale.com"
+            "telltale.com",
+            "account.telltale.com"
         ]
     },
 
