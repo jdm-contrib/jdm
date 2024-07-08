@@ -5702,7 +5702,7 @@
         "difficulty": "hard",
         "notes": "Contact customer support to request account deletion. They should respond and will delete any personal information, database credentials and result caches that you have provided along with your account within 4 working days.",
         "domains": [
-            "draxlr.com"
+            "draxlr.com",
             "app.draxlr.com"
         ]
     },
