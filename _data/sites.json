@@ -4383,6 +4383,17 @@
     },
 
     {
+        "name": "Copyrighted",
+        "url": "https://app.copyrighted.com/users/settings/cancel",
+        "difficulty": "easy",
+        "notes": "Enter your current password to confirm deletion.",
+        "domains": [
+            "copyrighted.com",
+            "app.copyrighted.com"
+        ]
+    },
+
+    {
         "name": "Corellium",
         "url": "https://app.corellium.com/admin/subscription",
         "difficulty": "easy",
