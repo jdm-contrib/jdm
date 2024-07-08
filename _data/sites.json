@@ -5697,6 +5697,17 @@
     },
 
     {
+        "name": "Draxlr",
+        "url": "https://www.draxlr.com/contact/",
+        "difficulty": "hard",
+        "notes": "Contact customer support to request account deletion. They should respond and will delete any personal information, database credentials and result caches that you have provided along with your account within 4 working days.",
+        "domains": [
+            "draxlr.com",
+            "app.draxlr.com"
+        ]
+    },
+
+    {
         "name": "DreamHost",
         "url": "https://panel.dreamhost.com/index.cgi?tree=support.msg",
         "difficulty": "hard",
