@@ -9493,6 +9493,16 @@
     },
 
     {
+        "name": "Histats",
+        "url": "https://www.histats.com/viewstats/?act=1",
+        "difficulty": "easy",
+        "notes": "Click the red 'Delete Account'.",
+        "domains": [
+            "histats.com"
+        ]
+    },
+
+    {
         "name": "Hi5",
         "url": "https://www.hi5.com/account_cancel.html",
         "difficulty": "easy",
