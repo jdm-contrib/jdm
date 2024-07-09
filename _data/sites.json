@@ -9407,6 +9407,19 @@
     },
 
     {
+        "name": "Hemingway Editor",
+        "url": "https://hemingwayapp.com/help#more-help",
+        "difficulty": "hard",
+        "notes": "Since there is no button, you must contact them through E-Mail. Thankfully, the wait time for their response is brief; however, this may differ from one to another.",
+        "notes_cz": "Protože není k dispozici žádné tlačítko, musíte je kontaktovat prostřednictvím e-mailu. Čekací doba na jejich odpověď je naštěstí krátká, může se však u každého lišit.",
+        "notes_sk": "Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom e-mailu. Našťastie je doba čakania na ich odpoveď krátka, môže sa však líšiť od jednej osoby k druhej.",
+        "email": "support@hemingwayapp.com",
+        "domains": [
+            "hemingwayapp.com"
+        ]
+    },
+
+    {
         "name": "Hepsiburada",
         "url": "https://www.hepsiburada.com/cozummerkezi/sikca-sorulan-sorular-detay/220",
         "difficulty": "hard",
