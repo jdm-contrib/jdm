@@ -9535,6 +9535,16 @@
     },
 
     {
+        "name": "Histats",
+        "url": "https://www.histats.com/viewstats/?act=1",
+        "difficulty": "easy",
+        "notes": "Click the red 'Delete Account'.",
+        "domains": [
+            "histats.com"
+        ]
+    },
+
+    {
         "name": "HitBTC",
         "url": "https://support.hitbtc.com/en/support/tickets/new",
         "difficulty": "hard",
