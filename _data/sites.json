@@ -9870,6 +9870,16 @@
     },
 
     {
+        "name": "Human Benchmark",
+        "url": "https://humanbenchmark.com/delete-account",
+        "difficulty": "easy",
+        "notes": "Click \"Confirm delete account\".",
+        "domains": [
+            "humanbenchmark.com"
+        ]
+    },
+
+    {
         "name": "Humata",
         "url": "https://app.humata.ai/settings/personal",
         "difficulty": "easy",
