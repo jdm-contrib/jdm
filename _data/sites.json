@@ -10245,12 +10245,13 @@
 
     {
         "name": "Infinity Free",
-        "url": "https://app.infinityfree.net/accounts/",
-        "difficulty": "easy",
-        "notes": "Visit the URL. Click on your account name. Click on 'Account Settings'. Scroll down to click 'Deactivate Account'. Note: It takes 20-60 days for complete account deletion.",
+        "url": "https://dash.infinityfree.com/users",
+        "difficulty": "medium",
+        "notes": "Visit the URL. Click on 'Edit Profile'. Scroll down to 'Delete Profile' section, enter current password then click 'Delete Profile'. Note that it can take up to 30 days for all data to be fully removed.",
         "domains": [
-            "infinityfree.net",
-            "app.infinityfree.net"
+            "infinityfree.com",
+            "dash.infinityfree.com",
+            "forum.infinityfree.com"
         ]
     },
 
