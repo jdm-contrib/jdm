@@ -9493,16 +9493,6 @@
     },
 
     {
-        "name": "Histats",
-        "url": "https://www.histats.com/viewstats/?act=1",
-        "difficulty": "easy",
-        "notes": "Click the red 'Delete Account'.",
-        "domains": [
-            "histats.com"
-        ]
-    },
-
-    {
         "name": "Hi5",
         "url": "https://www.hi5.com/account_cancel.html",
         "difficulty": "easy",
@@ -9541,6 +9531,16 @@
         "notes": "Click \"Settings\", then \"My Account\", then \"Delete my account\", and finally click the red \"Delete my account\" button.",
         "domains": [
             "hinative.com"
+        ]
+    },
+
+    {
+        "name": "Histats",
+        "url": "https://www.histats.com/viewstats/?act=1",
+        "difficulty": "easy",
+        "notes": "Click the red 'Delete Account'.",
+        "domains": [
+            "histats.com"
         ]
     },
 
