@@ -12499,6 +12499,16 @@
     },
 
     {
+        "name": "Mangools",
+        "url": "https://mangools.com/account",
+        "difficulty": "easy",
+        "notes": "On 'Delete account' section, click the red 'Understand, delete my account'",
+        "domains": [
+            "mangools.com"
+        ]
+    },
+
+    {
         "name": "Mapbox",
         "url": "https://account.mapbox.com/settings",
         "difficulty": "easy",
