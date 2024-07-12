@@ -3569,6 +3569,17 @@
     },
 
     {
+        "name": "CEEOL",
+        "url": "https://www.cdkeys.com/user/profile/",
+        "difficulty": "impossible",
+        "notes": "To request account cancellation & remove your personal information, please email them. Note: CEEOL will retain and use your information as necessary to comply with their legal obligations, resolve disputes, and enforce their agreements.",
+        "email": "info@ceeol.com",
+        "domains": [
+            "ceeol.com"
+        ]
+    },
+
+    {
         "name": "Celcoin",
         "url": "https://celcoin.com.br",
         "difficulty": "hard",
@@ -14342,6 +14353,17 @@
     },
 
     {
+        "name": "Ngan Luong",
+        "url": "https://account.nganluong.vn/nganluong/user-info/lock-wallet",
+        "difficulty": "impossible",
+        "notes": "Enter your current password and click \"Continue\". Notification: After requesting to close the account, NganLuong will proceed to approve:\n - If the account is being disputed, Ngan Luong will ask you to resolve the dispute before closing the account.\n - If the account still has a balance, Ngan Luong will guide you to pay off the balance before closing.\n Accounts cannot be reopened once closed, you should consider before closing.",
+        "domains": [
+            "nganluong.vn",
+            "account.nganluong.vn"
+        ]
+    },
+
+    {
         "name": "ngrok",
         "url": "https://dashboard.ngrok.com/user/settings/delete",
         "difficulty": "easy",
@@ -14666,6 +14688,16 @@
         "notes_pt_br": "De acordo com a política de privacidade, as contas não podem ser excluídas, apenas desativadas (e reativadas mais para frente).",
         "domains": [
             "nube.com.br"
+        ]
+    },
+
+    {
+        "name": "Nulled",
+        "url": "https://www.nulled.to/topic/1418075-delete-account/",
+        "difficulty": "impossible",
+        "notes": "They DO NOT delete accounts, just log out.",
+        "domains": [
+            "nulled.to"
         ]
     },
 
