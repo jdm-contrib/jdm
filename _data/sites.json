@@ -16681,6 +16681,18 @@
     },
 
     {
+        "name": "Pushlink",
+        "url": "https://adm.pushlink.com/delete-account.xhtml",
+        "difficulty": "easy",
+        "notes": "Type your current password and click 'Erase all data permanently'.",
+        "domains": [
+            "pushlink.com",
+            "adm.pushlink.com",
+            "docs.pushlink.com"
+        ]
+    },
+
+    {
         "name": "Pushover",
         "url": "https://pushover.net/settings/delete_account",
         "difficulty": "easy",
@@ -16765,6 +16777,16 @@
         "notes": "From the app: Avatar ⮕ Settings ⮕ Account Security ⮕ Account Cancellation.",
         "domains": [
             "qq.com"
+        ]
+    },
+
+    {
+        "name": "QQTube",
+        "url": "https://www.qqtube.com/identity",
+        "difficulty": "easy",
+        "notes": "Click 'Close account' ⮕ Enter your current password ⮕ Click 'Deactivate'.",
+        "domains": [
+            "qqtube.com"
         ]
     },
 
@@ -18652,6 +18674,16 @@
         "notes": "You need to open a request with customer service to delete your account.",
         "domains": [
             "snapfish.com"
+        ]
+    },
+
+    {
+        "name": "Snappa",
+        "url": "https://snappa.com/app/account-settings",
+        "difficulty": "easy",
+        "notes": "Click 'Delete Account' ⮕ Click 'Delete' to confirm.",
+        "domains": [
+            "snappa.com"
         ]
     },
 
