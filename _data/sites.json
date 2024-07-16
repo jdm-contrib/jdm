@@ -16784,7 +16784,7 @@
         "name": "QQTube",
         "url": "https://www.qqtube.com/identity",
         "difficulty": "easy",
-        "notes": "Click 'Close account' -> Enter your current password -> Click 'Deactivate'.",
+        "notes": "Click 'Close account' ⮕ Enter your current password ⮕ Click 'Deactivate'.",
         "domains": [
             "qqtube.com"
         ]
@@ -18681,7 +18681,7 @@
         "name": "Snappa",
         "url": "https://snappa.com/app/account-settings",
         "difficulty": "easy",
-        "notes": "CLick 'Delete Account' -> Click 'Delete' to confirm.",
+        "notes": "Click 'Delete Account' ⮕ Click 'Delete' to confirm.",
         "domains": [
             "snappa.com"
         ]
