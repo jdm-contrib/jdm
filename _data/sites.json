@@ -13553,6 +13553,18 @@
     },
 
     {
+        "name": "MonTCL",
+        "url": "https://www.tcl.fr/user/delete/confirmation",
+        "difficulty": "easy",
+        "notes": "Go to your account settings, scroll down and click on \"Delete my account\".",
+        "notes_fr": "Allez sur les paramètres de votre compte, descendez et cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "tcl.fr",
+            "www.tcl.fr"
+        ]
+    },
+
+    {
         "name": "Moodle",
         "url": "https://moodle.org/admin/tool/dataprivacy/createdatarequest.php?type=2",
         "difficulty": "easy",
