@@ -19695,6 +19695,16 @@
     },
 
     {
+        "name": "SubMeNow",
+        "url": "https://www.submenow.com/account.html",
+        "difficulty": "easy",
+        "notes" : "Click 'Close Account' then click 'YES, close my Account' to confirm.",
+        "domains": [
+            "submenow.com"
+        ]
+    },
+
+    {
         "name": "Super Domínios",
         "url": "https://superdominios.org/contato/",
         "difficulty": "hard",
@@ -20023,6 +20033,16 @@
         "domains": [
             "tastyworks.com",
             "support.tastyworks.com"
+        ]
+    },
+
+    {
+        "name": "TCL",
+        "url": "https://www.tcl.com/deleteaccount/",
+        "difficulty": "medium",
+        "notes": "Click 'Continue' ⮕ Click 'Register to delete' ⮕ Enter verification code sent to your email ⮕ Click 'Proceed' to confirm deletion.",
+        "domains": [
+            "tcl.com"
         ]
     },
 
