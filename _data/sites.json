@@ -3620,6 +3620,18 @@
     },
 
     {
+        "name": "Cfx.re",
+        "url": "https://support.cfx.re/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You need to send a support request. The button in your forum profile page leads you to that.",
+        "domains": [
+            "cfx.re",
+            "forum.cfx.re",
+            "support.cfx.re"
+        ]
+    },
+
+    {
         "name": "cgtrader",
         "url": "https://help.cgtrader.com/hc/en-us/articles/4402420280081-How-can-I-delete-my-account-",
         "email": "support@cgtrader.com",
