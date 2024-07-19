@@ -20335,6 +20335,16 @@
     },
 
     {
+        "name": "Themeplaza",
+        "url": "https://themeplaza.art/contact",
+        "difficulty": "limited",
+        "notes": "You need to send a support request through Discord.",
+        "domains": [
+            "themeplaza.art"
+        ]
+    },
+
+    {
         "name": "TheMovieDB",
         "url": "https://www.themoviedb.org/settings/delete-account",
         "difficulty": "easy",
