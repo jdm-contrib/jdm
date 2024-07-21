@@ -19154,6 +19154,16 @@
     },
 
     {
+        "name": "Square",
+        "url": "https://squareup.com/help/us/en/article/3819-deactivate-your-account",
+        "difficulty": "impossible",
+        "notes": "You can deactivate your business, but not delete your account.",
+        "domains": [
+            "squareup.com"
+        ]
+    },
+
+    {
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "https://stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
