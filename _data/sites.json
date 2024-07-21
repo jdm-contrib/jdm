@@ -22198,10 +22198,9 @@
 
     {
         "name": "Walmart Canada",
-        "url": "https://www.walmart.ca/en/help/contact-us",
-        "difficulty": "hard",
-        "notes": "Contact customer service to close your account.",
-        "notes_tr": "Hesabınızı kapatmak için müşteri hizmetleriyle iletişime geçin.",
+        "url": "https://www.walmart.ca/en/account/delete-account",
+        "difficulty": "easy",
+        "notes": "Follow the link or scroll to the bottom of the website and click \"Delete my account.\" You will be prompted to log in and confirm the deletion.",
         "domains": [
             "walmart.ca"
         ]
