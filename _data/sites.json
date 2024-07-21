@@ -18943,6 +18943,18 @@
     },
 
     {
+        "name": "Sourcegraph",
+        "url": "https://sourcegraph.com/docs/sourcegraph-accounts#how-to-delete-accounts-or-unlink-social-sign-ins",
+        "difficulty": "hard",
+        "notes": "Contact Sourcegraph support via email using your primary email (shown at <a href=\"https://accounts.sourcegraph.com\">accounts.sourcegraph.com</a> when signed in).",
+        "email": "support@sourcegraph.com",
+        "domains": [
+            "sourcegraph.com",
+            "accounts.sourcegraph.com"
+        ]
+    },
+
+    {
         "name": "Sourcery.ai",
         "url": "https://sourcery.ai/privacy/",
         "difficulty": "hard",
