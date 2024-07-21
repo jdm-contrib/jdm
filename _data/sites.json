@@ -19133,6 +19133,16 @@
     },
 
     {
+        "name": "Square",
+        "url": "https://squareup.com/help/us/en/article/3819-deactivate-your-account",
+        "difficulty": "impossible",
+        "notes": "You can deactivate your business, but not delete your account.",
+        "domains": [
+            "squareup.com"
+        ]
+    },
+
+    {
         "name": "Square Cash",
         "url": "https://cash.me/login?return_to=support",
         "difficulty": "hard",
@@ -19150,16 +19160,6 @@
         "domains": [
             "squarespace.com",
             "account.squarespace.com"
-        ]
-    },
-
-    {
-        "name": "Square",
-        "url": "https://squareup.com/help/us/en/article/3819-deactivate-your-account",
-        "difficulty": "impossible",
-        "notes": "You can deactivate your business, but not delete your account.",
-        "domains": [
-            "squareup.com"
         ]
     },
 
