@@ -961,9 +961,9 @@
 
     {
         "name": "Alibaba",
-        "url": "https://accounts.alibaba.com/user/organization/manage_person_profile.htm",
+        "url": "https://myprivacy.alibaba.com/home#/request/delete",
         "difficulty": "easy",
-        "notes": "To delete your account, go to \"My Account\" page, click on \"Member Profile\" and then, \"Deactivate Account\"",
+        "notes": "To delete your account, go to the Alibaba privacy center linked above, then click \"Delete Account\", enter \"delete\" in the text field, and click \"Delete Account\" again.",
         "notes_ru": "Чтобы удалить свою учетную запись, перейдите на страницу «Моя учетная запись», нажмите «Профиль участника», а затем «Деактивировать учетную запись».",
         "domains": [
             "alibaba.com",
