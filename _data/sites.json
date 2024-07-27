@@ -1566,6 +1566,27 @@
     },
 
     {
+        "name": "Arch Linux AUR",
+        "url": "https://aur.archlinux.org/",
+        "difficulty": "easy",
+        "notes": "Click on the \"My Account\" button, then in the first line of text at the top of the page, there is a button that links to a page where you can delete your account.",
+        "domains": [
+            "aur.archlinux.org"
+        ]
+    },
+
+    {
+        "name": "Arch Linux Forums",
+        "url": "https://aur.archlinux.org/",
+        "email": "forum@archlinux.org",
+        "difficulty": "hard",
+        "notes": "You need to send an email to the forum team.",
+        "domains": [
+            "bbs.archlinux.org"
+        ]
+    },
+
+    {
         "name": "Archipad",
         "url": "https://cloud.archipad.com/",
         "difficulty": "easy",
