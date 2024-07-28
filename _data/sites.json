@@ -7018,6 +7018,17 @@
     },
 
     {
+        "name": "Filen.io",
+        "url": "https://drive.filen.io/#/account/settings",
+        "difficulty": "easy",
+        "notes": "The deletion option is at the bottom of the second tab of the user settings page when logged in.",
+        "domains": [
+            "drive.filen.io",
+            "filen.io"
+        ]
+    },
+
+    {
         "name": "Fin.do",
         "url": "https://www.fin.do/support",
         "notes": "Request account deletion via the contact form.",
