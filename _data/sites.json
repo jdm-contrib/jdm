@@ -6672,6 +6672,16 @@
     },
 
     {
+        "name": "EVGA",
+        "url": "https://www.evga.com/legal/privacy/#form",
+        "difficulty": "medium",
+        "notes": "Submit form to request deletion, open confirmation link from e-mail.",
+        "domains": [
+            "evga.com"
+        ]
+    },
+
+    {
         "name": "Evite",
         "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/516d7c8e-88ca-4311-b9d9-a6a1aa23be02/5eb62c40-d057-4621-93ca-9842142c3443.html",
         "difficulty": "hard",
