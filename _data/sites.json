@@ -16836,6 +16836,16 @@
     },
 
     {
+        "name": "Qobuz",
+        "url": "https://www.qobuz.com/profile/delete/confirmation/email",
+        "difficulty": "easy",
+        "notes": "Requires email confirmation.",
+        "domains": [
+            "qobuz.com"
+        ]
+    },
+
+    {
         "name": "QQ",
         "url": "https://kf.qq.com/faq/1803146n2yMr180314MbIfER.html",
         "difficulty": "easy",
