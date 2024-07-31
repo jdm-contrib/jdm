@@ -161,6 +161,17 @@
     },
 
     {
+        "name": "404 Media",
+        "url": "https://www.404media.co/privacy-policy/",
+        "email": "emanuel@404media.co",
+        "difficulty": "hard",
+        "notes": "You need to send an email to support.",
+        "domains": [
+            "404media.co"
+        ]
+    },
+
+    {
         "name": "4PDA",
         "url": "https://4pda.to/forum/index.php?act=findpost&pid=1930277&anchor=Spoil-1930277-33",
         "difficulty": "impossible",
