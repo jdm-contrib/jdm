@@ -4318,9 +4318,9 @@
 
     {
         "name": "CoinMarketCap",
-        "url": "https://support.coinmarketcap.com/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "You must submit a support ticket and request your account to be deleted.",
+        "url": "https://coinmarketcap.com/community/edit-profile/",
+        "difficulty": "easy",
+        "notes": "CoinMarketCap provides a button to automatically request account deletion. The account deletion process is said to take up to 21 days.",
         "domains": [
             "coinmarketcap.com",
             "support.coinmarketcap.com"
