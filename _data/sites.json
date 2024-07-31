@@ -2676,6 +2676,16 @@
     },
 
     {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/notices/tos/",
+        "difficulty": "impossible",
+        "notes": "You cannot delete your account by yourself. Apparently, they delete it automatically after a long period of inactivity but nothing in their website talks about it.",
+        "domains": [
+            "bloomberg.com"
+        ]
+    },
+
+    {
         "name": "Bloomingdales",
         "url": "https://customerservice-bloomingdales.com/articles/contact-us",
         "difficulty": "hard",
