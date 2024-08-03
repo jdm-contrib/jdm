@@ -13874,16 +13874,6 @@
     },
 
     {
-        "name": "Myfxbook",
-        "url": "https://www.myfxbook.com/settings#profile",
-        "difficulty": "easy",
-        "notes": "Account deletion can be achieved from within the profile settings.",
-        "domains": [
-            "myfxbook.com"
-        ]
-    },
-
-    {
         "name": "My Invisalign",
         "url": "https://my.invisalign.com/myprofile",
         "difficulty": "easy",
@@ -13989,6 +13979,16 @@
         "domains": [
             "myfritz.net",
             "sso.myfritz.net"
+        ]
+    },
+
+    {
+        "name": "Myfxbook",
+        "url": "https://www.myfxbook.com/settings#profile",
+        "difficulty": "easy",
+        "notes": "Account deletion can be achieved from within the profile settings.",
+        "domains": [
+            "myfxbook.com"
         ]
     },
 
