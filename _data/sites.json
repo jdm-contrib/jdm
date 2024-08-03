@@ -13874,6 +13874,16 @@
     },
 
     {
+        "name": "Myfxbook",
+        "url": "https://www.myfxbook.com/settings#profile",
+        "difficulty": "easy",
+        "notes": "Account deletion can be achieved from within the profile settings.",
+        "domains": [
+            "myfxbook.com"
+        ]
+    },
+
+    {
         "name": "My Invisalign",
         "url": "https://my.invisalign.com/myprofile",
         "difficulty": "easy",
@@ -15306,6 +15316,16 @@
         "notes": "You can only request account deletion by sending an email.",
         "domains": [
             "osu.ppy.sh"
+        ]
+    },
+
+    {
+        "name": "otter.ai",
+        "url": "https://otter.ai/setting",
+        "difficulty": "easy",
+        "notes": "Account deletion can be achieved from within the account settings. Simply go to 'Account settings' and press 'Delete account'. Then confirm by entering your password.",
+        "domains": [
+            "otter.ai"
         ]
     },
 
