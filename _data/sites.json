@@ -23892,5 +23892,15 @@
         "domains": [
             "miyklas.com.ua"
         ]
+    },
+
+    {
+        "name": "Synergym",
+        "url": "https://synergym.es",
+        "difficulty": "hard",
+        "notes": "If you want to delete the account in this website, you need to press a button, but it skip that, and goes to the principal web, also, I found how to go to the page of delete account, but it`s impossible.",
+        "domains": [
+            "synergym.es"
+        ]
     }
 ]
