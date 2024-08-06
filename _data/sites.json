@@ -4448,6 +4448,16 @@
     },
 
     {
+        "name": "Coolshop.dk",
+        "url": "https://www.coolshop.dk/my/gdpr/",
+        "difficulty": "easy",
+        "notes": "Account deletion can be requested from within ones account settings. It takes them up to 24 hours to process the request.",
+        "domains": [
+            "coolshop.dk"
+        ]
+    },
+
+    {
         "name": "Copyrighted",
         "url": "https://app.copyrighted.com/users/settings/cancel",
         "difficulty": "easy",
