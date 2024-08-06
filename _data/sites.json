@@ -14286,6 +14286,19 @@
     },
 
     {
+        "name": "Netgate",
+        "url": "https://www.netgate.com/company/privacy-policy#right-to-erasure-right-to-be-forgotten",
+        "difficulty": "hard",
+        "notes": "You need to send an email. If you have placed any orders (even for $0) in the last 7 years, support will refuse to delete your account.",
+        "email": "privacy@netgate.com",
+        "email_body": "Please delete my account, my email address is XXXXXX",
+        "domains": [
+            "netgate.com",
+            "shop.netgate.com"
+        ]
+    },
+
+    {
         "name": "Netlify",
         "url": "https://app.netlify.com/account/settings/general#danger-zone",
         "difficulty": "easy",
