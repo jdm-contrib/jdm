@@ -15953,8 +15953,8 @@
     {
         "name": "Photobucket",
         "url": "https://support.photobucket.com/hc/en-us/articles/360039780614",
-        "difficulty": "hard",
-        "notes": "To delete your account, you must [open a support ticket](https://support.photobucket.com/hc/en-us/requests/new) and provide your username, email address, full name, dob, the postal code and country from where you registered for verification. According to Photobucket, account deletion takes up to 30 days, and your old pictures cannot be recovered from deleted accounts as they will be completely erased from their servers.",
+        "difficulty": "medium",
+        "notes": "First cancel any subscriptions. Then after logging in, click [here](https://my.photobucket.com/photobucket-account-deletion-step1) and click through the multiple confirmations to start the account deletion process. Deletion can take up to 30 days, but there isn't any type of notification confirming a successful deletion. Second method is to open a support ticket and provide account username, email address, full name, the postal code and country from where you registered for verification. This method allows immediate deletion upon request.",
         "domains": [
             "photobucket.com",
             "support.photobucket.com"
