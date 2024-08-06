@@ -12665,6 +12665,16 @@
     },
 
     {
+        "name": "Marq",
+        "url": "https://help.marq.com/delete-your-account",
+        "difficulty": "medium",
+        "notes": "Account can be deleted from the account settings. If you have an active subscription, then this needs to be cancelled first.",
+        "domains": [
+            "marq.com"
+        ]
+    },
+
+    {
         "name": "Marvel",
         "url": "https://marvelapp.com/account/",
         "difficulty": "easy",
@@ -12672,16 +12682,6 @@
         "notes_tr": "Hesabınıza giriş yapın, ve sayfanın altındaki \"Hesabım\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "marvelapp.com"
-        ]
-    },
-
-    {
-        "name": "Marq",
-        "url": "https://help.marq.com/delete-your-account",
-        "difficulty": "medium",
-        "notes": "Account can be deleted from the account settings. If you have an active subscription, then this needs to be cancelled first.",
-        "domains": [
-            "marq.com"
         ]
     },
 
