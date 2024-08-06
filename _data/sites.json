@@ -12311,15 +12311,14 @@
     },
 
     {
-        "name": "Lucidchart/Lucidpress",
+        "name": "Lucidchart",
         "url": "https://www.lucidchart.com/users/login",
         "difficulty": "easy",
         "notes": "Click in the top right corner on your Username, then \"Account settings\" and at the tab \"Close Account\"",
         "notes_tr": "Sağ üst köşedeki kullanıcı adınıza tıklayın, \"Hesap Ayarları\" kısmından \"Hesabı Kapat\" sekmesine girin",
         "domains": [
             "lucid.app",
-            "lucidchart.com",
-            "lucidpress.com"
+            "lucidchart.com"
         ]
     },
 
@@ -12672,6 +12671,16 @@
         "notes_nl": "Log in op Marktplaats. Ga naar de gekoppelde URL of klik in Marktplaats rechtsboven op de naam, kies voor 'Mijn Profiel' en ga naar je contactgegevens. Op deze pagina klik je onderaan op 'Account verwijderen'. Geef aan waarom je je account wilt verwijderen en klik op 'Bevestigen'. Je account wordt verwijdert en je ontvangt een e-mail ter bevestiging.",
         "domains": [
             "marktplaats.nl"
+        ]
+    },
+
+    {
+        "name": "Marq",
+        "url": "https://help.marq.com/delete-your-account",
+        "difficulty": "medium",
+        "notes": "Account can be deleted from the account settings. If you have an active subscription, then this needs to be cancelled first.",
+        "domains": [
+            "marq.com"
         ]
     },
 
