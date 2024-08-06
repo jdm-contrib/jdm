@@ -18761,7 +18761,7 @@
         "name": "Smartsheet",
         "url": "https://app.smartsheet.com/b/form/599b304161d34e29baa9c5fb985c4333",
         "difficulty": "hard",
-        "notes": "An account deletion request needs to be send to customer services via a privacy request form found in their privacy policy.",
+        "notes": "An account deletion request needs to be sent to customer services via a privacy request form found in their privacy policy.",
         "domains": [
             "smartsheet.com"
         ]
