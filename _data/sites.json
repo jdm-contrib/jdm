@@ -3000,7 +3000,7 @@
     {
         "name": "Borussia Dortmund",
         "url": "https://account.bvb.de/s/",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "Go to 'Account-Einstellungen' and klick 'BVB-Account deaktivieren. Then contact them via mail to get all data deleted.",
         "email": "datenschutz@bvb.de",
         "email_subject": "Datenlöschung gemäß DSGVO",
