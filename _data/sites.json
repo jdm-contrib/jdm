@@ -467,6 +467,19 @@
     },
 
     {
+        "name": "Acer",
+        "url": "https://community.acer.com/en/kb/articles/115-how-to-delete-your-acer-id-account",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "email": "privacy_officer@acer.com",
+        "email_subject": "Acer Account Deletion",
+        "domains": [
+            "acer.com",
+            "community.acer.com"
+        ]
+    },
+
+    {
         "name": "Acorns",
         "url": "https://app.acorns.com/close-account",
         "difficulty": "easy",
