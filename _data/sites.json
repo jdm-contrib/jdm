@@ -3011,6 +3011,19 @@
     },
 
     {
+        "name": "Borussia Dortmund",
+        "url": "https://account.bvb.de/s/",
+        "difficulty": "hard",
+        "notes": "Go to 'Account-Einstellungen' and klick 'BVB-Account deaktivieren. Then contact them via mail to get all data deleted.",
+        "email": "datenschutz@bvb.de",
+        "email_subject": "Datenlöschung gemäß DSGVO",
+        "email_body": "Guten Tag,\n\nBitte löschen Sie gemäß DSGVO den Account und die Daten für den Account mit der E-Mail Adresse: XXX\n\nVielen Dank und mit freundlichen Grüßen.",
+        "domains": [
+            "bvb.de"
+        ]
+    },
+
+    {
         "name": "Bountysource",
         "url": "https://github.com/bountysource/core/issues/409",
         "difficulty": "hard",
