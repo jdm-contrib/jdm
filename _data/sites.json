@@ -7943,7 +7943,6 @@
         "name": "Gamehag",
         "url": "https://www.gamehag.com/profile/edit",
         "difficulty": "impossible",
-        "email": "support@gamehag.com",
         "notes": "Going to the bottom of the page and clicking on 'Delete Account' will only hide it, after deleting an account you can log back in and click recover even after years. E-mail does not work.",
         "notes_bg": "Когато изтриете акаунт, той може да бъде върнат като влезете пак дори след години. Имейлът им не работи.",
         "domains": [
