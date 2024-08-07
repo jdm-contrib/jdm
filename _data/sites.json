@@ -7942,10 +7942,10 @@
     {
         "name": "Gamehag",
         "url": "https://www.gamehag.com/profile/edit",
-        "difficulty": "easy",
+        "difficulty": "impossible",
         "email": "support@gamehag.com",
-        "notes": "Go to the bottom of the page and click on 'Delete Account'",
-        "notes_tr": "Sayfanın sonuna gidip 'Hesabı Sil' tuşuna basın.",
+        "notes": "Going to the bottom of the page and clicking on 'Delete Account' will only hide it, after deleting an account you can log back in and click recover even after years. E-mail does not work.",
+		"notes_bg": "Когато изтриете акаунт, той може да бъде върнат като влезете пак дори след години. Имейлът им не работи.",
         "domains": [
             "gamehag.com"
         ]
@@ -9029,6 +9029,7 @@
         "notes_cat": "No es pot esborrar el seu compte de Gravatar sense borrar tot el compte de WordPress.",
         "notes_es": "No puedes borrar tu cuenta de Gravatar sin borrar toda tu cuenta de WordPress.",
         "notes_pl": "Nie ma możliwości usunięcia konta Gravatar bez usunięcia całego konta WordPress.",
+        "notes_bg": "Не можете да изтриете акаунта без да изтриете и WordPress акаунта си.",
         "domains": [
             "gravatar.com"
         ]
@@ -12919,6 +12920,18 @@
         "domains": [
             "mega.nz",
             "mega.io"
+        ]
+    },
+
+	{
+        "name": "Megaknihy",
+        "url": "https://www.megaknihy.cz/",
+        "difficulty": "hard",
+        "email": "info@megaknihy.cz",
+        "notes": "You must call their phone (as of writing +420 222 703 143) and request deletion. They ignored my e-mail.",
+		"notes_cz": "Musíte zavolat na jejich číslo (v době psaní +420 222 703 143) а požádat o vymazání. Ignorovali můj e-mail.",
+        "domains": [
+            "megaknihy.cz"
         ]
     },
 
@@ -18046,6 +18059,18 @@
             "schoolfinder.com"
         ]
     },
+
+    {
+        "name": "School of Chaos Online MMORPG",
+        "url": "https://vnlentertainment.com/soc-html-privacy-policy-english.html",
+        "email": "support@vnlentertainment.com",
+        "difficulty": "impossible",
+        "notes": "E-mailing customer service does not delete the account, only put it in spawn and reset mission progress. All items, currency and usernames are intact. The e-mail is not even publicly available.",
+        "domains": [
+            "vnlentertainment.com"
+        ]
+    },
+
 
     {
         "name": "Schoology",
