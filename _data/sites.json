@@ -22564,10 +22564,8 @@
 
     {
         "name": "Weebly",
-        "url": "https://www.weebly.com/home/account/payment",
+        "url": "https://www.weebly.com/home/account/data",
         "difficulty": "easy",
-        "notes": "Click on 'Permanently delete your Weebly account'.",
-        "notes_tr": "\"Weebly hesabınızı kalıcı olarak silin\" tuşuna tıklayın.",
         "domains": [
             "weebly.com"
         ]
