@@ -7945,7 +7945,7 @@
         "difficulty": "impossible",
         "email": "support@gamehag.com",
         "notes": "Going to the bottom of the page and clicking on 'Delete Account' will only hide it, after deleting an account you can log back in and click recover even after years. E-mail does not work.",
-		"notes_bg": "Когато изтриете акаунт, той може да бъде върнат като влезете пак дори след години. Имейлът им не работи.",
+        "notes_bg": "Когато изтриете акаунт, той може да бъде върнат като влезете пак дори след години. Имейлът им не работи.",
         "domains": [
             "gamehag.com"
         ]
@@ -12923,13 +12923,13 @@
         ]
     },
 
-	{
+    {
         "name": "Megaknihy",
         "url": "https://www.megaknihy.cz/",
         "difficulty": "hard",
         "email": "info@megaknihy.cz",
         "notes": "You must call their phone (as of writing +420 222 703 143) and request deletion. They ignored my e-mail.",
-		"notes_cz": "Musíte zavolat na jejich číslo (v době psaní +420 222 703 143) а požádat o vymazání. Ignorovali můj e-mail.",
+        "notes_cz": "Musíte zavolat na jejich číslo (v době psaní +420 222 703 143) а požádat o vymazání. Ignorovali můj e-mail.",
         "domains": [
             "megaknihy.cz"
         ]
@@ -18040,23 +18040,23 @@
     },
 
     {
+        "name": "School of Chaos Online MMORPG",
+        "url": "https://vnlentertainment.com/soc-html-privacy-policy-english.html",
+        "email": "support@vnlentertainment.com",
+        "difficulty": "impossible",
+        "notes": "E-mailing customer service does not delete the account, only put it in spawn and reset mission progress. All items, currency and usernames are intact. The e-mail is not even publicly available.",
+        "domains": [
+            "vnlentertainment.com"
+        ]
+    },
+
+    {
         "name": "SchoolCashOnline",
         "url": "https://schoolcashonline.com/MyAccount/EditProfile",
         "difficulty": "easy",
         "notes": "Scroll down to the bottom of the page and click 'Deactivate Account'.",
         "domains": [
             "schoolcashonline.com"
-        ]
-    },
-
-    {
-        "name": "SchoolFinder",
-        "url": "https://www.schoolfinder.com/About/SchoolFinder-Privacy-Policy.pdf",
-        "email": "info@SchoolFinder.com",
-        "difficulty": "hard",
-        "notes": "Email customer service to request account deletion.",
-        "domains": [
-            "schoolfinder.com"
         ]
     },
 
@@ -18071,6 +18071,16 @@
         ]
     },
 
+    {
+        "name": "SchoolFinder",
+        "url": "https://www.schoolfinder.com/About/SchoolFinder-Privacy-Policy.pdf",
+        "email": "info@SchoolFinder.com",
+        "difficulty": "hard",
+        "notes": "Email customer service to request account deletion.",
+        "domains": [
+            "schoolfinder.com"
+        ]
+    },
 
     {
         "name": "Schoology",
