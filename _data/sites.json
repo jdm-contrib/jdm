@@ -16799,6 +16799,16 @@
     },
 
     {
+        "name": "ProWritingAid",
+        "url": "https://prowritingaid.com/en/Account/Manage",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and press 'Delete Account'.",
+        "domains": [
+            "prowritingaid.com"
+        ]
+    },
+
+    {
         "name": "Proxer",
         "url": "https://proxer.me/ucp?s=deleteaccount",
         "difficulty": "easy",
