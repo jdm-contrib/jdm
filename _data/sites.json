@@ -22312,6 +22312,17 @@
     },
 
     {
+        "name": "Vueling",
+        "url": "https://tickets.vueling.com/DeleteUser.aspx",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and enter your details to confirm the deletion of your account.",
+        "domains": [
+            "vueling.com",
+            "tickets.vueling.com"
+        ]
+    },
+
+    {
         "name": "Vuforia Chalk",
         "url": "https://support.ptc.com/help/vuforia/chalk_app_center/index.html#page/Vuforia_Chalk_Admin_Center/common/delete_account.html",
         "difficulty": "easy",
