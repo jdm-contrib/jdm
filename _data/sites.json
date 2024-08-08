@@ -16961,6 +16961,16 @@
     },
 
     {
+        "name": "QuillBot",
+        "url": "https://help.quillbot.com/hc/en-us/requests/new?ticket_form_id=13656193734039",
+        "difficulty": "hard",
+        "notes": "Visit the linked page and use the form to request the deletion of your account.",
+        "domains": [
+            "quillbot.com"
+        ]
+    },
+
+    {
         "name": "QuintoAndar",
         "url": "https://help.quintoandar.com.br/hc/pt-br/requests/new",
         "difficulty": "hard",
