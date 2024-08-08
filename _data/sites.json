@@ -7152,6 +7152,19 @@
     },
 
     {
+        "name": "Finviz",
+        "url": "https://finviz.com/contact.ashx",
+        "difficulty": "hard",
+        "notes": "One must contact customer support via email or contact form to request account deletion.",
+        "email": "support@finviz.com",
+        "email_subject": "Data Deletion Request",
+        "email_body": "Please delete my account registered with this email address.",
+        "domains": [
+            "finviz.com"
+        ]
+    },
+
+    {
         "name": "Firefox",
         "url": "https://accounts.firefox.com/settings/delete_account",
         "difficulty": "easy",
