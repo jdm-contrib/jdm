@@ -23436,6 +23436,19 @@
     },
 
     {
+        "name": "Writefull",
+        "url": "https://www.writefull.com/privacy",
+        "difficulty": "hard",
+        "notes": "One must contact customer support via email to request account deletion.",
+        "email": "support@writefull.com",
+        "email_subject": "Data Deletion Request",
+        "email_body": "Please delete my account registered with this email address.",
+        "domains": [
+            "writefull.com"
+        ]
+    },
+
+    {
         "name": "WT.Social",
         "url": "https://wt.social/myaccount/deactivate-account",
         "difficulty": "impossible",
