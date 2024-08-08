@@ -3996,6 +3996,16 @@
     },
 
     {
+        "name": "Clippings.io",
+        "url": "https://my.clippings.io/settings/account",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click \"Delete Account\"",
+        "domains": [
+            "clippings.io"
+        ]
+    },
+
+    {
         "name": "Clockify",
         "url": "https://app.clockify.me/user/settings/delete",
         "difficulty": "easy",
