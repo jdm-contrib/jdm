@@ -21450,23 +21450,6 @@
     },
 
     {
-        "name": "Twitter",
-        "meta": "popular",
-        "url": "https://twitter.com/settings/accounts/confirm_deactivation",
-        "difficulty": "easy",
-        "notes": "Your account is deactivated before being deleted. After 30 days of remaining deactivated it will then be deleted.",
-        "notes_tr": "Hesabınız silinmeden önce devre dışı bırakılır. 30 gün boyunca devre dışı bırakıldıktan sonra, silinecektir.",
-        "notes_fr": "Votre compte est désactivé avant qu'il est supprimé. Il est seulement après 30 jours d'être désactivé qu'un compte est supprimé définitivement.",
-        "notes_cat": "El vostre compte es desactivarà abans de suprimir-lo. Un cop passats 30 dies, s'esborrarà.",
-        "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
-        "notes_cz": "Váš účet je před smazáním deaktivován na 30 dní. Po uplynutí této doby bude smazán.",
-        "notes_ru": "Ваша учетная запись деактивируется перед удалением. После деактивированных 30 дней, он будет удален.",
-        "domains": [
-            "twitter.com"
-        ]
-    },
-
-    {
         "name": "twoseven",
         "url": "https://twoseven.xyz/help/faq",
         "notes": "The instructions are the the bottom of their FAQs",
@@ -23500,6 +23483,24 @@
         "notes_tr": "Sadece devre dışı bırakma mümkündür",
         "domains": [
             "wt.social"
+        ]
+    },
+
+    {
+        "name": "X",
+        "meta": "popular",
+        "url": "https://x.com/settings/deactivate",
+        "difficulty": "easy",
+        "notes": "Your account is deactivated before being deleted. After 30 days of remaining deactivated it will then be deleted.",
+        "notes_tr": "Hesabınız silinmeden önce devre dışı bırakılır. 30 gün boyunca devre dışı bırakıldıktan sonra, silinecektir.",
+        "notes_fr": "Votre compte est désactivé avant qu'il est supprimé. Il est seulement après 30 jours d'être désactivé qu'un compte est supprimé définitivement.",
+        "notes_cat": "El vostre compte es desactivarà abans de suprimir-lo. Un cop passats 30 dies, s'esborrarà.",
+        "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
+        "notes_cz": "Váš účet je před smazáním deaktivován na 30 dní. Po uplynutí této doby bude smazán.",
+        "notes_ru": "Ваша учетная запись деактивируется перед удалением. После деактивированных 30 дней, он будет удален.",
+        "domains": [
+            "x.com",
+            "twitter.com"
         ]
     },
 
