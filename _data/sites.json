@@ -15365,6 +15365,16 @@
     },
 
     {
+        "name": "ORCID",
+        "url": "https://orcid.org/account",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click \"Deactivate you ORCID account\". Deactivation deletes identifiable information associated with the ID and cryptographically hashes your email address to ensure reactivation of the ID only being possible from your email.",
+        "domains": [
+            "orcid.org"
+        ]
+    },
+
+    {
         "name": "OSBuddy",
         "url": "https://rsbuddy.com/osbuddy/docs/privacy",
         "email": "support@rsbuddy.com",
