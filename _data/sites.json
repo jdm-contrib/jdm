@@ -17197,9 +17197,9 @@
 
     {
         "name": "RapidAPI",
-        "url": "https://rapidapi.com/user/settings",
+        "url": "https://rapidapi.com/auth/user/settings",
         "difficulty": "easy",
-        "notes": "Account can be deleted by clicking delete under 'Delete Current User'",
+        "notes": "Account can be deleted by clicking \"delete\" under \"Delete Current User\".",
         "domains": [
             "rapidapi.com"
         ]
