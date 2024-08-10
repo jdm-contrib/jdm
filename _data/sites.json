@@ -23503,7 +23503,7 @@
         "difficulty": "easy",
         "notes": "Your account is deactivated before being deleted. After 30 days of remaining deactivated it will then be deleted.",
         "notes_tr": "Hesabınız silinmeden önce devre dışı bırakılır. 30 gün boyunca devre dışı bırakıldıktan sonra, silinecektir.",
-        "notes_fr": "Votre compte est désactivé avant qu'il est supprimé. Il est seulement après 30 jours d'être désactivé qu'un compte est supprimé définitivement.",
+        "notes_fr": "Votre compte sera désactivé avant qu'il ne soit supprimé. Après 30 jours à être désactivé, il sera supprimé définitivement.",
         "notes_cat": "El vostre compte es desactivarà abans de suprimir-lo. Un cop passats 30 dies, s'esborrarà.",
         "notes_it": "Il tuo account verrà 'disabilitato' prima di venir rimosso. Se dopo 30 giorni è ancora disattivato esso verrà eliminato.",
         "notes_cz": "Váš účet je před smazáním deaktivován na 30 dní. Po uplynutí této doby bude smazán.",
