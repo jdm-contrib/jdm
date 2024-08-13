@@ -22500,6 +22500,22 @@
     },
 
     {
+        "name": "Wasabi Hosting",
+        "url": "https://wasabihosting.com/clientarea.php",
+        "difficulty": "hard",
+        "notes": "Create a ticket to the Billing department and request your account to be deleted.",
+        "domains": [
+            "wasabihosting.com",
+            "lg.wasabihosting.com",
+            "firewall.wasabihosting.com",
+            "panel.wasabihosting.com",
+            "status.wasabihosting.com",
+            "vps.wasabihosting.com",
+            "web.wasabihosting.com"
+        ]
+    },
+
+    {
         "name": "The Washington Post",
         "url": "https://helpcenter.washingtonpost.com/hc/en-us/requests/new",
         "difficulty": "hard",
