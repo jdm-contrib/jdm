@@ -20329,6 +20329,17 @@
     },
 
     {
+        "name": "TCL à la demande",
+        "url": "https://tad.tcl.fr/profile",
+        "difficulty": "easy",
+        "notes": "On your account settings, unroll the \"Personal Data\" Section, and click on \"Delete my Account\".",
+        "notes_fr": "Sur vos paramètres de compte, dépliez la section \"Données personnelles\", et cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "tad.tcl.fr"
+        ]
+    },
+
+    {
         "name": "Teachable",
         "url": "https://support.teachable.com/hc/en-us/articles/5540634496525-Delete-Your-School-or-Account#Deleteyouruseraccount",
         "difficulty": "hard",
