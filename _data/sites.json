@@ -4340,16 +4340,6 @@
             "coffeecup.com"
         ]
     },
-
-    {
-        "name": "Copyleaks",
-        "url": "https://id.copyleaks.com/security",
-        "difficulty": "medium",
-        "notes": "Account > Security > Delete Account (On the bottom of the page) for all data: https://id.copyleaks.com/security/delete-internal-data.",
-        "domains": [
-            "copyleaks.com"
-        ]
-    },
     
     {
         "name": "Cohost",
@@ -4552,6 +4542,16 @@
         ]
     },
 
+    {
+            "name": "Copyleaks",
+            "url": "https://id.copyleaks.com/security",
+            "difficulty": "medium",
+            "notes": "Account > Security > Delete Account (On the bottom of the page) for all data: https://id.copyleaks.com/security/delete-internal-data.",
+            "domains": [
+                "copyleaks.com"
+            ]
+    },
+    
     {
         "name": "Copyrighted",
         "url": "https://app.copyrighted.com/users/settings/cancel",
