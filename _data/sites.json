@@ -7109,6 +7109,17 @@
     },
 
     {
+        "name": "Fidélité TCL",
+        "url": "https://fidelite.tcl.fr/dashboard/profile/documentation/deleteAccount",
+        "difficulty": "easy",
+        "notes": "On your profile page, go to \"Confidentialité\", then \"Supprimer mon compte\".",
+        "notes_fr": "Sur votre pasge de profil, allez sur \"Confidentialité\", puis \"Supprimer mon compte\".",
+        "domains": [
+            "fidelite.tcl.fr"
+        ]
+    },
+
+    {
         "name": "Figma",
         "url": "https://www.figma.com/",
         "difficulty": "easy",
