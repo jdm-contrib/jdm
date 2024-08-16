@@ -3092,6 +3092,16 @@
     },
 
     {
+        "name": "Brandpad",
+        "url": "https://create.brandpad.io/account/delete-account",
+        "difficulty": "easy",
+        "notes": "Account-Circle on the top right > Account > Delete Account --- You need to cancel your subscription first --- Deleting your account does not automatically unpublish or delete the brands connected to your account.",
+        "domains": [
+            "create.brandpad.io"
+        ]
+    },
+
+    {
         "name": "Brilliant",
         "url": "https://brilliant.org/account/settings/deactivate/",
         "difficulty": "easy",
@@ -3187,6 +3197,19 @@
         "difficulty": "easy",
         "domains": [
             "bufferapp.com"
+        ]
+    },
+
+    {
+        "name": "Builder.io",
+        "url": "https://builder.io/spaces",
+        "difficulty": "hard",
+        "notes": "Either you can write them a support ticket from their inbuild application under the questionamrk or write a mail to: support@builder.io",
+        "email": "support@builder.io",
+        "email_subject": "Account Deletion Request and Data Erasure",
+        "email_body": "Dear Builder.io Support Team,%0A%0A I hope this message finds you well.%0A%0A I am writing to formally request the deletion of my account associated with the following details:%0A Account Name:%09 XXXX%0A Account Email:%09 XXXX%0A%0A In accordance with your Privacy Policy and the GDPR regulations, I am also requesting the erasure of all personal data associated with my account.%0A%0A Please ensure that all my information is removed from your systems and from any third-party service providers to whom my data may have been shared.%0A%0A I understand that this request will result in the permanent deletion of my account and any associated data, including any stored files or settings, and that this action cannot be undone.%0A%0A Please confirm once my request has been processed. Thank you for your attention to this matter.%0A%0A Best regards,%0A XXXX",
+        "domains": [
+            "builder.io"
         ]
     },
 
@@ -4306,6 +4329,29 @@
     },
 
     {
+        "name": "CoffeeCup",
+        "url": "https://www.coffeecup.com/contact/",
+        "difficulty": "hard",
+        "notes": "You need to contact them under helpme@coffeecup.com. They should reply quite fast.",
+        "email": "helpme@coffeecup.com",
+        "email_subject": "Account Deletion Request and Data Erasure",
+        "email_body": "Dear CoffeeCup Support Team,%0A%0A I hope this message finds you well.%0A I am writing to formally request the deletion of my account associated with the following details:%0A Account Name:%09 XXXX%0A Account Email:%09 XXXX%0A Title:%09 XXXX%0A%0A In accordance with your Privacy Policy and the GDPR regulations, I am also requesting the erasure of all personal data associated with my account.%0A Please ensure that all my information is removed from your systems and from any third-party service providers to whom my data may have been shared.%0A%0A I understand that this request will result in the permanent deletion of my account and any associated data, including any stored files or settings, and that this action cannot be undone.%0A%0A Please confirm once my request has been processed. Thank you for your attention to this matter.%0A%0A Best regards,%0A XXXX",
+        "domains": [
+            "coffeecup.com"
+        ]
+    },
+
+    {
+        "name": "Copyleaks",
+        "url": "https://id.copyleaks.com/security",
+        "difficulty": "medium",
+        "notes": "Account > Security > Delete Account (On the bottom of the page) for all data: https://id.copyleaks.com/security/delete-internal-data.",
+        "domains": [
+            "copyleaks.com"
+        ]
+    },
+    
+    {
         "name": "Cohost",
         "difficulty": "hard",
         "notes": "Contact support from the email associated with your account and ask for your account to be deleted.",
@@ -5378,7 +5424,7 @@
 
     {
         "name": "DigitalOcean",
-        "url": "https://cloud.digitalocean.com/account/profile/deactivate",
+        "url": "https://cloud.digitalocean.com/deactivate",
         "difficulty": "easy",
         "notes": "Click in the checkbox \"Purge all of my account data\" and confirm your action by clicking \"Deactivate Account\".",
         "notes_tr": "\"Tüm hesap verilerimi sil\" onay kutusunu seçin ve \"Hesabı Devre Dışı bırak\" tuşuna basarak işleminizi onaylayın.",
