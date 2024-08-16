@@ -6090,6 +6090,17 @@
     },
 
     {
+        "name": "e-Técély",
+        "url": "https://e-tecely.tcl.fr/tcl/supprimerSonCompte.do",
+        "difficulty": "easy",
+        "notes": "On your profile page, click on \"Supprimer mon compte\".",
+        "notes_fr": "Sur votre page de profil, cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "e-tecely.tcl.fr"
+        ]
+    },
+
+    {
         "name": "e621",
         "url": "https://e621.net/maintenance/user/deletion",
         "difficulty": "impossible",
