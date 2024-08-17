@@ -3207,7 +3207,7 @@
         "notes": "Either you can write them a support ticket from their built-in application under the question mark or write them a mail.",
         "email": "support@builder.io",
         "email_subject": "Account Deletion Request and Data Erasure",
-        "email_body": "Dear Builder.io Support Team,%0A%0A I hope this message finds you well.%0A%0A I am writing to formally request the deletion of my account associated with the following details:%0A Account Name:%09 XXXX%0A Account Email:%09 XXXX%0A%0A In accordance with your Privacy Policy and the GDPR regulations, I am also requesting the erasure of all personal data associated with my account.%0A%0A Please ensure that all my information is removed from your systems and from any third-party service providers to whom my data may have been shared.%0A%0A I understand that this request will result in the permanent deletion of my account and any associated data, including any stored files or settings, and that this action cannot be undone.%0A%0A Please confirm once my request has been processed. Thank you for your attention to this matter.%0A%0A Best regards,%0A XXXX",
+        "email_body": "Dear Builder.io Support Team, I am requesting the deletion of my account and all associated personal data in accordance with your Privacy Policy and GDPR. Below are my account details: Account Email: XXXX Account Name: XXXX Please ensure the permanent removal of my data from your systems and any third-party services. Kindly confirm once this has been completed.",
         "domains": [
             "builder.io"
         ]
@@ -4335,7 +4335,7 @@
         "notes": "You need to contact them via email. They usually reply quickly.",
         "email": "helpme@coffeecup.com",
         "email_subject": "Account Deletion Request and Data Erasure",
-        "email_body": "Dear CoffeeCup Support Team,%0A%0A I hope this message finds you well.%0A I am writing to formally request the deletion of my account associated with the following details:%0A Account Name:%09 XXXX%0A Account Email:%09 XXXX%0A Title:%09 XXXX%0A%0A In accordance with your Privacy Policy and the GDPR regulations, I am also requesting the erasure of all personal data associated with my account.%0A Please ensure that all my information is removed from your systems and from any third-party service providers to whom my data may have been shared.%0A%0A I understand that this request will result in the permanent deletion of my account and any associated data, including any stored files or settings, and that this action cannot be undone.%0A%0A Please confirm once my request has been processed. Thank you for your attention to this matter.%0A%0A Best regards,%0A XXXX",
+        "email_body": "Dear CoffeeCup Support Team, I am requesting the deletion of my account and all associated personal data in accordance with your Privacy Policy and GDPR. Below are my account details: Account Email: XXXX Title: XXXX Please ensure the permanent removal of my data from your systems and any third-party services. Kindly confirm once this has been completed.",
         "domains": [
             "coffeecup.com"
         ]
