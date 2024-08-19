@@ -4860,7 +4860,7 @@
         "name": "Curriculum",
         "url": "https://www.curriculum.com.br/01_02_habilitacao1.asp",
         "difficulty": "impossible",
-        "notes": "There's no way to delete account. The maximum can be done is to hide the curriculum.",
+        "notes": "There's no way to delete an account. The maximum that can be done is to hide the curriculum.",
         "notes_pt_br": "Não há uma forma de remover a conta. O máximo que pode ser feito é deixar o currículo oculto.",
         "domains": [
             "curriculum.com.br"
