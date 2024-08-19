@@ -12497,6 +12497,17 @@
     },
 
     {
+        "name": "M Tag / Appli M",
+        "url": "https://pass.mobilites-m.fr/mypass/account/profile",
+        "difficulty": "easy",
+        "notes": "From your profile page, click on \"Clôturer mon compte M\"",
+        "notes_fr": "Sur votre page de profil, cliquez sur \"Clôturer mon compte M\"",
+        "domains": [
+            "pass.mobilites-m.fr"
+        ]
+    },
+
+    {
         "name": "Macrumors",
         "url": "https://macrumors.zendesk.com/hc/en-us/articles/201260797-How-do-I-cancel-my-account-",
         "difficulty": "impossible",
