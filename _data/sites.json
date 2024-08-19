@@ -10231,6 +10231,16 @@
     },
 
     {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/gb/en/profile/dashboard/#login",
+        "difficulty" :"easy",
+        "notes": "Visit the linked page (or go to the Login & Security section in 'Manage Account') and click 'Delete Account', then enter your password.",
+        "domains": [
+            "ikea.com"
+        ]
+    },
+
+    {
         "name": "illa / ILLA Cloud",
         "url": "https://www.illacloud.com/docs/privacy-policy#your-rights",
         "url_cz": "https://www.illacloud.com/cs-CZ/docs/privacy-policy#your-rights",
