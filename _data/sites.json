@@ -4858,10 +4858,10 @@
 
     {
         "name": "Curriculum",
-        "url": "https://curriculum.zendesk.com/hc/pt-br/requests/new",
-        "difficulty": "hard",
-        "notes": "Access the link above and fill the form requesting the account deletion.",
-        "notes_pt_br": "Acesse o link acima e preencha o formulário pedindo a remoção da conta.",
+        "url": "https://www.curriculum.com.br/01_02_habilitacao1.asp",
+        "difficulty": "impossible",
+        "notes": "There's no way to delete an account. The maximum that can be done is to hide the curriculum.",
+        "notes_pt_br": "Não há uma forma de remover a conta. O máximo que pode ser feito é deixar o currículo oculto.",
         "domains": [
             "curriculum.com.br"
         ]
@@ -21086,6 +21086,19 @@
         "notes_de": "Melde dich an, gehe zu deinen Einstellungen, wähle den Tab 'Meine Einstellungen' und klicke auf 'Konto löschen'",
         "domains": [
             "toyota.de"
+        ]
+    },
+
+    {
+        "name": "Trabalha Brasil",
+        "url": "https://www.trabalhabrasil.com.br/fale-conosco",
+        "difficulty": "hard",
+        "notes": "Send an e-mail to them requesting the account exclusion.",
+        "notes_pt_br": "Envie um e-mail para eles, solicitando a exclusão da conta.",
+        "notes_pt_pt": "Envie um e-mail para eles, solicitando a exclusão da conta.",
+        "email": "atendimento@trabalhabrasil.com.br",
+        "domains": [
+            "trabalhabrasil.com.br"
         ]
     },
 
