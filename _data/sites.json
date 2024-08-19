@@ -16422,6 +16422,16 @@
     },
 
     {
+        "name": "Plexus",
+        "url": "https://plexus.techlore.tech/",
+        "difficulty": "easy",
+        "notes": "In the app, go into the menu, then under \"My account\", click on \"Delete account\".",
+        "domains": [
+            "plexus.techlore.tech"
+        ]
+    },
+
+    {
         "name": "Plugin Boutique",
         "url": "https://help.pluginboutique.com/hc/en-us/requests/new?ticket_form_id=8801812364052",
         "difficulty": "hard",
