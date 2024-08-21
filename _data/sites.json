@@ -5008,7 +5008,7 @@
 
     {
         "name": "Dashlane",
-        "url": "https://www.dashlane.com/deleteaccount",
+        "url": "https://app.dashlane.com/#/delete-account",
         "difficulty": "easy",
         "notes": "After entering the email address and selecting a reason for deletion, you will receive a security code by email. Enter the security code. After that, the account will be irretrievably deleted.",
         "notes_tr": "E-posta adresinizi girip \"Neden ayrılıyorsunuz\" sorusuna cevap seçmeniz gerekir. Bu adımı onaylamak için e-postanıza gelecek olan güvenlik kodunu forma girmeniz gerekir. Bittikten sonra hesabınız silinecektir.",
