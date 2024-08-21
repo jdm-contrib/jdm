@@ -11628,6 +11628,19 @@
     },
 
     {
+        "name": "Langfuse",
+        "url": "https://langfuse.com/support",
+        "difficulty": "hard",
+        "email": "security@langfuse.com",
+        "notes" : "Contact them via e-mail and ask for your account to be deleted.",
+        "domains": [
+            "langfuse.com",
+            "cloud.langfuse.com",
+            "us.cloud.langfuse.com"
+        ]
+    },
+
+    {
         "name": "LanguageTool",
         "url": "https://languagetool.org/editor/settings/account",
         "difficulty": "easy",
