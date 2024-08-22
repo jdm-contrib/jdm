@@ -23596,6 +23596,17 @@
     },
 
     {
+        "name": "YouSee.dk",
+        "url": "https://etray.yousee.dk/Privat/N/Portal/Master.html?token=Jhzav0yLEx1=1x/hWwg2lMi0OYiUyMQ4HsKy",
+        "difficulty": "hard",
+        "notes": "Fill out the form and request account deletion. Verification of your identity is required via MitID. Processing of the request takes up to 30 days. Payment history is kept for 5 years.",
+        "notes_dk": "Udfyld formen og anmod om sletning af din konto. Verifikation af din identitet er krævet via MitID. Processering af anmodningen tager op til 30 dage. Betalingshistorik beholdes i 5 år.",
+        "domains": [
+            "yousee.dk"
+        ]
+    },
+
+    {
         "name": "Yousician",
         "url": "https://account.yousician.com/",
         "difficulty": "easy",
