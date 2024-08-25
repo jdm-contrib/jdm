@@ -3092,6 +3092,16 @@
     },
 
     {
+        "name": "Brandpad",
+        "url": "https://create.brandpad.io/account/delete-account",
+        "difficulty": "easy",
+        "notes": "You need to cancel your subscription first, as deleting your account does not automatically unpublish or delete the brands connected to your account. Then on Account-Circle on the top right ⮕ Account ⮕ Delete Account.",
+        "domains": [
+            "create.brandpad.io"
+        ]
+    },
+
+    {
         "name": "Brilliant",
         "url": "https://brilliant.org/account/settings/deactivate/",
         "difficulty": "easy",
@@ -3187,6 +3197,19 @@
         "difficulty": "easy",
         "domains": [
             "bufferapp.com"
+        ]
+    },
+
+    {
+        "name": "Builder.io",
+        "url": "https://builder.io/spaces",
+        "difficulty": "hard",
+        "notes": "Either you can write them a support ticket from their built-in application under the question mark or write them a mail.",
+        "email": "support@builder.io",
+        "email_subject": "Account Deletion Request and Data Erasure",
+        "email_body": "Dear Builder.io Support Team, I am requesting the deletion of my account and all associated personal data in accordance with your Privacy Policy and GDPR. Below are my account details: Account Email: XXXX Account Name: XXXX Please ensure the permanent removal of my data from your systems and any third-party services. Kindly confirm once this has been completed.",
+        "domains": [
+            "builder.io"
         ]
     },
 
@@ -4306,6 +4329,19 @@
     },
 
     {
+        "name": "CoffeeCup",
+        "url": "https://www.coffeecup.com/contact/",
+        "difficulty": "hard",
+        "notes": "You need to contact them via email. They usually reply quickly.",
+        "email": "helpme@coffeecup.com",
+        "email_subject": "Account Deletion Request and Data Erasure",
+        "email_body": "Dear CoffeeCup Support Team, I am requesting the deletion of my account and all associated personal data in accordance with your Privacy Policy and GDPR. Below are my account details: Account Email: XXXX Title: XXXX Please ensure the permanent removal of my data from your systems and any third-party services. Kindly confirm once this has been completed.",
+        "domains": [
+            "coffeecup.com"
+        ]
+    },
+
+    {
         "name": "Cohost",
         "difficulty": "hard",
         "notes": "Contact support from the email associated with your account and ask for your account to be deleted.",
@@ -4504,6 +4540,16 @@
         "domains": [
             "coolshop.dk"
         ]
+    },
+
+    {
+            "name": "Copyleaks",
+            "url": "https://id.copyleaks.com/security",
+            "difficulty": "medium",
+            "notes": "Account ⮕ Security ⮕ Delete Account (On the bottom of the page). If you wish to delete all data, use [this page](https://id.copyleaks.com/security/delete-internal-data).",
+            "domains": [
+                "copyleaks.com"
+            ]
     },
 
     {
@@ -5378,7 +5424,7 @@
 
     {
         "name": "DigitalOcean",
-        "url": "https://cloud.digitalocean.com/account/profile/deactivate",
+        "url": "https://cloud.digitalocean.com/deactivate",
         "difficulty": "easy",
         "notes": "Click in the checkbox \"Purge all of my account data\" and confirm your action by clicking \"Deactivate Account\".",
         "notes_tr": "\"Tüm hesap verilerimi sil\" onay kutusunu seçin ve \"Hesabı Devre Dışı bırak\" tuşuna basarak işleminizi onaylayın.",
