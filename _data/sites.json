@@ -21727,6 +21727,18 @@
     },
 
     {
+        "name": "UGC",
+        "url": "https://www.ugc.fr/aide.html?question=supprimer-compte-ugc",
+        "difficulty": "easy",
+        "notes": "Login to My account/My profile and select \"Supprimer mon compte\".",
+        "notes_fr": "Connectez-vous à Mon compte/Mon profil et sélectionnez \"Supprimer mon compte\".",
+        "domains": [
+            "ugc.com",
+            "ugc.be"
+        ]
+    },
+
+    {
         "name": "Ultimate Guitar",
         "url": "https://www.ultimate-guitar.com/forum/profile/delete-account",
         "difficulty": "easy",
