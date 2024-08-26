@@ -629,6 +629,17 @@
     },
 
     {
+        "name": "ADN",
+        "url": "https://animationdigitalnetwork.com/account?view=deleteaccount",
+        "difficulty": "easy",
+        "notes": "On your \"Gérer le compte\" page, in the \"Supprimer le compte\" category, enter your password and click on \"Valider\"",
+        "notes_fr": "Sur votre page \"Gérer le compte\", dans la catégorie \"Supprimer le compte\", entrez votre mot de passe puis cliquez sur \"Valider\"",
+        "domains": [
+            "animationdigitalnetwork.com"
+        ]
+    },
+
+    {
         "name": "Adobe",
         "url": "https://account.adobe.com/privacy/delete-account",
         "difficulty": "easy",
