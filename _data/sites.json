@@ -16887,6 +16887,16 @@
     },
 
     {
+        "name": "Programiz PRO",
+        "url": "https://programiz.pro",
+        "difficulty": "easy",
+        "notes": "Login to the website and tap on your profile icon. Click on 'My Profile' and navigate to the 'Account' section. Hit the 'Delete My Account' button.",
+        "domains": [
+            "programiz.pro"
+        ]
+    },
+
+    {
         "name": "ProMods",
         "url": "https://promods.net/",
         "difficulty": "hard",
