@@ -10831,6 +10831,19 @@
     },
 
     {
+        "name": "Liberty Lines",
+        "url": "https://booking.libertylines.it/delete/",
+        "difficulty": "easy",
+        "notes": "Go to the customer area and delete your account. Your tickets will be anonymized.",
+        "notes_it": "Vai all'area clienti ed elimina il tuo account. I tuoi biglietti saranno resi anonimi.",
+        "domains": [
+            "libertylines.it",
+            "booking.libertylines.it",
+            "agenzia.libertylines.it"
+        ]
+    },
+
+    {
         "name": "LibraryThing",
         "url": "https://www.librarything.de/editprofile/change",
         "difficulty": "easy",
