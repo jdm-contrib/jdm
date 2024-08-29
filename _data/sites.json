@@ -7325,6 +7325,17 @@
     },
 
     {
+        "name": "FixMyCar",
+        "url": "https://www.whocanfixmycar.com/terms#termination-of-services",
+        "difficulty": "hard",
+        "notes": "You must contact support.",
+        "email": "team@whocanfixmycar.com",
+        "domains": [
+            "whocanfixmycar.com"
+        ]
+    },
+
+    {
         "name": "Flat",
         "url": "https://flat.io/settings/account/profile",
         "difficulty": "easy",
@@ -8757,6 +8768,17 @@
         "notes_es": "En la barra superior, haz clic en 'tu nombre', después haz clic en 'Delete Account', al final del cuadro de diálogo.",
         "domains": [
             "goodnoows.com"
+        ]
+    },
+
+    {
+        "name": "Goodlord",
+        "url": "https://www.goodlord.co/privacy-policy",
+        "difficulty": "hard",
+        "email": "privacy@goodlord.co",
+        "notes": "You must send an e-mail to the privacy team.",
+        "domains": [
+            "goodlord.co"
         ]
     },
 
@@ -15101,6 +15123,16 @@
         "difficulty": "easy",
         "domains": [
             "oculus.com"
+        ]
+    },
+
+    {
+        "name": "Odeon",
+        "url": "https://help.odeon.co.uk/hc/requests/new",
+        "difficulty": "hard",
+        "notes": "You must submit a request to support. Live chat also works. The process takes 30 days to complete.",
+        "domains": [
+            "odeon.co.uk"
         ]
     },
 
