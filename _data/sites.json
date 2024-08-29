@@ -4434,6 +4434,16 @@
         ]
     },
 
+        {
+        "name": "CoinSpot",
+        "url": "https://coinspot.zendesk.com/hc/en-us/articles/360001328796-Closing-your-Account",
+        "difficulty": "hard",
+        "notes": "Once you have removed all wallet balances, you need to create a ticket. ",
+        "domains": [
+            "https://www.coinspot.com.au/"
+        ]
+    },
+
     {
         "name": "Cointree",
         "url": "https://cointree.formstack.com/forms/account_closure_request",
@@ -18155,6 +18165,17 @@
         "domains": [
             "sahibinden.com",
             "banaozel.sahibinden.com"
+        ]
+    },
+    
+        {
+        "name": "Salad",
+        "url": "https://support.salad.com/article/45-how-can-i-delete-my-account",
+        "difficulty": "hard",
+        "notes": "You need to create a ticket."
+        "domains": [
+            "salad.com",
+            "salad.io"
         ]
     },
 
