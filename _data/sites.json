@@ -15976,6 +15976,14 @@
     },
 
     {
+       "name": "Payback",
+        "url": "https://www.payback.de/info/mein-payback/kontakt",
+        "difficulty": "medium",
+        "notes": "According to their help page, you need to contanct their Service-Center",
+        "domains": ["payback.de"]
+    },
+
+    {
         "name": "PayPal",
         "url": "https://www.paypal.com/myaccount/privacy/data/deletion",
         "difficulty": "medium",
