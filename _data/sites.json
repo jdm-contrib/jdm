@@ -19131,6 +19131,15 @@
         ]
     },
     {
+        "name": "SMSPool",
+        "url": "https://www.smspool.net/my/settings",
+        "difficulty": "easy",
+        "notes": "In order to delete your account you have to head over to the settings page and click on the 'Delete Account' button after filling in your password. Keep in mind that the site does not allow you to delete the account if a card transaction has been made within the last 14 days.",
+        "domains": [
+            "smspool.net"
+        ]
+    },
+    {
         "name": "Snapchat",
         "url": "https://accounts.snapchat.com/accounts/delete_account",
         "difficulty": "easy",
@@ -24361,15 +24370,6 @@
         "notes_ua": "Перейдіть за посиланням і підтвердіть видалення акаунту.",
         "domains": [
             "miyklas.com.ua"
-        ]
-    },
-    {
-        "name": "SMSPool",
-        "url": "https://www.smspool.net/my/settings",
-        "difficulty": "easy",
-        "notes": "In order to delete your account you have to head over to the settings page and click on the 'Delete Account' button after filling in your password. Keep in mind that the site does not allow you to delete the account if a card transaction has been made within the last 14 days.",
-        "domains": [
-            "smspool.net"
         ]
     }
 ]
