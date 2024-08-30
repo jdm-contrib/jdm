@@ -2036,7 +2036,7 @@
 
     {
         "name": "Avito",
-        "url": "https://www.avito.ru/registration/remove",
+        "url": "https://www.avito.ru/profile/settings/remove",
         "difficulty": "easy",
         "notes": "Enter any reason to delete",
         "domains": [
