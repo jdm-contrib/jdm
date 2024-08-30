@@ -15978,9 +15978,11 @@
     {
        "name": "Payback",
         "url": "https://www.payback.de/info/mein-payback/kontakt",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "According to their help page, you need to contanct their Service-Center",
-        "domains": ["payback.de"]
+        "domains": [
+            "payback.de"
+        ]
     },
 
     {
