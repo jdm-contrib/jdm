@@ -15965,6 +15965,16 @@
     },
 
     {
+        "name": "Payback",
+        "url": "https://www.payback.de/info/mein-payback/kontakt",
+        "difficulty": "hard",
+        "notes": "According to their help page, you need to contanct their Service-Center",
+        "domains": [
+            "payback.de"
+        ]
+    },
+
+    {
         "name": "Payoneer",
         "url": "https://payoneer.custhelp.com/app/ask/l_id/1/c/3753",
         "difficulty": "hard",
