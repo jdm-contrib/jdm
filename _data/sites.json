@@ -12983,6 +12983,17 @@
     },
 
     {
+        "name": "Mathworks",
+        "url": "https://se.mathworks.com/company/aboutus/data-subject-access-request-form.html",
+        "difficulty": "hard",
+        "notes": "Follow the link and use the form to request the deletion of your personal data. Subsequent identity verification may be required. The deletion process should complete within 30 days.",
+        "domains": [
+            "se.mathworks.com",
+            "mathworks.com"
+        ]
+    },
+
+    {
         "name": "Maxdome",
         "url": "https://faq.maxdome.de/frage/mxdallgemein/mxdalleszu/was-ist-maxdome/wo-finde-ich-den-live-chat-von-maxdome",
         "difficulty": "hard",
@@ -12990,7 +13001,7 @@
         "notes_tr": "Canlı sohbet yoluyla desteğe başvurun ve hesabınızın silinmesini isteyin. Bu, daha uzun sürebilmesine rağmen iletişim formu aracılığıyla da mümkündür.",
         "notes_de": "Kontaktiere den Support über den Live Chat und fordere die Löschung deines Kontos. Dies ist auch über das [Kontaktformular](https://faq.maxdome.de/kontakt) möglich, dauert aber ggf. länger.",
         "domains": [
-            "maxdome.de",
+            "se.mathworks.com",
             "faq.maxdome.de"
         ]
     },
