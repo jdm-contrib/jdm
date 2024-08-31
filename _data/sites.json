@@ -3177,6 +3177,19 @@
     },
 
     {
+        "name": "Bruun Rasmussen",
+        "url": "https://bruun-rasmussen.dk/m/about/privacy",
+        "difficulty": "hard",
+        "notes": "Contact customer support to request account deletion.",
+        "email": "privacy@bruun-rasmussen.dk",
+        "email_subject": "Request for the deletion of personal information",
+        "email_body": "I would like to request the deletion of my personal information as allowed per your privacy policy. My customer number is XXXXXXX. Thank you",
+        "domains": [
+            "bruun-rasmussen.dk"
+        ]
+    },
+
+    {
         "name": "Bubbl.us",
         "url": "https://help.bubbl.us/article/110-remove-my-account",
         "difficulty": "hard",
