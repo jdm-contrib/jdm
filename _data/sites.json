@@ -19121,6 +19121,16 @@
     },
 
     {
+        "name": "SMSPool",
+        "url": "https://www.smspool.net/my/settings",
+        "difficulty": "easy",
+        "notes": "In order to delete your account you have to head over to the settings page and click on the 'Delete Account' button after filling in your password. Keep in mind that the site does not allow you to delete the account if a card transaction has been made within the last 14 days.",
+        "domains": [
+            "smspool.net"
+        ]
+    },
+
+    {
         "name": "Smule",
         "url": "https://smule.zendesk.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -19128,16 +19138,6 @@
         "notes_es": "Crea un nuevo ticket, elige 'Remover perfil Smule', marca las casillas necesarios y rellena los datos que te piden. No olvides remover la subscripcion que tengas en otros servicios.",
         "domains": [
             "smule.com"
-        ]
-    },
-
-    {
-        "name": "SMSPool",
-        "url": "https://www.smspool.net/my/settings",
-        "difficulty": "easy",
-        "notes": "In order to delete your account you have to head over to the settings page and click on the 'Delete Account' button after filling in your password. Keep in mind that the site does not allow you to delete the account if a card transaction has been made within the last 14 days.",
-        "domains": [
-            "smspool.net"
         ]
     },
 
