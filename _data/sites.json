@@ -13005,6 +13005,17 @@
     },
 
     {
+        "name": "Mathworks",
+        "url": "https://se.mathworks.com/company/aboutus/data-subject-access-request-form.html",
+        "difficulty": "hard",
+        "notes": "Follow the link and use the form to request the deletion of your personal data. Subsequent identity verification may be required. The deletion process should complete within 30 days.",
+        "domains": [
+            "se.mathworks.com",
+            "mathworks.com"
+        ]
+    },
+
+    {
         "name": "Maxdome",
         "url": "https://faq.maxdome.de/frage/mxdallgemein/mxdalleszu/was-ist-maxdome/wo-finde-ich-den-live-chat-von-maxdome",
         "difficulty": "hard",
