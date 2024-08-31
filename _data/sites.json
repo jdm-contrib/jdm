@@ -11071,6 +11071,15 @@
     },
 
     {
+        "name": "Jobindex.dk",
+        "url": "https://www.jobindex.dk/bruger/slet",
+        "difficulty": "easy",
+        "domains": [
+            "jobindex.dk"
+        ]
+    },
+
+    {
         "name": "Jobscan",
         "url": "https://www.jobscan.co/privacy",
         "difficulty": "hard",
