@@ -8543,8 +8543,8 @@
     {
         "name": "Glassdoor",
         "url": "https://help.glassdoor.com/s/privacyrequest",
-        "difficulty": "medium",
-        "notes": "Submit the form on the linked page. Under the field \"<b>What is your personal data request?</b>\", be sure to select \"Delete my personal data\". You'll be asked to verify your email, then your account will be deleted within 30 days.",
+        "difficulty": "hard",
+        "notes": "Fill out the form on the linked page. Under the field \"What is your personal data request?\", select \"Delete my personal data\". You will be asked to verify your email and then your account will be deleted within 30 days.",
         "domains": [
             "glassdoor.com",
             "help.glassdoor.com"
