@@ -24054,6 +24054,20 @@
     },
 
     {
+        "name": "Yuka",
+        "url": "https://app.yuka.io/deleteAccount",
+        "difficulty": "easy",
+        "notes": "After logging in the application, on your mobile device, visit the link and follow the instructions provided.",
+        "notes_cz": "Po přihlášení do aplikace navštivte na svém mobilním zařízení odkaz a postupujte podle uvedených pokynů.",
+        "notes_sk": "Po prihlásení do aplikácie navštívte na svojom mobilnom zariadení odkaz a postupujte podľa uvedených pokynov.",
+        "domains": [
+            "yuka.io",
+            "app.yuka.io",
+            "help.yuka.io"
+        ]
+    },
+
+    {
         "name": "Yummly",
         "url": "https://www.yummly.com/settings",
         "difficulty": "easy",
