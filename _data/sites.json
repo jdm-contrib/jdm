@@ -18679,17 +18679,6 @@
     },
 
     {
-        "name": "ShareLaTeX",
-        "url": "https://www.sharelatex.com/user/settings",
-        "difficulty": "easy",
-        "notes": "Click the \"Delete your account\" at the bottom of the settings page and type \"DELETE\" in the popup box.",
-        "notes_tr": "Ayarlar sayfasının altındaki \"Hesabınızı Silin\" öğesini tıklayın ve açılır kutuya 'DELETE' yazın.",
-        "domains": [
-            "sharelatex.com"
-        ]
-    },
-
-    {
         "name": "Sharesome",
         "url": "https://sharesome.com/settings/privacy/",
         "difficulty": "easy",
