@@ -15692,7 +15692,6 @@
         "difficulty": "easy",
         "notes": "Select 'Delete your account' at the bottom of the account settings page.",
         "notes_tr": "\"Hesap Ayarları\" sayfasının altındaki \"Hesabınızı Silin\" tuşuna tıklayın.",
-        "email": "privacy@overleaf.com",
         "domains": [
             "overleaf.com"
         ]
