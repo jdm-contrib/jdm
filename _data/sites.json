@@ -23729,11 +23729,15 @@
     {
         "name": "WordPress.org",
         "meta": "popular",
-        "url": "https://wordpress.org/about/privacy/data-erasure-request",
-        "difficulty": "impossible",
-        "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data [https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account](https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account)",
+        "url": "https://wordpress.org/about/privacy/data-erasure-request/",
+        "difficulty": "easy",
+        "notes": "Use the linked form to request account deletion. This will prompt an automatic request for verification of email-address ownership. Once you verify ownership of the email-address, then the account is deleted. Forum activity will be anonymized rather than deleted.",
         "domains": [
-            "wordpress.org"
+            "wordpress.org", 
+            "WordPress.net", 
+            "WordCamp.org", 
+            "BuddyPress.org", 
+            "bbPress.org"
         ]
     },
 
