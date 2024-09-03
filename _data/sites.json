@@ -15453,13 +15453,16 @@
 
     {
         "meta": "popular",
-        "name": "OpenAI",
-        "url": "https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account",
+        "name": "OpenAI / ChatGPT",
+        "url": "https://chatgpt.com/#settings/DataControls",
         "difficulty": "easy",
-        "notes": "There are two methods: Sign in to ChatGPT, click on settings at the bottom left, click on 'Delete Account', or using OpenAI's help chat.",
+        "notes": "Follow the link and under \"Delete account\" click \"Delete\".",
         "domains": [
+            "chatgpt.com",
             "openai.com",
-            "chat.openai.com"
+            "privacy.openai.com",
+            "auth.openai.com",
+            "platform.openai.com"
         ]
     },
 
