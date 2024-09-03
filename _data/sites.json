@@ -15706,7 +15706,6 @@
         "difficulty": "easy",
         "notes": "Select 'Delete your account' at the bottom of the account settings page.",
         "notes_tr": "\"Hesap Ayarları\" sayfasının altındaki \"Hesabınızı Silin\" tuşuna tıklayın.",
-        "email": "privacy@overleaf.com",
         "domains": [
             "overleaf.com"
         ]
@@ -18689,17 +18688,6 @@
         "domains": [
             "shadow.tech",
             "account.shadow.tech"
-        ]
-    },
-
-    {
-        "name": "ShareLaTeX",
-        "url": "https://www.sharelatex.com/user/settings",
-        "difficulty": "easy",
-        "notes": "Click the \"Delete your account\" at the bottom of the settings page and type \"DELETE\" in the popup box.",
-        "notes_tr": "Ayarlar sayfasının altındaki \"Hesabınızı Silin\" öğesini tıklayın ve açılır kutuya 'DELETE' yazın.",
-        "domains": [
-            "sharelatex.com"
         ]
     },
 
