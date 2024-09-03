@@ -6909,6 +6909,16 @@
     },
 
     {
+        "name": "Exophase",
+        "notes": "They delete your account in 72 hours and it also includes the forum account attached, but the posts are kept and *not* anonymized. You must keep your connected services attached during this time so they can be fully removed by an admin. Your connected services (Playstation, Xbox etc) also cannot be added to a future account without contacting a staff member.",
+        "url": "https://www.exophase.com/account/removal/",
+        "difficulty": "hard",
+        "domains": [
+            "exophase.com"
+        ]
+    },
+
+    {
         "name": "Expedia",
         "url": "https://www.expedia.com/service/#/articles/396/25/12395",
         "url_de": "https://www.expedia.de/service/#/articles/1067/1017/23667",
