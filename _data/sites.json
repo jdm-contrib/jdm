@@ -4972,6 +4972,17 @@
     },
 
     {
+        "name": "Cursor",
+        "url": "https://www.cursor.com/settings",
+        "difficulty": "easy",
+        "notes": "Follow the link. Expand the \"Advanced\" section. Click \"Delete Account\".",
+        "domains": [
+            "cursor.sh",
+            "cursor.com"
+        ]
+    },
+
+    {
         "name": "Curve",
         "url": "https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account",
         "difficulty": "medium",
