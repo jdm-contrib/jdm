@@ -1787,6 +1787,20 @@
     },
 
     {
+        "name": "ASUS",
+        "url": "https://www.asus.com/us/terms_of_use_notice_privacy_policy/privacy_policy/",
+        "difficulty": "hard",
+        "notes": "One must contact customer support via email to request account deletion.",
+        "email": "privacy@asus.com",
+        "email_subject": "Data Deletion Request",
+        "email_body": "Please delete my account registered with this email address.",
+        "domains": [
+            "asus.com",
+            "account.asus.com"
+        ]
+    },
+
+    {
         "name": "ASUS WebStorage",
         "url": "https://service.asuswebstorage.com/contactus/",
         "difficulty": "hard",
