@@ -23717,10 +23717,8 @@
         "name": "WordPress.com",
         "meta": "popular",
         "url": "https://wordpress.com/me/account",
-        "difficulty": "easy",
-        "notes": "You can permanently close your WordPress.com account from your Account Settings screen by clicking on 'Close your account permanently'",
-        "notes_tr": "WordPress.com hesabınızı \"Hesap Ayarları\" ekranınızdan \"Kalıcı olarak hesabı kapat\" öğesini tıklayarak kalıcı olarak kapatabilirsiniz",
-        "notes_ru": "Вы можете навсегда закрыть свою учетную запись WordPress.com с экрана настроек вашей учетной записи, нажав на «Закрыть учетную запись навсегда»",
+        "difficulty": "medium",
+        "notes": "First cancel any active subscriptions in your account. Then go to Account Settings and click on \"Close your account permanently\".",
         "domains": [
             "wordpress.com"
         ]
