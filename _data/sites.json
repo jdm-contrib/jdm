@@ -23733,10 +23733,10 @@
         "difficulty": "easy",
         "notes": "Use the linked form to request account deletion. This will prompt an automatic request for verification of email-address ownership. Once you verify ownership of the email-address, then the account is deleted. Forum activity will be anonymized rather than deleted.",
         "domains": [
-            "wordpress.org", 
-            "WordPress.net", 
-            "WordCamp.org", 
-            "BuddyPress.org", 
+            "wordpress.org",
+            "WordPress.net",
+            "WordCamp.org",
+            "BuddyPress.org",
             "bbPress.org"
         ]
     },
