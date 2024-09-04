@@ -1787,6 +1787,20 @@
     },
 
     {
+        "name": "ASUS",
+        "url": "https://www.asus.com/us/terms_of_use_notice_privacy_policy/privacy_policy/",
+        "difficulty": "hard",
+        "notes": "One must contact customer support via email to request account deletion.",
+        "email": "privacy@asus.com",
+        "email_subject": "Data Deletion Request",
+        "email_body": "Please delete my account registered with this email address.",
+        "domains": [
+            "asus.com",
+            "account.asus.com"
+        ]
+    },
+
+    {
         "name": "ASUS WebStorage",
         "url": "https://service.asuswebstorage.com/contactus/",
         "difficulty": "hard",
@@ -4958,6 +4972,17 @@
     },
 
     {
+        "name": "Cursor",
+        "url": "https://www.cursor.com/settings",
+        "difficulty": "easy",
+        "notes": "Follow the link. Expand the \"Advanced\" section. Click \"Delete Account\".",
+        "domains": [
+            "cursor.sh",
+            "cursor.com"
+        ]
+    },
+
+    {
         "name": "Curve",
         "url": "https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account",
         "difficulty": "medium",
@@ -6880,6 +6905,16 @@
         "difficulty": "easy",
         "domains": [
             "exercism.io"
+        ]
+    },
+
+    {
+        "name": "Exophase",
+        "notes": "They delete your account in 72 hours and it also includes the forum account attached, but the posts are kept and *not* anonymized. You must keep your connected services attached during this time so they can be fully removed by an admin. Your connected services (Playstation, Xbox etc) also cannot be added to a future account without contacting a staff member.",
+        "url": "https://www.exophase.com/account/removal/",
+        "difficulty": "hard",
+        "domains": [
+            "exophase.com"
         ]
     },
 
@@ -12644,7 +12679,7 @@
     },
 
     {
-        "name": "M Tag / Appli M",
+        "name": "M Réso / Appli M",
         "url": "https://pass.mobilites-m.fr/mypass/account/profile",
         "difficulty": "easy",
         "notes": "From your profile page, click on \"Clôturer mon compte M\"",
@@ -15439,13 +15474,16 @@
 
     {
         "meta": "popular",
-        "name": "OpenAI",
-        "url": "https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account",
+        "name": "OpenAI / ChatGPT",
+        "url": "https://chatgpt.com/#settings/DataControls",
         "difficulty": "easy",
-        "notes": "There are two methods: Sign in to ChatGPT, click on settings at the bottom left, click on 'Delete Account', or using OpenAI's help chat.",
+        "notes": "Follow the link and under \"Delete account\" click \"Delete\".",
         "domains": [
+            "chatgpt.com",
             "openai.com",
-            "chat.openai.com"
+            "privacy.openai.com",
+            "auth.openai.com",
+            "platform.openai.com"
         ]
     },
 
@@ -15692,7 +15730,6 @@
         "difficulty": "easy",
         "notes": "Select 'Delete your account' at the bottom of the account settings page.",
         "notes_tr": "\"Hesap Ayarları\" sayfasının altındaki \"Hesabınızı Silin\" tuşuna tıklayın.",
-        "email": "privacy@overleaf.com",
         "domains": [
             "overleaf.com"
         ]
@@ -18675,17 +18712,6 @@
         "domains": [
             "shadow.tech",
             "account.shadow.tech"
-        ]
-    },
-
-    {
-        "name": "ShareLaTeX",
-        "url": "https://www.sharelatex.com/user/settings",
-        "difficulty": "easy",
-        "notes": "Click the \"Delete your account\" at the bottom of the settings page and type \"DELETE\" in the popup box.",
-        "notes_tr": "Ayarlar sayfasının altındaki \"Hesabınızı Silin\" öğesini tıklayın ve açılır kutuya 'DELETE' yazın.",
-        "domains": [
-            "sharelatex.com"
         ]
     },
 
@@ -23717,10 +23743,8 @@
         "name": "WordPress.com",
         "meta": "popular",
         "url": "https://wordpress.com/me/account",
-        "difficulty": "easy",
-        "notes": "You can permanently close your WordPress.com account from your Account Settings screen by clicking on 'Close your account permanently'",
-        "notes_tr": "WordPress.com hesabınızı \"Hesap Ayarları\" ekranınızdan \"Kalıcı olarak hesabı kapat\" öğesini tıklayarak kalıcı olarak kapatabilirsiniz",
-        "notes_ru": "Вы можете навсегда закрыть свою учетную запись WordPress.com с экрана настроек вашей учетной записи, нажав на «Закрыть учетную запись навсегда»",
+        "difficulty": "medium",
+        "notes": "First cancel any active subscriptions in your account. Then go to Account Settings and click on \"Close your account permanently\".",
         "domains": [
             "wordpress.com"
         ]
@@ -23729,11 +23753,15 @@
     {
         "name": "WordPress.org",
         "meta": "popular",
-        "url": "https://wordpress.org/about/privacy/data-erasure-request",
-        "difficulty": "impossible",
-        "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data [https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account](https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account)",
+        "url": "https://wordpress.org/about/privacy/data-erasure-request/",
+        "difficulty": "easy",
+        "notes": "Use the linked form to request account deletion. This will prompt an automatic request for verification of email-address ownership. Once you verify ownership of the email-address, then the account is deleted. Forum activity will be anonymized rather than deleted.",
         "domains": [
-            "wordpress.org"
+            "wordpress.org",
+            "WordPress.net",
+            "WordCamp.org",
+            "BuddyPress.org",
+            "bbPress.org"
         ]
     },
 
