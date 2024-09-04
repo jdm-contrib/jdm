@@ -24422,5 +24422,15 @@
         "domains": [
             "miyklas.com.ua"
         ]
+    },
+    
+    {
+        "name": "LuminPDF",
+        "url": "https://account.luminpdf.com/profile-settings",
+        "difficulty": "easy",
+        "notes": "Go to profile settings and under Account click 'Delete My Account' button",
+        "domains": [
+            "www.luminpdf.com"
+        ]
     }
 ]
