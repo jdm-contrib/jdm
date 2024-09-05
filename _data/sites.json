@@ -12667,6 +12667,17 @@
     },
 
     {
+        "name": "LuminPDF",
+        "url": "https://account.luminpdf.com/profile-settings",
+        "difficulty": "easy",
+        "notes": "Go to profile settings and under Account click 'Delete My Account' button",
+        "domains": [
+            "luminpdf.com",
+            "status.luminpdf.com"
+        ]
+    },
+
+    {
         "name": "Lyft",
         "url": "https://account.lyft.com/privacy/data",
         "notes": "Log-in to your Lyft account on the website and request for deletion. Cannot be done via the app",
@@ -12675,17 +12686,6 @@
         "domains": [
             "lyft.com",
             "account.lyft.com"
-        ]
-    },
-    
-    {
-        "name": "LuminPDF",
-        "url": "https://account.luminpdf.com/profile-settings",
-        "difficulty": "easy",
-        "notes": "Go to profile settings and under Account click 'Delete My Account' button",
-        "domains": [
-            "luminpdf.com",
-            "status.luminpdf.com"
         ]
     },
 
