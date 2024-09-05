@@ -12677,6 +12677,16 @@
             "account.lyft.com"
         ]
     },
+    
+    {
+        "name": "LuminPDF",
+        "url": "https://account.luminpdf.com/profile-settings",
+        "difficulty": "easy",
+        "notes": "Go to profile settings and under Account click 'Delete My Account' button",
+        "domains": [
+            "www.luminpdf.com"
+        ]
+    },
 
     {
         "name": "M Réso / Appli M",
@@ -24449,16 +24459,6 @@
         "notes_ua": "Перейдіть за посиланням і підтвердіть видалення акаунту.",
         "domains": [
             "miyklas.com.ua"
-        ]
-    },
-    
-    {
-        "name": "LuminPDF",
-        "url": "https://account.luminpdf.com/profile-settings",
-        "difficulty": "easy",
-        "notes": "Go to profile settings and under Account click 'Delete My Account' button",
-        "domains": [
-            "www.luminpdf.com"
         ]
     }
 ]
