@@ -12684,7 +12684,8 @@
         "difficulty": "easy",
         "notes": "Go to profile settings and under Account click 'Delete My Account' button",
         "domains": [
-            "www.luminpdf.com"
+            "luminpdf.com",
+            "status.luminpdf.com"
         ]
     },
 
