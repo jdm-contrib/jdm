@@ -12622,6 +12622,17 @@
     },
 
     {
+        "name": "LuminPDF",
+        "url": "https://account.luminpdf.com/profile-settings",
+        "difficulty": "easy",
+        "notes": "Go to profile settings and under Account click 'Delete My Account' button",
+        "domains": [
+            "luminpdf.com",
+            "status.luminpdf.com"
+        ]
+    },
+
+    {
         "name": "Lumosity",
         "url": "https://www.lumosity.com/app/v4/settings/account_deletion/new",
         "difficulty": "easy",
@@ -12663,17 +12674,6 @@
         "difficulty": "easy",
         "domains": [
             "lutris.net"
-        ]
-    },
-
-    {
-        "name": "LuminPDF",
-        "url": "https://account.luminpdf.com/profile-settings",
-        "difficulty": "easy",
-        "notes": "Go to profile settings and under Account click 'Delete My Account' button",
-        "domains": [
-            "luminpdf.com",
-            "status.luminpdf.com"
         ]
     },
 
