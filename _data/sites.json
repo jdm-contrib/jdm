@@ -11109,11 +11109,9 @@
 
     {
         "name": "itch.io",
-        "url": "https://itch.io/support",
-        "difficulty": "hard",
-        "notes": "You need to contact support via email to get your account deleted.",
-        "notes_tr": "Hesabınızın silinmesi için e-posta yoluyla destek ile iletişime geçmeniz gerekir.",
-        "email": "support@itch.io",
+        "url": "https://itch.io/user/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and confirm account deletion.",
         "domains": [
             "itch.io"
         ]
