@@ -8528,6 +8528,16 @@
     },
 
     {
+        "name": "Geotastic",
+        "url": "https://geotastic.net/account/account-settings",
+        "difficulty": "easy",
+        "notes": "Click \"delete account\" on the linked page.",
+        "domains": [
+            "geotastic.net"
+        ]
+    },
+
+    {
         "name": "GermanTechJobs",
         "url": "https://germantechjobs.de/contact",
         "difficulty": "hard",
