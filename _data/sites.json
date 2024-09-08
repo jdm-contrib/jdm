@@ -22214,6 +22214,17 @@
     },
 
     {
+        "name": "TypingClub / EdClub",
+        "url": "https://www.edclub.com/sportal/profile.html",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and delete your account.",
+        "domains": [
+            "typingclub.com",
+            "edclub.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Uber",
         "url": "https://myprivacy.uber.com/privacy/deleteyouraccount",
