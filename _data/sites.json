@@ -7833,6 +7833,18 @@
     },
 
     {
+        "name": "Foxford (Фоксфорд)",
+        "url": "https://foxford.ru",
+        "email": "ask@foxford.ru",
+        "difficulty": "hard",
+        "notes": "You have to email support to delete your account. You must have no active paid courses in order for your account to be deleted.",
+        "notes_ru": "Отправьте письмо в поддержку для удаления аккаунта. На вашем аккаунте не должно быть активных оплаченных курсов.",
+        "domains": [
+            "foxford.ru"
+        ]
+    },
+
+    {
         "name": "Framer",
         "url": "https://www.framer.com/contact/",
         "difficulty": "hard",
