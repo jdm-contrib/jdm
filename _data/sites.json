@@ -10533,6 +10533,18 @@
     },
 
     {
+        "name": "Lyconet",
+        "url": "https://www.lyconet.com/",
+        "difficulty": "hard",
+        "email": "data.protection@lyconet.com",
+        "notes": "Send an email requesting account deletion.",
+        "notes_it": "Invia un'email richiedendo l'eliminazione dell'account.",
+        "domains": [
+            "lyconet.com"
+        ]
+    },
+
+    {
         "name": "Lyft",
         "url": "https://account.lyft.com/privacy/data",
         "notes": "Log-in to your Lyft account on the website and request for deletion. Cannot be done via the app",
