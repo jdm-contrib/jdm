@@ -2149,6 +2149,17 @@
     },
 
     {
+        "name": "back4app",
+        "url": "https://help.back4app.com/hc/en-us/articles/4423268883597",
+        "difficulty": "hard",
+        "notes": "[Delete all apps from your dashboard](https://help.back4app.com/hc/en-us/articles/115000755572), then [create a Support ticket](https://help.back4app.com/hc/en-us/requests/new) and ask them to delete your account.",
+        "domains": [
+            "back4app.com",
+            "www.back4app.com"
+        ]
+    },
+
+    {
         "name": "Backblaze",
         "url": "https://secure.backblaze.com/account_settings.htm",
         "difficulty": "medium",
