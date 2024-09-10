@@ -2155,7 +2155,9 @@
         "notes": "[Delete all apps from your dashboard](https://help.back4app.com/hc/en-us/articles/115000755572), then [create a Support ticket](https://help.back4app.com/hc/en-us/requests/new) and ask them to delete your account.",
         "domains": [
             "back4app.com",
-            "www.back4app.com"
+            "blog.back4app.com",
+            "dashboard.back4app.com",
+            "help.back4app.com"
         ]
     },
 
