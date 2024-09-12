@@ -10330,6 +10330,16 @@
     },
 
     {
+        "name": "Iceland",
+        "email": "dataprotection@iceland.co.uk",
+        "url": "https://www.iceland.co.uk/privacy-policy",
+        "difficulty": "hard",
+        "domains": [
+            "iceland.co.uk"
+        ]
+    },
+
+    {
         "name": "Icontem",
         "url": "https://accounts.icontem.com/remove",
         "difficulty": "easy",
