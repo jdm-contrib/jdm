@@ -8617,6 +8617,7 @@
         "email_subject": "Data Deletion Request",
         "email_body": "Please delete my account and data registered with this email address.",
         "domains": [
+            "glidestudent.co.uk",
             "studentglide.co.uk",
             "glide.co.uk"
         ]
