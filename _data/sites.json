@@ -8610,6 +8610,19 @@
     },
 
     {
+        "name": "Glide (UK)",
+        "url": "https://prearrival.glidestudent.co.uk/privacy-policy",
+        "difficulty": "hard",
+        "email": "dpo@glide.co.uk",
+        "email_subject": "Data Deletion Request",
+        "email_body": "Please delete my account and data registered with this email address.",
+        "domains": [
+            "studentglide.co.uk",
+            "glide.co.uk"
+        ]
+    },
+
+    {
         "name": "Glitch",
         "url": "https://glitch.com/settings/account",
         "difficulty": "easy",
