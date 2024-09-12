@@ -1788,12 +1788,9 @@
 
     {
         "name": "ASUS",
-        "url": "https://www.asus.com/us/terms_of_use_notice_privacy_policy/privacy_policy/",
-        "difficulty": "hard",
-        "notes": "One must contact customer support via email to request account deletion.",
-        "email": "privacy@asus.com",
-        "email_subject": "Data Deletion Request",
-        "email_body": "Please delete my account registered with this email address.",
+        "url": "https://privacy.asus.com/pi/global/privacy",
+        "difficulty": "easy",
+        "notes": "Go to the website, select your type of account and select which data you want to remove.",
         "domains": [
             "asus.com",
             "account.asus.com"
