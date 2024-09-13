@@ -8610,6 +8610,20 @@
     },
 
     {
+        "name": "Glide (UK)",
+        "url": "https://prearrival.glidestudent.co.uk/privacy-policy",
+        "difficulty": "hard",
+        "email": "dpo@glide.co.uk",
+        "email_subject": "Data Deletion Request",
+        "email_body": "Please delete my account and data registered with this email address.",
+        "domains": [
+            "glidestudent.co.uk",
+            "studentglide.co.uk",
+            "glide.co.uk"
+        ]
+    },
+
+    {
         "name": "Glitch",
         "url": "https://glitch.com/settings/account",
         "difficulty": "easy",
@@ -10312,6 +10326,16 @@
         "notes": "Visit the linked page. Select the 'Privacy' tab, scroll down, click \"Delete Account, Files, and Data\" then confirm your password.",
         "domains": [
             "icedrive.net"
+        ]
+    },
+
+    {
+        "name": "Iceland",
+        "email": "dataprotection@iceland.co.uk",
+        "url": "https://www.iceland.co.uk/privacy-policy",
+        "difficulty": "hard",
+        "domains": [
+            "iceland.co.uk"
         ]
     },
 
