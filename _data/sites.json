@@ -4391,9 +4391,9 @@
 
     {
         "name": "Cohost",
-        "difficulty": "hard",
-        "notes": "Contact support from the email associated with your account and ask for your account to be deleted.",
-        "url": "https://help.antisoftware.club/support/solutions/articles/62000225460-how-do-i-delete-a-page-my-account-",
+        "difficulty": "easy",
+        "notes": "Click settings on the left, scroll to the bottom of the page, confirm your email address and password, and wait for 3 days. Accounts can be deleted faster than the default 3 days by emailing Cohost.",
+        "url": "https://cohost.org/rc/user/settings",
         "email": "support@cohost.org",
         "domains": [
             "cohost.org"
