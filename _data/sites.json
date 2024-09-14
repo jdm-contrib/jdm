@@ -4392,8 +4392,7 @@
     {
         "name": "Cohost",
         "difficulty": "easy",
-        "notes": "Click settings on the left, scroll to the bottom of the page, confirm your email address and password, and wait 3 days.",
-        "notes": "Accounts can be deleted faster than the default 3 days by emailing Cohost.",
+        "notes": "Click settings on the left, scroll to the bottom of the page, confirm your email address and password, and wait for 3 days. Accounts can be deleted faster than the default 3 days by emailing Cohost.",
         "url": "https://cohost.org/rc/user/settings",
         "email": "support@cohost.org",
         "domains": [
