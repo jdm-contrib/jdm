@@ -19041,7 +19041,7 @@
         "name": "Simply Plural",
         "url": "https://app.apparyllis.com/#/Settings/Account/UserSettings",
         "difficulty": "easy",
-        "notes": "On your settings page, go to \"Account\" -> \"Account Settings\", Scroll down to \"Danger zone\" and click on \"Delete Account\"",
+        "notes": "On your settings page, go to \"Account\" ⮕ \"Account Settings\", Scroll down to \"Danger zone\" and click on \"Delete Account\"",
         "domains": [
             "app.apparyllis.com"
         ]
