@@ -10567,6 +10567,19 @@
     },
 
     {
+        "name": "Incogni",
+        "url": "https://incogni.com/",
+        "difficulty": "hard",
+        "notes": "Must email Customer Support to delete account. No official help documentation exists for account deletion.",
+        "email": "support@incogni.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Hello,\n\nI am requesting the deletion of my Incogni account and information associated with this email. I would also like to withdraw the consent given in the Authorization Form.\n\nI understand that by terminating my account I will lose any remaining time on my current subscription and I wish to proceed anyway.\n\nThanks.",
+        "domains": [
+            "incogni.com"
+        ]
+    },
+
+    {
         "name": "Indeed",
         "url": "https://indeed.com",
         "difficulty": "easy",
