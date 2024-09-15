@@ -727,6 +727,16 @@
     },
 
     {
+        "name": "airBaltic",
+        "url": "https://www.airbaltic.com/en-GB/club-program-privacy-policy",
+        "difficulty": "hard",
+        "email": "gdpr@airBalticclub.com",
+        "domains": [
+            "airbaltic.com"
+        ]
+    },
+
+    {
         "name": "Airbnb",
         "url": "https://www.airbnb.com/privacy/manage-your-data",
         "difficulty": "medium",
