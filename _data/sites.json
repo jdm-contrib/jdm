@@ -791,6 +791,16 @@
     },
 
     {
+        "name": "airBaltic",
+        "url": "https://www.airbaltic.com/en-GB/club-program-privacy-policy",
+        "difficulty": "hard",
+        "email": "gdpr@airBalticclub.com",
+        "domains": [
+            "airbaltic.com"
+        ]
+    },
+
+    {
         "name": "Airdroid",
         "url": "https://www.airdroid.com/en/deleteAccount.html",
         "difficulty": "easy",
