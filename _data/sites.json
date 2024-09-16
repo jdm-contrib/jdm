@@ -15614,6 +15614,16 @@
     },
 
     {
+        "name": "OpenGuessr",
+        "url": "https://openguessr.com/",
+        "difficulty": "easy",
+        "notes": "Log in, click on your username at the top of the page, select 'Delete Acccount' under 'Account Management'.",
+        "domains": [
+            "openguessr.com"
+        ]
+    },
+
+    {
         "name": "OpenInvest",
         "url": "https://www.openinvest.com/terms-of-service",
         "difficulty": "hard",
