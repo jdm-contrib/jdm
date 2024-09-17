@@ -14448,6 +14448,21 @@
     },
 
     {
+        "name": "myWorld",
+        "url": "https://www.myworld.com/",
+        "difficulty": "hard",
+        "email": "data.protection@myworld.com",
+        "notes": "Send an email requesting account deletion.",
+        "notes_it": "Invia un'email richiedendo l'eliminazione dell'account.",
+        "domains": [
+            "myworld.com",
+            "corporate.myworld.com",
+            "partner.myworld.com",
+            "partnerapp.myworld.com"
+        ]
+    },
+
+    {
         "name": "Méliuz",
         "url": "https://www.meliuz.com.br/minha-conta/meus-dados/excluir-conta",
         "difficulty": "easy",
