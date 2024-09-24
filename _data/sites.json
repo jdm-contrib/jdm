@@ -17705,7 +17705,7 @@
     {
         "name": "RealVNC",
         "url": "https://manage.realvnc.com/en/close_account",
-        "difficult": "easy",
+        "difficulty": "easy",
         "domains": [
             "realvnc.com"
         ]
