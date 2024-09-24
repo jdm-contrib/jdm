@@ -11325,6 +11325,16 @@
     },
 
     {
+        "name": "Just Giving",
+        "url": "https://help.justgiving.com/hc/en-us/articles/200670321-How-do-I-delete-my-account",
+        "difficulty": "hard",
+        "notes": "Must contact customer support to delete account",
+        "domains": [
+            "justgiving.com"
+        ]
+    },
+
+    {
         "name": "Kaggle",
         "url": "https://www.kaggle.com/account/delete",
         "difficulty": "easy",
