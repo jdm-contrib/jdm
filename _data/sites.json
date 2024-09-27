@@ -739,7 +739,7 @@
     {
         "name": "airBaltic",
         "url": "https://www.airbaltic.com/en/edit-profile-new#",
-        "notes": "1) Go to https://www.airbaltic.com/en-LV/index. 2) Sign in to your airBaltic Club account. 3) Go to Profile section 'Edit profile'. 4) Click 'Close profile'.",
+        "notes": "1) Go to [the airbaltic page](https://www.airbaltic.com/en-LV/index). 2) Sign in to your airBaltic Club account. 3) Go to Profile section 'Edit profile'. 4) Click 'Close profile'.",
         "difficulty": "easy",
         "email": "gdpr@airBalticclub.com",
         "domains": [
