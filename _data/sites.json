@@ -738,8 +738,8 @@
 
     {
         "name": "airBaltic",
-        "url": "https://www.airbaltic.com/en-GB/club-program-privacy-policy",
-        "difficulty": "hard",
+        "url": "https://www.airbaltic.com/en/edit-profile-new#",
+        "difficulty": "easy",
         "email": "gdpr@airBalticclub.com",
         "domains": [
             "airbaltic.com"
