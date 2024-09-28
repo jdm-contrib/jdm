@@ -12846,6 +12846,21 @@
     },
 
     {
+        "name": "MAGIX",
+        "url": "https://www.magix.com/us/support/my-service-center/",
+        "difficulty": "hard",
+        "notes": "Since there is no button, you must contact them through E-Mail. Subsequently, after inclusion in their ticket system, they will resolve the matter soon; however, this may differ from one to another.",
+        "notes_cs": "Protože není k dispozici žádné tlačítko, musíte je kontaktovat prostřednictvím e-mailu. Následně, po zařazení do jejich ticketového systému, záležitost brzy vyřeší, což se však může lišit od jedné osoby k druhé.",
+        "notes_sk": "Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom e-mailu. Následne, po zaradení do ich ticketového systému, záležitosť čoskoro vyriešia, čo sa však môže líšiť od jednej osoby k druhej.",
+        "email": "infoservice@magix.net",
+        "domains": [
+            "magix.com",
+            "magix.net",
+            "magix.info"
+        ]
+    },
+
+    {
         "name": "Magoosh",
         "url": "https://magoosh.zendesk.com/hc/en-us/articles/204307485-How-do-I-delete-my-account-",
         "email": "help@magoosh.com",
