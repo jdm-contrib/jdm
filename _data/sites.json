@@ -23198,6 +23198,19 @@
     },
 
     {
+        "name": "Westfield",
+        "url": "https://www.westfield.com/account",
+        "url_fr": "https://www.westfield.com/france/account",
+        "difficulty": "easy",
+        "notes": "On your account page, go to \"My personal information\", scroll down, click on \"Delete my account\", then click \"Yes\" to confirm.",
+        "notes_fr": "Sur votre page de compte, cliquez sur \"Mes informations personnelles\", descendez plus bas, cliquez sur \"Supprimer mon compte\", puis cliquez sur \"Oui\" pour confirmer.",
+        "domains": [
+            "westfield.com",
+            "id.westfield.com"
+        ]
+    },
+
+    {
         "name": "WG-Gesucht.de",
         "url": "https://www.wg-gesucht.de/hilfe.html#collapse-account-4",
         "url_en": "https://www.wg-gesucht.de/en/hilfe.html",
