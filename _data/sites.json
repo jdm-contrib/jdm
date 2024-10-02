@@ -21481,6 +21481,19 @@
     },
 
     {
+        "name": "TP-Link Cloud",
+        "url": "https://account-delete.tplinkcloud.com/",
+        "difficulty": "easy",
+        "notes": "Visit the linked form, select 'Continue', enter your account credentials, then select 'Send Verification Email'. Follow the directions in the email that arrives to verify your email. Then return to the form and select 'Verified & Continue'. Finish the confirmation form, select a reason for leaving, then select 'Permanently Delete Account'. Wait for an email confirming the account was deleted.",
+        "domains": [
+            "tp-link.com",
+            "community.tp-link.com",
+            "tplinkcloud.com",
+            "account-delete.tplinkcloud.com"
+        ]
+    },
+
+    {
         "name": "Trabalha Brasil",
         "url": "https://www.trabalhabrasil.com.br/fale-conosco",
         "difficulty": "hard",
