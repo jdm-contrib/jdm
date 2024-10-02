@@ -3949,6 +3949,16 @@
     },
 
     {
+        "name": "Chemaxon",
+        "url": "https://account.chemaxon.com/settings",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and delete your account.",
+        "domains": [
+            "chemaxon.com"
+        ]
+    },
+
+    {
         "name": "Chess.com",
         "url": "https://www.chess.com/my-data",
         "difficulty": "medium",
