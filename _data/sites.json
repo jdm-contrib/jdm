@@ -19867,6 +19867,15 @@
     },
 
     {
+        "name": "Stake",
+        "url": "https://trading.hellostake.com/platform/update-profile/close-account",
+        "difficulty": "easy",
+        "domains": [
+            "hellostake.com"
+        ]
+    },
+
+    {
         "name": "Stan",
         "url": "https://www.stan.com.au/privacy-policy",
         "difficulty": "impossible",
