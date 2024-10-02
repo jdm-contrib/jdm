@@ -23605,6 +23605,16 @@
     },
 
     {
+        "name": "WiGLE",
+        "url": "https://wigle.net/deleteAccount",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and follow the instructions.",
+        "domains": [
+            "wigle.net"
+        ]
+    },
+
+    {
         "name": "Wikidot",
         "url": "https://www.wikidot.com/account/settings",
         "difficulty": "easy",
