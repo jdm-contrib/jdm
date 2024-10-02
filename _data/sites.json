@@ -15080,6 +15080,16 @@
     },
 
     {
+        "name": "Niche",
+        "url": "https://preferences.niche.com",
+        "difficulty": "medium",
+        "notes": "Deactivating your account in account settings does not fully remove your data. To delete your data, you need to file a deletion request at the linked page.",
+        "domains": [
+            "niche.com"
+        ]
+    },
+
+    {
         "name": "Nike+",
         "url": "https://secure-nikeplus.nike.com/plus/settings/",
         "difficulty": "easy",
