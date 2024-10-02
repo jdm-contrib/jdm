@@ -7073,6 +7073,16 @@
     },
 
     {
+        "name": "F95Zone",
+        "url": "https://f95zone.to/account/delete",
+        "difficulty": "easy",
+        "notes": "Go to the linked page, confirm your password and click \"Delete account\".",
+        "domains": [
+            "f95zone.to"
+        ]
+    },
+
+    {
         "name": "Facebook",
         "meta": "popular",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
