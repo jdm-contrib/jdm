@@ -6152,6 +6152,16 @@
     },
 
     {
+        "name": "Duolicious",
+        "url": "https://web.duolicious.app/",
+        "difficulty": "easy",
+        "notes": "Log into your account. Go to the \"Profile\" tab. Scroll down and press \"Delete My Account\". Type \"delete\" then press \"Done\".",
+        "domains": [
+            "duolicious.app"
+        ]
+    },
+
+    {
         "name": "Duolingo",
         "url": "https://drive-thru.duolingo.com/",
         "difficulty": "medium",
