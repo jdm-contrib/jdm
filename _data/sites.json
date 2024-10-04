@@ -15789,6 +15789,18 @@
         ]
     },
 
+
+    {
+        "name": "OKX",
+        "url": "https://www.okx.com/account/security",
+        "notes": "Go to Security Center and then in Account management click 'Close Account' and then it will give warning click 'Continue to close' and then select a reason and then click 'Close account' again it will give warning click 'Continue to close' and then click 'I understand' button and then again click 'I understand' button and then again click 'I understand' and then click 'Next' button and then again click 'Next' button and then final warning click 'Close Account' it will to send code to email click 'send code' button and enter the code sent, form the email.",
+        "difficulty": "easy",
+        "domains": [
+            "okx.com"
+        ]
+    },
+
+
     {
         "name": "Oùra - Auvergne-Rhône-Alpes",
         "url": "https://oura.com/contact-et-reclamation",
