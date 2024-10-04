@@ -1086,6 +1086,16 @@
     },
 
     {
+        "name": "AlternativeTo",
+        "url": "https://alternativeto.net/user/edit/#account-settings",
+        "difficulty": "easy",
+        "notes": "Scroll to 'Danger zone' at the bottom of your 'Edit Profile' page and select 'Remove my account'.",
+        "domains": [
+            "alternativeto.net"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "https://alvanista.com/profile/edit",
         "difficulty": "easy",
