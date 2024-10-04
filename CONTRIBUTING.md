@@ -46,7 +46,8 @@ Open an issue to request a new language to be added, then refer to the [Modify a
 
 #### Via Repository
 
-1. Create a new `CODE.json` file in the `_data/trans/` directory where `CODE` is your [short country code](https://en.wikipedia.org/wiki/Country_code)
-2. Copy the contents of `en.json` to your new file
-3. Translate each line
-4. Within the `_pages/` directory, copy `_pages/index.html` to a new `CODE.html` file, and update the `lang: CODE` line to match the new page's code
+1. Create a new `CODE.json` file in the `_data/trans/` directory where `CODE` is a [language tags as described by the IETF in BCP47](https://www.rfc-editor.org/rfc/rfc5646.html).  
+Typically, using the shortest available [ISO 639 code](https://www.loc.gov/standards/iso639-2/php/English_list.php) is sufficient. Appending an [ISO 3166-1 alpha-2 ](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements) country code using a hyphen to distinguish the region is possible, if necessary. (e.g. `cs` for Czech or `pt-PT` for portuguese as spoken in Portugal)
+2. Copy the contents of `en.json` to your new file.
+3. Translate each line.
+4. Within the `_pages/` directory, copy .`_pages/index.html` to a new `CODE.html` file, and update the `lang: CODE` line to match the new page's code.
