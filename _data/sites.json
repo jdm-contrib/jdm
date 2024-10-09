@@ -15442,6 +15442,16 @@
     },
 
     {
+        "name": "OK",
+        "url": "https://ok.ru/regulations",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and click the \"Delete profile\" button at the bottom of the page.",
+        "domains": [
+            "ok.ru"
+        ]
+    },
+
+    {
         "name": "OkCupid",
         "url": "https://www.okcupid.com/settings",
         "difficulty": "easy",
