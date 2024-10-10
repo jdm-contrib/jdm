@@ -21694,6 +21694,33 @@
     },
 
     {
+        "name": "Trenitalia",
+        "url": "https://www.trenitalia.com/en/info_contacts/delete-account.html",
+        "url_it": "https://www.trenitalia.com/it/informazioni/cancellazione-account.html",
+        "difficulty": "hard",
+        "notes": "You need to send a support request to delete your account",
+        "notes_it": "Deve inviare una richiesta di supporto per cancellare il suo conto",
+        "domains": [
+            "trenitalia.com",
+            "lefrecce.it"
+        ]
+    },
+
+    {
+        "name": "Trenitalia France",
+        "url": "https://www.trenitalia.com/trenitalia-france/information-and-contacts/comment-supprimer-un-espace-reserve.html",
+        "difficulty": "hard",
+        "notes": "You need to send an email or a mail to request account deletion.",
+        "notes_fr": "Vous devez envoyer un email ou une lettre pour demander la suppression de votre compte",
+        "email": "dpo@trenitalia.fr",
+        "email_subject": "Demande de suppression de compte",
+        "domains": [
+            "trenitalia.com",
+            "trenitalia-france.fr"
+        ]
+    },
+
+    {
         "name": "Tresorit",
         "url": "https://web.tresorit.com/account/profile",
         "difficulty": "easy",
