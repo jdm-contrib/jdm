@@ -17936,14 +17936,12 @@
     {
         "name": "Reg.ru",
         "url": "https://help.reg.ru/support/#request",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "To deactivate an account in Reg.ru, send a request to the support service with the account's login.",
         "domains": [
             "reg.ru",
             "reg.com",
-            "help.reg.ru",
-            "www.reg.com",
-            "www.reg.ru"
+            "help.reg.ru"
         ]
     },
 
