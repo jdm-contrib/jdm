@@ -14529,6 +14529,22 @@
     },
 
     {
+        "name": "Más Renfe",
+        "url": "https://www.renfe.com/es/es/informacion-legal/renfe-operadora/privacidad-cookies/politica-privacidad",
+        "url_es": "https://www.renfe.com/es/en/legal-information/renfe-operadora/privacidad-cookies/politica-privacidad",
+        "url_fr": "https://www.renfe.com/es/fr/mentions-legales/renfe-operadora/privacidad-cookies/politica-privacidad",
+        "email": "derechos.renfeepe@renfe.es",
+        "email_body": "I want to delete my Más Renfe account",
+        "difficulty": "hard",
+        "notes": "You need to send an email to delete your account.",
+        "notes_es": "Necesita enviar un email para suprimir su cuenta.",
+        "notes_fr": "Vous devez envoyer un email pour supprimer votre compte.",
+        "domains": [
+            "renfe.com"
+        ]
+    },
+
+    {
         "name": "Méliuz",
         "url": "https://www.meliuz.com.br/minha-conta/meus-dados/excluir-conta",
         "difficulty": "easy",
