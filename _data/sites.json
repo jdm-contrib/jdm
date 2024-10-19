@@ -14530,8 +14530,8 @@
 
     {
         "name": "Más Renfe",
-        "url": "https://www.renfe.com/es/es/informacion-legal/renfe-operadora/privacidad-cookies/politica-privacidad",
-        "url_es": "https://www.renfe.com/es/en/legal-information/renfe-operadora/privacidad-cookies/politica-privacidad",
+        "url": "https://www.renfe.com/es/en/legal-information/renfe-operadora/privacidad-cookies/politica-privacidad",
+        "url_es": "https://www.renfe.com/es/es/informacion-legal/renfe-operadora/privacidad-cookies/politica-privacidad",
         "url_fr": "https://www.renfe.com/es/fr/mentions-legales/renfe-operadora/privacidad-cookies/politica-privacidad",
         "email": "derechos.renfeepe@renfe.es",
         "email_body": "Quiero suprimir mi Más Renfe cuenta",
