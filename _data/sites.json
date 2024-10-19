@@ -19034,9 +19034,9 @@
 
     {
         "name": "Shopify",
-        "url": "https://shopify.com/admin/settings/account",
-        "difficulty": "impossible",
-        "notes": "The account is never deleted, just deactivated. If you want to deactivate it, select 'Please cancel my account'. Choose a reason then select 'close my shopify store'.",
+        "url": "https://privacy.shopify.com/dsr_submission/subject_types?selected=erasure",
+        "difficulty": "hard",
+        "notes": "Go to the linked URL and follow the steps to send a data deletion request. You may be asked to provide additional details at some point.",
         "domains": [
             "shopify.com"
         ]
