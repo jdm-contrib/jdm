@@ -3518,16 +3518,6 @@
     },
 
     {
-        "name": "Capcut",
-        "url": "https://www.capcut.com/settings?current_page=landing_page&enter_from=click_view_personal_page&from_page=personal_page&start_tab=video&settings_tab=info_page",
-        "notes": "In the Account settings in the Delete account section click red colored 'Ok' button. After 30 Days your account will be deleted.",
-        "difficulty": "easy",
-        "domains": [
-            "capcut.com"
-        ]
-    },
-
-    {
         "name": "CamScanner",
         "url": "https://www.camscanner.com/",
         "difficulty": "hard",
@@ -3546,6 +3536,16 @@
         "notes": "At the bottom of the page click on the button that says 'Delete account.' There will be a 14 day waiting period, after this period, all your account data will be deleted.",
         "domains": [
             "canva.com"
+        ]
+    },
+
+    {
+        "name": "Capcut",
+        "url": "https://www.capcut.com/settings?current_page=landing_page&enter_from=click_view_personal_page&from_page=personal_page&start_tab=video&settings_tab=info_page",
+        "notes": "In the Account settings in the Delete account section click red colored 'Ok' button. After 30 Days your account will be deleted.",
+        "difficulty": "easy",
+        "domains": [
+            "capcut.com"
         ]
     },
 
