@@ -3542,7 +3542,7 @@
     {
         "name": "Capcut",
         "url": "https://www.capcut.com/settings?current_page=landing_page&enter_from=click_view_personal_page&from_page=personal_page&start_tab=video&settings_tab=info_page",
-        "notes": "In the Account settings in the Delete account section click red colored 'Ok' button. After 30 Days your account will be deleted.",
+        "notes": "In the 'Delete Account' section of the 'Account settings', click the red colored 'Ok' button. After 30 Days your account will be deleted.",
         "difficulty": "easy",
         "domains": [
             "capcut.com"
