@@ -6439,6 +6439,16 @@
     },
 
     {
+        "name": "Ecwid",
+        "url": "https://my.ecwid.com/cp/#profile",
+        "notes": "Click 'Close Account' in profile settings and then click 'Yes'.",
+        "difficulty": "easy",
+        "domains": [
+            "ecwid.com"
+        ]
+    },
+
+    {
         "name": "Economist",
         "url": "https://myaccount.economist.com/s/contact-us",
         "difficulty": "hard",
@@ -7039,16 +7049,6 @@
         "email_body": "To whom it may concern,%0D%0A%0D%0AI am reaching out to you to request the cancellation and deletion of the ExpressVPN account attached to this Email address and its data as I am no longer using the service.%0D%0A%0D%0ABest Regards",
         "domains": [
             "expressvpn.com"
-        ]
-    },
-
-    {
-        "name": "Ecwid",
-        "url": "https://my.ecwid.com/cp/#profile",
-        "notes": "Click 'Close Account' in profile settings and then click 'Yes'.",
-        "difficulty": "easy",
-        "domains": [
-            "ecwid.com"
         ]
     },
 
@@ -19176,6 +19176,16 @@
     },
 
     {
+        "name": "Simplified",
+        "url": "https://app.simplified.com/settings",
+        "notes": "Click the 'Danger Zone' and then click 'Delete Account'.",
+        "difficulty": "easy",
+        "domains": [
+            "simplified.com"
+        ]
+    },
+
+    {
         "name": "SimpleLogin",
         "url": "https://app.simplelogin.io/dashboard/setting",
         "difficulty": "easy",
@@ -19536,16 +19546,6 @@
         "domains": [
             "softcreatr.com",
             "softcreatr.de"
-        ]
-    },
-
-    {
-        "name": "Simplified",
-        "url": "https://app.simplified.com/settings",
-        "notes": "Click the 'Danger Zone' and then click 'Delete Account'.",
-        "difficulty": "easy",
-        "domains": [
-            "simplified.com"
         ]
     },
 
@@ -22622,6 +22622,16 @@
     },
 
     {
+        "name": "Visme",
+        "url": "https://dashboard.visme.co/v2/account-settings",
+        "notes": "Click 'Delete Account' and then you will receive email for confirmation of deletion, click on the link in the email to confirm deletion, and then again click on 'confirm' on that page.",
+        "difficulty": "easy",
+        "domains": [
+            "visme.co"
+        ]
+    },
+
+    {
         "name": "Vidio",
         "url": "https://support.vidio.com/support/solutions/articles/43000060322--delete-account",
         "difficulty": "impossible",
@@ -22863,16 +22873,6 @@
         "notes": "Account can only be deleted by a contact form.",
         "domains": [
             "voxmedia.com"
-        ]
-    },
-
-    {
-        "name": "Visme",
-        "url": "https://dashboard.visme.co/v2/account-settings",
-        "notes": "Click 'Delete Account' and then you will receive email for confirmation of deletion, click on the link in the email to confirm deletion, and then again click on 'confirm' on that page.",
-        "difficulty": "easy",
-        "domains": [
-            "visme.co"
         ]
     },
 
