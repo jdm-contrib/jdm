@@ -19199,15 +19199,6 @@
         ]
     },
 
-    {
-        "name": "Simplified",
-        "url": "https://app.simplified.com/settings",
-        "notes": "Click the 'Danger Zone' and then click 'Delete Account'.",
-        "difficulty": "easy",
-        "domains": [
-            "simplified.com"
-        ]
-    },
 
     {
         "name": "SimplePlanes",
@@ -19216,6 +19207,16 @@
         "notes": "Login to your account, open your profile page and follow these steps: click 'Manage Account' ⮕ click 'Close Account' ⮕ click 'OK' ⮕ type 'CLOSE' ⮕ click 'CLOSE' ⮕ click 'OK'. Using the link from here also skips every step before \"type 'CLOSE'\".",
         "domains": [
             "simpleplanes.com"
+        ]
+    },
+
+    {
+        "name": "Simplified",
+        "url": "https://app.simplified.com/settings",
+        "notes": "Click the 'Danger Zone' and then click 'Delete Account'.",
+        "difficulty": "easy",
+        "domains": [
+            "simplified.com"
         ]
     },
 
