@@ -3827,21 +3827,21 @@
     },
 
     {
-        "name": "Challonge",
-        "url": "https://challonge.com/settings/delete_account",
-        "difficulty": "easy",
-        "domains": [
-            "challonge.com"
-        ]
-    },
-
-    {
         "name": "Capcut",
         "url": "https://www.capcut.com/settings?current_page=landing_page&enter_from=click_view_personal_page&from_page=personal_page&start_tab=video&settings_tab=info_page",
         "notes": "In the Account settings in the Delete account section click red colored 'Ok' button. After 30 Days your account will be deleted.",
         "difficulty": "easy",
         "domains": [
             "capcut.com"
+        ]
+    },
+
+    {
+        "name": "Challonge",
+        "url": "https://challonge.com/settings/delete_account",
+        "difficulty": "easy",
+        "domains": [
+            "challonge.com"
         ]
     },
 
@@ -7048,7 +7048,7 @@
         "notes": "Click 'Close Account' in profile settings and then click 'Yes'.",
         "difficulty": "easy",
         "domains": [
-	        "ecwid.com"
+            "ecwid.com"
         ]
     },
 
@@ -19545,7 +19545,7 @@
         "notes": "Click the 'Danger Zone' and then click 'Delete Account'.",
         "difficulty": "easy",
         "domains": [
-	        "simplified.com"
+            "simplified.com"
         ]
     },
 
@@ -22872,7 +22872,7 @@
         "notes": "Click 'Delete Account' and then you will receive email for confirmation of deletion, click on the link in the email to confirm deletion, and then again click on 'confirm' on that page.",
         "difficulty": "easy",
         "domains": [
-	        "visme.co"
+            "visme.co"
         ]
     },
 
