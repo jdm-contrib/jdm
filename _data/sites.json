@@ -19176,16 +19176,6 @@
     },
 
     {
-        "name": "Simplified",
-        "url": "https://app.simplified.com/settings",
-        "notes": "Click the 'Danger Zone' and then click 'Delete Account'.",
-        "difficulty": "easy",
-        "domains": [
-            "simplified.com"
-        ]
-    },
-
-    {
         "name": "SimpleLogin",
         "url": "https://app.simplelogin.io/dashboard/setting",
         "difficulty": "easy",
@@ -19194,6 +19184,16 @@
         "domains": [
             "simplelogin.io",
             "app.simplelogin.io"
+        ]
+    },
+
+    {
+        "name": "Simplified",
+        "url": "https://app.simplified.com/settings",
+        "notes": "Click the 'Danger Zone' and then click 'Delete Account'.",
+        "difficulty": "easy",
+        "domains": [
+            "simplified.com"
         ]
     },
 
