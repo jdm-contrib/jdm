@@ -7034,7 +7034,7 @@
 
     {
         "name": "Ecwid",
-        "url": "https://my.ecwid.com/store/86589325#profile",
+        "url": "https://my.ecwid.com/cp/#profile",
         "notes": "Click 'Close Account' in profile settings and then click 'Yes'.",
         "difficulty": "easy",
         "domains": [
@@ -19526,6 +19526,16 @@
         "domains": [
             "softcreatr.com",
             "softcreatr.de"
+        ]
+    },
+
+    {
+        "name": "Simplified",
+        "url": "https://app.simplified.com/settings",
+        "notes": "Click the 'Danger Zone' and then click 'Delete Account'.",
+        "difficulty": "easy",
+        "domains": [
+	        "simplified.com"
         ]
     },
 
