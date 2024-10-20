@@ -7033,6 +7033,16 @@
     },
 
     {
+        "name": "Ecwid",
+        "url": "https://my.ecwid.com/store/86589325#profile",
+        "notes": "Click 'Close Account' in profile settings and then click 'Yes'.",
+        "difficulty": "easy",
+        "domains": [
+	        "ecwid.com"
+        ]
+    },
+
+    {
         "name": "EZsniper",
         "url": "https://www.ezsniper.com/contact.php",
         "difficulty": "hard",
