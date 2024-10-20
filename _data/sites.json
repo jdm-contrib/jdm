@@ -6439,16 +6439,6 @@
     },
 
     {
-        "name": "Ecwid",
-        "url": "https://my.ecwid.com/cp/#profile",
-        "notes": "Click 'Close Account' in profile settings and then click 'Yes'.",
-        "difficulty": "easy",
-        "domains": [
-            "ecwid.com"
-        ]
-    },
-
-    {
         "name": "Economist",
         "url": "https://myaccount.economist.com/s/contact-us",
         "difficulty": "hard",
@@ -6456,6 +6446,16 @@
         "domains": [
             "economist.com",
             "myaccount.economist.com"
+        ]
+    },
+
+    {
+        "name": "Ecwid",
+        "url": "https://my.ecwid.com/cp/#profile",
+        "notes": "Click 'Close Account' in profile settings and then click 'Yes'.",
+        "difficulty": "easy",
+        "domains": [
+            "ecwid.com"
         ]
     },
 
