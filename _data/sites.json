@@ -22857,6 +22857,16 @@
     },
 
     {
+        "name": "Visme",
+        "url": "https://dashboard.visme.co/v2/account-settings",
+        "notes": "Click 'Delete Account' and then you will receive email for confirmation of deletion, click on the link in the email to confirm deletion, and then again click on 'confirm' on that page.",
+        "difficulty": "easy",
+        "domains": [
+	        "visme.co"
+        ]
+    },
+
+    {
         "name": "Voxer",
         "url": "https://support.voxer.com/hc/en-us/articles/204330173-How-do-I-delete-my-Voxer-account-",
         "difficulty": "medium",
