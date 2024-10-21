@@ -17825,6 +17825,15 @@
     },
 
     {
+        "name": "RealVNC",
+        "url": "https://manage.realvnc.com/en/close_account",
+        "difficulty": "easy",
+        "domains": [
+            "realvnc.com"
+        ]
+    },
+
+    {
         "name": "Rebelsmarket",
         "url": "https://www.rebelsmarket.com/my",
         "difficulty": "easy",
