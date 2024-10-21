@@ -13731,6 +13731,16 @@
     },
 
     {
+        "name": "Midjourney",
+        "url": "https://www.midjourney.com/account/",
+        "difficulty": "easy",
+        "notes": "Go to your account page, scroll down to the 'How can I delete my account?' section in the FAQ and click on the 'Click here' button.",
+        "domains": [
+            "midjourney.com"
+        ]
+    },
+
+    {
         "name": "Milanote",
         "url": "https://app.milanote.com/account/settings/delete",
         "difficulty": "medium",
