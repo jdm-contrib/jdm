@@ -7648,7 +7648,7 @@
         "name": "Fly.io",
         "url": "https://fly.io/user/deactivate",
         "difficulty": "medium",
-        "notes": "Go to Account > Settings > Delete Account. Some steps need to be completed before deleting the account, e.g. delete apps and remove certificates. Then, just click 'Delete'."),
+        "notes": "Go to Account > Settings > Delete Account. Some steps need to be completed before deleting the account, e.g. delete apps and remove certificates. Then, just click 'Delete'.",
         "domains": [
             "fly.io"
         ]
