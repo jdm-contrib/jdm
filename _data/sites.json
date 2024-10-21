@@ -21545,6 +21545,15 @@
     },
 
     {
+        "name": "ToolsForImage",
+        "url": "https://www.toolsforimage.com/contact-us",
+        "difficulty": "hard",
+        "domains": [
+            "toolsforimage.com"
+        ]
+    },
+
+    {
         "name": "Topcoder",
         "url": "https://www.topcoder.com",
         "difficulty": "impossible",
