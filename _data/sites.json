@@ -5100,6 +5100,7 @@
             "czc.cz"
         ]
     },
+    
     {
         "name": "DaFONT",
         "url": "https://www.dafont.com/forum/read/12643/how-do-i-delete-my-account",
@@ -5108,6 +5109,17 @@
         "notes_it": "Dovrai mandare un messagio privato a [Rodolphe](http://www.dafont.com/fr/profile.php?user=1)",
         "domains":[
             "dafont.com"
+        ]
+    },
+    
+    {
+        "name": "Darty",
+        "url": "https://www.darty.com/services/solutions/foire_aux_questions?question=comment-supprimer-compte-client-ainsi-mes-donnees-personnelles",
+        "difficulty": "hard",
+        "notes": "You need to send an account deletion request.",
+        "notes_it": "Vous devez envoyer une demande de suppression de compte",
+        "domains":[
+            "darty.com"
         ]
     },
 
