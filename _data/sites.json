@@ -6256,17 +6256,6 @@
     },
 
     {
-        "name": "e-Técély",
-        "url": "https://e-tecely.tcl.fr/tcl/supprimerSonCompte.do",
-        "difficulty": "easy",
-        "notes": "On your profile page, click on \"Supprimer mon compte\".",
-        "notes_fr": "Sur votre page de profil, cliquez sur \"Supprimer mon compte\".",
-        "domains": [
-            "e-tecely.tcl.fr"
-        ]
-    },
-
-    {
         "name": "e621",
         "url": "https://e621.net/maintenance/user/deletion",
         "difficulty": "impossible",
@@ -14155,10 +14144,11 @@
 
     {
         "name": "MonTCL",
-        "url": "https://www.tcl.fr/user/delete/confirmation",
+        "url": "https://boutique.tcl.fr/en/account/personal-data",
+        "url_fr": "https://boutique.tcl.fr/fr/account/personal-data",
         "difficulty": "easy",
-        "notes": "Go to your account settings, scroll down and click on \"Delete my account\".",
-        "notes_fr": "Allez sur les paramètres de votre compte, descendez et cliquez sur \"Supprimer mon compte\".",
+        "notes": "Go to your account settings, select \"My personal data\" and click on \"Confirm the deletion of my monTCL account\". You can also ask for deletion of all data related to you by clicking on \"Request deletion of all my personal data\"",
+        "notes_fr": "Allez sur les paramètres de votre compte, sélectionnez \"Mes données personnelles\", et cliquez sur \"Confirmer la suppression de mon compte monTCL\". Vous pouvez aussi demander la suppression de l'entièreté des données vous concernant en cliquant sur \"Demander la suppression de l'ensemble de mes données personnelles\"",
         "domains": [
             "tcl.fr"
         ]
