@@ -5161,6 +5161,16 @@
             "danwin1210.me"
         ]
     },
+    {
+        "name": "Darty",
+        "url": "https://www.darty.com/services/solutions/foire_aux_questions?question=comment-supprimer-compte-client-ainsi-mes-donnees-personnelles",
+        "difficulty": "hard",
+        "notes": "You need to send an account deletion request.",
+        "notes_it": "Vous devez envoyer une demande de suppression de compte",
+        "domains":[
+            "darty.com"
+        ]
+    },
 
     {
         "name": "Dashlane",
