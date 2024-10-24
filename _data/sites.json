@@ -4993,6 +4993,17 @@
     },
 
     {
+        "name": "Cultura",
+        "url": "https://www.cultura.com/contact.html",
+        "difficulty": "hard",
+        "notes": "Send a request to customer service.",
+        "notes_fr": "Envoyez une demande au service client.",
+        "domains": [
+            "cultura.com"
+        ]
+    },
+
+    {
         "name": "Curio",
         "url": "https://curio.io/account/delete",
         "difficulty": "easy",
