@@ -7665,6 +7665,17 @@
     },
 
     {
+        "name": "Fnac",
+        "url": "https://www.fnac.com/aide?question=comment-reinitialiser-mon-mot-de-passe",
+        "difficulty": "hard",
+        "notes": "Send a GDPR rights request to support.",
+        "notes_fr": "Envoyez une demande d'exercice de droit RGPD.",
+        "domains": [
+            "fnac.com"
+        ]
+    },
+
+    {
         "name": "Foap",
         "url": "https://www.foap.com/pages/contact",
         "difficulty": "hard",
