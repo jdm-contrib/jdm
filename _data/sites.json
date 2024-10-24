@@ -6863,6 +6863,17 @@
     },
 
     {
+        "name": "ETS Global",
+        "url": "https://www.etsglobal.org/fr/en/contact/individual",
+        "difficulty": "hard",
+        "notes": "You need to send a support request to delete your account.",
+        "notes_fr": "Vous devez envoyer une requète au support pour supprimer votre compte.",
+        "domains": [
+            "etsglobal.org"
+        ]
+    },
+
+    {
         "name": "Etsy",
         "url": "https://www.etsy.com/your/account/privacy",
         "difficulty": "easy",
