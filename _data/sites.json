@@ -6864,10 +6864,10 @@
 
     {
         "name": "ETS Global",
-        "url": "https://www.etsglobal.org/fr/en/contact/individual",
+        "url": "https://privacyportal-de.onetrust.com/webform/f194ee56-f900-441a-aca9-6a1807f9b2a5/4687a8cc-3095-439e-b369-39726e438235",
         "difficulty": "hard",
-        "notes": "You need to send a support request to delete your account.",
-        "notes_fr": "Vous devez envoyer une requète au support pour supprimer votre compte.",
+        "notes": "You need to send a data deletion request to delete your account. You will receive an email to confirm your email address.",
+        "notes_fr": "Vous devez envoyer une demande de suppression de données pour supprimer votre compte. Vous recevrez un email pour valider votre adresse email.",
         "domains": [
             "etsglobal.org"
         ]
