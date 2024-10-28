@@ -19544,7 +19544,9 @@
             "ouigo.com",
             "monidentifiant.sncf",
             "abonnement-regional.sncf",
-            "maxjeune-tgvinoui.sncf"
+            "maxactif-tgvinoui.sncf",
+            "maxjeune-tgvinoui.sncf",
+            "maxsenior-tgvinoui.sncf"
         ]
     },
 
