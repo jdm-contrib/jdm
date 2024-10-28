@@ -16374,6 +16374,19 @@
     },
 
     {
+        "name": "PCS Mastercard",
+        "url": "https://www.mypcs.com/besoin-daide/supprimer-mon-compte/#faq-comment-supprimer-mon-compte-?",
+        "difficulty": "hard",
+        "email": "dpo@creacard.net",
+        "email_body": "I want to delete my PCS account.",
+        "notes": "Send an email to delete your account.",
+        "notes_tr": "Envoyez un email pour supprimer votre compte.",
+        "domains": [
+            "mypcs.com"
+        ]
+    },
+
+    {
         "name": "pdfFiller",
         "url": "https://www.pdffiller.com/en/login/signin?ref=%2Fen%2Faccount%2Fsettings",
         "difficulty": "easy",
