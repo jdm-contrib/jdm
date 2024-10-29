@@ -6991,15 +6991,14 @@
 
     {
         "name": "Expedia",
-        "url": "https://www.expedia.com/service/#/articles/396/25/12395",
-        "url_de": "https://www.expedia.de/service/#/articles/1067/1017/23667",
-        "url_fr": "https://www.expedia.fr/service/#/articles/1044/25/23514",
-        "difficulty": "hard",
-        "notes": "Contact support via the live chat or the contact form and request the deletion of your account.",
-        "notes_tr": "İletişim formunu veya canlı desteği kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
-        "notes_de": "Kontaktiere den Support über den Live Chat oder das Kontaktformular und fordere die Löschung deines Kontos.",
+        "url": "https://www.expedia.com/helpcenter/?articleId=22910&pwaDialog=article-dialog",
+        "url_de": "https://www.expedia.de/helpcenter/?articleId=22910&pwaDialog=article-dialog",
+        "url_fr": "https://www.expedia.fr/helpcenter/?articleId=22910&pwaDialog=article-dialog",
+        "difficulty": "easy",
+        "notes": "Go to Account, Security and Settings, then Delete Account.",
         "domains": [
             "expedia.com",
+            "expedia.co.nz",
             "expedia.co.uk",
             "expedia.de",
             "expedia.fr"
