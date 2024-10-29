@@ -16380,7 +16380,7 @@
         "email": "dpo@creacard.net",
         "email_body": "I want to delete my PCS account.",
         "notes": "Send an email to delete your account.",
-        "notes_tr": "Envoyez un email pour supprimer votre compte.",
+        "notes_fr": "Envoyez un email pour supprimer votre compte.",
         "domains": [
             "mypcs.com"
         ]
