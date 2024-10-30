@@ -3954,7 +3954,8 @@
         "difficulty": "easy",
         "notes": "Go to the linked page and delete your account.",
         "domains": [
-            "chemaxon.com"
+            "chemaxon.com",
+	        "docs.chemaxon.com"
         ]
     },
 
@@ -15102,7 +15103,7 @@
     {
         "name": "Niche",
         "url": "https://preferences.niche.com",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "Deactivating your account in account settings does not fully remove your data. To delete your data, you need to file a deletion request at the linked page.",
         "domains": [
             "niche.com"
