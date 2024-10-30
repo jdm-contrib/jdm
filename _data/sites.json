@@ -20727,6 +20727,23 @@
     },
 
     {
+        "name": "SwissPass / SBB CFF FFS",
+        "url": "https://www.swisspass.ch/kunde/logindaten?lang=en#kontoLoeschen",
+        "url_de": "https://www.swisspass.ch/kunde/logindaten?lang=de#kontoLoeschen",
+        "url_fr": "https://www.swisspass.ch/kunde/logindaten?lang=fr#kontoLoeschen",
+        "url_it": "https://www.swisspass.ch/kunde/logindaten?lang=it#kontoLoeschen",
+        "difficulty": "easy",
+        "notes": "You can delete your customer account on swisspass.ch under \"My account\", \"Login data\".",
+        "notes_de": "Ihr Kundenkonto können Sie auf swisspass.ch unter «Mein Konto», «Logindaten» löschen.",
+        "notes_fr": "Vous pouvez supprimer votre compte client sur swisspass.ch sous «Mon compte», «Données de connexion».",
+        "notes_it": "Potete cancellare il vostro conto cliente su swisspass.ch alla voce «Il mio conto», «Dati di accesso».",
+        "domains": [
+            "swisspass.ch",
+            "sbb.ch"
+        ]
+    },
+
+    {
         "name": "Sync.com",
         "url": "https://cp.sync.com/account/info",
         "difficulty": "easy",
