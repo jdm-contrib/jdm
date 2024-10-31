@@ -5004,6 +5004,17 @@
     },
 
     {
+        "name": "Cultura",
+        "url": "https://mesdroits.my.onetrust.com/webform/657f7c55-2752-4af4-b8a2-0c1c352400a9/1a5e60f4-9b49-4948-b10a-247d726aa821",
+        "difficulty": "hard",
+        "notes": "Send a request to personal data rights service. They will delete your account without contacting you to confirm.",
+        "notes_fr": "Envoyez une demande au service des droits sur les données personnelles. Ils vont supprimer votre compte sans vous contacter pour confirmer.",
+        "domains": [
+            "cultura.com"
+        ]
+    },
+
+    {
         "name": "Curio",
         "url": "https://curio.io/account/delete",
         "difficulty": "easy",
