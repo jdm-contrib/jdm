@@ -15,20 +15,6 @@
     },
 
     {
-        "name": "000Webhost",
-        "url": "https://000webhost.com/members/profile",
-        "difficulty": "easy",
-        "notes": "Go to \"Profile ⮕ Delete My Account\" and select why you are deleting your account.",
-        "notes_ru": "Перейдите в Профиль ⮕ «Удалить мою учетную запись» и выберите, почему вы удаляете свою учетную запись.",
-        "notes_tr": "\"Profil\" kısmına girip \"Hesabımı Sil\" seçeneğini seçin ve ardından neden hesabınızı sileceğinizi belirtin.",
-        "notes_pt-BR": "Vá para \"Profile ⮕ Delete My Account\" e selecione um motivo pelo qual você está excluindo sua conta.",
-        "domains": [
-            "000webhost.com",
-            "000webhostapp.com"
-        ]
-    },
-
-    {
         "name": "123RF",
         "url": "https://www.123rf.com/support/support-answer.php?id=8817",
         "difficulty": "hard",
