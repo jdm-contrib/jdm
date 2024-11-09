@@ -3924,6 +3924,19 @@
     },
 
     {
+        "name": "Cheezburger",
+        "url": "https://cheezburgernetwork.wordpress.com/faq/#q14",
+        "difficulty": "hard",
+        "notes": "Write them an e-mail with your user name and email address attached to the account, along with the reason why you wish to delete the account.",
+        "email": "contactus@cheezburger.com",
+        "email_subject": "Request to delete account",
+        "email_body": "Please delete my Cheezburger account with username XXXX and e-mail XXXX, the reason for my request is XXXX",
+        "domains": [
+            "cheezburger.com"
+        ]
+    },
+
+    {
         "name": "Chegg",
         "url": "https://www.chegg.com/contactus",
         "difficulty": "hard",
