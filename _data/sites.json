@@ -4324,6 +4324,15 @@
             "codeforces.com"
         ]
     },
+    {
+        "name": "Codeium",
+        "url": "https://codeium.com/settings",
+        "difficulty": "easy",
+        "notes": "Scroll down and press the 'delete your account' button.",
+        "domains": [
+            "codeium.com"
+        ]
+    },
 
     {
         "name": "CodePen",
