@@ -17844,7 +17844,7 @@
         "name": "RateYourMusic",
         "url": "https://rateyourmusic.com/account/delete",
         "difficulty": "impossible",
-        "notes": "After deleteing the account, it will be deactivated for 30 days before being deleted permanently. Messages, forum posts, and contributions stay on the site even after your account is deleted.",
+        "notes": "After deleting the account, it will be deactivated for 30 days before being deleted permanently. Messages, forum posts, and contributions stay on the site even after your account is deleted.",
         "notes_tr": "Hesabı sildikten sonra, kalıcı olarak silinmeden önce 30 gün boyunca devre dışı bırakılacaktır. Mesajlar, forum gönderileri ve katkılar, hesabınız silindikten sonra bile sitede kalır.",
         "domains": [
             "rateyourmusic.com"
