@@ -10064,6 +10064,20 @@
     },
 
     {
+        "name": "HITHIT",
+        "url": "https://www.hithit.com/en/article/privacyPolicy",
+        "url_en": "https://www.hithit.com/en/article/privacyPolicy",
+        "url_cs": "https://www.hithit.com/cs/article/privacyPolicy",
+        "difficulty": "hard",
+        "notes": "Email their support with the associated E-mail address to delete your account.",
+        "notes_cs": "Napiěte e-mail na podporu s Vašim e-mailem a požádejte o smazání účtu",
+        "email": "info@hithit.cz",
+        "domains":[
+            "hithit.com"
+        ]
+    },
+
+    {
         "name": "Hive Social",
         "url": "https://www.hivesocial.app/help-center/deactivation",
         "difficulty": "hard",
