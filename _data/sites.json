@@ -3185,6 +3185,18 @@
     },
 
     {
+        "name": "Broadcom Support",
+        "url": "https://knowledge.broadcom.com/external/article/368293/deleting-or-removing-broadcom-support-ac.html",
+        "difficulty": "hard",
+        "notes": "You need to send a request to the support",
+        "notes_fr": "Vous devez envoyer une demande au support.",
+        "domains": [
+            "broadcom.com",
+            "vmware.com"
+        ]
+    },
+
+    {
         "name": "BrowserStack",
         "url": "https://www.browserstack.com/accounts/profile",
         "difficulty": "easy",
