@@ -23388,6 +23388,17 @@
     },
 
     {
+        "name": "Wavel AI",
+        "url": "https://studio.wavel.ai/profile",
+        "difficulty": "easy",
+        "notes": "Go to your profile and click on 'Delete Account'.",
+        "domains": [
+            "wavel.ai",
+            "studio.wavel.ai"
+        ]
+    }
+
+    {
         "name": "WAYN",
         "url": "https://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
@@ -24995,16 +25006,5 @@
             "sdamgia.ru"
         ]
     },
-
-    {
-        "name": "Wavel AI",
-        "url": "https://studio.wavel.ai/profile",
-        "difficulty": "easy",
-        "notes": "Go to your profile and click on 'Delete Account'.",
-        "domains": [
-            "wavel.ai",
-            "studio.wavel.ai"
-        ]
-    }
 
 ]
