@@ -1733,6 +1733,17 @@
     },
 
     {
+        "name": "Asana",
+        "url": "https://app.asana.com",
+        "difficulty": "easy",
+        "notes": "Go to User Info, click Settings, Account and Delete My account at the bottom. After that, click 'Continue with deletion' button, pick a reason and type 'delete'.",
+        "domains": [
+            "asana.com",
+            "app.asana.com"
+        ]
+    },
+
+    {
         "name": "Asda",
         "url": "https://www.asda.com/privacy/contact-us",
         "difficulty": "hard",
