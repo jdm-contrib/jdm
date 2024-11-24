@@ -11685,13 +11685,13 @@
 
     {
         "name": "Kendall County History",
-        "url": "https://kendallcountyhistory.com/contact-us/",
+        "url": "https://www.kendallcountyhistory.org/contact",
         "difficulty": "hard",
         "notes": "You can also use the google form in contact us page and ask them to remove your profile.",
-        "email": "contact@kendallcountyhistory.com",
+        "email": "contact@kendallcountyhistory.org",
         "email_subject": "Delete My Profile",
         "domains": [
-            "kendallcountyhistory.com"
+            "kendallcountyhistory.org"
         ]
     },
 
