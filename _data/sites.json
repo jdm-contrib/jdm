@@ -3155,6 +3155,13 @@
     },
 
     {
+        "name": "Braintrust",
+        "url": "https://app.usebraintrust.com/settings/privacy_security/",
+        "difficulty": "easy",
+        "notes": "Go to Settings >> Privacy & Security >> My Account and click on Delete Account Button. You will receive a confirmation email.",
+    },
+
+    {
         "name": "Brandpad",
         "url": "https://create.brandpad.io/account/delete-account",
         "difficulty": "easy",
