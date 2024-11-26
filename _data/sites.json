@@ -21398,7 +21398,18 @@
             "textures.com"
         ]
     },
-
+    
+    {
+        "name": "The Hub",
+        "url": "https://thehub.io/contact",
+        "difficulty": "hard",
+        "notes": "You need to send an email to support and request the deletion of your data.",
+        "email": "info@thehub.io",
+        "domains": [
+            "thehub.io"
+        ]
+    },
+    
     {
         "name": "Themeplaza",
         "url": "https://themeplaza.art/contact",
