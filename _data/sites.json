@@ -22249,15 +22249,6 @@
     },
 
     {
-        "name": "Twenty20",
-        "url": "https://www.twenty20.com/delete-account?t20p=settings.index",
-        "difficulty": "easy",
-        "domains": [
-            "twenty20.com"
-        ]
-    },
-
-    {
         "name": "Twilio",
         "url": "https://support.twilio.com/hc/en-us/requests/new",
         "difficulty": "hard",
