@@ -9375,10 +9375,10 @@
 
     {
         "name": "Gov.br",
-        "url": "https://acesso.gov.br/faq/_perguntasdafaq/excluircadastro.html",
-        "difficulty": "impossible",
-        "notes": "According to help page, there's no way, nor necessity, to exclude account because it's the way to access public service.",
-        "notes_pt-BR": "De acordo com a página de ajuda, não há jeito, nem necessidade, de se excluir a conta pois ela é a forma de ser acessar vários serviços públicos.",
+        "url": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/exclusao-da-conta-gov.br",
+        "difficulty": "hard",
+        "notes": "According to the help page, you can delete your account by contacting gov.br's help desk.",
+        "notes_pt-BR": "De acordo com a página de ajuda, você pode excluir sua conta contatando o atendimento gov.br.",
         "domains": [
             "gov.br"
         ]
