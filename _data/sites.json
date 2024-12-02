@@ -19472,6 +19472,17 @@
     },
 
     {
+        "name": "Skool",
+        "url": "https://www.skool.com/privacy?rt=udt",
+        "difficulty": "medium",
+        "notes": "Use this [link](https://www.skool.com/privacy?rt=udt) and submit a request to delete your account permanently. You will receive a confirmation mail shortly. Note that this will not cancel payments processed outside of the platform. Best to contact the group admins for further assistance.",
+        "email": "help@skool.com",
+        "domains": [
+            "skool.com"
+        ]
+    },
+
+    {
         "name": "Skype",
         "meta": "popular",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
