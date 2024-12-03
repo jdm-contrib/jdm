@@ -14933,6 +14933,16 @@
     },
 
     {
+        "name": "Netbela Hosting",
+        "url": "https://netbela.com/contact",
+        "difficulty": "hard",
+        "notes": "Create a ticket to the Billing department and request your account to be deleted.",
+        "domains": [
+            "netbela.com"
+        ]
+    },
+
+    {
         "name": "Netdata",
         "url": "https://learn.netdata.cloud/docs/cloud/data-privacy#delete-all-personal-data",
         "difficulty": "easy",
