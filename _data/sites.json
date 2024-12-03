@@ -13981,6 +13981,19 @@
     },
 
     {
+        "name": "Minha Band",
+        "url": "https://login.band.com.br/",
+        "difficulty": "easy",
+        "notes": "Once logged in, use the link above or click on your user and then \"Editar Perfil\". Scroll to the bottom to click \"Excluir conta Band\", reenter your password and confirm.",
+        "notes_pt-BR": "Quando já estiver logado, use o link acima ou clique no seu usuário e então em \"Editar Perfil\". Vá até o fim da página e clique \"Excluir conta Band\", digite sua senha novamente e confirme.",
+        "domains": [
+            "band.com.br",
+            "band.uol.com.br",
+            "login.band.com.br"
+        ]
+    },
+
+    {
         "name": "Miniclip",
         "url": "https://me.miniclip.com/account/delete",
         "difficulty": "easy",
@@ -13997,19 +14010,6 @@
         "notes": "You need to \"block\" your MinID first by sending [a form](https://eid.difi.no/sites/eid/files/2021-03/sperring_av_minid_en_v_1.3.pdf). You'll need to submit [another form](https://eid.difi.no/sites/eid/files/2021-03/sletting_fra_kontaktregister_en_v_1.2.pdf) if you want your information to be deleted from the contact registry.",
         "domains": [
             "minid.no"
-        ]
-    },
-
-    {
-        "name": "Minha Band",
-        "url": "https://login.band.com.br/",
-        "difficulty": "easy",
-        "notes": "Once logged in, use the link above or click on your user and then \"Editar Perfil\". Scroll to the bottom to click \"Excluir conta Band\", reenter your password and confirm.",
-        "notes_pt-BR": "Quando já estiver logado, use o link acima ou clique no seu usuário e então em \"Editar Perfil\". Vá até o fim da página e clique \"Excluir conta Band\", digite sua senha novamente e confirme.",
-        "domains": [
-            "band.com.br",
-            "band.uol.com.br",
-            "login.band.com.br"
         ]
     },
 
