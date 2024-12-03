@@ -3175,6 +3175,16 @@
     },
 
     {
+        "name": "Brevo",
+        "url": "https://app.brevo.com/settings/advanced",
+        "difficulty": "easy",
+        "domains": [
+            "app.brevo.com",
+            "brevo.com"
+        ]
+    },
+
+    {
         "name": "Brilliant",
         "url": "https://brilliant.org/account/settings/deactivate/",
         "difficulty": "easy",
