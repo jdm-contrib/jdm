@@ -14733,6 +14733,19 @@
     },
 
     {
+        "name": "Minha Band",
+        "url": "https://login.band.com.br/",
+        "difficulty": "easy",
+        "notes": "Once logged in, use the link above or click on your user and then \"Editar Perfil\". Scroll to the bottom to click \"Excluir conta Band\", reenter your password and confirm.",
+        "notes_pt-BR": "Quando já estiver logado, use o link acima ou clique no seu usuário e então em \"Editar Perfil\". Vá até o fim da página e clique \"Excluir conta Band\", digite sua senha novamente e confirme.",
+        "domains": [
+            "band.com.br",
+            "band.uol.com.br",
+            "login.band.com.br"
+        ]
+    },
+
+    {
         "name": "N11",
         "url": "https://www.n11.com/hesabim/uyelik-iptali",
         "difficulty": "easy",
