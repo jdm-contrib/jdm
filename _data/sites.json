@@ -12074,12 +12074,10 @@
 
     {
         "name": "LBRY / Odysee",
-        "url": "https://lbry.com/faq/how-to-remove-account",
-        "difficulty": "hard",
-        "notes": "Only way to delete your account is sending them an e-mail.",
-        "notes_tr": "Hesabınızı silmenin tek yolu onlara bir e-posta göndermektir.",
-        "email": "hello@lbry.com",
-        "email_body": "I have an account on XXX@XXX.XXX and i want that account to be deleted because of XXXXXX.",
+        "url": "https://odysee.com/$/settings",
+        "difficulty": "medium",
+        "notes": "Ask for deletion on your settings pags. All your content will instantly be deleted, the account deletion will be handled manually by the support.",
+        "notes_fr": "Demqndez la suppression sur la page des paramètres. Tout votre contenu sera instantanément supprimé, la suppression du compte sera gérée manuellement par le support.",
         "domains": [
             "lbry.com",
             "odysee.com"
