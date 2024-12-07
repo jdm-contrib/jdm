@@ -9912,11 +9912,12 @@
 
     {
         "name": "HelloFresh",
-        "url": "https://www.hellofresh.com/contact-page/",
+        "url": "https://privacy.hellofresh.com/data-privacy",
         "difficulty": "hard",
-        "notes": "Click \"Chat\" and request that the agent delete your account. Your e-mail must be provided.",
+        "notes": "You need to fill out the form, then confirm your email. Once done, a request will be made. Don't get distracted by the confetti.",
         "domains": [
-            "hellofresh.com"
+            "hellofresh.com",
+            "hellofresh.co.uk"
         ]
     },
 
