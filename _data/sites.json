@@ -9558,16 +9558,9 @@
 
     {
         "name": "GrubHub",
-        "url": "https://www.grubhub.com/legal/",
-        "difficulty": "hard",
-        "notes": "Privacy Policy Letter D: Account e-mail addresses cannot be deleted. However, an Account may be closed and GrubHub will cause the corresponding e-mail address to be scrambled.",
-        "notes_tr": "Gizlilik Politikası Madde D: Hesap e-posta adresleri silinemez. Ancak, bir Hesap kapatılabilir ve GrubHub ilgili e-posta adresinin karıştırılmasına neden olur.",
-        "notes_fr": "Aucune page n'explique comment supprimer votre compte. Vous devez contacter le support et ils le feront pour vous.",
-        "notes_it": "Nessuna pagina spiega come eliminare l'account. Devi contattare il supporto direttamente (il link si trova in fondo alla pagina) e lo faranno al posto tuo.",
-        "notes_pt-BR": "Não há uma página explicando como deletar sua conta. Você terá de contatar o suporte diretamente (link no final da página) e eles irão deletá-la para você.",
-        "notes_ca": "No s'explica com eliminar el compte. Haurà de contactar directament amb el servei d'assistència (link al final de la pàgina) i ells li borraran el compte.",
-        "notes_es": "No hay una explicación en como eliminar las cuentas. Deberás contactar directamente con el servicio de asistencia (enlance al final de la página) y ellos borrarán la cuenta.",
-        "email": "accounts@grubhub.com",
+        "url": "https://www.grubhub.com/help/privacy/manage-your-data",
+        "difficulty": "medium",
+        "notes": "Click the link to submit a request under \"Delete your personal information\"",
         "domains": [
             "grubhub.com"
         ]
