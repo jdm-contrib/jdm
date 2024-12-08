@@ -18501,9 +18501,8 @@
     {
         "name": "Robinhood",
         "url": "https://robinhood.com/contact",
-        "difficulty": "hard",
-        "notes": "Contact support via the link and request acount deletion.",
-        "notes_tr": "Bağlantı yoluyla desteğe başvurun ve hesap silme talebinde bulunun.",
+        "difficulty": "impossible",
+        "notes": "Support will not disable / delete your login. Individual brokerage or crypto accounts can be deleted, as well as marketing information through self-service option.",
         "domains": [
             "robinhood.com"
         ]
