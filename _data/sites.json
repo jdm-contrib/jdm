@@ -8504,15 +8504,6 @@
     },
 
     {
-        "name": "GeeksforGeeks",
-        "url": "https://auth.geeksforgeeks.org/delete-account/",
-        "difficulty": "easy",
-        "domains": [
-            "auth.geeksforgeeks.org",
-            "geeksforgeeks.org"
-        ]
-    },
-    {
         "name": "GeekHunter",
         "url": "https://suporte.geekhunter.com.br/support/solutions/articles/9000185709-como-faco-para-excluir-minha-conta-",
         "difficulty": "easy",
@@ -8520,6 +8511,16 @@
         "notes_pt-BR": "No menu superior direito, clique em seu perfil e depois em 'Configurações'. Depois clique em 'Excluir minha conta'.",
         "domains": [
             "geekhunter.com.br"
+        ]
+    },
+    
+    {
+        "name": "GeeksforGeeks",
+        "url": "https://auth.geeksforgeeks.org/delete-account/",
+        "difficulty": "easy",
+        "domains": [
+            "auth.geeksforgeeks.org",
+            "geeksforgeeks.org"
         ]
     },
 
