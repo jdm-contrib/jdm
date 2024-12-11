@@ -3387,7 +3387,16 @@
             "burst.net"
         ]
     },
-
+    {
+        "name": "Buser",
+        "url": "https://www.buser.com.br/ajuda/conta-e-dados",
+        "difficulty": "easy",
+        "notes": "Click in 'Perfil' on the right side top and click on 'Editar perfil'. At the bottom of the page click on 'Opções Avançadas' and click on 'Deletar minha conta'.",
+        "notes_pt-BR": "Clique em 'Perfil' no canto superior direito e clique em 'Editar perfil'. No canto inferior da página clique em 'Opções Avançadas' e clique em 'Deletar minha conta'.",
+        "domains": [
+            "buser.com.br"
+        ]
+    },
     {
         "name": "Busuu",
         "url": "https://www.busuu.com/dashboard#/settings/account",
@@ -8491,6 +8500,17 @@
         "domains": [
             "gearbest.com",
             "wap-support.gearbest.com"
+        ]
+    },
+
+    {
+        "name": "GeekHunter",
+        "url": "https://suporte.geekhunter.com.br/support/solutions/articles/9000185709-como-faco-para-excluir-minha-conta-",
+        "difficulty": "easy",
+        "notes": "In the right top menu, click on your profile then on 'Configurações'. Then click 'Excluir minha conta'.",
+        "notes_pt-BR": "No menu superior direito, clique em seu perfil e depois em 'Configurações'. Depois clique em 'Excluir minha conta'.",
+        "domains": [
+            "geekhunter.com.br"
         ]
     },
 
