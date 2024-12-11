@@ -8512,6 +8512,16 @@
             "geeksforgeeks.org"
         ]
     },
+    {
+        "name": "GeekHunter",
+        "url": "https://suporte.geekhunter.com.br/support/solutions/articles/9000185709-como-faco-para-excluir-minha-conta-",
+        "difficulty": "easy",
+        "notes": "In the right top menu, click on your profile then on 'Configurações'. Then click 'Excluir minha conta'.",
+        "notes_pt-BR": "No menu superior direito, clique em seu perfil e depois em 'Configurações'. Depois clique em 'Excluir minha conta'.",
+        "domains": [
+            "geekhunter.com.br"
+        ]
+    },
 
     {
         "name": "Genesis Cloud",
