@@ -3387,7 +3387,16 @@
             "burst.net"
         ]
     },
-
+    {
+        "name": "Buser",
+        "url": "https://www.buser.com.br/ajuda/conta-e-dados",
+        "difficulty": "easy",
+        "notes": "Click in 'Perfil' on the right side top and click on 'Editar perfil'. At the bottom of the page click on 'Opções Avançadas' and click on 'Deletar minha conta'.",
+        "notes_pt-BR": "Clique em 'Perfil' no canto superior direito e clique em 'Editar perfil'. No canto inferior da página clique em 'Opções Avançadas' e clique em 'Deletar minha conta'.",
+        "domains": [
+            "buser.com.br"
+        ]
+    },
     {
         "name": "Busuu",
         "url": "https://www.busuu.com/dashboard#/settings/account",
