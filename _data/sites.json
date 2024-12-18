@@ -22642,6 +22642,19 @@
     },
 
     {
+        "name": "Uptime Observer",
+        "url": "https://uptimeobserver.com/",
+        "difficulty": "hard",
+        "notes": "Send a message using the website chat feature (bottom right), asking them to delete your account.",
+        "notes_ar": "أرسل رسالة باستخدام ميزة الدردشة على الموقع الإلكتروني (أسفل اليمين)، تطلب منهم حذف حسابك.",
+        "notes_fr": "Envoyez un message en utilisant la fonction de chat du site web (en bas à droite), en leur demandant de supprimer votre compte.",
+        "domains": [
+            "uptimeobserver.com",
+            "app.uptimeobserver.com"
+        ]
+    },
+
+    {
         "name": "Uptime Robot",
         "url": "https://uptimerobot.com/dashboard#mySettings",
         "difficulty": "medium",
