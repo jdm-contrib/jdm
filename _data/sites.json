@@ -8867,7 +8867,7 @@
         "difficulty": "hard",
         "notes": "It is also possible to file an account deletion request via the \"Contact Us\" section at the bottom of the page.",
         "domains": [
-            "glovoapp.com"
+            "glovoapp.https://tailscale.com/kb/1237/delete-tailnetcom"
         ]
     },
 
@@ -21013,6 +21013,17 @@
         "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
             "thetakeout.com"
+        ]
+    },
+
+    {
+        "name": "Tailscale",
+        "url": "https://tailscale.com/kb/1237/delete-tailnet",
+        "difficulty": "limited",
+        "notes": "Tailscale uses Single Sign-on with identity providers. As such, deleting the account can only be done through the identity provider itself. (apparently, accounts made with Passkeys cannot be deleted)",
+        "notes_fr": "Tailscale utilise le Single Sign-on avec des fournisseurs d'identité. Supprimer le compte ne peut donc être fait uniquement auprès du fournisseur d'identité. (apparemment, les comptes faits avec une Passkey ne peuvent pas être supprimés)",
+        "domains": [
+            "tailscale.com"
         ]
     },
 
