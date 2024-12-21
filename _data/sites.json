@@ -24957,6 +24957,7 @@
             "app.zeplin.io"
         ]
     },
+    
     {
         "name": "ZeroSSL",
         "url": "https://app.zerossl.com/account",
@@ -24965,6 +24966,17 @@
         "domains": [
             "zerossl.com",
             "app.zerossl.com"
+        ]
+    },
+    
+    {
+        "name": "ZeroTier",
+        "url": "https://docs.zerotier.com/central-billing/#how-to-delete-your-whole-account",
+        "difficulty": "easy",
+        "notes": "Go to your account page and click on the \"delete account\" button.",
+        "notes_fr": "Ouvrez votre page de compte et cliquez sur le bouton \"delete account\".",
+        "domains": [
+            "zerotier.com"
         ]
     },
 
