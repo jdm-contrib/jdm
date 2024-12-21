@@ -14955,6 +14955,17 @@
     },
 
     {
+        "name": "NetBird",
+        "url": "https://docs.netbird.io/how-to/delete-account",
+        "difficulty": "easy",
+        "notes": "Go to the \"Settings\" tab, then click on \"Danger Zone\". Review the message and click on the \"Delete Account\" button.",
+        "notes_fr": "Allez dans l'onglet \"Settings\", cliquez sur \"Danger Zone\". Lisez le message et cliquez sur le bouton \"Delete Account\".",
+        "domains": [
+            "netbird.io"
+        ]
+    },
+
+    {
         "name": "Netdata",
         "url": "https://learn.netdata.cloud/docs/cloud/data-privacy#delete-all-personal-data",
         "difficulty": "easy",
