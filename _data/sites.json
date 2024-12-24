@@ -14955,6 +14955,17 @@
     },
 
     {
+        "name": "NetBird",
+        "url": "https://docs.netbird.io/how-to/delete-account",
+        "difficulty": "easy",
+        "notes": "Go to the \"Settings\" tab, then click on \"Danger Zone\". Review the message and click on the \"Delete Account\" button.",
+        "notes_fr": "Allez dans l'onglet \"Settings\", cliquez sur \"Danger Zone\". Lisez le message et cliquez sur le bouton \"Delete Account\".",
+        "domains": [
+            "netbird.io"
+        ]
+    },
+
+    {
         "name": "Netdata",
         "url": "https://learn.netdata.cloud/docs/cloud/data-privacy#delete-all-personal-data",
         "difficulty": "easy",
@@ -21007,6 +21018,17 @@
     },
 
     {
+        "name": "Tailscale",
+        "url": "https://tailscale.com/kb/1237/delete-tailnet",
+        "difficulty": "limited",
+        "notes": "Tailscale uses Single Sign-on with identity providers. As such, deleting the account can only be done through the identity provider itself. (apparently, accounts made with Passkeys cannot be deleted)",
+        "notes_fr": "Tailscale utilise le Single Sign-on avec des fournisseurs d'identité. Supprimer le compte ne peut donc être fait uniquement auprès du fournisseur d'identité. (apparemment, les comptes faits avec une Passkey ne peuvent pas être supprimés)",
+        "domains": [
+            "tailscale.com"
+        ]
+    },
+
+    {
         "name": "The Takeout",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
@@ -24957,6 +24979,7 @@
             "app.zeplin.io"
         ]
     },
+
     {
         "name": "ZeroSSL",
         "url": "https://app.zerossl.com/account",
@@ -24965,6 +24988,17 @@
         "domains": [
             "zerossl.com",
             "app.zerossl.com"
+        ]
+    },
+
+    {
+        "name": "ZeroTier",
+        "url": "https://docs.zerotier.com/central-billing/#how-to-delete-your-whole-account",
+        "difficulty": "easy",
+        "notes": "Go to your account page and click on the \"delete account\" button.",
+        "notes_fr": "Ouvrez votre page de compte et cliquez sur le bouton \"delete account\".",
+        "domains": [
+            "zerotier.com"
         ]
     },
 
