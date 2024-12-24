@@ -21018,16 +21018,6 @@
     },
 
     {
-        "name": "The Takeout",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "thetakeout.com"
-        ]
-    },
-
-    {
         "name": "Tailscale",
         "url": "https://tailscale.com/kb/1237/delete-tailnet",
         "difficulty": "limited",
@@ -21035,6 +21025,16 @@
         "notes_fr": "Tailscale utilise le Single Sign-on avec des fournisseurs d'identité. Supprimer le compte ne peut donc être fait uniquement auprès du fournisseur d'identité. (apparemment, les comptes faits avec une Passkey ne peuvent pas être supprimés)",
         "domains": [
             "tailscale.com"
+        ]
+    },
+
+    {
+        "name": "The Takeout",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "thetakeout.com"
         ]
     },
 
