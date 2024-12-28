@@ -14921,6 +14921,16 @@
     },
 
     {
+        "name": "NeoDB",
+        "url": "https://neodb.social/account/info",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete account' near the bottom of the page and follow the instructions.",
+        "domains": [
+    	    "neodb.social"
+        ]
+    },
+
+    {
         "name": "Neon Pagamentos",
         "url": "https://suporte.neon.com.br/hc/pt-br/articles/360050729234-Como-fa%C3%A7o-para-cancelar-a-conta-",
         "difficulty": "impossible",
