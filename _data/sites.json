@@ -5454,6 +5454,18 @@
     },
 
     {
+        "name": "Deutsche Bahn / DB",
+        "url": "https://int.bahn.de/en/faq/delete-data-customer-account",
+        "url_de": "https://www.bahn.de/faq/pk/service/kundenkonto",
+        "difficulty": "easy",
+        "notes": "In the \"Manage customer account\" section, go to \"Personal details\" and then select the \"Delete account\" option at the bottom. Now follow the instructions to delete your customer account.",
+        "notes_de": "Gehen Sie im Bereich „Kundenkonto verwalten“ auf „Persönliche Daten“ und wählen anschließend im unteren Bereich die Option „Konto löschen“ aus. Folgen Sie nun den Anweisungen zur Löschung Ihres Kundenkontos.",
+        "domains": [
+            "bahn.de"
+        ]
+    },
+
+    {
         "name": "Deutsche Post",
         "url": "https://www.dhl.de/content/dpks/de/themenauswahl/kundenservice-formulare/f1b-datenschutz.html",
         "difficulty": "hard",
