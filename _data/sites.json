@@ -8988,11 +8988,9 @@
 
     {
         "name": "GOG",
-        "url": "https://support.gog.com/hc/en-us/articles/212806525-How-can-I-delete-my-account-?product=gog",
-        "difficulty": "hard",
-        "notes": "Email privacy@gog.com and ask to have your account deleted.",
-        "notes_tr": "Hesabınızın silinmesini talep etmek için onlara e-posta gönderin.",
-        "email": "privacy@gog.com",
+        "url": "https://www.gog.com/en/account/settings/delete_account",
+        "difficulty": "easy",
+        "notes": "Log in first, go to the url, press DELETE ACCOUNT and an e-mail will be sent. After confirming your account will be permanently deleted after 14 days.",
         "domains": [
             "gog.com",
             "support.gog.com"
