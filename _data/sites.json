@@ -12999,13 +12999,36 @@
     },
 
     {
-        "name": "M Réso / Appli M",
+        "name": "M Covoit Lignes+",
+        "url": "https://mcovoitlignesplus.zendesk.com/hc/fr/articles/360015255860-Comment-supprimer-mon-compte",
+        "difficulty": "hard",
+        "notes": "You need to send an email to the support.",
+        "notes_fr": "Vous devez envoyer un email au support",
+        "email": "support@lignesplus-m.fr",
+        "domains": [
+            "lignesplus-m.fr"
+        ]
+    },
+
+    {
+        "name": "M Mobilités / Appli M",
         "url": "https://pass.mobilites-m.fr/mypass/account/profile",
         "difficulty": "easy",
         "notes": "From your profile page, click on \"Clôturer mon compte M\"",
         "notes_fr": "Sur votre page de profil, cliquez sur \"Clôturer mon compte M\"",
         "domains": [
             "pass.mobilites-m.fr"
+        ]
+    },
+
+    {
+        "name": "M Réso",
+        "url": "https://www.reso-m.fr/TPL_CODE/TPL_ECNLDASHBOARD/6-tableau-de-bord.htm",
+        "difficulty": "easy",
+        "notes": "From your profile page, go to \"Your information\" and click on \"Delete my personal space \"",
+        "notes_fr": "Sur votre page de profil, allez sur \"Vos informations\" et cliquez sur \"Supprimer mon espace personnel\"",
+        "domains": [
+            "reso-m.fr"
         ]
     },
 
