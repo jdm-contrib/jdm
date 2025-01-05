@@ -19508,6 +19508,20 @@
     },
 
     {
+        "name": "The Sims Resource",
+        "url": "https://help.thesimsresource.com/article/14-how-do-i-delete-my-account",
+        "difficulty": "hard",
+        "notes": "Since there is no button, you must contact them through a support ticket. Subsequently, after inclusion in their ticket system, they will resolve the matter soon; however, this may differ from one to another.",
+        "notes_cs": "Protože není k dispozici žádné tlačítko, musíte je kontaktovat prostřednictvím ticketu. Následně, po zařazení do jejich ticketového systému, záležitost brzy vyřeší, což se však může lišit od jedné osoby k druhé.",
+        "notes_sk": "Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom ticketu. Následne, po zaradení do ich ticketového systému, záležitosť čoskoro vyriešia, čo sa však môže líšiť od jednej osoby k druhej.",
+        "email": "support@thesimsresource.com",
+        "domains": [
+            "thesimsresource.com",
+            "help.thesimsresource.com"
+        ]
+    },
+
+    {
         "name": "SitePoint",
         "url": "https://www.sitepoint.com/community/faq/#leaving",
         "difficulty": "impossible",
