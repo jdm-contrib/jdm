@@ -12277,9 +12277,9 @@
 
     {
         "name": "LG Account",
-        "url": "https://www.lgaccount.com",
+        "url": "https://us.lgaccount.com",
         "difficulty": "easy",
-        "notes": "Log in, open the account administration tab, and press 'Delete Account'. Note that you might need to repeat going to the administration tab and pressing delete a couple times depending on the services you've got connected to LG Account. Once there's no more to delete, you should be logged out automatically (for good measure, verify you cannot login again).",
+        "notes": "Log in, open the account administration tab, and press 'Delete Account'. Note that you might need to repeat this process a couple times depending on the services you've got connected to LG Account. Once there's no more to delete, you should be logged out automatically (for good measure, verify you cannot login again). If you live in a country other than the US, you may also need to change the link URL to that of your country (e.g. Canadians should use ca.lgaccount.com instead).",
         "domains": [
             "lgaccount.com",
             "ca.lgaccount.com",
@@ -23207,7 +23207,7 @@
         "name": "Voicemod",
         "url": "https://www.voicemod.net/support/?letstalk=Account%20and%20Login&issue",
         "difficulty": "hard",
-        "notes": "Fill out the form, in the 'lets talk' field select 'Account & Login', in the second field select 'Delete account'.",
+        "notes": "Fill out the form, in the 'lets talk' field select 'Account & Login', in the second field select 'Delete account'. If you have active licenses, you may have to confirm in a later reply.",
         "domains": [
             "voicemod.net"
         ]
