@@ -1930,6 +1930,17 @@
     },
 
     {
+        "name": "Augment",
+        "url": "https://help.augment.com/en/articles/4103227-account-deletion",
+        "difficulty": "hard",
+        "notes": "On the Augment website, log in, then click on the 'chat box' at the bottom right of the page, then request for your account to be deleted. Alternatively, send a GDPR request at the email address.",
+        "email": "gdpr@augment.com",
+        "domains": [
+            "augment.com"
+        ]
+    },
+
+    {
         "name": "Auth0",
         "url": "https://community.auth0.com/t/how-can-i-delete-my-auth0-auth0-community-forum-account/34689",
         "difficulty": "hard",
@@ -8390,6 +8401,16 @@
     },
 
     {
+        "name": "GamersGate",
+        "url": "https://www.gamersgate.com/account/delete/",
+        "difficulty": "medium",
+        "notes": "The account deletion form asks for a lot of information, some of which is already available in the account dashboard.",
+        "domains": [
+            "gamersgate.com"
+        ]
+    },
+
+    {
         "name": "Gamespot",
         "url": "https://gamespot.com",
         "difficulty": "hard",
@@ -8404,6 +8425,17 @@
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "gamespot.com"
+        ]
+    },
+
+    {
+        "name": "Gamesplanet",
+        "url": "https://us.gamesplanet.com/support/17-account/141-delete-account",
+        "difficulty": "hard",
+        "notes": "It is recommended to redeem/download any remaining purchases.",
+        "email": "help@gamesplanet.com",
+        "domains": [
+            "gamesplanet.com"
         ]
     },
 
@@ -23705,6 +23737,17 @@
         "difficulty": "easy",
         "domains": [
             "weibo.com"
+        ]
+    },
+
+    {
+        "name": "WeMod",
+        "url": "https://support.wemod.com/docs/how-do-i-delete-my-account",
+        "difficulty": "hard",
+        "notes": "If you have currently active licenses, you may need to confirm account deletion in a later email.",
+        "email": "support@wemod.com",
+        "domains": [
+            "wemod.com"
         ]
     },
 
