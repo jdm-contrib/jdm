@@ -1930,6 +1930,17 @@
     },
 
     {
+        "name": "Augment",
+        "url": "https://help.augment.com/en/articles/4103227-account-deletion",
+        "difficulty": "hard",
+        "notes": "On the Augment website, log in, then click on the 'chat box' at the bottom right of the page, then request for your account to be deleted. Alternatively, send a GDPR request at the email address.",
+        "email": "gdpr@augment.com",
+        "domains": [
+            "augment.com"
+        ]
+    },
+
+    {
         "name": "Auth0",
         "url": "https://community.auth0.com/t/how-can-i-delete-my-auth0-auth0-community-forum-account/34689",
         "difficulty": "hard",
@@ -8390,6 +8401,27 @@
     },
 
     {
+        "name": "GamersGate",
+        "url": "https://www.gamersgate.com/account/delete/",
+        "difficulty": "medium",
+        "notes": "The account deletion form asks for a lot of information, some of which is already available in the account dashboard.",
+        "domains": [
+            "gamersgate.com"
+        ]
+    },
+
+    {
+        "name": "Gamesplanet",
+        "url": "https://us.gamesplanet.com/support/17-account/141-delete-account",
+        "difficulty": "hard",
+        "notes": "It is recommended to redeem/download any remaining purchases.",
+        "email": "help@gamesplanet.com",
+        "domains": [
+            "gamesplanet.com"
+        ]
+    },
+
+    {
         "name": "Gamespot",
         "url": "https://gamespot.com",
         "difficulty": "hard",
@@ -12277,9 +12309,9 @@
 
     {
         "name": "LG Account",
-        "url": "https://www.lgaccount.com",
+        "url": "https://us.lgaccount.com",
         "difficulty": "easy",
-        "notes": "Log in, open the account administration tab, and press 'Delete Account'. Note that you might need to repeat going to the administration tab and pressing delete a couple times depending on the services you've got connected to LG Account. Once there's no more to delete, you should be logged out automatically (for good measure, verify you cannot login again).",
+        "notes": "Log in, open the account administration tab, and press 'Delete Account'. Note that you might need to repeat this process a couple times depending on the services you've got connected to LG Account. Once there's no more to delete, you should be logged out automatically (for good measure, verify you cannot login again). If you live in a country other than the US, you may also need to change the link URL to that of your country (e.g. Canadians should use ca.lgaccount.com instead).",
         "domains": [
             "lgaccount.com",
             "ca.lgaccount.com",
@@ -23207,7 +23239,7 @@
         "name": "Voicemod",
         "url": "https://www.voicemod.net/support/?letstalk=Account%20and%20Login&issue",
         "difficulty": "hard",
-        "notes": "Fill out the form, in the 'lets talk' field select 'Account & Login', in the second field select 'Delete account'.",
+        "notes": "Fill out the form, in the 'lets talk' field select 'Account & Login', in the second field select 'Delete account'. If you have active licenses, you may have to confirm in a later reply.",
         "domains": [
             "voicemod.net"
         ]
@@ -23705,6 +23737,17 @@
         "difficulty": "easy",
         "domains": [
             "weibo.com"
+        ]
+    },
+
+    {
+        "name": "WeMod",
+        "url": "https://support.wemod.com/docs/how-do-i-delete-my-account",
+        "difficulty": "hard",
+        "notes": "If you have currently active licenses, you may need to confirm account deletion in a later email.",
+        "email": "support@wemod.com",
+        "domains": [
+            "wemod.com"
         ]
     },
 
