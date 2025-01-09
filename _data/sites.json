@@ -8411,6 +8411,17 @@
     },
 
     {
+        "name": "Gamesplanet",
+        "url": "https://us.gamesplanet.com/support/17-account/141-delete-account",
+        "difficulty": "hard",
+        "notes": "It is recommended to redeem/download any remaining purchases.",
+        "email": "help@gamesplanet.com",
+        "domains": [
+            "gamesplanet.com"
+        ]
+    },
+
+    {
         "name": "Gamespot",
         "url": "https://gamespot.com",
         "difficulty": "hard",
@@ -8425,17 +8436,6 @@
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "gamespot.com"
-        ]
-    },
-
-    {
-        "name": "Gamesplanet",
-        "url": "https://us.gamesplanet.com/support/17-account/141-delete-account",
-        "difficulty": "hard",
-        "notes": "It is recommended to redeem/download any remaining purchases.",
-        "email": "help@gamesplanet.com",
-        "domains": [
-            "gamesplanet.com"
         ]
     },
 
