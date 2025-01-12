@@ -11119,6 +11119,16 @@
     },
 
     {
+        "name": "Into Real Pages",
+        "url": "https://intorealpages.com/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button nor do they ever reply by e-mail.",
+        "domains": [
+            "intorealpages.com"
+        ]
+    },  
+
+    {
         "name": "Invajo",
         "url": "https://home.invajo.com/contact",
         "difficulty": "hard",
