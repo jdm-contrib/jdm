@@ -8006,6 +8006,16 @@
     },
 
     {
+        "name": "Free AI Diagram Generator",
+        "url": "https://diagram-generator.com/",
+        "difficulty": "impossible",
+        "notes": "This website does not need to create an account.",
+        "domains": [
+            "diagram-generator.com"
+        ]
+    },
+
+    {
         "name": "FreeBitco.In",
         "url": "https://freebitco.in",
         "difficulty": "impossible",
