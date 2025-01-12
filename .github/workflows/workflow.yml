@@ -9,35 +9,35 @@ jobs:
     name: Run Jekyll Tests
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.1.2
+        ruby-version: 3.4.1
         bundler-cache: true
     - run: script/run_jekyll.sh
   validate-json:
     name: Validate JSON
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.1.2
+        ruby-version: 3.4.1
         bundler-cache: true
     - run: script/validate_json.rb
   ping-websites:
     name: Ping Websites
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.1.2
+        ruby-version: 3.4.1
         bundler-cache: true
     - run: script/ping_websites.rb
   check-files-formatting:
     name: Check Files Formatting
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - run: script/check_files_formatting.sh
