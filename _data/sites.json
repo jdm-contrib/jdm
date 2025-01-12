@@ -11256,6 +11256,18 @@
     },
 
     {
+        "name": "IranTalent",
+        "url": "https://www.irantalent.com/en/privacy-and-policy",
+        "difficulty": "hard",
+        "notes": "Send an email to their support address to request account deletion. it might take a few days.",
+        "email": "info@irantalent.com",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "irantalent.com"
+        ]
+    },
+
+    {
         "name": "IRCCloud",
         "url": "https://www.irccloud.com/?/settings=account",
         "difficulty": "easy",
