@@ -20345,9 +20345,9 @@
 
     {
         "name": "Stan",
-        "url": "https://www.stan.com.au/privacy-policy",
-        "difficulty": "impossible",
-        "notes": "Stan provides no option to delete or deactivate your account, and will simply refuse if you send a request.",
+        "url": "https://help.stan.com.au/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Use the Stan Help Centre to submit a request, choose 'Account and Billing' then 'Cancelling my Stan account' and fill out the remaining fields.",
         "domains": [
             "stan.com.au"
         ]
