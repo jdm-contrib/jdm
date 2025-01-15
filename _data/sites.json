@@ -24485,6 +24485,16 @@
     },
 
     {
+        "name": "Woolworths",
+        "url": "https://www.woolworths.com.au/shop/discover/about-us/contact-us",
+        "difficulty": "hard",
+        "notes": "Select the 'Chat with us' option and inform the chat bot you wish to delete your account until it gives you to option to talk to a human. Select that, tell them you want your account deleted, and they will action it for you.",
+        "domains": [
+            "woolworths.com.au"
+        ]
+    },
+
+    {
         "name": "Woot",
         "url": "https://account.woot.com/support/",
         "difficulty": "hard",
