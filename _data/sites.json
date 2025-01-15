@@ -672,6 +672,16 @@
     },
 
     {
+        "name": "Afterpay",
+        "url": "https://portal.afterpay.com/en-AU/account",
+        "difficulty": "easy",
+        "notes": "Login, go to your account settings, select 'Close my account.'",
+        "domains": [
+            "afterpay.com"
+        ]
+    },
+
+    {
         "name": "Agence nationale des titres sécurisés",
         "url": "https://moncompte.ants.gouv.fr/mes_donn%C3%A9es#delete",
         "difficulty": "easy",
