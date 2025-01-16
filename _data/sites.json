@@ -11999,6 +11999,16 @@
     },
 
     {
+        "name": "Kogan",
+        "url": "https://www.kogan.com/au/contact-us/",
+        "difficulty": "hard",
+        "notes": "Contact Kogan directly via their 'Contact Us' page and request account deletion.",
+        "domains": [
+            "kogan.com"
+        ]
+    },
+
+    {
         "name": "Koingo Software",
         "url": "https://www.koingosw.com/account/delete.php",
         "difficulty": "medium",
