@@ -25280,5 +25280,14 @@
         "domains": [
             "sdamgia.ru"
         ]
-    }
+    },
+    {
+        "name": "Today's Wordle",
+        "url": "https://todayswordle.net/account/settings/deletion",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and click delete button",
+        "domains": [
+            "todayswordle.net"
+        ]
+    }    
 ]
