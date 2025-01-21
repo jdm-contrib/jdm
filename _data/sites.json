@@ -13373,6 +13373,16 @@
     },
 
     {
+        "name": "Markdown Converter",
+        "url": "https://mdconverter.com/account/settings/deletion",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and click close button",
+        "domains": [
+            "mdconverter.com"
+        ]
+    },
+
+    {
         "name": "Marktplaats",
         "url": "https://www.marktplaats.nl/my-account/profile/edit.html",
         "difficulty": "easy",
@@ -21844,6 +21854,16 @@
         "notes_ru": "Они говорят, что они работают над функцией и планируют поддержку в марте 2023 года. Отправка по электронной почте ничего не дает. Возможно обращение к администрации TLauncher по поводу удаления аккаунта и возможного нарушения законов о конфиденциальности вашей страны через сервер Discord.",
         "domains": [
             "tlauncher.org"
+        ]
+    },
+
+    {
+        "name": "Today's Wordle",
+        "url": "https://todayswordle.net/account/settings/deletion",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and click the delete button",
+        "domains": [
+            "todayswordle.net"
         ]
     },
 
