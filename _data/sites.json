@@ -25289,5 +25289,14 @@
         "domains": [
             "todayswordle.net"
         ]
+    },
+    {
+        "name": "Markdown Converter",
+        "url": "https://mdconverter.com/account/settings/deletion",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and click close button",
+        "domains": [
+            "mdconverter.com"
+        ]
     }    
 ]
