@@ -13373,6 +13373,16 @@
     },
 
     {
+        "name": "Markdown Converter",
+        "url": "https://mdconverter.com/account/settings/deletion",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and click close button",
+        "domains": [
+            "mdconverter.com"
+        ]
+    },
+
+    {
         "name": "Marktplaats",
         "url": "https://www.marktplaats.nl/my-account/profile/edit.html",
         "difficulty": "easy",
@@ -21848,6 +21858,16 @@
     },
 
     {
+        "name": "Today's Wordle",
+        "url": "https://todayswordle.net/account/settings/deletion",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and click the delete button",
+        "domains": [
+            "todayswordle.net"
+        ]
+    },
+
+    {
         "name": "Todo Cloud",
         "url": "https://support.appigo.com/support/solutions/articles/4000180942-how-to-delete-my-todo-cloud-account",
         "difficulty": "hard",
@@ -25280,23 +25300,5 @@
         "domains": [
             "sdamgia.ru"
         ]
-    },
-    {
-        "name": "Today's Wordle",
-        "url": "https://todayswordle.net/account/settings/deletion",
-        "difficulty": "easy",
-        "notes": "Go to the linked page and click delete button",
-        "domains": [
-            "todayswordle.net"
-        ]
-    },
-    {
-        "name": "Markdown Converter",
-        "url": "https://mdconverter.com/account/settings/deletion",
-        "difficulty": "easy",
-        "notes": "Go to the linked page and click close button",
-        "domains": [
-            "mdconverter.com"
-        ]
-    }    
+    }   
 ]
