@@ -17288,6 +17288,18 @@
     },
 
     {
+        {
+            "name": "PrestaShop",
+            "url": "https://accounts.distribution.prestashop.net/settings/delete-account",
+            "difficulty": "easy",
+            "notes": "Fill out the form.",
+            "domains": [
+                "prestashop.com"
+            ]
+        }
+    },
+
+    {
         "name": "Previewed",
         "url": "https://previewed.app/account",
         "difficulty": "easy",
