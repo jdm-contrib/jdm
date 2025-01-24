@@ -8468,6 +8468,16 @@
     },
 
     {
+        "name": "Gamma",
+        "url": "https://gamma.app/",
+        "difficulty": "easy",
+        "notes": "Click the profile icon in the top-right corner, go to Account Settings, select \"Delete my account\", check the confirmation box, and click \"Yes, delete my account\".",
+        "domains": [
+            "gamma.app"
+        ]
+    },
+
+    {
         "name": "Garena",
         "url": "https://www.garena.sg/support/",
         "difficulty": "hard",
