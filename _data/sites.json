@@ -22915,10 +22915,9 @@
 
     {
         "name": "Uxcel",
-        "url": "https://help.uxcel.com/en/articles/4634446-can-i-delete-my-uxcel-account",
-        "difficulty": "hard",
-        "notes": "Contact the customer support via email and request the deletion of your account.",
-        "email": "learn@uxcel.com",
+        "url": "https://app.uxcel.com/settings/account-settings",
+        "difficulty": "easy",
+        "notes": "In the account settings menu find and select the Account section. Then look for the option to Delete Account and click on it. Finally, confirm your decision in a popup.",
         "domains": [
             "uxcel.com",
             "help.uxcel.com"
