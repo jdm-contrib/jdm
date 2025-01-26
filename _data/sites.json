@@ -8411,6 +8411,17 @@
     },
 
     {
+        "name": "Gamemaker",
+        "url": "https://auth.opera.com/account/delete-profile",
+        "difficulty": "impossible",
+        "notes": "There is no option to delete your gamemaker account without deleting your Opera account.",
+        "domains": [
+            "gamemaker.io"
+        ]
+
+    },
+
+    {
         "name": "GamersGate",
         "url": "https://www.gamersgate.com/account/delete/",
         "difficulty": "medium",
