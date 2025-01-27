@@ -13313,6 +13313,16 @@
     },
 
     {
+        "name": "MakerBot",
+        "url": "https://cloudprint.makerbot.com/settings/account/info",
+        "difficulty": "easy",
+        "notes": "Click 'DELETE ACCOUNT' at the bottom of the 'Account Settings' page, then click 'DELETE'. This will also delete your Thingiverse account.",
+        "domains": [
+            "makerbot.com"
+        ]
+    },
+    
+    {
         "name": "Mangadex",
         "url": "https://mangadex.org/settings#del",
         "difficulty": "easy",
@@ -21691,11 +21701,11 @@
 
     {
         "name": "Thingiverse",
-        "url": "https://www.thingiverse.com/",
+        "url": "https://support.makerbot.com/s/article/MakerBot-Account-Information",
         "difficulty": "easy",
-        "notes": "Click your profile icon in the top right corner and select 'Account Settings', then scroll to the bottom of the page and click the red 'DELETE USER' button.",
+        "notes": "Click the profile dropdown in the top right corner, click 'See Profile', click 'Edit profile', then scroll to the bottom of the page and click the red 'DELETE USER' button. This will also delete your MakerBot account.",
         "domains": [
-            "thingiverse"
+            "thingiverse.com"
         ]
     },
 
