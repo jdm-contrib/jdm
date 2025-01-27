@@ -14366,6 +14366,16 @@
     },
 
     {
+        "name": "Monarch Money",
+        "url": "https://help.monarchmoney.com/hc/en-us/articles/4412388754708-Delete-a-Monarch-Account",
+        "difficulty": "easy",
+        "notes": "Click Delete Household in the Billing section of the Settings page.",
+        "domains": [
+            "monarchmoney.com"
+        ]
+    },
+
+    {
         "name": "Money Dashboard",
         "url": "https://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
