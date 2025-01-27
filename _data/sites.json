@@ -4798,9 +4798,8 @@
     {
         "name": "Couchsurfing",
         "url": "https://support.couchsurfing.org/hc/en-us/articles/200640880-How-can-I-Hide-or-Delete-my-profile",
-        "difficulty": "impossible",
-        "notes": "Cannot be deleted fully, reactivation is always available. Fill out the request form.",
-        "notes_tr": "Tamamen silme yöntemi yoktur, çünkü hesabı yeniden aktif etmek her zaman mümkün. İstek formunu doldurun.",
+        "difficulty": "medium",
+        "notes": "Go the [Account & Settings](https://www.couchsurfing.com/preferences/account) page. Click Deactivate My Account in the bottom right corner. Enter your email and click Delete. Check your email and click the button to complete deletion.",
         "domains": [
             "couchsurfing.org",
             "support.couchsurfing.org",
