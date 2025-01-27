@@ -24591,7 +24591,7 @@
         "meta": "popular",
         "url": "https://wordpress.com/me/account",
         "difficulty": "medium",
-        "notes": "First cancel any active subscriptions in your account. Then go to Account Settings and click on \"Close your account permanently\".",
+        "notes": "First cancel any active subscriptions in your account. Then go to Account Settings, click 'Delete your account permanently', click 'Delete account', click 'Continue', enter your username and click 'Delete Account'. You will not be able to open a new account using this email for 30 days and your WooCommerce, Crowdsignal, IntenseDebate, and Gravatar accounts will also be deleted.",
         "domains": [
             "wordpress.com"
         ]
