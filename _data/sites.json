@@ -23698,7 +23698,7 @@
     {
         "name": "WayFi Wireless",
         "url": "https://wayfiwireless.com/contact",
-        "difficulty": "easy",
+        "difficulty": "hard",
         "notes": "To opt out, send an email to privacy@wayfiwireless.com or fill out the contact form.",
         "notes_ca": "Per optar per la baixa, envieu un correu electrònic a privacy@wayfiwireless.com o empleneu el formulari de contacte.",
         "notes_de": "Um sich abzumelden, senden Sie eine E-Mail an privacy@wayfiwireless.com oder füllen Sie das Kontaktformular aus.",
@@ -23711,7 +23711,10 @@
         "email": "privacy@wayfiwireless.com",
         "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX. Please remove my profile from WayFi Wireless and delete all associated data.",
         "domains": [
-            "wayfiwireless.com"
+            "wayfiwireless.com",
+            "portal.wayfiwireless.com",
+            "dashboard.wayfiwireless.com",
+            "lookup.wayfiwireless.com"
         ]
     },
 
