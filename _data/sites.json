@@ -23694,6 +23694,26 @@
             "wattpad.com"
         ]
     },
+    
+    {
+        "name": "WayFi Wireless",
+        "url": "https://wayfiwireless.com/contact",
+        "difficulty": "easy",
+        "notes": "To opt out, send an email to privacy@wayfiwireless.com or fill out the contact form.",
+        "notes_ca": "Per optar per la baixa, envieu un correu electrònic a privacy@wayfiwireless.com o empleneu el formulari de contacte.",
+        "notes_de": "Um sich abzumelden, senden Sie eine E-Mail an privacy@wayfiwireless.com oder füllen Sie das Kontaktformular aus.",
+        "notes_es": "Para optar por la exclusión, envíe un correo electrónico a privacy@wayfiwireless.com o complete el formulario de contacto.",
+        "notes_fr": "Pour vous désinscrire, envoyez un e-mail à privacy@wayfiwireless.com ou remplissez le formulaire de contact.",
+        "notes_it": "Per annullare l'iscrizione, invia un'e-mail a privacy@wayfiwireless.com o compila il modulo di contatto.",
+        "notes_pt-BR": "Para optar pela exclusão, envie um e-mail para privacy@wayfiwireless.com ou preencha o formulário de contato.",
+        "notes_ru": "Чтобы отказаться, отправьте электронное письмо на privacy@wayfiwireless.com или заполните контактную форму.",
+        "notes_tr": "Vazgeçmek için privacy@wayfiwireless.com adresine e-posta gönderin veya iletişim formunu doldurun.",
+        "email": "privacy@wayfiwireless.com",
+        "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX. Please remove my profile from WayFi Wireless and delete all associated data.",
+        "domains": [
+            "wayfiwireless.com"
+        ]
+    },
 
     {
         "name": "WAYN",
