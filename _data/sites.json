@@ -5257,6 +5257,16 @@
     },
 
     {
+        "name": "Dan Murphy's",
+        "url": "https://www.danmurphys.com.au/dm/home",
+        "difficulty": "hard",
+        "notes": "You cancel your account you either using or the mobile app or by using the live chat in a website browser.",
+        "domains": [
+            "danmurphys.com.au"
+        ]
+    },
+
+    {
         "name": "DansTonChat",
         "url": "https://danstonchat.com/user/delete.html",
         "difficulty": "easy",
