@@ -51,7 +51,7 @@ GEM
     i18n (1.14.6)
       concurrent-ruby (~> 1.0)
     io-event (1.7.5)
-    jekyll (4.4.0)
+    jekyll (4.4.1)
       addressable (~> 2.4)
       base64 (~> 0.2)
       colorator (~> 1.0)
@@ -128,7 +128,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (>= 5.0.9)
-  jekyll (>= 4.4.0)
+  jekyll (>= 4.4.1)
 
 BUNDLED WITH
    2.6.2
