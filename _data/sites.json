@@ -23696,6 +23696,30 @@
     },
 
     {
+        "name": "WayFi Wireless",
+        "url": "https://wayfiwireless.com/contact",
+        "difficulty": "hard",
+        "notes": "To opt out, send an email or fill out the contact form.",
+        "notes_ca": "Per optar per la baixa, envieu un correu electrònic o empleneu el formulari de contacte.",
+        "notes_de": "Um sich abzumelden, senden Sie eine E-Mail oder füllen Sie das Kontaktformular aus.",
+        "notes_es": "Para optar por la exclusión, envíe un correo electrónico o complete el formulario de contacto.",
+        "notes_fr": "Pour vous désinscrire, envoyez un e-mail ou remplissez le formulaire de contact.",
+        "notes_it": "Per annullare l'iscrizione, invia un'e-mail o compila il modulo di contatto.",
+        "notes_pt-BR": "Para optar pela exclusão, envie um e-mail ou preencha o formulário de contato.",
+        "notes_ru": "Чтобы отказаться, отправьте письмо или заполните контактную форму.",
+        "notes_tr": "Vazgeçmek için e-posta gönderin veya iletişim formunu doldurun.",
+        "email": "privacy@wayfiwireless.com",
+        "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX. Please remove my profile from WayFi Wireless and delete all associated data.",
+        "domains": [
+            "wayfiwireless.com",
+            "portal.wayfiwireless.com",
+            "dashboard.wayfiwireless.com",
+            "lookup.wayfiwireless.com",
+            "metabase.wayfiwireless.com"
+        ]
+    },
+
+    {
         "name": "WAYN",
         "url": "https://www.wayn.com/wayn.html?wci=unregister",
         "difficulty": "easy",
