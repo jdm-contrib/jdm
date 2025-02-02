@@ -7952,6 +7952,17 @@
     },
 
     {
+        "name": "Formula 1",
+        "url": "https://account.formula1.com/#/en/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Request deletion using the e-mail. There will be some back and forth on whether you want just the deletion or right to be forgotten, but it is all completed very quickly",
+        "email": "general@en.formula1.com",
+        "domains": [
+            "formula1.com"
+        ]
+    },
+
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
