@@ -15981,6 +15981,16 @@
     },
 
     {
+        "name": "Olympics",
+        "url": "https://privacyportal-eu.onetrust.com/webform/22395098-025a-4a86-b716-763ae9c9a4cf/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d",
+        "difficulty": "hard",
+        "notes": "In the bottom of the page, click 'Stop using Posti’s electronic services'.",
+        "domains": [
+            "olympics.com"
+        ]
+    },
+
+    {
         "name": "OmaPosti",
         "url": "https://asiakastiedot.posti.fi/myaccount/details",
         "difficulty": "easy",
