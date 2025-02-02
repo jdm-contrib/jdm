@@ -7930,6 +7930,17 @@
     },
 
     {
+        "name": "Form.taxi",
+        "url": "https://form.taxi/panel/profile",
+        "difficulty": "easy",
+        "notes": "If you are logged in, scroll down to the bottom of the page and click the 'Delete account' button.",
+        "notes_de": "Wenn Sie eingeloggt sind, scrollen Sie zum Ende der Seite und klicken Sie auf die Schaltfläche 'Konto löschen'.",
+        "domains": [
+            "form.taxi"
+        ]
+    },
+
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
