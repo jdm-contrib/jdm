@@ -12331,6 +12331,17 @@
     },
 
     {
+        "name": "Lego",
+        "url": "https://identity.lego.com/profile/security/delete-account",
+        "difficulty": "easy",
+        "notes": "Login, go to the linked page and confirm deletion of the account.",
+        "domains": [
+            "lego.com",
+            "identity.lego.com"
+        ]
+    },
+
+    {
         "name": "Lemehost",
         "url": "https://lemehost.com/user/settings/delete",
         "difficulty": "easy",
