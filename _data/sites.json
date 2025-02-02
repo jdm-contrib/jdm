@@ -2444,6 +2444,17 @@
     },
 
     {
+        "name": "Benfeitoria",
+        "url": "https://benfeitoria.com/restrito/conta/deletar-conta",
+        "difficulty": "easy",
+        "notes": "Log-in, then go to the page linked above, type \"EXCLUIR\" then click the button to permanently delete the account.",
+        "notes_pt-BR": "Faça o login, vá até a página do link acima, digite \"EXCLUIR\" e então clique no botão de deletar a conta permanentemente.",
+        "domains": [
+            "benfeitoria.com"
+        ]
+    },
+
+    {
         "name": "BeReal",
         "url": "https://help.bereal.com/hc/articles/7531255012381",
         "difficulty": "easy",
@@ -7941,6 +7952,17 @@
     },
 
     {
+        "name": "Formula 1",
+        "url": "https://account.formula1.com/#/en/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Request deletion using the e-mail. There will be some back and forth on whether you want just the deletion or right to be forgotten, but it is all completed very quickly",
+        "email": "general@en.formula1.com",
+        "domains": [
+            "formula1.com"
+        ]
+    },
+
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
@@ -12320,6 +12342,17 @@
     },
 
     {
+        "name": "Lego",
+        "url": "https://identity.lego.com/profile/security/delete-account",
+        "difficulty": "easy",
+        "notes": "Login, go to the linked page and confirm deletion of the account.",
+        "domains": [
+            "lego.com",
+            "identity.lego.com"
+        ]
+    },
+
+    {
         "name": "Lemehost",
         "url": "https://lemehost.com/user/settings/delete",
         "difficulty": "easy",
@@ -15959,6 +15992,16 @@
     },
 
     {
+        "name": "Olympics",
+        "url": "https://privacyportal-eu.onetrust.com/webform/22395098-025a-4a86-b716-763ae9c9a4cf/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d",
+        "difficulty": "hard",
+        "notes": "In the bottom of the page, click 'Stop using Posti’s electronic services'.",
+        "domains": [
+            "olympics.com"
+        ]
+    },
+
+    {
         "name": "OmaPosti",
         "url": "https://asiakastiedot.posti.fi/myaccount/details",
         "difficulty": "easy",
@@ -18286,6 +18329,16 @@
             "recargapay.prezly.com",
             "recargapay.us",
             "recargapay.workable.com"
+        ]
+    },
+
+    {
+        "name": "Recreation.gov",
+        "url": "https://www.recreation.gov/account/delete-account",
+        "difficulty": "easy",
+        "notes": "Login and go to the link to click the button to delete account. Confirm your password and you'll receive an e-mail with the deletion completion.",
+        "domains": [
+            "recreation.gov"
         ]
     },
 
