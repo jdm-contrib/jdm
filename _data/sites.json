@@ -18322,6 +18322,16 @@
     },
 
     {
+        "name": "Recreation.gov",
+        "url": "https://www.recreation.gov/account/delete-account",
+        "difficulty": "easy",
+        "notes": "Login and go to the link to click the button to delete account. Confirm your password and you'll receive an e-mail with the deletion completion.",
+        "domains": [
+            "recreation.gov"
+        ]
+    },
+
+    {
         "name": "Red Hat",
         "url": "https://www.redhat.com/en/about/personal-data-request",
         "difficulty": "hard",
