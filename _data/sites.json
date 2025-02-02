@@ -2444,6 +2444,17 @@
     },
 
     {
+        "name": "Benfeitoria",
+        "url": "https://benfeitoria.com/restrito/conta/deletar-conta",
+        "difficulty": "easy",
+        "notes": "Log-in, then go to the page linked above, type \"EXCLUIR\" then click the button to permanently delete the account.",
+        "notes_pt-BR": "Faça o login, vá até a página do link acima, digite \"EXCLUIR\" e então clique no botão de deletar a conta permanentemente.",
+        "domains": [
+            "benfeitoria.com"
+        ]
+    },
+
+    {
         "name": "BeReal",
         "url": "https://help.bereal.com/hc/articles/7531255012381",
         "difficulty": "easy",
