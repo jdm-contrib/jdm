@@ -10593,6 +10593,15 @@
     },
 
     {
+        "name": "Hunter",
+        "url": "https://hunter.io/users/edit?tab=delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "hunter.io"
+        ]
+    },
+
+    {
         "name": "Hype",
         "url": "https://support.hype.it/hc/it/articles/360003556214-Come-chiudere-il-conto",
         "difficulty": "medium",
