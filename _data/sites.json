@@ -9643,6 +9643,20 @@
     },
 
     {
+        "name": "Greip",
+        "url": "https://docs.greip.io/knowledge-base/account-management/account-deletion",
+        "difficulty": "hard",
+        "email": "info@greip.io",
+        "email_subject": "Greip Account Deletion Request",
+        "email_body": "Hi, Please delete my Greip account which is registered under this email address.",
+        "domains": [
+            "greip.io",
+            "dashboard.greip.io",
+            "status.greip.io"
+        ]
+    },
+
+    {
         "name": "Grindr",
         "url": "https://help.grindr.com/hc/en-us/requests/new?ticket_form_id=24054",
         "difficulty": "hard",
