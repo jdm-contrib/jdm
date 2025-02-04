@@ -16385,6 +16385,17 @@
     },
 
     {
+        "name": "Otto.de",
+        "url": "https://www.otto.de/myaccount/mydata",
+        "difficulty": "hard",
+        "notes": "On your profile page, scroll down to 'Konto verwalten' and select 'Meine persönlichen Daten und Kundenkonto löschen.' Once you confirm the deletion in the dialog box, your request will undergo a manual review, which may take several days. After the review process is complete, your account will be successfully deleted.",
+        "notes_de": "Auf Ihrer Profilseite scrollen Sie nach unten zu dem Punkt 'Konto verwalten' und klicken Sie auf 'Meine persönlichen Daten und Kundenkonto löschen.' Nachdem Sie die Löschung im Dialogfeld bestätigt haben, wird Ihre Anfrage einer manuellen Überprüfung unterzogen, die mehrere Tage in Anspruch nehmen kann. Nach Abschluss der Überprüfung wird Ihr Konto erfolgreich gelöscht.",
+        "domains": [
+            "otto.de"
+        ]
+    },
+
+    {
         "name": "Out of Milk",
         "url": "https://outofmilk.com/RemoveAccount.aspx",
         "difficulty": "easy",
