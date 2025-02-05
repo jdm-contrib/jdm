@@ -9726,6 +9726,16 @@
     },
 
     {
+        "name": "Gryphline",
+        "url": "https://user.gryphline.com/cancellation",
+        "difficulty": "medium",
+        "notes": "Verify email and then wait for 14 days.",
+        "domains": [
+            "gryphline.com"
+        ]
+    },
+
+    {
         "name": "GTmetrix",
         "url": "https://gtmetrix.com/dashboard/delete_account",
         "difficulty": "easy",
