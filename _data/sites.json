@@ -21080,6 +21080,18 @@
     },
 
     {
+        "name": "SulAmérica",
+        "url": "https://saude.sulamericaseguros.com.br/",
+        "difficulty": "impossible",
+        "notes" : "They claim nothing can be deleted.",
+        "notes_pt-br" : "Eles alegam que nada pode ser deletado.",
+        "domains": [
+            "saude.sulamericaseguros.com.br",
+            "sulamericaseguros.com.br"
+        ]
+    },
+
+    {
         "name": "Super Domínios",
         "url": "https://superdominios.org/contato/",
         "difficulty": "hard",
