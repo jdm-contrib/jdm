@@ -14748,6 +14748,16 @@
     },
 
     {
+        "name": "Musicboard",
+        "url": "https://musicboard.app/settings/preferences",
+        "difficulty": "easy",
+        "notes": "Navigate to Settings ⮕ preferences ⮕ Delete account (at the bottom of the page).",
+        "domains": [
+            "musicboard.app"
+        ]
+    },
+
+    {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/account/edit",
         "difficulty": "easy",
@@ -21081,6 +21091,18 @@
     },
 
     {
+        "name": "SulAmérica",
+        "url": "https://saude.sulamericaseguros.com.br/",
+        "difficulty": "impossible",
+        "notes" : "They claim nothing can be deleted.",
+        "notes_pt-BR" : "Eles alegam que nada pode ser deletado.",
+        "domains": [
+            "saude.sulamericaseguros.com.br",
+            "sulamericaseguros.com.br"
+        ]
+    },
+
+    {
         "name": "Super Domínios",
         "url": "https://superdominios.org/contato/",
         "difficulty": "hard",
@@ -22570,6 +22592,19 @@
         "domains": [
             "turing.com",
             "developers.turing.com"
+        ]
+    },
+
+    {
+        "name": "Turismo Itaipu",
+        "url": "https://ingressos.turismoitaipu.com.br",
+        "difficulty": "hard",
+        "notes": "Send an e-mail to them requesting deletion. They will ask for the ticket code to be able to delete the account.",
+        "notes_pt-BR": "Envie um e-mail pedindo a exclusão. Eles irão pedir o localizador do ingresso do passeio para confirmar a deleção da conta.",
+        "email": "atendimento@turismoitaipu.com.br",
+        "domains": [
+            "ingressos.turismoitaipu.com.br",
+            "turismoitaipu.com.br"
         ]
     },
 
