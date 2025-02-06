@@ -22589,7 +22589,7 @@
         "url": "https://ingressos.turismoitaipu.com.br",
         "difficulty": "hard",
         "notes": "Send an e-mail to them requesting deletion. They will ask for the ticket code to be able to delete the account.",
-        "notes_pt-br": "Envie um e-mail pedindo a exclusão. Eles irão pedir o localizador do ingresso do passeio para confirmar a deleção da conta.",
+        "notes_pt-BR": "Envie um e-mail pedindo a exclusão. Eles irão pedir o localizador do ingresso do passeio para confirmar a deleção da conta.",
         "email": "atendimento@turismoitaipu.com.br",
         "domains": [
             "ingressos.turismoitaipu.com.br",
