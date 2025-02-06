@@ -23564,7 +23564,7 @@
         "name": "Vrbo",
         "url": "https://www.vrbo.com/user/delete",
         "difficulty": "easy",
-        "notes": "Click on the provied link, login to your account and delete your account as prompted. The account will be deleted immediately.",
+        "notes": "Click on the provided link, login to your account and delete your account as prompted. The account will be deleted immediately.",
         "domains": [
             "vrbo.com",
             "help.vrbo.com"
