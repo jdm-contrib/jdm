@@ -14748,6 +14748,16 @@
     },
 
     {
+        "name": "Musicboard",
+        "url": "https://musicboard.app/settings/preferences",
+        "difficulty": "easy",
+        "notes": "Navigate to Settings ⮕ preferences ⮕ Delete account (at the bottom of the page).",
+        "domains": [
+            "musicboard.app"
+        ]
+    },
+
+    {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/account/edit",
         "difficulty": "easy",
