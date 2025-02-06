@@ -12401,6 +12401,17 @@
     },
 
     {
+        "name": "Lensbest",
+        "url": "https://www.lensbest.de/INTERSHOP/web/WFS/Lensbest-LensbestShop-Site/de_DE/-/EUR/ViewProfileSettings-ViewRemoveAccount",
+        "difficulty": "easy",
+        "notes": "Click on the provided link, login to your account, retype your account password to confirm and your account will be deleted immediately.",
+        "notes_de": "Klicken Sie auf den oben angegebenen Link, loggen Sie sich bei ihrem Konto ein und bestätigen Sie die umgehende Löschung durch erneutes eingeben Ihres Passworts.",
+        "domains": [
+            "lensbest.de"
+        ]
+    },
+
+    {
         "name": "Lenstore",
         "url": "https://www.lenstore.co.uk/contact-us",
         "difficulty": "hard",
@@ -23538,9 +23549,9 @@
 
     {
         "name": "Vrbo",
-        "url": "https://help.vrbo.com/articles/How-do-I-delete-my-account",
-        "difficulty": "hard",
-        "notes": "To delete your account, select \"Contact Us\", select any of the listed categories, select \"Chat (new)\", ask the chatbot to speak to a real person, and ask the person to delete your account.  They will send you an email asking for you to confirm that you wish to have your account deleted.  Reply to the email confirming that you wish to delete your account.",
+        "url": "https://www.vrbo.com/user/delete",
+        "difficulty": "easy",
+        "notes": "Click on the provided link, login to your account and delete your account as prompted. The account will be deleted immediately.",
         "domains": [
             "vrbo.com",
             "help.vrbo.com"
