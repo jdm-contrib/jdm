@@ -252,19 +252,6 @@
     },
 
     {
-        "name": "9anime",
-        "url": "https://9anime.to/user/delete",
-        "difficulty": "easy",
-        "domains": [
-            "9anime.to",
-            "9anime.id",
-            "9anime.cz",
-            "9anime.ws",
-            "9anime.me"
-        ]
-    },
-
-    {
         "name": "9GAG",
         "url": "https://9gag.com/member/delete",
         "difficulty": "easy",
