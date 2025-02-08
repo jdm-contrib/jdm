@@ -10690,6 +10690,18 @@
     },
 
     {
+        "name": "iCasei",
+        "url": "https://suporte.icasei.com.br/hc/pt-br/requests/new",
+        "difficulty": "hard",
+        "notes": "Open a support ticket requesting deletion. It will take a few days and they might only disable your account, try logging in and if it recognizes your mail, reply asking for full deletion.",
+        "notes_pt-BR": "Abra um chamado pedindo a exclusão. Levará alguns dias e eles podem apenas desabilitar a conta, tente entrar no site e se ele reconhecer seu e-mail, responda o chamado pedindo exclusão completa.",
+        "domains": [
+            "icasei.com.br",
+            "painel.icasei.com.br"
+        ]
+    },
+
+    {
         "name": "Icedrive",
         "url": "https://icedrive.net/dashboard/#/page/settings",
         "difficulty": "easy",
