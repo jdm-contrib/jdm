@@ -15864,6 +15864,18 @@
     },
 
     {
+        "name": "Obi",
+        "url": "https://www.obi.de/customer-account/delete/",
+        "difficulty": "easy",
+        "notes": "To delete your account, simply log in to your Obi.de account, click on the provided link, and delete your account with the button on the bottom of the page.",
+        "notes_de": "Um Ihren Account zu löschen, loggen Sie sich mit Ihren Accountdaten ein, klicken Sie auf den bereitgestellten Link und löschen Sie Ihren Account mit dem Knopf unten auf der Seite",
+        "domains": [
+            "obi.de",
+            "help.obi.com"
+        ]
+    },
+
+    {
         "name": "OceanHero",
         "url": "https://oceanhero.zendesk.com/hc/en-us/requests/new",
         "difficulty": "hard",
