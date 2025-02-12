@@ -16800,6 +16800,19 @@
     },
 
     {
+        "name": "PayByPhone",
+        "url": "https://support.paybyphone.com/hc/en-001/articles/13258687569553-How-do-I-delete-my-Account",
+        "difficulty": "medium",
+        "notes": "You can only delete your PayByPhone account from the mobile app. To delete your account open the app and go to \"Options\" > \"Account Settings\" > \"Delete Account\".",
+        "domains": [
+            "paybyphone.com",
+            "support.paybyphone.com",
+            "paybyphone.zendesk.com"
+
+        ]
+    },
+
+    {
         "name": "Payoneer",
         "url": "https://payoneer.custhelp.com/app/ask/l_id/1/c/3753",
         "difficulty": "hard",
