@@ -10753,6 +10753,17 @@
     },
 
     {
+        "name": "Ideone",
+        "url": "https://ideone.com/legal-tos#:~:text=In%20order%20to%20remove%20the,and%20file%20a%20proper%20motion.",
+        "difficulty": "hard",
+        "notes": "The only way to delete the account is by emailing the Operator, as per section 3.12 of their TOS.",
+        "email": "contact@sphere-research.com",
+        "domains": [
+            "ideone.com"
+        ]
+    },
+
+    {
         "name": "iFixit",
         "url": "https://forms.obsecom.eu/requests/654931-678694-057240-634891",
         "difficulty": "hard",
@@ -20391,6 +20402,17 @@
         "domains": [
             "speedtest.net",
             "help.speedtest.net"
+        ]
+    },
+
+    {
+        "name": "Sphere Online Judge (SPOJ)",
+        "url": "https://www.spoj.com/legal-tos/#:~:text=In%20order%20to%20remove%20the,and%20file%20a%20proper%20motion.",
+        "difficulty": "hard",
+        "notes": "The only way to delete the account is by emailing the Operator, as per section 3.19 of their TOS.",
+        "email": "contact@sphere-research.com",
+        "domains": [
+            "www.spoj.com"
         ]
     },
 
