@@ -2405,6 +2405,17 @@
     },
 
     {
+        "name": "beecrowd (for talents)",
+        "url": "https://judge.beecrowd.com/en/users/deactivate?utm_source=judge&utm_medium=page&utm_campaign=deactivate",
+        "difficulty": "medium",
+        "notes": "Go to the linked page, and at the bottom, type the word \"deactivate\" (in lowercase letters and without quotes), and click on \"Delete\". This action does not delete everything, though: posts, place in ranks, created tournaments, teams on which you're a member, and progress in disciplines are only username-anonimized. Furthermore, no anonimization is done to data related to progress in disciplines, as only professors who created them are able to remove students and stop tracking.",
+        "domains": [
+            "beecrowd.com",
+            "judge.beecrowd.com"
+        ]
+    },
+
+    {
         "name": "Behance",
         "url": "https://help.behance.net/hc/en-us/articles/204484854-How-do-I-delete-cancel-my-account-",
         "difficulty": "easy",
@@ -9930,6 +9941,16 @@
     },
 
     {
+        "name": "Hackerearth",
+        "url": "https://www.hackerearth.com/users/profile-settings/",
+        "difficulty": "hard",
+        "notes": "Scrolling all the way down to select the option \"Delete my account\", under \"Account Settings\", a pop-up window appears, indicating the real procedure: Click on the question mark (?) icon at the bottom right corner of the page, then click on \"Raise a ticket\" in the chat window that appears. When the chatbot asks for the account e-Mail address, reply with it, and finally, when the chatbot asks for details, reply with: \"I would like to have my account deleted.\". Their support team will reach out via e-Mail in at most 48 hours.",
+        "domains": [
+            "www.hackerearth.com"
+        ]
+    },
+
+    {
         "name": "Hackerrank",
         "url": "https://www.hackerrank.com/settings/account",
         "difficulty": "easy",
@@ -16646,6 +16667,17 @@
     },
 
     {
+        "name": "Paperspace",
+        "url": "https://console.paperspace.com/account/settings/profile",
+        "difficulty": "medium",
+        "notes": "Click on the \"DEACTIVATE\" button, under \"Deactivate Account\" in the linked page. A pop-up dialog appears, asking for a reason for deactivation. Select a reason from the listbox, and optionally leave a comment in the textbox below it. Finally, click on \"DEACTIVATE\" in the pop-up dialog.",
+        "domains": [
+            "paperspace.com",
+            "console.paperspace.com"
+        ]
+    },
+
+    {
         "name": "Paradox Plaza",
         "url": "https://support.paradoxplaza.com/hc/en-us/requests/new?ticket_form_id=360000086974",
         "difficulty": "hard",
@@ -20573,6 +20605,16 @@
     },
 
     {
+        "name": "StackBlitz",
+        "url": "https://stackblitz.com/settings/profile",
+        "difficulty": "easy",
+        "notes": "In the linked settings page, select \"Delete my account\" at the very bottom, then click on \"Permanently delete my account and X project(s).\" (\"X\" is the number of projects in the account at the time of deletion.)",
+        "domains": [
+            "stackblitz.com"
+        ]
+    },
+
+    {
         "name": "Stackhero",
         "url": "https://www.stackhero.io/",
         "difficulty": "hard",
@@ -24065,6 +24107,18 @@
         "difficulty": "easy",
         "domains": [
             "weibo.com"
+        ]
+    },
+
+    {
+        "name": "Weights",
+        "url": "https://www.weights.com/settings",
+        "difficulty": "medium",
+        "notes": "Go to the bottom of the linked page. Under \"Danger Zone\", first click on \"Delete all content\", and click on \"Delete\" twice in the pop-up window that appears. This deletes everything tied to the account (covers, models, comments, images...), then logs you out. Log back in (if using mail login, you must go to the main page), return to \"Danger Zone\" in the linked page, now click on \"Delete Account\", and in the pop-up window that appears, click \"Delete\" twice. This deletes the account proper. You won't be able to use your mail to sign up again for 14 days after deleting the account.",
+        "domains": [
+            "www.weights.com",
+            "weights.com",
+            "weights.gg"
         ]
     },
 
