@@ -9946,7 +9946,7 @@
         "difficulty": "hard",
         "notes": "Scrolling all the way down to select the option \"Delete my account\", under \"Account Settings\", a pop-up window appears, indicating the real procedure: Click on the question mark (?) icon at the bottom right corner of the page, then click on \"Raise a ticket\" in the chat window that appears. When the chatbot asks for the account e-Mail address, reply with it, and finally, when the chatbot asks for details, reply with: \"I would like to have my account deleted.\". Their support team will reach out via e-Mail in at most 48 hours.",
         "domains": [
-            "www.hackerearth.com"
+            "hackerearth.com"
         ]
     },
 
@@ -24116,7 +24116,6 @@
         "difficulty": "medium",
         "notes": "Go to the bottom of the linked page. Under \"Danger Zone\", first click on \"Delete all content\", and click on \"Delete\" twice in the pop-up window that appears. This deletes everything tied to the account (covers, models, comments, images...), then logs you out. Log back in (if using mail login, you must go to the main page), return to \"Danger Zone\" in the linked page, now click on \"Delete Account\", and in the pop-up window that appears, click \"Delete\" twice. This deletes the account proper. You won't be able to use your mail to sign up again for 14 days after deleting the account.",
         "domains": [
-            "www.weights.com",
             "weights.com",
             "weights.gg"
         ]
