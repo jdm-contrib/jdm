@@ -13361,6 +13361,16 @@
     },
 
     {
+        "name": "Mail.com",
+        "url": "https://support.mail.com/account/managing/delete.html",
+        "difficulty": "easy",
+        "notes": "While logged in, go to \"Account\", then choose \"Delete account\" on the left-hand side panel. Once the section loads, click on the \"Delete account\" button, provide your password when prompted, and click \"Delete account\" to confirm. Detailed instructions are provided in the linked page.",
+        "domains": [
+            "mail.com"
+        ]
+    },
+
+    {
         "name": "Mail.ru",
         "url": "https://account.mail.ru/user/delete",
         "difficulty": "easy",
