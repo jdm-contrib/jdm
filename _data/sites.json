@@ -18640,6 +18640,17 @@
     },
 
     {
+        "name": "Rediff",
+        "url": "https://m.rediff.com/w3c/policy.html#:~:text=If%20your%20personally%20identifiable%20information%20or%20email%20address%20change,or%20postal%20mail%20at%20the%20contact%20information%20listed%20below.",
+        "difficulty": "hard",
+        "email": "customersupport@rediff.co.in",
+        "notes": "To delete the account, according to the linked page, an e-Mail must be sent to their Support team. If the linked e-Mail doesn't work, try this one: shopsupport@rediff.co.in",
+        "domains": [
+            "rediff.com"
+        ]
+    },
+
+    {
         "name": "Redirect.ing",
         "url": "https://redirect.ing/account/settings/edit",
         "difficulty": "easy",
