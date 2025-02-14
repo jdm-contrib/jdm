@@ -16285,6 +16285,16 @@
     },
 
     {
+        "name": "Online Judge (formerly UVa Online Judge)",
+        "url": "https://onlinejudge.org/index.php?option=com_contact&Itemid=4",
+        "difficulty": "impossible",
+        "notes": "There is no option to delete an existing account. You may try requesting the deletion at the linked page, by filling out their contact form, but keep in mind they might never reach out.",
+        "domains": [
+            "onlinejudge.org"
+        ]
+    },
+
+    {
         "name": "Online.net",
         "url": "https://console.online.net/fr/assistance/ticket",
         "difficulty": "impossible",
