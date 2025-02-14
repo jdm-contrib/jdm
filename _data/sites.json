@@ -6679,6 +6679,16 @@
     },
 
     {
+        "name": "Eduonix",
+        "url": "https://www.eduonix.com/settings/mang_pass",
+        "difficulty": "easy",
+        "notes": "Select the \"Delete My Account\" button. The profile will be deleted effectively within 2-3 days.",
+        "domains": [
+            "eduonix.com"
+        ]
+    },
+
+    {
         "name": "Edvisors/ScholarshipPoints",
         "url": "https://www.edvisors.com/delete-request/",
         "difficulty": "hard",
@@ -6827,6 +6837,17 @@
         "domains": [
             "engadget.com",
             "engadget.mydashboard.oath.com"
+        ]
+    },
+
+    {
+        "name": "Enhancv",
+        "url": "https://app.enhancv.com/profile",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the page and click \"Delete account\".",
+        "domains": [
+            "enhancv.com",
+            "app.enhancv.com"
         ]
     },
 
@@ -14831,6 +14852,17 @@
     },
 
     {
+        "name": "Musixmatch",
+        "url": "https://account.musixmatch.com/delete-account",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete account\" button. Your contributions will remain visible on our platform, but your name will no longer be displayed. It will take 7 days to process your account deletion request.",
+        "domains": [
+            "musixmatch.com",
+            "account.musixmatch.com"
+        ]
+    },
+
+    {
         "name": "Mutant Mail",
         "url": "https://my.mutantmail.com/settings",
         "difficulty": "easy",
@@ -15869,6 +15901,17 @@
         "notes": "They DO NOT delete accounts, just log out.",
         "domains": [
             "nulled.to"
+        ]
+    },
+
+    {
+        "name": "Numista",
+        "url": "https://en.numista.com/vous/desinscription.php",
+        "difficulty": "easy",
+        "notes": "The text box can be left blank. Simply click \"Definitely unsubscribe\" - this will permanently remove all your data.",
+        "domains": [
+            "numista.com",
+            "en.numista.com"
         ]
     },
 
@@ -17200,6 +17243,17 @@
         "email": "help@piazza.com",
         "domains": [
             "piazza.com"
+        ]
+    },
+
+    {
+        "name": "picoCTF",
+        "url": "https://play.picoctf.org/account",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Account\", then type your password to confirm. Your PII will be deleted, and \"platform-specific data will be anonymized\".",
+        "domains": [
+            "picoctf.org",
+            "play.picoctf.org"
         ]
     },
 
@@ -25466,6 +25520,16 @@
         "email": "community@zeit.de",
         "domains": [
             "zeit.de"
+        ]
+    },
+
+    {
+        "name": "Zello",
+        "url": "https://my.zello.com/user/home/#remove-account",
+        "difficulty": "easy",
+        "notes": "Click on the \"Delete Account\" button.",
+        "domains": [
+            "my.zello.com"
         ]
     },
 
