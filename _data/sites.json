@@ -16174,6 +16174,17 @@
     },
 
     {
+        "name": "OM Personal English",
+        "url": "https://ompersonal.com.ar/profile",
+        "difficulty": "easy",
+        "notes": "Go to the bottom of the linked page, and under \"Delete account\", click on the red button with the same name.",
+        "notes_es": "Ve a la parte inferior de la página enlazada, y en la sección \"Borrar cuenta\", da clic en el botón rojo del mismo nombre.",
+        "domains": [
+            "ompersonal.com.ar"
+        ]
+    },
+
+    {
         "name": "OmaPosti",
         "url": "https://asiakastiedot.posti.fi/myaccount/details",
         "difficulty": "easy",
