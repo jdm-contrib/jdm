@@ -14164,6 +14164,17 @@
     },
 
     {
+        "name": "MetLife",
+        "url": "https://metlife.com.br/",
+        "difficulty": "impossible",
+        "notes" : "They claim nothing can be deleted.",
+        "notes_pt-BR" : "Eles alegam que nada pode ser deletado.",
+        "domains": [
+            "metlife.com.br"
+        ]
+    },
+
+    {
         "name": "Metropolis",
         "url": "https://app.metropolis.io/profile/terms-and-privacy",
         "difficulty": "easy",
