@@ -1938,6 +1938,17 @@
     },
 
     {
+        "name": "AulaFacil",
+        "url": "https://usuarios.aulafacil.com/usuarios/miPerfil",
+        "difficulty": "easy",
+        "notes": "Click on \"Delete account\", provide your current password twice, and then click on \"I'm sure I want to delete my profile\".",
+        "notes_es": "Haz clic en \"Eliminar cuenta\", ingresa tu contraseña actual dos veces, y da clic en \"Estoy seguro de querer eliminar mi perfil\".",
+        "domains": [
+            "aulafacil.com"
+        ]
+    },
+
+    {
         "name": "Auth0",
         "url": "https://community.auth0.com/t/how-can-i-delete-my-auth0-auth0-community-forum-account/34689",
         "difficulty": "hard",
@@ -16163,6 +16174,17 @@
     },
 
     {
+        "name": "OM Personal English",
+        "url": "https://ompersonal.com.ar/profile",
+        "difficulty": "easy",
+        "notes": "Go to the bottom of the linked page, and under \"Delete account\", click on the red button with the same name.",
+        "notes_es": "Ve a la parte inferior de la página enlazada, y en la sección \"Borrar cuenta\", da clic en el botón rojo del mismo nombre.",
+        "domains": [
+            "ompersonal.com.ar"
+        ]
+    },
+
+    {
         "name": "OmaPosti",
         "url": "https://asiakastiedot.posti.fi/myaccount/details",
         "difficulty": "easy",
@@ -16178,7 +16200,7 @@
         "difficulty": "easy",
         "email": "soporte@omegaup.com",
         "notes": "Go to the linked page and click on the \"Delete\" button, then confirm in the pop-up window by clicking on \"Delete\" again. All personal information is immediately deleted. If the account does not get deleted, write an e-Mail to support asking for help. You might need to manually log out once the deletion occurs.",
-        "notes_es": "Ve a la página enlazada y haz clic en el botón \"Eliminar\", después vuelve a confirmar en el cuadro de diálogo dando clic otra vez en \"Eliminar\". Toda la información personal se borra inmediatamente. Si la cuenta no se borra, escribe un correo elecrónico pidiendo ayuda al equipo de soporte. Puede que necesites cerrar sesión manualmente una vez que el borrado ocurra.",
+        "notes_es": "Ve a la página enlazada y haz clic en el botón \"Eliminar\", después vuelve a confirmar en el cuadro de diálogo dando clic otra vez en \"Eliminar\". Toda la información personal se borra inmediatamente. Si la cuenta no se borra, escribe un correo electrónico pidiendo ayuda al equipo de soporte. Puede que necesites cerrar sesión manualmente una vez que el borrado ocurra.",
         "domains": [
             "omegaup.com"
         ]
@@ -16259,6 +16281,16 @@
         "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
         "domains": [
             "theonion.com"
+        ]
+    },
+
+    {
+        "name": "Online Judge (formerly UVa Online Judge)",
+        "url": "https://onlinejudge.org/index.php?option=com_contact&Itemid=4",
+        "difficulty": "impossible",
+        "notes": "There is no option to delete an existing account. You may try requesting the deletion at the linked page, by filling out their contact form, but keep in mind they might never reach out.",
+        "domains": [
+            "onlinejudge.org"
         ]
     },
 
@@ -18636,6 +18668,17 @@
         "notes": "After logging in, click the \"Delete Your Account\" link at the bottom of the Account Settings page.",
         "domains": [
             "redfin.com"
+        ]
+    },
+
+    {
+        "name": "Rediff",
+        "url": "https://m.rediff.com/w3c/policy.html#:~:text=If%20your%20personally%20identifiable%20information%20or%20email%20address%20change,or%20postal%20mail%20at%20the%20contact%20information%20listed%20below.",
+        "difficulty": "hard",
+        "email": "customersupport@rediff.co.in",
+        "notes": "To delete the account, according to the linked page, an e-Mail must be sent to their Support team. If the linked e-Mail doesn't work, try this one: shopsupport@rediff.co.in",
+        "domains": [
+            "rediff.com"
         ]
     },
 
@@ -22180,6 +22223,17 @@
             "timeanddate.com",
             "timeanddate.de",
             "timeanddate.no"
+        ]
+    },
+
+    {
+        "name": "Timus Online Judge (TOJ)",
+        "url": "https://acm.timus.ru/",
+        "difficulty": "impossible",
+        "email": "timus_support@acm.timus.ru",
+        "notes": "There is no option to delete accounts. You may try requesting deletion by e-Mailing their Support Team, but keep in mind it seems they don't ever reach out.",
+        "domains": [
+            "acm.timus.ru"
         ]
     },
 
