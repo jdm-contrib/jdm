@@ -12329,6 +12329,17 @@
     },
 
     {
+        "name": "Lattice Semiconductor",
+        "url": "https://www.latticesemi.com/About/ContactUs",
+        "difficulty": "hard",
+        "email": "webmaster@latticesemi.com",
+        "notes": "For website, logging in and account issues, or any web-related feedback, contact Webmaster.",
+        "domains": [
+            "latticesemi.com"
+        ]
+    },
+
+    {
         "name": "Launchpad",
         "url": "https://help.launchpad.net/YourAccount/Closing",
         "difficulty": "easy",
@@ -13346,6 +13357,16 @@
         "notes_tr": "Bir e-posta gönderin. Sonunda silme işleminin tamamlanması için başka bir e-posta daha göndermeniz gerekebilir.",
         "domains": [
             "magoosh.com"
+        ]
+    },
+
+    {
+        "name": "Mail.com",
+        "url": "https://support.mail.com/account/managing/delete.html",
+        "difficulty": "easy",
+        "notes": "While logged in, go to \"Account\", then choose \"Delete account\" on the left-hand side panel. Once the section loads, click on the \"Delete account\" button, provide your password when prompted, and click \"Delete account\" to confirm. Detailed instructions are provided in the linked page.",
+        "domains": [
+            "mail.com"
         ]
     },
 
@@ -16105,6 +16126,18 @@
         "notes": "In the bottom of the page, click 'Stop using Posti’s electronic services'.",
         "domains": [
             "oma.posti.fi"
+        ]
+    },
+
+    {
+        "name": "omegaUp",
+        "url": "https://omegaup.com/profile/#delete-account",
+        "difficulty": "easy",
+        "email": "soporte@omegaup.com",
+        "notes": "Go to the linked page and click on the \"Delete\" button, then confirm in the pop-up window by clicking on \"Delete\" again. All personal information is immediately deleted. If the account does not get deleted, write an e-Mail to support asking for help. You might need to manually log out once the deletion occurs.",
+        "notes_es": "Ve a la página enlazada y haz clic en el botón \"Eliminar\", después vuelve a confirmar en el cuadro de diálogo dando clic otra vez en \"Eliminar\". Toda la información personal se borra inmediatamente. Si la cuenta no se borra, escribe un correo elecrónico pidiendo ayuda al equipo de soporte. Puede que necesites cerrar sesión manualmente una vez que el borrado ocurra.",
+        "domains": [
+            "omegaup.com"
         ]
     },
 
