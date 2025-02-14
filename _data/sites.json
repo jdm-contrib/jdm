@@ -1938,6 +1938,17 @@
     },
 
     {
+        "name": "AulaFacil",
+        "url": "https://usuarios.aulafacil.com/usuarios/miPerfil",
+        "difficulty": "easy",
+        "notes": "Click on \"Delete account\", provide your current password twice, and then click on \"I'm sure I want to delete my profile\".",
+        "notes_es": "Haz clic en \"Eliminar cuenta\", ingresa tu contraseña actual dos veces, y da clic en \"Estoy seguro de querer eliminar mi perfil\".",
+        "domains": [
+            "aulafacil.com"
+        ]
+    },
+
+    {
         "name": "Auth0",
         "url": "https://community.auth0.com/t/how-can-i-delete-my-auth0-auth0-community-forum-account/34689",
         "difficulty": "hard",
