@@ -12329,6 +12329,17 @@
     },
 
     {
+        "name": "Lattice Semiconductor",
+        "url": "https://www.latticesemi.com/About/ContactUs",
+        "difficulty": "hard",
+        "email": "webmaster@latticesemi.com",
+        "notes": "For website, logging in and account issues, or any web-related feedback, contact Webmaster.",
+        "domains": [
+            "latticesemi.com"
+        ]
+    },
+
+    {
         "name": "Launchpad",
         "url": "https://help.launchpad.net/YourAccount/Closing",
         "difficulty": "easy",
