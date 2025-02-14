@@ -22217,6 +22217,17 @@
     },
 
     {
+        "name": "Timus Online Judge (TOJ)",
+        "url": "https://acm.timus.ru/",
+        "difficulty": "impossible",
+        "email": "timus_support@acm.timus.ru",
+        "notes": "There is no option to delete accounts. You may try requesting deletion by e-Mailing their Support Team, but keep in mind it seems they don't ever reach out.",
+        "domains": [
+            "acm.timus.ru"
+        ]
+    },
+
+    {
         "name": "Tinder",
         "url": "https://tinder.com/app/profile",
         "difficulty": "easy",
