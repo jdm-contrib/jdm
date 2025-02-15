@@ -17267,6 +17267,16 @@
     },
 
     {
+        "name": "phpBB Forum",
+        "url": "https://www.phpbb.com/community/viewtopic.php?t=2425241#:~:text=we%20generally%20do%20not%20delete%20accounts",
+        "difficulty": "impossible",
+        "notes": "Accounts are not generally deleted by moderators. Maybe if you try to reach one of the members of the \"Moderator\" team, you might convince someone of deleting your account, but this is discretional.",
+        "domains": [
+            "phpbb.com"
+        ]
+    },
+
+    {
         "name": "phplist",
         "url": "https://www.phplist.com/privacy",
         "difficulty": "hard",
