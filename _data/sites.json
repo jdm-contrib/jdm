@@ -17020,6 +17020,16 @@
     },
 
     {
+        "name": "PCem Forum",
+        "url": "https://pcem-emulator.co.uk/phpBB3/",
+        "difficulty": "impossible",
+        "notes": "There is no option to delete an account from the Control Panel. You might try PMing either the administrator (SarahWalker) or the global moderator (MichaelJManley), but response is not guaranteed.",
+        "domains": [
+            "pcem-emulator.co.uk"
+        ]
+    },
+
+    {
         "name": "pCloud",
         "url": "https://my.pcloud.com/#page=settings&settings=tab-account",
         "difficulty": "medium",
