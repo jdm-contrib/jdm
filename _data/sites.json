@@ -14419,6 +14419,19 @@
     },
 
     {
+        "name": "Mistral AI",
+        "url": "https://admin.mistral.ai/account",
+        "difficulty": "easy",
+        "notes": "Click on the link, scroll down, and then click the 'Delete Account' button. If you have a paid subscription, you must cancel it first.",
+        "domains": [
+            "admin.mistral.ai",
+            "mistral.ai",
+            "chat.mistral.ai",
+            "help.mistral.ai"
+        ]
+    },
+
+    {
         "name": "MixCloud",
         "url": "https://www.mixcloud.com/settings/delete-account/",
         "difficulty": "easy",
