@@ -23379,6 +23379,17 @@
     },
 
     {
+        "name": "Voxtelesys",
+        "url": "https://voxtelesys.com/contact-us",
+        "difficulty": "hard",
+        "notes": "You must either use their contact form linked, or go into the portal and make a ticket stating you want to delete your account."
+        "domains": [
+            "voxtelesys.com",
+            "portal.voxtelesys.net",
+            "voxtelesys.net"
+        ]
+    }
+    {
         "name": "V.PS Hosting",
         "url": "https://vps.hosting/clientarea/delete",
         "difficulty": "easy",
