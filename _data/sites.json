@@ -10938,6 +10938,16 @@
     },
 
     {
+        "name": "imgBB",
+        "url": "https://imgbb.com/settings/delete",
+        "difficulty": "medium",
+        "notes": "There is no visible option to delete an account in the user's settings, but if you use the linked page, you just need to provide your password, and your account will be deleted.",
+        "domains": [
+            "imgbb.com"
+        ]
+    },
+
+    {
         "name": "Imgur",
         "url": "https://imgur.com/account/settings",
         "difficulty": "easy",
