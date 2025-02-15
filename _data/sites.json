@@ -17033,6 +17033,16 @@
     },
 
     {
+        "name": "PCem Forum",
+        "url": "https://pcem-emulator.co.uk/phpBB3/",
+        "difficulty": "impossible",
+        "notes": "There is no option to delete an account from the Control Panel. You might try PMing either the administrator (SarahWalker) or the global moderator (MichaelJManley), but response is not guaranteed.",
+        "domains": [
+            "pcem-emulator.co.uk"
+        ]
+    },
+
+    {
         "name": "pCloud",
         "url": "https://my.pcloud.com/#page=settings&settings=tab-account",
         "difficulty": "medium",
@@ -17276,6 +17286,16 @@
         "notes": "Open the menu and sign in ⮕ 'Security and Privacy' ⮕ 'Edit profile' ⮕ 'Delete profile'",
         "domains": [
             "photomath.com"
+        ]
+    },
+
+    {
+        "name": "phpBB Forum",
+        "url": "https://www.phpbb.com/community/viewtopic.php?t=2425241#:~:text=we%20generally%20do%20not%20delete%20accounts",
+        "difficulty": "impossible",
+        "notes": "Accounts are not generally deleted by moderators. Maybe if you try to reach one of the members of the \"Moderator\" team, you might convince someone of deleting your account, but this is discretional.",
+        "domains": [
+            "phpbb.com"
         ]
     },
 
