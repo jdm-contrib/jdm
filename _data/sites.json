@@ -24430,7 +24430,15 @@
             "whatsapp.com"
         ]
     },
-
+    {
+        "name": "Where Am I?",
+        "url": "https://whereamigame.app/",
+        "difficulty": "easy",
+        "notes": "Log in to the mobile app, click on your username at the bottom navigation, select 'Delete Acccount' under 'Account Management'.",
+        "domains": [
+            "whereamigame.app"
+        ]
+    },
     {
         "name": "Which?",
         "url": "https://www.which.co.uk/terms-and-conditions/your-which-membership/",
