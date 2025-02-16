@@ -10938,6 +10938,16 @@
     },
 
     {
+        "name": "imgBB",
+        "url": "https://imgbb.com/settings/delete",
+        "difficulty": "medium",
+        "notes": "There is no visible option to delete an account in the user's settings, but if you use the linked page, you just need to provide your password, and your account will be deleted.",
+        "domains": [
+            "imgbb.com"
+        ]
+    },
+
+    {
         "name": "Imgur",
         "url": "https://imgur.com/account/settings",
         "difficulty": "easy",
@@ -17776,6 +17786,16 @@
         "notes": "Select the account deletion option from the site.",
         "domains": [
             "flow.polar.com"
+        ]
+    },
+
+    {
+        "name": "Polybuzz",
+        "url": "https://www.polybuzz.ai",
+        "difficulty": "medium",
+        "notes": "You must use the mobile app to delete the account. Furthermore, you must not have any active subscriptions, and your total coin balance must be less than 100, or the account won't be deleted. To proceed, log in in mobile, then tap the user icon at the bottom right. Once into the settings, tap the tiny bolt icon at the top right. When the settings appear, tap \"Account\", then mark the confirmation checkbox and tap \"Delete\".",
+        "domains": [
+            "polybuzz.ai"
         ]
     },
 
