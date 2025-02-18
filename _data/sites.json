@@ -6039,6 +6039,17 @@
     },
 
     {
+        "name": "Doctolib",
+        "url": "https://www.doctolib.de/account/edit",
+        "notes": "Scroll down to the bottom of the page and click on 'Delete my account'.",
+        "notes_de": "Scrollen sie auf der Seite nach unten und klicken Sie auf 'Mein Konto löschen'.",
+        "difficulty": "easy",
+        "domains": [
+            "doctolib.de"
+        ]
+    },
+
+    {
         "name": "DocuSign",
         "url": "https://support.docusign.com/en/articles/How-do-I-cancel-or-downgrade-my-account#steps",
         "notes": "Follow the instructions at the linked support page; directions vary depending on account type and privileges.",
@@ -6047,17 +6058,6 @@
         "domains": [
             "docusign.com",
             "support.docusign.com"
-        ]
-    },
-
-    {
-        "name": "Doctolib",
-        "url": "https://www.doctolib.de/account/edit",
-        "notes": "Scroll down to the bottom of the page and click on 'Delete my account'.",
-        "notes_de": "Scrollen sie auf der Seite nach unten und klicken Sie auf 'Mein Konto löschen'.",
-        "difficulty": "easy",
-        "domains": [
-            "doctolib.de"
         ]
     },
 
