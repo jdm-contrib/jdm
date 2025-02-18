@@ -6039,6 +6039,17 @@
     },
 
     {
+        "name": "Doctolib",
+        "url": "https://www.doctolib.de/account/edit",
+        "notes": "Scroll down to the bottom of the page and click on 'Delete my account'.",
+        "notes_de": "Scrollen sie auf der Seite nach unten und klicken Sie auf 'Mein Konto löschen'.",
+        "difficulty": "easy",
+        "domains": [
+            "doctolib.de"
+        ]
+    },
+
+    {
         "name": "DocuSign",
         "url": "https://support.docusign.com/en/articles/How-do-I-cancel-or-downgrade-my-account#steps",
         "notes": "Follow the instructions at the linked support page; directions vary depending on account type and privileges.",
@@ -14579,6 +14590,32 @@
         "notes_fr": "Connectez-vous, allez dans vos paramètre de profil, enfin trouver en bas de page (Supprimer mon compte).",
         "domains": [
             "molotov.tv"
+        ]
+    },
+
+    {
+        "name": "Momox",
+        "url": "https://www.momox.de/kleidung-verkaufen/kontaktformular/",
+        "difficulty": "hard",
+        "notes": "You have to request account deletion through the contact form provided on their website.",
+        "notes_de": "Sie müssen die Löschung Ihres Kontos über das auf ihrer Website bereitgestellte Kontaktformular anfordern.",
+        "domains": [
+            "momox.de"
+        ]
+    },
+
+    {
+        "name": "Momox Fashion",
+        "url": "https://momoxfashion.zendesk.com/hc/de/articles/360011251419-Ich-m%C3%B6chte-mein-Konto-abmelden-Wie-geht-das",
+        "difficulty": "hard",
+        "notes": "To get your account deleted, you have to contact their support via e-mail.",
+        "notes_de": "Um Ihr Konto löschen zu lassen, müssen Sie den Support per E-Mail kontaktieren.",
+        "email": "support@momoxfashion.com",
+        "email_subject": "Antrag auf Löschung meines Momox-Fashion Kontos gemäß DSGVO Artikel 17",
+        "email_body": "Sehr geehrte Damen und Herren, hiermit beantrage ich die Löschung meines Momox-Fashion Kontos, das unter der E-Mail-Adresse 'your-email@address.here' registriert ist. Gemäß Artikel 17 der Datenschutz-Grundverordnung (DSGVO) bitte ich um die vollständige Löschung meiner personenbezogenen Daten, da ich nicht mehr an der Nutzung des Kontos interessiert bin. Ich bitte um eine Bestätigung der Löschung sowie um Informationen darüber, dass meine Daten tatsächlich entfernt wurden. Vielen Dank und mit freundlichen Grüßen, 'Firstname Lastname'",
+        "domains": [
+            "momoxfashion.com",
+            "momoxfashion.zendesk.com"
         ]
     },
 
