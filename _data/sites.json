@@ -5423,6 +5423,16 @@
     },
 
     {
+        "name": "DeepSeek",
+        "url": "https://chat.deepseek.com/",
+        "difficulty": "easy",
+        "notes": "Using a PC, go to \"My Profile\" in the lower-left hand corner, then click \"Settings\". A pop-up window appears. Click on the \"Profile\" tab and then click on the red \"Delete\" button. If using mobile, tap the burger menu in the upper-left hand corner, then tap your username in the lower-left. After that, tap the last option in red, \"Delete account\".",
+        "domains": [
+            "deepseek.com"
+        ]
+    },
+
+    {
         "name": "Deezer",
         "url": "https://www.deezer.com/account",
         "difficulty": "medium",
