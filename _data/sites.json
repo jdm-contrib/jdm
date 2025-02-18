@@ -5078,6 +5078,16 @@
     },
 
     {
+        "name": "CTFLearn",
+        "url": "https://ctflearn.com/",
+        "difficulty": "impossible",
+        "notes": "There is no guaranteed way to delete your account, as the website does not offer a button or a form. The provided email addresses do not work probably due to server misconfigurations. The only potential option is to contact an admin on their Discord, but success is not guaranteed.",
+        "domains": [
+            "ctflearn.com"
+        ]
+    },
+
+    {
         "name": "cTrader",
         "url": "https://help.ctrader.com/ctrader-id/delete",
         "difficulty": "hard",
