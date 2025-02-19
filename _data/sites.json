@@ -12261,6 +12261,17 @@
     },
 
     {
+        "name": "Knetbooks",
+        "email": "privacyrequest@knetbooks.com",
+        "url": "https://www.knetbooks.com/account/settings",
+        "difficulty": "hard",
+        "notes": "Send an account deletion request to the provided email.",
+        "domains": [
+            "knetbooks.com"
+        ]
+    },
+
+    {
         "name": "Ko-fi",
         "url": "https://ko-fi.com/Manage/DeleteAccount/",
         "difficulty": "medium",
