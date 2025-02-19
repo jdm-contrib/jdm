@@ -2315,6 +2315,17 @@
     },
 
     {
+        "name": "Basicversity",
+        "url": "https://basicversity.com/privacy.php#:~:text=If%20you%20have%20questions%20about%20accessing%20or%20correcting%20your%20personal%20data%20please%20send%20an%20email%20to%20simpleversity%20At%20gmail.com.",
+        "difficulty": "impossible",
+        "email": "simpleversity@gmail.com",
+        "notes": "There is no option to delete accounts. Furthermore, their Privacy page includes an e-Mail address to redirect any inquiries, but it seems it has been left unattended, as no one answers it since, at least, 2018.",
+        "domains": [
+            "basicversity.com"
+        ]
+    },
+
+    {
         "name": "Basin",
         "url": "https://usebasin.com/users/edit",
         "difficulty": "easy",
