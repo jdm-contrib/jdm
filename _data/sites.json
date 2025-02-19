@@ -17847,10 +17847,10 @@
     },
 
     {
-        "name": "Polybuzz",
+        "name": "PolyBuzz",
         "url": "https://www.polybuzz.ai",
         "difficulty": "medium",
-        "notes": "You must use the mobile app to delete the account. Furthermore, you must not have any active subscriptions, and your total coin balance must be less than 100, or the account won't be deleted. To proceed, log in in mobile, then tap the user icon at the bottom right. Once into the settings, tap the tiny bolt icon at the top right. When the settings appear, tap \"Account\", then mark the confirmation checkbox and tap \"Delete\".",
+        "notes": "You must use the mobile app to delete the account. Furthermore, you must not have any active subscriptions, and your total coin balance must be less than 100, or the account won't be deleted. To proceed, log in in mobile, then tap the user icon at the bottom right. Once into the settings, tap the tiny nut icon at the top right. When the settings appear, tap \"Account\", then mark the confirmation checkbox and tap \"Delete\".",
         "domains": [
             "polybuzz.ai"
         ]
