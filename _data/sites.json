@@ -10835,6 +10835,18 @@
     },
 
     {
+        "name": "iClicker",
+        "email": "privacyisimportant@macmillan.com",
+        "url": "https://mhe.my.site.com/iclicker/s/contactsupport",
+        "difficulty": "hard",
+        "notes": "Send an email to the provided address and request deletion of your iClicker account.",
+        "domains": [
+            "student.iclicker.com",
+            "iclicker.com"
+        ]
+    },
+
+    {
         "name": "Icontem",
         "url": "https://accounts.icontem.com/remove",
         "difficulty": "easy",
