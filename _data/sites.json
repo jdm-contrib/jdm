@@ -1091,6 +1091,19 @@
     },
 
     {
+        "name": "Altium",
+        "email": "data.compliance@altium.com",
+        "url": "https://www.altium.com/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Send an account deletion request to the provided email.",
+        "domains": [
+            "altium.com",
+            "live.altium.com",
+            "365.altium.com"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "https://alvanista.com/profile/edit",
         "difficulty": "easy",
