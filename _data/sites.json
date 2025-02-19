@@ -19005,6 +19005,16 @@
     },
 
     {
+        "name": "Retroroms",
+        "url": "https://www.retroroms.info/unregister.php",
+        "difficulty": "easy",
+        "notes": "Log in, then go to the linked page, and click in the blue button labeled \"DELETE ACCOUNT\". The deletion is performed immediately.",
+        "domains": [
+            "retroroms.info"
+        ]
+    },
+
+    {
         "name": "Retrospring",
         "url": "https://retrospring.net/settings/account",
         "difficulty": "easy",
