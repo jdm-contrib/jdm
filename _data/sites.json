@@ -3901,10 +3901,9 @@
 
     {
         "name": "Cengage",
-        "url": "https://cengage.force.com/s/",
-        "difficulty": "hard",
-        "notes": "Contact support over the phone or via live chat. Your case will need to be escalated to close the account, and it may take a few days. Otherwise, the account will automatically be deleted after 5 years of inactivity.",
-        "notes_tr": "Destek birimine telefonla veya canlı destek aracılığı ile iletişime geçin. Hesabı kapatmak için durumunuzun iletilmesi gerekecek ve bu birkaç gün sürebilir. Aksi takdirde, hesap 5 yıl sonra hareketsizlikten otomatik olarak silinecektir.",
+        "url": "https://cengage.my.site.com/s/rtbf",
+        "difficulty": "medium",
+        "notes": "Complete the \"Privacy Rights Request Form\" for the \"Right to Delete/Right to be Forgotten\". Otherwise, the account will automatically be deleted after 5 years of inactivity (or 1 year for minors).",
         "domains": [
             "cengage.com"
         ]
