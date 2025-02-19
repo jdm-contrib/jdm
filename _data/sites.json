@@ -9661,6 +9661,17 @@
     },
 
     {
+        "name": "Gradescope",
+        "email": "help@gradescope.com",
+        "url": "https://guides.gradescope.com/hc/en-us/articles/21587242755341-Editing-Your-Account",
+        "difficulty": "hard",
+        "notes": "Send an account deletion request to the provided email.",
+        "domains": [
+            "gradescope.com"
+        ]
+    },
+
+    {
         "name": "Graduate-Jobs.com",
         "url": "https://www.graduate-jobs.com/sign-in/account/settings",
         "difficulty": "easy",
