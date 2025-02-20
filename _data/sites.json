@@ -2315,6 +2315,17 @@
     },
 
     {
+        "name": "Basicversity",
+        "url": "https://basicversity.com/privacy.php#:~:text=If%20you%20have%20questions%20about%20accessing%20or%20correcting%20your%20personal%20data%20please%20send%20an%20email%20to%20simpleversity%20At%20gmail.com.",
+        "difficulty": "impossible",
+        "email": "simpleversity@gmail.com",
+        "notes": "There is no option to delete accounts. Furthermore, their Privacy page includes an e-Mail address to redirect any inquiries, but it seems it has been left unattended, as no one answers it since, at least, 2018.",
+        "domains": [
+            "basicversity.com"
+        ]
+    },
+
+    {
         "name": "Basin",
         "url": "https://usebasin.com/users/edit",
         "difficulty": "easy",
@@ -17847,10 +17858,10 @@
     },
 
     {
-        "name": "Polybuzz",
+        "name": "PolyBuzz",
         "url": "https://www.polybuzz.ai",
         "difficulty": "medium",
-        "notes": "You must use the mobile app to delete the account. Furthermore, you must not have any active subscriptions, and your total coin balance must be less than 100, or the account won't be deleted. To proceed, log in in mobile, then tap the user icon at the bottom right. Once into the settings, tap the tiny bolt icon at the top right. When the settings appear, tap \"Account\", then mark the confirmation checkbox and tap \"Delete\".",
+        "notes": "You must use the mobile app to delete the account. Furthermore, you must not have any active subscriptions, and your total coin balance must be less than 100, or the account won't be deleted. To proceed, log in in mobile, then tap the user icon at the bottom right. Once into the settings, tap the tiny nut icon at the top right. When the settings appear, tap \"Account\", then mark the confirmation checkbox and tap \"Delete\".",
         "domains": [
             "polybuzz.ai"
         ]
@@ -18990,6 +19001,16 @@
         "difficulty": "easy",
         "domains": [
             "retroachievements.org"
+        ]
+    },
+
+    {
+        "name": "Retroroms",
+        "url": "https://www.retroroms.info/unregister.php",
+        "difficulty": "easy",
+        "notes": "Log in, then go to the linked page, and click in the blue button labeled \"DELETE ACCOUNT\". The deletion is performed immediately.",
+        "domains": [
+            "retroroms.info"
         ]
     },
 
