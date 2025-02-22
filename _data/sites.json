@@ -7750,14 +7750,10 @@
 
     {
         "name": "Fleek",
-        "url": "https://app.fleek.co/#/settings/general/profile",
-        "difficulty": "easy",
-        "notes": "Log in to your account, go to the linked page, scroll to the bottom and click \"Delete account\" and confirm the deletion.",
+        "url": "https://fleek.xyz/support/",
+        "difficulty": "impossible",
+        "notes": "Although the delete button exists, you cannot delete your Fleek account because \"that feature isn't live yet\"",
         "domains": [
-            "fleek.co",
-            "app.fleek.co",
-            "blog.fleek.co",
-            "docs.fleek.co",
             "fleek.xyz",
             "support.fleek.xyz"
         ]
