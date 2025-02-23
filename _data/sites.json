@@ -23937,6 +23937,16 @@
     },
 
     {
+        "name": "Volet",
+        "url": "https://support.volet.com/hc/en-us/articles/360021927159-Closing-your-account",
+        "difficulty": "medium",
+        "notes": "Follow the instructions on the linked page. Due to legal limitations, after closing an account, it will be blocked for 7 years. During this time, the account can be unblocked. After the 7 years, if the account hasn't been unblocked, its data will be automatically deleted.",
+        "domains": [
+            "volet.com"
+        ]
+    },
+
+    {
         "name": "VoucherCodes",
         "url": "https://support.vouchercodes.co.uk/hc/en-us/articles/360000349566-How-do-I-delete-my-Account-",
         "difficulty": "hard",
