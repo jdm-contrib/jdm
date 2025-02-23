@@ -8723,7 +8723,7 @@
         "name": "Gemini",
         "url": "https://support.gemini.com/hc/en-us/requests/new?ticket_form_id=1260809732969",
         "difficulty": "hard",
-        "notes": "To properly delete an account, go to the linked page, select \"Account Management & Verification\" in the left panel, and \"Data Privacy\" under the \"I need help with\" listbox. When the \"What type of data privacy request?\" listbox appears, select the appropriate option: CCPA, GDPR, and deletion request (for everyone else). This will send a ticket to their Support team.",
+        "notes": "To properly delete an account, go to the linked page, select \"Account Management & Verification\" in the left panel, and \"Data Privacy\" under the \"I need help with\" listbox. When the \"What type of data privacy request?\" listbox appears, select the appropriate option: CCPA, GDPR, or deletion request (for everyone else). This will send a ticket to their Support team.",
         "domains": [
             "gemini.com"
         ]
