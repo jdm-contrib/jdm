@@ -473,6 +473,18 @@
     },
 
     {
+        "name": "ActBlue",
+        "url": "https://secure.actblue.com/my-account/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "You must be logged in. In the modal, check the boxes to confirm you understand the consequences of deleting your account. Proceed then confirm using your password or a security code sent to your email. Once confirmed, click the last button to permanently delete your account.",
+        "notes_es": "Debe iniciar sesión. Marque las casillas en el modal para confirmar que entiende las consecuencias de borrar su cuenta. Continua y confirme con tu contraseña o un código de seguridad enviado a su email. Una vez que se ha confirmado, haga clic en el último botón para eliminar su cuenta de forma permanamente.",
+        "domains": [
+            "actblue.com",
+            "secure.actblue.com"
+        ]
+    },
+
+    {
         "name": "ActiveCampaign",
         "url": "https://ac.activehosted.com/f/2175",
         "difficulty": "hard",
