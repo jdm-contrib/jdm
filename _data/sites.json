@@ -20199,6 +20199,16 @@
     },
 
     {
+        "name": "SketchUp",
+        "url": "https://privacy.sketchup.com/email-form",
+        "difficulty": "hard",
+        "notes": "Fill in the details requested by the linked form (First and Last name, e-Mail address, and \"Please delete my SketchUp account\" as comment), then click \"Submit\".",
+        "domains": [
+            "sketchup.com"
+        ]
+    },
+
+    {
         "name": "Skiddle",
         "url": "https://www.skiddle.com/skiddlepeople/removeaccount.php",
         "difficulty": "easy",
