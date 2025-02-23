@@ -12305,6 +12305,16 @@
     },
 
     {
+        "name": "Kucoin",
+        "url": "https://www.kucoin.com/support/17881088289305",
+        "difficulty": "medium",
+        "notes": "Follow the instructions presented in the linked page. Any pending transactions will be canceled. It is recommended to withdraw any assets and delete wallet information before deletion. Once a deletion request is processed, data is kept for up to two years, due to legal requirements. If the data is not requested for review after two years, it is all deleted permanently.",
+        "domains": [
+            "kucoin.com"
+        ]
+    },
+
+    {
         "name": "Kununu",
         "url": "https://www.kununu.com/user/delete",
         "difficulty": "easy",
@@ -20189,6 +20199,16 @@
     },
 
     {
+        "name": "SketchUp",
+        "url": "https://privacy.sketchup.com/email-form",
+        "difficulty": "hard",
+        "notes": "Fill in the details requested by the linked form (First and Last name, e-Mail address, and \"Please delete my SketchUp account\" as comment), then click \"Submit\".",
+        "domains": [
+            "sketchup.com"
+        ]
+    },
+
+    {
         "name": "Skiddle",
         "url": "https://www.skiddle.com/skiddlepeople/removeaccount.php",
         "difficulty": "easy",
@@ -23933,6 +23953,16 @@
         "notes": "You need to log into their billing panel and send a ticket regarding the account deletion.",
         "domains": [
             "volcanohosting.net"
+        ]
+    },
+
+    {
+        "name": "Volet",
+        "url": "https://support.volet.com/hc/en-us/articles/360021927159-Closing-your-account",
+        "difficulty": "medium",
+        "notes": "Follow the instructions on the linked page. Due to legal limitations, after closing an account, it will be blocked for 7 years. During this time, the account can be unblocked. After the 7 years, if the account hasn't been unblocked, its data will be automatically deleted.",
+        "domains": [
+            "volet.com"
         ]
     },
 
