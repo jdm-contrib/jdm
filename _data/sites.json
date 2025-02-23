@@ -12305,6 +12305,16 @@
     },
 
     {
+        "name": "Kucoin",
+        "url": "https://www.kucoin.com/support/17881088289305",
+        "difficulty": "medium",
+        "notes": "Follow the instructions presented in the linked page. Any pending transactions will be canceled. It is recommended to withdraw any assets and delete wallet information before deletion. Once a deletion request is processed, data is kept for up to two years, due to legal requirements. If the data is not requested for review after two years, it is all deleted permanently.",
+        "domains": [
+            "kucoin.com"
+        ]
+    },
+
+    {
         "name": "Kununu",
         "url": "https://www.kununu.com/user/delete",
         "difficulty": "easy",
