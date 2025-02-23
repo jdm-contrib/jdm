@@ -18014,6 +18014,16 @@
     },
 
     {
+        "name": "Premier League",
+        "url": "https://www.premierleague.com/news/844577",
+        "difficulty": "easy",
+        "notes": "Go to the Manage Profile page and click 'Delete My Account'. Enter your password and click confirm.",
+        "domains": [
+            "premierleague.com"
+        ]
+    },
+
+    {
         "name": "Premiumize.me",
         "url": "https://www.premiumize.me/deleteaccount",
         "difficulty": "easy",
