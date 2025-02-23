@@ -25474,13 +25474,16 @@
     {
         "name": "Yelp",
         "meta": "popular",
-        "url": "https://www.yelp.co.uk/contact?topic=support&subtopic=close",
-        "notes": "Closing your account does not remove all data. To request deletion of data associated with your account, you must email [dataprotection@yelp.com](mailto:dataprotection@yelp.com). Additional information can be found here: [Yelp - Support Center - How do I close my account?](https://www.biz.yelp.com/support-center/article/How-do-I-close-my-account).",
+        "url": "https://www.yelp.com/support/contact/account_closure",
+        "url_es": "https://www.yelp.es/support/contact/account_closure",
+        "notes": "Closing your account does not remove all data. To delete the data associated with your account, you must email them. Additional information can be found here: [Yelp - Support Center - How do I close my account?](https://www.biz.yelp.com/support-center/article/How-do-I-close-my-account).",
+        "notes_es": "Cerrar su cuenta no elimina sus datos. Para eliminar los datos asociados con su cuenta, debe enviar un correo electrónico a ellos. Puede encontrar información addicional aquí, pero sólo en ínglés: [Yelp - Support Center - How do I close my account?](https://www.biz.yelp.com/support-center/article/How-do-I-close-my-account).",
         "difficulty": "hard",
         "domains": [
             "yelp.ca",
             "yelp.co.uk",
-            "yelp.com"
+            "yelp.com",
+            "yelp.es"
         ],
         "email": "dataprotection@yelp.com",
         "email_subject": "Account Data Deletion Request",
