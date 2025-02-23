@@ -23145,6 +23145,17 @@
     },
 
     {
+        "name": "TypeRacer",
+        "url": "https://data.typeracer.com/pit/delete_account",
+        "difficulty": "easy",
+        "notes": "Log in and go to the main page. Click on the gear button, next to the logout button to access your \"Account Information\". Then expand \"Account Settings\" and click on \"Delete Account\". You will be redirected to the account deletion page.",
+        "notes_fr": "Connectez-vous et rendez-vous sur la page d'accueil du site. Cliquez sur l'icone de roue dentée juste à gauche du bouton de déconnexion. Cliquez sur \"Account Settings\" puis sur \"Delete Account\". Vous serez redirigé vers la page de suppression de votre compte.",
+        "domains": [
+            "typeracer.com"
+        ]
+    },
+
+    {
         "name": "Typing.com",
         "url": "https://www.typing.com/student/account",
         "difficulty": "easy",
