@@ -17280,7 +17280,7 @@
         "url": "https://www.pearson.com/privacy-center/privacy-notices/full-privacy-notice.html#12",
         "difficulty": "limited",
         "email": "dataprivacy@pearson.com",
-        "notes": "For general questions and requests you can email. Information for how to make a CCPA request is located here: 'https://www.pearson.com/en-us/legal-information/california-consumer-rights.html'",
+        "notes": "For general questions and requests you can email. Information for how to make a CCPA request is located [here](https://www.pearson.com/en-us/legal-information/california-consumer-rights.html)",
         "domains": [
             "pearson.com",
             "console.pearson.com"
