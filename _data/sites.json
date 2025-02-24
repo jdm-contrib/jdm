@@ -11679,6 +11679,16 @@
     },
 
     {
+        "name": "JetBrains Space",
+        "url": "https://space-support.jetbrains.com/hc/en-us/requests/new",
+        "difficulty": "medium",
+        "notes": "Submit a request to delete your Space instance. Provide your email and the domain name to delete (should be your username). Then choose anything in \"Request Type\" and the \"Cloud\" option in \"Installation Type\". An update email will be sent (in a few hours) that confirms the termination.",
+        "domains": [
+            "jetbrains.space"
+        ]
+    },
+
+    {
         "name": "Jezebel",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
