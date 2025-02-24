@@ -11677,6 +11677,16 @@
     },
 
     {
+        "name": "JetBrains Space",
+        "url": "https://space-support.jetbrains.com/hc/en-us/requests/new",
+        "difficulty": "medium",
+        "notes": "Submit a request to delete your Space instance. Provide your email and the domain name to delete (should be your username). Then choose anything in \"Request Type\" and the \"Cloud\" option in \"Installation Type\". An update email will be sent (in a few hours) that confirms the termination.",
+        "domains": [
+            "jetbrains.space"
+        ]
+    },
+
+    {
         "name": "Jezebel",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
@@ -21806,6 +21816,19 @@
     },
 
     {
+        "name": "Tanki Online",
+        "url": "https://tankionline.com",
+        "difficulty": "hard",
+        "notes": "You have to contact the support team by mail.",
+        "email": "help@tankionline.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Hi there, I request to remove all of my personal data associated with my account.",
+        "domains": [
+            "tankionline.com"
+        ]
+    },
+
+    {
         "name": "Tapas",
         "url": "https://tapas.io/profile/settings",
         "difficulty": "easy",
@@ -25580,6 +25603,16 @@
         "domains": [
             "yousician.com",
             "account.yousician.com"
+        ]
+    },
+
+    {
+        "name": "YouTrack",
+        "url": "https://hub.jetbrains.com/users/me",
+        "difficulty": "impossible",
+        "notes": "You cannot delete your account, but anonymize your data. In your Profile settings page, on the top-right corner there is an \"anonymize user\" button. Click it, then your name&uesrname will be anonymized and e-mail will be removed.",
+        "domains": [
+            "youtrack.jetbrains.com"
         ]
     },
 
