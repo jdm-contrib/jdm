@@ -9678,7 +9678,7 @@
         "email": "help@gradescope.com",
         "url": "https://guides.gradescope.com/hc/en-us/articles/21587242755341-Editing-Your-Account",
         "difficulty": "hard",
-        "notes": "Send an account deletion request to the provided email.",
+        "notes": "Send an account deletion request to the provided email. The process will take several days since they need to contact the school/organization linked to your account to request deletion.",
         "domains": [
             "gradescope.com"
         ]
