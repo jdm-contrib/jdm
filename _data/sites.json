@@ -10872,7 +10872,7 @@
         "email": "privacyisimportant@macmillan.com",
         "url": "https://mhe.my.site.com/iclicker/s/contactsupport",
         "difficulty": "hard",
-        "notes": "Send an email to the provided address and request deletion of your iClicker account.",
+        "notes": "Send an email to the provided address and request deletion of your iClicker account. You may need to request deletion through the school/organization that is linked to your account in order for them to begin processing the deletion request.",
         "domains": [
             "student.iclicker.com",
             "iclicker.com"
