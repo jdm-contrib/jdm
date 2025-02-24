@@ -10089,16 +10089,6 @@
     },
 
     {
-        "name": "Harvard Business Publishing Education",
-        "url": "https://hbsp.harvard.edu/privacy-policy/#8",
-        "difficulty": "medium",
-        "notes": "Login to your account and navigate to \"General Data Protection Regulation\" on the Privacy Policy page. A form will appear to submit a request to delete your data.",
-        "domains": [
-            "hbsp.harvard.edu"
-        ]
-    },
-
-    {
         "name": "Hark Audio",
         "url": "https://harkaudio.com/support",
         "difficulty": "hard",
@@ -10119,6 +10109,16 @@
         "notes": "Contact them through email or phone and ask for account to be deleted",
         "domains": [
             "harney.com"
+        ]
+    },
+
+    {
+        "name": "Harvard Business Publishing Education",
+        "url": "https://hbsp.harvard.edu/privacy-policy/#8",
+        "difficulty": "medium",
+        "notes": "Login to your account and navigate to \"General Data Protection Regulation\" on the Privacy Policy page. A form will appear to submit a request to delete your data.",
+        "domains": [
+            "hbsp.harvard.edu"
         ]
     },
 
