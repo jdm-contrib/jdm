@@ -21818,6 +21818,19 @@
     },
 
     {
+        "name": "Tanki Online",
+        "url": "https://tankionline.com",
+        "difficulty": "hard",
+        "notes": "You have to contact the support team by mail.",
+        "email": "help@tankionline.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Hi there, I request to remove all of my personal data associated with my account.",
+        "domains": [
+            "tankionline.com"
+        ]
+    },
+    
+    {
         "name": "Tapas",
         "url": "https://tapas.io/profile/settings",
         "difficulty": "easy",
