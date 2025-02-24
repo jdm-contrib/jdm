@@ -1455,14 +1455,12 @@
 
     {
         "name": "Any.do",
-        "url": "https://support.any.do/account-and-profile/",
-        "difficulty": "medium",
-        "notes": "You can only delete your account via the mobile app: install the app, log in, click Profile, click Delete Account.",
-        "notes_ru": "Вы можете удалить свою учетную запись только через мобильное приложение: установите приложение, войдите в систему, нажмите «Профиль», затем «Удалить учетную запись».",
-        "notes_tr": "Hesabınızı yalnızca mobil uygulamadan silebilirsiniz: Uygulamayı indirin, giriş yapın, \"Profil\" yerine girin ve \"Hesabı Sil\" tuşuna basın.",
+        "url": "https://app.any.do/",
+        "difficulty": "easy",
+        "notes": "For immediate account deletion, in Web/Mobile: Settings(⚙️) → Profile → Delete Account.",
         "domains": [
             "any.do",
-            "support.any.do"
+            "app.any.do"
         ]
     },
 
