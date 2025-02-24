@@ -25577,6 +25577,16 @@
     },
 
     {
+        "name": "YouTrack",
+        "url": "https://hub.jetbrains.com/users/me",
+        "difficulty": "impossible",
+        "notes": "You cannot delete your account, but anonymize your data. In your Profile settings page, on the top-right corner there is an \"anonymize user\" button. Click it, then your name&uesrname will be anonymized and e-mail will be removed.",
+        "domains": [
+            "youtrack.jetbrains.com"
+        ]
+    },
+    
+    {
         "name": "YouTube",
         "meta": "popular",
         "url": "https://myaccount.google.com/deleteservices",
