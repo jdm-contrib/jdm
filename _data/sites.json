@@ -17939,6 +17939,16 @@
     },
 
     {
+        "name": "PokeMMO",
+        "url": "https://support.pokemmo.com/knowledgebase/article/account-deletion",
+        "difficulty": "hard",
+        "notes": "On their Support page, log in and create a new ticket with Ticket Type 'Support Requests' and Sub Type 'Account Deletion' to request account deletion.",
+        "domains": [
+            "pokemmo.com"
+        ]
+    },
+
+    {
         "name": "Pokémon GO",
         "url": "https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3518-how-do-i-delete-my-pokemon-go-account-1656453288/",
         "difficulty": "easy",
