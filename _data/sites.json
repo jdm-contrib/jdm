@@ -1091,6 +1091,19 @@
     },
 
     {
+        "name": "Altium",
+        "email": "data.compliance@altium.com",
+        "url": "https://www.altium.com/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Send an account deletion request to the provided email.",
+        "domains": [
+            "altium.com",
+            "live.altium.com",
+            "365.altium.com"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "https://alvanista.com/profile/edit",
         "difficulty": "easy",
@@ -3899,10 +3912,9 @@
 
     {
         "name": "Cengage",
-        "url": "https://cengage.force.com/s/",
-        "difficulty": "hard",
-        "notes": "Contact support over the phone or via live chat. Your case will need to be escalated to close the account, and it may take a few days. Otherwise, the account will automatically be deleted after 5 years of inactivity.",
-        "notes_tr": "Destek birimine telefonla veya canlı destek aracılığı ile iletişime geçin. Hesabı kapatmak için durumunuzun iletilmesi gerekecek ve bu birkaç gün sürebilir. Aksi takdirde, hesap 5 yıl sonra hareketsizlikten otomatik olarak silinecektir.",
+        "url": "https://cengage.my.site.com/s/rtbf",
+        "difficulty": "medium",
+        "notes": "Complete the \"Privacy Rights Request Form\" for the \"Right to Delete/Right to be Forgotten\". Otherwise, the account will automatically be deleted after 5 years of inactivity (or 1 year for minors).",
         "domains": [
             "cengage.com"
         ]
@@ -9671,6 +9683,17 @@
     },
 
     {
+        "name": "Gradescope",
+        "email": "help@gradescope.com",
+        "url": "https://guides.gradescope.com/hc/en-us/articles/21587242755341-Editing-Your-Account",
+        "difficulty": "hard",
+        "notes": "Send an account deletion request to the provided email. The process will take several days since they need to contact the school/organization linked to your account to request deletion.",
+        "domains": [
+            "gradescope.com"
+        ]
+    },
+
+    {
         "name": "Graduate-Jobs.com",
         "url": "https://www.graduate-jobs.com/sign-in/account/settings",
         "difficulty": "easy",
@@ -10095,6 +10118,16 @@
         "notes": "Contact them through email or phone and ask for account to be deleted",
         "domains": [
             "harney.com"
+        ]
+    },
+
+    {
+        "name": "Harvard Business Publishing Education",
+        "url": "https://hbsp.harvard.edu/privacy-policy/#8",
+        "difficulty": "medium",
+        "notes": "Login to your account and navigate to \"General Data Protection Regulation\" on the Privacy Policy page. A form will appear to submit a request to delete your data.",
+        "domains": [
+            "hbsp.harvard.edu"
         ]
     },
 
@@ -10840,6 +10873,18 @@
         "difficulty": "hard",
         "domains": [
             "iceland.co.uk"
+        ]
+    },
+
+    {
+        "name": "iClicker",
+        "email": "privacyisimportant@macmillan.com",
+        "url": "https://mhe.my.site.com/iclicker/s/contactsupport",
+        "difficulty": "hard",
+        "notes": "Send an email to the provided address and request deletion of your iClicker account. You may need to request deletion through the school/organization that is linked to your account in order for them to begin processing the deletion request.",
+        "domains": [
+            "student.iclicker.com",
+            "iclicker.com"
         ]
     },
 
@@ -12244,6 +12289,17 @@
         "domains": [
             "kleinanzeigen.de",
             "themen.kleinanzeigen.de"
+        ]
+    },
+
+    {
+        "name": "Knetbooks",
+        "email": "privacyrequest@knetbooks.com",
+        "url": "https://www.knetbooks.com/account/settings",
+        "difficulty": "hard",
+        "notes": "Send an account deletion request to the provided email.",
+        "domains": [
+            "knetbooks.com"
         ]
     },
 
@@ -17235,6 +17291,18 @@
         "email": "support@peak.net",
         "domains": [
             "www.peak.net"
+        ]
+    },
+
+    {
+        "name": "Pearson",
+        "url": "https://www.pearson.com/privacy-center/privacy-notices/full-privacy-notice.html#12",
+        "difficulty": "limited",
+        "email": "dataprivacy@pearson.com",
+        "notes": "For general questions and requests you can email. Information for how to make a CCPA request is located [here](https://www.pearson.com/en-us/legal-information/california-consumer-rights.html)",
+        "domains": [
+            "pearson.com",
+            "console.pearson.com"
         ]
     },
 
@@ -26017,7 +26085,7 @@
         "url": "https://www.zybooks.com/privacy-policy",
         "difficulty": "hard",
         "notes": "Submit a deletion request by emailing them or calling +1-833-719-2300.",
-        "email": "info@zybooks.com",
+        "email": "support@zybooks.com",
         "domains": [
             "zybooks.com"
         ]
