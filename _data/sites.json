@@ -17138,7 +17138,7 @@
         "name": "Payback",
         "url": "https://www.payback.de/info/mein-payback/kontakt",
         "difficulty": "hard",
-        "notes": "According to their help page, you need to contanct their Service-Center",
+        "notes": "According to their help page, you need to contact their Service-Center",
         "domains": [
             "payback.de"
         ]
@@ -17930,11 +17930,21 @@
         "name": "Points.com",
         "url": "https://www.points.com/pdccontent/salesforce/",
         "difficulty": "hard",
-        "notes": "Must contact support through Contanct form or online chat.",
+        "notes": "Must contact support through contact form or online chat.",
         "notes_tr": "İletişim formu veya çevrim içi sohbet yoluyla destek ile iletişime geçmelisiniz.",
         "notes_fr": "Il faut contacter le support via le formulaire de contact ou le tchat en ligne.",
         "domains": [
             "points.com"
+        ]
+    },
+
+    {
+        "name": "PokeMMO",
+        "url": "https://support.pokemmo.com/knowledgebase/article/account-deletion",
+        "difficulty": "hard",
+        "notes": "On their Support page, log in and create a new ticket with Ticket Type 'Support Requests' and Sub Type 'Account Deletion' to request account deletion.",
+        "domains": [
+            "pokemmo.com"
         ]
     },
 
