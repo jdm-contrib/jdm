@@ -4211,6 +4211,17 @@
     },
 
     {
+        "name": "Classy",
+        "url": "https://preferences.gofundme.com/form/deletion",
+        "difficulty": "medium",
+        "notes": "Fill out the form and submit the request to delete your account and data. If you need to change the country of residence, click on the 'Back to Privacy Request Center' link, change your country of origin, then return to the form and submit. After, you will receive an email to the listed address containing a link that you must click to confirm the email address and finish the process.",
+        "notes_es": "Rellene el formulario y envíe la solicitud para eliminar su cuenta y sus datos. Si requiere cambiar el país de residencía, haga clic en el enlace con el texto 'Back to Privacy Request Center', cambie tu país y regrese al formulario y envar. Después recibirá un correo electrónico al dirección de correo electrónico usado con un enlace que debe hacer clic para confirmar la dirección de correo electrónico y completar el proceso.",
+        "domains": [
+            "preferences.gofundme.com"
+        ]
+    },
+
+    {
         "name": "CleverReach",
         "url": "https://www.cleverreach.com",
         "difficulty": "hard",
