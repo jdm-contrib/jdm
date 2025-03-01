@@ -10563,6 +10563,18 @@
     },
 
     {
+        "name": "HostJane",
+        "url": "https://www.hostjane.com/marketplace/settings/close",
+        "difficulty": "easy",
+        "notes": "Sign in to your HostJane marketplace account, enter your secret answer, enter a reason, then click on 'Proceed to Schedule Deletion' and follow on-screen instructions to confirm account deletion. After [30 days has elapsed](https://help.hostjane.com/getting-started/#how-do-i-close-or-delete-my-account), your account will be automatically deleted. [HostJane Hosting account](https://cloud.hostjane.com/hosting/login) deletion requires [opening a deletion ticket](https://www.hostjane.com/marketplace/contact) with customer support. See also HostJane [privacy policy](https://www.hostjane.com/legal/privacy/).",
+        "domains": [
+            "hostjane.com",
+            "cloud.hostjane.com",
+            "help.hostjane.com"
+        ]
+    },
+
+    {
         "name": "Hot or Not",
         "url": "https://hotornot.com",
         "difficulty": "easy",
