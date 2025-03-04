@@ -1091,6 +1091,19 @@
     },
 
     {
+        "name": "AltTextGeneratorAI",
+        "url": "https://alttextgeneratorai.com/terms-of-use",
+        "difficulty": "hard",
+        "notes": "Send us an email at balt1794@gmail.com with the subject and body of Account Deletion Request. After receiving the email, your account will be deleted in the next 24 hours.",
+        "email": "balt1794@gmail.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Account Deletion Request",
+        "domains": [
+            "alttextgeneratorai.com",
+        ]
+    },
+
+    {
         "name": "Altium",
         "email": "data.compliance@altium.com",
         "url": "https://www.altium.com/privacy-policy",
@@ -18260,6 +18273,19 @@
     },
 
     {
+        "name": "PropertyListingsAI",
+        "url": "https://propertylistingsai.com/terms-of-use",
+        "difficulty": "hard",
+        "notes": "Send us an email at balt1794@gmail.com with the subject and body of Account Deletion Request. After receiving the email, your account will be deleted in the next 24 hours.",
+        "email": "balt1794@gmail.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Account Deletion Request",
+        "domains": [
+            "propertylistingsai.com",
+        ]
+    },
+
+    {
         "name": "Prosper",
         "url": "https://www.prosper.com/secure/account/borrower/close_account.aspx",
         "difficulty": "easy",
@@ -19106,6 +19132,19 @@
         ]
     },
 
+    {
+        "name": "ResumeBoostAI",
+        "url": "https://resumeboostai.com/privacy",
+        "difficulty": "hard",
+        "notes": "Send us an email at balt1794@gmail.com with the subject and body of Account Deletion Request. After receiving the email, your account will be deleted in the next 24 hours.",
+        "email": "balt1794@gmail.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Account Deletion Request",
+        "domains": [
+            "resumeboostai.com",
+        ]
+    },
+    
     {
         "name": "ResumeGenius",
         "url": "https://app.resumegenius.com/data-access/personal-data",
