@@ -1094,10 +1094,7 @@
         "name": "AltTextGeneratorAI",
         "url": "https://alttextgeneratorai.com/terms-of-use",
         "difficulty": "hard",
-        "notes": "Send us an email at balt1794@gmail.com with the subject and body of Account Deletion Request. After receiving the email, your account will be deleted in the next 24 hours.",
-        "email": "balt1794@gmail.com",
-        "email_subject": "Account Deletion Request",
-        "email_body": "Account Deletion Request",
+        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
         "domains": [
             "alttextgeneratorai.com",
         ]
@@ -18276,10 +18273,7 @@
         "name": "PropertyListingsAI",
         "url": "https://propertylistingsai.com/terms-of-use",
         "difficulty": "hard",
-        "notes": "Send us an email at balt1794@gmail.com with the subject and body of Account Deletion Request. After receiving the email, your account will be deleted in the next 24 hours.",
-        "email": "balt1794@gmail.com",
-        "email_subject": "Account Deletion Request",
-        "email_body": "Account Deletion Request",
+        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
         "domains": [
             "propertylistingsai.com",
         ]
@@ -19136,10 +19130,7 @@
         "name": "ResumeBoostAI",
         "url": "https://resumeboostai.com/privacy",
         "difficulty": "hard",
-        "notes": "Send us an email at balt1794@gmail.com with the subject and body of Account Deletion Request. After receiving the email, your account will be deleted in the next 24 hours.",
-        "email": "balt1794@gmail.com",
-        "email_subject": "Account Deletion Request",
-        "email_body": "Account Deletion Request",
+        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
         "domains": [
             "resumeboostai.com",
         ]
@@ -23869,6 +23860,16 @@
         "domains": [
             "viber.com",
             "help.viber.com"
+        ]
+    },
+
+    {
+        "name": "VideosGeneratorAI",
+        "url": "https://videosgeneratorai.com/terms-of-use",
+        "difficulty": "hard",
+        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
+        "domains": [
+            "videosgeneratorai.com",
         ]
     },
 
