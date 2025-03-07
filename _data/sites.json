@@ -25996,6 +25996,16 @@
     },
 
     {
+        "name": "ZenMarket",
+        "url": "https://zenmarket.jp/en/help.aspx",
+        "difficulty": "hard",
+        "notes": "You must contact support to request account deletion.",
+        "domains": [
+            "zenmarket.jp"
+        ]
+    },
+
+    {
         "name": "Zeplin",
         "url": "https://app.zeplin.io/profile/account",
         "difficulty": "medium",
