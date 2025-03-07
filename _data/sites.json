@@ -1091,19 +1091,6 @@
     },
 
     {
-        "name": "AltTextGeneratorAI",
-        "url": "https://alttextgeneratorai.com/terms-of-use",
-        "difficulty": "hard",
-        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
-        "email": "balt1794@gmail.com",
-        "email_subject": "Account Deletion Request",
-        "email_body": "Account Deletion Request",
-        "domains": [
-            "alttextgeneratorai.com"
-        ]
-    },
-
-    {
         "name": "Altium",
         "email": "data.compliance@altium.com",
         "url": "https://www.altium.com/privacy-policy",
@@ -1113,6 +1100,19 @@
             "altium.com",
             "live.altium.com",
             "365.altium.com"
+        ]
+    },
+
+    {
+        "name": "AltTextGeneratorAI",
+        "url": "https://alttextgeneratorai.com/terms-of-use",
+        "difficulty": "hard",
+        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
+        "email": "balt1794@gmail.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Account Deletion Request",
+        "domains": [
+            "alttextgeneratorai.com"
         ]
     },
 
