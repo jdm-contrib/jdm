@@ -1104,6 +1104,19 @@
     },
 
     {
+        "name": "AltTextGeneratorAI",
+        "url": "https://alttextgeneratorai.com/terms-of-use",
+        "difficulty": "hard",
+        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
+        "email": "balt1794@gmail.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Account Deletion Request",
+        "domains": [
+            "alttextgeneratorai.com"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "https://alvanista.com/profile/edit",
         "difficulty": "easy",
@@ -18260,6 +18273,19 @@
     },
 
     {
+        "name": "PropertyListingsAI",
+        "url": "https://propertylistingsai.com/terms-of-use",
+        "difficulty": "hard",
+        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
+        "email": "balt1794@gmail.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Account Deletion Request",
+        "domains": [
+            "propertylistingsai.com"
+        ]
+    },
+
+    {
         "name": "Prosper",
         "url": "https://www.prosper.com/secure/account/borrower/close_account.aspx",
         "difficulty": "easy",
@@ -19103,6 +19129,19 @@
         "domains": [
             "reservio.com",
             "app.reservio.com"
+        ]
+    },
+
+    {
+        "name": "ResumeBoostAI",
+        "url": "https://resumeboostai.com/privacy",
+        "difficulty": "hard",
+        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
+        "email": "balt1794@gmail.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Account Deletion Request",
+        "domains": [
+            "resumeboostai.com"
         ]
     },
 
@@ -23830,6 +23869,19 @@
         "domains": [
             "viber.com",
             "help.viber.com"
+        ]
+    },
+
+    {
+        "name": "VideosGeneratorAI",
+        "url": "https://videosgeneratorai.com/terms-of-use",
+        "difficulty": "hard",
+        "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
+        "email": "balt1794@gmail.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Account Deletion Request",
+        "domains": [
+            "videosgeneratorai.com"
         ]
     },
 
