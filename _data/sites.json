@@ -6911,6 +6911,16 @@
     },
 
     {
+        "name": "ELSA Speak",
+        "url": "https://elsaspeak.com/app/account",
+        "difficulty": "easy",
+        "notes": "(Desktop version) Click the \"Delete my account\" button and follow the simple instructions.",
+        "domains": [
+            "elsaspeak.com"
+        ]
+    },
+
+    {
         "name": "Elsevier",
         "url": "https://service.elsevier.com/app/answers/detail/a_id/30148/supporthub/ecommerce/~/how-do-i-request-deletion-of-my-elsevier.com-account",
         "difficulty": "hard",
