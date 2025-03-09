@@ -11188,14 +11188,9 @@
 
     {
         "name": "IndieGala",
-        "url": "https://docs.indiegala.com/support/contacts.html",
+        "url": "https://docs.indiegala.com/support/contacts.html#customer-support",
         "difficulty": "hard",
-        "notes": "Contact the customer support via email and request the deletion of your account. In order for them to identify your account, make the request through the same email address that you have used to create your IndieGala account.",
-        "notes_tr": "Müşteri desteği ile e-posta yoluyla iletişime geçin ve hesabınızın silinmesini isteyin. Hesabınızı tanımlamaları için, IndieGala hesabınızı oluştururken kullandığınız e-posta adresiyle istekte bulunun.",
-        "notes_pt-BR": "Entre em contato com o suporte via e-mail e solicite que sua conta seja excluída. Para que eles possam identificar sua conta, faça a requisição a partir da mesma conta de e-mail que você usou para criar sua conta IndieGala.",
-        "email": "support@indiegala.com",
-        "email_subject": "[ Permanently Account Deletion Request ]",
-        "email_body": "I have no further interest in using the services provided by IndieGala, so I would like my account to be permanently deleted.",
+        "notes": "Log into their Discord server and go to the \"customer-support\" channel. Type a message requesting account deletion. After a while a new ticket channel will be created (only you and the administrators can see it). You will be asked for your email and once you provide it they will delete your account",
         "domains": [
             "indiegala.com",
             "docs.indiegala.com"
