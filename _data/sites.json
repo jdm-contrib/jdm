@@ -1235,6 +1235,16 @@
     },
 
     {
+        "name": "American Airlines",
+        "url": "https://privacyportal.aa.com/",
+        "difficulty": "easy",
+        "notes": "You can request data erasure in the given privacy portal.",
+        "domains": [
+            "aa.com"
+        ]
+    },
+
+    {
         "name": "AmiAmi",
         "url": "https://support.amiami.com/hc/en-us/requests/new",
         "difficulty": "hard",
