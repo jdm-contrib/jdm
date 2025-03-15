@@ -6455,7 +6455,8 @@
         "notes": "Scroll down and click \"ERASE PERSONAL DATA\". You will receive an e-mail in which you have to click the link after \"Delete my data link:\". This confirms the erasure of your personal data and account.",
         "domains": [
             "duolingo.com",
-            "drive-thru.duolingo.com"
+            "drive-thru.duolingo.com",
+            "schools.duolingo.com"
         ]
     },
 
