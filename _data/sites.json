@@ -4931,6 +4931,18 @@
     },
 
     {
+        "name": "Covoitéo par Karos",
+        "url": "https://moncompte.tisseo.fr/fr/questions-frequentes?question=comment-supprimer-mon-compte-covoiteo",
+        "difficulty": "easy",
+        "notes": "To delete your account, go at the bottom of the \"Help\" category, and click on \"Delete my account\".",
+        "notes_fr": "Pour supprimer votre compte, rendez-vous en bas de la rubrique \"Aide\", et cliquez sur \"Supprimer mon compte\". ",
+        "domains": [
+            "tisseo.fr",
+            "covoiteo.info"
+        ]
+    },
+
+    {
         "name": "Cracker Barrel",
         "url": "http://www.crackerbarrel.com/privacy",
         "difficulty": "hard",
@@ -22634,6 +22646,17 @@
         "domains": [
             "tinyletter.com",
             "app.tinyletter.com"
+        ]
+    },
+
+    {
+        "name": "Tisséo",
+        "url": "https://moncompte.tisseo.fr/fr/questions-frequentes?question=comment-supprimer-mon-compte",
+        "difficulty": "hard",
+        "notes": "You need to send a request to the support",
+        "notes_fr": "Vous devez envoyer une requète au support",
+        "domains": [
+            "tisseo.fr"
         ]
     },
 
