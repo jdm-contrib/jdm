@@ -15853,6 +15853,16 @@
             "niche.com"
         ]
     },
+    {
+        "name": "Nike",
+        "url": "https://www.nike.com/pt/member/settings",
+        "difficulty": "easy",
+        "notes": "Click on your name on the right top of the screen, then click in 'Minha Conta', on field 'Meu Cadastro' click in 'Alterar dados pessoais', select 'Editar', on the bottom of the page, click on 'Excluir Conta'.",
+	    "notes_pt-BR": "Clique no seu nome no canto superior direito da tela, depois clique em 'Minha Conta', no campo 'Meu Cadastro' clique em 'Alterar dados pessoais', selecione 'Editar', no final da página clique em 'Excluir Conta'.",
+        "domains": [
+           "nike.com.br"
+        ]
+    },
 
     {
         "name": "Nike+",
@@ -15866,8 +15876,7 @@
             "secure-nikeplus.nike.com"
         ]
     },
-
-    {
+       {
         "name": "Ninox",
         "url": "https://ninoxdb.de/de/support/contactus",
         "difficulty": "hard",
@@ -25944,6 +25953,17 @@
     },
 
     {
+        "name": "Zap Imóveis",
+        "url": "https://privacidade.zapimoveis.com.br/?itl_id=1000129&itl_name=zap_-_link-footer_portal-de-privacidade_to_zap_login",
+        "difficulty": "easy",
+        "notes": "Access the link and click on 'Excluir Conta'",
+        "notes_pt-BR": "Acesse o link e clique em 'Excluir Conta'",
+        "domains": [
+            "zapimoveis.com.br",
+            "olx.com.br"
+        ]
+    },
+    {
         "name": "Zapier",
         "url": "https://zapier.com/app/settings/advanced/delete",
         "difficulty": "easy",
@@ -25954,7 +25974,6 @@
             "zapier.com"
         ]
     },
-
     {
         "name": "Zappos",
         "url": "https://www.zappos.com/c/contact-us",
