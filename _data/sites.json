@@ -23844,7 +23844,7 @@
 
     {
         "name": "Venmo",
-        "url": "https://account.venmo.com/settings/profile",
+        "url": "https://account.venmo.com/settings/profile/cancel/confirm",
         "difficulty": "easy",
         "domains": [
             "venmo.com",
