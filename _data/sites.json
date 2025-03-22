@@ -3469,7 +3469,7 @@
         "name": "Bukalapak",
         "url": "https://www.bukalapak.com",
         "difficulty": "medium",
-        "notes": "Open Akun (Account)>BukaBantuan (Open Help)>In Akun & Info Personal (Account & Personal Info), tap Selanjutnya (Next)>Tap Menonaktifkan Akun (Disable Account)>Tap Isi Form Bantuan (Type on Help Form)>Explain the reason why you delete it>Tap Kirim (Send).",
+        "notes": "Open Akun (Account)⮕BukaBantuan (Open Help)⮕In Akun & Info Personal (Account & Personal Info), tap Selanjutnya (Next)⮕Tap Menonaktifkan Akun (Disable Account)⮕Tap Isi Form Bantuan (Type on Help Form)⮕Explain the reason why you delete it⮕Tap Kirim (Send).",
         "notes_tr": "\"Hesap\" \"Yardımı Aç\" \"Hesap & Kişisel Bilgiler\" \"Sonraki\" \"Hesabı Devre Dışı Bırak\" \"Yardım Formuna Yaz\" yolunu takip edin ve ardından neden silmek istediğinizi belirtin. Son olarak \"Gönder\" tuşuna tıklayın.",
         "domains": [
             "bukalapak.com"
@@ -17254,7 +17254,7 @@
         "name": "PayByPhone",
         "url": "https://support.paybyphone.com/hc/en-001/articles/13258687569553-How-do-I-delete-my-Account",
         "difficulty": "medium",
-        "notes": "You can only delete your PayByPhone account from the mobile app. To delete your account open the app and go to \"Options\" > \"Account Settings\" > \"Delete Account\".",
+        "notes": "You can only delete your PayByPhone account from the mobile app. To delete your account open the app and go to \"Options\" ⮕ \"Account Settings\" ⮕ \"Delete Account\".",
         "domains": [
             "paybyphone.com",
             "support.paybyphone.com",
@@ -20219,7 +20219,7 @@
         "name": "Shopee",
         "url": "https://www.sharelatex.com/user/settings",
         "difficulty": "medium",
-        "notes": "Tap Saya (me)>Akun Saya (My account)>Ajukan Penghapusan akun (Submit Account removal/Submit Account Deletion).",
+        "notes": "Tap Saya (me)⮕Akun Saya (My account)⮕Ajukan Penghapusan akun (Submit Account removal/Submit Account Deletion).",
         "notes_tr": "\"Ben\" \"Hesabım\" \"Hesap Silmeyi Gönder\" tuşuna tıklayın.",
         "domains": [
             "shopee.com"
@@ -22640,7 +22640,7 @@
         "meta": "popular",
         "url": "https://www.tiktok.com",
         "difficulty": "medium",
-        "notes": "Tap account (with people depicton, on the bottom right edge)>Menu (on top right edge)>Privacy and Settings>Privacy and Safety>Delete Account>Next>Continue>Delete Account.",
+        "notes": "Tap account (with people depicton, on the bottom right edge)⮕Menu (on top right edge)⮕Privacy and Settings⮕Privacy and Safety⮕Delete Account⮕Next⮕Continue⮕Delete Account.",
         "notes_tr": "\"Hesap\" \"Menü\" \"Gizlilik Ayarları\" \"Gizlilik ve Güvenlik\" \"Hesabı Sil\" \"Sonraki\" \"Devam Et\" \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
             "tiktok.com"
@@ -24360,7 +24360,7 @@
         "name": "Vuforia Chalk",
         "url": "https://support.ptc.com/help/vuforia/chalk_app_center/index.html#page/Vuforia_Chalk_Admin_Center/common/delete_account.html",
         "difficulty": "easy",
-        "notes": "To request that your Chalk account be deleted, open the Chalk app and navigate to Settings > My Account, and tap Delete Account. When a pop-up appears at the bottom of your screen, tap Request account deletion. This action will trigger a process in which a PTC Administrator will delete the specific personal or business user.  If the user account being deleted belongs to a Primary Administrator, a new Primary Administrator must be designated before the user account can be deleted. Business Account users may need to contact their company administrator. You can contact your administrator by navigating to Settings > Help > Contact Company Admin in the Chalk app.<br>Alternatively you might still be able to reach the Vuforia team at PTC by [email](mailto:vuforia-support@ptc.com) (vuforia-support@ptc.com) or get transferred by calling your regions phone number found [here]( https://support.ptc.com/company/mathsoft/).",
+        "notes": "To request that your Chalk account be deleted, open the Chalk app and navigate to Settings ⮕ My Account, and tap Delete Account. When a pop-up appears at the bottom of your screen, tap Request account deletion. This action will trigger a process in which a PTC Administrator will delete the specific personal or business user.  If the user account being deleted belongs to a Primary Administrator, a new Primary Administrator must be designated before the user account can be deleted. Business Account users may need to contact their company administrator. You can contact your administrator by navigating to Settings ⮕ Help ⮕ Contact Company Admin in the Chalk app.<br>Alternatively you might still be able to reach the Vuforia team at PTC by [email](mailto:vuforia-support@ptc.com) (vuforia-support@ptc.com) or get transferred by calling your regions phone number found [here]( https://support.ptc.com/company/mathsoft/).",
         "domains": [
             "vuforiachalk.com"
         ]
