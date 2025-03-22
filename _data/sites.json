@@ -488,7 +488,7 @@
         "name": "ActiveCampaign",
         "url": "https://ac.activehosted.com/f/2175",
         "difficulty": "hard",
-        "notes": "For account deletion requests or requests to remove all account information, submit the [Data Subject Rights Request form](https://ac.activehosted.com/f/2175). When asked \"What would you like to initiate with us?\" choose the option <b>\"I want to be forgotten, and want my personal data erased\"</b>.",
+        "notes": "For account deletion requests or requests to remove all account information, submit the [Data Subject Rights Request form](https://ac.activehosted.com/f/2175). When asked \"What would you like to initiate with us?\" choose the option **\"I want to be forgotten, and want my personal data erased\"**.",
         "notes_ru": "Для запроса на удаление учетной записи или запроса на удаление всей информации учетной записи отправьте форму запроса прав субъекта данных. На вопрос: «Что бы вы хотели принять с нами?» выберите вариант «Я хочу, чтобы меня забыли, и хочу, чтобы мои личные данные были удалены».",
         "domains": [
             "activehosted.com",
@@ -9976,7 +9976,7 @@
         "name": "Gule Sider (Norwegian Yellow Pages)",
         "url": "https://oppdater.gulesider.no/person",
         "difficulty": "impossible",
-        "notes": "In order to change your information on Gule Sider you'll have to find your profile by searching it in the search box from the link above, and sign in using BankID. You will be able to <b>edit</b> your information. <b>You can't fully remove yourself (remove your name), but you can remove your address and phone number.</b> Some people don't have BankID, for example minors. If you are a minor without BankID, try asking your parents for help. If you're an adult/teen without BankID you're probably screwed.  Their [help page](https://www.gulesider.no/hjelp/mine-opplysninger) about changing your details seems to be out of date.",
+        "notes": "In order to change your information on Gule Sider you'll have to find your profile by searching it in the search box from the link above, and sign in using BankID. You will be able to **edit** your information. **You can't fully remove yourself (remove your name), but you can remove your address and phone number.** Some people don't have BankID, for example minors. If you are a minor without BankID, try asking your parents for help. If you're an adult/teen without BankID you're probably screwed.  Their [help page](https://www.gulesider.no/hjelp/mine-opplysninger) about changing your details seems to be out of date.",
         "domains": [
             "gulesider.no",
             "oppdater.gulesider.no"
@@ -19218,7 +19218,7 @@
         "name": "Reservio",
         "url": "https://app.reservio.com/#/business/settings",
         "difficulty": "medium",
-        "notes": "Go to the <b>Business</b> tab ⮕ <b>Settings</b>. You will find the option for the deletion of your account at the bottom of this page.",
+        "notes": "Go to the **Business** tab ⮕ **Settings**. You will find the option for the deletion of your account at the bottom of this page.",
         "domains": [
             "reservio.com",
             "app.reservio.com"
@@ -22468,7 +22468,7 @@
         "name": "Textures.com",
         "url": "https://www.textures.com/my-account/delete",
         "difficulty": "easy",
-        "notes": "If you want to permanently delete your Textures.com account, go to the [<b>Delete Account</b> tab on your account](https://www.textures.com/my-account/delete) fill out your password and press <b>Delete My Account</b>.",
+        "notes": "If you want to permanently delete your Textures.com account, go to the [**Delete Account** tab on your account](https://www.textures.com/my-account/delete) fill out your password and press **Delete My Account**.",
         "domains": [
             "textures.com"
         ]
