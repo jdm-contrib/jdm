@@ -17065,6 +17065,16 @@
     },
 
     {
+        "name": "Paperless Post",
+        "url": "https://paperlesspost.zendesk.com/hc/en-us/articles/207330096-Closing-and-Deletion-of-Your-Paperless-Post-Account",
+        "difficulty": "easy",
+        "domains": [
+            "paperlesspost.com",
+            "paperlesspost.zendesk.com"
+        ]
+    },
+
+    {
         "name": "PaperNodes",
         "url": "https://papernodes.com",
         "difficulty": "easy",
