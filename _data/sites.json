@@ -7417,7 +7417,7 @@
         "name": "Facebook Messenger",
         "url": "https://www.facebook.com/help/messenger-app/458908261952384?cms_platform=android-app&helpref=platform_switcher",
         "difficulty": "easy",
-        "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, go to your account settings and tap on <em>Delete Your Account and Information</em>.",
+        "notes": "If you logged in with your Facebook account, you can just delete that account. If you registered using your phone number, go to your account settings and tap on *Delete Your Account and Information*.",
         "domains": [
             "messenger.com"
         ]
