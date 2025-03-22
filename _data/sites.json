@@ -16727,6 +16727,16 @@
     },
 
     {
+        "name": "OpenSubtitles.com",
+        "url": "https://www.opensubtitles.com/en/users/edit",
+        "difficulty": "easy",
+        "notes": "Click 'Delete Account' and enter your password.",
+        "domains": [
+            "opensubtitles.com"
+        ]
+    },
+
+    {
         "name": "OpenTable",
         "url": "https://help.opentable.com",
         "difficulty": "hard",
