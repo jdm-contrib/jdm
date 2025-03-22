@@ -19924,6 +19924,17 @@
     },
 
     {
+        "name": "SelfWealth",
+        "url": "https://www.selfwealth.com.au/",
+        "difficulty": "hard",
+        "notes": "Contact support@selfwealth.com.au to delete your account.",
+        "email": "support@selfwealth.com.au",
+        "domains": [
+            "selfwealth.com.au"
+        ]
+    },
+
+    {
         "name": "Sellfy",
         "url": "https://sellfy.com/user/settings/account",
         "notes": "Log in first, go to the url and press 'Close Account', all products and orders will be lost, you will have to add a reason why, and depending on the option you will have to further explain",
