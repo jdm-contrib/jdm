@@ -16609,7 +16609,7 @@
         "name": "Open Collective",
         "url": "https://opencollective.com/dashboard",
         "difficulty": "easy",
-        "notes": "Navigate from the Dashboard to 'Settings' > 'Advanced' > 'Delete this account'. ",
+        "notes": "Navigate from the Dashboard to 'Settings' ⮕ 'Advanced' ⮕ 'Delete this account'. ",
         "domains": [
             "opencollective.com"
         ]
