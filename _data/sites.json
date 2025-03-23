@@ -11959,6 +11959,17 @@
     },
 
     {
+        "name": "juejin",
+        "url": "https://juejin.cn/user/settings/account",
+        "email": "support@keepersecurity.com",
+        "difficulty": "hard",
+        "notes": "Must download the app or contact customer support to delete account",
+        "domains": [
+            "juejin.cn"
+        ]
+    },
+
+    {
         "name": "Just Giving",
         "url": "https://help.justgiving.com/hc/en-us/articles/200670321-How-do-I-delete-my-account",
         "difficulty": "hard",
@@ -24230,6 +24241,16 @@
         "notes": "You need to log into their billing panel and send a ticket regarding the account deletion.",
         "domains": [
             "volcanohosting.net"
+        ]
+    },
+
+    {
+        "name": "Volcengine",
+        "url": "https://console.volcengine.com/user/logout/",
+        "difficulty": "medium",
+        "notes": "Verify your identity and then wait for 45 days.",
+        "domains": [
+            "volcengine.com"
         ]
     },
 
