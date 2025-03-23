@@ -24234,6 +24234,16 @@
     },
 
     {
+        "name": "Volcengine",
+        "url": "https://console.volcengine.com/user/logout/",
+        "difficulty": "medium",
+        "notes": "Verify your identity and then wait for 45 days.",
+        "domains": [
+            "volcengine.com"
+        ]
+    },
+
+    {
         "name": "Volet",
         "url": "https://support.volet.com/hc/en-us/articles/360021927159-Closing-your-account",
         "difficulty": "medium",
