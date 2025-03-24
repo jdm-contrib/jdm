@@ -11010,6 +11010,16 @@
     },
 
     {
+        "name": "IGDB",
+        "url": "https://www.igdb.com",
+        "difficulty": "easy",
+        "notes": "Just go to your privacy settings and press Delete Account.",
+        "domains": [
+            "igdb.com"
+        ]
+    },
+
+    {
         "name": "iHeart",
         "url": "https://help.iheart.com/hc/en-us/articles/4424516427021-How-to-Delete-your-iHeart-Account",
         "difficulty": "medium",
