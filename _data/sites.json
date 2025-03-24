@@ -18774,6 +18774,14 @@
     },
 
     {
+        "name": "RackNerd",
+        "url": "https://my.racknerd.com/submitticket.php",
+        "difficulty": "impossible",
+        "notes": "Opening a support ticket will result in your account being closed by customer support. However, you can still log in with the same account credentials, but it will show that your account is in a closed status. You will not be able to re-register using the same email address.",
+        "domains": [ "racknerd.com" ]
+    },
+
+    {
         "name": "radio.fr",
         "url": "https://www.radio.fr/#%2Fkonto_loeschen.jsf",
         "difficulty": "easy",
