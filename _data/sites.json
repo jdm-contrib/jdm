@@ -22916,6 +22916,16 @@
     },
 
     {
+        "name": "Top Universities",
+        "url": "https://www.topuniversities.com/user/account-details#accountSettings",
+        "difficulty": "easy",
+        "notes": "Click on 'Close Your Account' near the bottom of the page and follow the instructions.",
+        "domains": [
+            "topuniversities.com"
+        ]
+    },
+
+    {
         "name": "Tor Project",
         "url": "https://trac.torproject.org",
         "difficulty": "impossible",
@@ -22926,6 +22936,7 @@
             "trac.torproject.org"
         ]
     },
+    
     {
         "name": "Torn",
         "url": "https://www.torn.com/preferences.php#tab=accountClosure",
