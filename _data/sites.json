@@ -11138,6 +11138,16 @@
             "imgur.com"
         ]
     },
+ 
+    {
+        "name": "Immersive Translate",
+        "url": "https://immersivetranslate.com/profile/",
+        "difficulty": "medium",
+        "notes": "Click the 'Delete Account' link and follow the instructions sent to your email, wait 15 days after that",
+        "domains": [
+            "immersivetranslate.com"
+        ]
+    },
 
     {
         "name": "ImmiAccount (Australian Home Affairs)",
