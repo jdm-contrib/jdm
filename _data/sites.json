@@ -21368,7 +21368,8 @@
         "notes_tr": "Önce hesabın sahipliğini doğrulamanız gerekir, ardından Steam Desteği kimliğinizi doğrulamak için yanıt verecektir. Onayladıktan sonra hesabınız kilitlenecek ve ardından 30 gün içinde silinecektir. 30 gün boyunca Steam Destek ile iletişime geçerek silme işlemini iptal edebilirsiniz. Hesap adınızı tekrar kullanamazsınız.",
         "domains": [
             "steampowered.com",
-            "help.steampowered.com"
+            "help.steampowered.com",
+            "steamcommunity.com"
         ]
     },
 
