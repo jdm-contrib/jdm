@@ -10005,6 +10005,19 @@
     },
 
     {
+        "name": "guns.lol",
+        "url": "https://guns.lol",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "email": "support@guns.lol",
+        "email_subject": "Delete Account Request",
+        "email_body": "Dear guns.lol support team, I hope this message finds you well. I would like to formally request the closure and the deletion of all associated personal data and account. Below are my account details: Email Address: XXXXX@XXXXX.XXXXX, UID: XXXXX. I would appreciate it if you could process my account closure request as soon as possible. Please confirm once the account has been deleted and all associated data has been deleted. Best regards, XXXXX",
+        "domains": [
+            "guns.lol"
+        ]
+    },
+
+    {
         "name": "gutefrage",
         "email": "info@gutefrage.net",
         "url": "https://www.gutefrage.net/datenschutz",
