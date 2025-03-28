@@ -15065,6 +15065,16 @@
     },
 
     {
+        "name": "Mozilla Support",
+        "url": "https://support.mozilla.org/en-US/users/edit",
+        "difficulty": "easy",
+        "notes": "On the Edit Profile page scroll down and click Close account and delete all profile information then type your username to confirm.",
+        "domains": [
+            "support.mozilla.org"
+        ]
+    },
+
+    {
         "name": "MSI",
         "url": "https://account.msi.com/",
         "difficulty": "easy",
