@@ -13415,6 +13415,15 @@
     },
 
     {
+        "name": "LowEndTalk",
+        "url": "https://lowendtalk.com/",
+        "difficulty": "impossible",
+        "domains": [
+            "lowendtalk.com"
+        ]
+    },
+
+    {
         "name": "Lucidchart",
         "url": "https://www.lucidchart.com/users/login",
         "difficulty": "easy",
