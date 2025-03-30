@@ -23103,7 +23103,7 @@
 
     {
         "name": "Trakt",
-        "url": "https://trakt.tv/settings/data",
+        "url": "https://trakt.tv/settings/advanced",
         "difficulty": "easy",
         "domains": [
             "trakt.tv"
