@@ -26291,6 +26291,16 @@
     },
 
     {
+        "name": "Zenni Optical",
+        "url": "https://www.zennioptical.com/help/contactsupport",
+        "difficulty": "hard",
+        "notes": "Open a support ticket or call them. Upon calling (800) 211-2105 and using the '1' extension to talk to a human customer service agent, explain that you want to delete your account. Provide your account email and confirm that you will no longer be able to use that email to create a future account. After confirming, it takes 24-48h to receive an account deletion confirmation email",
+        "domains": [
+            "zennioptical.com"
+        ]
+    },
+
+    {
         "name": "Zeplin",
         "url": "https://app.zeplin.io/profile/account",
         "difficulty": "medium",
