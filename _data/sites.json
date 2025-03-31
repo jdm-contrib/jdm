@@ -19237,6 +19237,17 @@
     },
 
     {
+        "name": "RemNote",
+        "url": "https://help.remnote.com/en/articles/8033036-deleting-your-account",
+        "difficulty": "easy",
+        "notes": "You can delete your account from Settings > Profile > Account Deletion > Delete Account",
+        "notes_es": "Para eliminar tu cuenta accede a Settings > Profile > Account Deletion > Delete Account",
+        "domains": [
+            "https://www.remnote.com/"
+        ]
+    },
+
+    {
         "name": "Render",
         "url": "https://render.com/",
         "difficulty": "easy",
