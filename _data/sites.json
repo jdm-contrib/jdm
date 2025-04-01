@@ -19243,7 +19243,9 @@
         "notes": "You can delete your account from Settings > Profile > Account Deletion > Delete Account",
         "notes_es": "Para eliminar tu cuenta accede a Settings > Profile > Account Deletion > Delete Account",
         "domains": [
-            "https://www.remnote.com/"
+            "remnote.com",
+            "feedback.remnote.com",
+            "help.remnote.com"
         ]
     },
 
