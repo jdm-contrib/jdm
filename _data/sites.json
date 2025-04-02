@@ -24882,6 +24882,24 @@
     },
 
     {
+        "name": "WeirdGloop",
+        "url": "https://weirdgloop.org/",
+        "difficulty": "impossible",
+        "notes": "They won't delete your wiki account but can remove personally identifying information.",
+        "email": "support@weirdgloop.org",
+        "domains": [
+            "weirdgloop.org",
+            "runescape.wiki",
+            "oldschool.runescape.wiki",
+            "classic.runescape.wiki",
+            "minecraft.wiki",
+            "wiki.leagueoflegends.com",
+            "wiki.warframe.com",
+            "vampire.survivors.wiki"
+        ]
+    },
+
+    {
         "name": "WeMod",
         "url": "https://support.wemod.com/docs/how-do-i-delete-my-account",
         "difficulty": "hard",
