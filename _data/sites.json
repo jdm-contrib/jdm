@@ -20016,6 +20016,16 @@
     },
 
     {
+        "name": "SEAGM",
+        "url": "https://member.seagm.com/ucp/account/info",
+        "difficulty": "medium",
+        "notes": "Click the 'Delete Account' button and follow the instructions sent to your email, wait 30 days after that",
+        "domains": [
+            "seagate.com"
+        ]
+    },
+
+    {
         "name": "Second Life",
         "url": "https://secondlife.com/my/account/cancel.php",
         "difficulty": "easy",
