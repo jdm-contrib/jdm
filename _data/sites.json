@@ -24939,6 +24939,16 @@
     },
 
     {
+        "name": "WeTransfer",
+        "url": "https://wetransfer.com/account",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete account\" button at the bottom of the page.",
+        "domains": [
+            "wetransfer.com"
+        ]
+    },
+
+    {
         "name": "WG-Gesucht.de",
         "url": "https://www.wg-gesucht.de/hilfe.html#collapse-account-4",
         "url_en": "https://www.wg-gesucht.de/en/hilfe.html",
