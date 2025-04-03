@@ -8191,15 +8191,7 @@
             "foxford.ru"
         ]
     },
-    {
-        "name": "Framework",
-        "url": "https://frame.work/support#contact_support",
-        "difficulty": "hard",
-        "notes": "You have to email Framework Support to delete the account. Simply press submit support request at bottom. Pick support category 'problem with account or website.'",
-        "domains": [
-            "frame.work"
-        ]
-    },
+
     {
         "name": "Framer",
         "url": "https://www.framer.com/contact/",
@@ -8208,6 +8200,16 @@
         "email": "support@framer.com",
         "domains": [
             "framer.com"
+        ]
+    },
+    
+    {
+        "name": "Framework",
+        "url": "https://frame.work/support#contact_support",
+        "difficulty": "hard",
+        "notes": "You have to email Framework Support to delete the account. Simply press submit support request at bottom. Pick support category 'problem with account or website.'",
+        "domains": [
+            "frame.work"
         ]
     },
 
