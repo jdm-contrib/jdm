@@ -15117,6 +15117,16 @@
     },
 
     {
+        "name": "MTCGAME",
+        "url": "https://www.mtcgame.com/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button nor do they ever reply by e-mail.",
+        "domains": [
+            "mtcgame.com"
+        ]
+    },
+
+    {
         "name": "Muambator",
         "url": "https://www.muambator.com.br/perfil/minha-conta/",
         "difficulty": "easy",
