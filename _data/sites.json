@@ -4270,6 +4270,16 @@
     },
 
     {
+        "name": "Claude",
+        "url": "https://claude.ai/settings/account",
+        "difficulty": "easy",
+        "notes": "just click the 'Delete Account' button",
+        "domains": [
+            "claude.ai"
+        ]
+    },
+
+    {
         "name": "CleverReach",
         "url": "https://www.cleverreach.com",
         "difficulty": "hard",
