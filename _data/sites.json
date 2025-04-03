@@ -15372,6 +15372,19 @@
     },
 
     {
+        "name": "MyHeritage",
+        "url": "https://MyHeritage.com/",
+        "difficulty": "hard",
+        "notes": "You have to contact the support team by email (privacy_support@myheritage.com) to delete both your site and your account.",
+        "email": "privacy_support@myheritage.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Hi, I request to permanently remove all of my data from your platform. Please provide an update on the process via this email.",
+        "domains": [
+            "MyHeritage.com"
+        ]
+    },
+
+    {
         "name": "MyJDownloader",
         "url": "https://my.jdownloader.org",
         "difficulty": "easy",
