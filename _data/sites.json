@@ -24236,6 +24236,16 @@
     },
 
     {
+        "name": "VikACG",
+        "url": "https://www.vikacg.com/",
+        "difficulty": "impossible",
+        "notes": "A handwritten paper application is required.",
+        "domains": [
+            "vikacg.com"
+        ]
+    },
+
+    {
         "name": "Vimeo",
         "url": "https://vimeo.com/settings/goodbye/forever",
         "difficulty": "easy",
