@@ -842,6 +842,16 @@
     },
 
     {
+        "name": "airoom.chat",
+        "url": "https://airoom.chat/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button or contact email.",
+        "domains": [
+            "airoom.chat"
+        ]
+    },
+
+    {
         "name": "AirVPN",
         "url": "https://airvpn.org/contact/",
         "difficulty": "hard",
