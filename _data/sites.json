@@ -18161,6 +18161,17 @@
     },
 
     {
+        "name": "Pockyt Shop",
+        "url": "https://shop.pockyt.io/",
+        "difficulty": "impossible",
+        "email": "privacy@pockyt.io",
+        "notes": "There is no delete button nor do they ever reply by e-mail.",
+        "domains": [
+            "pockyt.io"
+        ]
+    },
+
+    {
         "name": "Pocoyo Club",
         "url": "https://www.pocoyo.com/en/club/account-cancellation",
         "difficulty": "easy",
