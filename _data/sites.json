@@ -8213,6 +8213,16 @@
     },
 
     {
+        "name": "Framework",
+        "url": "https://frame.work/support#contact_support",
+        "difficulty": "hard",
+        "notes": "You have to email Framework Support to delete the account. Simply press submit support request at bottom. Pick support category 'problem with account or website.'",
+        "domains": [
+            "frame.work"
+        ]
+    },
+
+    {
         "name": "France Identité",
         "url": "https.//idp.france-identite.gouv.fr/usager",
         "difficulty": "easy",
