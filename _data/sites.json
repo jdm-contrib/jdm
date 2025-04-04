@@ -7039,6 +7039,15 @@
     },
 
     {
+        "name": "ENSHAN",
+        "url": "https://www.right.com.cn/",
+        "difficulty": "impossible",
+        "domains": [
+            "right.com.cn"
+        ]
+    },
+
+    {
         "name": "Envato",
         "url": "https://help.market.envato.com/hc/en-us/articles/202500394-How-Do-I-Close-My-Account-",
         "difficulty": "hard",
@@ -15117,6 +15126,16 @@
     },
 
     {
+        "name": "MTCGAME",
+        "url": "https://www.mtcgame.com/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button nor do they ever reply by e-mail.",
+        "domains": [
+            "mtcgame.com"
+        ]
+    },
+
+    {
         "name": "Muambator",
         "url": "https://www.muambator.com.br/perfil/minha-conta/",
         "difficulty": "easy",
@@ -20012,6 +20031,16 @@
         "domains": [
             "seagate.com",
             "myportal.seagate.com"
+        ]
+    },
+
+    {
+        "name": "SEAGM",
+        "url": "https://member.seagm.com/ucp/account/info",
+        "difficulty": "medium",
+        "notes": "Click the 'Delete Account' button and follow the instructions sent to your email, wait 30 days after that",
+        "domains": [
+            "seagm.com"
         ]
     },
 
