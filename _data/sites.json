@@ -4835,6 +4835,17 @@
     },
 
     {
+        "name": "Cool Shirtz",
+        "url": "https://shirtz.cool/pages/store-policies",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "email": "help@shirtz.cool",
+        "domains": [
+            "shirtz.cool"
+        ]
+    },
+
+    {
         "name": "Coolors",
         "url": "https://coolors.co/account/delete",
         "difficulty": "medium",
@@ -4854,17 +4865,6 @@
         ]
     },
 
-    {
-        "name": "Cool Shirtz",
-        "url": "https://shirtz.cool/pages/store-policies",
-        "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "email": "help@shirtz.cool",
-        "domains": [
-            "shirtz.cool"
-        ]
-    },	
-    
     {
             "name": "Copyleaks",
             "url": "https://id.copyleaks.com/security",
