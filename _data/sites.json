@@ -842,6 +842,16 @@
     },
 
     {
+        "name": "airoom.chat",
+        "url": "https://airoom.chat/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button or contact email.",
+        "domains": [
+            "airoom.chat"
+        ]
+    },
+
+    {
         "name": "AirVPN",
         "url": "https://airvpn.org/contact/",
         "difficulty": "hard",
@@ -18151,6 +18161,17 @@
     },
 
     {
+        "name": "Pockyt Shop",
+        "url": "https://shop.pockyt.io/",
+        "difficulty": "impossible",
+        "email": "privacy@pockyt.io",
+        "notes": "There is no delete button nor do they ever reply by e-mail.",
+        "domains": [
+            "pockyt.io"
+        ]
+    },
+
+    {
         "name": "Pocoyo Club",
         "url": "https://www.pocoyo.com/en/club/account-cancellation",
         "difficulty": "easy",
@@ -24211,6 +24232,16 @@
         "domains": [
             "vidyard.com",
             "knowledge.vidyard.com"
+        ]
+    },
+
+    {
+        "name": "VikACG",
+        "url": "https://www.vikacg.com/",
+        "difficulty": "impossible",
+        "notes": "A handwritten paper application is required.",
+        "domains": [
+            "vikacg.com"
         ]
     },
 
