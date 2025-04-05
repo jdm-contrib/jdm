@@ -93,6 +93,16 @@
     },
 
     {
+        "name": "1Point3Acres",
+        "url": "https://tools.1point3acres.com/delete-account",
+        "difficulty": "hard",
+        "notes": "The account deletion page is very hard to find, there is no direct access to it on the website or Android app. I was only able to locate it through the iOS app. After submitting the deletion request, your account will be permanently deleted after 15 days. Please note that once your account is deleted, the email address you used previously cannot be reused to register again.",
+        "domains": [
+            "1point3acres.com"
+        ]
+    },
+
+    {
         "name": "1xBet",
         "url": "https://1xbet.com",
         "difficulty": "hard",
