@@ -10490,6 +10490,16 @@
     },
 
     {
+        "name": "HiiCash",
+        "url": "https://www.hiicash.app/",
+        "difficulty": "impossible",
+        "notes": "The account deletion feature isn't live yet.They say it’ll be added later – same thing they said a year ago. I don’t think it'll ever happen.",
+        "domains": [
+            "hiicash.app"
+        ]
+    },
+
+    {
         "name": "HiNative",
         "url": "https://hinative.com/users/edit?type=delete_my_account",
         "difficulty": "easy",
