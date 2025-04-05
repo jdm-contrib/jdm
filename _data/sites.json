@@ -21169,6 +21169,15 @@
     },
 
     {
+        "name": "South Plus",
+        "url": "https://south-plus.net/",
+        "difficulty": "impossible",
+        "domains": [
+            "south-plus.net"
+        ]
+    },
+
+    {
         "name": "SpaceHey",
         "url": "https://spacehey.com/deleteaccount",
         "difficulty": "easy",
