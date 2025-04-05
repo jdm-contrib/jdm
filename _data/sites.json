@@ -20058,6 +20058,17 @@
     },
 
     {
+        "name": "Screenshot to Code",
+        "url": "https://screenshottocode.com/",
+        "difficulty": "hard",
+        "email": "support@picoapps.xyz",
+        "notes": "There is no delete button. You can send an account deletion request to the provided email.",
+        "domains": [
+            "screenshottocode.com"
+        ]
+    },
+
+    {
         "name": "Scribd",
         "url": "https://support.scribd.com/hc/en-us/articles/360000894843-Deleting-your-account#h_01HBVYCPRH4GEMX24PD473BHP8",
         "difficulty": "easy",
