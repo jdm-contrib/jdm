@@ -15561,14 +15561,14 @@
     {
         "name": "Netflix",
         "meta": "popular",
-        "url": "https://help.netflix.com/en/node/407",
-        "difficulty": "hard",
-        "notes": "Cancel your membership, then contact support if you want immediate deletion, otherwise your account will be automatically deleted in 10 months.",
-        "notes_tr": "Üyeliğinizi iptal edin, ardından derhal silinmesini istiyorsanız destek ile iletişime geçin, aksi takdirde hesabınız 10 ay içinde otomatik olarak silinecektir.",
-        "notes_fr": "Annulez votre abonnement, puis contactez le support si vous souhaitez une suppression immédiate. Sinon, votre compte sera conservé pendant 10 mois.",
-        "notes_ca": "Cancel·leu la vostra subscripció i, a continuació, poseu-vos en contacte amb el servei d'assistència si voleu suprimir-lo immediatament. En cas contrari, el vostre compte se suprimirà automàticament en deu mesos.",
-        "notes_ru": "Отмените свое членство, затем обратитесь в службу поддержки, если вы хотите немедленное удаление, в ином случае ваша учетная запись будет автоматически удалена через 10 месяцев.",
-        "email": "privacy@netflix.com",
+        "url": "https://www.netflix.com/account/security",
+        "difficulty": "easy",
+        "notes": "To delete your account, cancel your active membership, click on the provided link, and scroll down to the 'Delete Account' button. Enter the confirmation code, and your account will be deleted automatically on the day your subscription ends. Accounts without a membership will be deleted automatically after 10 months.",
+        "nots_de": "Um Ihr Konto zu löschen, kündigen Sie Ihre aktive Mitgliedschaft, klicken Sie auf den angegebenen Link und scrollen Sie nach unten zur Schaltfläche „Konto löschen“. Geben Sie den Bestätigungscode ein, und Ihr Konto wird automatisch an dem Tag gelöscht, an dem Ihr Abonnement endet. Konten ohne Mitgliedschaft werden nach 10 Monaten automatisch gelöscht.",
+        "notes_tr": "Hesabınızı silmek için aktif üyeliğinizi iptal edin, verilen bağlantıya tıklayın ve 'Hesabı Sil' düğmesine gidin. Onay kodunu girdiğinizde, üyeliğinizin sona erdiği gün hesabınız otomatik olarak silinecektir. Üyeliği olmayan hesaplar 10 ay sonra otomatik olarak silinecektir.",
+        "notes_fr": "Pour supprimer votre compte, annulez votre abonnement actif, cliquez sur le lien fourni et descendez jusqu'au bouton « Supprimer le compte ». Saisissez le code de confirmation et votre compte sera automatiquement supprimé le jour où votre abonnement prendra fin. Les comptes sans abonnement seront automatiquement supprimés au bout de 10 mois.",
+        "notes_ca": "Per suprimir el vostre compte, cancel·leu la vostra subscripció activa, feu clic a l'enllaç proporcionat i desplaceu-vos cap avall fins al botó 'Suprimeix el compte'. Introduïu el codi de confirmació i el vostre compte se suprimirà automàticament el dia que finalitzi la vostra subscripció. Els comptes sense subscripció s'eliminaran automàticament al cap de 10 mesos.",
+        "notes_ru": "Чтобы удалить свою учетную запись, отмените активное членство, перейдите по указанной ссылке и прокрутите страницу вниз до кнопки «Удалить учетную запись». Введите код подтверждения, и ваша учетная запись будет удалена автоматически в день окончания подписки. Аккаунты без подписки будут удалены автоматически через 10 месяцев.",
         "domains": [
             "netflix.com",
             "help.netflix.com"
