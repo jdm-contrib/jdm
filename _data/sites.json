@@ -20358,7 +20358,6 @@
 
     {
         "name": "Skype",
-        "meta": "popular",
         "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
         "difficulty": "impossible",
         "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.\nIf you want to delete your entire Microsoft account, use the instructions for [Microsoft Account](https://justdeleteme.xyz/#microsoft).",
