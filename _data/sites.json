@@ -16158,8 +16158,8 @@
     {
         "name": "NordVPN",
         "url": "https://support.nordvpn.com/FAQ/1521982312/How-can-I-delete-my-account.htm",
-        "difficulty": "hard",
-        "notes": "Fill the form on the site to request deletion. Alternatively, use the Live Chat service to request deletion, located at the bottom right of the form.",
+        "difficulty": "easy",
+        "notes": "Login, then go to your account settings page. There is a delete account button. It makes you verify your email with a 6 digit code, then allows deletion.",
         "domains": [
             "nordvpn.com",
             "support.nordvpn.com"
