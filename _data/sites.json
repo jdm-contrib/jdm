@@ -93,6 +93,16 @@
     },
 
     {
+        "name": "1Point3Acres",
+        "url": "https://tools.1point3acres.com/delete-account",
+        "difficulty": "hard",
+        "notes": "The account deletion page is very hard to find, there is no direct access to it on the website or Android app. I was only able to locate it through the iOS app. After submitting the deletion request, your account will be permanently deleted after 15 days. Please note that once your account is deleted, the email address you used previously cannot be reused to register again.",
+        "domains": [
+            "1point3acres.com"
+        ]
+    },
+
+    {
         "name": "1xBet",
         "url": "https://1xbet.com",
         "difficulty": "hard",
@@ -10490,6 +10500,16 @@
     },
 
     {
+        "name": "HiiCash",
+        "url": "https://www.hiicash.app/",
+        "difficulty": "impossible",
+        "notes": "The account deletion feature isn't live yet.They say it’ll be added later – same thing they said a year ago. I don’t think it'll ever happen.",
+        "domains": [
+            "hiicash.app"
+        ]
+    },
+
+    {
         "name": "HiNative",
         "url": "https://hinative.com/users/edit?type=delete_my_account",
         "difficulty": "easy",
@@ -20058,6 +20078,17 @@
     },
 
     {
+        "name": "Screenshot to Code",
+        "url": "https://screenshottocode.com/",
+        "difficulty": "hard",
+        "email": "support@picoapps.xyz",
+        "notes": "There is no delete button. You can send an account deletion request to the provided email.",
+        "domains": [
+            "screenshottocode.com"
+        ]
+    },
+
+    {
         "name": "Scribd",
         "url": "https://support.scribd.com/hc/en-us/articles/360000894843-Deleting-your-account#h_01HBVYCPRH4GEMX24PD473BHP8",
         "difficulty": "easy",
@@ -21143,6 +21174,15 @@
         "email": "info@sourcery.ai",
         "domains": [
             "sourcery.ai"
+        ]
+    },
+
+    {
+        "name": "South Plus",
+        "url": "https://south-plus.net/",
+        "difficulty": "impossible",
+        "domains": [
+            "south-plus.net"
         ]
     },
 
