@@ -10910,6 +10910,16 @@
     },
 
     {
+        "name": "hxcy",
+        "url": "https://hxcy.top/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button or contact email.",
+        "domains": [
+            "hxcy.top"
+        ]
+    },
+
+    {
         "name": "Hype",
         "url": "https://support.hype.it/hc/it/articles/360003556214-Come-chiudere-il-conto",
         "difficulty": "medium",
