@@ -5358,7 +5358,7 @@
     {
         "name": "CZC",
         "url": "https://www.czc.cz/soukromi/sprava-udaju",
-        "difficulty": "easy",
+        "difficulty": "medium",
         "notes": "You have to fill out a form. (BUT IT'S ONLY IN CZECH)",
         "notes_cs": "Musíte vyplnit formulář.",
         "notes_sk": "Musíte vyplniť formulár.",
