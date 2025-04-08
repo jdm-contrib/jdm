@@ -14633,6 +14633,16 @@
     },
 
     {
+        "name": "Mikan Project",
+        "url": "https://mikanani.me/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button nor do they ever reply by e-mail.",
+        "domains": [
+            "mikanani.me"
+        ]
+    },
+
+    {
         "name": "Milanote",
         "url": "https://app.milanote.com/account/settings/delete",
         "difficulty": "medium",
