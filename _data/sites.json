@@ -2369,6 +2369,16 @@
     },
 
     {
+        "name": "Bangumi",
+        "url": "https://bgm.tv/group/forum",
+        "difficulty": "hard",
+        "notes": "Submit an account deletion request at this link.",
+        "domains": [
+            "bgm.tv"
+        ]
+    },
+
+    {
         "name": "Barnes & Noble",
         "url": "https://www.barnesandnoble.com/account/manage/settings/",
         "difficulty": "medium",
