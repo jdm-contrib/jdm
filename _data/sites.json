@@ -14001,6 +14001,17 @@
     },
 
     {
+        "name": "Masiro",
+        "url": "https://masiro.me/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button or contact email.",
+        "domains": [
+            "masiro.me",
+            "masiro.moe"
+        ]
+    },
+
+    {
         "name": "MasterClass",
         "url": "https://privacy.masterclass.com/policies",
         "difficulty": "impossible",
