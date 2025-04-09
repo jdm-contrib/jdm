@@ -2369,6 +2369,16 @@
     },
 
     {
+        "name": "Bangumi",
+        "url": "https://bgm.tv/group/forum",
+        "difficulty": "hard",
+        "notes": "Submit an account deletion request at this link.",
+        "domains": [
+            "bgm.tv"
+        ]
+    },
+
+    {
         "name": "Barnes & Noble",
         "url": "https://www.barnesandnoble.com/account/manage/settings/",
         "difficulty": "medium",
@@ -10910,6 +10920,16 @@
     },
 
     {
+        "name": "hxcy",
+        "url": "https://hxcy.top/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button or contact email.",
+        "domains": [
+            "hxcy.top"
+        ]
+    },
+
+    {
         "name": "Hype",
         "url": "https://support.hype.it/hc/it/articles/360003556214-Come-chiudere-il-conto",
         "difficulty": "medium",
@@ -13991,6 +14011,17 @@
     },
 
     {
+        "name": "Masiro",
+        "url": "https://masiro.me/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button or contact email.",
+        "domains": [
+            "masiro.me",
+            "masiro.moe"
+        ]
+    },
+
+    {
         "name": "MasterClass",
         "url": "https://privacy.masterclass.com/policies",
         "difficulty": "impossible",
@@ -14598,6 +14629,16 @@
         "notes": "Go to your account page, scroll down to the 'How can I delete my account?' section in the FAQ and click on the 'Click here' button.",
         "domains": [
             "midjourney.com"
+        ]
+    },
+
+    {
+        "name": "Mikan Project",
+        "url": "https://mikanani.me/",
+        "difficulty": "impossible",
+        "notes": "There is no delete button nor do they ever reply by e-mail.",
+        "domains": [
+            "mikanani.me"
         ]
     },
 
