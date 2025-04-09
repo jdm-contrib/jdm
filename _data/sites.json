@@ -15429,7 +15429,7 @@
     {
         "name": "MyAnimeList",
         "url": "https://myanimelist.net/account_deletion",
-        "difficulty": "hard",
+        "difficulty": "medium",
         "notes": "Enter your email address in the \"Enter your registered email address\" field and click \"Confirmation\" to request the deletion of your account. After that, confirm your request by clicking on the confirmation link that will be sent to you by email.<br><br>If your account has been banned for any reason or you are an MAL Supporter, request the deletion of your account through [this](https://myanimelist.net/about.php?go=contact) contact form instead of using the method explained above.",
         "notes_tr": "E-posta adresinizi \"Kayıtlı e-posta adresinizi girin\" alanına girin ve hesabınızın silinmesini istemek için \"Onay\" tuşuna tıklayın. Bundan sonra, size e-posta ile gönderilecek olan onay bağlantısına tıklayarak talebinizi onaylayın.<br><br>Hesabınız herhangi bir nedenle yasaklandıysa veya MAL Destekçisiyseniz, hesabınızın silinmesini şu adresten talep edin: Yukarıda açıklanan yöntemi kullanmak yerine [bu iletişim formunu kullanın.](https://myanimelist.net/about.php?go=contact)",
         "notes_pt-BR": "Insira seu endereço de e-mail no campo \"Enter your registered email address\" e clique em \"Confirmation\" para solicitar a exclusão da sua conta. Após isso, confirme sua solicitação clicando no link de confirmação que será lhe enviado via e-mail.<br><br>Caso sua conta tenha sido banida por algum motivo ou então você seja um MAL Supporter, solicite a exclusão da sua conta através [deste](https://myanimelist.net/about.php?go=contact) formulário de contato em vez de usar o método explicado acima.",
