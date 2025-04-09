@@ -12792,6 +12792,20 @@
     },
 
     {
+        "name": "Leetify",
+        "url": "https://leetify.com/app/support",
+        "difficulty": "hard",
+        "notes": "Account deletion requires sending an email. Make sure to include the account's Leetify ID in the request.",
+        "email": "support@leetify.com",
+        "email_subject": "Leetify Account Deletion Request",
+        "email_body": "Hello,\n\nI request for my Leetify.com account and all associated information be permanently deleted.\nMy account's email address is LEETIFYEMAILADDRESS and my Leetify ID is LEETIFYACCOUNTID.\n\nThank you.",
+        "domains": [
+            "leetify.com",
+            "pdl.leetify.com"
+        ]
+    },
+
+    {
         "name": "Legends of Runeterra",
         "url": "https://support-legendsofruneterra.riotgames.com/hc/en-us/articles/360051089233-Deleting-Your-Riot-Account-and-All-Your-Data",
         "difficulty": "easy",
