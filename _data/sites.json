@@ -5540,7 +5540,7 @@
         "url_fr": "https://account.decathlon.com/fr-FR/privacy/account-deletion",
         "difficulty": "medium",
         "notes": "On your account page, go to \"Privacy and Security\" and \"Delete my account\" then scroll down to click on \"Delete my account\". You will be asked to confirm through SMS or Email",
-        "notes_fr": "Sur votre page de compte, allez sur \"Confidentialité et Sécurité\" et \"Supprimer mon compte\" puis descendez la page pour cliquer sur \"Supprimer mon compte\". Vous recevrez une demande de confirmation par SMS ou Email."
+        "notes_fr": "Sur votre page de compte, allez sur \"Confidentialité et Sécurité\" et \"Supprimer mon compte\" puis descendez la page pour cliquer sur \"Supprimer mon compte\". Vous recevrez une demande de confirmation par SMS ou Email.",
         "domains": [
             "decathlon.fr",
             "decathlon.net",
