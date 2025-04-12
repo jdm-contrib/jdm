@@ -9786,8 +9786,8 @@
         "name": "Gov.br",
         "url": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/exclusao-da-conta-gov.br",
         "difficulty": "hard",
-        "notes": "According to the help page, you can delete your account by contacting gov.br's help desk.",
-        "notes_pt-BR": "De acordo com a página de ajuda, você pode excluir sua conta contatando o atendimento gov.br.",
+        "notes": "According to the help page, you can delete your account by contacting gov.br's help desk. The account is also deleted when the user/citizen passes away.",
+        "notes_pt-BR": "De acordo com a página de ajuda, você pode excluir sua conta contatando o atendimento gov.br. A conta também é excluída quando o usuário/cidadão falece.",
         "domains": [
             "gov.br"
         ]
