@@ -16590,6 +16590,18 @@
     },
 
     {
+        "name": "Office Depot México",
+        "url": "https://www.officedepot.com.mx/",
+        "difficulty": "impossible",
+        "email": "sclientes@officedepot.com.mx",
+        "notes": "There is no visible way to delete an account in their website. Additionally, after contacting Support in the linked e-Mail, a response is yet to be received.",
+        "notes_es": "No hay ninguna opción visible para eliminar una cuenta en su sitio web. Adicionalmente, tras contactar a Soporte en el correo enlazado, no se ha recibido respuesta.",
+        "domains": [
+            "officedepot.com.mx"
+        ]
+    },
+
+    {
         "name": "OfficeDepot",
         "url": "https://www.officedepot.com/ccpa/landing.do",
         "difficulty": "hard",
