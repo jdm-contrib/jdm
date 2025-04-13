@@ -22775,6 +22775,17 @@
     },
 
     {
+        "name": "The Home Depot México",
+        "url": "https://www.homedepot.com.mx/ayuda-configuracion-cuenta#:~:text=a%20tu%20correo.-,Pasos%20para%20eliminar%20tu%20cuenta%20de%20The%20Home%20Depot%20M%C3%A9xico,-Para%20eliminar%20tu",
+        "difficulty": "hard",
+        "notes": "To delete the account, it's necessary to call them at +52 800 004 6633, and request to the associate the account deletion.",
+        "notes_es": "Para eliminar la cuenta, es necesario marcar al número +52 800 004 6633, y solicitar al asociado la eliminación de la cuenta.",
+        "domains": [
+            "homedepot.com.mx"
+        ]
+    },
+
+    {
         "name": "TheHub",
         "url": "https://thehub.io/contact",
         "difficulty": "hard",
