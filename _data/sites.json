@@ -22947,11 +22947,10 @@
     },
 
     {
-        "name": "Tidal",
-        "url": "https://support.tidal.com/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "Category: Privacy and Data Requests. NOTE! After you press submit, it says that the request has been sent. On 'Does this article answer your question?' Press 'X No, I need help'!",
-        "notes_tr": "Kategori: Gizlilik ve Veri Talepleri. NOT: Gönder düğmesine bastıktan sonra talebin gönderildiğini belirtir. \"Bu makale sorunuzu cevapladı mı?\" \"Hayır, yardıma ihtiyacım var!\" tuşuna basın",
+        "name": "TIDAL",
+        "url": "https://account.tidal.com/account-deletion",
+        "difficulty": "medium",
+        "notes": "Navigate to Settings, Manage Account and select Delete account. It is necessary to enter a verification code.",
         "domains": [
             "tidal.com",
             "support.tidal.com"
