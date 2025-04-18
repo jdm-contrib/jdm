@@ -25986,6 +25986,18 @@
     },
 
     {
+        "name": "Workwise.io",
+        "url": "https://www.workwise.io/en/einstellungen",
+        "url_de": "https://www.workwise.io/einstellungen",
+        "difficulty": "easy",
+        "notes": "Click on the link, scroll down and click on 'Delete Account'. After confirmation your account will be deleted immediately.",
+        "notes_de": "Rufen Sie die verlinkte Webseite auf und scrollen nach unten. Klicken Sie nun auf 'Konto löschen' und bestätigen Sie den Vorgang. Ihr Konto wird unverzüglich gelöscht.",
+        "domains": [
+            "workwise.io"
+        ]
+    },
+
+    {
         "name": "World Market",
         "url": "https://www.worldmarket.com/category/customer-service/world-market-rewards-faqs.do",
         "difficulty": "hard",
