@@ -7372,6 +7372,16 @@
     },
 
     {
+        "name": "Examine",
+        "url": "https://examine.com/contact/",
+        "notes": "Fill out the contact form or email the listed contact email address to request account deletion.",
+        "difficulty": "hard",
+        "domains": [
+            "examine.com"
+        ]
+    },
+
+    {
         "name": "Exclusive Car Registry",
         "url": "https://exclusivecarregistry.com/account/security",
         "notes": "Click Profile icon ⮕ Show Menu ⮕ Security ⮕ Delete Profile ⮕ Type CONFIRM ⮕ Click Delete account button ⮕ Email Sent ⮕ Click DELETE ACCOUNT button.",
