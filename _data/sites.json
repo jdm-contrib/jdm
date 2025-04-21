@@ -21486,9 +21486,8 @@
 
     {
         "name": "Square",
-        "url": "https://squareup.com/help/us/en/article/3819-deactivate-your-account",
-        "difficulty": "impossible",
-        "notes": "You can deactivate your business, but not delete your account.",
+        "url": "https://app.squareup.com/dashboard/shifts/settings/clock-in-out",
+        "difficulty": "easy",
         "domains": [
             "squareup.com"
         ]
