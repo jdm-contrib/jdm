@@ -15419,6 +15419,17 @@
     },
 
     {
+        "name": "MXstore",
+        "url": "https://www.mxstore.com.au/submit-a-request",
+        "difficulty": "hard",
+        "notes": "Contact support using the linked form or by email and request account deletion.",
+        "email": "enquiries@mxstore.com.au",
+        "domains": [
+            "mxstore.com.au"
+        ]
+    },
+
+    {
         "name": "My Calendar",
         "url": "https://www.simpleinnovation.us/contact",
         "difficulty": "hard",
