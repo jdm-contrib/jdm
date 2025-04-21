@@ -7374,8 +7374,9 @@
     {
         "name": "Examine",
         "url": "https://examine.com/contact/",
-        "notes": "Fill out the contact form or email the listed contact email address to request account deletion.",
+        "notes": "Contact support using the linked form or by email and request account deletion.",
         "difficulty": "hard",
+        "email": "support@examine.com",
         "domains": [
             "examine.com"
         ]
