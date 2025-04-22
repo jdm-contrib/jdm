@@ -19806,7 +19806,10 @@
         "notes": "A form of photo ID is required. Despite what the initial email claims, they will delete your account regardless of your location.",
         "domains": [
             "www.roblox.com",
-            "en.help.roblox.com"
+            "en.help.roblox.com",
+            "create.roblox.com",
+            "corp.roblox.com",
+            "blog.roblox.com"
         ]
     },
 
