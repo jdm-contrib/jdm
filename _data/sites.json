@@ -16833,6 +16833,16 @@
     },
 
     {
+        "name": "OnePlus",
+        "url": "https://www.oneplus.com/global/customer/info#",
+        "difficulty": "medium",
+        "notes": "In your account details, there is an option to request account deletion. According to OnePlus, the request will be reviewed within 10 days, but if you sign in during this period the request will be withdrawn.",
+        "domains": [
+            "oneplus.com"
+        ]
+    },
+    
+    {
         "name": "OneSky",
         "url": "https://support.oneskyapp.com/hc/en-us/articles/115005242827-How-to-Delete-your-OneSky-Account",
         "difficulty": "hard",
