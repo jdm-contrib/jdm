@@ -24050,6 +24050,16 @@
     },
 
     {
+        "name": "UnKnoWnCheaTs",
+        "url": "https://www.unknowncheats.me/forum/showgroups.php",
+        "difficulty": "limited",
+        "email": "siteadmin@unknowncheats.me",
+        "domains": [
+            "unknowncheats.me"
+        ]
+    },
+
+    {
         "name": "Unroll.me",
         "url": "https://unroll.me/user/settings",
         "difficulty": "easy",
