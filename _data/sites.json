@@ -26792,6 +26792,20 @@
     },
 
     {
+        "name": "ÖBB",
+        "url": "https://www.oebb.at/en/fragen-und-antworten/tickets-kaufen/online-mobile-ticketing/registrierung",
+        "url_de": "https://www.oebb.at/de/fragen-und-antworten/tickets-kaufen/online-mobile-ticketing/registrierung",
+        "difficulty": "easy",
+        "notes": "You can easily delete your ÖBB customer account in the account settings page. Go to your account area at shop.oebbtickets.at or in the ÖBB app and go to the account settings. There you will find the menu item \"Close account\".",
+        "notes_de": "Ihr ÖBB Kund:innenkonto können Sie ganz einfach in Ihren Kontoeinstellungen löschen. Gehen Sie unter shop.oebbtickets.at oder in der ÖBB App in Ihren Konto-Bereich und dort in die Konto-Einstellungen. Dort finden Sie den Menüpunkt \"Konto schließen\".",
+        "notes_fr": "Vous pouvez facilement supprimer votre compte client ÖBB dans la page des paramètres de compte. Allez dans la partie compte sur shop.oebbtickets.at ou sur l'application ÖBB et allez sur les paramètres de compte. Ici vous trouverez le bouton \"Close account\".",
+        "domains": [
+            "oebb.at",
+            "oebbtickets.at"
+        ]
+    },
+
+    {
         "name": "ÇiçekSepeti",
         "url": "https://www.ciceksepeti.com/gizlilik-sozlesmesi",
         "difficulty": "hard",
