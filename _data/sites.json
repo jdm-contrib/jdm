@@ -26806,17 +26806,6 @@
     },
 
     {
-        "name": "Мій Клас",
-        "url": "https://www.miyklas.com.ua/Account/DeleteProfile",
-        "difficulty": "easy",
-        "notes_ru": "Перейдите по сслке и подтвердите удаление аккаунта.",
-        "notes_uk": "Перейдіть за посиланням і підтвердіть видалення акаунту.",
-        "domains": [
-            "miyklas.com.ua"
-        ]
-    },
-
-    {
         "name": "ÖBB",
         "url": "https://www.oebb.at/en/fragen-und-antworten/tickets-kaufen/online-mobile-ticketing/registrierung",
         "url_de": "https://www.oebb.at/de/fragen-und-antworten/tickets-kaufen/online-mobile-ticketing/registrierung",
@@ -26827,6 +26816,17 @@
         "domains": [
             "oebb.at",
             "oebbtickets.at"
+        ]
+    },
+
+    {
+        "name": "Мій Клас",
+        "url": "https://www.miyklas.com.ua/Account/DeleteProfile",
+        "difficulty": "easy",
+        "notes_ru": "Перейдите по сслке и подтвердите удаление аккаунта.",
+        "notes_uk": "Перейдіть за посиланням і підтвердіть видалення акаунту.",
+        "domains": [
+            "miyklas.com.ua"
         ]
     },
 
