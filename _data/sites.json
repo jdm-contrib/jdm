@@ -13904,9 +13904,8 @@
 
     {
         "name": "Major League Hacking (MLH)",
-        "difficulty": "easy",
-        "url": "https://my.mlh.io/users/edit",
-        "notes": "Go to the linked page, scroll to the bottom, click \"Cancel Account\" and confirm.",
+        "difficulty": "impossible",
+        "url": "https://my.mlh.io",
         "domains": [
             "mlh.io",
             "careerlab.mlh.io",
