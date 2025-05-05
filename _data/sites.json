@@ -13904,9 +13904,8 @@
 
     {
         "name": "Major League Hacking (MLH)",
-        "difficulty": "easy",
-        "url": "https://my.mlh.io/users/edit",
-        "notes": "Go to the linked page, scroll to the bottom, click \"Cancel Account\" and confirm.",
+        "difficulty": "impossible",
+        "url": "https://my.mlh.io",
         "domains": [
             "mlh.io",
             "careerlab.mlh.io",
@@ -18779,9 +18778,9 @@
 
     {
         "name": "Prusa",
-        "url": "https://www.prusa3d.com",
-        "difficulty": "impossible",
-        "notes": "Prusa does not offer a way to delete your account.",
+        "url": "https://account.prusa3d.com/extra-login/?next=/delete-account/",
+        "difficulty": "easy",
+        "notes": "Using the link, your account will be deleted in 3 days. If you want to cancel it, log-in before that period to cancel the deletion.",
         "domains": [
             "prusa3d.com",
             "printables.com"
