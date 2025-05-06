@@ -3986,17 +3986,17 @@
         ]
     },
 
-    
     {
         "name": "Certiport",
         "url": "https://www.certiport.com/portal/Pages/ModifyProfile.aspx",
         "difficulty": "easy",
         "notes": "In your profile preferences, click in 'Delete My Account' then confirm.",
         "domains": [
-            "certiport.com"
+            "certiport.com",
             "certiport.pearsonvue.com"
         ]
     },
+
     {
         "name": "CEX.IO",
         "url": "https://support.cex.io/",
