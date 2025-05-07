@@ -7048,6 +7048,16 @@
     },
 
     {
+        "name": "Embark Studios",
+        "url": "https://id.embark.games/id/connected-platforms",
+        "difficulty": "hard",
+        "notes": "Login to you account with the platform you use (Steam, Epic, etc.). Then click either the \"Contact Player Support\" link or use the chatbot on the bottom right corner to request account deletion.",
+        "domains": [
+            "id.embark.games"
+        ]
+    },
+
+    {
         "name": "Emby",
         "url": "https://emby.media/community/index.php?/settings/deletemyaccount/",
         "difficulty": "easy",
