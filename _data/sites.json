@@ -23609,6 +23609,17 @@
     },
 
     {
+        "name": "TrueNAS Forums (old)",
+        "url": "https://www.truenas.com/community/help/privacy-policy/",
+        "difficulty": "hard",
+        "notes": "Need to email to request account deletion. GDPR, CCPA, etc form download can be found at truenas.com/community/help/privacy-policy/",
+        "email": "compliance@ixsystems.com",
+        "domains": [
+            "truenas.com"
+        ]
+    },
+
+    {
         "name": "Trustpilot",
         "url": "https://www.trustpilot.com/users/settings",
         "difficulty": "easy",
