@@ -19822,6 +19822,16 @@
     },
 
     {
+        "name": "Roadie",
+        "url": "https://send.roadie.com/profile/settings",
+        "difficulty": "medium",
+        "notes": "Click the link provided, log in to your account, click 'DELETE ACCOUNT', check the box and click 'SUBMIT REQUEST'. This will generate an account deletion request email addressed to support@roadie.com; click send.",
+        "domains": [
+            "roadie.com"
+        ]
+    },
+    
+    {
         "name": "Robinhood",
         "url": "https://robinhood.com/contact",
         "difficulty": "impossible",
