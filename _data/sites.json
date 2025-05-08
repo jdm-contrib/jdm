@@ -7051,7 +7051,7 @@
         "name": "Embark Studios",
         "url": "https://id.embark.games/id/connected-platforms",
         "difficulty": "hard",
-        "notes": "Login to you account with the platform you use (Steam, Epic, etc.). Then click either the \"Contact Player Support\" link or use the chatbot on the bottom right corner to request account deletion.",
+        "notes": "Login to your account with the platform you use (Steam, Epic, etc.). Then click either the \"Contact Player Support\" link or use the chatbot on the bottom right corner to request account deletion.",
         "domains": [
             "id.embark.games"
         ]
@@ -23595,6 +23595,27 @@
         "notes": "Solve the math problem and enter your password. You must wait 14 days to register again.",
         "domains": [
             "truckersmp.com"
+        ]
+    },
+
+    {
+        "name": "TrueNAS Forums",
+        "url": "https://forums.truenas.com/",
+        "difficulty": "easy",
+        "notes": "While logged in, click on your profile icon ⮕ Profile ⮕ Preferences ⮕ Bottom of web page is a \"Delete My Account\" button",
+        "domains": [
+            "forums.truenas.com"
+        ]
+    },
+
+    {
+        "name": "TrueNAS Forums (old)",
+        "url": "https://www.truenas.com/community/help/privacy-policy/",
+        "difficulty": "hard",
+        "notes": "Need to email to request account deletion. GDPR, CCPA, etc form download can be found at truenas.com/community/help/privacy-policy/",
+        "email": "compliance@ixsystems.com",
+        "domains": [
+            "truenas.com"
         ]
     },
 
