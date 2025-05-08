@@ -23602,7 +23602,7 @@
         "name": "TrueNAS Forums",
         "url": "https://forums.truenas.com/",
         "difficulty": "easy",
-        "notes": "While logged in, click on your profile icon > Profile > Preferences > Bottom of web page is a \"Delete My Account\" button",
+        "notes": "While logged in, click on your profile icon ⮕ Profile ⮕ Preferences ⮕ Bottom of web page is a \"Delete My Account\" button",
         "domains": [
             "forums.truenas.com"
         ]
