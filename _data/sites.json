@@ -3765,6 +3765,16 @@
     },
 
     {
+        "name": "CardCastle",
+        "url": "https://cardcastle.co/settings/account",
+        "difficulty": "easy",
+        "notes": "Navigate to Settings and select 'delete account?'.",
+        "domains": [
+            "cardcastle.co"
+        ]
+    },
+
+    {
         "name": "Car2Go",
         "url": "https://www.car2go.com/US/en/contact",
         "difficulty": "hard",
@@ -8068,6 +8078,16 @@
         "notes": "Click the 'Delete Account' button and confirm your selection.",
         "domains": [
             "floorplancreator.net"
+        ]
+    },
+
+    {
+        "name": "Floorplanner.com",
+        "url": "https://floorplanner.com/home/profile",
+        "difficulty": "easy",
+        "notes": "Browse to your profile and select 'Account settings' then 'Delete my account forever'.",
+        "domains": [
+            "floorplanner.com"
         ]
     },
 
@@ -21519,6 +21539,19 @@
             "accounts.spotify.com",
             "open.spotify.com",
             "support.spotify.com"
+        ]
+    },
+
+    {
+        "name": "Shopper+",
+        "url": "https://www.shopperplus.ca/policies/Shopper+%20Account%20Removal%20Policy",
+        "difficulty": "easy",
+        "notes": "Go to the app and select Account Settings. Navigate to Account Information. Select 'Delete My Account'.",
+        "notes_fr": "Accédez à l'application et sélectionnez Paramètres du compte. Naviguez jusqu'à Informations sur le compte. Sélectionnez Supprimer mon compte.",
+        "domains": [
+            "123ink.ca",
+            "shopperplus.ca",
+            "primecables.ca"
         ]
     },
 
