@@ -18723,6 +18723,16 @@
     },
 
     {
+        "name": "PROS",
+        "url": "https://prismray.io/account?section=profile",
+        "difficulty": "medium",
+        "notes": "Click on 'Delete account' near the bottom of the page, wait 30 days after that",
+        "domains": [
+            "prismray.io"
+        ]
+    },
+
+    {
         "name": "Prosper",
         "url": "https://www.prosper.com/secure/account/borrower/close_account.aspx",
         "difficulty": "easy",
