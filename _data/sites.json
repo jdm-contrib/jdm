@@ -3765,16 +3765,6 @@
     },
 
     {
-        "name": "CardCastle",
-        "url": "https://cardcastle.co/settings/account",
-        "difficulty": "easy",
-        "notes": "Navigate to Settings and select 'delete account?'.",
-        "domains": [
-            "cardcastle.co"
-        ]
-    },
-
-    {
         "name": "Car2Go",
         "url": "https://www.car2go.com/US/en/contact",
         "difficulty": "hard",
@@ -3784,6 +3774,16 @@
             "car2go.com",
             "drive-now.com",
             "share-now.com"
+        ]
+    },
+
+    {
+        "name": "CardCastle",
+        "url": "https://cardcastle.co/settings/account",
+        "difficulty": "easy",
+        "notes": "Navigate to Settings and select 'delete account?'.",
+        "domains": [
+            "cardcastle.co"
         ]
     },
 
