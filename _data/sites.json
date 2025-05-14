@@ -8052,7 +8052,7 @@
 
     {
         "name": "Floatplane",
-        "url": "https://www.floatplane.com/user/settings",
+        "url": "https://www.floatplane.com/settings/account",
         "difficulty": "easy",
         "notes": "Click the 'Delete Account' button and type your password. Your account will be deleted in 2 weeks.",
         "domains": [
