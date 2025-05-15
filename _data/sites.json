@@ -24461,6 +24461,17 @@
     },
 
     {
+        "name": "Valence Romans Mobilités",
+        "url": "https://start.valenceromansmobilites.fr/fr/compte/informations",
+        "difficulty": "easy",
+        "notes": "On your account information page, click on \"Supprimer mon compte\", confirm your email address and your password, and click on \"Supprimer mon compte\".",
+        "notes_fr": "Sur la page d'informations sur votre compte, cliquez sur \"Supprimer mon compte\", confirmez votre adress email et votre mot de passe, et cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "valenceromansmobilites.fr"
+        ]
+    },
+
+    {
         "name": "Valorant",
         "url": "https://support-valorant.riotgames.com/hc/en-us/articles/360050328414-Deleting-Your-Riot-Account-and-All-Your-Data",
         "difficulty": "easy",
