@@ -19767,6 +19767,18 @@
     },
 
     {
+        "name": "Rhonexpress",
+        "url": "https://www.rhonexpress.fr/en_GB/account/profile/edit",
+        "url_it": "https://www.rhonexpress.fr/fr_FR/account/profile/edit",
+        "difficulty": "easy",
+        "notes": "On your personal information page, scroll down to \"Delete my account\", and click on \"I delete my account\".",
+        "notes_fr": "Sur la page de vos informations personnelles, descendez jusqu'a \"Supprimer mon compte\", et cliquez sur \"Je supprime mon compte\"",
+        "domains": [
+            "rhonexpress.fr"
+        ]
+    },
+
+    {
         "name": "Rideindego",
         "url": "https://www.rideindego.com/faq/#how-do-i-cancel-my-pass",
         "difficulty": "impossible",
