@@ -1111,18 +1111,6 @@
     },
 
     {
-        "name": "Cars Région Savoie / Altibus",
-        "url": "https://www.cars-region-savoie.fr/suggestions-reclamations/",
-        "difficulty": "hard",
-        "notes": "You need to contact the support to delete your account.",
-        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
-        "domains": [
-            "cars-region-savoie.fr",
-            "altibus.com"
-        ]
-    },
-
-    {
         "name": "Altium",
         "email": "data.compliance@altium.com",
         "url": "https://www.altium.com/privacy-policy",
@@ -3841,6 +3829,18 @@
         "notes_fr": "Sur vos paramètres de compte, descendez et cliquez sur \"Supprimer mon inscription\", puis confirmez en cliquant sur \"Supprimer mon inscription\".",
         "domains": [
             "carsisere.auvergnerhonealpes.fr"
+        ]
+    },
+
+    {
+        "name": "Cars Région Savoie / Altibus",
+        "url": "https://www.cars-region-savoie.fr/suggestions-reclamations/",
+        "difficulty": "hard",
+        "notes": "You need to contact the support to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "domains": [
+            "cars-region-savoie.fr",
+            "altibus.com"
         ]
     },
 
