@@ -1111,12 +1111,13 @@
     },
 
     {
-        "name": "Altibus",
-        "url": "https://www.altibus.com/contact/",
+        "name": "Cars Région Savoie / Altibus",
+        "url": "https://www.cars-region-savoie.fr/suggestions-reclamations/",
         "difficulty": "hard",
-        "notes": "You need to contact the support through chat or phone to delete your account.",
-        "notes_fr": "Vous devez contacter le support par chat ou téléphone pour supprimer votre compte.",
+        "notes": "You need to contact the support to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
         "domains": [
+            "cars-region-savoie.fr",
             "altibus.com"
         ]
     },
