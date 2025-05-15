@@ -3833,6 +3833,17 @@
     },
 
     {
+        "name": "Cars Région Isère",
+        "url": "https://carsisere.auvergnerhonealpes.fr/fr/mon-espace/159/Member/editprofile",
+        "difficulty": "easy",
+        "notes": "On your profile settings, scroll down and click on \"Delete my account\", then confirm by clicking on \"Delete my subscription\".",
+        "notes_fr": "Sur vos paramètres de compte, descendez et cliquez sur \"Supprimer mon inscription\", puis confirmez en cliquant sur \"Supprimer mon inscription\".",
+        "domains": [
+            "carsisere.auvergnerhonealpes.fr"
+        ]
+    },
+
+    {
         "name": "Cash'em All",
         "url": "https://cashemall.online/legal/v1/privacy/online.cashemall.app",
         "email": "contact@cashemall.online",
