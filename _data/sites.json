@@ -4067,6 +4067,18 @@
     },
 
     {
+        "name": "Chamonix Mobilité",
+        "url": "https://www.chamonix-mobilite.com/en/nous-contacter",
+        "url_fr": "https://www.chamonix-mobilite.com/fr/nous-contacter",
+        "notes": "You need to contact support to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "difficulty": "hard",
+        "domains": [
+            "chamonix-mobilite.com"
+        ]
+    },
+
+    {
         "name": "Change.org",
         "url": "https://www.change.org/policies/privacy",
         "difficulty": "hard",
@@ -22458,6 +22470,17 @@
         "notes": "You will need to provide proof of identity such as a passport or drivers license and verify the phone number associated with your T-Mobile ID. This will not delete active service plans if you have any.",
         "domains": [
             "t-mobile.com"
+        ]
+    },
+
+    {
+        "name": "T2C Boutique",
+        "url": "https://eboutique.smtc-clermont.fr/en/account/informations",
+        "difficulty": "easy",
+        "notes": "On your account information page, click on \"Supprimer mon compte\", confirm your email address and your password, and click on \"Supprimer mon compte\".",
+        "notes_fr": "Sur la page d'informations sur votre compte, cliquez sur \"Supprimer mon compte\", confirmez votre adress email et votre mot de passe, et cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "eboutique.smtc-clermont.fr"
         ]
     },
 
