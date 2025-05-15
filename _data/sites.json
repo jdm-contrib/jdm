@@ -22474,6 +22474,17 @@
     },
 
     {
+        "name": "T2C Alertes",
+        "url": "https://www.t2c.fr/formulaire/nous-contacter",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "domains": [
+            "t2c.fr"
+        ]
+    },
+
+    {
         "name": "T2C Boutique",
         "url": "https://eboutique.smtc-clermont.fr/en/account/informations",
         "difficulty": "easy",
