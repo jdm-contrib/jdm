@@ -21757,6 +21757,17 @@
     },
 
     {
+        "name": "Star't",
+        "url": "https://www.star-t.fr/account/profile",
+        "difficulty": "easy",
+        "notes": "On your profile page, scroll down, click on \"Supprimer mon compte\" then click on \"Oui, supprimer\".",
+        "notes_fr": "Sur votre page de profil, descendez, cliquez sur \"Supprimer mon compte\" puis cliquez sur \"Oui, supprimer\".",
+        "domains": [
+            "star-t.fr"
+        ]
+    },
+
+    {
         "name": "Starbucks",
         "url": "https://www.starbucks.com/terms/privacy-policy/#contact_us",
         "difficulty": "hard",
