@@ -26900,6 +26900,18 @@
     },
 
     {
+        "name": "Île-de-France Mobilités Connect",
+        "url": "https://www.iledefrance-mobilites.fr/en/aide-et-contacts/iledefrance-mobilites-connect/desactiver-mon-compte-idfm-connect",
+        "url_fr": "https://www.iledefrance-mobilites.fr/aide-et-contacts/iledefrance-mobilites-connect/desactiver-mon-compte-idfm-connect",
+        "difficulty": "medium",
+        "notes": "Log in to the account Île-de-France Mobilités Connect that you want to deactivate, in the \"My space\" section, select \"Manage my information\", click on the link \"Deactivate my Île-de-France Mobilités Connect account\", click the \"Confirm Deactivation\" button",
+        "notes_fr": "Connectez-vous sur le compte Île-de-France Mobilités Connect que vous souhaitez désactiver, dans la rubrique \"Mon espace\", sélectionnez \"Gérer mes informations\", cliquez sur le lien \"Désactiver mon compte Île-de-France Mobilités Connect\", cliquez sur le bouton \"Confirmer la désactivation\".",
+        "domains": [
+            "iledefrance-mobilites.fr"
+        ]
+    },
+
+    {
         "name": "ÖBB",
         "url": "https://www.oebb.at/en/fragen-und-antworten/tickets-kaufen/online-mobile-ticketing/registrierung",
         "url_de": "https://www.oebb.at/de/fragen-und-antworten/tickets-kaufen/online-mobile-ticketing/registrierung",
