@@ -15132,6 +15132,17 @@
     },
 
     {
+        "name": "Mon Espace STAS",
+        "url": "https://www.reseau-stas.fr/fr/mon-espace-stas/159/Member/editprofile",
+        "difficulty": "easy",
+        "notes": "On your profile settings, scroll down and click on \"Delete my account\", then confirm by clicking on \"Delete my subscription\".",
+        "notes_fr": "Sur vos paramètres de compte, descendez et cliquez sur \"Supprimer mon inscription\", puis confirmez en cliquant sur \"Supprimer mon inscription\".",
+        "domains": [
+            "reseau-stas.fr"
+        ]
+    },
+
+    {
         "name": "Monarch Money",
         "url": "https://help.monarchmoney.com/hc/en-us/articles/4412388754708-Delete-a-Monarch-Account",
         "difficulty": "easy",
