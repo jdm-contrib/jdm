@@ -4067,6 +4067,18 @@
     },
 
     {
+        "name": "Chamonix Mobilité",
+        "url": "https://www.chamonix-mobilite.com/en/nous-contacter",
+        "url_fr": "https://www.chamonix-mobilite.com/fr/nous-contacter",
+        "notes": "You need to contact support to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "difficulty": "hard",
+        "domains": [
+            "chamonix-mobilite.com"
+        ]
+    },
+
+    {
         "name": "Change.org",
         "url": "https://www.change.org/policies/privacy",
         "difficulty": "hard",
