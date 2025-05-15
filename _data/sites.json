@@ -1111,6 +1111,17 @@
     },
 
     {
+        "name": "Altibus",
+        "url": "https://www.altibus.com/contact/",
+        "difficulty": "hard",
+        "notes": "You need to contact the support through chat or phone to delete your account.",
+        "notes_fr": "Vous devez contacter le support par chat ou téléphone pour supprimer votre compte.",
+        "domains": [
+            "altibus.com"
+        ]
+    },
+
+    {
         "name": "Altium",
         "email": "data.compliance@altium.com",
         "url": "https://www.altium.com/privacy-policy",
@@ -22415,6 +22426,17 @@
         "notes": "In \"My Profile Page\", click on \"Delete Account\" link on the left side and then the \"Delete Account\" button.",
         "domains": [
             "syncfusion.com"
+        ]
+    },
+
+    {
+        "name": "Synchro Mobilités",
+        "url": "https://start.synchro.grandchambery.fr/fr/compte/informations",
+        "difficulty": "easy",
+        "notes": "On your account information page, click on \"Supprimer mon compte\", confirm your email address and your password, and click on \"Supprimer mon compte\".",
+        "notes_fr": "Sur la page d'informations sur votre compte, cliquez sur \"Supprimer mon compte\", confirmez votre adress email et votre mot de passe, et cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "synchro.grandchambery.fr"
         ]
     },
 
