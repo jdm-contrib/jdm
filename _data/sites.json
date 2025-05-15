@@ -22465,6 +22465,17 @@
     },
 
     {
+        "name": "TAC Mobilités",
+        "url": "https://www.tac-mobilites.fr/account/profile",
+        "difficulty": "easy",
+        "notes": "On your profile page, scroll down, click on \"Supprimer mon compte\" then click on \"Supprimer\".",
+        "notes_fr": "Sur votre page de profil, descendez, cliquez sur \"Supprimer mon compte\" puis cliquez sur \"Supprimer\".",
+        "domains": [
+            "tac-mobilites.fr"
+        ]
+    },
+
+    {
         "name": "Tagged",
         "url": "https://tagged.com/account_cancel.html",
         "difficulty": "easy",
