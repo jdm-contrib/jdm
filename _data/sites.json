@@ -19898,6 +19898,17 @@
     },
 
     {
+        "name": "RLV e-boutique",
+        "url": "https://eboutique-rlv.airwebpass.com/account/",
+        "difficulty": "easy",
+        "notes": "On your account page, click on your account name, scroll down, and click on \"Supprimer mon compte\". Confirm you want to delete your account, a login prompt will ask for your email and password, and click on \"Me Connecter\".",
+        "notes_fr": "Sur votre page de compte, cliquez sur le nom de votre compte, descendez et cliquez sur \"Supprimer mon compte\". Confirmez que vous souhaitez supprimer votre compte, un pop-up de connexion demandera votre email et mot de passe, et cliquez sur \"Me Connecter\".",
+        "domains": [
+            "eboutique-rlv.airwebpass.com"
+        ]
+    },
+
+    {
         "name": "Roadie",
         "url": "https://send.roadie.com/profile/settings",
         "difficulty": "medium",
