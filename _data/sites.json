@@ -21804,6 +21804,17 @@
     },
 
     {
+        "name": "STAS - Agence en Ligne",
+        "url": "https://www.reseau-stas.fr/fr/nous-contacter/14/Contact",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "domains": [
+            "boutique.reseau-stas.fr"
+        ]
+    },
+
+    {
         "name": "Stardock",
         "url": "https://stardock.atlassian.net/servicedesk/customer/portal/4/group/14/create/10143",
         "difficulty": "hard",
