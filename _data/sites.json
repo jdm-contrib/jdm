@@ -2715,6 +2715,16 @@
     },
 
     {
+        "name": "Biletyna",
+        "url": "https://biletyna.pl/profile/edit",
+        "difficulty": "easy",
+        "notes_pl": "Zaloguj się, idź do Profilu, znajdź opcję \"Twoje Dane\" i kliknij \"Usuń profil\" w prawym dolnym rogu otwartej sekcji.",
+        "domains": [
+            "biletyna.pl"
+        ]
+    },
+
+    {
         "name": "Bilibili",
         "url": "https://passport.bilibili.com/register/logout.html",
         "difficulty": "medium",
