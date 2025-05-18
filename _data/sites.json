@@ -21804,17 +21804,6 @@
     },
 
     {
-        "name": "STAS - Agence en Ligne",
-        "url": "https://www.reseau-stas.fr/fr/nous-contacter/14/Contact",
-        "difficulty": "hard",
-        "notes": "You need to contact support to delete your account.",
-        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
-        "domains": [
-            "boutique.reseau-stas.fr"
-        ]
-    },
-
-    {
         "name": "Stardock",
         "url": "https://stardock.atlassian.net/servicedesk/customer/portal/4/group/14/create/10143",
         "difficulty": "hard",
@@ -21847,6 +21836,17 @@
         "notes_tr": "Profil ayarlarınıza gidin, aşağı kaydırın ve 'Profili sil' bağlantısını tıklayın. Bazı nedenlerden dolayı hesabınızın silinememesi mümkün olabilir, örneğin: başlangıç, finansman veya bitiş aşamasında bir projeniz var; aktif bir ortak sayfanız var; hala finansman aşamasında olan bir projeyi desteklediniz ve ödemenizi henüz almadık veya ödemeniz size iade edilmedi.",
         "domains": [
             "startnext.com"
+        ]
+    },
+
+    {
+        "name": "STAS - Agence en Ligne",
+        "url": "https://www.reseau-stas.fr/fr/nous-contacter/14/Contact",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "domains": [
+            "boutique.reseau-stas.fr"
         ]
     },
 
