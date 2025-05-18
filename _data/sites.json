@@ -12889,6 +12889,16 @@
     },
 
     {
+        "name": "Leave Me Alone",
+        "url": "https://app.leavemealone.com/profile",
+        "difficulty": "easy",
+        "notes": "Go to the linked page, scroll down to \"Danger Zone\" section and find \"Deactivate account\" button",
+        "domains": [
+            "leavemealone.com"
+        ]
+    },
+
+    {
         "name": "LeetCode",
         "url": "https://leetcode.com/delete-account/",
         "difficulty": "easy",
