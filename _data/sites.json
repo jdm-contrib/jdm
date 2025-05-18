@@ -2715,6 +2715,16 @@
     },
 
     {
+        "name": "Biletyna",
+        "url": "https://biletyna.pl/profile/edit",
+        "difficulty": "easy",
+        "notes_pl": "Zaloguj się, idź do Profilu, znajdź opcję \"Twoje Dane\" i kliknij \"Usuń profil\" w prawym dolnym rogu otwartej sekcji.",
+        "domains": [
+            "biletyna.pl"
+        ]
+    },
+
+    {
         "name": "Bilibili",
         "url": "https://passport.bilibili.com/register/logout.html",
         "difficulty": "medium",
@@ -12875,6 +12885,16 @@
         "domains": [
             "wildrift.leagueoflegends.com",
             "support-wildrift.riotgames.com"
+        ]
+    },
+
+    {
+        "name": "Leave Me Alone",
+        "url": "https://app.leavemealone.com/profile",
+        "difficulty": "easy",
+        "notes": "Go to the linked page, scroll down to \"Danger Zone\" section and find \"Deactivate account\" button",
+        "domains": [
+            "leavemealone.com"
         ]
     },
 
