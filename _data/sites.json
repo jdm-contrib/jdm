@@ -5971,7 +5971,7 @@
         "name": "Discord",
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "medium",
-        "notes": "Account deletion will not delete your messages, which you must do manually (Automating this process is possible using projects such as Undiscord). If you're a server owner, you'll need to either [delete the server](https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-), or [transfer ownership](https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
+        "notes": "Account deletion will not delete your messages, which you must do manually or following this tutorial to ask messages deletion: https://khcrysalis.dev/blog/mass-deletion/. If you're a server owner, you'll need to either [delete the server](https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-), or [transfer ownership](https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
         "domains": [
             "discord.com",
             "support.discord.com",
