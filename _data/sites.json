@@ -11462,6 +11462,16 @@
     },
 
     {
+        "name": "Infinibrowser",
+        "url": "https://infinibrowser.wiki/info/contact",
+        "difficulty": "hard",
+        "notes": "You have to contact the developer through discord.",
+        "domains": [
+            "infinibrowser.wiki"
+        ]
+    },
+
+    {
         "name": "Infinite Story",
         "url": "https://infinite-story.com/my/settings.php",
         "difficulty": "easy",
