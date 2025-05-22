@@ -17750,6 +17750,16 @@
     },
 
     {
+      "name": "PDF Editify",
+      "url": "https://pdfeditify.com/contact",
+      "difficulty": "hard",
+      "notes": "Fill out the contact form and request the deletion of your account.",
+      "domains": [
+        "pdfeditify.com"
+      ]
+    },
+
+    {
         "name": "pdfFiller",
         "url": "https://www.pdffiller.com/en/login/signin?ref=%2Fen%2Faccount%2Fsettings",
         "difficulty": "easy",
