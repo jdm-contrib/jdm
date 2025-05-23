@@ -9928,6 +9928,16 @@
     },
 
     {
+        "name": "Grafana",
+        "url": "https://community.grafana.com/t/how-to-delete-account/18415",
+        "difficulty": "hard",
+        "notes": "Need to open a support ticket.",
+        "domains": [
+            "grafana.com"
+        ]
+    },
+
+    {
         "name": "Grailed",
         "url": "https://www.grailed.com",
         "difficulty": "hard",
@@ -10718,6 +10728,16 @@
             "ferienpiraten.ch",
             "semesterpiraterna.se",
             "travelpirates.com"
+        ]
+    },
+
+    {
+        "name": "Holland and Barrett",
+        "url": "hollandandbarrett.com/my-account/security-settings",
+        "difficulty": "easy",
+        "notes": "Just click the 'Delete Account' button. Account is deleted instantly, account details are stored for 3 years then erased completely.",
+        "domains": [
+            "hollandandbarrett.com"
         ]
     },
 
