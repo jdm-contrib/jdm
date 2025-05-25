@@ -19174,6 +19174,13 @@
     },
 
     {
+        "name": "Quotev",
+        "url": "https://www.quotev.com/help/q/23",
+        "difficulty": "medium",
+        "domains": [ "quotev.com" ]
+    },
+
+    {
         "name": "RackNerd",
         "url": "https://my.racknerd.com/submitticket.php",
         "difficulty": "impossible",
