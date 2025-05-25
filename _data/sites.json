@@ -4082,8 +4082,11 @@
         "name": "Chamonix Mobilité",
         "url": "https://www.chamonix-mobilite.com/en/nous-contacter",
         "url_fr": "https://www.chamonix-mobilite.com/fr/nous-contacter",
-        "notes": "You need to contact support to delete your account.",
-        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "notes": "You need to contact support through email to delete your account.",
+        "notes_fr": "Vous devez contacter le support par email pour supprimer votre compte.",
+        "email": "assistance@secureticket.fr",
+        "email_subject": "Suppression de compte",
+        "email_body": " Je demande la suppression de mon compte Chamonix Mobilité",
         "difficulty": "hard",
         "domains": [
             "chamonix-mobilite.com"
