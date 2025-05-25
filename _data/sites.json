@@ -19174,6 +19174,13 @@
     },
 
     {
+        "name": "Quotev",
+        "url": "https://www.quotev.com/help/q/23",
+        "difficulty": "medium",
+        "domains": [ "quotev.com" ]
+    },
+
+    {
         "name": "RackNerd",
         "url": "https://my.racknerd.com/submitticket.php",
         "difficulty": "impossible",
@@ -21239,6 +21246,15 @@
         "notes": "You can delete your account by clicking the red 'DELETE YOUR ACCOUNT' button at the very bottom of the page.",
         "domains": [
             "socialblade.com"
+        ]
+    },
+
+    {
+        "name": "Sofascore",
+        "url": "https://sofascore.helpscoutdocs.com/article/55-how-to-delete-account?lng=en",
+        "difficulty": "easy",
+        "domains": [
+            "sofascore.com"
         ]
     },
 
