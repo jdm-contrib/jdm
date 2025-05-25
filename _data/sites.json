@@ -21015,17 +21015,6 @@
     },
 
     {
-        "name": "Skype",
-        "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
-        "difficulty": "impossible",
-        "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.\nIf you want to delete your entire Microsoft account, use the instructions for [Microsoft Account](https://justdeleteme.xyz/#microsoft).",
-        "domains": [
-            "skype.com",
-            "support.skype.com"
-        ]
-    },
-
-    {
         "name": "SkySilk",
         "url": "https://help.skysilk.com/support/solutions/articles/9000106317-how-do-i-deactivate-my-account-",
         "difficulty": "limited",
@@ -22712,6 +22701,18 @@
         "domains": [
             "teamgantt.com",
             "app.teamgantt.com"
+        ]
+    },
+
+    {
+        "name": "Teams",
+        "meta": "popular",
+        "url": "https://account.live.com/closeaccount.aspx",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Teams account without deleting your entire Microsoft account. This is also true if you migrated your former Skype account to a Teams account. If you want to delete your entire Microsoft account click on the provided link or follow the instructions [here](https://justdeleteme.xyz/#microsoft).",
+        "notes_de": "Sie können Ihren Teams Account nicht löschen ohne Ihre gesamten Microsoft Account zu löschen. Dies gilt auch, wenn Sie Ihren alten Skype Account zu einem Teams Konto konvertiert haben.Sollten Sie Ihren Microsoft Account löschen wollen, klicken Sie auf den bereitgestellten Link, oder folgen Sie den Anweisungen [hier](https://justdeleteme.xyz/#microsoft).",
+        "domains": [
+            "teams.microsoft.com"
         ]
     },
 
