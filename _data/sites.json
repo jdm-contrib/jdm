@@ -21250,6 +21250,15 @@
     },
 
     {
+        "name": "Sofascore",
+        "url": "https://sofascore.helpscoutdocs.com/article/55-how-to-delete-account?lng=en",
+        "difficulty": "easy",
+        "domains": [
+            "sofascore.com"
+        ]
+    },
+
+    {
         "name": "SoftCreatR Media",
         "url": "https://www.softcreatr.com/account-management/",
         "difficulty": "easy",
