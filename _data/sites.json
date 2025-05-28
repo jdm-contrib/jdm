@@ -1407,8 +1407,8 @@
     {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
-        "difficulty": "impossible",
-        "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
+        "difficulty": "hard",
+        "notes": "If you no longer wish to use the site, you may send a email to their support: support@animalcrossingcommunity.com",
         "notes_ru": "Мы не «удаляем» и не «закрываем» учетные записи на ACC. Если вы больше не хотите использовать сайт, вы можете удалить всю личную информацию из своего профиля, а затем прекратить заходить на учетную запись.",
         "notes_tr": "ACC üzerindeki hesapları \"silmiyoruz\" veya \"son vermiyoruz\". Eğer web sitesini bir daha kullanmak istemiyorsanız, profilinizden tüm kişisel bilgileri silip bir daha giriş yapmayabilirsiniz.",
         "notes_fr": "ACC ne supprime pas les comptes. Cependant vous pouvez supprimer les informations qui sont dessus et arreter de vous connecter.",
@@ -5971,7 +5971,7 @@
         "name": "Discord",
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "medium",
-        "notes": "Account deletion will not delete your messages, which you must do manually or following this tutorial to ask messages deletion: https://khcrysalis.dev/blog/mass-deletion/. If you're a server owner, you'll need to either [delete the server](https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-), or [transfer ownership](https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
+        "notes": "Account deletion will not delete your messages, which you must do manually or by following this tutorial to ask messages deletion: [https://khcrysalis.dev/blog/mass-deletion/](https://khcrysalis.dev/blog/mass-deletion/) (Take 24 hours to fully remove messages). NOTE: Only not-accessible messages will be removed, meaning you need to leave every servers you're on and close all of your DMs before submitting your demand. If you're a server owner, you'll need to either [delete the server](https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-), or [transfer ownership](https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
         "domains": [
             "discord.com",
             "support.discord.com",
