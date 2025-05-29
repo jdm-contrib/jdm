@@ -1408,14 +1408,8 @@
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "hard",
-        "notes": "If you no longer wish to use the site, you may send a email to their support: support@animalcrossingcommunity.com",
-        "notes_ru": "Мы не «удаляем» и не «закрываем» учетные записи на ACC. Если вы больше не хотите использовать сайт, вы можете удалить всю личную информацию из своего профиля, а затем прекратить заходить на учетную запись.",
-        "notes_tr": "ACC üzerindeki hesapları \"silmiyoruz\" veya \"son vermiyoruz\". Eğer web sitesini bir daha kullanmak istemiyorsanız, profilinizden tüm kişisel bilgileri silip bir daha giriş yapmayabilirsiniz.",
-        "notes_fr": "ACC ne supprime pas les comptes. Cependant vous pouvez supprimer les informations qui sont dessus et arreter de vous connecter.",
-        "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più",
-        "notes_pt-BR": "Nós não 'deletamos' ou 'terminamos' contas na ACC. Caso você não queira mais utilizar o site, você pode deletar todas as suas informações pessoas em seu perfil e então parar de logar-se.",
-        "notes_ca": "Nosaltres no 'esborrem' o 'finalitzem' comptes d'ACC. En el cas que no vulgui utilitzar més el lloc, pot esborrar totes les teves dades personals del seu perfil i evitar entrar més.",
-        "notes_es": "«Nosotros no 'borramos' o 'finalizamos' cuentas de ACC. En el supuesto que no quieras utilizar más el sitio, puede borrar toda tu información personal de tu perfil y evitar entrar más a tu cuenta.»",
+        "notes": "If you no longer wish to use the site, you may send a email to their support.",
+        "email": "support@animalcrossingcommunity.com",
         "domains": [
             "animalcrossingcommunity.com"
         ]
