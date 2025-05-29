@@ -5815,6 +5815,14 @@
     },
 
     {
+        "name": "DialLink",
+        "url": "https://app.diallink.com/v1/settings/company",
+        "difficulty": "easy",
+        "notes": "Under 'Settings' go to 'Company' and click on 'Delete account'.",
+        "domains": ["diallink.com"]
+    },
+
+    {
         "name": "diasp.eu (Diaspora)",
         "url": "https://diasp.eu/user/edit#close_account_pane",
         "difficulty": "easy",
