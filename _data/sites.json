@@ -17283,22 +17283,22 @@
     },
 
     {
-        "name": "Outlier",
-        "url": "https://outlier.ai/legal/privacy-policy",
-        "email": "privacy@outlier.ai",
-        "difficulty": "hard",
-        "domains": [
-            "outlier.ai"
-        ]
-    },
-
-    {
         "name": "Outdooractive",
         "url": "https://www.outdooractive.com/en/k/how-do-i-delete-my-community-account-/50323147/#:~:text=Go%20to%20your%20page%20by,then%20select%20%22Delete%20Profile%22.",
         "difficulty": "easy",
         "notes": "Follow the instructions provided to navigate to your profile and find the delete account button.",
         "domains": [
             "outdooractive.com"
+        ]
+    },
+
+    {
+        "name": "Outlier",
+        "url": "https://outlier.ai/legal/privacy-policy",
+        "email": "privacy@outlier.ai",
+        "difficulty": "hard",
+        "domains": [
+            "outlier.ai"
         ]
     },
 
