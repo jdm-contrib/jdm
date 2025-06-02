@@ -23126,6 +23126,22 @@
     },
 
     {
+        "name": "Ticketcorner",
+        "url": "https://www.ticketcorner.ch/helpcenter/en/",
+        "url_de": "https://www.ticketcorner.ch/helpcenter/",
+        "url_fr": "https://www.ticketcorner.ch/helpcenter/fr/",
+        "url_it": "https://www.ticketcorner.ch/helpcenter/it/",
+        "difficulty": "hard",
+        "notes": "You cannot currently delete your account via our webshop. We will do this for you. Please send us your message by clicking on the button 'This answer was not helpful'.",
+        "notes_de": "Eine Löschung Ihres Accounts können Sie derzeit nicht über unseren Webshop vornehmen. Wir übernehmen dies gerne für Sie. Übermitteln Sie uns bitte Ihre Nachricht, indem Sie auf den Button ‘Diese Antwort war nicht hilfreich’ klicken.",
+        "notes_fr": "Vous ne pouvez actuellement pas supprimer votre compte via notre boutique en ligne. Nous nous en chargeons volontiers pour vous. Veuillez nous transmettre votre message en cliquant sur le bouton \"Cette réponse a-t-elle été satisfaisante?\".",
+        "notes_it": "Attualmente non è possibile cancellare il proprio account tramite il nostro webshop. Saremo lieti di farlo per voi. Inviateci il vostro messaggio facendo clic sul pulsante \"Questa risposta non è stata utile\".",
+        "domains": [
+            "ticketcorner.ch"
+        ]
+    },
+
+    {
         "name": "Ticketmaster",
         "url": "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/968ed217-e724-4a6b-8bc0-7cb2a2c10c47",
         "difficulty": "hard",
