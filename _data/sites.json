@@ -17274,21 +17274,21 @@
     },
 
     {
+        "name": "Out of Milk",
+        "url": "https://outofmilk.com/RemoveAccount.aspx",
+        "difficulty": "easy",
+        "domains": [
+            "outofmilk.com"
+        ]
+    },
+
+    {
         "name": "Outlier",
         "url": "https://outlier.ai/legal/privacy-policy",
         "email": "privacy@outlier.ai",
         "difficulty": "hard",
         "domains": [
             "outlier.ai"
-        ]
-    },
-
-    {
-        "name": "Out of Milk",
-        "url": "https://outofmilk.com/RemoveAccount.aspx",
-        "difficulty": "easy",
-        "domains": [
-            "outofmilk.com"
         ]
     },
 
