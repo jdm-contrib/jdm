@@ -17293,6 +17293,16 @@
     },
 
     {
+        "name": "Outlier",
+        "url": "https://outlier.ai/legal/privacy-policy",
+        "email": "privacy@outlier.ai",
+        "difficulty": "impossible",
+        "domains": [
+            "outlier.ai"
+        ]
+    },
+
+    {
         "name": "OV-chipkaart",
         "url": "https://www.ov-chipkaart.nl/en/privacy",
         "url_nl": "https://www.ov-chipkaart.nl/privacy",
