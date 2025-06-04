@@ -1407,15 +1407,9 @@
     {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
-        "difficulty": "impossible",
-        "notes": "We do not 'delete' or 'terminate' accounts on ACC. If you no longer wish to use the site, you may delete all personal information from your profile and then stop logging in.",
-        "notes_ru": "Мы не «удаляем» и не «закрываем» учетные записи на ACC. Если вы больше не хотите использовать сайт, вы можете удалить всю личную информацию из своего профиля, а затем прекратить заходить на учетную запись.",
-        "notes_tr": "ACC üzerindeki hesapları \"silmiyoruz\" veya \"son vermiyoruz\". Eğer web sitesini bir daha kullanmak istemiyorsanız, profilinizden tüm kişisel bilgileri silip bir daha giriş yapmayabilirsiniz.",
-        "notes_fr": "ACC ne supprime pas les comptes. Cependant vous pouvez supprimer les informations qui sont dessus et arreter de vous connecter.",
-        "notes_it": "Non è possibile chiudere o terminare un account su ACC. Se non desideri più utilizzare il sito, puoi comunque eliminare tutti i dati personali dal tuo profilo e non loggarci più",
-        "notes_pt-BR": "Nós não 'deletamos' ou 'terminamos' contas na ACC. Caso você não queira mais utilizar o site, você pode deletar todas as suas informações pessoas em seu perfil e então parar de logar-se.",
-        "notes_ca": "Nosaltres no 'esborrem' o 'finalitzem' comptes d'ACC. En el cas que no vulgui utilitzar més el lloc, pot esborrar totes les teves dades personals del seu perfil i evitar entrar més.",
-        "notes_es": "«Nosotros no 'borramos' o 'finalizamos' cuentas de ACC. En el supuesto que no quieras utilizar más el sitio, puede borrar toda tu información personal de tu perfil y evitar entrar más a tu cuenta.»",
+        "difficulty": "hard",
+        "notes": "If you no longer wish to use the site, you may send a email to their support.",
+        "email": "support@animalcrossingcommunity.com",
         "domains": [
             "animalcrossingcommunity.com"
         ]
@@ -5821,6 +5815,14 @@
     },
 
     {
+        "name": "DialLink",
+        "url": "https://app.diallink.com/v1/settings/company",
+        "difficulty": "easy",
+        "notes": "Under 'Settings' go to 'Company' and click on 'Delete account'.",
+        "domains": ["diallink.com"]
+    },
+
+    {
         "name": "diasp.eu (Diaspora)",
         "url": "https://diasp.eu/user/edit#close_account_pane",
         "difficulty": "easy",
@@ -5971,7 +5973,7 @@
         "name": "Discord",
         "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
         "difficulty": "medium",
-        "notes": "Account deletion will not delete your messages, which you must do manually (Automating this process is possible using projects such as Undiscord). If you're a server owner, you'll need to either [delete the server](https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-), or [transfer ownership](https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
+        "notes": "Account deletion will not delete your messages, which you must do manually or by following this tutorial to ask messages deletion: [https://khcrysalis.dev/blog/mass-deletion/](https://khcrysalis.dev/blog/mass-deletion/) (Take 24 hours to fully remove messages). NOTE: Only not-accessible messages will be removed, meaning you need to leave every servers you're on and close all of your DMs before submitting your demand. If you're a server owner, you'll need to either [delete the server](https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-), or [transfer ownership](https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
         "domains": [
             "discord.com",
             "support.discord.com",
@@ -9928,6 +9930,16 @@
     },
 
     {
+        "name": "Grafana",
+        "url": "https://community.grafana.com/t/how-to-delete-account/18415",
+        "difficulty": "hard",
+        "notes": "Need to open a support ticket.",
+        "domains": [
+            "grafana.com"
+        ]
+    },
+
+    {
         "name": "Grailed",
         "url": "https://www.grailed.com",
         "difficulty": "hard",
@@ -10722,6 +10734,16 @@
     },
 
     {
+        "name": "Holland and Barrett",
+        "url": "hollandandbarrett.com/my-account/security-settings",
+        "difficulty": "easy",
+        "notes": "Just click the 'Delete Account' button. Account is deleted instantly, account details are stored for 3 years then erased completely.",
+        "domains": [
+            "hollandandbarrett.com"
+        ]
+    },
+
+    {
         "name": "Holopin",
         "email": "support@holopin.io",
         "url": "https://www.holopin.io/privacy.html",
@@ -11458,6 +11480,16 @@
         "notes_tr": "\"Ayarlarım\" kısmına girin ve aşağı doğru kaydırın, ardından \"Sil\" tuşuna tıklayın.",
         "domains": [
             "indiegogo.com"
+        ]
+    },
+
+    {
+        "name": "Infinibrowser",
+        "url": "https://infinibrowser.wiki/info/contact",
+        "difficulty": "hard",
+        "notes": "You have to contact the developer through discord.",
+        "domains": [
+            "infinibrowser.wiki"
         ]
     },
 
@@ -17261,6 +17293,16 @@
     },
 
     {
+        "name": "Outlier",
+        "url": "https://outlier.ai/legal/privacy-policy",
+        "email": "privacy@outlier.ai",
+        "difficulty": "impossible",
+        "domains": [
+            "outlier.ai"
+        ]
+    },
+
+    {
         "name": "OV-chipkaart",
         "url": "https://www.ov-chipkaart.nl/en/privacy",
         "url_nl": "https://www.ov-chipkaart.nl/privacy",
@@ -17736,6 +17778,16 @@
         "notes_fr": "Envoyez un email pour supprimer votre compte.",
         "domains": [
             "mypcs.com"
+        ]
+    },
+
+    {
+        "name": "PDF Editify",
+        "url": "https://pdfeditify.com/contact",
+        "difficulty": "hard",
+        "notes": "Fill out the contact form and request the deletion of your account.",
+        "domains": [
+            "pdfeditify.com"
         ]
     },
 
@@ -19131,6 +19183,13 @@
             "ta.quora.com",
             "te.quora.com"
         ]
+    },
+
+    {
+        "name": "Quotev",
+        "url": "https://www.quotev.com/help/q/23",
+        "difficulty": "medium",
+        "domains": [ "quotev.com" ]
     },
 
     {
@@ -20975,17 +21034,6 @@
     },
 
     {
-        "name": "Skype",
-        "url": "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
-        "difficulty": "impossible",
-        "notes": "You can't delete your Skype profile without deleting your entire Microsoft account. If you have a legacy Skype account that isn't yet linked to a Microsoft account, you must link it to a new Microsoft account for the purpose of closing.\nIf you want to delete your entire Microsoft account, use the instructions for [Microsoft Account](https://justdeleteme.xyz/#microsoft).",
-        "domains": [
-            "skype.com",
-            "support.skype.com"
-        ]
-    },
-
-    {
         "name": "SkySilk",
         "url": "https://help.skysilk.com/support/solutions/articles/9000106317-how-do-i-deactivate-my-account-",
         "difficulty": "limited",
@@ -21210,6 +21258,15 @@
         "notes": "You can delete your account by clicking the red 'DELETE YOUR ACCOUNT' button at the very bottom of the page.",
         "domains": [
             "socialblade.com"
+        ]
+    },
+
+    {
+        "name": "Sofascore",
+        "url": "https://sofascore.helpscoutdocs.com/article/55-how-to-delete-account?lng=en",
+        "difficulty": "easy",
+        "domains": [
+            "sofascore.com"
         ]
     },
 
@@ -22676,6 +22733,18 @@
     },
 
     {
+        "name": "Teams",
+        "meta": "popular",
+        "url": "https://account.live.com/closeaccount.aspx",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Teams account without deleting your entire Microsoft account. This is also true if you migrated your former Skype account to a Teams account. If you want to delete your entire Microsoft account click on the provided link or follow the instructions [here](https://justdeleteme.xyz/#microsoft).",
+        "notes_de": "Sie können Ihren Teams Account nicht löschen ohne Ihre gesamten Microsoft Account zu löschen. Dies gilt auch, wenn Sie Ihren alten Skype Account zu einem Teams Konto konvertiert haben.Sollten Sie Ihren Microsoft Account löschen wollen, klicken Sie auf den bereitgestellten Link, oder folgen Sie den Anweisungen [hier](https://justdeleteme.xyz/#microsoft).",
+        "domains": [
+            "teams.microsoft.com"
+        ]
+    },
+
+    {
         "name": "TeamSpeak",
         "url": "https://support.teamspeak.com/hc/en-us/articles/4408933645201-I-can-t-find-the-option-to-delete-myTeamSpeak-account-How-do-I-do-this-",
         "difficulty": "hard",
@@ -23063,6 +23132,22 @@
         "email": "help@thrivemarket.com",
         "domains": [
             "thrivemarket.com"
+        ]
+    },
+
+    {
+        "name": "Ticketcorner",
+        "url": "https://www.ticketcorner.ch/helpcenter/en/",
+        "url_de": "https://www.ticketcorner.ch/helpcenter/",
+        "url_fr": "https://www.ticketcorner.ch/helpcenter/fr/",
+        "url_it": "https://www.ticketcorner.ch/helpcenter/it/",
+        "difficulty": "hard",
+        "notes": "You cannot currently delete your account via our webshop. We will do this for you. Please send us your message by clicking on the button 'This answer was not helpful'.",
+        "notes_de": "Eine Löschung Ihres Accounts können Sie derzeit nicht über unseren Webshop vornehmen. Wir übernehmen dies gerne für Sie. Übermitteln Sie uns bitte Ihre Nachricht, indem Sie auf den Button ‘Diese Antwort war nicht hilfreich’ klicken.",
+        "notes_fr": "Vous ne pouvez actuellement pas supprimer votre compte via notre boutique en ligne. Nous nous en chargeons volontiers pour vous. Veuillez nous transmettre votre message en cliquant sur le bouton \"Cette réponse a-t-elle été satisfaisante?\".",
+        "notes_it": "Attualmente non è possibile cancellare il proprio account tramite il nostro webshop. Saremo lieti di farlo per voi. Inviateci il vostro messaggio facendo clic sul pulsante \"Questa risposta non è stata utile\".",
+        "domains": [
+            "ticketcorner.ch"
         ]
     },
 
@@ -23873,7 +23958,7 @@
     },
 
     {
-        "name":"TV Tropes",
+        "name": "TV Tropes",
         "url":"https://tvtropes.org/pmwiki/profile.php",
         "difficulty": "easy",
         "notes":"In your profile, there is a 'Delete Account' link. Clicking this will permanently delete all personal information from your user profile and deactivate your account. Your username cannot be used again by you or anyone else",
