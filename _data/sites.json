@@ -18662,6 +18662,17 @@
         ]
     },
 
+        {
+        "name": "Poznaj.to",
+        "url": "https://poznaj.to/konto-panelisty/usun-konto",
+        "difficulty": "easy",
+        "notes": "Provide your password, check the consent, and click the \"Delete\" button on the page. The deletion takes 14 days.",
+        "notes_pl": "Podaj hasło, zaznacz że rozumiesz konsekwencje usunięcia konta i kliknij przycisk \"Usuń\". Usunięcie konta nastąpi po 14 dniach karencji.",
+        "domains": [
+            "poznaj.to"
+        ]
+    },
+
     {
         "name": "Premera",
         "url": "https://www.premera.com/wa/visitor/",
