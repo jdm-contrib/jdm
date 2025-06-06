@@ -15612,6 +15612,16 @@
     },
 
     {
+        "name": "MyCreds",
+        "url": "https://membertrustregistry.mycreds.ca",
+        "difficulty": "hard",
+        "notes": "Account deletion has to be done by the issuing institution. Use the linked page to find the approprite information for contacting the issuing institution.",
+        "domains": [
+            "mycreds.ca"
+        ]
+    },
+
+    {
         "name": "myESET",
         "url": "https://my.eset.com/account",
         "difficulty": "easy",
