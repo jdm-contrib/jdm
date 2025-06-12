@@ -22477,8 +22477,8 @@
         "name": "T2C Alertes",
         "url": "https://www.t2c.fr/formulaire/nous-contacter",
         "difficulty": "hard",
-        "notes": "You need to contact support to delete your account.",
-        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "notes": "You need to contact support to delete your account. Send them your name, surname, email address, phone number, and home address.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte. Envoyez-leur votre nom, prénom, adresse email, numéro de téléphone, et adresse de domicile.",
         "domains": [
             "t2c.fr"
         ]
