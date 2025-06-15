@@ -16148,6 +16148,16 @@
     },
 
     {
+        "name": "Newspapers.com",
+        "url": "https://www.newspapers.com/contact/",
+        "difficulty": "hard",
+        "notes": "Click the link to send a message to support and ask them to delete your account.",
+        "domains": [
+            "newspapers.com"
+        ]
+    },
+
+    {
         "name": "Newspipe",
         "url": "https://www.newspipe.org/",
         "email": "info@newspipe.org",
