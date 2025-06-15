@@ -27058,5 +27058,15 @@
         "domains": [
             "sdamgia.ru"
         ]
+    },
+
+    {
+        "name": "Weather API",
+        "url": "https://www.weatherapi.com/my/close-account.aspx",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and check the box to confirm you want to delete your account. Then click on the 'Close My Account' button.",
+        "domains": [
+            "weatherapi.com"
+        ]
     }
 ]
