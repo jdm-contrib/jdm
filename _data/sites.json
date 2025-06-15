@@ -27068,5 +27068,15 @@
         "domains": [
             "weatherapi.com"
         ]
+    },
+
+    {
+        "name": "SHEEPIT",
+        "url": "https://www.sheepit-renderfarm.com/user/remove",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and provide a Reason for Account Deletion and click 'Remove Account'.",
+        "domains": [
+            "sheepit-renderfarm.com"
+        ]
     }
 ]
