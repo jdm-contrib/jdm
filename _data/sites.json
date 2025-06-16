@@ -20681,6 +20681,16 @@
     },
 
     {
+        "name": "SHEEPIT",
+        "url": "https://www.sheepit-renderfarm.com/user/remove",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and provide a Reason for Account Deletion and click 'Remove Account'.",
+        "domains": [
+            "sheepit-renderfarm.com"
+        ]
+    },
+
+    {
         "name": "Shein",
         "url": "https://shein.com/robot",
         "difficulty": "hard",
@@ -20688,16 +20698,6 @@
         "notes_fr": "Cliquez sur le lien, cliquez ensuite sur \"Contacter l'agent\", sélectionnez \"Se désabonner et supprimer\". Enfin remplissez les différents champs puis appuyez sur \"Soumettre\". ⚠️ Il faut impérativement donner un motif de suppression de compte pour que cela fonctionne.",
         "domains": [
             "shein.com"
-        ]
-    },
-
-    {
-        "name": "SHEEPIT",
-        "url": "https://www.sheepit-renderfarm.com/user/remove",
-        "difficulty": "easy",
-        "notes": "Go to the linked page and provide a Reason for Account Deletion and click 'Remove Account'.",
-        "domains": [
-            "sheepit-renderfarm.com"
         ]
     },
 
