@@ -20692,6 +20692,16 @@
     },
 
     {
+        "name": "SHEEPIT",
+        "url": "https://www.sheepit-renderfarm.com/user/remove",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and provide a Reason for Account Deletion and click 'Remove Account'.",
+        "domains": [
+            "sheepit-renderfarm.com"
+        ]
+    },
+
+    {
         "name": "Shikimori",
         "url": "https://shikimori.one/clubs/1093-faq-chasto-zadavaemye-voprosy",
         "difficulty": "impossible",
@@ -25280,6 +25290,16 @@
     },
 
     {
+        "name": "Weather API",
+        "url": "https://www.weatherapi.com/my/close-account.aspx",
+        "difficulty": "easy",
+        "notes": "Go to the linked page and check the box to confirm you want to delete your account. Then click on the 'Close My Account' button.",
+        "domains": [
+            "weatherapi.com"
+        ]
+    },
+
+    {
         "name": "The Weather Network",
         "url": "https://www.theweathernetwork.com/my-account/?intcmp=twn_supernav_settings",
         "difficulty": "medium",
@@ -27057,26 +27077,6 @@
         "notes_ru": "Перейдите по ссылке и нажмите кнопку \"Удалить учетную запись\".",
         "domains": [
             "sdamgia.ru"
-        ]
-    },
-
-    {
-        "name": "Weather API",
-        "url": "https://www.weatherapi.com/my/close-account.aspx",
-        "difficulty": "easy",
-        "notes": "Go to the linked page and check the box to confirm you want to delete your account. Then click on the 'Close My Account' button.",
-        "domains": [
-            "weatherapi.com"
-        ]
-    },
-
-    {
-        "name": "SHEEPIT",
-        "url": "https://www.sheepit-renderfarm.com/user/remove",
-        "difficulty": "easy",
-        "notes": "Go to the linked page and provide a Reason for Account Deletion and click 'Remove Account'.",
-        "domains": [
-            "sheepit-renderfarm.com"
         ]
     }
 ]
