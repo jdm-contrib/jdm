@@ -17968,6 +17968,17 @@
     },
 
     {
+        "name": "Phare",
+        "url": "https://app.phare.io/organization/settings",
+        "difficulty": "easy",
+        "notes": "In the danger zone section at the bottom of the page, confirm your choice and click 'Delete my organization'.",
+        "domains": [
+            "phare.io",
+            "app.phare.io"
+        ]
+    },
+    
+    {
         "name": "Philips Hue",
         "url": "https://account.meethue.com/account",
         "difficulty": "easy",
