@@ -4999,6 +4999,16 @@
             "coub.com"
         ]
     },
+    {
+        "name": "Couponut",
+        "url": "https://couponut.com/settings",
+        "difficulty": "easy",
+        "notes": "log in then visit the linked page. click on Security tab. Scroll to the bottom of the page and click \"Delete Account\".",
+        "email": "support@couponut.com",
+        "domains": [
+            "couponut.com"
+        ]
+    },    
 
     {
         "name": "Couchsurfing",
