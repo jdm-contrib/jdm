@@ -12670,7 +12670,18 @@
             "kongregate.com"
         ]
     },
-
+    
+    {
+        "name": "Koofr",
+        "url": "https://app.koofr.net/app/remove-account",
+        "difficulty": "medium",
+        "notes": "Only empty accounts can be removed. Please delete all files from your account before requesting removal.",
+        "domains": [
+            "koofr.eu",
+            "app.koofr.net"
+        ]
+    },
+    
     {
         "name": "Kotaku",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
