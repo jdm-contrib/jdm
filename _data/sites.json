@@ -26936,6 +26936,16 @@
     },
 
     {
+        "name": "Transpocket",
+        "url": "https://transpocket.com/",
+        "difficulty": "easy",
+        "notes": "Click the settings button in the bottom left corner ->select delete account -> enter DELETE and click confirm",
+        "domains": [
+            "transpocket.com"
+        ]
+    },
+
+    {
         "name": "ZeroTier",
         "url": "https://docs.zerotier.com/central-billing/#how-to-delete-your-whole-account",
         "difficulty": "easy",
