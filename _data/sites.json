@@ -23655,6 +23655,16 @@
     },
 
     {
+        "name": "Transpocket",
+        "url": "https://transpocket.com/",
+        "difficulty": "easy",
+        "notes": "Click the settings button in the bottom left corner ->select delete account -> enter DELETE and click confirm",
+        "domains": [
+            "transpocket.com"
+        ]
+    },
+
+    {
         "name": "TrashMail",
         "url": "https://trashmail.com/?lang=en&cmd=manager",
         "difficulty": "easy",
