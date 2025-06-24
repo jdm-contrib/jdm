@@ -3826,6 +3826,29 @@
     },
 
     {
+        "name": "Cars Région Isère",
+        "url": "https://carsisere.auvergnerhonealpes.fr/fr/mon-espace/159/Member/editprofile",
+        "difficulty": "easy",
+        "notes": "On your profile settings, scroll down and click on \"Delete my account\", then confirm by clicking on \"Delete my subscription\".",
+        "notes_fr": "Sur vos paramètres de compte, descendez et cliquez sur \"Supprimer mon inscription\", puis confirmez en cliquant sur \"Supprimer mon inscription\".",
+        "domains": [
+            "carsisere.auvergnerhonealpes.fr"
+        ]
+    },
+
+    {
+        "name": "Cars Région Savoie / Altibus",
+        "url": "https://www.cars-region-savoie.fr/suggestions-reclamations/",
+        "difficulty": "hard",
+        "notes": "You need to contact the support to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "domains": [
+            "cars-region-savoie.fr",
+            "altibus.com"
+        ]
+    },
+
+    {
         "name": "Cash'em All",
         "url": "https://cashemall.online/legal/v1/privacy/online.cashemall.app",
         "email": "contact@cashemall.online",
@@ -4056,6 +4079,21 @@
         "difficulty": "easy",
         "domains": [
             "challonge.com"
+        ]
+    },
+
+    {
+        "name": "Chamonix Mobilité",
+        "url": "https://www.chamonix-mobilite.com/en/nous-contacter",
+        "url_fr": "https://www.chamonix-mobilite.com/fr/nous-contacter",
+        "notes": "You need to contact support through email to delete your account.",
+        "notes_fr": "Vous devez contacter le support par email pour supprimer votre compte.",
+        "email": "assistance@secureticket.fr",
+        "email_subject": "Suppression de compte",
+        "email_body": " Je demande la suppression de mon compte Chamonix Mobilité",
+        "difficulty": "hard",
+        "domains": [
+            "chamonix-mobilite.com"
         ]
     },
 
@@ -12788,6 +12826,17 @@
     },
 
     {
+        "name": "L'VA",
+        "url": "https://www.lva-mobilite.fr/account/profile",
+        "difficulty": "easy",
+        "notes": "On your account information page, click on \"Supprimer mon compte\", confirm your email address and your password, and click on \"Supprimer mon compte\".",
+        "notes_fr": "Sur la page d'informations sur votre compte, cliquez sur \"Supprimer mon compte\", confirmez votre adress email et votre mot de passe, et cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "lva-mobilite.fr"
+        ]
+    },
+
+    {
         "name": "La Poste",
         "url": "https://aide.laposte.fr/mesdonneespersonnelles/moncompte/suppression",
         "difficulty": "hard",
@@ -15171,6 +15220,17 @@
     },
 
     {
+        "name": "Mon Espace STAS",
+        "url": "https://www.reseau-stas.fr/fr/mon-espace-stas/159/Member/editprofile",
+        "difficulty": "easy",
+        "notes": "On your profile settings, scroll down and click on \"Delete my account\", then confirm by clicking on \"Delete my subscription\".",
+        "notes_fr": "Sur vos paramètres de compte, descendez et cliquez sur \"Supprimer mon inscription\", puis confirmez en cliquant sur \"Supprimer mon inscription\".",
+        "domains": [
+            "reseau-stas.fr"
+        ]
+    },
+
+    {
         "name": "Monarch Money",
         "url": "https://help.monarchmoney.com/hc/en-us/articles/4412388754708-Delete-a-Monarch-Account",
         "difficulty": "easy",
@@ -16920,6 +16980,17 @@
         "notes_pt-BR": "Nas preferências do seu perfil, clique em 'Delete Account' e depois confirme.",
         "domains": [
             "omnipilot.ai"
+        ]
+    },
+
+    {
+        "name": "Ondéa Grand Lac",
+        "url": "https://www.ondeagrandlac.fr/account/profile",
+        "difficulty": "easy",
+        "notes": "On your profile page, scroll down, click on \"Supprimer mon compte\" then click on \"Oui, supprimer\".",
+        "notes_fr": "Sur votre page de profil, descendez, cliquez sur \"Supprimer mon compte\" puis cliquez sur \"Oui, supprimer\".",
+        "domains": [
+            "ondeagrandlac.fr"
         ]
     },
 
@@ -19887,6 +19958,18 @@
     },
 
     {
+        "name": "Rhonexpress",
+        "url": "https://www.rhonexpress.fr/en_GB/account/profile/edit",
+        "url_it": "https://www.rhonexpress.fr/fr_FR/account/profile/edit",
+        "difficulty": "easy",
+        "notes": "On your personal information page, scroll down to \"Delete my account\", and click on \"I delete my account\".",
+        "notes_fr": "Sur la page de vos informations personnelles, descendez jusqu'a \"Supprimer mon compte\", et cliquez sur \"Je supprime mon compte\"",
+        "domains": [
+            "rhonexpress.fr"
+        ]
+    },
+
+    {
         "name": "Rideindego",
         "url": "https://www.rideindego.com/faq/#how-do-i-cancel-my-pass",
         "difficulty": "impossible",
@@ -19968,6 +20051,17 @@
         "domains": [
             "rituals.com",
             "service.rituals.com"
+        ]
+    },
+
+    {
+        "name": "RLV e-boutique",
+        "url": "https://eboutique-rlv.airwebpass.com/account/",
+        "difficulty": "easy",
+        "notes": "On your account page, click on your account name, scroll down, and click on \"Supprimer mon compte\". Confirm you want to delete your account, a login prompt will ask for your email and password, and click on \"Me Connecter\".",
+        "notes_fr": "Sur votre page de compte, cliquez sur le nom de votre compte, descendez et cliquez sur \"Supprimer mon compte\". Confirmez que vous souhaitez supprimer votre compte, un pop-up de connexion demandera votre email et mot de passe, et cliquez sur \"Me Connecter\".",
+        "domains": [
+            "eboutique-rlv.airwebpass.com"
         ]
     },
 
@@ -21817,6 +21911,17 @@
     },
 
     {
+        "name": "Star't",
+        "url": "https://www.star-t.fr/account/profile",
+        "difficulty": "easy",
+        "notes": "On your profile page, scroll down, click on \"Supprimer mon compte\" then click on \"Oui, supprimer\".",
+        "notes_fr": "Sur votre page de profil, descendez, cliquez sur \"Supprimer mon compte\" puis cliquez sur \"Oui, supprimer\".",
+        "domains": [
+            "star-t.fr"
+        ]
+    },
+
+    {
         "name": "Starbucks",
         "url": "https://www.starbucks.com/terms/privacy-policy/#contact_us",
         "difficulty": "hard",
@@ -21862,6 +21967,17 @@
         "notes_tr": "Profil ayarlarınıza gidin, aşağı kaydırın ve 'Profili sil' bağlantısını tıklayın. Bazı nedenlerden dolayı hesabınızın silinememesi mümkün olabilir, örneğin: başlangıç, finansman veya bitiş aşamasında bir projeniz var; aktif bir ortak sayfanız var; hala finansman aşamasında olan bir projeyi desteklediniz ve ödemenizi henüz almadık veya ödemeniz size iade edilmedi.",
         "domains": [
             "startnext.com"
+        ]
+    },
+
+    {
+        "name": "STAS - Agence en Ligne",
+        "url": "https://www.reseau-stas.fr/fr/nous-contacter/14/Contact",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte.",
+        "domains": [
+            "boutique.reseau-stas.fr"
         ]
     },
 
@@ -22524,6 +22640,17 @@
     },
 
     {
+        "name": "Synchro Mobilités",
+        "url": "https://start.synchro.grandchambery.fr/fr/compte/informations",
+        "difficulty": "easy",
+        "notes": "On your account information page, click on \"Supprimer mon compte\", confirm your email address and your password, and click on \"Supprimer mon compte\".",
+        "notes_fr": "Sur la page d'informations sur votre compte, cliquez sur \"Supprimer mon compte\", confirmez votre adress email et votre mot de passe, et cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "synchro.grandchambery.fr"
+        ]
+    },
+
+    {
         "name": "Synology",
         "url": "https://account.synology.com/en-us/profile",
         "difficulty": "easy",
@@ -22541,6 +22668,28 @@
         "notes": "You will need to provide proof of identity such as a passport or drivers license and verify the phone number associated with your T-Mobile ID. This will not delete active service plans if you have any.",
         "domains": [
             "t-mobile.com"
+        ]
+    },
+
+    {
+        "name": "T2C Alertes",
+        "url": "https://www.t2c.fr/formulaire/nous-contacter",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account. Send them your name, surname, email address, phone number, and home address.",
+        "notes_fr": "Vous devez contacter le support pour supprimer votre compte. Envoyez-leur votre nom, prénom, adresse email, numéro de téléphone, et adresse de domicile.",
+        "domains": [
+            "t2c.fr"
+        ]
+    },
+
+    {
+        "name": "T2C Boutique",
+        "url": "https://eboutique.smtc-clermont.fr/en/account/informations",
+        "difficulty": "easy",
+        "notes": "On your account information page, click on \"Supprimer mon compte\", confirm your email address and your password, and click on \"Supprimer mon compte\".",
+        "notes_fr": "Sur la page d'informations sur votre compte, cliquez sur \"Supprimer mon compte\", confirmez votre adress email et votre mot de passe, et cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "eboutique.smtc-clermont.fr"
         ]
     },
 
@@ -22566,6 +22715,17 @@
         "email_body": "Hello. Please delete my Tabnine account.",
         "domains": [
             "tabnine.com"
+        ]
+    },
+
+    {
+        "name": "TAC Mobilités",
+        "url": "https://www.tac-mobilites.fr/account/profile",
+        "difficulty": "easy",
+        "notes": "On your profile page, scroll down, click on \"Supprimer mon compte\" then click on \"Supprimer\".",
+        "notes_fr": "Sur votre page de profil, descendez, cliquez sur \"Supprimer mon compte\" puis cliquez sur \"Supprimer\".",
+        "domains": [
+            "tac-mobilites.fr"
         ]
     },
 
@@ -24501,6 +24661,17 @@
             "v.ps",
             "status.v.ps",
             "vps.hosting"
+        ]
+    },
+
+    {
+        "name": "Valence Romans Mobilités",
+        "url": "https://start.valenceromansmobilites.fr/fr/compte/informations",
+        "difficulty": "easy",
+        "notes": "On your account information page, click on \"Supprimer mon compte\", confirm your email address and your password, and click on \"Supprimer mon compte\".",
+        "notes_fr": "Sur la page d'informations sur votre compte, cliquez sur \"Supprimer mon compte\", confirmez votre adress email et votre mot de passe, et cliquez sur \"Supprimer mon compte\".",
+        "domains": [
+            "valenceromansmobilites.fr"
         ]
     },
 
@@ -27062,6 +27233,18 @@
         "email_body": "Hesabımın silinmesini talep ediyorum. Ekte KVKK formum bulunmaktadır.",
         "domains": [
             "ciceksepeti.com"
+        ]
+    },
+
+    {
+        "name": "Île-de-France Mobilités Connect",
+        "url": "https://www.iledefrance-mobilites.fr/en/aide-et-contacts/iledefrance-mobilites-connect/desactiver-mon-compte-idfm-connect",
+        "url_fr": "https://www.iledefrance-mobilites.fr/aide-et-contacts/iledefrance-mobilites-connect/desactiver-mon-compte-idfm-connect",
+        "difficulty": "medium",
+        "notes": "Log in to the account Île-de-France Mobilités Connect that you want to deactivate, in the \"My space\" section, select \"Manage my information\", click on the link \"Deactivate my Île-de-France Mobilités Connect account\", click the \"Confirm Deactivation\" button",
+        "notes_fr": "Connectez-vous sur le compte Île-de-France Mobilités Connect que vous souhaitez désactiver, dans la rubrique \"Mon espace\", sélectionnez \"Gérer mes informations\", cliquez sur le lien \"Désactiver mon compte Île-de-France Mobilités Connect\", cliquez sur le bouton \"Confirmer la désactivation\".",
+        "domains": [
+            "iledefrance-mobilites.fr"
         ]
     },
 
