@@ -22082,9 +22082,9 @@
 
     {
         "name": "SteelSeries",
-        "url": "https://steelseries.com/dashboard/profile/delete",
-        "difficulty": "easy",
-        "notes": "Login ⮕ Hover over your username ⮕ Overview ⮕ Profile ⮕ Delete Account ⮕ Delete",
+        "url": "https://support.steelseries.com/hc/en-us/articles/37108618438029-How-Do-I-Delete-My-SteelSeries-Account",
+        "difficulty": "hard",
+        "notes": "Fill the form with your info, requires country, names and email. Upon submitting the ticket, it takes roughly 2 weeks for the deletion to be processed.",
         "domains": [
             "steelseries.com"
         ]
