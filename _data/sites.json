@@ -12956,12 +12956,12 @@
 
     {
         "name": "Lazada",
-        "url": "https://my.lazada.co.id/",
-        "difficulty": "impossible",
-        "notes": "No way to delete your account on this website, even if you ask on their customer support, they only give you instructions on how to uninstall the application.",
-        "notes_id": "Kamu tidak bisa menghapus sama sekali akunmu, bahkan jika bertanya kepada CS, mereka hanyak akan mengarahkan untuk menguninstall aplikasi.",
+        "url": "https://helpcenter.lazada.co.id/s/faq/knowledge?categoryId=1000027486&m_station=faq&questionId=1000142195",
+        "difficulty": "hard",
+        "notes": "Account ⮕ settings ⮕ Account Security ⮕ on Privacy protection menu choose Account Deletion ⮕ Verify your identity ⮕ Select a reason for account deletion ⮕ Check the box next to the Account Deletion Terms and Conditions agreement. You will receive a notification if the account deletion is successful. Beware Account deletion may be rejected if you still have ongoing transaction, or still have LazPaylater bill (if available in your country).",
         "domains": [
             "lazada.co.id",
+            "helpcenter.lazada.co.id",
             "my.lazada.co.id"
         ]
     },
@@ -22082,9 +22082,9 @@
 
     {
         "name": "SteelSeries",
-        "url": "https://steelseries.com/dashboard/profile/delete",
-        "difficulty": "easy",
-        "notes": "Login ⮕ Hover over your username ⮕ Overview ⮕ Profile ⮕ Delete Account ⮕ Delete",
+        "url": "https://support.steelseries.com/hc/en-us/articles/37108618438029-How-Do-I-Delete-My-SteelSeries-Account",
+        "difficulty": "hard",
+        "notes": "Fill the form with your info, requires country, names and email. Upon submitting the ticket, it takes roughly 2 weeks for the deletion to be processed.",
         "domains": [
             "steelseries.com"
         ]
