@@ -19974,7 +19974,8 @@
         "name": "Roadie",
         "url": "https://send.roadie.com/profile/settings",
         "difficulty": "hard",
-        "notes": "Send an email to privacy@roadie.com requesting account deletion. They will ask for your full name, email address, the last four digits of your SSN, and date of birth. You can refuse the latter two items and provide your phone number and physical address instead. Note that the 'DELETE ACCOUNT' button in your profile settings will simply autogenerate an email addressed to support@roadie.com who will tell you to request deletion from privacy@roadie.com.",
+        "notes": "Send an email requesting account deletion. They will ask for your full name, email address, the last four digits of your SSN, and date of birth. You can refuse the latter two items and provide your phone number and physical address instead. Note that the 'DELETE ACCOUNT' button in your profile settings will simply autogenerate an email addressed to their support who will tell you to request deletion from the privacy team.",
+        "email": "privacy@roadie.com",
         "domains": [
             "roadie.com"
         ]
