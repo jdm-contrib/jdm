@@ -4998,17 +4998,7 @@
         "domains": [
             "coub.com"
         ]
-    },
-    {
-        "name": "Couponut",
-        "url": "https://couponut.com/settings",
-        "difficulty": "easy",
-        "notes": "log in then visit the linked page. click on Security tab. Scroll to the bottom of the page and click \"Delete Account\".",
-        "email": "support@couponut.com",
-        "domains": [
-            "couponut.com"
-        ]
-    },    
+    },  
 
     {
         "name": "Couchsurfing",
@@ -5019,6 +5009,16 @@
             "couchsurfing.org",
             "support.couchsurfing.org",
             "couchsurfing.com"
+        ]
+    },
+
+    {
+        "name": "Couponut",
+        "url": "https://couponut.com/settings",
+        "difficulty": "easy",
+        "notes": "Log in then visit the linked page, click on Security tab, scroll to the bottom of the page and click \"Delete Account\".",
+        "domains": [
+            "couponut.com"
         ]
     },
 
