@@ -10310,8 +10310,7 @@
         "name": "Habitica",
         "url": "https://habitica.com/user/settings/site",
         "difficulty": "easy",
-        "notes": "Log in to your account, click the User icon in the top-right corner, click Settings in the drop-down menu, and click the red Delete Account button at the bottom of the page.",
-        "notes_tr": "Hesabınıza giriş yapın, sağ üst köşedeki \"Kullanıcı Simgesi\" öğesine tıklayın, açılır menüden \"Ayarlar\" tuşuna tıklayın ve sayfanın altındaki kırmızı \"Hesabı Sil\" düğmesini tıklayın.",
+        "notes": "Log in to your account, click the User icon in the top-right corner, click Settings in the drop-down menu, and click the red Delete Account button at the bottom of the page. Alternatively, they delete accounts inactive for 5 years.",
         "domains": [
             "habitica.com"
         ]
