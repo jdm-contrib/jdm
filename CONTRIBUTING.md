@@ -30,21 +30,11 @@ The sites, urls and additional notes are stored in `_data/sites.json`. If you wa
 
 ## Translation
 
-There are two options if you want to help on the translation of the site, via Crowdin or directly on the repository. **[Crowdin](https://crowdin.com/project/just-delete-me/invite?h=127042d1581b3e91812c0dd1afa4d7fe1956554) is preferred** as it is more user friendly.
-
 ### Modify an existing Translation
-
-Via [Crowdin](https://crowdin.com/project/just-delete-me/invite?h=127042d1581b3e91812c0dd1afa4d7fe1956554): just click on the language and browse the strings with missing translations.
 
 Via repository: Look for the `CODE.json` file in the `_data/trans/` directory where `CODE` is your [short country code](https://en.wikipedia.org/wiki/Country_code) and then translate it there. You can read [translation reference](TRANSLATION_REFERENCE.md) to see what each of the keys is describing or translating.
 
 ### Add a new translation
-
-#### Via Crowdin
-
-Open an issue to request a new language to be added, then refer to the [Modify an existing translation](#modify-an-existing-translation) section.
-
-#### Via Repository
 
 1. Create a new `CODE.json` file in the `_data/trans/` directory where `CODE` is a [language tags as described by the IETF in BCP47](https://www.rfc-editor.org/rfc/rfc5646.html).  
 Typically, using the shortest available [ISO 639 code](https://www.loc.gov/standards/iso639-2/php/English_list.php) is sufficient. Appending an [ISO 3166-1 alpha-2 ](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements) country code using a hyphen to distinguish the region is possible, if necessary. (e.g. `cs` for Czech or `pt-PT` for portuguese as spoken in Portugal)
