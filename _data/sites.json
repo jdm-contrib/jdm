@@ -4349,6 +4349,17 @@
     },
 
     {
+        "name": "Citadel Servers",
+        "url": "https://citadelservers.com",
+        "difficulty": "hard",
+        "notes": "Open a ticket with their billing department to request removal.",
+        "domains": [
+            "citadelservers.com",
+            "citadelservers.co"
+        ]
+    },
+
+    {
         "name": "Classmates",
         "url": "https://secure.classmates.com/auth/removemember",
         "difficulty": "easy",
