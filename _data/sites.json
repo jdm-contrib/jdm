@@ -6668,6 +6668,14 @@
     },
 
     {
+        "name": "Duplichecker",
+        "url": "https://www.duplichecker.com/contact-us",
+        "difficulty": "hard",
+        "notes": "You need to send a request via email or contact page to delete your data.",
+        "email": "support@duplichecker.com"
+    },
+
+    {
         "name": "Dwell",
         "url": "https://dwell.co.uk/contactus.php",
         "difficulty": "impossible",
