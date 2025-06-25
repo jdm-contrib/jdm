@@ -5062,6 +5062,16 @@
     },
 
     {
+        "name": "Couponut",
+        "url": "https://couponut.com/settings",
+        "difficulty": "easy",
+        "notes": "Log in then visit the linked page, click on Security tab, scroll to the bottom of the page and click \"Delete Account\".",
+        "domains": [
+            "couponut.com"
+        ]
+    },
+
+    {
         "name": "Coursera",
         "url": "https://www.coursera.org/account-settings",
         "difficulty": "easy",
