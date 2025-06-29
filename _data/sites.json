@@ -24090,6 +24090,17 @@
     },
 
     {
+        "name": "Tunecore",
+        "url": "https://support.tunecore.com/hc/en-us/articles/115006687268-How-do-I-close-my-account",
+        "difficulty": "hard",
+        "notes": "Send an email to the customer support team containing your UID, username, third-party account used to log in, and reason for deleting the account.",
+        "email": "support@tunecore.zendesk.com",
+        "domains": [
+            "tunecore.com"
+        ]
+    },
+
+    {
         "name": "TuneMyMusic",
         "url": "https://app.tunemymusic.com/settings",
         "difficulty": "easy",
