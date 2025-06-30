@@ -20674,6 +20674,16 @@
     },
 
     {
+        "name": "Semrush",
+        "url": "https://www.semrush.com/kb/support/",
+        "difficulty": "hard",
+        "notes": "You can delete your free account anytime by sending a request to their support team via this link, as described in their Terms of Service (7.4 De-Registration). To have your account deleted from their system, you will get a separate email with a removal activation link. You must click this link before they can take action on the request. This is to guarantee that you intend to delete your account.",
+        "domains": [
+            "semrush.com"
+        ]
+    },
+
+    {
         "name": "SendGrid",
         "url": "https://support.sendgrid.com/hc/en-us/articles/4410760485403-Data-Retention-and-Deletion-in-Twilio-Products",
         "difficulty": "hard",
