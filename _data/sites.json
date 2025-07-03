@@ -24769,6 +24769,16 @@
     },
 
     {
+        "name": "VCV Rack",
+        "url": "https://vcvrack.com/account",
+        "difficulty": "easy",
+        "notes": "Go to your account page and click the \"Delete account\" link.",
+        "domains": [
+            "vcvrack.com"
+        ]
+    },
+
+    {
         "name": "Veduca",
         "url": "https://veduca.org",
         "difficulty": "impossible",
