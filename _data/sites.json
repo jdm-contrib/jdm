@@ -1988,6 +1988,18 @@
     },
 
     {
+        "name": "Audiofanzine",
+        "url": "https://fr.audiofanzine.com/fonctionnalites-audiofanzine/forums/t.759426,supprimer-son-compte.html",
+        "difficulty": "medium",
+        "notes": "To delete your account, go to your profile and click on the blue “Edit my profile” link to the right of your username. At the bottom right of the new page, you'll find a red “Delete my account” link. You will then receive an e-mail confirming your deletion request, followed by yet another e-mail indicating that your account will be deleted after 7 days.",
+        "domains": [
+            "en.audiofanzine.com",
+            "fr.audiofanzine.com"
+        ],
+        "email": "contact@audiofanzine.net",
+    },
+
+    {
         "name": "Audiomack",
         "url": "https://audiomack.com/dashboard#delete-account",
         "difficulty": "easy",
