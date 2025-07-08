@@ -24810,6 +24810,17 @@
     },
 
     {
+        "name": "Velo'v",
+        "url": "https://velov.grandlyon.com/",
+        "difficulty": "hard",
+        "notes": "You need to call the support through phone to delete your account.",
+        "notes_fr": "Vous devez contacter le support par téléphone pour supprimer votre compte.",
+        "domains": [
+            "velov.grandlyon.com"
+        ]
+    },
+
+    {
         "name": "Venmo",
         "url": "https://account.venmo.com/settings/profile/cancel/confirm",
         "difficulty": "easy",
