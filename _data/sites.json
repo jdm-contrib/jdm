@@ -17155,6 +17155,17 @@
     },
 
     {
+        "name": "Onshape",
+        "url": "https://cad.onshape.com/user/profile",
+        "difficulty": "easy",
+        "notes": "Go to your account page, click the \"Delete my Onshape account\" link, enter your password and confirm your choice. Existing links to and copies of your documents will still remain active.",
+        "domains": [
+            "onshape.com",
+            "cad.onshape.com"
+        ]
+    },
+
+    {
         "name": "Open Collective",
         "url": "https://opencollective.com/dashboard",
         "difficulty": "easy",
