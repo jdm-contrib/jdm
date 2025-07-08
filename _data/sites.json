@@ -21036,6 +21036,17 @@
     },
 
     {
+        "name": "Sibra",
+        "url": "https://boutique.sibra.fr/",
+        "difficulty": "impossible",
+        "notes": "Nothing says how to do it and the support does not respond.",
+        "notes_fr": "Rien ne dit comment le faire et le support ne répond pas.",
+        "domains": [
+            "sibra.fr"
+        ]
+    },
+
+    {
         "name": "SigFig",
         "url": "https://support.sigfig.com/hc/en-us/articles/202586434-How-do-I-completely-delete-my-account-",
         "difficulty": "hard",
