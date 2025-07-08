@@ -17082,17 +17082,6 @@
     },
 
     {
-        "name": "Onshape",
-        "url": "https://cad.onshape.com/user/profile",
-        "difficulty": "easy",
-        "notes": "Go to your account page, click the \"Delete my Onshape account\" link, enter your password and confirm your choice. Existing links to and copies of your documents will still remain active.",
-        "domains": [
-            "onshape.com",
-            "cad.onshape.com"
-        ]
-    },
-
-    {
         "name": "The Onion",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
@@ -17150,6 +17139,17 @@
         "notes_pt-BR": "Na aba de configurações, selecione a opção 'Delete Account' e digite o captcha. Após isso, você receberá um e-mail com a confirmação da exclusão.",
         "domains": [
             "onlyfans.com"
+        ]
+    },
+
+    {
+        "name": "Onshape",
+        "url": "https://cad.onshape.com/user/profile",
+        "difficulty": "easy",
+        "notes": "Go to your account page, click the \"Delete my Onshape account\" link, enter your password and confirm your choice. Existing links to and copies of your documents will still remain active.",
+        "domains": [
+            "onshape.com",
+            "cad.onshape.com"
         ]
     },
 
