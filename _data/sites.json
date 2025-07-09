@@ -19201,6 +19201,16 @@
     },
 
     {
+        "name": "Qobuz",
+        "url": "https://www.qobuz.com/profile/delete/confirmation/email",
+        "difficulty": "easy",
+        "notes": "Requires email confirmation.",
+        "domains": [
+            "qobuz.com"
+        ]
+    },
+
+    {
         "name": "QooApp",
         "url": "https://www.qoo-app.com/",
         "difficulty": "hard",
@@ -19209,16 +19219,6 @@
         "email_subject": "Account and Data Deletion Request",
         "domains": [
             "qoo-app.com"
-        ]
-    },
-
-    {
-        "name": "Qobuz",
-        "url": "https://www.qobuz.com/profile/delete/confirmation/email",
-        "difficulty": "easy",
-        "notes": "Requires email confirmation.",
-        "domains": [
-            "qobuz.com"
         ]
     },
 
