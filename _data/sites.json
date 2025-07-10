@@ -19211,6 +19211,18 @@
     },
 
     {
+        "name": "QooApp",
+        "url": "https://www.qoo-app.com/",
+        "difficulty": "hard",
+        "notes": "Email the customer support team requesting account data deletion containing your UID and username",
+        "email": "mr@qoo-app.com",
+        "email_subject": "Account and Data Deletion Request",
+        "domains": [
+            "qoo-app.com"
+        ]
+    },
+
+    {
         "name": "QQ",
         "url": "https://kf.qq.com/faq/1803146n2yMr180314MbIfER.html",
         "difficulty": "easy",
