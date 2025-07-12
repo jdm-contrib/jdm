@@ -18001,6 +18001,16 @@
         ]
     },
 
+        {
+        "name": "PenPal World",
+        "url": "https://penpalworld.com/deleteAccount.asp",
+        "difficulty": "impossible",
+        "notes": "While there is an option to 'delete' your account, a big chunk of the data is kept. Profile pictures, usernames, and profile texts will be removed, but comments, messages, and friendships are kept. Also, it says that they still store your email and password 'if later you decide to come back you don't have to go through the sign-up process again'. When you try to reactivate a deleted account, it tells you to verify by inputting all of your old info, which means that it is still stored.",
+        "domains": [
+            "penpalworld.com"
+        ]
+    },
+    
     {
         "name": "Penpot",
         "url": "https://design.penpot.app/#/settings/profile",
