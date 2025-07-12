@@ -24812,9 +24812,9 @@
     {
         "name": "Velo'v",
         "url": "https://velov.grandlyon.com/",
-        "difficulty": "hard",
-        "notes": "You need to call the support through phone to delete your account.",
-        "notes_fr": "Vous devez contacter le support par téléphone pour supprimer votre compte.",
+        "difficulty": "impossible",
+        "notes": "Nothing says how to do it and the support does seem to be able to do it.",
+        "notes_fr": "Rien ne dit comment le faire et le support ne semble pas capable de le faire.",
         "domains": [
             "velov.grandlyon.com"
         ]
