@@ -2443,6 +2443,19 @@
     },
 
     {
+        "name": "Basilica di San Pietro",
+        "url": "https://www.basilicasanpietro.va",
+        "difficulty": "hard",
+        "notes": "Send them an e-mail to request deletion.",
+        "email": "privacy@fsp.va",
+        "email_subject": "PERSONAL DATA.",
+        "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
+        "domains": [
+            "basilicasanpietro.va"
+        ]
+    },
+
+    {
         "name": "Basin",
         "url": "https://usebasin.com/users/edit",
         "difficulty": "easy",
@@ -2778,6 +2791,17 @@
         "notes": "Once you open the url and accept the terms and services your account goes into review. The account is deleted within 1 to 5 business days.",
         "domains": [
             "bingx.com"
+        ]
+    },
+
+    {
+        "name": "BioParque Pantanal",
+        "url": "https://agendamentobioparquepantanal.ms.gov.br/",
+        "difficulty": "hard",
+        "notes": "You have to request the deletion of your account by whatsapp. The phone number is +55 67 9217 8189 and it might take a few tries to get it done.",
+        "notes_pt-BR": "Você deve solicitar a exclusão da sua conta pelo whatsapp. O número é +55 67 9217 8189 e pode ser necessário algumas tentativas para conseguir.",
+        "domains": [
+            "agendamentobioparquepantanal.ms.gov.br"
         ]
     },
 
@@ -11684,6 +11708,17 @@
     },
 
     {
+        "name": "Inhotim",
+        "url": "https://www.inhotim.org.br/",
+        "difficulty": "easy",
+        "notes": "On the app, tap your profile icon on the upper right corner, then tap \"Manage account\", edit \"Manage app stay\" and confirm you really want to delete the account.",
+        "notes_pt-BR": "No aplicativo, clique no seu ícone de perfil no canto superior direito, então vá em \"Gerenciar Conta\", editar \"Ajustar Permanência no App\" e confirme que quer mesmo apagar sua conta.",
+        "domains": [
+            "inhotim.org.br"
+        ]
+    },
+
+    {
         "name": "Inkbunny",
         "url": "https://inkbunny.net/account.php#remove",
         "difficulty": "easy",
@@ -15646,6 +15681,19 @@
         "email": "privacy@freezetag.com",
         "domains": [
             "munzee.com"
+        ]
+    },
+
+    {
+        "name": "Musei Italiani",
+        "url": "https://portale.museiitaliani.it/b2c/myProfile",
+        "difficulty": "hard",
+        "notes": "Send them an e-mail to request deletion.",
+        "email": "rpd@cultura.gov.it",
+        "email_subject": "Elimina il mio account",
+        "email_body": "Ciao,\n\nSi prega di eliminare il mio account YOUR_ACCOUNT e tutti i dati associati ad esso, per favore\n\nGrazie mille,",
+        "domains": [
+            "museiitaliani.it"
         ]
     },
 
