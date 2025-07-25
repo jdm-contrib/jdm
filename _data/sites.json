@@ -3932,6 +3932,17 @@
     },
 
     {
+        "name": "CATME",
+        "url": "https://info.catme.org/student-faq/can-i-delete-my-student-account/",
+        "difficulty": "impossible",
+        "notes": "Contact support to request account deactivation. Accounts cannot be deleted by CATME, but your instructor/s may be able to anonymize your data.",
+        "email": "support@catme.org",
+        "domains": [
+            "catme.com"
+        ]
+    },
+
+    {
         "name": "CBC",
         "url": "https://cbchelp.cbc.ca/hc/en-ca/requests/new",
         "difficulty": "hard",
@@ -13072,7 +13083,7 @@
         "name": "Lego",
         "url": "https://identity.lego.com/profile/security/delete-account",
         "difficulty": "easy",
-        "notes": "Login, go to the linked page and confirm deletion of the account.",
+        "notes": "Login, go to the linked page and confirm deletion of the account. Click the verification link in the email you receive to start the deletion process, which may take up to a month.",
         "domains": [
             "lego.com",
             "identity.lego.com"
