@@ -2433,6 +2433,19 @@
     },
 
     {
+        "name": "Basilica di San Pietro",
+        "url": "https://www.basilicasanpietro.va",
+        "difficulty": "hard",
+        "notes": "Send them an e-mail to request deletion.",
+        "email": "privacy@fsp.va",
+        "email_subject": "PERSONAL DATA.",
+        "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
+        "domains": [
+            "basilicasanpietro.va"
+        ]
+    },
+
+    {
         "name": "Basin",
         "url": "https://usebasin.com/users/edit",
         "difficulty": "easy",
@@ -11653,6 +11666,17 @@
     },
 
     {
+        "name": "Inhotim",
+        "url": "https://www.inhotim.org.br/",
+        "difficulty": "easy",
+        "notes": "On the app, tap your profile icon on the upper right corner, then tap \"Manage account\", edit \"Manage app stay\" and confirm you really want to delete the account.",
+        "notes_pt-BR": "No aplicativo, clique no seu ícone de perfil no canto superior direito, então vá em \"Gerenciar Conta\", editar \"Ajustar Permanência no App\" e confirme que quer mesmo apagar sua conta.",
+        "domains": [
+            "inhotim.org.br"
+        ]
+    },
+
+    {
         "name": "Inkbunny",
         "url": "https://inkbunny.net/account.php#remove",
         "difficulty": "easy",
@@ -15593,6 +15617,19 @@
         "email": "privacy@freezetag.com",
         "domains": [
             "munzee.com"
+        ]
+    },
+
+    {
+        "name": "Musei Italiani",
+        "url": "https://museiitaliani.it/",
+        "difficulty": "hard",
+        "notes": "Send them an e-mail to request deletion.",
+        "email": "rpd@cultura.gov.it",
+        "email_subject": "Elimina il mio account",
+        "email_body": "Ciao,\n\nSi prega di eliminare il mio account YOUR_ACCOUNT e tutti i dati associati ad esso, per favore\n\nGrazie mille,",
+        "domains": [
+            "museiitaliani.it"
         ]
     },
 
