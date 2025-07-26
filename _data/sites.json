@@ -27443,5 +27443,14 @@
         "domains": [
             "sdamgia.ru"
         ]
+    },
+    {
+        "name": "iMockup",
+        "url": "https://www.imockup.app/",
+        "difficulty": "medium",
+        "notes": "You can contact them via email to request account deletion. The email address can be found in the sidebar.",
+        "domains": [
+            "imockup.app"
+        ]
     }
 ]
