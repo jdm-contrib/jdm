@@ -11519,6 +11519,18 @@
     },
 
     {
+        "name": "iMockup",
+        "url": "https://www.imockup.app/",
+        "difficulty": "hard",
+        "notes": "You can contact them via email to request account deletion. The email address can be found in the sidebar.",
+        "email": "support@imockup.app",
+        "email_subject": "Account Deletion Request",
+        "domains": [
+            "imockup.app"
+        ]
+    },
+
+    {
         "name": "impots.gouv.fr",
         "url": "https://www.impots.gouv.fr/",
         "difficulty": "impossible",
