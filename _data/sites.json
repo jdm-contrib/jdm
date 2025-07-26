@@ -12066,22 +12066,22 @@
     },
 
     {
-        "name": "Jalopnik",
-        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
-        "difficulty": "hard",
-        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
-        "domains": [
-            "jalopnik.com"
-        ]
-    },
-
-    {
         "name": "iMockup",
         "url": "https://www.imockup.app/",
         "difficulty": "medium",
         "notes": "You can contact them via email to request account deletion. The email address can be found in the sidebar.",
         "domains": [
             "imockup.app"
+        ]
+    },
+
+    {
+        "name": "Jalopnik",
+        "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
+        "difficulty": "hard",
+        "notes": "Fill out the form using the email address of your account and click on the verification link that is sent.",
+        "domains": [
+            "jalopnik.com"
         ]
     },
 
