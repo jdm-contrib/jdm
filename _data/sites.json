@@ -11521,8 +11521,10 @@
     {
         "name": "iMockup",
         "url": "https://www.imockup.app/",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "You can contact them via email to request account deletion. The email address can be found in the sidebar.",
+        "email": "support@imockup.app",
+        "email_subject": "Account Deletion Request",
         "domains": [
             "imockup.app"
         ]
