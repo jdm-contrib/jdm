@@ -12076,6 +12076,16 @@
     },
 
     {
+        "name": "iMockup",
+        "url": "https://www.imockup.app/",
+        "difficulty": "medium",
+        "notes": "You can contact them via email to request account deletion. The email address can be found in the sidebar.",
+        "domains": [
+            "imockup.app"
+        ]
+    },
+
+    {
         "name": "JavaRush",
         "url": "https://javarush.com/en/settings/security",
         "url_ru": "https://javarush.com/settings/security",
@@ -27442,15 +27452,6 @@
         "notes_ru": "Перейдите по ссылке и нажмите кнопку \"Удалить учетную запись\".",
         "domains": [
             "sdamgia.ru"
-        ]
-    },
-    {
-        "name": "iMockup",
-        "url": "https://www.imockup.app/",
-        "difficulty": "medium",
-        "notes": "You can contact them via email to request account deletion. The email address can be found in the sidebar.",
-        "domains": [
-            "imockup.app"
         ]
     }
 ]
