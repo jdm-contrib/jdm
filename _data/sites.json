@@ -14391,6 +14391,18 @@
     },
 
     {
+        "name": "Maxforlive",
+        "url": "https://support.cycling74.com/hc/en-us/articles/360049932234-Account-Access-Management",
+        "difficulty": "hard",
+        "notes": "The Maxforlive website is affiliated with Cycling74 headquarters whose customer service you must contact Cycling 74 to delete the account, providing your email address, a screenshot of your associated account, and a reason.",
+        "domains": [
+            "cycling74.com",
+            "support.cycling74.com",
+            "maxforlive.com"
+        ]
+    },
+
+    {
         "name": "MaxMind",
         "url": "https://support.maxmind.com/hc/requests/new",
         "difficulty": "hard",
