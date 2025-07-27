@@ -17212,9 +17212,9 @@
     {
         "meta": "popular",
         "name": "OpenAI / ChatGPT",
-        "url": "https://chatgpt.com/#settings/DataControls",
+        "url": "https://chatgpt.com/#settings/Account",
         "difficulty": "easy",
-        "notes": "Follow the link and under \"Delete account\" click \"Delete\".",
+        "notes": "Follow the link and click \"Delete\".",
         "domains": [
             "chatgpt.com",
             "openai.com",
