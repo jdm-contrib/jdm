@@ -2128,6 +2128,16 @@
         ]
     },
 
+	{
+        "name": "Autozis",
+        "url": "https://autozis.com/",
+        "difficulty": "easy",
+        "notes": "On the app or the web portal click the profile icon ⮕ \"Profile\" ⮕ \"Personal data\" ⮕ \"Delete\".",
+        "domains": [
+            "autozis.com"
+        ]
+    },
+	
     {
         "name": "AV Club",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
