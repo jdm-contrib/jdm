@@ -20819,6 +20819,16 @@
     },
 
     {
+        "name": "Serpstat",
+        "url": "https://serpstat.com/users/profile/",
+        "difficulty": "medium",
+        "notes": "Click on \"Settings\", then scroll down and click on \"Delete account\". Verify by entering the word \"delete\". A deletion request is sent and your data will be deleted after 72 hours.",
+        "domains": [
+            "serpstat.com"
+        ]
+    },
+
+    {
         "name": "Server.pro",
         "url": "https://server.pro/",
         "difficulty": "hard",
