@@ -7749,6 +7749,17 @@
     },
 
     {
+        "name": "Fastcompany",
+        "url": "https://fastcompany.com",
+        "difficulty": "impossible",
+        "notes": "You can contact support if you would like to cancel a subscription but it is not possible to delete your account.",
+        "domains": [
+            "fastcompany.com",
+            "fastcompany.zendesk.com"
+        ]
+    },
+
+    {
         "name": "FastWeb",
         "url": "https://www.fastweb.com/login",
         "difficulty": "easy",
@@ -8939,6 +8950,16 @@
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "gamespot.com"
+        ]
+    },
+
+    {
+        "name": "Gamesradar",
+        "url": "https://gamesradar.com",
+        "difficulty": "impossible",
+        "notes": "There is no way to delete your account.",
+        "domains": [
+            "gamesradar.com"
         ]
     },
 
@@ -18678,6 +18699,16 @@
     },
 
     {
+        "name": "Podchaser",
+        "url": "https://podchaser.com",
+        "difficulty": "hard",
+        "notes": "Click on the avatar top-right and click on \"Account Settings\". Click on \"Delete my account\". Fill in the Google form and check your email for a confirmation email.",
+        "domains": [
+            "podchaser.com"
+        ]
+    },
+
+    {
         "name": "Podio",
         "url": "https://podio.com/settings/account",
         "difficulty": "easy",
@@ -18969,6 +19000,16 @@
         "notes_fr": "Connectez-vous ⮕ Cliquez sur le lien ⮕ Entrez votre mot de passe et cliquez sur « Delete Account ».",
         "domains": [
             "prezi.com"
+        ]
+    },
+
+    {
+        "name": "Printful",
+        "url": "https://printful.com",
+        "difficulty": "easy",
+        "notes": "Click on \"More\", then \"Settings\", then \"My account\". Scroll down and click \"Delete account\"",
+        "domains": [
+            "printful.com"
         ]
     },
 
@@ -25742,6 +25783,16 @@
     },
 
     {
+        "name": "Webflow",
+        "url": "https://support.webflow.com/resources/delete-account",
+        "difficulty": "hard",
+        "notes": "Submit a request to delete your account and confirm through an email sent to you. Account deletions are processed within 48 hours of requesting.",
+        "domains": [
+            "webflow.com"
+        ]
+    },
+
+    {
         "name": "Webhosting.dk",
         "url": "https://www.webhosting.dk/DKK/deleteaccount.php",
         "difficulty": "hard",
@@ -26922,6 +26973,16 @@
         "domains": [
             "youneedabudget.com",
             "app.youneedabudget.com"
+        ]
+    },
+
+    {
+        "name": "Yoast",
+        "url": "https://yoast.com",
+        "difficulty": "easy",
+        "notes": "Click \"Account\" then click \"Delete your account\".",
+        "domains": [
+            "yoast.com"
         ]
     },
 
