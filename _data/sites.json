@@ -13879,6 +13879,16 @@
     },
 
     {
+        "name": "Luma",
+        "url": "https://lu.ma/settings",
+        "difficulty": "easy",
+        "notes": "Go to profile settings, scroll to the bottom of the page and click on the 'Delete My Account' button",
+        "domains": [
+            "lu.ma"
+        ]
+    },
+
+    {
         "name": "LuminPDF",
         "url": "https://account.luminpdf.com/profile-settings",
         "difficulty": "easy",
