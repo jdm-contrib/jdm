@@ -10949,8 +10949,8 @@
     {
         "name": "Honeygain",
         "url": "https://dashboard.honeygain.com/profile",
-        "notes": "Go to the website, at the top right click your profile and choose ‘Profile settings’. Under ‘My account’ click ‘Delete’ and then ‘Yes, delete’. You will receive an email with a link to confirm the deletion.",
-        "notes_it": "Vai sul sito web, in alto a destra clicca il tuo profilo e scegli 'Profile settings'. Sotto 'My account' clicca 'Delete' e poi 'Yes, delete'. Riceverai una email con un link per confermare l'eliminazione.",
+        "notes": "Go to the website, at the top right click your profile and choose ‘Profile settings’. Under ‘My account’ click ‘Delete’ and then ‘Yes, delete’. You will receive an email with a link to confirm the deletion. For more info visit this [article](https://support.honeygain.com/hc/en-us/articles/360011094940-How-can-I-delete-my-account).",
+        "notes_it": "Vai sul sito web, in alto a destra clicca il tuo profilo e scegli 'Profile settings'. Sotto 'My account' clicca 'Delete' e poi 'Yes, delete'. Riceverai una email con un link per confermare l'eliminazione. Per più informazioni visita questo [articolo](https://support.honeygain.com/hc/en-us/articles/360011094940-How-can-I-delete-my-account).",
         "difficulty": "easy",
         "domains": [
             "honeygain.com",
