@@ -4095,6 +4095,21 @@
     },
 
     {
+        "name": "celio",
+        "url": "https://www.celio.com/fr-fr/contactus",
+        "url_fr": "https://www.celio.com/fr-fr/contactus",
+        "url_es": "https://www.celio.com/es-es/contactus",
+        "url_nl": "https://www.celio.com/nl-be/contactus",
+        "url_pt-PT": "https://www.celio.com/pt-pt/contactus",
+        "difficulty": "hard",
+        "notes": "Send a customer service request asking to delete your account.",
+        "notes_fr": "Envoyez une demande au service client pour supprimer votre compte.",
+        "domains": [
+            "celio.com"
+        ]
+    },
+
+    {
         "name": "Cengage",
         "url": "https://cengage.my.site.com/s/rtbf",
         "difficulty": "medium",
