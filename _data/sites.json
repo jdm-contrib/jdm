@@ -731,6 +731,18 @@
     },
 
     {
+        "name": "AI Flux Krea Image Generator",
+        "url": "https://aifluxkrea.com/",
+        "notes": "Send an email requesting account deletion and wait a few days for processing.",
+        "difficulty": "hard",
+        "email": "hi@aifluxkrea.com",
+        "email_subject": "Account and Data Deletion Request",
+        "domains": [
+            "aifluxkrea.com"
+        ]
+    },
+
+    {
         "name": "AI Image to Image Generator",
         "url": "https://imgtoimggenerator.com/",
         "notes": "You have two options: 1) Download the [iOS](https://apps.apple.com/app/6747765678) and delete account within the app, or 2) Email requesting account deletion and wait a few days for processing.",
