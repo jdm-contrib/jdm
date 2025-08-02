@@ -21581,6 +21581,17 @@
     },
 
     {
+        "name": "Slowly",
+        "url": "https://help.slowly.app/hc/en-us/articles/115001828351-How-do-I-delete-my-account",
+        "difficulty": "medium",
+        "notes": "This procedure is not available in the web version, but only in the app.",
+        "domains": [
+            "help.slowly.app",
+            "slowly.app"
+        ]
+    },
+
+    {
         "name": "SmallPDF",
         "url": "https://smallpdf.com/profile",
         "difficulty": "hard",
