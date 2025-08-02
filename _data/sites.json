@@ -10962,6 +10962,18 @@
     },
 
     {
+        "name": "Honeygain",
+        "url": "https://dashboard.honeygain.com/profile",
+        "notes": "Go to your profile settings. Click 'Delete' next to your email address. For more info read this [article](https://support.honeygain.com/hc/en-us/articles/360011094940-How-can-I-delete-my-account).",
+        "difficulty": "easy",
+        "domains": [
+            "support.honeygain.com",
+            "dashboard.honeygain.com",
+            "honeygain.com"
+        ]
+    },
+
+    {
         "name": "Honeypot.io",
         "url": "https://app.honeypot.io/profile",
         "notes": "Go to the profile page, click the cog icon, click 'delete your account' and then 'yes delete'",
