@@ -17747,6 +17747,17 @@
     },
 
     {
+        "name": "Packetshare",
+        "url": "https://www.packetshare.io/dashboard/",
+        "difficulty": "easy",
+        "notes": "Visit the dashboard, go to your account settings and click 'Delete account' and 'Yes, delete'.",
+        "domains": [
+            "packetshare.io",
+            "faq.packetshare.io"
+        ]
+    },
+
+    {
         "name": "Packt",
         "url": "https://www.packtpub.com/",
         "difficulty": "hard",
