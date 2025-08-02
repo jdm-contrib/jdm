@@ -13009,6 +13009,35 @@
     },
 
     {
+        "name": "La Redoute",
+        "url": "https://www.laredoute.com/privacy_center.aspx",
+        "url_fr": "https://www.laredoute.fr/privacy_center.aspx",
+        "url_de": "https://www.laredoute.de/privacy_center.aspx",
+        "url_it": "https://www.laredoute.it/privacy_center.aspx",
+        "url_nl": "https://www.laredoute.nl/privacy_center.aspx",
+        "url_pt-PT": "https://www.laredoute.pt/privacy_center.aspx",
+        "url_ru": "https://www.laredoute.ru/privacy_center.aspx",
+        "url_es": "https://www.laredoute.es/privacy_center.aspx",
+        "difficulty": "hard",
+        "notes" : "Send a request on the GDPR form. Make sure you take open it from the website corresponding to your country. (Linked here, based on your browser language: International, Germany, Italia, Netherlands, Portugal, Russia, Spain, )",
+        "notes_fr" : "Envoyez une demande sur le formulaire RGPD. Attention à bien l'ouvrir depuis le site correspondant à votre pays. (Lien donné ici: France)",
+        "domains": [
+            "laredoute.fr",
+            "laredoute.be",
+            "laredoute.de",
+            "laredoute.gr",
+            "laredoute.it",
+            "laredoute.com",
+            "laredoute.nl",
+            "laredoute.pt",
+            "laredoute.ru",
+            "laredoute.es",
+            "laredoute.ch",
+            "laredoute.co.uk"
+        ]
+    },
+
+    {
         "name": "Lampyre",
         "url": "https://lampyre.io/",
         "difficulty": "easy",
