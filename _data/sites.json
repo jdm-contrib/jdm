@@ -25329,6 +25329,17 @@
         ]
     },
 
+    {   
+    "name": "VirtCloud",
+    "url": "https://virtcloud.net",
+    "difficulty": "hard",
+    "notes": "To delete your account, please send an email to info@virtcloud.net with the subject 'Account Deletion Request'. Include your full name and registered email address. Once verified, your account and all associated data will be deleted within 48 hours.",
+    "domains": [
+        "virtcloud.net",
+        "billing.virtcloud.net"
+    ]
+    },
+    
     {
         "name": "Virtualmaster",
         "url": "https://www.virtualmaster.com/virtualmaster/en/issues",
