@@ -25329,7 +25329,7 @@
         ]
     },
 
-    {   
+    {
     "name": "VirtCloud",
     "url": "https://virtcloud.net",
     "difficulty": "hard",
@@ -25339,7 +25339,7 @@
         "billing.virtcloud.net"
     ]
     },
-    
+
     {
         "name": "Virtualmaster",
         "url": "https://www.virtualmaster.com/virtualmaster/en/issues",
