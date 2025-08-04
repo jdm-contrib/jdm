@@ -22114,6 +22114,16 @@
     },
 
     {
+        "name": "Sporcle",
+        "url": "https://www.sporcle.com/settings/account-info/",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, scroll to the bottom and click 'Want to delete your account? Click Here' and confirm.",
+        "domains": [
+            "sporcle.com"
+        ]
+    },
+
+    {
         "name": "Sportsbet",
         "url": "https://helpcentre.sportsbet.com.au/hc/en-us/articles/115007208487-How-do-I-close-my-account-",
         "difficulty": "hard",
