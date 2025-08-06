@@ -10347,8 +10347,9 @@
 
     {
         "name": "Gumtree",
-        "url": "https://my.gumtree.com/manage/details/deactivate",
+        "url": "https://www.gumtree.com/manage-account",
         "difficulty": "easy",
+        "notes": "There is a link at the bottom of the page to deactivate your account.",
         "domains": [
             "gumtree.com",
             "my.gumtree.com"
