@@ -46,6 +46,16 @@
     },
 
     {
+        "name": "17TRACK",
+        "url": "https://help.17track.net/hc/en-us/articles/360061466432-How-to-cancel-my-account",
+        "difficulty": "hard",
+        "notes": "You need to send them a message on their website to delete your account.",
+        "domains": [
+            "17track.net"
+        ]
+    },
+
+    {
         "name": "1984 Hosting",
         "url": "https://1984.hosting/GDPR/",
         "difficulty": "easy",
