@@ -27576,6 +27576,17 @@
     },
 
     {
+        "name": "Zero",
+        "url": "https://zerofasting.zendesk.com/hc/en-us/articles/4402526167067-How-to-Delete-Your-Account-and-Data",
+        "difficulty": "easy",
+        "notes": "Open the app switch to the 'me' page and then My Data -> Delete my account",
+        "domains": [
+            "zerolongevity.com",
+            "zerofasting.zendesk.com"
+        ]
+    },
+
+    {
         "name": "ZeroSSL",
         "url": "https://app.zerossl.com/account",
         "difficulty": "easy",
