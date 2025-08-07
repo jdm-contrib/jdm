@@ -21424,6 +21424,17 @@
     },
 
     {
+        "name": "Simple",
+        "url": "https://help.simple.life/en/articles/9887975-how-to-delete-your-account-or-request-data-deletion",
+        "difficulty": "hard",
+        "notes": "Login to your account, open your profile and then delete your account",
+        "domains": [
+            "simple.life",
+            "help.simple.life"
+        ]
+    },
+
+    {
         "name": "Simplified",
         "url": "https://app.simplified.com/settings",
         "notes": "Click the 'Danger Zone' and then click 'Delete Account'.",
