@@ -21426,8 +21426,8 @@
     {
         "name": "Simple",
         "url": "https://help.simple.life/en/articles/9887975-how-to-delete-your-account-or-request-data-deletion",
-        "difficulty": "hard",
-        "notes": "Login to your account, open your profile and then delete your account",
+        "difficulty": "easy",
+        "notes": "Login to your account, open your profile and then delete your account. Even better use their form at delete.simple.life.",
         "domains": [
             "simple.life",
             "help.simple.life"
