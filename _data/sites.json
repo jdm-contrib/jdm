@@ -546,7 +546,7 @@
         "name": "Addicting Games",
         "url": "https://addictinggameshelp.zendesk.com/hc/en-us/requests/new",
         "difficulty": "hard",
-        "notes": " Fill their form for account deletion and they'll contact you again through mail for confirmation before deleting it.",
+        "notes": "Fill their form for account deletion and they'll contact you again through mail for confirmation before deleting it.",
         "domains": [
             "addictinggames.com"
         ]
