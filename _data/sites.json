@@ -25336,7 +25336,7 @@
         "notes": "To delete your account, please send an email to them. Once verified, your account and all associated data will be deleted within 48 hours.",
         "email": "info@virtcloud.net",
         "email_subject": "Account Deletion Request",
-        "email_body": "Hi, please delete the account associated with my FULL_NAME and EMAIL_ADDRESS. Thanks.", 
+        "email_body": "Hi, please delete the account associated with my FULL_NAME and EMAIL_ADDRESS. Thanks.",
         "domains": [
             "virtcloud.net",
             "billing.virtcloud.net"
