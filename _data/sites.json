@@ -2839,7 +2839,18 @@
             "support.bitfinex.com"
         ]
     },
-
+    
+    {
+        "name": "BitLaunch",
+        "url": "https://app.bitlaunch.io/account/profile",
+        "difficulty": "easy",
+        "notes": "Press the destroy my account button",
+        "domains": [
+            "bitlaunch.io",
+            "app.bitlaunch.io"
+        ]
+    },
+    
     {
         "name": "Bitly",
         "url": "https://app.bitly.com/settings/profile/",
