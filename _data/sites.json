@@ -12882,6 +12882,17 @@
     },
 
     {
+        "name": "Komoot",
+        "url": "https://account.komoot.com/delete",
+        "difficulty": "easy",
+        "notes": "Open settings, on the account page click delete account",
+        "domains": [
+            "komoot.com",
+            "account.komoot.com"
+        ]
+    },
+
+    {
         "name": "Kongregate",
         "url": "https://kong.zendesk.com/hc/en-us/articles/360049211251-How-to-delete-your-account",
         "difficulty": "medium",
