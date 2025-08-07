@@ -16018,6 +16018,16 @@
     },
 
     {
+        "name": "LG.com (HU)",
+        "url": "https://www.lg.com/hu/my-account/profile/delete-profile/",
+        "difficulty": "easy",
+        "notes": "Go to your profile in the navigation bar and then click remove profile.",
+        "domains": [
+            "lg.com"
+        ]
+    },
+
+    {
         "name": "MyMaxon",
         "url": "https://support.maxon.net/hc/en-us/requests/new",
         "difficulty": "hard",
