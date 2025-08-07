@@ -311,11 +311,9 @@
 
     {
         "name": "AbeBooks",
-        "url": "https://www.abebooks.com/customer-support/",
+        "url": "https://support.www.abebooks.com/en_US/contact",
         "difficulty": "hard",
-        "notes": "Select 'Something else' and then 'Close my account' and fill out the e-mail form.",
-        "notes_ru": "Выберите «Что-то еще», затем «Закрыть мою учетную запись» и заполните форму электронной почты.",
-        "notes_tr": "\"Başka bir şey\" seçeneğini seçin, ardından \"Hesabımı Kapat\" tuşuna basın ve e-posta formunu doldurun.",
+        "notes": "Select 'Buying on AbeBooks' then 'Closing your account' then 'Closing your buyer account' then 'Contact us' then fill out the form.",
         "domains": [
             "abebooks.com"
         ]
