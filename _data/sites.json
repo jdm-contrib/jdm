@@ -8053,6 +8053,16 @@
     },
 
     {
+        "name": "fishtank",
+        "url": "https://www.fishtank.live",
+        "difficulty": "easy",
+        "notes": "Starting on the main page, click your profile picture, then 'Profile', press 'Delete Account' and type your email address.",
+        "domains": [
+            "fishtank.live"
+        ]
+    },
+
+    {
         "name": "Fitbit",
         "url": "https://www.fitbit.com/settings/profile",
         "difficulty": "medium",
