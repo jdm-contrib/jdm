@@ -3779,6 +3779,16 @@
     },
 
     {
+        "name": "Calligraphr",
+        "url": "https://www.calligraphr.com/en/profile/",
+        "difficulty": "easy",
+        "notes": "Press 'DELETE MY ACCOUNT' then press 'DELETE MY ACCOUNT' again.",
+        "domains": [
+            "calligraphr.com"
+        ]
+    },
+
+    {
         "name": "CamelCamelCamel",
         "url": "https://camelcamelcamel.com/close_account",
         "difficulty": "easy",
