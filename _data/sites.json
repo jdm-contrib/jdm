@@ -22419,6 +22419,16 @@
     },
 
     {
+        "name": "SteamDB",
+        "url": "https://steamdb.info/signout/",
+        "difficulty": "easy",
+        "notes": "Enable the 'Delete my account and all of its data' tick box then press 'Delete my SteamDB account'",
+        "domains": [
+            "steamdb.info"
+        ]
+    },
+
+    {
         "name": "SteelSeries",
         "url": "https://support.steelseries.com/hc/en-us/articles/37108618438029-How-Do-I-Delete-My-SteelSeries-Account",
         "difficulty": "hard",
