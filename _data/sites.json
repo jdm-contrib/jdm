@@ -21415,16 +21415,6 @@
     },
 
     {
-        "name": "SimplePlanes",
-        "url": "https://www.simpleplanes.com/Account/DeleteAccount",
-        "difficulty": "easy",
-        "notes": "Login to your account, open your profile page and follow these steps: click 'Manage Account' ⮕ click 'Close Account' ⮕ click 'OK' ⮕ type 'CLOSE' ⮕ click 'CLOSE' ⮕ click 'OK'. Using the link from here also skips every step before \"type 'CLOSE'\".",
-        "domains": [
-            "simpleplanes.com"
-        ]
-    },
-
-    {
         "name": "Simple",
         "url": "https://help.simple.life/en/articles/9887975-how-to-delete-your-account-or-request-data-deletion",
         "difficulty": "easy",
@@ -21432,6 +21422,16 @@
         "domains": [
             "simple.life",
             "help.simple.life"
+        ]
+    },
+
+    {
+        "name": "SimplePlanes",
+        "url": "https://www.simpleplanes.com/Account/DeleteAccount",
+        "difficulty": "easy",
+        "notes": "Login to your account, open your profile page and follow these steps: click 'Manage Account' ⮕ click 'Close Account' ⮕ click 'OK' ⮕ type 'CLOSE' ⮕ click 'CLOSE' ⮕ click 'OK'. Using the link from here also skips every step before \"type 'CLOSE'\".",
+        "domains": [
+            "simpleplanes.com"
         ]
     },
 
