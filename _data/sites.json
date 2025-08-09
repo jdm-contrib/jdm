@@ -22180,7 +22180,9 @@
         "difficulty": "easy",
         "notes": "Visit the linked page, scroll to the bottom and click 'Want to delete your account? Click Here' and confirm.",
         "domains": [
-            "sporcle.com"
+            "sporcle.com",
+            "fr.sporcle.com",
+            "es.sporcle.com"
         ]
     },
 
