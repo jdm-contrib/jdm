@@ -21391,6 +21391,17 @@
     },
 
     {
+        "name": "Simple",
+        "url": "https://help.simple.life/en/articles/9887975-how-to-delete-your-account-or-request-data-deletion",
+        "difficulty": "easy",
+        "notes": "Login to your account, open your profile and then delete your account. Even better use their form at delete.simple.life.",
+        "domains": [
+            "simple.life",
+            "help.simple.life"
+        ]
+    },
+
+    {
         "name": "SimpleLogin",
         "url": "https://app.simplelogin.io/dashboard/setting",
         "difficulty": "easy",
@@ -21411,17 +21422,6 @@
         "domains": [
             "simplenote.com",
             "app.simplenote.com"
-        ]
-    },
-
-    {
-        "name": "Simple",
-        "url": "https://help.simple.life/en/articles/9887975-how-to-delete-your-account-or-request-data-deletion",
-        "difficulty": "easy",
-        "notes": "Login to your account, open your profile and then delete your account. Even better use their form at delete.simple.life.",
-        "domains": [
-            "simple.life",
-            "help.simple.life"
         ]
     },
 
