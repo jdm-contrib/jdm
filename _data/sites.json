@@ -555,7 +555,7 @@
         "name": "Addicting Games",
         "url": "https://addictinggameshelp.zendesk.com/hc/en-us/requests/new",
         "difficulty": "hard",
-        "notes": " Fill their form for account deletion and they'll contact you again through mail for confirmation before deleting it.",
+        "notes": "Fill their form for account deletion and they'll contact you again through mail for confirmation before deleting it.",
         "domains": [
             "addictinggames.com"
         ]
@@ -2846,6 +2846,17 @@
         "domains": [
             "bitfinex.com",
             "support.bitfinex.com"
+        ]
+    },
+
+    {
+        "name": "BitLaunch",
+        "url": "https://app.bitlaunch.io/account/profile",
+        "difficulty": "easy",
+        "notes": "Press the destroy my account button",
+        "domains": [
+            "bitlaunch.io",
+            "app.bitlaunch.io"
         ]
     },
 
@@ -12900,6 +12911,17 @@
     },
 
     {
+        "name": "Komoot",
+        "url": "https://account.komoot.com/delete",
+        "difficulty": "easy",
+        "notes": "Open settings then on the account page click delete account",
+        "domains": [
+            "komoot.com",
+            "account.komoot.com"
+        ]
+    },
+
+    {
         "name": "Kongregate",
         "url": "https://kong.zendesk.com/hc/en-us/articles/360049211251-How-to-delete-your-account",
         "difficulty": "medium",
@@ -21387,6 +21409,17 @@
     },
 
     {
+        "name": "Simple",
+        "url": "https://help.simple.life/en/articles/9887975-how-to-delete-your-account-or-request-data-deletion",
+        "difficulty": "easy",
+        "notes": "Login to your account, open your profile and then delete your account. Even better use their form at delete.simple.life.",
+        "domains": [
+            "simple.life",
+            "help.simple.life"
+        ]
+    },
+
+    {
         "name": "Simple Machines",
         "url": "https://simplemachines.org/community/index.php?action=profile;area=deleteaccount",
         "difficulty": "hard",
@@ -27579,6 +27612,17 @@
         "domains": [
             "zeplin.io",
             "app.zeplin.io"
+        ]
+    },
+
+    {
+        "name": "Zero",
+        "url": "https://zerofasting.zendesk.com/hc/en-us/articles/4402526167067-How-to-Delete-Your-Account-and-Data",
+        "difficulty": "easy",
+        "notes": "Open the app switch to the 'me' page and then My Data ⮕ Delete my account",
+        "domains": [
+            "zerolongevity.com",
+            "zerofasting.zendesk.com"
         ]
     },
 
