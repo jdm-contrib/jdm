@@ -21380,17 +21380,6 @@
     },
 
     {
-        "name": "Simple Machines",
-        "url": "https://simplemachines.org/community/index.php?action=profile;area=deleteaccount",
-        "difficulty": "hard",
-        "notes": "Enter your password to have your account marked for deletion by an administrator or moderator. You can do this for any other Simple Machines forums if the forum administrator allows.",
-        "notes_tr": "Hesabınızın bir yönetici veya moderatör tarafından silinmek üzere işaretlenmesi için şifrenizi girin. Forum yöneticisi izin veriyorsa, bunu diğer Simple Machines forumları için yapabilirsiniz.",
-        "domains": [
-            "simplemachines.org"
-        ]
-    },
-
-    {
         "name": "Simple",
         "url": "https://help.simple.life/en/articles/9887975-how-to-delete-your-account-or-request-data-deletion",
         "difficulty": "easy",
@@ -21398,6 +21387,17 @@
         "domains": [
             "simple.life",
             "help.simple.life"
+        ]
+    },
+
+    {
+        "name": "Simple Machines",
+        "url": "https://simplemachines.org/community/index.php?action=profile;area=deleteaccount",
+        "difficulty": "hard",
+        "notes": "Enter your password to have your account marked for deletion by an administrator or moderator. You can do this for any other Simple Machines forums if the forum administrator allows.",
+        "notes_tr": "Hesabınızın bir yönetici veya moderatör tarafından silinmek üzere işaretlenmesi için şifrenizi girin. Forum yöneticisi izin veriyorsa, bunu diğer Simple Machines forumları için yapabilirsiniz.",
+        "domains": [
+            "simplemachines.org"
         ]
     },
 
