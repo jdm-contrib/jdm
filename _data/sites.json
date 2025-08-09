@@ -2839,7 +2839,7 @@
             "support.bitfinex.com"
         ]
     },
-    
+
     {
         "name": "BitLaunch",
         "url": "https://app.bitlaunch.io/account/profile",
@@ -2850,7 +2850,7 @@
             "app.bitlaunch.io"
         ]
     },
-    
+
     {
         "name": "Bitly",
         "url": "https://app.bitly.com/settings/profile/",
@@ -12885,7 +12885,7 @@
         "name": "Komoot",
         "url": "https://account.komoot.com/delete",
         "difficulty": "easy",
-        "notes": "Open settings, on the account page click delete account",
+        "notes": "Open settings then on the account page click delete account",
         "domains": [
             "komoot.com",
             "account.komoot.com"
@@ -16025,16 +16025,6 @@
         "domains": [
             "jdownloader.org",
             "my.jdownloader.org"
-        ]
-    },
-
-    {
-        "name": "LG.com (HU)",
-        "url": "https://www.lg.com/hu/my-account/profile/delete-profile/",
-        "difficulty": "easy",
-        "notes": "Go to your profile in the navigation bar and then click remove profile.",
-        "domains": [
-            "lg.com"
         ]
     },
 
@@ -27590,7 +27580,7 @@
         "name": "Zero",
         "url": "https://zerofasting.zendesk.com/hc/en-us/articles/4402526167067-How-to-Delete-Your-Account-and-Data",
         "difficulty": "easy",
-        "notes": "Open the app switch to the 'me' page and then My Data -> Delete my account",
+        "notes": "Open the app switch to the 'me' page and then My Data ⮕ Delete my account",
         "domains": [
             "zerolongevity.com",
             "zerofasting.zendesk.com"
