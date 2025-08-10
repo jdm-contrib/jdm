@@ -21485,6 +21485,17 @@
     },
 
     {
+        "name": "SimplyPrint",
+        "url": "https://simplyprint.io/panel/user_settings",
+        "difficulty": "easy",
+        "notes": "Under your user settings, scroll down to the buttom and click \"Delete account\"",
+        "notes_da": "Under dine konto indstillinger, rul ned til bunden og vælg \"Delete account\"",
+        "domains": [
+            "simplyprint.io"
+        ]
+    },
+
+    {
         "name": "The Sims Resource",
         "url": "https://help.thesimsresource.com/article/14-how-do-i-delete-my-account",
         "difficulty": "hard",
