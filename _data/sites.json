@@ -5514,6 +5514,15 @@
     },
 
     {
+        "name": "Curiosity Stream",
+        "url": "https://curiositystream.com/account/delete",
+        "difficulty": "easy",
+        "domains": [
+            "curiositystream.com"
+        ]
+    },
+
+    {
         "name": "Curriculum",
         "url": "https://www.curriculum.com.br/01_02_habilitacao1.asp",
         "difficulty": "impossible",
