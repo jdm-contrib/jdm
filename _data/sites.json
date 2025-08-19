@@ -1641,6 +1641,16 @@
     },
 
     {
+        "name": "Apprentus",
+        "url": "https://www.apprentus.com/profile/account/close",
+        "difficulty": "easy",
+        "notes": "Tell the chatbot 'I want to delete my account', which will give you the url.",
+        "domains": [
+            "apprentus.com"
+        ]
+    },
+
+    {
         "name": "AppShopper",
         "url": "https://appshopper.com/about#contact-form",
         "difficulty": "hard",
