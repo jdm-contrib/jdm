@@ -11231,21 +11231,21 @@
     },
 
     {
-        "name": "huel",
-        "url": "https://discuss.huel.com/t/how-do-i-delete-my-account/17617/4",
-        "difficulty": "hard",
-        "notes": "To delete the account, send an e-maail to team@huel.com",
-        "domains": [
-            "huel.com"
-        ]
-    },
-
-    {
         "name": "Huddle",
         "url": "https://huddle.zendesk.com/hc/en-us/articles/200124703-How-do-I-cancel-my-Huddle-account-",
         "difficulty": "hard",
         "domains": [
             "huddle.com"
+        ]
+    },
+
+    {
+        "name": "Huel",
+        "url": "https://discuss.huel.com/t/how-do-i-delete-my-account/17617/4",
+        "difficulty": "hard",
+        "notes": "To delete the account, send an e-maail to team@huel.com",
+        "domains": [
+            "huel.com"
         ]
     },
 
