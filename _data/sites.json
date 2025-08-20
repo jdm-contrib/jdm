@@ -11243,7 +11243,8 @@
         "name": "Huel",
         "url": "https://discuss.huel.com/t/how-do-i-delete-my-account/17617/4",
         "difficulty": "hard",
-        "notes": "To delete the account, send an e-maail to team@huel.com",
+        "notes": "To delete the account, send them an email",
+        "email": "team@huel.com",
         "domains": [
             "huel.com"
         ]
