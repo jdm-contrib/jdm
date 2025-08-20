@@ -8832,16 +8832,6 @@
     },
 
     {
-        "name": "G7",
-        "url": "https://aide.g7.fr/hc/fr/articles/7438978440476-Supprimer-mon-compte-G7",
-        "difficulty": "easy",
-        "notes": "To delete the account, open the app and in the left menu at the bottom, click 'personal data' you will then find the 'delete account button'",
-        "domains": [
-            "www.g7.fr"
-        ]
-    },
-
-    {
         "name": "G2A",
         "url": "https://id.g2a.com/panel/account-details/delete-account",
         "difficulty": "easy",
@@ -8849,6 +8839,16 @@
         "domains": [
             "g2a.com",
             "id.g2a.com"
+        ]
+    },
+
+    {
+        "name": "G7",
+        "url": "https://aide.g7.fr/hc/fr/articles/7438978440476-Supprimer-mon-compte-G7",
+        "difficulty": "easy",
+        "notes": "To delete the account, open the app and in the left menu at the bottom, click 'personal data' you will then find the 'delete account button'",
+        "domains": [
+            "www.g7.fr"
         ]
     },
 
