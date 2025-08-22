@@ -8843,6 +8843,16 @@
     },
 
     {
+        "name": "G7",
+        "url": "https://aide.g7.fr/hc/fr/articles/7438978440476-Supprimer-mon-compte-G7",
+        "difficulty": "easy",
+        "notes": "To delete the account, open the app and in the left menu at the bottom, click 'personal data' you will then find the 'delete account button'",
+        "domains": [
+            "g7.fr"
+        ]
+    },
+
+    {
         "name": "Gab Social",
         "url": "https://gab.com/settings/delete",
         "difficulty": "easy",
@@ -11226,6 +11236,17 @@
         "difficulty": "hard",
         "domains": [
             "huddle.com"
+        ]
+    },
+
+    {
+        "name": "Huel",
+        "url": "https://discuss.huel.com/t/how-do-i-delete-my-account/17617/4",
+        "difficulty": "hard",
+        "notes": "To delete the account, send them an email",
+        "email": "team@huel.com",
+        "domains": [
+            "huel.com"
         ]
     },
 
