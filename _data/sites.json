@@ -12509,6 +12509,15 @@
     },
 
     {
+        "name": "Jusbrasil",
+        "url": "https://www.jusbrasil.com.br/configuracoes",
+        "difficulty": "easy",
+        "domains": [
+            "jusbrasil.com.br"
+        ]
+    },
+
+    {
         "name": "juejin",
         "url": "https://juejin.cn/user/settings/account",
         "email": "support@keepersecurity.com",
