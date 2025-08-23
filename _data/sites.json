@@ -6874,17 +6874,17 @@
 
     {
         "name": "EA Games / Origin / Electronic Arts",
-        "url": "https://help.ea.com/help-contact-us/?product=ea-app&platform=&topic=delete-ea-account&category=manage-my-account&subcategory=delete-account",
-        "difficulty": "hard",
-        "notes": "Contact customer services to request deletion.",
-        "notes_tr": "Silme talebi için müşteri hizmetleriyle iletişime geçin.",
-        "notes_fr": "Contactez le support pour demander la suppression du compte.",
-        "notes_it": "Contatta il sistema clienti per cancellarti.",
-        "notes_de": "Kontaktiere den Support um die Löschung zu beantragen.",
-        "notes_pt-BR": "Contate a assistência ao cliente e peça que sua conta seja deletada.",
-        "notes_ca": "Contacti amb assistència al client i demani que es clausuri el seu compte.",
-        "notes_es": "Contacta con asistencia al cliente y pide que se cierre tu cuenta.",
-        "notes_pl": "Skontaktuj się z obsługą techniczną i poproś o usunięcie konta.",
+        "url": "https://help.ea.com/help-tools/rtbf",
+        "difficulty": "easy",
+        "notes": "Sign in, accept the deletion terms, and confirm to delete your account and data.",
+        "notes_tr": "Hesabınızı ve verilerinizi silmek için giriş yapın, silme şartlarını kabul edin ve onaylayın.",
+        "notes_fr": "Connectez-vous, acceptez les conditions de suppression et confirmez pour supprimer votre compte et vos données.",
+        "notes_it": "Accedi, accetta i termini di cancellazione e conferma per eliminare il tuo account e i tuoi dati.",
+        "notes_de": "Melde dich an, akzeptiere die Löschbedingungen und bestätige, um dein Konto und deine Daten zu löschen.",
+        "notes_pt-BR": "Faça login, aceite os termos de exclusão e confirme para deletar sua conta e dados.",
+        "notes_ca": "Inicieu sessió, accepteu les condicions d’eliminació i confirmeu per eliminar el vostre compte i dades.",
+        "notes_es": "Inicia sesión, acepta los términos de eliminación y confirma para borrar tu cuenta y datos.",
+        "notes_pl": "Zaloguj się, zaakceptuj warunki usunięcia i potwierdź, aby usunąć konto i dane.",
         "domains": [
             "ea.com",
             "help.ea.com"
