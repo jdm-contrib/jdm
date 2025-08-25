@@ -7604,7 +7604,7 @@
             "evga.com"
         ]
     },
-
+    
     {
         "name": "Evike",
         "url": "https://www.evike.com/contact/",
@@ -7637,7 +7637,6 @@
         "notes_tr": "Ad, E-posta ve Telefon girin. Konu olarak 'Hesap Silme Talebi'ni seçin, CAPTCHA'yı tamamlayın ve sorguyu gönderin.",
         "notes_uk": "Введіть ім’я, електронну пошту та телефон. Виберіть 'Запит на видалення акаунта' як тему, заповніть CAPTCHA та надішліть запит.",
         "notes_vi": "Nhập Tên, Email và Điện thoại. Chọn 'Yêu cầu xóa tài khoản' làm chủ đề, hoàn thành CAPTCHA và gửi yêu cầu.",
-        "notes_zh-cn": "输入姓名、电子邮件和电话。选择“账户删除请求”作为主题，完成验证码并提交请求。",
         "notes_zh-tw": "輸入姓名、電子郵件和電話。選擇「帳號刪除請求」作為主題，完成驗證碼並提交請求。",
         "domains": [
             "evike.com",
@@ -7654,7 +7653,7 @@
             "evite.com"
         ]
     },
-
+    
     {
         "name": "Examine",
         "url": "https://examine.com/contact/",
