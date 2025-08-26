@@ -24901,14 +24901,14 @@
 
     {
         "name": "Udemy",
-        "url": "https://www.udemy.com/user/edit-danger-zone/",
-        "difficulty": "medium",
-        "notes": "In order to delete your account, you need to first unsubscribe from all of your courses.",
-        "notes_tr": "Hesabınızı silmek için önce tüm kurslarınızın aboneliğinden çıkmanız gerekir.",
-        "notes_it": "Per eliminare il tuo account devi prima dis-iscriverti da tutti i tuoi corsi.",
-        "notes_pt-BR": "Para deletar sua conta, você precisa se desinscrever de todos os seus cursos.",
-        "notes_ca": "Per esborrar el seu compte, haurà de deixar d'estar subscrit a tots els cursos.",
-        "notes_es": "Para borrar tu cuenta, primera deberás cancelar las suscripciones a todos los cursos.",
+        "url": "https://www.udemy.com/user/close-account/",
+        "difficulty": "easy",
+        "notes": "Click 'Close account' and confirm with the 6-digit code sent by email.",
+        "notes_tr": "“Hesabı kapat”a tıklayın ve e-postaya gönderilen 6 haneli kod ile onaylayın.",
+        "notes_it": "Fare clic su “Chiudi account” e conferma con il codice a 6 cifre inviato via email.",
+        "notes_pt-BR": "Clique em “Fechar conta” e confirme com o código de 6 dígitos enviado por e-mail.",
+        "notes_ca": "Feu clic a “Tancar compte” i confirmeu amb el codi de 6 dígits enviat per correu electrònic.",
+        "notes_es": "Haz clic en “Cerrar cuenta” y confirma con el código de 6 dígitos enviado por correo electrónico.",
         "domains": [
             "udemy.com"
         ]
