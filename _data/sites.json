@@ -24900,19 +24900,19 @@
     },
 
     {
-      "name": "Udemy",
-      "url": "https://www.udemy.com/user/close-account/",
-      "difficulty": "easy",
-      "notes": "Click 'Close account' and confirm with the 6-digit code sent by email.",
-      "notes_tr": "“Hesabı kapat”a tıklayın ve e-postaya gönderilen 6 haneli kod ile onaylayın.",
-      "notes_it": "Fare clic su “Chiudi account” e conferma con il codice a 6 cifre inviato via email.",
-      "notes_pt-BR": "Clique em “Fechar conta” e confirme com o código de 6 dígitos enviado por e-mail.",
-      "notes_ca": "Feu clic a “Tancar compte” i confirmeu amb el codi de 6 dígits enviat per correu electrònic.",
-      "notes_es": "Haz clic en “Cerrar cuenta” y confirma con el código de 6 dígitos enviado por correo electrónico.",
-      "domains": [
-        "udemy.com",
-        "www.udemy.com"
-      ]
+        "name": "Udemy",
+        "url": "https://www.udemy.com/user/close-account/",
+        "difficulty": "easy",
+        "notes": "Click 'Close account' and confirm with the 6-digit code sent by email.",
+        "notes_tr": "“Hesabı kapat”a tıklayın ve e-postaya gönderilen 6 haneli kod ile onaylayın.",
+        "notes_it": "Fare clic su “Chiudi account” e conferma con il codice a 6 cifre inviato via email.",
+        "notes_pt-BR": "Clique em “Fechar conta” e confirme com o código de 6 dígitos enviado por e-mail.",
+        "notes_ca": "Feu clic a “Tancar compte” i confirmeu amb el codi de 6 dígits enviat per correu electrònic.",
+        "notes_es": "Haz clic en “Cerrar cuenta” y confirma con el código de 6 dígitos enviado por correo electrónico.",
+        "domains": [
+            "udemy.com",
+            "www.udemy.com"
+        ]
     },
 
     {
