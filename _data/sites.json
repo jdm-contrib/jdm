@@ -16240,9 +16240,9 @@
     {
         "name": "Namecheap",
         "url": "https://www.namecheap.com/support/knowledgebase/article.aspx/303/44/how-do-i-cancel-or-close-my-account-with-you",
-        "difficulty": "hard",
-        "notes": "You have to contact Customer Support to delete your account, and provide your account username, support pin and reason why you would like to close your account.",
-        "notes_tr": "Hesabınızı silmek için Müşteri Desteği ile iletişime geçmeniz ve hesabınızın kullanıcı adını, destek kodunuzu ve hesabınızı neden kapatmak istediğinizi belirtmeniz gerekir.",
+        "difficulty": "limited",
+        "notes": "You have to contact Customer Support to delete your account, and provide your account username, support PIN, and reason why you would like to close your account. Customers with suspended accounts must first have them reinstated (by providing full government ID) before they can be deleted. Customers who reside in sanctioned countries (such as Russia) cannot delete their accounts at all until they provide proof of residency in a non-sanctioned country.",
+        "notes_tr": "Hesabınızı silmek için Müşteri Destek ile iletişime geçmeniz ve hesap kullanıcı adınızı, destek PIN'inizi ve hesabınızı kapatmak isteme nedeninizi belirtmeniz gerekir. Hesapları askıya alınmış müşteriler, hesaplarını silebilmek için önce hesaplarının yeniden etkinleştirilmesini sağlamalıdır (tam resmi kimlik belgesi sunarak). Yaptırım uygulanan ülkelerde (örneğin Rusya) ikamet eden müşteriler, yaptırım uygulanmayan bir ülkede ikamet ettiklerine dair kanıt sunana kadar hesaplarını silemezler.",
         "domains": [
             "namecheap.com"
         ]
