@@ -10541,9 +10541,9 @@
 
     {
         "name": "Habitica",
-        "url": "https://habitica.com/user/settings/site",
+        "url": "https://habitica.com/user/settings/general",
         "difficulty": "easy",
-        "notes": "Log in to your account, click the User icon in the top-right corner, click Settings in the drop-down menu, and click the red Delete Account button at the bottom of the page. Alternatively, they delete accounts inactive for 5 years.",
+        "notes": "Log into your account, click the User icon in the top-right corner, click Settings in the drop-down menu, and click the 'Learn More' next to Delete Account.",
         "domains": [
             "habitica.com"
         ]
