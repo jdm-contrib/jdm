@@ -5883,6 +5883,16 @@
     },
 
     {
+        "name": "Dell",
+        "url": "https://www.dell.com/preferences/pcrp/",
+        "difficulty": "easy",
+        "notes": "Submitting a privacy request allows you to request permanent deletion of your personal information, instead of simply deactivating your account, the default option in account settings.",
+        "domains": [
+            "dell.com"
+        ]
+    },
+
+    {
         "name": "Delta Airlines (SkyMiles)",
         "url": "https://www.delta.com/contactus/pages/comment_complaint/index.jsp",
         "difficulty": "hard",
