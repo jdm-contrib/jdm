@@ -1710,6 +1710,16 @@
     },
 
     {
+        "name": "Arc",
+        "url": "https://resources.arc.net/hc/en-us/articles/22351623346327-Delete-My-Arc-Account",
+        "difficulty": "easy",
+        "notes": "Open the first tab of the settings inside the app, click the \"...\" button next to your email address, select \"Delete Account...\", then confirm deletion.",
+        "domains": [
+            "arc.net"
+        ]
+    },
+
+    {
         "name": "Arc Games",
         "url": "https://support.arcgames.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -6025,6 +6035,17 @@
             "dhl.de"
         ]
     },
+
+    {
+        "name": "Dia",
+        "url": "https://diabrowser.com/help",
+        "difficulty": "easy",
+        "notes": "Open the first tab of the settings inside the app, click the \"...\" button in the bottom right corner, select \"Delete Account...\", then confirm deletion.",
+        "domains": [
+            "diabrowser.com"
+        ]
+    },
+
 
     {
         "name": "DialLink",
