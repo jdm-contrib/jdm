@@ -11102,6 +11102,7 @@
         "name": "Honeygain",
         "url": "https://dashboard.honeygain.com/profile",
         "notes": "Go to your profile settings. Click 'Delete' next to your email address. For more info read this [article](https://support.honeygain.com/hc/en-us/articles/360011094940-How-can-I-delete-my-account).",
+        "notes_it": "Vai alle impostazioni del tuo profilo. Clicca su 'Elimina' accanto al tuo indirizzo email. Per ulteriori informazioni, leggi questo [articolo](https://support.honeygain.com/hc/en-us/articles/360011094940-How-can-I-delete-my-account).",
         "difficulty": "easy",
         "domains": [
             "support.honeygain.com",
