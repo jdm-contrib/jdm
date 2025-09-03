@@ -5,6 +5,7 @@
         "difficulty": "easy",
         "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
         "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
+        "notes_it": "Vai su 'Profilo', 'Impostazioni', clicca 'Elimina account' e conferma.",
         "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
         "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
         "domains": [
