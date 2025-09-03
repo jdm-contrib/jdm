@@ -51,6 +51,7 @@
         "url": "https://help.17track.net/hc/en-us/articles/360061466432-How-to-cancel-my-account",
         "difficulty": "hard",
         "notes": "You need to send them a message on their website to delete your account.",
+        "notes_it": "Devi inviare loro un messaggio sul loro sito web per cancellare il tuo account.",
         "domains": [
             "17track.net"
         ]
