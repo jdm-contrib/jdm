@@ -60,12 +60,14 @@
 
     {
         "name": "1984 Hosting",
-        "url": "https://1984.hosting/GDPR/",
+        "url": "https://1984.hosting/accounts/settings/",
         "difficulty": "easy",
-        "notes": "If you are logged in, you can use the automated deletion process. If that doesn't work, you can contact their support to do it.",
+        "notes": "Scroll down and click 'Forget all about me' and confirm.",
         "email": "gdpr@1984.is",
         "domains": [
-            "1984.hosting"
+            "1984.hosting",
+            "litigation.1984.hosting",
+            "kb.1984hosting.com"
         ]
     },
 
