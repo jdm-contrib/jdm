@@ -19614,6 +19614,19 @@
         "domains": [
             "qiwi.com"
         ]
+    }
+    
+    ,
+
+        {
+        "name": "Qoala",
+        "url": "https://www.joinqoala.com/account",
+        "difficulty": "easy",
+        "notes": "Go to My Account, select the gear icon just by your name, select 'Delete account and all associated data.",
+        "notes_es": "Ve a mi cuenta, selecciona el icono de engranaje junto a tu nombre, selecciona 'Eliminar cuenta y todos los datos asociados'.",
+        "domains": [
+            "joinqoala.com"
+        ]
     },
 
     {
@@ -27937,17 +27950,6 @@
         "notes_ru": "Перейдите по ссылке и нажмите кнопку \"Удалить учетную запись\".",
         "domains": [
             "sdamgia.ru"
-        ]
-    },
-
-        {
-        "name": "Qoala",
-        "url": "https://www.joinqoala.com/account",
-        "difficulty": "easy",
-        "notes": "Go to My Account, select the gear icon just by your name, select 'Delete account and all associated data.",
-        "notes_es": "Ve a mi cuenta, selecciona el icono de engranaje junto a tu nombre, selecciona 'Eliminar cuenta y todos los datos asociados'.",
-        "domains": [
-            "joinqoala.com"
         ]
     }
 ]
