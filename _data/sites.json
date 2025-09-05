@@ -2011,16 +2011,6 @@
     },
 
     {
-        "name": "Tenso",
-        "url": "https://www.tenso.com/en/inquiry",
-        "difficulty": "hard",
-        "notes": "While connected to you account you need to fill the contact form to request the deletion of the account and personal data.",
-        "domains": [
-            "tenso.com"
-        ]
-    },
-
-    {
         "name": "Atlassian / Bitbucket",
         "url": "https://id.atlassian.com/manage/close-account",
         "difficulty": "medium",
@@ -2034,6 +2024,16 @@
             "start.atlassian.com",
             "support.atlassian.com",
             "bitbucket.org"
+        ]
+    },
+
+        {
+        "name": "Tenso",
+        "url": "https://www.tenso.com/en/inquiry",
+        "difficulty": "hard",
+        "notes": "While connected to you account you need to fill the contact form to request the deletion of the account and personal data.",
+        "domains": [
+            "tenso.com"
         ]
     },
 
