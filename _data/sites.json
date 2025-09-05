@@ -2028,16 +2028,6 @@
     },
 
     {
-        "name": "Tenso",
-        "url": "https://www.tenso.com/en/inquiry",
-        "difficulty": "hard",
-        "notes": "While connected to you account you need to fill the contact form to request the deletion of the account and personal data.",
-        "domains": [
-            "tenso.com"
-        ]
-    },
-
-    {
         "name": "Auchan",
         "url": "https://www.auchan.fr/faq/section/mon-compte-client/mon-compte-auchan-fr?parentNodeId=adf9b2fc-cd05-49df-9833-70766279aea3#anchor_3bea6236-a7b1-4c98-a754-fb04d325831c",
         "difficulty": "hard",
@@ -23694,6 +23684,16 @@
         ]
     },
 
+    {
+        "name": "Tenso",
+        "url": "https://www.tenso.com/en/inquiry",
+        "difficulty": "hard",
+        "notes": "While connected to you account you need to fill the contact form to request the deletion of the account and personal data.",
+        "domains": [
+            "tenso.com"
+        ]
+    },
+    
     {
         "name": "Termius",
         "url": "https://account.termius.com/",
