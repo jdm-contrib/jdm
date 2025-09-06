@@ -23709,6 +23709,16 @@
     },
 
     {
+        "name": "Tenso",
+        "url": "https://www.tenso.com/en/inquiry",
+        "difficulty": "hard",
+        "notes": "While connected to you account you need to fill the contact form to request the deletion of the account and personal data.",
+        "domains": [
+            "tenso.com"
+        ]
+    },
+
+    {
         "name": "Termius",
         "url": "https://account.termius.com/",
         "difficulty": "easy",
