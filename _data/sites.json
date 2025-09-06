@@ -23173,6 +23173,17 @@
     },
 
     {
+        "name": "Swift",
+        "url": " https://privacyportal.onetrust.com/webform/068883cc-1dae-4395-abfe-6eba2f29de47/d962e88c-edab-4c51-8428-9030bbaf552f",
+        "difficulty": "medium",
+        "notes": "The request to remove your account is made via a form, in which you need to fill in some information and provide a valid ID document. [Swift's privacy policy](https://www.swift.com.br/Institucional/politica-privacidade\" target=\"_blank)",
+        "notes_pt-BR": "A solicitação de remoção de conta acontece por um formulário, nele é necessário preencher algumas informações e repassar um documento de identificação válido. [Política de privacidade da Swift](https://www.swift.com.br/Institucional/politica-privacidade\" target=\"_blank)",
+        "domains": [
+            "swift.com.br"
+        ]
+    },
+
+    {
         "name": "Swiggy",
         "url": "https://swiggy.com",
         "difficulty": "impossible",
