@@ -14756,9 +14756,12 @@
     {
         "name": "McDonald's",
         "url": "https://www.mcdonalds.com/us/en-us/faq/how-do-i-delete-my-account.html",
-        "difficulty": "easy",
+        "difficulty": "medium",
+        "notes": "In the app, go to 'More', 'Profile', 'Delete account' and confirm.",
         "domains": [
-            "mcdonalds.com"
+            "mcdonalds.com",
+            "careers.mcdonalds.com",
+            "corporate.mcdonalds.com"
         ]
     },
 
