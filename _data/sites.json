@@ -6435,6 +6435,15 @@
     },
 
     {
+        "name": "Dmwithme",
+        "url": "https://dmwithme.com/privacy",
+        "difficulty": "easy",
+        "domains": [
+            "dmwithme.com"
+        ]
+    },
+
+    {
         "name": "DNSimple",
         "url": "https://dnsimple.com/user/cancellation",
         "difficulty": "easy",
