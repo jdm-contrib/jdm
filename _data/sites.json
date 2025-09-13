@@ -295,24 +295,6 @@
     },
 
     {
-        "name": "A1Office",
-        "url": "https://a1office.co/support/",
-        "difficulty": "hard",
-        "email": "connect@a1office.co",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "domains": [
-            "a1office.co"
-        ]
-    },
-
-    {
         "name": "Abacashi",
         "url": "https://abacashi.com/contact",
         "difficulty": "hard",
