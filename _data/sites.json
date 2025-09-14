@@ -16196,9 +16196,9 @@
 
     {
         "name": "MyMaxon",
-        "url": "https://support.maxon.net/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "Visit the linked page and submit a support ticket asking for your account to be deleted. Under \"How can we help\", select the option \"I need customer service\", then change \"Request type\" to \"GDPR\".",
+        "url": "https://id.maxon.net/settings/deleteAccount.html",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, enter your password, and confirm you wish to delete your account.",
         "domains": [
             "maxon.net",
             "support.maxon.net"
