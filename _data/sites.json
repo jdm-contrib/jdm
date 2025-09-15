@@ -94,6 +94,7 @@
         "url": "https://my.1password.com/profile",
         "difficulty": "easy",
         "notes": "Login to your account, go to profile, click 'Permanently Delete Account'. Confirm by entering 'I am sure' and click 'Delete Account'.",
+        "notes_it": "Accedi al tuo account, vai al profilo, clicca su 'Elimina definitivamente l'account'. Conferma inserendo 'Sono sicuro' e clicca su 'Elimina account'.",
         "notes_ru": "Войдите в свою учетную запись, перейдите в профиль, нажмите «Удалить учетную запись навсегда». Подтвердите, введя «Я уверен» и нажав «Удалить учетную запись».",
         "notes_tr": "Hesabınıza giriş yapın, profile girin, \"Kalıcı Olarak Hesabımı Sil\" seçeneğine tıklayın. \"Eminim\" yazarak onaylayın ve \"Hesabı Sil\" tuşuna tıklayın.",
         "domains": [
@@ -143,6 +144,7 @@
         "url": "https://280daily.com/settings/delete",
         "difficulty": "easy",
         "notes": "Enter your account password and click on 'DELETE ACCOUNT'.",
+        "notes_it": "Inserisci la password del tuo account e clicca su 'Elimina account'.",
         "notes_ru": "Введите пароль от своей учетной записи и нажмите «УДАЛИТЬ УЧЕТНУЮ ЗАПИСЬ».",
         "notes_tr": "Hesap şifrenizi girin ve \"Hesabı Sil\" tuşuna basın.",
         "domains": [
@@ -155,6 +157,7 @@
         "url": "https://support.2k.com/hc/en-us/requests/new",
         "difficulty": "hard",
         "notes": "Go to the page linked, create a request about deleting your account, and customer support should delete it.",
+        "notes_it": "Vai alla pagina, crea una richiesta di eliminazione del tuo account e l'assistenza clienti provvederà ad eliminarlo.",
         "domains": [
             "support.2k.com",
             "2k.com"
@@ -165,7 +168,8 @@
         "name": "3D Aim Trainer",
         "url": "https://steelseries.com/dashboard/profile",
         "difficulty": "easy",
-        "notes": "Just click delete my account button on the my profile page.",
+        "notes": "Click on the 'Delete my account' button on your profile page.",
+        "notes_it": "Clicca sul pulsante 'Elimina il mio account' nella pagina del tuo profilo.",
         "domains": [
             "3daimtrainer.com"
         ]
@@ -176,7 +180,14 @@
         "url": "https://www.404media.co/privacy-policy/",
         "email": "emanuel@404media.co",
         "difficulty": "hard",
-        "notes": "You need to send an email to support.",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "404media.co"
         ]
