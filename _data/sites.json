@@ -197,8 +197,9 @@
         "name": "4PDA",
         "url": "https://4pda.to/forum/index.php?act=findpost&pid=1930277&anchor=Spoil-1930277-33",
         "difficulty": "impossible",
-        "notes": "It is not possible to delete your account. Even if the account is banned, it will still exist, but in the «Banned» group.",
-        "notes_ru": "Удалить свой аккаунт невозможно. Даже если аккаунт будет забанен, он будет существовать, но в группе «Забанен».",
+        "notes": "It is not possible to delete your account. Even if the account is banned, it will still exist, but in the 'Banned' group.",
+        "notes_it": "Non è possibile cancellare il proprio account. Anche se l'account viene bannato, continuerà comunque ad esistere, ma nel gruppo 'Bannati'.",
+        "notes_ru": "Удалить свой аккаунт невозможно. Даже если аккаунт будет забанен, он будет существовать, но в группе 'Забанен'.",
         "domains": [
             "4pda.ru",
             "4pda.to"
@@ -219,6 +220,7 @@
         "url": "https://500px.com/settings/deletion",
         "difficulty": "easy",
         "notes": "Visit the linked page, select 'Delete your account', then click 'Continue'. Choose a reason why you're deleting your account and click 'Continue to delete account'. Finally, confirm your password and click 'Delete account'.",
+        "notes_it": "Visita la pagina, seleziona 'Elimina il tuo account', quindi fai clic su 'Continua'. Scegli un motivo per cui stai eliminando il tuo account e fai clic su 'Continua per eliminare l'account'. Infine, conferma la tua password e fai clic su 'Elimina account'.",
         "domains": [
             "500px.com"
         ]
@@ -247,6 +249,7 @@
         "url": "https://support.7plus.com.au/hc/en-au/requests/new",
         "difficulty": "hard",
         "notes": "Create a new request, select the 'Reason For Contact' as 'Account Related' and then under 'Please choose the issue' select 'Close 7plus account'. Supply the appropriate email and name, then send the request.",
+        "notes_it": "Vai alla pagina, crea una nuova richiesta, seleziona il 'Motivo del contatto' come 'Relativo all'account' e poi sotto 'Scegli il problema' seleziona 'Chiudi account 7plus'. Inserisci l'indirizzo email e il nome appropriati, quindi invia la richiesta.",
         "domains": [
             "7plus.com.au",
             "support.7plus.com.au"
