@@ -5097,6 +5097,17 @@
     },
 
     {
+        "name": "Contabo",
+        "url": "https://help.contabo.com/en/support/solutions/articles/103000269314-how-can-i-close-my-contabo-account-or-cancel-a-contabo-service-",
+        "url_de": "https://help.contabo.com/de/support/solutions/articles/103000269314-wie-kann-ich-mein-contabo-konto-schlie%C3%9Fen-oder-einen-contabo-dienst-k%C3%BCndigen-",
+        "difficulty": "easy",
+        "notes": "The account will be deleted automatically shortly after the last product on the account itself is canceled.",
+        "domains": [
+            "contabo.com"
+        ]
+    },
+
+    {
         "name": "Conte.it",
         "url": "https://www.conte.it/privacy-unsubscribe/",
         "difficulty": "easy",
