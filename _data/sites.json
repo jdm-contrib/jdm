@@ -108,7 +108,27 @@
             "start.1password.com"
         ]
     },
-
+    
+    {
+        "name": "2Captcha",
+        "url": "http://2captcha.com/profile/delete",
+        "difficulty": "easy",
+        "notes": "Just need to check a box that you confirm deletion then submit. You must confirm deletion from the email you receive after submission.",
+        "domains": [
+            "2captcha.com"
+        ]
+    },
+    
+    {
+        "name": "5MinuteMystery",
+        "url": "https://www.5minutemystery.com/contact-us",
+        "difficulty": "Hard",
+        "notes": "You have to submit a deletion request through their contact form as per their privacy policy.",
+        "domains": [
+            "www.5minutemystery.com"
+        ]
+    },
+    
     {
         "name": "1Point3Acres",
         "url": "https://tools.1point3acres.com/delete-account",
@@ -707,6 +727,16 @@
         ]
     },
 
+     {
+        "name": "Aescripts",
+        "url": "https://aescripts.com/contact/",
+        "difficulty": "Hard",
+        "notes": "You need to submit a request through their contact form.",
+        "domains": [
+            "aescripts.com"
+        ]
+    },
+
     {
         "name": "Afterpay",
         "url": "https://portal.afterpay.com/en-AU/account",
@@ -877,6 +907,17 @@
         "domains": [
             "airdroid.com"
         ]
+    },
+
+     {
+        "name": "AirMore",
+        "url": "https://airmore.com/contact",
+        "difficulty": "Hard",
+        "notes": "Contact support through their form or email.",
+        "domains": [
+            "airmore.com"
+        ],
+        "email": "support@airmore.com"
     },
 
     {
@@ -1353,6 +1394,16 @@
         "email_body": "Dear AMSO Data Protection Team, I hope this message finds you well. I would like to formally request the closure of my account and the deletion of all associated personal data as per the GDPR guidelines. Below are my account details: Email Address: xxxxx, Account ID: xxxxxxx, Phone Number: xxxxxx I kindly ask that you process this request at your earliest convenience and confirm once the account has been closed and all data has been deleted. Thank you for your attention to this matter. Best regards, xxxxx",
         "domains": [
             "amso.eu"
+        ]
+    },
+
+     {
+        "name": "Amplenote",
+        "url": "https://www.amplenote.com/account",
+        "difficulty": "easy",
+        "notes": "Go to profile settings, scroll down to 'Delete account'. Enter email address and confirm.",
+        "domains": [
+            "amplenote.com"
         ]
     },
 
