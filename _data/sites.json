@@ -11708,6 +11708,16 @@
     },
 
     {
+        "name": "ImageKit",
+        "url": "https://imagekit.io/dashboard/settings/profile",
+        "difficulty": "easy",
+        "notes": "Go to the profile section and click on the 'Delete Account' button.",
+        "domains": [
+            "imagekit.io"
+        ]
+    },
+
+    {
         "name": "ImageShack",
         "url": "https://imageshack.com/my/settings",
         "difficulty": "easy",
