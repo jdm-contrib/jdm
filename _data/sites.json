@@ -19255,8 +19255,9 @@
 
     {
         "name": "The Powder Toy",
-        "url": "https://powdertoy.co.uk/Discussions/Thread/View.html?Thread=24007",
-        "difficulty": "impossible",
+        "url": "https://powdertoy.co.uk/Profile/Delete.html",
+        "difficulty": "easy",
+        "notes": " The deletion takes a week. The account is deleted, but some public data will be kept anonymized.",
         "domains": [
             "powdertoy.co.uk"
         ]
