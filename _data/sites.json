@@ -3502,9 +3502,8 @@
     {
         "name": "Broadcom Support",
         "url": "https://knowledge.broadcom.com/external/article/368293/deleting-or-removing-broadcom-support-ac.html",
-        "difficulty": "hard",
-        "notes": "You need to send a request to the support",
-        "notes_fr": "Vous devez envoyer une demande au support.",
+        "difficulty": "easy",
+        "notes": "Since September 29th, 2025, users can delete their Support Portal profile directly through the \"My Profile\" page within the Broadcom support portal.",
         "domains": [
             "broadcom.com",
             "vmware.com"
