@@ -2865,6 +2865,15 @@
     },
 
     {
+        "name": "Bird",
+        "url": "https://help.bird.co/hc/en-us/articles/360044088811-I-need-to-delete-my-account",
+        "difficulty": "easy",
+        "domains": [
+            "bird.co"
+        ]
+    },
+
+    {
         "name": "Bitdefender Central",
         "url": "https://account.bitdefender.com/delete_account/info",
         "difficulty": "medium",
