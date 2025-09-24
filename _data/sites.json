@@ -129,6 +129,13 @@
         "domains": ["280daily.com"]
     },
     {
+        "name": "2Captcha",
+        "url": "http://2captcha.com/profile/delete",
+        "difficulty": "easy",
+        "notes": "Just need to check a box that you confirm deletion then submit. You must confirm deletion from the email you receive after submission.",
+        "domains": ["2captcha.com"]
+    },
+    {
         "name": "2K Games",
         "url": "https://support.2k.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -187,6 +194,13 @@
         "notes": "Visit the linked page, select 'Delete your account', then click 'Continue'. Choose a reason why you're deleting your account and click 'Continue to delete account'. Finally, confirm your password and click 'Delete account'.",
         "notes_it": "Visita la pagina, seleziona 'Elimina il tuo account', quindi fai clic su 'Continua'. Scegli un motivo per cui stai eliminando il tuo account e fai clic su 'Continua per eliminare l'account'. Infine, conferma la tua password e fai clic su 'Elimina account'.",
         "domains": ["500px.com"]
+    },
+    {
+        "name": "5MinuteMystery",
+        "url": "https://www.5minutemystery.com/contact-us",
+        "difficulty": "hard",
+        "notes": "You have to submit a deletion request through their contact form as per their privacy policy.",
+        "domains": ["5minutemystery.com"]
     },
     {
         "name": "7digital",
@@ -598,6 +612,13 @@
         "domains": ["aeriagames.com"]
     },
     {
+        "name": "Aescripts",
+        "url": "https://aescripts.com/contact/",
+        "difficulty": "hard",
+        "notes": "You need to submit a request through their contact form.",
+        "domains": ["aescripts.com"]
+    },
+    {
         "name": "Afterpay",
         "url": "https://portal.afterpay.com/en-AU/account",
         "difficulty": "easy",
@@ -761,6 +782,14 @@
         "difficulty": "hard",
         "notes": "Launch live chat through 'Chat' button and request account deletion or by phone at 1-888-AIR-MILES (247-6453).",
         "domains": ["airmiles.ca"]
+    },
+    {
+        "name": "AirMore",
+        "url": "https://airmore.com/contact",
+        "difficulty": "hard",
+        "notes": "Contact support through their form or email.",
+        "email": "support@airmore.com",
+        "domains": ["airmore.com"]
     },
     {
         "name": "airoom.chat",
@@ -1136,6 +1165,13 @@
         "notes": "You need to send them a message through [Whatsapp](https://wa.me/+5511912074002) requesting deletion. It takes roughly 20 days.",
         "notes_pt-BR": "Você precisa mandar uma mensagem para eles por [Whatsapp](https://wa.me/+5511912074002) pedindo a exclusão da conta. Leva aproximadamente 20 dias.",
         "domains": ["amigosecreto.com.br"]
+    },
+    {
+        "name": "Amplenote",
+        "url": "https://www.amplenote.com/account",
+        "difficulty": "easy",
+        "notes": "Go to profile settings, scroll down to 'Delete account'. Enter email address and confirm.",
+        "domains": ["amplenote.com"]
     },
     {
         "name": "Amso",
