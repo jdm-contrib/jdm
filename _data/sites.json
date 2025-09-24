@@ -18334,11 +18334,8 @@
         "notes": "Data deletion requires contacting Customer Support.",
         "notes_ru": "Единственный способ удалить персональные даные — отправить электронное письмо службе поддержки.",
         "email": "privacy@steamhistory.net",
-        "domains": [
-            "steamhistory.net"
-        ]
+        "domains": ["steamhistory.net"]
     },
-
     {
         "name": "SteelSeries",
         "url": "https://steelseries.com/dashboard/profile",
