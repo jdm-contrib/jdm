@@ -6182,6 +6182,15 @@
         "domains": ["etsy.com"]
     },
     {
+        "name": "Europathek",
+        "url": "https://www.europathek.de/de/#/profile",
+        "difficulty": "easy",
+        "notes": "On the profile page, click on \"Order deletion\" set the checkboxes and click \"Delete account\". The deletion can be revoked within 14 days by e-mail.",
+        "notes_fr": "Chez votre profil, cliquez \"Demander la suppression\", mettez les crochets et cliquez \"Supprimer un compte\". La suppression peu être révoquée dan les 14 jours par e-mail.",
+        "notes_de": "Auf der Profilseite auf \"Löschung beauftragen\" klicken, die Haken setzen und dann auf \"Konto löschen\" klicken. Die Löschung ist 14 Tage lang per E-Mail wiederrufbar.",
+        "domains": ["europathek.de"]
+    },
+    {
         "name": "Even",
         "url": "https://www.even.com/employees/support",
         "difficulty": "easy",
