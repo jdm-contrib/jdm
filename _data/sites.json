@@ -4331,6 +4331,16 @@
         "domains": ["crackerbarrel.com"]
     },
     {
+        "name": "Craft",
+        "url": "https://docs.craft.do/s/",
+        "difficulty": "easy",
+        "notes": "Settings > Account Settings > Scroll down till Danger Zone > Delete Account > Confirm",
+        "domains": [
+            "craft.do",
+            "docs.craft.do"
+        ]
+    },
+    {
         "name": "Craigslist",
         "url": "https://www.craigslist.org/about/help/user_accounts",
         "difficulty": "hard",
