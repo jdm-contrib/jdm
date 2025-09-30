@@ -4334,7 +4334,7 @@
         "name": "Craft",
         "url": "https://docs.craft.do/s/",
         "difficulty": "easy",
-        "notes": "Settings > Account Settings > Scroll down till Danger Zone > Delete Account > Confirm",
+        "notes": "Settings ⮕ Account Settings ⮕ Scroll down till Danger Zone ⮕ Delete Account ⮕ Confirm",
         "domains": [
             "craft.do",
             "docs.craft.do"
