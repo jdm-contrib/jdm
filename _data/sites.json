@@ -7007,12 +7007,6 @@
         "domains": ["formula1.com"]
     },
     {
-        "name": "Forvo",
-        "url": "https://forvo.com/account-delete/",
-        "difficulty": "easy",
-        "domains": ["forvo.com"]
-    },
-    {
         "name": "Forsa Omninet",
         "url": "https://omninet.forsa.de/data-protection",
         "difficulty": "hard",
@@ -7020,6 +7014,12 @@
         "notes_de": "Schicken Sie eine E-Mail an datenschutz@forsa.de.",
         "email": "datenschutz@forsa.de",
         "domains": ["omninet.forsa.de"]
+    },
+    {
+        "name": "Forvo",
+        "url": "https://forvo.com/account-delete/",
+        "difficulty": "easy",
+        "domains": ["forvo.com"]
     },
     {
         "name": "forward2me",
