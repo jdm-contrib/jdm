@@ -14590,6 +14590,15 @@
         "domains": ["overstock.com"]
     },
     {
+        "name": "overtake",
+        "url": "https://www.overtake.gg/form/delete-my-account.6/select",
+        "difficulty": "hard",
+        "notes": "You can mail them so that they can send you a form and upon filling and submitting it, you will be able to cancel the subscription using the link they send you for your account.",
+        "email": "legal@overtake.gg",
+        "email_subject": "Account Deletion Request",
+        "domains": ["overtake.gg"]
+    },
+    {
         "name": "Overwolf",
         "url": "https://support.overwolf.com/en/support/solutions/articles/9000178281-deleting-your-overwolf-account-and-related-data",
         "email": "support@overwolf.com",
