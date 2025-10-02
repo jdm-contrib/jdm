@@ -6196,8 +6196,6 @@
         "name": "Europa Lehrmittel",
         "url": "https://www.europa-lehrmittel.de/Datenschutz/",
         "difficulty": "hard",
-        "notes": "Write an email to dsb@europa-lehrmittel.de.",
-        "notes_de": "Schicken sie eine E-Mail an dsb@europa-lehrmittel.de.",
         "email": "dsb@europa-lehrmittel.de",
         "domains": ["europa-lehrmittel.de"]
     },
@@ -7010,8 +7008,6 @@
         "name": "Forsa Omninet",
         "url": "https://omninet.forsa.de/data-protection",
         "difficulty": "hard",
-        "notes": "Write an email to datenschutz@forsa.de.",
-        "notes_de": "Schicken Sie eine E-Mail an datenschutz@forsa.de.",
         "email": "datenschutz@forsa.de",
         "domains": ["omninet.forsa.de"]
     },
@@ -7278,8 +7274,6 @@
         "url": "https://www.g-portal.com/en/privacy",
         "url_de": "https://www.g-portal.com/de/privacy",
         "difficulty": "hard",
-        "notes": "Write an email to datenschutz@g-portal.com.",
-        "notes_de": "Schicken Sie eine E-Mail an datenschutz@g-portal.com.",
         "email": "datenschutz@g-portal.com",
         "domains": ["g-portal.com"]
     },
@@ -22592,8 +22586,8 @@
         "name": "Zave it",
         "url": "https://www.stuttgarter-nachrichten.de/inhalt.zave-it-account-loeschen-mhsd.6a51e46c-5c2b-4faf-9942-22056e1f9dc4.html",
         "difficulty": "medium",
-        "notes": "Go to your profile, then click on: Contact support > Create a support ticket > I want to delete my account > Delete account",
-        "notes_de": "Auf das Profil gehen, dann klicken: Support kontaktieren > Supportanfrage erstellen > Ich möchte meinen Account löschen > Konto löschen",
+        "notes": "Go to your profile, then click on: Contact support ⮕ Create a support ticket ⮕ I want to delete my account > Delete account",
+        "notes_de": "Auf das Profil gehen, dann klicken: Support kontaktieren ⮕ Supportanfrage erstellen ⮕ Ich möchte meinen Account löschen ⮕ Konto löschen",
         "domains": ["zave.it"]
     },
     {
