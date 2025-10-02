@@ -11301,8 +11301,6 @@
         "url": "https://lingopie.com/privacy-policy",
         "url_de": "https://de.lingopie.com/privacy-policy",
         "difficulty": "hard",
-        "notes": "Write an email to info@lingopie.com.",
-        "notes_de": "Schicken sie eine E-Mail an info@lingopie.com.",
         "email": "info@lingopie.com",
         "domains": ["lingopie.com"]
     },
@@ -18132,8 +18130,8 @@
         "url": "https://support.spielerplus.de/hc/en-us/articles/4402733049105-How-can-I-delete-my-account",
         "url_de": "https://support.spielerplus.de/hc/de/articles/4402733049105-Wie-kann-ich-meinen-Account-wieder-l%C3%B6schen",
         "difficulty": "easy",
-        "notes": "Go to: Profile > Edit Teams. Under \"Manage membership\", click on \"Delete \"{NAME}\" from \"{TEAM}\" irrevocably\". Repeat for every team.",
-        "notes_de": "Gehen sie auf: Profil > Teams verwalten. Unter \"Mitgliedschaft verwalten\", klicken sie auf \"\"{NAME}\" aus \"{TEAM}\" unwiderruflich löschen\". Wiederholen sie das für jedes Team.",
+        "notes": "Go to: Profile ⮕ Edit Teams. Under \"Manage membership\", click on \"Delete \"{NAME}\" from \"{TEAM}\" irrevocably\". Repeat for every team.",
+        "notes_de": "Gehen sie auf: Profil ⮕ Teams verwalten. Unter \"Mitgliedschaft verwalten\", klicken sie auf \"\"{NAME}\" aus \"{TEAM}\" unwiderruflich löschen\". Wiederholen sie das für jedes Team.",
         "domains": ["spielerplus.de"]
     },
     {
