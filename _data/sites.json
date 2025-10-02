@@ -2205,6 +2205,16 @@
         ]
     },
     {
+        "name": "Beeper",
+        "url": "https://chat.beeper.com",
+        "difficulty": "easy",
+        "notes": "Click on Settings cogwheel in the top right navigation, visit General, and hit 'Delete Account'",
+        "domains": [
+            "beeper.com",
+            "chat.beeper.com"
+        ]
+    },
+    {
         "name": "Behance",
         "url": "https://help.behance.net/hc/en-us/articles/204484854-How-do-I-delete-cancel-my-account-",
         "difficulty": "easy",
