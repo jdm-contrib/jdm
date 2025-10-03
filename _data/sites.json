@@ -19112,6 +19112,13 @@
         "domains": ["targetprocess.com"]
     },
     {
+        "name": "Taskade",
+        "url": "https://www.taskade.com/settings",
+        "notes": "Go to Account, Scroll down to Delete Account and Enter your Email ID",
+        "difficulty": "easy",
+        "domains": ["taskade.com"]
+    },
+    {
         "name": "Tastebuds",
         "url": "https://tastebuds.fm/user_deletions/confirm_delete_reason",
         "difficulty": "easy",
