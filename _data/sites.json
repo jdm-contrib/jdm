@@ -9663,10 +9663,10 @@
     },
     {
         "name": "Indeed",
-        "url": "https://requests.hrtechprivacy.com/create?entity=INDEED",
+        "url": "https://secure.indeed.com/settings/account",
         "difficulty": "hard",
-        "notes": "To close your account: go to https://secure.indeed.com/settings/account and then click on 'Close my account'. To DELETE your data: go to linked URL and fill out the ticket.",
-        "notes_tr": "Hesabınızı kapatmak için: Giriş yapın, \"Hesap Ayarları\" yerine girin ve \"Hesabımı Kapat\" tuşuna tıklayın. Verilerinizi SİLMEK için: Bağlantılı URL'ye gidin ve bileti doldurun.",
+        "notes": "To close your account: go to the linked URL and click on 'Close my account'. To DELETE your data: [fill out this ticket](https://requests.hrtechprivacy.com/create?entity=INDEED).",
+        "notes_tr": "Hesabınızı kapatmak için: Giriş yapın, \"Hesap Ayarları\" yerine girin ve \"Hesabımı Kapat\" tuşuna tıklayın. Verilerinizi SİLMEK için: [bileti doldurun](https://requests.hrtechprivacy.com/create?entity=INDEED).",
         "domains": ["indeed.com"]
     },
     {
