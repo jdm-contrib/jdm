@@ -9696,10 +9696,10 @@
     },
     {
         "name": "Indeed",
-        "url": "https://indeed.com",
-        "difficulty": "easy",
-        "notes": "You must login, go to your account settings and then click on the 'Close my account'.",
-        "notes_tr": "Giriş yapın, \"Hesap Ayarları\" yerine girin ve \"Hesabımı Kapat\" tuşuna tıklayın.",
+        "url": "https://secure.indeed.com/settings/account",
+        "difficulty": "hard",
+        "notes": "To close your account: go to the linked URL and click on 'Close my account'. To DELETE your data: [fill out this ticket](https://requests.hrtechprivacy.com/create?entity=INDEED).",
+        "notes_tr": "Hesabınızı kapatmak için: Giriş yapın, \"Hesap Ayarları\" yerine girin ve \"Hesabımı Kapat\" tuşuna tıklayın. Verilerinizi SİLMEK için: [bileti doldurun](https://requests.hrtechprivacy.com/create?entity=INDEED).",
         "domains": ["indeed.com"]
     },
     {
@@ -9824,6 +9824,14 @@
         "url": "https://accountscenter.instagram.com/personal_info/account_ownership_and_control/deletion_and_deactivation",
         "difficulty": "easy",
         "domains": ["instagram.com"]
+    },
+    {
+        "name": "Instant Gaming",
+        "url": "https://www.instant-gaming.com/de/",
+        "difficulty": "easy",
+        "notes": "Click on the gray text at the bottom of the profile page.",
+        "notes_de": "Klicken sie auf den grauen Text unten auf der Profilseite.",
+        "domains": ["instant-gaming.com"]
     },
     {
         "name": "Instapaper",
@@ -11322,6 +11330,14 @@
         ]
     },
     {
+        "name": "Lingopie",
+        "url": "https://lingopie.com/privacy-policy",
+        "url_de": "https://de.lingopie.com/privacy-policy",
+        "difficulty": "hard",
+        "email": "info@lingopie.com",
+        "domains": ["lingopie.com"]
+    },
+    {
         "name": "Lingualeo",
         "url": "https://lingualeo.com/profile/edit",
         "difficulty": "medium",
@@ -12472,6 +12488,7 @@
         "meta": "popular",
         "url": "https://account.live.com/closeaccount.aspx",
         "difficulty": "easy",
+        "notes": "Use the deletion link. Your account will be deleted after 30/60 days (depending on your settings there).",
         "domains": [
             "live.com",
             "login.live.com",
@@ -15320,11 +15337,11 @@
     },
     {
         "name": "Pixabay",
-        "url": "https://pixabay.com/de/accounts/settings/",
+        "url": "https://pixabay.com/de/accounts/settings/?tab=account",
         "difficulty": "easy",
-        "notes": "In your account setting choose 'Delete account'.",
+        "notes": "In your account settings, click 'Delete account'. Your account will be anonymized, shared media stays uploaded.",
         "notes_tr": "Hesap ayarınızda \"Hesabı Sil\" öğesini seçin.",
-        "notes_de": "Wähle 'Konto Löschen' in den Kontoeinstellungen.",
+        "notes_de": "Wähle 'Konto Löschen' in den Kontoeinstellungen. Dein Konto wird anonymisiert, geteilte Medien bleiben hochgeladen.",
         "domains": ["pixabay.com"]
     },
     {
@@ -16344,6 +16361,14 @@
         "notes": "At the bottom of your Account/personal-data page should be a button to delete your account",
         "notes_de": "Nachdem sie auf der 'Mein Konto' ⮕ 'Persönliche Daten' Seite sind, ist ganz unten ein 'Konto löschen' Button",
         "domains": ["rebuy.de"]
+    },
+    {
+        "name": "Recall AI",
+        "url": "https://app.getrecall.ai/settings",
+        "difficulty": "easy",
+        "notes": "Click the button on the bottom of your profile settings.",
+        "notes_de": "Klicken sie auf den Button unten in ihren Profil-Einstellungen.",
+        "domains": ["app.getrecall.ai"]
     },
     {
         "name": "RecargaPay",
@@ -18141,6 +18166,15 @@
         "notes": "The only way to delete the account is by emailing the Operator, as per section 3.19 of their TOS.",
         "email": "contact@sphere-research.com",
         "domains": ["www.spoj.com"]
+    },
+    {
+        "name": "SpielerPlus",
+        "url": "https://support.spielerplus.de/hc/en-us/articles/4402733049105-How-can-I-delete-my-account",
+        "url_de": "https://support.spielerplus.de/hc/de/articles/4402733049105-Wie-kann-ich-meinen-Account-wieder-l%C3%B6schen",
+        "difficulty": "easy",
+        "notes": "Go to: Profile ⮕ Edit Teams. Under \"Manage membership\", click on \"Delete \"{NAME}\" from \"{TEAM}\" irrevocably\". Repeat for every team.",
+        "notes_de": "Gehen sie auf: Profil ⮕ Teams verwalten. Unter \"Mitgliedschaft verwalten\", klicken sie auf \"\"{NAME}\" aus \"{TEAM}\" unwiderruflich löschen\". Wiederholen sie das für jedes Team.",
+        "domains": ["spielerplus.de"]
     },
     {
         "name": "Spieletipps",
