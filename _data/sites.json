@@ -1635,9 +1635,10 @@
     },
     {
         "name": "Ashampoo",
-        "url": "https://www.ashampoo.com/en/usd/ppy",
+        "url": "https://support.ashampoo.com/hc/en-us/requests/new?ticket_form_id=360003422900",
+        "url_de": "https://support.ashampoo.com/hc/de/requests/new?ticket_form_id=360003422900",
         "difficulty": "hard",
-        "notes": "Request deletion by emailing privacy team. Ask them to close your account and send them your name and email address. You’ll receive a mail back from them with a personal removal link in it.",
+        "notes": "Use the ticket in the URL or request deletion by emailing privacy team. Ask them to close your account and send them your name and email address. You’ll receive a mail back from them with a personal removal link in it.",
         "email": "privacy@ashampoo.com",
         "domains": ["ashampoo.com"]
     },
@@ -6202,6 +6203,13 @@
         "domains": ["etsy.com"]
     },
     {
+        "name": "Europa Lehrmittel",
+        "url": "https://www.europa-lehrmittel.de/Datenschutz/",
+        "difficulty": "hard",
+        "email": "dsb@europa-lehrmittel.de",
+        "domains": ["europa-lehrmittel.de"]
+    },
+    {
         "name": "Europathek",
         "url": "https://www.europathek.de/de/#/profile",
         "difficulty": "easy",
@@ -7007,6 +7015,13 @@
         "domains": ["formula1.com"]
     },
     {
+        "name": "Forsa Omninet",
+        "url": "https://omninet.forsa.de/data-protection",
+        "difficulty": "hard",
+        "email": "datenschutz@forsa.de",
+        "domains": ["omninet.forsa.de"]
+    },
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
@@ -7263,6 +7278,14 @@
         "difficulty": "hard",
         "email": "support@fxhome.com",
         "domains": ["fxhome.com"]
+    },
+    {
+        "name": "G-Portal",
+        "url": "https://www.g-portal.com/en/privacy",
+        "url_de": "https://www.g-portal.com/de/privacy",
+        "difficulty": "hard",
+        "email": "datenschutz@g-portal.com",
+        "domains": ["g-portal.com"]
     },
     {
         "name": "G2A",
@@ -22575,6 +22598,14 @@
             "zattoo.com",
             "support.zattoo.com"
         ]
+    },
+    {
+        "name": "Zave it",
+        "url": "https://www.stuttgarter-nachrichten.de/inhalt.zave-it-account-loeschen-mhsd.6a51e46c-5c2b-4faf-9942-22056e1f9dc4.html",
+        "difficulty": "medium",
+        "notes": "Go to your profile, then click on: Contact support ⮕ Create a support ticket ⮕ I want to delete my account ⮕ Delete account",
+        "notes_de": "Auf das Profil gehen, dann klicken: Support kontaktieren ⮕ Supportanfrage erstellen ⮕ Ich möchte meinen Account löschen ⮕ Konto löschen",
+        "domains": ["zave.it"]
     },
     {
         "name": "Zaxby's",
