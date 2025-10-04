@@ -20118,9 +20118,9 @@
     },
     {
         "name": "TryHackMe",
-        "url": "https://tryhackme.com/profile",
+        "url": "https://tryhackme.com/manage-account/account-details",
         "difficulty": "easy",
-        "notes": "Under the profile page navigate to the \"other\" tab, then select \"Delete My Account\".",
+        "notes": "Under the profile page navigate to the \"Delete My Account\" tab, then select \"Delete My Account\".",
         "domains": ["tryhackme.com"]
     },
     {
