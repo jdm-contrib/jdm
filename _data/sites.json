@@ -2394,6 +2394,12 @@
         "domains": ["binance.com"]
     },
     {
+        "name": "Bingebase",
+        "url": "https://bingebase.com/account",
+        "difficulty": "easy",
+        "domains": ["bingebase.com"]
+    },
+    {
         "name": "BingX",
         "url": "https://bingx.com/removeAccount/",
         "difficulty": "medium",
