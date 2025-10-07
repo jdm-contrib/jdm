@@ -659,6 +659,12 @@
         "domains": ["agoradesk.com"]
     },
     {
+        "name": "AI Bank Statement converter",
+        "url": "https://aibankstatement.com/contact-us",
+        "difficulty": "hard",
+        "domains": ["aibankstatement.com"]
+    },
+    {
         "name": "AI Flux Krea Image Generator",
         "url": "https://aifluxkrea.com/",
         "notes": "Send an email requesting account deletion and wait a few days for processing.",
