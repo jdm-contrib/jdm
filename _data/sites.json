@@ -19124,6 +19124,14 @@
         "domains": ["thetakeout.com"]
     },
     {
+        "name": "Tandoor",
+        "url": "https://tandoor.dev/privacy/",
+        "difficulty": "hard",
+        "notes": "You need to send the developer an email. Remember to use the email that you sign up with.",
+        "email": "info@tandoor.dev",
+        "domains": ["tandoor.dev"]
+    },
+    {
         "name": "Tanga",
         "url": "https://www.tanga.com/support",
         "difficulty": "hard",
