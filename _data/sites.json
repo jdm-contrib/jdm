@@ -10163,6 +10163,14 @@
         "domains": ["jedec.org"]
     },
     {
+        "name": "jeevansathi",
+        "url": "https://www.jeevansathi.com/",
+        "difficulty": "hard",
+        "notes": "For account deletion request, mail them from your registered emailID.",
+        "email": "help@jeevansathi.com",
+        "domains": ["jeevansathi.com"]
+    },
+    {
         "name": "JetBrains",
         "url": "https://account.jetbrains.com/delete-account",
         "difficulty": "easy",
