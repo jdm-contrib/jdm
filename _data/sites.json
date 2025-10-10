@@ -13328,6 +13328,18 @@
         "domains": ["myspace.com"]
     },
     {
+        "name": "Myworkdayjobs.com",
+        "url": "https://www.workday.com/en-us/privacy.html",
+        "difficulty": "limited",
+        "notes": "Myworkdayjobs.com is an HR service provided by [Workday](https://www.workday.com/). Account deletion settings are determined by the company. It should be easy to find under User Settings; if not, try contacting the privacy team at the company you applied to.",
+        "domains": [
+            "myworkdayjobs.com",
+            "wd1.myworkdayjobs.com",
+            "wd3.myworkdayjobs.com",
+            "wd5.myworkdayjobs.com"
+        ]
+    },
+    {
         "name": "myWorld",
         "url": "https://www.myworld.com/",
         "difficulty": "hard",
