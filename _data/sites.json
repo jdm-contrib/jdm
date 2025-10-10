@@ -17444,6 +17444,13 @@
         "domains": ["shein.com"]
     },
     {
+        "name": "Shell.ca",
+        "url": "https://www.shell.ca/en_ca/privacy.html",
+        "difficulty": "hard",
+        "notes": "You need to contact the support team via the mobile app.",
+        "domains": ["shell.ca"]
+    },
+    {
         "name": "Shikimori",
         "url": "https://shikimori.one/clubs/1093-faq-chasto-zadavaemye-voprosy",
         "difficulty": "impossible",
