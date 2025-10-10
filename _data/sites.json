@@ -17436,10 +17436,7 @@
         "url": "https://www.shell.ca/en_ca/privacy.html",
         "difficulty": "hard",
         "notes": "You need to contact the support team via the mobile app.",
-        "domains": [
-            "shell.ca",
-            "www.shell.ca"
-        ]
+        "domains": ["shell.ca"]
     },
     {
         "name": "Shikimori",
