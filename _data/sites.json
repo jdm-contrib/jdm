@@ -527,16 +527,6 @@
         ]
     },
     {
-        "name": "Adfly",
-        "url": "https://adf.ly/account/delete",
-        "difficulty": "easy",
-        "notes": "Press the button to delete your account, make sure you're logged in.",
-        "domains": [
-            "adf.ly",
-            "login.adf.ly"
-        ]
-    },
-    {
         "name": "AdFoc.us",
         "url": "https://adfoc.us/tickets/",
         "difficulty": "hard",
