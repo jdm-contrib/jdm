@@ -5657,7 +5657,8 @@
         "name": "EA Games / Origin / Electronic Arts",
         "url": "https://www.ea.com/legal/privacy-portal",
         "difficulty": "hard",
-        "notes": "Require contact customer support for deletion. Follow the link and open a support ticket at section Delete my account and related information.",
+        "notes": "Require contact with customer support for deletion. Follow the link and open a support ticket at the section Delete my account and related information. They might close your ticket or mark it as solved; be patient, as the [wait time might take over a month](https://www.reddit.com/r/electronicarts/comments/1ntq2nt/comment/nhbzhlc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). Make sure you do not log in during this time. You can also contact them via online chat, but the wait time might be longer than 40 minutes; they might also disconnect you. If any of those didn't do the job, send the email to the Data Protection Officer, as they have to comply with laws.",
+        "email": "dpo@ea.com",
         "domains": [
             "ea.com",
             "help.ea.com"
