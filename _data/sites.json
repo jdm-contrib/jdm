@@ -16470,6 +16470,12 @@
         ]
     },
     {
+        "name": "redesignr.ai",
+        "url": "https://redesignr.ai/",
+        "difficulty": "impossible",
+        "domains": ["redesignr.ai"]
+    },
+    {
         "name": "Redfin",
         "url": "https://www.redfin.com/myredfin/settings",
         "difficulty": "easy",
