@@ -17604,7 +17604,6 @@
         "name": "SignalRGB",
         "url": "https://signalrgb.com/account/delete-account/",
         "difficulty": "easy",
-        "notes": "Go to [Delete page](https://signalrgb.com/account/delete-account/) and request to delete account.",
         "domains": [
             "signalrgb.com",
             "docs.signalrgb.com"
