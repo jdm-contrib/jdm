@@ -17607,6 +17607,15 @@
         ]
     },
     {
+        "name": "SignalRGB",
+        "url": "https://signalrgb.com/account/delete-account/",
+        "difficulty": "easy",
+        "domains": [
+            "signalrgb.com",
+            "docs.signalrgb.com"
+        ]
+    },
+    {
         "name": "Similarweb",
         "url": "https://account.similarweb.com/user-details",
         "difficulty": "easy",
