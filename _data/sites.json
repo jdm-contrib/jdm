@@ -17732,6 +17732,13 @@
         "domains": ["sketchup.com"]
     },
     {
+        "name": "SKlauncher",
+        "url": "https://skmedix.pl/settings",
+        "difficulty": "easy",
+        "notes": "Go to \"Settings\", scroll down, click on \"Delete account\", then click on \"Yes, delete my account\" on the confirmation pop-up.",
+        "domains": ["skmedix.pl"]
+    },
+    {
         "name": "Skiddle",
         "url": "https://www.skiddle.com/skiddlepeople/removeaccount.php",
         "difficulty": "easy",
