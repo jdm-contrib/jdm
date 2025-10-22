@@ -21017,6 +21017,17 @@
         "domains": ["visualping.io"]
     },
     {
+    "name": "VitalSource",
+    "url": "https://support.vitalsource.com/hc/en-us/requests/new",
+    "difficulty": "hard",
+    "notes": "Select 'Account Deletion Request' from dropdown and fill out form. Wait for confirmation from custonmer support.",
+    "domains": [
+        "www.vitalsource.com",
+        "bookshelf.vitalsource.com",
+        "support.vitalsource.com"
+    ]
+    },
+    {
         "name": "Viva o Linux (VOL)",
         "url": "https://www.vivaolinux.com.br/minhaConta.php",
         "difficulty": "easy",
