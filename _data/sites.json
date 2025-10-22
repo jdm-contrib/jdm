@@ -21641,6 +21641,16 @@
         "domains": ["whatsapp.com"]
     },
     {
+        "name": "When I Work",
+        "url": "https://help.wheniwork.com/articles/request-profile-deletion-ios/",
+        "difficulty": "limited",
+        "notes": "Profile can only be deleted from iOS app according to the help article.",
+        "domains": [
+            "wheniwork.com",
+            "login.wheniwork.com"
+        ]
+    },
+    {
         "name": "Where Am I?",
         "url": "https://whereamigame.app/",
         "difficulty": "easy",
