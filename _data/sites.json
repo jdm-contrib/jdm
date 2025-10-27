@@ -11676,6 +11676,14 @@
         "domains": ["lutris.net"]
     },
     {
+        "name": "LWN.net",
+        "url": "https://lwn.net/op/Privacy.lwn",
+        "difficulty": "hard",
+        "notes": "Send an email requesting account deletion.",
+        "email": "lwn@lwn.net",
+        "domains": ["lwn.net"]
+    },
+    {
         "name": "Lyconet",
         "url": "https://www.lyconet.com/",
         "difficulty": "hard",
