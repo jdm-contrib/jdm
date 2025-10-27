@@ -22297,6 +22297,12 @@
         "domains": ["workwise.io"]
     },
     {
+        "name": "WorkZilla",
+        "url": "https://client.work-zilla.com/settings/delete-account",
+        "difficulty": "easy",
+        "domains": ["work-zilla.com"]
+    },
+    {
         "name": "World Market",
         "url": "https://www.worldmarket.com/category/customer-service/world-market-rewards-faqs.do",
         "difficulty": "hard",
