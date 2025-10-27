@@ -18238,9 +18238,9 @@
     },
     {
         "name": "SpigotMC",
-        "url": "https://www.spigotmc.org/threads/delete-account.205176/",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account you can only deactivate your account. Go for this to your profile and click the report button on your profile and write delete me and wait.",
+        "url": "https://www.spigotmc.org/threads/account-removal-information.392153/",
+        "difficulty": "hard",
+        "notes": "Go to your profile. Use the 'report' button to contact support.",
         "notes_tr": "Hesabınızı silemezsiniz, sadece hesabınızı devre dışı bırakabilirsiniz. Bunun için \"Profil\" gidin ve profilinizdeki \"Raporlar\" düğmesini tıklayın ve \"Sil Beni\" yazıp bekleyin.",
         "notes_de": "Du kannst deinen Account nicht komplett löschen sondern nur deaktivieren. Gehe dazu auf dein Profil und klicke den Reportbutton auf deinem Profil und schreibe delete me",
         "domains": ["spigotmc.org"]
