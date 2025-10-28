@@ -16598,9 +16598,9 @@
     },
     {
         "name": "Replit",
-        "url": "https://replit.com/account",
+        "url": "https://replit.com/account/additional-billing-settings",
         "difficulty": "easy",
-        "notes": "On the linked page under Account select 'Request account deletion' and then click the 'Yes, Delete my Account' button.",
+        "notes": "On the linked page click \"Request account deletion\", then \"Yes, Delete my Account\"",
         "domains": [
             "replit.com",
             "repl.it"
