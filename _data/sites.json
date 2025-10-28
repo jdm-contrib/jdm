@@ -8749,6 +8749,13 @@
         "notes_pt-BR": "Vá para \"Settings ⮕ Delete Account ⮕ Delete my account\".",
         "domains": ["happyscribe.co"]
     },
+        {
+        "name": "Happy Wheels",
+        "url": "https://totaljerkface.com/delete_account.tjf",
+        "difficulty": "easy",
+        "notes": "Enter your password twice, then click \"Delete account\".",
+        "domains": ["totaljerkface.com"]
+    },
     {
         "name": "Hark Audio",
         "url": "https://harkaudio.com/support",
