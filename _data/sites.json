@@ -2563,6 +2563,13 @@
         "domains": ["blogger.com"]
     },
     {
+        "name": "Blooket",
+        "url": "https://id.blooket.com/delete",
+        "difficulty": "medium",
+        "notes": "Upon clicking delete, you'll get a code on the e-mail associated with the account to enter and confirm.",
+        "domains": ["blooket.com"]
+    },
+    {
         "name": "Bloomberg",
         "url": "https://www.bloomberg.com/notices/tos/",
         "difficulty": "impossible",
