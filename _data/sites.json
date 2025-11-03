@@ -13222,6 +13222,12 @@
         ]
     },
     {
+        "name": "MyAbandonware",
+        "url": "https://www.myabandonware.com/account/delete/",
+        "difficulty": "easy",
+        "domains": ["myabandonware.com"]
+    },
+    {
         "name": "MyAnimeList",
         "url": "https://myanimelist.net/account_deletion",
         "difficulty": "medium",
