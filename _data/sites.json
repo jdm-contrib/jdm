@@ -17429,6 +17429,13 @@
         "domains": ["sfimg.com"]
     },
     {
+        "name": "Shaadi.com",
+        "url": "https://my.shaadi.com/my-shaadi/my-account/hide-delete-account",
+        "difficulty": "impossible",
+        "notes": "Though the site claims that the account was deleted, it still recognizes the deleted account.",
+        "domains": ["shaadi.com"]
+    },
+    {
         "name": "Shadow",
         "url": "https://account.shadow.tech/home/security",
         "difficulty": "easy",
