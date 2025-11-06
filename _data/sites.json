@@ -3968,6 +3968,17 @@
         ]
     },
     {
+        "name": "Codecov",
+        "url": "https://codecovpro.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Open a support ticket via the linked page to request account deletion.",
+        "domains": [
+            "codecov.io",
+            "about.codecov.io",
+            "app.codecov.io"
+        ]
+    },
+    {
         "name": "Codeforces",
         "url": "https://codeforces.com/blog/entry/69245",
         "difficulty": "impossible",
