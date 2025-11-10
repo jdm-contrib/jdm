@@ -10257,6 +10257,23 @@
         ]
     },
     {
+        "name": "JobToday",
+        "url": "privacy@jobtoday.com",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "email": "privacy@jobtoday.com",
+        "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX, I want my account to be deleted because of XXXXXX. I request and authorize you to remove my profile from jobtoday.com and delete all my content with you. I wish to terminate the JobToday End User Agreement and agree to the Terms and Conditions as set in the End User Agreement for the termination process.",
+        "domains": ["jobtoday.com"]
+    },
+    {
         "name": "Joinrs",
         "url": "https://www.joinrs.com/en/profile/settings/",
         "difficulty": "easy",
@@ -23016,22 +23033,5 @@
         "notes": "Go to the linked page and click \"Удалить учетную запись\".",
         "notes_ru": "Перейдите по ссылке и нажмите кнопку \"Удалить учетную запись\".",
         "domains": ["sdamgia.ru"]
-    },
-    {
-        "name": "Job Today",
-        "url": "privacy@jobtoday.com",
-        "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "email": "privacy@jobtoday.com",
-        "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX, I want my account to be deleted because of XXXXXX. I request and authorize you to remove my profile from jobtoday.com and delete all my content with you. I wish to terminate the JobToday End User Agreement and agree to the Terms and Conditions as set in the End User Agreement for the termination process.",
-        "domains": ["jobtoday.com"]
     }
 ]
