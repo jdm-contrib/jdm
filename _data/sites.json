@@ -11737,6 +11737,12 @@
         ]
     },
     {
+        "name": "m9snoi",
+        "url": "https://m9snoi.net/",
+        "difficulty": "impossible",
+        "domains": ["m9snoi.net"]
+    },
+    {
         "name": "M Covoit Lignes+",
         "url": "https://mcovoitlignesplus.zendesk.com/hc/fr/articles/360015255860-Comment-supprimer-mon-compte",
         "difficulty": "hard",
@@ -12617,6 +12623,15 @@
             "help.minecraft.net",
             "account.mojang.com"
         ]
+    },
+    {
+        "name": "MinecraftRating",
+        "url": "https://minecraftrating.ru/contacts.html",
+        "difficulty": "hard",
+        "email": "admin@minecraftrating.ru",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete my account, my username is XXXXXX, reason: XXXXX",
+        "domains": ["minecraftrating.ru"]
     },
     {
         "name": "Minecraft Tools",
