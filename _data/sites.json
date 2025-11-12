@@ -11737,12 +11737,6 @@
         ]
     },
     {
-        "name": "m9snoi",
-        "url": "https://m9snoi.net/",
-        "difficulty": "impossible",
-        "domains": ["m9snoi.net"]
-    },
-    {
         "name": "M Covoit Lignes+",
         "url": "https://mcovoitlignesplus.zendesk.com/hc/fr/articles/360015255860-Comment-supprimer-mon-compte",
         "difficulty": "hard",
@@ -11766,6 +11760,12 @@
         "notes": "From your profile page, go to \"Your information\" and click on \"Delete my personal space \"",
         "notes_fr": "Sur votre page de profil, allez sur \"Vos informations\" et cliquez sur \"Supprimer mon espace personnel\"",
         "domains": ["reso-m.fr"]
+    },
+    {
+        "name": "m9snoi",
+        "url": "https://m9snoi.net/",
+        "difficulty": "impossible",
+        "domains": ["m9snoi.net"]
     },
     {
         "name": "Macrumors",
