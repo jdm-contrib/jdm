@@ -12625,15 +12625,6 @@
         ]
     },
     {
-        "name": "MinecraftRating",
-        "url": "https://minecraftrating.ru/contacts.html",
-        "difficulty": "hard",
-        "email": "admin@minecraftrating.ru",
-        "email_subject": "Account Deletion Request",
-        "email_body": "Please delete my account, my username is XXXXXX, reason: XXXXX",
-        "domains": ["minecraftrating.ru"]
-    },
-    {
         "name": "Minecraft Tools",
         "url": "https://minecraft.tools/en/contact.php",
         "url_fr": "https://minecraft.tools/fr/contact.php",
@@ -12646,6 +12637,15 @@
         "notes": "The only way to contact them is by email, but no one responds.",
         "notes_it": "L'unico modo per contattarli è tramite email, ma nessuno risponde.",
         "domains": ["minecraft.tools"]
+    },
+    {
+        "name": "MinecraftRating",
+        "url": "https://minecraftrating.ru/contacts.html",
+        "difficulty": "hard",
+        "email": "admin@minecraftrating.ru",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete my account, my username is XXXXXX, reason: XXXXX",
+        "domains": ["minecraftrating.ru"]
     },
     {
         "name": "Minehut",
