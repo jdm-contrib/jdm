@@ -1565,9 +1565,7 @@
         "url": "https://help.argos.co.uk/help/my-account/how-do-i-close-my-online-account",
         "difficulty": "hard",
         "notes": "You must contact support.",
-        "domains": [
-            "argos.co.uk"
-        ]
+        "domains": ["argos.co.uk"]
     },
     {
         "name": "Arlo",
@@ -1970,9 +1968,7 @@
         "difficulty": "hard",
         "notes": "You must contact them.",
         "email": "webmaster@azquotes.com",
-        "domains": [
-            "azquotes.com"
-        ]
+        "domains": ["azquotes.com"]
     },
     {
         "name": "B&H",
@@ -7582,9 +7578,7 @@
         "difficulty": "hard",
         "notes": "You must send an e-mail to them.",
         "email": "privacy@gather.town",
-        "domains": [
-            "gather.town"
-        ]
+        "domains": ["gather.town"]
     },
     {
         "name": "Gauges",
@@ -18360,9 +18354,7 @@
         "url": "https://spond.com/landing/deleteAccount",
         "difficulty": "easy",
         "notes": "For mobile, follow the instructions [here](https://help.spond.com/app/en/articles/114878-deleting-your-spond-profile).",
-        "domains": [
-            "spond.com"
-        ]
+        "domains": ["spond.com"]
     },
     {
         "name": "Sporcle",
@@ -18427,9 +18419,7 @@
         "difficulty": "hard",
         "notes": "You must contact support.",
         "email": "office@spusu.co.uk",
-        "domains": [
-            "spusu.co.uk"
-        ]
+        "domains": ["spusu.co.uk"]
     },
     {
         "name": "SquadJobs",
@@ -19012,9 +19002,7 @@
         "url": "https://help.suno.com/en/articles/3480577",
         "difficulty": "medium",
         "notes": "Might be hard depending on what single sign-on option you used.",
-        "domains": [
-            "suno.com"
-        ]
+        "domains": ["suno.com"]
     },
     {
         "name": "Super Domínios",
@@ -20602,9 +20590,7 @@
         "difficulty": "hard",
         "notes": "You must contact support.",
         "email": "support@ufc.tv",
-        "domains": [
-            "ufcfightpass.com"
-        ]
+        "domains": ["ufcfightpass.com"]
     },
     {
         "name": "UGC",
