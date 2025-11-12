@@ -11762,6 +11762,12 @@
         "domains": ["reso-m.fr"]
     },
     {
+        "name": "m9snoi",
+        "url": "https://m9snoi.net/",
+        "difficulty": "impossible",
+        "domains": ["m9snoi.net"]
+    },
+    {
         "name": "Macrumors",
         "url": "https://macrumors.zendesk.com/hc/en-us/articles/201260797-How-do-I-cancel-my-account-",
         "difficulty": "impossible",
@@ -12631,6 +12637,15 @@
         "notes": "The only way to contact them is by email, but no one responds.",
         "notes_it": "L'unico modo per contattarli è tramite email, ma nessuno risponde.",
         "domains": ["minecraft.tools"]
+    },
+    {
+        "name": "MinecraftRating",
+        "url": "https://minecraftrating.ru/contacts.html",
+        "difficulty": "hard",
+        "email": "admin@minecraftrating.ru",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete my account, my username is XXXXXX, reason: XXXXX",
+        "domains": ["minecraftrating.ru"]
     },
     {
         "name": "Minehut",
