@@ -664,6 +664,14 @@
         "domains": ["aifluxkrea.com"]
     },
     {
+        "name": "AI Hero",
+        "url": "https://www.aihero.dev/faq",
+        "notes": "You must contact them.",
+        "difficulty": "hard",
+        "email": "team@aihero.dev",
+        "domains": ["aihero.dev"]
+    },
+    {
         "name": "AI Image to Image Generator",
         "url": "https://imgtoimggenerator.com/",
         "notes": "You have two options: 1) Download the [iOS](https://apps.apple.com/app/6747765678) and delete account within the app, or 2) Email requesting account deletion and wait a few days for processing.",
@@ -1553,6 +1561,15 @@
         "domains": ["arex.or.kr"]
     },
     {
+        "name": "Argos",
+        "url": "https://help.argos.co.uk/help/my-account/how-do-i-close-my-online-account",
+        "difficulty": "hard",
+        "notes": "You must contact support.",
+        "domains": [
+            "argos.co.uk"
+        ]
+    },
+    {
         "name": "Arlo",
         "url": "https://my.arlo.com/#/settings/privacy/delete-account",
         "difficulty": "medium",
@@ -1946,6 +1963,16 @@
         "difficulty": "impossible",
         "notes": "Account will not be deleted, just disabled. If you want that, click ‘Disable Account’ button.  Check ‘Yes, I wish to disable my AZ MVD Now account.’.  Click ‘Disable Account’",
         "domains": ["azmvdnow.gov"]
+    },
+    {
+        "name": "AZQuotes",
+        "url": "https://www.azquotes.com/contacts.html",
+        "difficulty": "hard",
+        "notes": "You must contact them.",
+        "email": "webmaster@azquotes.com",
+        "domains": [
+            "azquotes.com"
+        ]
     },
     {
         "name": "B&H",
@@ -7547,6 +7574,16 @@
         "domains": [
             "gasbuddy.com",
             "help.gasbuddy.com"
+        ]
+    },
+    {
+        "name": "Gather",
+        "url": "https://www.gather.town/legal/gather-privacy-policy",
+        "difficulty": "hard",
+        "notes": "You must send an e-mail to them.",
+        "email": "privacy@gather.town",
+        "domains": [
+            "gather.town"
         ]
     },
     {
@@ -18319,6 +18356,15 @@
         ]
     },
     {
+        "name": "Spond",
+        "url": "https://spond.com/landing/deleteAccount",
+        "difficulty": "easy",
+        "notes": "For mobile, follow the instructions [here](https://help.spond.com/app/en/articles/114878-deleting-your-spond-profile).",
+        "domains": [
+            "spond.com"
+        ]
+    },
+    {
         "name": "Sporcle",
         "url": "https://www.sporcle.com/settings/account-info/",
         "difficulty": "easy",
@@ -18373,6 +18419,16 @@
         "domains": [
             "spreadshirt.com",
             "my.spreadshirt.com"
+        ]
+    },
+    {
+        "name": "spusu",
+        "url": "https://www.spusu.co.uk/contact",
+        "difficulty": "hard",
+        "notes": "You must contact support.",
+        "email": "office@spusu.co.uk",
+        "domains": [
+            "spusu.co.uk"
         ]
     },
     {
@@ -18949,6 +19005,15 @@
         "domains": [
             "saude.sulamericaseguros.com.br",
             "sulamericaseguros.com.br"
+        ]
+    },
+    {
+        "name": "Suno",
+        "url": "https://help.suno.com/en/articles/3480577",
+        "difficulty": "medium",
+        "notes": "Might be hard depending on what single sign-on option you used.",
+        "domains": [
+            "suno.com"
         ]
     },
     {
@@ -20530,6 +20595,16 @@
         "notes_ca": "Feu clic a “Tancar compte” i confirmeu amb el codi de 6 dígits enviat per correu electrònic.",
         "notes_es": "Haz clic en “Cerrar cuenta” y confirma con el código de 6 dígitos enviado por correo electrónico.",
         "domains": ["udemy.com"]
+    },
+    {
+        "name": "UFC Fight Pass",
+        "url": "https://www.ufc.com/faq-ufctv-ufcfightpass",
+        "difficulty": "hard",
+        "notes": "You must contact support.",
+        "email": "support@ufc.tv",
+        "domains": [
+            "ufcfightpass.com"
+        ]
     },
     {
         "name": "UGC",
