@@ -11387,10 +11387,9 @@
     },
     {
         "name": "Lime",
-        "url": "https://help.li.me/hc/en/articles/360017597013",
-        "difficulty": "hard",
-        "notes": "You must contact support via your Lime's contact form to request deletion.",
-        "notes_tr": "Silme talebinde bulunmak için Lime iletişim formu aracılığıyla destek ile iletişime geçmelisiniz.",
+        "url": "https://www.li.me/",
+        "difficulty": "easy",
+        "notes": "Tap on your profile, click \"Definitions\" then \"Delete Account\" and confirm after selecting reasons.",
         "domains": [
             "li.me",
             "help.li.me"
