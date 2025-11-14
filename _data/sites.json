@@ -16318,6 +16318,13 @@
         "domains": ["radiooooo.com"]
     },
     {
+        "name": "RaiDrive",
+        "url": "https://www.raidrive.com/identify/account/manage/personaldata",
+        "difficulty": "medium",
+        "notes": "Go to their website, click the account icon in the top right and click \"Account\". From there, click on \"Personal Data\" on the left, and \"Confirm removal by email\". Check your email to open the confirmation link. After typing your account password, click \"Remove\".",
+        "domains": ["raidrive.com"]
+    },
+    {
         "name": "Rail Europe",
         "url": "https://www.raileurope.com/account/settings",
         "difficulty": "hard",
@@ -17805,6 +17812,15 @@
             "thesimsresource.com",
             "help.thesimsresource.com"
         ]
+    },
+    {
+        "name": "SINAC serviciosenlinea",
+        "url": "https://serviciosenlinea.sinac.go.cra",
+        "difficulty": "hard",
+        "email": "reservaciones.sinac@sinac.go.cr",
+        "email_subject": "Solicitación de borrar cuenta",
+        "email_body": "Tengo una cuenta en https://serviciosenlinea.sinac.go.cr/ utilizando el usuario XXXXXX y me gustaria de eliminar esta cuenta.",
+        "domains": ["serviciosenlinea.sinac.go.cra"]
     },
     {
         "name": "SitePoint",
@@ -20036,6 +20052,13 @@
             "torproject.org",
             "trac.torproject.org"
         ]
+    },
+    {
+        "name": "TorBox",
+        "url": "https://torbox.app/settings?section=account",
+        "difficulty": "medium",
+        "notes": "On the dashboard, click your profile picture in the top right, then \"Settings\" and scroll down to \"Delete Account\". Click and hold the delete button and it will ask for the confirmation code sent to your e-mail and enter it.",
+        "domains": ["torbox.app"]
     },
     {
         "name": "Torn",
