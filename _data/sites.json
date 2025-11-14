@@ -21373,11 +21373,9 @@
     },
     {
         "name": "W3Schools",
-        "url": "https://support.w3schools.com/hc/en-gb/articles/14697964112402-How-can-I-delete-my-account",
-        "difficulty": "hard",
-        "email": "hello@w3schools.com",
-        "email_subject": "#deleteme",
-        "email_body": "#deleteme",
+        "url": "https://pathfinder.w3schools.com/profile",
+        "difficulty": "easy",
+        "notes": "You can delete your own account by navigating to the Profile menu item and then select the option to delete your account.",
         "domains": ["w3schools.com"]
     },
     {
