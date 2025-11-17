@@ -6798,6 +6798,15 @@
         ]
     },
     {
+        "name": "Flatfox",
+        "url": "https://flatfox.ch/en/accounts/remove/",
+        "difficulty": "easy",
+        "notes": "Go to Menu ⮕ Delete account and click 'Delete my account'.",
+        "domains": [
+            "flatfox.ch"
+        ]
+    },
+    {
         "name": "Flathub",
         "url": "https://flathub.org/settings",
         "difficulty": "easy",
