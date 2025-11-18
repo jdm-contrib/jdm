@@ -14207,7 +14207,10 @@
         "url": "https://secure.oculus.com/my/privacy/#delete-your-meta-horizon-data",
         "difficulty": "easy",
         "notes": "Visit the linked page then go to the 'Delete your Meta and Horizon data' section, from there you will be able to choose to delete your account.",
-        "domains": ["oculus.com"]
+        "domains": [
+            "oculus.com",
+            "www.meta.com"
+        ]
     },
     {
         "name": "Odeon",
