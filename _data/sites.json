@@ -14203,10 +14203,14 @@
         "domains": ["octopus.do"]
     },
     {
-        "name": "Oculus VR",
-        "url": "https://store.facebook.com/help/quest/articles/accounts/account-settings-and-management/delete-oculus-account/",
+        "name": "Oculus / Meta VR",
+        "url": "https://secure.oculus.com/my/privacy/#delete-your-meta-horizon-data",
         "difficulty": "easy",
-        "domains": ["oculus.com"]
+        "notes": "Visit the linked page then go to the 'Delete your Meta and Horizon data' section, from there you will be able to choose to delete your account.",
+        "domains": [
+            "oculus.com",
+            "meta.com"
+        ]
     },
     {
         "name": "Odeon",
