@@ -10770,9 +10770,9 @@
     },
     {
         "name": "Kongregate",
-        "url": "https://kong.zendesk.com/hc/en-us/articles/360049211251-How-to-delete-your-account",
-        "difficulty": "medium",
-        "notes": "Visit the linked page and follow the instructions to delete your account.",
+        "url": "www.kongregate.com/en/accounts",
+        "difficulty": "easy",
+        "notes": "From your account page, click the gear icon and select 'Delete Account'. Confirm the delettion in the E-Mail sent to you.",
         "domains": ["kongregate.com"]
     },
     {
