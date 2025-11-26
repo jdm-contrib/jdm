@@ -10772,7 +10772,7 @@
         "name": "Kongregate",
         "url": "www.kongregate.com/en/accounts",
         "difficulty": "easy",
-        "notes": "From your account page, click the gear icon and select 'Delete Account'. Confirm the delettion in the E-Mail sent to you.",
+        "notes": "From your account page, click the gear icon and select “Delete Account.” Confirm the deletion in the email sent to you.",
         "domains": ["kongregate.com"]
     },
     {
