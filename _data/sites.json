@@ -2180,6 +2180,16 @@
         "domains": ["bewelcome.org"]
     },
     {
+        "name": "Beacons",
+        "url": "https://account.beacons.ai/account-settings/home/profile",
+        "difficulty": "easy",
+        "notes": "Go to the linked page, scroll down, click on 'Delete account', and confirm.",
+        "domains": [
+            "beacons.ai",
+            "help.beacons.ai"
+        ]
+    },
+    {
         "name": "BeamNG",
         "url": "https://support.beamng.com/",
         "difficulty": "hard",
