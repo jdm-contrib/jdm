@@ -17206,6 +17206,21 @@
         "domains": ["satispay.com"]
     },
     {
+        "name": "SaxoInvestor/SaxoTrader",
+        "url": "https://www.saxoinvestor.com/investor/close-my-account",
+        "difficulty": "easy",
+        "notes": "Go to the linked [account closure page](https://www.saxoinvestor.com/investor/close-my-account), and follow the instructions to close your account. Some requirements must be met before being able to close the account, such as having a zero balance.",
+        "domains": [
+            "saxoinvestor.bem",
+            "saxoinvestor.ch",
+            "saxoinvestor.com",
+            "saxoinvestor.dk",
+            "saxoinvestor.fr",
+            "saxoinvestor.nl",
+            "saxotrader.com"
+        ]
+    },
+    {
         "name": "Scaleway",
         "url": "https://console.scaleway.com/#/account",
         "difficulty": "easy",
