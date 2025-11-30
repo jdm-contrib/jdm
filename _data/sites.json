@@ -1938,6 +1938,13 @@
         "domains": ["awardwallet.com"]
     },
     {
+        "name": "Axent Host",
+        "url": "https://app.axenthost.com/profile",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom, click \"Delete account\", type in \"delete account\" into the prompt that pops up, and click \"Delete account\".",
+        "domains": ["axenthost.com"]
+    },
+    {
         "name": "Axios",
         "url": "https://www.axios.com/legal",
         "difficulty": "limited",
