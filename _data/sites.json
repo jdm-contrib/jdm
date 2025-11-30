@@ -14209,6 +14209,19 @@
         ]
     },
     {
+        "name": "Obsidian",
+        "url": "https://obsidian.md/account/",
+        "difficulty": "easy",
+        "notes": "Go to the linked page, scroll down, click the red 'Delete' button next to 'Delete account' and confirm.",
+        "domains": [
+            "obsidian.md",
+            "status.obsidian.md",
+            "help.obsidian.md",
+            "docs.obsidian.md",
+            "forum.obsidian.md"
+        ]
+    },
+    {
         "name": "OceanHero",
         "url": "https://oceanhero.zendesk.com/hc/en-us/requests/new",
         "difficulty": "hard",
