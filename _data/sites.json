@@ -5393,7 +5393,7 @@
         "url": "https://doksure.com/supprimer-son-compte",
         "notes": "GDPR compliant. Go to Settings ⮕ Account ⮕ Delete Account.",
         "notes_fr": "Conforme RGPD. Allez dans Paramètres ⮕ Compte ⮕ Supprimer son compte.",
-	"difficulty": "easy",
+        "difficulty": "easy",
         "domains": ["doksure.com"]
     },
     {
