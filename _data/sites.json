@@ -10378,6 +10378,13 @@
         "domains": ["jusbrasil.com.br"]
     },
     {
+        "name": "Just Giving",
+        "url": "https://help.justgiving.com/hc/en-us/articles/200670321-How-do-I-delete-my-account",
+        "difficulty": "hard",
+        "notes": "Must contact customer support to delete account",
+        "domains": ["justgiving.com"]
+    },
+    {
         "name": "JustinGuitar",
         "url": "https://www.justinguitar.com",
         "difficulty": "easy",
@@ -10385,13 +10392,6 @@
         "domains": [
             "justinguitar.com"
         ]
-    },
-    {
-        "name": "Just Giving",
-        "url": "https://help.justgiving.com/hc/en-us/articles/200670321-How-do-I-delete-my-account",
-        "difficulty": "hard",
-        "notes": "Must contact customer support to delete account",
-        "domains": ["justgiving.com"]
     },
     {
         "name": "Kadenze",
