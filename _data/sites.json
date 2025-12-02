@@ -3758,9 +3758,7 @@
         "url": "https://www.classcentral.com/",
         "difficulty": "easy",
         "notes": "Click on your profile icon at the top right. Click on \"Account Settings\". Click on \"Delete Account\" and enter your password to delete your account. Your acccount and all data will be deleted within 7 days.",
-        "domains": [
-            "classcentral.com"
-        ]
+        "domains": ["classcentral.com"]
     },
     {
         "name": "Classmates",
@@ -5828,9 +5826,9 @@
     },
     {
         "name": "Ed2Go",
-        "url": "https://www.ed2go.com/",
+        "url": "https://support.ed2go.com/partners/s/contactsupport",
         "difficulty": "hard",
-        "notes": "There is no outright way to delete your account. [Click here](https://support.ed2go.com/partners/s/contactsupport) to submit a request. Fill in your relevant details.",
+        "notes": "There is no outright way to delete your account. You need to submit a request with your relevant details.",
         "domains": [
             "ed2go.com",
             "support.ed2go.com"
@@ -5910,11 +5908,9 @@
         "name": "Edureka",
         "url": "https://www.edureka.co/contact-us",
         "difficulty": "hard",
-        "notes": "Click the link provided. Send Edureka a message regarding account deletion. Alternatively, send an email to \"support@edureka.co\", requesting your account and data be deleted. Best practice, [click here](https://yourdigitalrights.org/d/edureka.co) to use YourDigitalRights.org, as they have a complete deletion request template.",
+        "notes": "Click the link provided. Send Edureka a message regarding account deletion. Alternatively, send an email to them, requesting your account and data be deleted."",
         "email": "support@edureka.co",
-        "domains": [
-            "edureka.co"
-        ]
+        "domains": ["edureka.co"]
     },
     {
         "name": "Edvisors/ScholarshipPoints",
@@ -10121,9 +10117,7 @@
         "url": "https://www.italki.com/",
         "difficulty": "easy",
         "notes": "Click on your profile at the bottom left. Click on \"Settings\". Click \"Privacy\", scroll down, then click \"Delete Account\". Enter your password to delete your account.",
-        "domains": [
-            "italki.com"
-        ]
+        "domains": ["italki.com"]
     },
     {
         "name": "itch.io",
@@ -10389,15 +10383,13 @@
         "url": "https://www.justinguitar.com",
         "difficulty": "easy",
         "notes": "Go to your dashboard. Scroll down and click on \"Account\" and click on the highlighted \"Delete your account\" text. Enter your password to delete your account.",
-        "domains": [
-            "justinguitar.com"
-        ]
+        "domains": ["justinguitar.com"]
     },
     {
         "name": "Kadenze",
-        "url": "https://www.kadenze.com/",
+        "url": "https://help.kadenze.com/hc/en-us/requests/new?src=www.kadenze.com",
         "difficulty": "hard",
-        "notes": "There is no outright way to delete your account. [Click here](https://help.kadenze.com/hc/en-us/requests/new?src=www.kadenze.com) to submit a request. Fill in your relevant details.",
+        "notes": "There is no outright way to delete your account. Submit a request with your relevant details.",
         "domains": [
             "kadenze.com",
             "help.kadenze.com"
@@ -20714,9 +20706,7 @@
         "url": "https://www.upwork.com/",
         "difficulty": "easy",
         "notes": "Click on your profile icon at the top right. Click on \"Close Account\". Supply a reason then click \"Close account\".",
-        "domains": [
-            "upwork.com"
-        ]
+        "domains": ["upwork.com"]
     },
     {
         "name": "Urcdkey",
