@@ -5406,6 +5406,14 @@
         ]
     },
     {
+        "name": "Doksure",
+        "url": "https://doksure.com/supprimer-son-compte",
+        "notes": "GDPR compliant. Go to Settings ⮕ Account ⮕ Delete Account.",
+        "notes_fr": "Conforme RGPD. Allez dans Paramètres ⮕ Compte ⮕ Supprimer son compte.",
+        "difficulty": "easy",
+        "domains": ["doksure.com"]
+    },
+    {
         "name": "Dollskill",
         "url": "https://www.dollskill.com/pages/contact-us",
         "difficulty": "hard",
