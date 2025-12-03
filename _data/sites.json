@@ -994,6 +994,16 @@
         "domains": ["alipay.com"]
     },
     {
+        "name": "Alison",
+        "url": "https://helpcenter.alison.com/en/articles/8204957-how-do-i-delete-my-alison-account",
+        "difficulty": "easy",
+        "notes": "Click the link provided. Scroll down and click \"Delete Account\". You will be taken to a new website, scroll down and again click \"Delete Account\". Enter your password to delete your account.",
+        "domains": [
+            "alison.com",
+            "helpcenter.alison.com"
+        ]
+    },
+    {
         "name": "All 4 / Channel 4",
         "url": "https://4id.channel4.com/account#!/close",
         "difficulty": "easy",
@@ -3791,6 +3801,13 @@
         ]
     },
     {
+        "name": "ClassCentral",
+        "url": "https://www.classcentral.com/",
+        "difficulty": "easy",
+        "notes": "Click on your profile icon at the top right. Click on \"Account Settings\". Click on \"Delete Account\" and enter your password to delete your account. Your acccount and all data will be deleted within 7 days.",
+        "domains": ["classcentral.com"]
+    },
+    {
         "name": "Classmates",
         "url": "https://secure.classmates.com/auth/removemember",
         "difficulty": "easy",
@@ -5874,6 +5891,16 @@
         "domains": ["ecwid.com"]
     },
     {
+        "name": "Ed2Go",
+        "url": "https://support.ed2go.com/partners/s/contactsupport",
+        "difficulty": "hard",
+        "notes": "There is no outright way to delete your account. You need to submit a request with your relevant details.",
+        "domains": [
+            "ed2go.com",
+            "support.ed2go.com"
+        ]
+    },
+    {
         "name": "Edabit",
         "url": "https://edabit.com/challenges",
         "difficulty": "easy",
@@ -5942,6 +5969,14 @@
         "difficulty": "easy",
         "notes": "Select the \"Delete My Account\" button. The profile will be deleted effectively within 2-3 days.",
         "domains": ["eduonix.com"]
+    },
+    {
+        "name": "Edureka",
+        "url": "https://www.edureka.co/contact-us",
+        "difficulty": "hard",
+        "notes": "Click the link provided. Send Edureka a message regarding account deletion. Alternatively, send an email to them, requesting your account and data be deleted.",
+        "email": "support@edureka.co",
+        "domains": ["edureka.co"]
     },
     {
         "name": "Edvisors/ScholarshipPoints",
@@ -10176,6 +10211,13 @@
         ]
     },
     {
+        "name": "ITalki",
+        "url": "https://www.italki.com/",
+        "difficulty": "easy",
+        "notes": "Click on your profile at the bottom left. Click on \"Settings\". Click \"Privacy\", scroll down, then click \"Delete Account\". Enter your password to delete your account.",
+        "domains": ["italki.com"]
+    },
+    {
         "name": "itch.io",
         "url": "https://itch.io/user/settings/delete-account",
         "difficulty": "easy",
@@ -10441,6 +10483,23 @@
         "difficulty": "hard",
         "notes": "Must contact customer support to delete account",
         "domains": ["justgiving.com"]
+    },
+    {
+        "name": "JustinGuitar",
+        "url": "https://www.justinguitar.com",
+        "difficulty": "easy",
+        "notes": "Go to your dashboard. Scroll down and click on \"Account\" and click on the highlighted \"Delete your account\" text. Enter your password to delete your account.",
+        "domains": ["justinguitar.com"]
+    },
+    {
+        "name": "Kadenze",
+        "url": "https://help.kadenze.com/hc/en-us/requests/new?src=www.kadenze.com",
+        "difficulty": "hard",
+        "notes": "There is no outright way to delete your account. Submit a request with your relevant details.",
+        "domains": [
+            "kadenze.com",
+            "help.kadenze.com"
+        ]
     },
     {
         "name": "Kaggle",
@@ -20867,6 +20926,13 @@
         "notes": "Login to your account and click on 'My Settings' or follow the link. On the 'Delete Account' section click on 'I still want to delete the account' link & click on 'Send account deletion e-mail'. Check your email and open provided link. Lastly confirm deletion by click on 'Delete Account'.",
         "notes_tr": "Hesabınıza giriş yapın ve \"Ayarlarım\" bağlantısını tıklayın veya verilen bağlantıya girin. \"Hesabı Sil\" bölümünde \"Hala hesabımı silmek istiyorum\" \"Hesap silme maili gönder\" tuşuna tıklayın. E-postanızı kontrol edin ve gönderilen bağlantıyı açın. Son olarak, \"Hesabı Sil\" bağlantısını tıklayarak silme işlemini onaylayın.",
         "domains": ["uptimerobot.com"]
+    },
+    {
+        "name": "Upwork",
+        "url": "https://www.upwork.com/",
+        "difficulty": "easy",
+        "notes": "Click on your profile icon at the top right. Click on \"Close Account\". Supply a reason then click \"Close account\".",
+        "domains": ["upwork.com"]
     },
     {
         "name": "Urcdkey",
