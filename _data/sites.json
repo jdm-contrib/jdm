@@ -23173,6 +23173,14 @@
         "domains": ["zoom.us"]
     },
     {
+        "name": "Zoológico de São Paulo",
+        "url": "https://zoologico.com.br/",
+        "difficulty": "impossible",
+        "notes": "They state it cannot be deleted.",
+        "notes_pt-BR": "Eles dizem que não pode ser deletada.",
+        "domains": ["zoologico.com.br"]
+    },
+    {
         "name": "Zotero",
         "url": "https://www.zotero.org/settings/account",
         "difficulty": "easy",
