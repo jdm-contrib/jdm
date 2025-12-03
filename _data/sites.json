@@ -23165,20 +23165,20 @@
         ]
     },
     {
-        "name": "Zoom",
-        "url": "https://zoom.us/account",
-        "difficulty": "easy",
-        "notes": "Login to your account, go to 'Account Profile', click 'Terminate my account'. Enter password in dialog box and confirm.",
-        "notes_tr": "Hesabınıza giriş yapın, \"Hesap Ayarları\" sayfasına gidin, hesabı iptal et tuşuna tıklayın. Onay kutusunu onaylayın.",
-        "domains": ["zoom.us"]
-    },
-    {
         "name": "Zoológico de São Paulo",
         "url": "https://zoologico.com.br/",
         "difficulty": "impossible",
         "notes": "They state it cannot be deleted.",
         "notes_pt-BR": "Eles dizem que não pode ser deletada.",
         "domains": ["zoologico.com.br"]
+    },
+    {
+        "name": "Zoom",
+        "url": "https://zoom.us/account",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to 'Account Profile', click 'Terminate my account'. Enter password in dialog box and confirm.",
+        "notes_tr": "Hesabınıza giriş yapın, \"Hesap Ayarları\" sayfasına gidin, hesabı iptal et tuşuna tıklayın. Onay kutusunu onaylayın.",
+        "domains": ["zoom.us"]
     },
     {
         "name": "Zotero",
