@@ -23273,7 +23273,7 @@
         "name": "Zzo.ai",
         "url": "https://zzo.ai/profile",
         "difficulty": "easy",
-        "notes": "Log in, visit the profile page at https://zzo.ai/profile, scroll to the bottom and click the 'Delete Account' button. A warning dialog will appear, click 'Confirm' to delete your account.",
+        "notes": "Log in, visit the profile page, scroll to the bottom and click the 'Delete Account' button. A warning dialog will appear, click 'Confirm' to delete your account.",
         "domains": ["zzo.ai"]
     }
 ]
