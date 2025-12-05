@@ -21514,7 +21514,7 @@
         "name": "Wallhaven",
         "url": "https://wallhaven.cc/team",
         "difficulty": "hard",
-        "notes": "We have to send a message to the developers regarding account deletion. Developer list can be found at: [wallhaven.cc/team](https://wallhaven.cc/team).",
+        "notes": "You have to send a message to the developers regarding account deletion. Developer list can be found through the link.",
         "domains": ["wallhaven.cc"]
     },
     {
