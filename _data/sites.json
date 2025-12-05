@@ -23215,6 +23215,13 @@
         ]
     },
     {
+        "name": "Zzo.ai",
+        "url": "https://zzo.ai/profile",
+        "difficulty": "easy",
+        "notes": "Log in, visit the profile page, scroll to the bottom and click the 'Delete Account' button. A warning dialog will appear, click 'Confirm' to delete your account.",
+        "domains": ["zzo.ai"]
+    },
+    {
         "name": "Zé Delivery",
         "url": "https://faq-consumidor-zedelivery.sprinklr.com/articles/conta-e-privacidade/como-deletar-minha-conta/621889ac3df9251d7ed0da18",
         "difficulty": "easy",
@@ -23260,13 +23267,6 @@
         "notes_ru": "Перейдите по сслке и подтвердите удаление аккаунта.",
         "notes_uk": "Перейдіть за посиланням і підтвердіть видалення акаунту.",
         "domains": ["miyklas.com.ua"]
-    },
-    {
-        "name": "Zzo.ai",
-        "url": "https://zzo.ai/profile",
-        "difficulty": "easy",
-        "notes": "Log in, visit the profile page, scroll to the bottom and click the 'Delete Account' button. A warning dialog will appear, click 'Confirm' to delete your account.",
-        "domains": ["zzo.ai"]
     },
     {
         "name": "РешуОГЭ/РешуЕГЭ/СдамГИА",
