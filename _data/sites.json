@@ -21505,17 +21505,17 @@
         ]
     },
     {
-        "name": "wallpiece",
-        "url": "https://wallpiece.io/account/register/",
-        "difficulty": "easy",
-        "domains": ["wallpiece.io"]
-    },
-    {
         "name": "Wallhaven",
         "url": "https://wallhaven.cc/team",
         "difficulty": "hard",
         "notes": "You have to send a message to the developers regarding account deletion. Developer list can be found through the link.",
         "domains": ["wallhaven.cc"]
+    },
+    {
+        "name": "wallpiece",
+        "url": "https://wallpiece.io/account/register/",
+        "difficulty": "easy",
+        "domains": ["wallpiece.io"]
     },
     {
         "name": "Walmart",
