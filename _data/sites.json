@@ -23262,18 +23262,18 @@
         "domains": ["miyklas.com.ua"]
     },
     {
+        "name": "Zzo.ai",
+        "url": "https://zzo.ai/profile",
+        "difficulty": "easy",
+        "notes": "Log in, visit the profile page, scroll to the bottom and click the 'Delete Account' button. A warning dialog will appear, click 'Confirm' to delete your account.",
+        "domains": ["zzo.ai"]
+    },
+    {
         "name": "РешуОГЭ/РешуЕГЭ/СдамГИА",
         "url": "https://chem-ege.sdamgia.ru/profile",
         "difficulty": "easy",
         "notes": "Go to the linked page and click \"Удалить учетную запись\".",
         "notes_ru": "Перейдите по ссылке и нажмите кнопку \"Удалить учетную запись\".",
         "domains": ["sdamgia.ru"]
-    },
-    {
-        "name": "Zzo.ai",
-        "url": "https://zzo.ai/profile",
-        "difficulty": "easy",
-        "notes": "Log in, visit the profile page, scroll to the bottom and click the 'Delete Account' button. A warning dialog will appear, click 'Confirm' to delete your account.",
-        "domains": ["zzo.ai"]
     }
 ]
