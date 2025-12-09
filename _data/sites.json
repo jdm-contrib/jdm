@@ -17170,6 +17170,13 @@
         "domains": ["rscripts.net"]
     },
     {
+        "name": "RSS.app",
+        "url": "https://rss.app/account",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account page, press the button in the 'Delete account' section.",
+        "domains": ["rss.app"]
+    },
+    {
         "name": "Rue du Commerce",
         "url": "https://www.rueducommerce.fr",
         "difficulty": "impossible",
