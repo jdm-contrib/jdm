@@ -13593,7 +13593,7 @@
         "name":"Naukri",
         "url": "https://www.naukri.com/mnjuser/settings/communication",
         "difficulty": "easy",
-        "notes": "Log in -> click on your profile picture -> Click Settings -> Communication and Privacy tab -> Inside 'manage account' at the bottom, click on delete. Just enter your password to confirm. You may receive emails even after deletion and sometimes account deletion may not be possible due to internal errors. Ensure to have a password linked with your account.",
+        "notes": "Log in ⮕ click on your profile picture ⮕ Click Settings ⮕ Communication and Privacy tab ⮕ Inside 'manage account' at the bottom, click on delete. Just enter your password to confirm. You may receive emails even after deletion and sometimes account deletion may not be possible due to internal errors. Ensure to have a password linked with your account.",
         "domains": ["naukri.com"]
     },
     {
