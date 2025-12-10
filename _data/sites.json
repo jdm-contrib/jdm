@@ -2294,14 +2294,6 @@
         "domains": ["benfeitoria.com"]
     },
     {
-        "name": "Bergzeit",
-        "url": "https://www.bergzeit.de/help-contact/?folderId=15000009413&articleId=15000056460",
-        "difficulty": "hard",
-        "notes": "Contact customer service using their web contact form and ask them to delete your account.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "domains": ["bergzeit.de"]
-    },
-    {
         "name": "BeReal",
         "url": "https://help.bereal.com/hc/articles/7531255012381",
         "difficulty": "easy",
@@ -2311,6 +2303,14 @@
             "bereal.com",
             "help.bereal.com"
         ]
+    },
+    {
+        "name": "Bergzeit",
+        "url": "https://www.bergzeit.de/help-contact/?folderId=15000009413&articleId=15000056460",
+        "difficulty": "hard",
+        "notes": "Contact customer service using their web contact form and ask them to delete your account.",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "domains": ["bergzeit.de"]
     },
     {
         "name": "BerryByte",
