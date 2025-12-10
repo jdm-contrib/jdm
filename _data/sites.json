@@ -8669,6 +8669,15 @@
         ]
     },
     {
+        "name": "Grover",
+        "url": "https://service.grover.com/hc/en-us/articles/20618482673554-Request-to-delete-my-account",
+        "url_de": "https://service.grover.com/hc/de/articles/20618482673554-Konto-l%C3%B6schen",
+        "difficulty": "hard",
+        "notes": "You have to contact customer support to request account deletion",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "domains": ["grover.com"]
+    },
+    {
         "name": "GrubHub",
         "url": "https://www.grubhub.com/help/privacy/manage-your-data",
         "difficulty": "medium",
