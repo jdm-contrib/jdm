@@ -1938,6 +1938,14 @@
         "notes": "Enter any reason to delete",
         "domains": ["avito.ru"]
     },
+     {
+         "name": "Avocadostore",
+         "url": "https://support.avocadostore.de/hc/de/articles/11339106472466-Wie-kann-ich-mein-Benutzerkonto-l%C3%B6schen",
+         "difficulty": "hard",
+         "notes": "You have to create a support ticket to delete your account",
+         "notes_de": "Für eine Account-Löschung muss eine Support-Anfrage erstellt werden",
+         "domains": ["avocadostore.de"]
+     },
     {
         "name": "AwardWallet",
         "url": "https://awardwallet.com/user/delete",
