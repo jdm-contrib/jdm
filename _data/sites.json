@@ -3725,6 +3725,14 @@
         ]
     },
     {
+        "name": "Chess Tempo",
+        "url": "https://www.chesstempo.com/privacy#",
+        "difficulty": "hard",
+        "notes": "Contact support via email and request that they delete your account and associated data.",
+        "email": "privacy@chesstempo.com",
+        "domains": ["chesstempo.com"]
+    },
+    {
         "name": "Chess.com",
         "url": "https://www.chess.com/my-data",
         "difficulty": "medium",
@@ -3751,14 +3759,6 @@
         "url": "https://www.chessfactor.com/accounts/delete/",
         "difficulty": "easy",
         "domains": ["chessfactor.com"]
-    },
-    {
-        "name": "Chess Tempo",
-        "url": "https://www.chesstempo.com/privacy#",
-        "difficulty": "hard",
-        "notes": "Contact support via email and request that they delete your account and associated data.",
-        "email": "privacy@chesstempo.com",
-        "domains": ["chesstempo.com"]
     },
     {
         "name": "Chesspuzzle.net",
