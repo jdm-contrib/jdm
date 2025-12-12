@@ -1267,7 +1267,7 @@
     {
         "name": "AniList",
         "url": "https://anilist.co/settings/account",
-        "difficulty": "easy",
+        "difficulty": "medium",
         "notes": "Go to \"Delete User Account\" and enter your password. Wait 24 hours, then repeat the same process.",
         "notes_ru": "Перейдите в раздел «Удалить учетную запись пользователя» и введите свой пароль. Подождите 24 часа, затем повторите тот же процесс.",
         "notes_tr": "\"Kullanıcı Hesabını Sil\" seçeneğine gidin ve şifrenizi girin. 24 saat bekleyin, ardından aynı işlemi tekrarlayın.",
@@ -3751,8 +3751,10 @@
         "url": "https://account.chessbase.com/en/me/delete",
         "difficulty": "easy",
         "notes": "Click the link provided, scroll down and click \"Delete\", to delete your account. A confirmation page will appear, click \"Delete\" again.",
-        "domains": ["chessbase.com",
-                    "learn.chessbase.com"]
+        "domains": [
+            "chessbase.com",
+            "learn.chessbase.com"
+        ]
     },
     {
         "name": "Chessfactor",
@@ -6678,8 +6680,10 @@
         "url": "https://secure.id.fc2.com/edit.php?mode=withdrawal",
         "difficulty": "easy",
         "notes": "Click the link provided. Submit a reason (optional), then click the checkbox. Click \"Cancel account\".",
-        "domains": ["fc2.com",
-                    "fc2id.com"]
+        "domains": [
+            "fc2.com",
+            "fc2id.com"
+        ]
     },
     {
         "name": "FDM Group",
