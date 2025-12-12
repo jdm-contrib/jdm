@@ -10580,6 +10580,12 @@
         ]
     },
     {
+        "name": "Kaize",
+        "url": "https://kaize.io/",
+        "difficulty": "impossible",
+        "domains": ["kaize.io"]
+    },
+    {
         "name": "Kakao",
         "url": "https://accounts.kakao.com/weblogin/deactivate",
         "difficulty": "medium",
