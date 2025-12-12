@@ -1267,10 +1267,10 @@
     {
         "name": "AniList",
         "url": "https://anilist.co/settings/account",
-        "difficulty": "easy",
-        "notes": "Go to \"Delete User Account ⮕ OK, Delete my account\".",
-        "notes_ru": "Перейдите к «Удалить учетную запись пользователя ⮕ ОК, Удалить мою учетную запись».",
-        "notes_tr": "\"Kullanıcı Hesabını Sil\" \"Tamam, Hesabımı Sil\" tuşuna basın.",
+        "difficulty": "medium",
+        "notes": "Go to \"Delete User Account\" and enter your password. Wait 24 hours, then repeat the same process.",
+        "notes_ru": "Перейдите в раздел «Удалить учетную запись пользователя» и введите свой пароль. Подождите 24 часа, затем повторите тот же процесс.",
+        "notes_tr": "\"Kullanıcı Hesabını Sil\" seçeneğine gidin ve şifrenizi girin. 24 saat bekleyin, ardından aynı işlemi tekrarlayın.",
         "domains": ["anilist.co"]
     },
     {
@@ -3725,6 +3725,14 @@
         ]
     },
     {
+        "name": "Chess Tempo",
+        "url": "https://www.chesstempo.com/privacy#",
+        "difficulty": "hard",
+        "notes": "Contact support via email and request that they delete your account and associated data.",
+        "email": "privacy@chesstempo.com",
+        "domains": ["chesstempo.com"]
+    },
+    {
         "name": "Chess.com",
         "url": "https://www.chess.com/my-data",
         "difficulty": "medium",
@@ -3737,6 +3745,16 @@
         "difficulty": "easy",
         "notes": "Once you submit your account for deletion, your account (and all data associated with it, including your purchased content) will be scheduled for deletion in compliance with the applicable legislation.",
         "domains": ["chessable.com"]
+    },
+    {
+        "name": "Chessbase",
+        "url": "https://account.chessbase.com/en/me/delete",
+        "difficulty": "easy",
+        "notes": "Click the link provided, scroll down and click \"Delete\", to delete your account. A confirmation page will appear, click \"Delete\" again.",
+        "domains": [
+            "chessbase.com",
+            "learn.chessbase.com"
+        ]
     },
     {
         "name": "Chessfactor",
@@ -3815,6 +3833,13 @@
             "citadelservers.com",
             "citadelservers.co"
         ]
+    },
+    {
+        "name": "Clash Ninja",
+        "url": "https://www.clash.ninja/my-account/delete-account",
+        "difficulty": "easy",
+        "notes": "Click the link provided, click on the checkbox, then \"Delete account\".",
+        "domains": ["clash.ninja"]
     },
     {
         "name": "ClassCentral",
@@ -6651,6 +6676,16 @@
         ]
     },
     {
+        "name": "FC2ID",
+        "url": "https://secure.id.fc2.com/edit.php?mode=withdrawal",
+        "difficulty": "easy",
+        "notes": "Click the link provided. Submit a reason (optional), then click the checkbox. Click \"Cancel account\".",
+        "domains": [
+            "fc2.com",
+            "fc2id.com"
+        ]
+    },
+    {
         "name": "FDM Group",
         "url": "https://www.fdmgroup.com/privacy/",
         "difficulty": "hard",
@@ -6824,8 +6859,8 @@
         "name": "Fitbit",
         "url": "https://www.fitbit.com/settings/profile",
         "difficulty": "medium",
-        "notes": "From the dashboard website, click 'Settings', then scroll down and click 'Delete Account'. You'll receive an e-mail with the link for the actual deletion.",
-        "notes_tr": "Kontrol paneli web sitesinde, \"Ayarlar\" tuşuna tıklayın, ardından aşağı kaydırın ve \"Hesabı Sil\" tuşuna tıklayın. Asıl silme işlemi için bağlantı içeren bir e-posta alacaksınız.",
+        "notes": "From the dashboard website, click 'Settings', then scroll down and click 'Delete Account'. You'll receive an e-mail with the link for the actual deletion. If you're on your mobile device, download the Fitbit app and follow the same steps.",
+        "notes_tr": "Kontrol paneli web sitesinde, \"Ayarlar\" tuşuna tıklayın, ardından aşağı kaydırın ve \"Hesabı Sil\" tuşuna tıklayın. Asıl silme işlemi için bağlantı içeren bir e-posta alacaksınız. Mobil cihazınızdan erişiyorsanız, uygulamayı indirin ve aynı adımları izleyin.",
         "domains": ["fitbit.com"]
     },
     {
