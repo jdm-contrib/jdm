@@ -5715,8 +5715,8 @@
     {
         "name": "Duolingo",
         "url": "https://drive-thru.duolingo.com/",
-        "difficulty": "medium",
-        "notes": "Scroll down and click \"ERASE PERSONAL DATA\". You will receive an e-mail in which you have to click the link after \"Delete my data link:\". This confirms the erasure of your personal data and account.",
+        "difficulty": "easy",
+        "notes": "Scroll down and click \"ERASE PERSONAL DATA\". You will receive an e-mail in which you have to click the link after \"Delete my data link:\". This confirms the erasure of your personal data and account. On Android, just tap your profile then delete account and confirm after 4 seconds",
         "domains": [
             "duolingo.com",
             "drive-thru.duolingo.com",
@@ -6334,7 +6334,7 @@
     {
         "name": "Etsy",
         "url": "https://www.etsy.com/your/account/privacy",
-        "difficulty": "easy",
+        "difficulty": "medium",
         "notes": "Click on 'Request deletion of your data' and then 'Yes, I'm sure'. You'll receive an e-mail with a link to finish the process.",
         "notes_tr": "\"Verilerinizin silinmesini talep edin\" tuşuna ve ardından \"Evet, eminim\" seçeneğine tıklayın. İşlemi bitirmek için bağlantı içeren bir e-posta alacaksınız.",
         "domains": ["etsy.com"]
@@ -11563,6 +11563,16 @@
         ]
     },
     {
+        "name": "Line",
+        "url": "https://help.line.me/line/?contentId=20000121",
+        "difficulty": "easy",
+        "notes": " Download the app first. Then go to Home tab ⮕ Settings ⮕ Account. Find \"Delete account\" at the bottom of the screen.",
+        "domains": [
+            "help.line.me",
+            "line.me"
+        ]
+    },
+    {
         "name": "Lingopie",
         "url": "https://lingopie.com/privacy-policy",
         "url_de": "https://de.lingopie.com/privacy-policy",
@@ -12143,6 +12153,14 @@
         "domains": ["mangadex.org"]
     },
     {
+        "name": "Mangaupdates",
+        "url": "https://www.mangaupdates.com/site/faq/2#item34",
+        "difficulty": "hard",
+        "notes": "Contact lambchopsil through PM or email.",
+        "email": "lambchopsil@mangaupdates.com",
+        "domains": ["mangaupdates.com"]
+    },
+    {
         "name": "Mangools",
         "url": "https://mangools.com/account",
         "difficulty": "easy",
@@ -12666,8 +12684,9 @@
     },
     {
         "name": "Metacritic",
-        "url": "http://www.metacritic.com/contact-us",
+        "url": "https://metacritichelp.zendesk.com/hc/en-us/requests/new?ticket_form_id=12053246153495",
         "difficulty": "hard",
+        "notes": "You need to submit a request for account deletion. But for that, you need to create a fandom account.",
         "domains": ["metacritic.com"]
     },
     {
@@ -13550,6 +13569,12 @@
         ]
     },
     {
+        "name": "Myntra",
+        "url": "https://www.myntra.com/my/profile/edit",
+        "difficulty": "easy",
+        "domains": ["myntra.com"]
+    },
+    {
         "name": "MyPlate",
         "url": "https://livestrong.zendesk.com/hc/en-us/articles/205147450-How-do-I-delete-my-account-",
         "difficulty": "hard",
@@ -13706,6 +13731,13 @@
             "native-instruments.com",
             "support.native-instruments.com"
         ]
+    },
+    {
+        "name": "Natively",
+        "url": "https://learnnatively.com/contact/",
+        "difficulty": "hard",
+        "notes": "The privacy policy asks you to send them a message requesting account deletion and they'll do it for you.",
+        "domains": ["learnnatively.com"]
     },
     {
         "name": "Natural Readers",
@@ -16017,6 +16049,13 @@
         ]
     },
     {
+        "name": "Potion",
+        "url": "https://potion.so/",
+        "difficulty": "hard",
+        "email": "help@potion.so",
+        "domains": ["potion.so"]
+    },
+    {
         "name": "Pottermore",
         "url": "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/780a7716-f409-47f4-afdf-fbe274737e6f",
         "difficulty": "hard",
@@ -17383,6 +17422,12 @@
         "domains": ["satispay.com"]
     },
     {
+        "name": "Satori Reader",
+        "url": "https://www.satorireader.com/account/delete",
+        "difficulty": "easy",
+        "domains": ["satorireader.com"]
+    },
+    {
         "name": "SaxoInvestor/SaxoTrader",
         "url": "https://www.saxoinvestor.com/investor/close-my-account",
         "difficulty": "easy",
@@ -18296,6 +18341,12 @@
         "domains": ["socialblade.com"]
     },
     {
+        "name": "socialoomph",
+        "url": "https://www.socialoomph.com/settings/delete/",
+        "difficulty": "easy",
+        "domains": ["socialoomph.com"]
+    },
+    {
         "name": "Sofascore",
         "url": "https://sofascore.helpscoutdocs.com/article/55-how-to-delete-account?lng=en",
         "difficulty": "easy",
@@ -18919,6 +18970,16 @@
             "ap1.storj.io",
             "us1.storj.io",
             "storj.io"
+        ]
+    },
+    {
+        "name": "The StoryGraph",
+        "url": "https://app.thestorygraph.com/profile/edit/",
+        "difficulty": "easy",
+        "notes": "Go to your profile page and scroll down to the delete option at the bottom.",
+        "domains": [
+            "app.thestorygraph.com",
+            "thestorygraph.com"
         ]
     },
     {
@@ -21426,7 +21487,8 @@
     {
         "name": "VK/ВКонтакте",
         "url": "https://vk.com/settings?act=deactivate",
-        "difficulty": "easy",
+        "difficulty": "impossible",
+        "notes": "Though easy to deactivate, some of your data is never deleted",
         "domains": ["vk.com"]
     },
     {
