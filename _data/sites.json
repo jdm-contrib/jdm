@@ -9594,7 +9594,7 @@
         "domains": ["hypem.com"]
     },
     {
-        "name": "Hypixel",
+        "name": "Hypixel Forums",
         "url": "https://hypixel.net/account/delete",
         "difficulty": "easy",
         "notes": "Profile > Delete my account",
