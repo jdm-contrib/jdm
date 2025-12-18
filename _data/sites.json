@@ -19326,6 +19326,13 @@
         "domains": ["submenow.com"]
     },
     {
+        "name": "Substack",
+        "url": "https://substack.com/settings",
+        "difficulty": "easy",
+        "notes": "Scroll down to find \"Delete account\" under Danger Zone.",
+        "domains": ["substack.com"]
+    },
+    {
         "name": "SulAmérica",
         "url": "https://saude.sulamericaseguros.com.br/",
         "difficulty": "impossible",
