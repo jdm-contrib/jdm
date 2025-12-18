@@ -3769,6 +3769,20 @@
         "domains": ["chesspuzzle.net"]
     },
     {
+        "name": "Chessvision.ai (eBook Reader)",
+        "url": "https://ebook.chessvision.ai/settings",
+        "difficulty": "easy",
+        "notes": "On the account page, there is a \"Delete Account\" button at the bottom",
+        "domains": ["ebook.chessvision.ai"]
+    },
+    {
+        "name": "Chessvision.ai (Scanner/Library)",
+        "url": "https://my.chessvision.ai/settings/account",
+        "difficulty": "easy",
+        "notes": "On the account page, there is a \"Delete Account\" button at the bottom",
+        "domains": ["my.chessvision.ai"]
+    },
+    {
         "name": "Chewy",
         "url": "https://www.chewy.com/app/account/privacy",
         "difficulty": "easy",
