@@ -1017,6 +1017,13 @@
         "domains": ["alldebrid.com"]
     },
     {
+        "name": "AllTrails",
+        "url": "https://www.alltrails.com/my/profile/delete",
+        "difficulty": "easy",
+        "notes": "Request account deletion via the provided link. They will then send an email with a confirmation link to complete the deletion process.",
+        "domains": ["alltrails.com"]
+    },
+    {
         "name": "AlternativeTo",
         "url": "https://alternativeto.net/user/edit/#account-settings",
         "difficulty": "easy",
