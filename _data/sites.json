@@ -9139,7 +9139,12 @@
             "privacy.groupon.co.uk"
         ]
     },
-
+    {
+        "name": "Groups.io",
+        "url": "https://groups.io/deleteaccount",
+        "difficulty": "easy",
+        "domains": ["groups.io"]
+    },
     {
         "name": "GrubHub",
         "url": "https://www.grubhub.com/legal/",
