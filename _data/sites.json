@@ -310,7 +310,7 @@
         "email": "contact@support.ableton.com",
         "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account, my username is XXXXXX",
-        "notes": "Account deletion requires contacting Customer Support.    ",
+        "notes": "Account deletion requires contacting Customer Support.",
         "notes_fr": "La suppression du compte nécessite de rentrer en contact avec le service client",
         "domains": ["ableton.com"]
     },
