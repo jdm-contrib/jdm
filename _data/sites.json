@@ -312,7 +312,7 @@
         "email_body": "Please delete my account, my username is XXXXXX",
         "notes": "Account deletion requires contacting Customer Support.    ",
         "notes_fr": "La suppression du compte nécessite de rentrer en contact avec le service client",
-        "domains": ["www.ableton.com"]
+        "domains": ["ableton.com"]
     },
     {
         "name": "Abload",
@@ -9597,8 +9597,8 @@
         "name": "Hypixel Forums",
         "url": "https://hypixel.net/account/delete",
         "difficulty": "easy",
-        "notes": "Profile > Delete my account",
-        "notes_fr": "Profil > Supprimer mon compte",
+        "notes": "Profile ⮕ Delete my account",
+        "notes_fr": "Profil ⮕ Supprimer mon compte",
         "domains": [
             "hypixel.net",
             "status.hypixel.net",
@@ -10791,8 +10791,8 @@
         "name": "KGames",
         "url": "https://kgames.fr/profil",
         "difficulty": "easy",
-        "notes": "Profile in the thop right corner > Delete account",
-        "notes_fr": "Profil en haut à droite > Supprimer le compte",
+        "notes": "Profile in the top right corner ⮕ Delete account",
+        "notes_fr": "Profil en haut à droite ⮕ Supprimer le compte",
         "domains": ["kgames.fr"]
     },
     {
@@ -11232,11 +11232,11 @@
         "domains": ["leavemealone.com"]
     },
     {
-        "name": "L    eboncoin",
+        "name": "Leboncoin",
         "url": "https://www.leboncoin.fr/account/settings",
         "difficulty": "easy",
-        "notes": "Profile > Delete my account in the bottom > confirm by clicking a link sent by email",
-        "notes_fr": "Profil > Supprimer mon compte tout en bas > confirmer en cliquant sur le lien envoyé par mail",
+        "notes": "Profile ⮕ Delete my account in the bottom ⮕ confirm by clicking a link sent by email",
+        "notes_fr": "Profil ⮕ Supprimer mon compte tout en bas ⮕ confirmer en cliquant sur le lien envoyé par mail",
         "domains": ["leboncoin.fr"]
     },
     {
@@ -12274,9 +12274,9 @@
         "name": "MarineTraffic",
         "url": "https://www.marinetraffic.com/en/users/my_account/users/delete",
         "difficulty": "easy",
-        "notes": "My account > Delete account (in the bottom)> Select a reason to quit > submit",
-        "notes_fr": "Mon compte> Supprimer le compte (en bas de la page)> Sélectionner la raison de la suppression > Soumettre",
-        "domains": ["www.marinetraffic.com"]
+        "notes": "My account ⮕ Delete account (in the bottom) ⮕ Select a reason to quit ⮕ submit",
+        "notes_fr": "Mon compte ⮕ Supprimer le compte (en bas de la page) ⮕ Sélectionner la raison de la suppression ⮕ Soumettre",
+        "domains": ["marinetraffic.com"]
     },
     {
         "name": "Markdown Converter",
