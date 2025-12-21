@@ -304,6 +304,17 @@
         "domains": ["abebooks.com"]
     },
     {
+        "name": "Ableton",
+        "url": "https://www.ableton.com/en/contact-us/",
+        "difficulty": "hard",
+        "email": "contact@support.ableton.com",
+        "email_subject": "Account Deletion Request",
+        "email_body": "Please delete my account, my username is XXXXXX",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_fr": "La suppression du compte nécessite de rentrer en contact avec le service client",
+        "domains": ["ableton.com"]
+    },
+    {
         "name": "Abload",
         "url": "https://abload.de/settings.php",
         "difficulty": "easy",
@@ -2905,6 +2916,24 @@
         "email_subject": "Datenlöschung gemäß DSGVO",
         "email_body": "Guten Tag,\n\nBitte löschen Sie gemäß DSGVO den Account und die Daten für den Account mit der E-Mail Adresse: XXX\n\nVielen Dank und mit freundlichen Grüßen.",
         "domains": ["bvb.de"]
+    },
+    {
+        "name": "Boulanger",
+        "url": "https://www.boulanger.com/evenement/infos-legales#ong-private",
+        "difficulty": "hard",
+        "email": "cil@boulanger.com",
+        "email_subject": "Account deletion request",
+        "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "domains": ["boulanger.com"]
     },
     {
         "name": "Bountysource",
@@ -9587,9 +9616,10 @@
     },
     {
         "name": "Hypixel Forums",
-        "url": "https://hypixel.net/data-request",
-        "difficulty": "hard",
-        "notes": "Complete the form on the linked page. They require some PII such as name, address, and a government-issued ID.",
+        "url": "https://hypixel.net/account/delete",
+        "difficulty": "easy",
+        "notes": "Profile ⮕ Delete my account",
+        "notes_fr": "Profil ⮕ Supprimer mon compte",
         "domains": [
             "hypixel.net",
             "status.hypixel.net",
@@ -10779,6 +10809,14 @@
         "domains": ["keybase.io"]
     },
     {
+        "name": "KGames",
+        "url": "https://kgames.fr/profil",
+        "difficulty": "easy",
+        "notes": "Profile in the top right corner ⮕ Delete account",
+        "notes_fr": "Profil en haut à droite ⮕ Supprimer le compte",
+        "domains": ["kgames.fr"]
+    },
+    {
         "name": "Khan Academy",
         "url": "https://www.khanacademy.org/settings",
         "difficulty": "easy",
@@ -11213,6 +11251,14 @@
         "difficulty": "easy",
         "notes": "Go to the linked page, scroll down to \"Danger Zone\" section and find \"Deactivate account\" button",
         "domains": ["leavemealone.com"]
+    },
+    {
+        "name": "Leboncoin",
+        "url": "https://www.leboncoin.fr/account/settings",
+        "difficulty": "easy",
+        "notes": "Profile ⮕ Delete my account in the bottom ⮕ confirm by clicking a link sent by email",
+        "notes_fr": "Profil ⮕ Supprimer mon compte tout en bas ⮕ confirmer en cliquant sur le lien envoyé par mail",
+        "domains": ["leboncoin.fr"]
     },
     {
         "name": "LeetCode",
@@ -12244,6 +12290,14 @@
             "go.mapstr.com",
             "web.mapstr.com"
         ]
+    },
+    {
+        "name": "MarineTraffic",
+        "url": "https://www.marinetraffic.com/en/users/my_account/users/delete",
+        "difficulty": "easy",
+        "notes": "My account ⮕ Delete account (in the bottom) ⮕ Select a reason to quit ⮕ submit",
+        "notes_fr": "Mon compte ⮕ Supprimer le compte (en bas de la page) ⮕ Sélectionner la raison de la suppression ⮕ Soumettre",
+        "domains": ["marinetraffic.com"]
     },
     {
         "name": "Markdown Converter",
@@ -15699,6 +15753,17 @@
             "pix.fr",
             "pix.org"
         ]
+    },
+    {
+        "name": "Pix fr",
+        "url": "https://pix.fr/politique-protection-donnees-personnelles-app#:~:text=Exercice%20des%20droits",
+        "difficulty": "hard",
+        "email": "dpd@pix.fr",
+        "email_subject": "Demande de suppression de compte",
+        "email_body": "Bonjour, Je souhaiterai faire valoir mes droits et faire supprimer mon compte XXX",
+        "notes": "Contact support via email and request your account to be deleted.",
+        "notes_fr": "Contactez le support par mail pour faire supprimer votre compte",
+        "domains": ["pix.fr"]
     },
     {
         "name": "Pixabay",
@@ -19819,10 +19884,20 @@
     },
     {
         "name": "TED",
-        "url": "https://support.ted.com/hc/en-us/articles/360005310614-TED-Ed-Accounts-and-managing-students",
+        "url": "https://help.ted.com/hc/en-us/articles/360005310614-How-do-I-create-TED-Ed-Accounts#:~:text=How%20can%20I%20delete%20my%20TED%2DEd%20account",
         "difficulty": "hard",
-        "notes": "Contact the TED support team [via their online contact form](https://support.ted.com/customer/portal/emails/new) for account deletion requests",
-        "notes_tr": "Hesap silme talepleri için TED destek ekibiyle iletişime geçin",
+        "email": "contact@ted.com",
+        "email_subject": "Account deletion request",
+        "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": [
             "ted.com",
             "support.ted.com"
