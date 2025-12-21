@@ -8754,6 +8754,12 @@
         ]
     },
     {
+        "name": "Groups.io",
+        "url": "https://groups.io/deleteaccount",
+        "difficulty": "easy",
+        "domains": ["groups.io"]
+    },
+    {
         "name": "Grover",
         "url": "https://service.grover.com/hc/en-us/articles/20618482673554-Request-to-delete-my-account",
         "url_de": "https://service.grover.com/hc/de/articles/20618482673554-Konto-l%C3%B6schen",
