@@ -20411,6 +20411,14 @@
         ]
     },
     {
+        "name": "Tonton Outdoor",
+        "url": "https://www.tonton-outdoor.com/fr_FR/supprimer-mon-compte",
+        "difficulty": "easy",
+        "notes": "Service client (at the bottom of the website), Supprimer mon compte, Supprimer mon compte",
+        "notes_fr": "Service client (en bas du site), Supprimer mon compte, Supprimer mon compte",
+        "domains": ["tonton-outdoor.com"]
+    },
+    {
         "name": "Too Good To Go",
         "url": "https://space.toogoodtogo.com/privacy",
         "difficulty": "easy",
