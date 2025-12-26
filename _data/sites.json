@@ -21312,7 +21312,7 @@
     },
     {
         "name": "Vans.com",
-        "url": "https://www.vans.com/utility/contact-us.html",
+        "url": "https://www.vans.com/en-us/help/contact-us",
         "difficulty": "hard",
         "notes": "Email customer service through the link and tell them you want your account deleted.",
         "domains": ["vans.com"]
