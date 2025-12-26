@@ -15146,6 +15146,16 @@
         "domains": ["pagbet.com"]
     },
     {
+        "name": "Palia",
+        "url": "https://support.palia.com/hc/en-us/articles/37965096889620--Understanding-the-Difference-Between-Account-Deletion-Character-Deletion-and-Device-Unlinking#h_01JWF9WW8ZB24FJS5PZFZ9KS9R",
+        "difficulty": "hard",
+        "domains": [
+            "palia.com",
+            "accounts.palia.com",
+            "support.palia.com"
+        ]
+    },
+    {
         "name": "Panda-Plush",
         "url": "https://panda-plush.com/account/register",
         "difficulty": "easy",
