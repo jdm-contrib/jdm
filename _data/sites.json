@@ -9761,6 +9761,14 @@
         "domains": ["igdb.com"]
     },
     {
+        "name": "iGraal",
+        "url": "https://fr.igraal.com/?showSupportChat",
+        "difficulty": "medium",
+        "notes": "Menu, Discutez avec nous (or chatbot icon), select supprimer mon compte sevral times to send an account deletion request",
+        "notes_fr": "Menu, Discutez avec nous (ou icône du chatbot), selectionner plusieurs fois Supprimer mon compte dans la conversation pour envoyer uen demande de suppression de compte",
+        "domains": ["fr.igraal.com"]
+    },
+    {
         "name": "iHeart",
         "url": "https://help.iheart.com/hc/en-us/articles/4424516427021-How-to-Delete-your-iHeart-Account",
         "difficulty": "medium",
