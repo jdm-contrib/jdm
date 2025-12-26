@@ -7288,6 +7288,14 @@
         "domains": ["frame.work"]
     },
     {
+        "name": "France TV",
+        "url": "https://www.france.tv/votre-compte/supprimer-mon-compte/",
+        "difficulty": "easy",
+        "notes": "Account, Account settings, Delete my account, Delete my account",
+        "notes_fr": "Compte, Parametres du compte, Supprimer mon compte, Supprimer mon compte",
+        "domains": ["france.tv"]
+    },
+    {
         "name": "France Identité",
         "url": "https.//idp.france-identite.gouv.fr/usager",
         "difficulty": "easy",
