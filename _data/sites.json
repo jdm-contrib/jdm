@@ -15939,6 +15939,17 @@
         "domains": ["plexus.techlore.tech"]
     },
     {
+        "name": "Ploonk (coquedetelephone.fr)",
+        "url": "https://www.ploonk.fr/service/declaration-de-confidentialite/",
+        "difficulty": "hard",
+        "email": "serviceclients@ploonk.fr",
+        "email_subject": "Demande de suppression de compte",
+        "email_body": "Bonjour, Je souhaiterai faire valoir mes droits et faire supprimer mon compte XXX",
+        "notes": "Contact support via email and request your account to be deleted.",
+        "notes_fr": "Contactez le support par mail pour faire supprimer votre compte",
+        "domains": ["ploonk.fr"]
+    },
+    {
         "name": "Plugin Boutique",
         "url": "https://help.pluginboutique.com/hc/en-us/requests/new?ticket_form_id=8801812364052",
         "difficulty": "hard",
