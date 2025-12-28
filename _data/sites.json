@@ -13340,16 +13340,6 @@
         ]
     },
     {
-        "name": "MouseCTRL",
-        "url": "https://mousectrl.com/profile",
-        "difficulty": "hard",
-        "notes": "Email the support team from the email address of the account you wish to delete.",
-        "email": "hello@mousectrl.com",
-        "domains": [
-            "mousectrl.com"
-        ]
-    },
-    {
         "name": "Mote",
         "url": "https://support.mote.com/hc/en-us/articles/4407299329940-How-do-I-delete-my-account-",
         "difficulty": "hard",
@@ -13359,6 +13349,14 @@
             "mote.com",
             "support.mote.com"
         ]
+    },
+    {
+        "name": "MouseCTRL",
+        "url": "https://mousectrl.com/profile",
+        "difficulty": "hard",
+        "notes": "Email the support team from the email address of the account you wish to delete.",
+        "email": "hello@mousectrl.com",
+        "domains": ["mousectrl.com"]
     },
     {
         "name": "Mouser",
