@@ -16263,6 +16263,17 @@
         "domains": ["premiumize.me"]
     },
     {
+        "name": "Presearch",
+        "url": "https://account.presearch.com/privacy-policy",
+        "email": "privacy@presearch.io",
+        "difficulty": "hard",
+        "notes": "Email Presearch's privacy team to request account deletion.",
+        "domains": [
+            "presearch.com",
+            "account.presearch.com"
+        ]
+    },
+    {
         "name": "PrestaShop",
         "url": "https://accounts.distribution.prestashop.net/settings/delete-account",
         "difficulty": "easy",
