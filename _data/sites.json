@@ -21656,9 +21656,9 @@
     "name": "VitalSource",
     "url": "https://support.vitalsource.com/hc/en-us/requests/new",
     "difficulty": "hard",
-    "notes": "Select 'Account Deletion Request' from dropdown and fill out form. Wait for confirmation from custonmer support.",
+    "notes": "Select 'Account Deletion Request' from dropdown and fill out form. Wait for confirmation from customer support.",
     "domains": [
-        "www.vitalsource.com",
+        "vitalsource.com",
         "bookshelf.vitalsource.com",
         "support.vitalsource.com"
     ]
