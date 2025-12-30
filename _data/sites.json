@@ -22285,8 +22285,9 @@
     {
         "name": "When I Work",
         "url": "https://help.wheniwork.com/articles/request-profile-deletion-ios/",
-        "difficulty": "limited",
-        "notes": "Profile can only be deleted from iOS app according to the help article.",
+        "difficulty": "hard",
+        "notes": "Profile can be deleted from iOS app according to the help article. Otherwise, the [Privacy Policy](https://wheniwork.com/privacy) states you may request to delete account information by contacting support.",
+        "email": "support@wheniwork.com",
         "domains": [
             "wheniwork.com",
             "login.wheniwork.com"
