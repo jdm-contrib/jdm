@@ -21653,6 +21653,17 @@
         "domains": ["visualping.io"]
     },
     {
+    "name": "VitalSource",
+    "url": "https://support.vitalsource.com/hc/en-us/requests/new",
+    "difficulty": "hard",
+    "notes": "Select 'Account Deletion Request' from dropdown and fill out form. Wait for confirmation from customer support.",
+    "domains": [
+        "vitalsource.com",
+        "bookshelf.vitalsource.com",
+        "support.vitalsource.com"
+    ]
+    },
+    {
         "name": "Viva o Linux (VOL)",
         "url": "https://www.vivaolinux.com.br/minhaConta.php",
         "difficulty": "easy",
@@ -22270,6 +22281,17 @@
         "notes_es": "Desde la aplicación: Settings ⮕ Account ⮕ Delete your account.",
         "notes_pl": "Z aplikacji: Ustawienia ⮕ Konto ⮕ Usuń konto.",
         "domains": ["whatsapp.com"]
+    },
+    {
+        "name": "When I Work",
+        "url": "https://help.wheniwork.com/articles/request-profile-deletion-ios/",
+        "difficulty": "hard",
+        "notes": "Profile can be deleted from iOS app according to the help article. Otherwise, the [Privacy Policy](https://wheniwork.com/privacy) states you may request to delete account information by contacting support.",
+        "email": "support@wheniwork.com",
+        "domains": [
+            "wheniwork.com",
+            "login.wheniwork.com"
+        ]
     },
     {
         "name": "Where Am I?",
