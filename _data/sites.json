@@ -5736,6 +5736,16 @@
         "domains": ["dtf.ru"]
     },
     {
+        "name": "Duet Night Abyss",
+        "url": "https://duetnightabyss.dna-panstudio.com/#/home",
+        "difficulty": "hard",
+        "notes": "Requires contacting player support, with the request of deleting the account.",
+        "email": "dna_cs@dna-panstudio.com",
+        "email_subject": "ccount deletion request",
+        "email_body": "Hereby the request to delete my account associated with my email.",
+        "domains": ["duetnightabyss.dna-panstudio.com"]
+    },
+    {
         "name": "Dunkindonuts",
         "url": "https://www.dunkindonuts.com/en/about/contact-us",
         "difficulty": "easy",
@@ -9005,6 +9015,14 @@
         "difficulty": "easy",
         "notes": "Enter your password twice, then click \"Delete account\".",
         "domains": ["totaljerkface.com"]
+    },
+    {
+        "name": "Hardware webwinkel",
+        "url": "https://hardwarewebwinkel.nl/",
+        "difficulty": "hard",
+        "email": "info@hardwarewebwinkel.nl",
+        "notes": "Requires sending a account deletion request per mail.",
+        "domains": ["ardwarewebwinkel.nl"]
     },
     {
         "name": "Hark Audio",
