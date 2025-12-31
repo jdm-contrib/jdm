@@ -9007,6 +9007,14 @@
         "domains": ["totaljerkface.com"]
     },
     {
+        "name": "Hardware webwinkel",
+        "url": "https://hardwarewebwinkel.nl/",
+        "difficulty": "hard",
+        "email": "info@hardwarewebwinkel.nl",
+        "notes": "Requires sending a account deletion request per mail.",
+        "domains": ["ardwarewebwinkel.nl"]
+    },
+    {
         "name": "Hark Audio",
         "url": "https://harkaudio.com/support",
         "difficulty": "hard",
