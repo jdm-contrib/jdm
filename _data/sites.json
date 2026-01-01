@@ -10102,7 +10102,7 @@
     },
     {
         "name": "Inoreader",
-        "url": "https://www.inoreader.com",
+        "url": "https://www.inoreader.com/preferences/profile/cancel_account",
         "difficulty": "easy",
         "notes": "Select 'Reset or cancel' under preferences and click on 'Cancel account'.",
         "notes_tr": "Tercihler sayfasında \"Sıfırla ya da İptal Et\" seçeneğini seçin ve \"Hesabı İptal Et\" tuşuna tıklayın.",
