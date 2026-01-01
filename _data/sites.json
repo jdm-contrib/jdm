@@ -23536,6 +23536,15 @@
         "domains": ["zhihu.com"]
     },
     {
+        "name": "ZoogVPN",
+        "url": "https://app.zoogvpn.net/profile",
+        "difficulty": "easy",
+        "domains": [
+            "zoogvpn.net",
+            "app.zoogvpn.net"
+        ]
+    },
+    {
         "name": "Zoho",
         "url": "https://accounts.zoho.com/u/h#setting/closeaccount",
         "difficulty": "easy",
