@@ -23430,6 +23430,16 @@
         "domains": ["zazzle.com"]
     },
     {
+        "name": "ZDNet",
+        "url": "https://dsar.ziffdavis.com/",
+        "difficulty": "easy",
+        "notes": "Needs an additional e-mail verification. Additionally, user can contact ZDNet for manual account deletion.",
+        "domains": [
+            "zdnet.com",
+            "ziffdavis.com",
+        ]
+    },
+    {
         "name": "Zeet",
         "url": "https://zeet.co/profile",
         "difficulty": "easy",
