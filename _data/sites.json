@@ -1052,6 +1052,13 @@
         "domains": ["alternativeto.net"]
     },
     {
+        "name": "Alternative.me",
+        "url": "https://alternative.me/account/settings",
+        "difficulty": "easy",
+        "notes": "On your account page, click to delete then confirm with your password.",
+        "domains": ["https://alternative.me/"]
+    },
+    {
         "name": "Altium",
         "email": "data.compliance@altium.com",
         "url": "https://www.altium.com/privacy-policy",
