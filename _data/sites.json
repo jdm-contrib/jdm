@@ -595,6 +595,16 @@
         ]
     },
     {
+        "name": "AdsPower",
+        "url": "https://app.adspower.com/personalSettings",
+        "difficulty": "medium",
+        "notes": "Into settings, on \"My Account\" scroll down to \"Security Support\" and click \"Cancel now\". You will receive a code by e-mail and will need to enter password before moving forward during cancellation process. Check all options in \"Confirm cancellation\" before finally deleting your account. Account deletion takes 3 days to finalize.",
+        "domains": [
+            "adspower.com",
+            "app.adspower.com"
+        ]
+    },
+    {
         "name": "AdvCash",
         "url": "https://wallet.advcash.com/pages/profile#",
         "difficulty": "easy",
