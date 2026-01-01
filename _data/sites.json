@@ -6206,6 +6206,15 @@
         "domains": ["elsevier.com"]
     },
     {
+        "name": "Ely.by",
+        "url": "https://account.ely.by/profile/delete",
+        "difficulty": "easy",
+        "notes": "Log into the account, scroll down until the \"Delete Account\" button, click it and re-enter your password before continuing. Account deletion happens after a week.",
+        "domains": [
+            "account.ely.by",
+            "ely.by"]
+    },
+    {
         "name": "Embark Studios",
         "url": "https://id.embark.games/id/connected-platforms",
         "difficulty": "hard",
