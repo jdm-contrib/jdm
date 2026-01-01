@@ -14232,6 +14232,13 @@
         "domains": ["nicehash.com"]
     },
     {
+        "name": "NicePage",
+        "url": "https://nicepage.com/",
+        "difficulty": "hard",
+        "notes": "Deletion requires submitting a forum post in the Contact page and waiting on a representative to email you back to confirm the deletion",
+        "domains": ["nicepage.com"]
+    },
+    {
         "name": "Nicequest",
         "url": "https://www.nicequest.com/br/profile",
         "difficulty": "easy",
@@ -19476,6 +19483,13 @@
             "woonbootutrecht.nl",
             "woonbotenamsterdam.com"
         ]
+    },
+    {
+        "name": "StudyClix",
+        "url": "https://www.studyclix.ie/FAQs#Contact_Us",
+        "difficulty": "hard",
+        "notes": "You have to contact support in order to delete your account.",
+        "domains": ["studyclix.ie"]
     },
     {
         "name": "StudyMode",
