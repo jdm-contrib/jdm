@@ -12038,9 +12038,12 @@
     },
     {
         "name": "Lumosity",
-        "url": "https://www.lumosity.com/app/v4/settings/account_deletion/new",
+        "url": "https://app.lumosity.com/settings",
         "difficulty": "easy",
-        "domains": ["lumosity.com"]
+        "domains": [
+            "app.lumosity.com",
+            "lumosity.com"
+        ]
     },
     {
         "name": "Luno",
