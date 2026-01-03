@@ -21621,6 +21621,16 @@
         "domains": ["app.vidiq.com"]
     },
     {
+        "name": "VidLii",
+        "url": "https://www.vidlii.com/delete_account",
+        "difficulty": "easy",
+        "notes": "You have to wait 50 seconds and enter your password",
+        "domains": [
+            "vidlii.com",
+            "vidlii.net",
+            "vidlii.st"        ]
+    },
+    {
         "name": "Vidyard",
         "url": "https://knowledge.vidyard.com/hc/en-us/requests/new",
         "difficulty": "hard",
