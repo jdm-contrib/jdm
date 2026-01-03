@@ -15935,6 +15935,16 @@
         ]
     },
     {
+        "name": "PixVerse",
+        "url": "https://app.pixverse.ai/home",
+        "difficulty": "easy",
+        "notes": "Press account icon at top right ⮕ \"UserInfo\" ⮕ \"Delete Account\" ⮕ Confirm ⮕ Confirm. Account deletion finalizes after 5 days.",
+        "domains": [
+            "app.pixverse.ai",
+            "pixverse.ai"
+        ]
+    },
+    {
         "name": "Pizza Hut",
         "url": "https://pizzahut.com",
         "difficulty": "hard",
