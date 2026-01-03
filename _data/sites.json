@@ -20419,6 +20419,13 @@
         "domains": ["developers.tiktok.com"]
     },
     {
+        "name": "TikVPN",
+        "url": "https://www.tikvpn.com/account",
+        "difficulty": "easy",
+        "notes": "Click on \"My Account\" at top right, then \"Delete account\" on the bottom left of the screen.",
+        "domains": ["tikvpn.com"]
+    },
+    {
         "name": "Time and Date",
         "url": "https://www.timeanddate.com/custom/modify.html",
         "difficulty": "easy",
