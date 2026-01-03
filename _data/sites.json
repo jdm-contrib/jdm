@@ -17908,6 +17908,13 @@
         "domains": ["semrush.com"]
     },
     {
+        "name": "Send.now",
+        "url": "https://send.now/?op=my_account",
+        "difficulty": "medium",
+        "notes": "Click on account icon at top right ⮕ \"Account\" ⮕ in \"Settings\" section and then \"Account tab\" ⮕ \"UNREGISTER AND DELETE ALL MY DATA\". Additional password and e-mail confirmation is needed.",
+        "domains": ["send.now"]
+    },
+    {
         "name": "SendGrid",
         "url": "https://support.sendgrid.com/hc/en-us/articles/4410760485403-Data-Retention-and-Deletion-in-Twilio-Products",
         "difficulty": "hard",
