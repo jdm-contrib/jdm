@@ -12653,6 +12653,13 @@
         "domains": ["melodics.com"]
     },
     {
+        "name": "MemeFast.app",
+        "url": "https://memefast.app",
+        "difficulty": "easy",
+        "notes": "Log in to the mobile app, click on options, then your username at the bottom navigation, select 'Delete Account' under 'Account Management'.",
+        "domains": ["memefast.app"]
+    },
+    {
         "name": "Memrise",
         "url": "https://www.memrise.com/settings/deactivate/",
         "difficulty": "easy",
