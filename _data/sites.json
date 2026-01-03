@@ -20485,9 +20485,8 @@
     {
         "name": "TLauncher",
         "url": "https://tlauncher.org/en/how-remove-tl-account.html",
-        "difficulty": "limited",
-        "notes": "They say they are working on it but planned to support it in March 2023. Sending an email leads to nothing. Contanting TLauncher administration regarding account deletion and possibly involving your country privacy laws through the Discord server is possible.",
-        "notes_ru": "Они говорят, что они работают над функцией и планируют поддержку в марте 2023 года. Отправка по электронной почте ничего не дает. Возможно обращение к администрации TLauncher по поводу удаления аккаунта и возможного нарушения законов о конфиденциальности вашей страны через сервер Discord.",
+        "difficulty": "easy",
+        "notes": "Account deletion takes place after 14 days. Additional Email confirmation needed before proceeding.",
         "domains": ["tlauncher.org"]
     },
     {
