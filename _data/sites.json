@@ -17655,6 +17655,13 @@
         "domains": ["forum.samygo.tv"]
     },
     {
+        "name": "Sankaku",
+        "url": "https://sankaku.app/settings",
+        "difficulty": "easy",
+        "notes": "Settings ⮕ DELETE ACCOUNT ⮕ DELETE ACCOUNT. Account deletion happens after 6 months.",
+        "domains": ["sankaku.app"]
+    },
+    {
         "name": "Sapinet",
         "url": "https://my.sapinet.fr/submitticket.php",
         "difficulty": "impossible",
