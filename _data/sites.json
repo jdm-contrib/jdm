@@ -12653,6 +12653,13 @@
         "domains": ["melodics.com"]
     },
     {
+        "name": "MemeFast.app",
+        "url": "https://memefast.app",
+        "difficulty": "easy",
+        "notes": "Log in to the mobile app, click on options, then your username at the bottom navigation, select 'Delete Account' under 'Account Management'.",
+        "domains": ["memefast.app"]
+    },
+    {
         "name": "Memrise",
         "url": "https://www.memrise.com/settings/deactivate/",
         "difficulty": "easy",
@@ -23720,13 +23727,6 @@
         "notes_ru": "Перейдите по сслке и подтвердите удаление аккаунта.",
         "notes_uk": "Перейдіть за посиланням і підтвердіть видалення акаунту.",
         "domains": ["miyklas.com.ua"]
-    },
-    {
-        "name": "MemeFast.app",
-        "url": "https://memefast.app",
-        "difficulty": "easy",
-        "notes": "Log in to the mobile app, click on options, then your username at the bottom navigation, select 'Delete Account' under 'Account Management'.",
-        "domains": ["memefast.app"]
     },
     {
         "name": "РешуОГЭ/РешуЕГЭ/СдамГИА",
