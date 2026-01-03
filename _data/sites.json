@@ -6212,7 +6212,8 @@
         "notes": "Log into the account, scroll down until the \"Delete Account\" button, click it and re-enter your password before continuing. Account deletion happens after a week.",
         "domains": [
             "account.ely.by",
-            "ely.by"]
+            "ely.by"
+        ]
     },
     {
         "name": "Embark Studios",
@@ -6999,9 +7000,7 @@
         "url": "https://flatfox.ch/en/accounts/remove/",
         "difficulty": "easy",
         "notes": "Go to Menu ⮕ Delete account and click 'Delete my account'.",
-        "domains": [
-            "flatfox.ch"
-        ]
+        "domains": ["flatfox.ch"]
     },
     {
         "name": "Flathub",
@@ -13936,7 +13935,7 @@
         "domains": ["naturalreaders.com"]
     },
     {
-        "name":"Naukri",
+        "name": "Naukri",
         "url": "https://www.naukri.com/mnjuser/settings/communication",
         "difficulty": "easy",
         "notes": "Log in ⮕ click on your profile picture ⮕ Click Settings ⮕ Communication and Privacy tab ⮕ Inside 'manage account' at the bottom, click on delete. Just enter your password to confirm. You may receive emails even after deletion and sometimes account deletion may not be possible due to internal errors. Ensure to have a password linked with your account.",
@@ -14549,8 +14548,8 @@
         "domains": ["nutracheck.co.uk"]
     },
     {
-        "name": "Nvidia",
-        "url": "https://www.nvidia.com/en-us/privacy-center/delete-data/",
+        "name": "NVIDIA",
+        "url": "https://www.nvidia.com/en-us/account/privacy/delete-data/",
         "difficulty": "easy",
         "notes": "Open the link, sign in, click 'Delete my data', click the confirmation link sent to your email, type in DELETE and press ok.",
         "notes_tr": "Bağlantıyı açın, giriş yapın ve \"Verilerimi Sil\" tuşuna tıklayın, ardından e-posta adresinize gelecek olan onaylama bağlantısına tıklayın. 'DELETE' yazın ve \"Tamam\" tuşuna tıklayın.",
@@ -21721,15 +21720,15 @@
         "domains": ["visualping.io"]
     },
     {
-    "name": "VitalSource",
-    "url": "https://support.vitalsource.com/hc/en-us/requests/new",
-    "difficulty": "hard",
-    "notes": "Select 'Account Deletion Request' from dropdown and fill out form. Wait for confirmation from customer support.",
-    "domains": [
-        "vitalsource.com",
-        "bookshelf.vitalsource.com",
-        "support.vitalsource.com"
-    ]
+        "name": "VitalSource",
+        "url": "https://support.vitalsource.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Select 'Account Deletion Request' from dropdown and fill out form. Wait for confirmation from customer support.",
+        "domains": [
+            "vitalsource.com",
+            "bookshelf.vitalsource.com",
+            "support.vitalsource.com"
+        ]
     },
     {
         "name": "Viva o Linux (VOL)",
