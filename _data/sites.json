@@ -21982,6 +21982,13 @@
         "domains": ["w3schools.com"]
     },
     {
+        "name": "Whoisfreaks",
+        "url": "https://billing.whoisfreaks.com/profile",
+        "difficulty": "easy",
+        "notes": "You can delete your own account by navigating to the Profile and then clicking on the `delete account` button.",
+        "domains": ["whoisfreaks.com"]
+    },
+    {
         "name": "Wacom Cloud",
         "url": "https://account.wacom.com/en-us/profile",
         "difficulty": "easy",
