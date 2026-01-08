@@ -10344,8 +10344,7 @@
         "name": "IPGeolocation.io",
         "url": "https://ipgeolocation.io",
         "difficulty": "easy",
-        "notes": "Sign in to your account, go to profile, click ‘Delete’. Confirm by clicking ‘Delete account’.",
-        "email": "support@ipgeolocation.io",
+        "notes": "Sign in to your account, go to \"Profile\", then click \"Delete\". Confirm by clicking \"Delete account\".",
         "domains": ["ipgeolocation.io"]
     },
     {
