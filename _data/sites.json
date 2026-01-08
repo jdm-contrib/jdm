@@ -12463,7 +12463,7 @@
         "name": "MatGoat",
         "url": "https://app.matgoat.com/user",
         "difficulty": "easy",
-        "notes": "Go to your Account > Delete My Account (at the bottom). You'll receive an email once it's completed.",
+        "notes": "Go to your Account ⮕ \"Delete My Account\". You'll receive an email once it's completed.",
         "domains": ["matgoat.com"]
     },
     {
