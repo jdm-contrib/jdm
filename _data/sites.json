@@ -10341,6 +10341,14 @@
         "domains": ["iosgods.com"]
     },
     {
+        "name": "IPGeolocation.io",
+        "url": "https://ipgeolocation.io",
+        "difficulty": "easy",
+        "notes": "Sign in to your account, go to profile, click ‘Delete’. Confirm by clicking ‘Delete account’.",
+        "email": "support@ipgeolocation.io",
+        "domains": ["ipgeolocation.io"]
+    },
+    {
         "name": "ipinfo.io",
         "url": "https://ipinfo.io/faq/article/126-deleting-ipinfo-account",
         "difficulty": "hard",
