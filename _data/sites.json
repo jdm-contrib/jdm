@@ -2925,6 +2925,12 @@
         "domains": ["borgbase.com"]
     },
     {
+        "name": "Borrow My Doggy",
+        "url": "https://help.borrowmydoggy.com/hc/en-gb/articles/115003534709-How-do-I-close-delete-my-account",
+        "difficulty": "hard",
+        "domains": ["borrowmydoggy.com"]
+    },
+    {
         "name": "Borussia Dortmund",
         "url": "https://account.bvb.de/s/",
         "difficulty": "hard",
