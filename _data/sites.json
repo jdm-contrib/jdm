@@ -17558,11 +17558,10 @@
     },
     {
         "name": "Rue du Commerce",
-        "url": "https://www.rueducommerce.fr",
-        "difficulty": "impossible",
-        "notes": "No online request possible.",
-        "notes_fr": "Pas de demande possible en ligne.",
-        "notes_pt-BR": "Não é possível fazer nenhum tipo de requisição online.",
+        "url": "https://secure.rueducommerce.fr/Identity",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account page, press the button 'Supprimer mon compte'.",
+        "notes_fr": "En bas de la page depuis Mon Compte, Mes Informations, cliquer sur 'Supprimer mon compte'.",
         "domains": ["rueducommerce.fr"]
     },
     {
