@@ -17343,6 +17343,15 @@
         ]
     },
     {
+        "name": "Rexar Hosting",
+        "url": "https://rexarhosting.nl/dashboard/profile/",
+        "difficulty": "medium",
+        "notes": "Log in to your account, go to profile and click on 'Delete Account'. Then you will get an email to confirm the deletion.",
+        "domains": [
+            "rexarhosting.nl"
+        ]
+    },
+    {
         "name": "Rhonexpress",
         "url": "https://www.rhonexpress.fr/en_GB/account/profile/edit",
         "url_it": "https://www.rhonexpress.fr/fr_FR/account/profile/edit",
