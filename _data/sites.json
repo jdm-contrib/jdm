@@ -17899,6 +17899,16 @@
         "domains": ["seedr.cc"]
     },
     {
+        "name": "Seesaw",
+        "url": "https://help.seesaw.me/hc/en-us/articles/205271473-How-to-delete-your-account",
+        "difficulty": "easy",
+        "notes": "Sign in, tap on your profile (top left), then tap on the gear icon, then \"Account Settings\", then \"Delete Account\" (At the bottom). Not availiable for student accounts (see [How to Delete a Student Seesaw Account](https://help.seesaw.me/hc/en-us/articles/39801347594509-How-to-Delete-a-Student-Seesaw-Account))",
+        "domains": [
+            "app.seesaw.me",
+            "seesaw.com"
+        ]
+    },
+    {
         "name": "Sega",
         "url": "https://privacy.sega.com/en/your-rights",
         "difficulty": "hard",
