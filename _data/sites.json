@@ -12316,11 +12316,11 @@
         "domains": ["makerbot.com"]
     },
     {
-        "name": "Mangadex",
-        "url": "https://mangadex.org/settings#del",
-        "difficulty": "easy",
-        "notes": "Sign in ⮕ Click the 'Delete' button ⮕ You will receive an email with a confirm button ⮕ Enter 'CONFIRM' in the text box.",
-        "notes_it": "Accedi ⮕ Clicca sul pulsante 'Delete' ⮕ Riceverai un'email con un pulsante di conferma ⮕ Inserisci 'COFIRM' nella casella di testo.",
+        "name": "MangaDex",
+        "url": "https://forums.mangadex.org/threads/please-delete-my-account.1593021/#post-20156082",
+        "difficulty": "hard",
+        "notes": "Automatic account deletion has been \"Temporarily Unavailable\" since about 2023, you must send an email to the support email address from your registered email and request they delete your account. See [this reddit comment](https://www.reddit.com/r/mangadex/comments/167mfkg/comment/jyqkvk5/?context=3) for the reasons why.",
+        "email": "support@mangadex.org",
         "domains": ["mangadex.org"]
     },
     {
