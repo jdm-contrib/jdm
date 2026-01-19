@@ -9213,6 +9213,13 @@
         ]
     },
     {
+        "name": "Heroforge",
+        "url": "https://www.heroforge.com/account/profile",
+        "difficulty": "easy",
+        "notes": "Go to your profile (\"Personal Info\"), scroll down, and click on \"DELETE ACCOUNT\", then on \"Yes, delete my account\". There is a 24 hour period in which you can reverse your decision. After that your account will be deleted.",
+        "domains": ["https://heroforge.com"]
+    },
+    {
         "name": "Heroku",
         "url": "https://dashboard.heroku.com/account",
         "difficulty": "easy",
