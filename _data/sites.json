@@ -17321,14 +17321,6 @@
         ]
     },
     {
-        "name": "Revolt",
-        "url": "https://revolt.chat/settings",
-        "difficulty": "easy",
-        "notes": "Go to your account options and click on 'Mark Account for Deletion'.",
-        "notes_fr": "allez dans les options de votre compte et cliquez sur 'Marquer le compte pour la suppression'.",
-        "domains": ["revolt.chat"]
-    },
-    {
         "name": "Revolut",
         "url": "https://help.revolut.com/en-US/help/profile-and-plan/closing-account/",
         "url_it": "https://help.revolut.com/it-IT/help/profile-and-plan/closing-account/",
@@ -19225,6 +19217,14 @@
             "stickk.com",
             "stickk.zendesk.com"
         ]
+    },
+    {
+        "name": "Stoat",
+        "url": "https://stoat.chat/settings",
+        "difficulty": "easy",
+        "notes": "Go to your account options and click on 'Mark Account for Deletion'.",
+        "notes_fr": "allez dans les options de votre compte et cliquez sur 'Marquer le compte pour la suppression'.",
+        "domains": ["stoat.chat"]
     },
     {
         "name": "Stocard",
