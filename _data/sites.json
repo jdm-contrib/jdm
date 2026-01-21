@@ -21125,6 +21125,21 @@
         ]
     },
     {
+        "name": "Twitch services (RPG...)",
+        "url": "https://legal.twitch.com/en/legal/privacy-notice/#data-subject-rights-and-your-choices",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support. ([Privacy notice](https://legal.twitch.com/en/legal/privacy-notice))",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client.",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren.([Privacy notice](https://legal.twitch.com/de-de/legal/privacy-notice))",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente. ([Privacy notice](https://legal.twitch.com/es-es/legal/privacy-notice))",
+        "notes_fr": "Pour supprimer votre compte contactez le support.([Politique de confidentialité](https://legal.twitch.com/fr-fr/legal/privacy-notice))",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti. ([Privacy notice](https://legal.twitch.com/it-it/legal/privacy-notice))",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "domains": ["rpg.twitch.tv"]
+    },
+    {
         "name": "twoseven",
         "url": "https://twoseven.xyz/help/faq",
         "notes": "The instructions are the the bottom of their FAQs",
