@@ -4465,6 +4465,17 @@
         ]
     },
     {
+        "name": "Cornelsen.de",
+        "url": "https://www.cornelsen.de/service/kundenservice/anmeldung",
+        "difficulty": "hard",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren.",
+        "notes_en": "Account deletion requires contacting Customer Support.",
+        "email": "service@cornelsen.de",
+        "domains": [
+            "cornelsen.de"
+        ]
+    },
+    {
         "name": "Correl.app",
         "url": "https://correl.app/account/delete",
         "difficulty": "easy",
