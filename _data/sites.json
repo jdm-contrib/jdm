@@ -6470,6 +6470,7 @@
         "difficulty": "easy",
         "domains": [
             "eventbrite.com",
+            "eventbrite.fr",
             "privacy.eventbrite.com"
         ]
     },
