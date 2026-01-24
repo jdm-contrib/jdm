@@ -4471,9 +4471,7 @@
         "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren.",
         "notes_en": "Account deletion requires contacting Customer Support.",
         "email": "service@cornelsen.de",
-        "domains": [
-            "cornelsen.de"
-        ]
+        "domains": ["cornelsen.de"]
     },
     {
         "name": "Correl.app",
