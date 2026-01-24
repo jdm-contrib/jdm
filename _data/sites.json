@@ -13359,9 +13359,9 @@
     },
     {
         "name": "Monkeytype",
-        "url": "https://monkeytype.com/settings",
+        "url": "https://monkeytype.com/account-settings?tab=dangerZone",
         "difficulty": "easy",
-        "notes": "Scroll to the bottom of the linked page and click the 'delete account' button.",
+        "notes": "Click the 'delete account' button.",
         "domains": ["monkeytype.com"]
     },
     {
