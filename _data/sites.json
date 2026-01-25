@@ -15090,6 +15090,12 @@
         ]
     },
     {
+        "name": "Opodo",
+        "url": "https://www.opodo.fr/travel/profile/#login_and_security/",
+        "difficulty": "easy",
+        "domains": ["opodo.fr"]
+    },
+    {
         "name": "Optum",
         "url": "https://docasap.com/user/profile",
         "difficulty": "easy",
