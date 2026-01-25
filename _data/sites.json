@@ -22946,6 +22946,13 @@
         ]
     },
     {
+        "name": "Windsurf",
+        "url": "https://windsurf.com/settings",
+        "difficulty": "easy",
+        "notes": "Follow the linked URL, log in if needed, and click on the \"Delete account\" button to proceed with deletion.",
+        "domains": ["windsurf.com"]
+    },
+    {
         "name": "Windy",
         "url": "https://account.windy.com/profile/delete",
         "difficulty": "easy",
