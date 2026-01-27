@@ -11927,16 +11927,6 @@
         "domains": ["lobstr.co"]
     },
     {
-        "name": "Login.gov",
-        "url": "https://secure.login.gov/account/delete",
-        "difficulty": "easy",
-        "notes": "Sometimes the login page won't redirect properly, click the \"Delete Account\" link on the side if this happens.",
-        "domains": [
-            "login.gov",
-            "secure.login.gov"
-        ]
-    },
-    {
         "name": "Loggi",
         "url": "https://ajuda.loggi.com/hc/pt-br/requests/new?ticket_form_id=448027",
         "difficulty": "medium",
@@ -11946,6 +11936,16 @@
             "loggi.com",
             "ajuda.loggi.com",
             "loggibr.zendesk.com"
+        ]
+    },
+    {
+        "name": "Login.gov",
+        "url": "https://secure.login.gov/account/delete",
+        "difficulty": "easy",
+        "notes": "Sometimes the login page won't redirect properly, click the \"Delete Account\" link on the side if this happens.",
+        "domains": [
+            "login.gov",
+            "secure.login.gov"
         ]
     },
     {
