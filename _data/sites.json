@@ -10463,7 +10463,7 @@
         "url": "https://play.google.com/store/apps/details?id=br.com.intelbras.smart",
         "difficulty": "easy",
         "notes": "On the app, click \"Eu\" then the icon at the top right, \"Conta e Segurança\" and finally \"Desativar a Conta\". You'll be asked to confirm and insert a verification code sent to the e-mail. The account is wiped out after 7 days.",
-        "notes_pt-BR": "No aplicativo, clique em \"Eu\" e então no ícone no topo direito, \"Conta e Segurança\" e finalmente \"Desativar a Conta\". Vai ser pedido que confirme e insira um código de verificação enviadoi por e-mail. A conta é removida em 7 dias."
+        "notes_pt-BR": "No aplicativo, clique em \"Eu\" e então no ícone no topo direito, \"Conta e Segurança\" e finalmente \"Desativar a Conta\". Vai ser pedido que confirme e insira um código de verificação enviadoi por e-mail. A conta é removida em 7 dias.",
         "domains": ["intelbras.smart"]
     },
     {
