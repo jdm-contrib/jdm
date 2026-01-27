@@ -10459,6 +10459,14 @@
         "domains": ["ivpn.net"]
     },
     {
+        "name": "Izy Smart",
+        "url": "https://play.google.com/store/apps/details?id=br.com.intelbras.smart",
+        "difficulty": "easy",
+        "notes": "On the app, click \"Eu\" then the icon at the top right, \"Conta e Segurança\" and finally \"Desativar a Conta\". You'll be asked to confirm and insert a verification code sent to the e-mail. The account is wiped out after 7 days.",
+        "notes_pt-BR": "No aplicativo, clique em \"Eu\" e então no ícone no topo direito, \"Conta e Segurança\" e finalmente \"Desativar a Conta\". Vai ser pedido que confirme e insira um código de verificação enviadoi por e-mail. A conta é removida em 7 dias.",
+        "domains": ["intelbras.smart"]
+    },
+    {
         "name": "Jalopnik",
         "url": "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
         "difficulty": "hard",
@@ -11917,6 +11925,18 @@
         "difficulty": "medium",
         "notes": "Visit the linked page and click 'Delete LOBSTR account' under the 'Profile' tab. You will be sent an email with a link to delete your account.",
         "domains": ["lobstr.co"]
+    },
+    {
+        "name": "Loggi",
+        "url": "https://ajuda.loggi.com/hc/pt-br/requests/new?ticket_form_id=448027",
+        "difficulty": "medium",
+        "notes": "On the help page, select \"Já sou cliente Loggi\" ⮕ \"Alterar dados cadastrais\" ⮕ \"Excluir conta\". Fill the description and submit",
+        "notes_pt-BR": "On the help page, select \"Já sou cliente Loggi\" ⮕ \"Alterar dados cadastrais\" ⮕ \"Excluir conta\". Fill the description and submit",
+        "domains": [
+            "loggi.com",
+            "ajuda.loggi.com",
+            "loggibr.zendesk.com"
+        ]
     },
     {
         "name": "Login.gov",
