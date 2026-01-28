@@ -16934,6 +16934,18 @@
         ]
     },
     {
+        "name": "RDV Service Public",
+        "url": "https://rdv.anct.gouv.fr/users/edit",
+        "difficulty": "easy",
+        "domains": ["rdv.anct.gouv.fr"]
+    },
+    {
+        "name": "RDV Solidarités",
+        "url": "https://www.rdv-solidarites.fr/users/edit",
+        "difficulty": "easy",
+        "domains": ["rdv-solidarites.fr"]
+    },
+    {
         "name": "Read the Docs",
         "url": "https://readthedocs.org/accounts/delete/",
         "difficulty": "easy",
