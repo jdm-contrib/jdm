@@ -3325,6 +3325,14 @@
         "domains": ["camelcamelcamel.com"]
     },
     {
+        "name": "Cameo",
+        "url": "https://legal.cameo.com/termsofservice#:~:text=You%20may%20cancel%20your%20Site,at%20hello%40cameo.com.",
+        "difficulty": "hard",
+        "notes": "You must contact support to delete your account",
+        "email": "hello@cameo.com",
+        "domains": ["cameo.com"]
+    },
+    {
         "name": "CamScanner",
         "url": "https://www.camscanner.com/",
         "difficulty": "hard",
@@ -3510,14 +3518,7 @@
             "registreusuari.ccma.cat"
         ]
     },
-    {
-        "name": "Cameo",
-        "url": "https://legal.cameo.com/termsofservice#:~:text=You%20may%20cancel%20your%20Site,at%20hello%40cameo.com.",
-        "difficulty": "hard",
-        "notes": "You must contact support to delete your account",
-        "email": "hello@cameo.com",
-        "domains": ["cameo.com"]
-    },
+    
     {
         "name": "cda",
         "url": "https://www.cda.pl/kontakt",
