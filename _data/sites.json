@@ -8116,7 +8116,9 @@
         "notes": "Fill out the form on the linked page. Under the field \"What is your personal data request?\", select \"Delete my personal data\". You will be asked to verify your email and then your account will be deleted within 30 days.",
         "domains": [
             "glassdoor.com",
-            "help.glassdoor.com"
+            "glassdoor.fr",
+            "help.glassdoor.com",
+            "aide.glassdoor.fr"
         ]
     },
     {
