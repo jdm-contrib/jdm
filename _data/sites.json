@@ -460,6 +460,7 @@
         "difficulty": "easy",
         "notes": "You must be logged in. In the modal, check the boxes to confirm you understand the consequences of deleting your account. Proceed then confirm using your password or a security code sent to your email. Once confirmed, click the last button to permanently delete your account.",
         "notes_es": "Debe iniciar sesión. Marque las casillas en el modal para confirmar que entiende las consecuencias de borrar su cuenta. Continua y confirme con tu contraseña o un código de seguridad enviado a su email. Una vez que se ha confirmado, haga clic en el último botón para eliminar su cuenta de forma permanamente.",
+        "notes_it": "Devi essere connesso al tuo account. Seleziona le caselle per confermare di aver compreso le conseguenze della cancellazione del tuo account. Procedi quindi conferma utilizzando la tua password o un codice di sicurezza inviato alla tua email. Una volta confermato, clicca sull'ultimo pulsante per eliminare definitivamente il tuo account.",
         "domains": [
             "actblue.com",
             "secure.actblue.com"
@@ -469,8 +470,9 @@
         "name": "ActiveCampaign",
         "url": "https://ac.activehosted.com/f/2175",
         "difficulty": "hard",
-        "notes": "For account deletion requests or requests to remove all account information, submit the [Data Subject Rights Request form](https://ac.activehosted.com/f/2175). When asked \"What would you like to initiate with us?\" choose the option **\"I want to be forgotten, and want my personal data erased\"**.",
-        "notes_ru": "Для запроса на удаление учетной записи или запроса на удаление всей информации учетной записи отправьте форму запроса прав субъекта данных. На вопрос: «Что бы вы хотели принять с нами?» выберите вариант «Я хочу, чтобы меня забыли, и хочу, чтобы мои личные данные были удалены».",
+        "notes": "For account deletion requests or requests to remove all account information, submit the [Data Subject Rights Request form](https://ac.activehosted.com/f/2175).",
+        "notes_it": "Per richieste di cancellazione dell'account o richieste di rimozione di tutte le informazioni dell'account, invia il [modulo di richiesta dei diritti dell'interessato](https://ac.activehosted.com/f/2175).",
+        "notes_ru": "Для запроса на удаление учетной записи или запроса на удаление всей информации учетной записи отправьте форму запроса прав субъекта данных.",
         "domains": [
             "activehosted.com",
             "ac.activehosted.com"
@@ -482,6 +484,7 @@
         "difficulty": "hard",
         "email": "privacy@activision.com",
         "notes": "Must put in a request, via a ticket system, while logged in to the account (to verify the identity of the account owner).",
+        "notes_it": "È necessario inviare una richiesta tramite un sistema di ticket, dopo aver effettuato l'accesso all'account (per verificare l'identità del titolare dell'account).",
         "domains": [
             "activision.com",
             "s.activision.com",
