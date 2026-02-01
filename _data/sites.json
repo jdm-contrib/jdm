@@ -11441,6 +11441,13 @@
         "domains": ["lemehost.com"]
     },
     {
+        "name": "LendingTree",
+        "url": "https://www.lendingtree.com/about/contact-us/",
+        "difficulty": "impossible",
+        "notes": "Account cannot be fully deleted, only disabled with an option to reactivate with password reset.\n\nClick the 'Chat With Support' button on the bottom-right, then use options 'Cancel My Loan Request and/or Unsubscribe' > 'Cancel my account', then follow any prompts.",
+        "domains": ["lendingtree.com"]
+    },
+    {
         "name": "Lenovo Forums",
         "url": "https://forums.lenovo.com/user/myprofilepage/personal/closeaccount",
         "difficulty": "easy",
