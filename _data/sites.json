@@ -3006,7 +3006,7 @@
     {
         "name": "Brainly",
         "url": "https://faq-us.brainly.com/hc/en-us/articles/5193204588946-Account-deletion",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "The delete account button automatically sends a request for account deletion instead of immediately deleting your account.",
         "domains": ["brainly.com"]
     },
