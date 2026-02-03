@@ -4779,6 +4779,13 @@
         ]
     },
     {
+        "name": "Cult3d",
+        "url": "https://cults3d.com/en/account/edit/",
+        "difficulty": "easy",
+        "notes": "Go to the bottom of your account page and select \"Destroy my account and data\"",
+        "domains": ["cults3d.com"]
+    },
+    {
         "name": "Cultura",
         "url": "https://mesdroits.my.onetrust.com/webform/657f7c55-2752-4af4-b8a2-0c1c352400a9/1a5e60f4-9b49-4948-b10a-247d726aa821",
         "difficulty": "hard",
