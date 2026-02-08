@@ -6185,6 +6185,13 @@
         "domains": ["elevateapp.com"]
     },
     {
+        "name": "Elevenlabs.io",
+        "url": "https://help.elevenlabs.io/hc/en-us/articles/13313906314641-How-can-I-delete-my-account",
+        "difficulty": "easy",
+        "notes": "Log in to your account, click your profile icon in the top right corner of the website to open your account menu. Select Settings. Click the red \"Delete Account\" button. You may need to scroll down to see this option. Confirm the request by entering the email address for your account and clicking \"Delete Account\".",
+        "domains": ["elevenlabs.io"]
+    },
+    {
         "name": "Elfster",
         "url": "https://www.elfster.com/settings/account/",
         "difficulty": "easy",
@@ -11483,6 +11490,13 @@
         "domains": ["lenstore.co.uk"]
     },
     {
+        "name": "Leonardo.ai",
+        "url": "https://leonardo.ai/contact-us/",
+        "difficulty": "medium",
+        "notes": "In the tab bar at the bottom left of your profile, click on \"Settings,\" then \"Delete Account. A pop-up window will open. You will need to enter your name to confirm the deletion, then click on \"Delete my account\". There is a 30-day waiting period, after which the action is irreversible and everything will be automatically deleted from the servers. (It is essential to cancel any current paid subscriptions to avoid future charges)",
+        "domains": ["leonardo.ai"]
+    },
+    {
         "name": "Letgo",
         "url": "https://help.letgo.com/hc/en-001/requests/new?ticket_form_id=5285423513618",
         "url_tr": "https://help.letgo.com/hc/tr/requests/new?ticket_form_id=528",
@@ -15222,6 +15236,13 @@
         "domains": ["outlier.ai"]
     },
     {
+        "name": "Outsideinc",
+        "url": "https://help.outsideinc.com/hc/en-us/articles/7896006063255-How-do-I-delete-my-account",
+        "difficulty": "hard",
+        "notes": "On Outside Inc., the deletion procedure differs depending on the medium. On the web, there is no direct button: you must submit a deletion form specific to your country. Although the option is available on mobile devices, it is recommended that you use the web form to ensure compliance with legal deadlines (up to 30 days depending on jurisdiction). Important: Before taking any action, you must cancel your subscription to stop payments. Please note that this action is global and will permanently delete your Gaia GPS, Trailforks, athleteReg, and Outside accounts.",
+        "domains": ["outsideinc.com"]
+    },
+    {
         "name": "OV-chipkaart",
         "url": "https://www.ov-chipkaart.nl/en/privacy",
         "url_nl": "https://www.ov-chipkaart.nl/privacy",
@@ -17736,6 +17757,13 @@
         "difficulty": "medium",
         "notes": "Type in your password and click \"Submit\". Click the confirmation link sent to your email address.",
         "domains": ["sammobile.com"]
+    },
+    {
+        "name": "Sampleswap",
+        "url": "https://sampleswap.org/about/",
+        "difficulty": "easy",
+        "notes": "Click on \"Edit Profile\" in the top right corner, then on \"Delete Account\" in red. A pop-up will appear saying that everything will be deleted. Click \"Yes, delete now.\"",
+        "domains": ["sampleswap.org"]
     },
     {
         "name": "Samsung Account",
@@ -20436,6 +20464,14 @@
             "culturedcode.com",
             "support.culturedcode.com"
         ]
+    },
+    {
+        "name": "Thomann",
+        "url": "https://www.thomann.de/de/compinfo_contact.html",
+        "difficulty": "hard",
+        "notes": "To delete your account, you must send an email to them specifying your customer number and the associated email address.",
+        "email": "privacy@thomann.de",
+        "domains": ["thomann.de"]
     },
     {
         "name": "Threads",
