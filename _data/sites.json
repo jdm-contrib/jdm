@@ -17978,6 +17978,16 @@
         "domains": ["scribd.com"]
     },
     {
+        "name": "Scribe",
+        "url": "https://support.scribehow.com/hc/en-us/articles/6853332074013-Managing-your-Scribe-account",
+        "difficulty": "easy",
+        "notes": "Log in, visit your account settings, and click on 'Delete Account'",
+        "domains": [
+            "scribe.com",
+            "scribehow.com"
+        ]
+    },
+    {
         "name": "Sdc.com",
         "url": "http://www.sdc.com/react/#/settings2",
         "difficulty": "easy",
