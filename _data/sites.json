@@ -20879,9 +20879,9 @@
         "name": "Transcript LOL",
         "url": "https://transcript.lol/dashboard/account/settings/delete-account/start",
         "difficulty": "easy",
-        "notes": "Go to the account deletion link and request account to be deleted. Account is auto-deleted within 7 days.",
-        "notes_pt-BR": "Acesse o link de exclusão de conta e solicite a exclusão. A conta é excluída automaticamente em 7 dias.",
-        "notes_pt-PT": "Aceda ao link de eliminação de conta e solicite a eliminação. A conta é eliminada automaticamente em 7 dias.",
+        "notes": "Go to the account deletion link and click the delete account button. Account will be deleted automatically within 7 days.",
+        "notes_pt-BR": "Acesse o link de exclusão de conta e clique no botão de excluir conta. A conta será excluída automaticamente em 7 dias.",
+        "notes_pt-PT": "Aceda ao link de eliminação de conta e clique no botão de eliminar conta. A conta será eliminada automaticamente em 7 dias.",
         "domains": ["transcript.lol"]
     },
     {
