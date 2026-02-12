@@ -20876,15 +20876,6 @@
         "domains": ["trabalhabrasil.com.br"]
     },
     {
-        "name": "Transcript LOL",
-        "url": "https://transcript.lol/dashboard/account/settings/delete-account/start",
-        "difficulty": "easy",
-        "notes": "Go to the account deletion link and click the delete account button. Account will be deleted automatically within 7 days.",
-        "notes_pt-BR": "Acesse o link de exclusão de conta e clique no botão de excluir conta. A conta será excluída automaticamente em 7 dias.",
-        "notes_pt-PT": "Aceda ao link de eliminação de conta e clique no botão de eliminar conta. A conta será eliminada automaticamente em 7 dias.",
-        "domains": ["transcript.lol"]
-    },
-    {
         "name": "The Tracktor",
         "url": "https://thetracktor.com/account/close",
         "difficulty": "easy",
@@ -20935,6 +20926,15 @@
         "url": "https://trakt.tv/settings/advanced",
         "difficulty": "easy",
         "domains": ["trakt.tv"]
+    },
+    {
+        "name": "Transcript LOL",
+        "url": "https://transcript.lol/dashboard/account/settings/delete-account/start",
+        "difficulty": "easy",
+        "notes": "Go to the account deletion link and click the delete account button. Account will be deleted automatically within 7 days.",
+        "notes_pt-BR": "Acesse o link de exclusão de conta e clique no botão de excluir conta. A conta será excluída automaticamente em 7 dias.",
+        "notes_pt-PT": "Aceda ao link de eliminação de conta e clique no botão de eliminar conta. A conta será eliminada automaticamente em 7 dias.",
+        "domains": ["transcript.lol"]
     },
     {
         "name": "TransferXL",
