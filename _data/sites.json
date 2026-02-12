@@ -13377,6 +13377,13 @@
         "domains": ["monarchmoney.com"]
     },
     {
+        "name": "monday.com",
+        "url": "https://support.monday.com/hc/en-us/articles/360018133779-How-to-cancel-and-close-your-account",
+        "difficulty": "easy",
+        "notes": "Close all active product subscriptions in the Billing section of the Administration page, then click \"Close my account\".",
+        "domains": ["monday.com"]
+    },
+    {
         "name": "Money Dashboard",
         "url": "https://help.moneydashboard.com/hc/requests/new",
         "difficulty": "hard",
