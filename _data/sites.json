@@ -4498,6 +4498,13 @@
         "domains": ["correl.app"]
     },
     {
+        "name": "Cors Proxy",
+        "url": "https://accounts.corsproxy.io/user",
+        "difficulty": "easy",
+        "notes": "Just go to your profile and click 'Delete Account', then type 'Delete account' in the box provided.",
+        "domains": ["corsproxy.io"]
+    },
+    {
         "name": "CoSpaces",
         "url": "https://edu.cospaces.io/Studio/Account",
         "difficulty": "easy",
@@ -11185,6 +11192,13 @@
         "notes_tr": "Hesabınızı silmek için bir bağlantı içeren bir e-posta gönderilecektir.",
         "notes_de": "Es wird eine E-Mail mit einem Link zum Löschen des Accounts gesendet.",
         "domains": ["kununu.com"]
+    },
+    {
+        "name": "Kvraudio",
+        "url": "https://www.kvraudio.com/about-kvr",
+        "difficulty": "impossible",
+        "notes": "There is no button to automatically deactivate or delete your account in the KVR Audio account settings. There is a contact email address, but they do not respond. The only remaining method is to delete your information: Go to your profile and delete all personal information (name, location, website). Change your email address to a a disposable or fictitious address, change your password then log out.",
+        "domains": ["kvraudio.com"]
     },
     {
         "name": "Kwai",
