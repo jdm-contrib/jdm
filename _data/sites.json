@@ -14945,6 +14945,13 @@
         "domains": ["oneplus.com"]
     },
     {
+        "name": "OnePrep",
+        "url": "https://www.oneprep.xyz/profile",
+        "difficulty": "easy",
+        "notes": "Go into settings and click on the 'Delete Account' button.",
+        "domains": ["oneprep.xyz"]
+    },
+    {
         "name": "OneSky",
         "url": "https://support.oneskyapp.com/hc/en-us/articles/115005242827-How-to-Delete-your-OneSky-Account",
         "difficulty": "hard",
