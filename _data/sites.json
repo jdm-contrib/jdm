@@ -15,6 +15,17 @@
         ]
     },
     {
+        "name": "123hdd",
+        "url": "https://one-two-three-hdd.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
+        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
+        "notes_it": "Vai su 'Profilo', 'Impostazioni', clicca 'Elimina account' e conferma.",
+        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
+        "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
+        "domains": ["one-two-three-hdd.raiselysite.com"]
+    },
+    {
         "name": "123RF",
         "url": "https://www.123rf.com/support/support-answer.php?id=8817",
         "difficulty": "hard",
