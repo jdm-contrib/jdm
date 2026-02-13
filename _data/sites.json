@@ -136,15 +136,6 @@
         "domains": ["2captcha.com"]
     },
     {
-        "name": "the undertaker 2",
-        "url": "https://theundertaker2.raiselysite.com/",
-        "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "email": "admin@raiselysite.com",
-        "email_body": "theundertaker2.raiselysite.com/.",
-        "domains": ["theundertaker2.raiselysite.com/"]
-    },
-    {
         "name": "2K Games",
         "url": "https://support.2k.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -21519,6 +21510,14 @@
             "nonsa.pl",
             "nonciclopedia.org"
         ]
+    },
+    {
+        "name": "The undertaker 2",
+        "url": "https://theundertaker2.raiselysite.com/",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "email": "admin@raiselysite.com",
+        "domains": ["theundertaker2.raiselysite.com"]
     },
     {
         "name": "Unfuddle Ten",
