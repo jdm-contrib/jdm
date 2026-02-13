@@ -40,6 +40,21 @@
         "notes_pt-BR": "Nas preferências do seu perfil, clique em 'Delete Account' e depois confirme.",
         "domains": ["16personalities.com"]
     },
+        {
+        "name": "123hdd",
+        "url": "https://one-two-three-hdd.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
+        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
+        "notes_it": "Vai su 'Profilo', 'Impostazioni', clicca 'Elimina account' e conferma.",
+        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
+        "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
+        "domains": [
+            "doc.e.foundation",
+            "e.foundation",
+            "ecloud.global"
+        ]
+    },
     {
         "name": "17TRACK",
         "url": "https://help.17track.net/hc/en-us/articles/360061466432-How-to-cancel-my-account",
