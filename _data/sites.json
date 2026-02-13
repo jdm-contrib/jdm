@@ -18158,6 +18158,13 @@
         "domains": ["sentry.io"]
     },
     {
+        "name": "Serie day",
+        "url": "https://series-day.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "In your profile preferences, click in 'Delete Account' then confirm.",
+        "domains": ["series-day.raiselysite.com"]
+    },
+    {
         "name": "Serpstat",
         "url": "https://serpstat.com/users/profile/",
         "difficulty": "medium",
