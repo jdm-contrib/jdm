@@ -9306,6 +9306,13 @@
         "domains": ["hetzner.com"]
     },
     {
+        "name": "hi ai",
+        "url": "https://hiaireply.com",
+        "difficulty": "easy",
+        "notes": "Log in to your account, go to Settings ⮕ Security ⮕ scroll to bottom and click 'Delete Account' button.",
+        "domains": ["hiaireply.com"]
+    },
+    {
         "name": "Hi-Rez Studios",
         "url": "https://my.hirezstudios.com/security",
         "difficulty": "hard",
