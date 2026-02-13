@@ -62,13 +62,6 @@
         ]
     },
     {
-        "name": "Serie day",
-        "url": "https://series-day.raiselysite.com/",
-        "difficulty": "easy",
-        "notes": "In your profile preferences, click in 'Delete Account' then confirm.",
-        "domains": ["series-day.raiselysite.com"]
-    },
-    {
         "name": "1fichier",
         "url": "https://1fichier.com/contact.html",
         "difficulty": "hard",
@@ -18163,6 +18156,13 @@
         "url": "https://sentry.io/settings/account/close-account/",
         "difficulty": "easy",
         "domains": ["sentry.io"]
+    },
+    {
+        "name": "Serie day",
+        "url": "https://series-day.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "In your profile preferences, click in 'Delete Account' then confirm.",
+        "domains": ["series-day.raiselysite.com"]
     },
     {
         "name": "Serpstat",
