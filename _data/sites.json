@@ -8195,6 +8195,14 @@
         "domains": ["glitch.com"]
     },
     {
+        "name": "Globo",
+        "url": "https://minhaconta-v2.globo.com/#/excluir-conta",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, click on the delete account button and provide a reason.",
+        "notes_pt-BR": "Visite a página, clique em 'Excluir Conta Globo' e escolha a razão da exclusão.",
+        "domains": ["globo.com"]
+    },
+    {
         "name": "Glorious Forums",
         "url": "https://gloriousforum.com",
         "difficulty": "easy",
