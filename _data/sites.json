@@ -21311,6 +21311,13 @@
         "domains": ["https://tvtropes.org/"]
     },
     {
+        "name": "TVMon",
+        "url": "https://tvmonkorea.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "In your profile, there is a 'Delete Account' link. Clicking this will permanently delete all personal information from your user profile and deactivate your account. Your username cannot be used again by you or anyone else",
+        "domains": ["tvmonkorea.raiselysite.com"]
+    },
+    {
         "name": "Tweek",
         "url": "https://tweek.so/calendar/help",
         "difficulty": "easy",
