@@ -52,6 +52,13 @@
         "domains": ["16personalities.com"]
     },
     {
+        "name": "Tvmon",
+        "url": "https://tvmonkorea.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "In your profile preferences, click in 'Delete Account' then confirm.",
+        "domains": ["tvmonkorea.raiselysite.com"]
+    },
+    {
         "name": "17TRACK",
         "url": "https://help.17track.net/hc/en-us/articles/360061466432-How-to-cancel-my-account",
         "difficulty": "hard",
