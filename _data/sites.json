@@ -8997,6 +8997,14 @@
         "notes_tr": "Sayfanın altına doğru kaydırın ve kırmızı \"Hesabı Sil\" tuşuna tıklayın"
     },
     {
+        "name": "Globo",
+        "url": "https://minhaconta-v2.globo.com/#/excluir-conta",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, click on the delete account button and provide a reason.",
+        "notes_pt-BR": "Visite a página, clique em 'Excluir Conta Globo' e escolha a razão da exclusão.",
+        "domains": ["globo.com"]
+    },
+    {
         "name": "Habbo",
         "url": "https://help.habbo.com/hc/en-us/requests/new",
         "difficulty": "hard",
