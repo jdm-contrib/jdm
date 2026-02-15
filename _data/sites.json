@@ -1360,6 +1360,13 @@
         "domains": ["animoto.com"]
     },
     {
+        "name": "aniworld",
+        "url": "https://aniworld.site/",
+        "difficulty": "hard",
+        "notes": "The account deletion page is very hard to find, there is no direct access to it on the website or Android app. I was only able to locate it through the iOS app. After submitting the deletion request, your account will be permanently deleted after 15 days. Please note that once your account is deleted, the email address you used previously cannot be reused to register again.",
+        "domains": ["aniworld.site"]
+    },
+    {
         "name": "Ankama",
         "url": "https://support.ankama.com/hc/en-us/requests/new?ticket_form_id=625847",
         "difficulty": "hard",
