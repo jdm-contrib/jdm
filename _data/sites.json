@@ -130,6 +130,13 @@
         "domains": ["1xbet.com"]
     },
     {
+        "name": "24hd",
+        "url": "https://24hd.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "In your profile, there is a 'Delete Account' link. Clicking this will permanently delete all personal information from your user profile and deactivate your account. Your username cannot be used again by you or anyone else",
+        "domains": ["24hd.raiselysite.com"]
+    },
+    {
         "name": "280daily",
         "url": "https://280daily.com/settings/delete",
         "difficulty": "easy",
