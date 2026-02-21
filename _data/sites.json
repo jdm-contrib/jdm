@@ -23294,6 +23294,16 @@
         ]
     },
     {
+        "name": "WIZBII",
+        "url": "https://www.wizbii.com/account/privacy/deletion",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete my account'",
+        "notes_fr": "Cliquer sur 'Supprimer mon compte'",
+        "domains": [
+            "wizbii.com"
+        ]
+    },
+    {
         "name": "WolframAlpha.com",
         "url": "https://www.wolframalpha.com/fbfaqs.html",
         "difficulty": "hard",
