@@ -5825,7 +5825,7 @@
         "url": "https://dune.com/settings/account",
         "difficulty": "easy",
         "notes": "Click Delete account and type ‘DELETE’ to confirm",
-        "domains": ["dunkindonuts.com"]
+        "domains": ["dune.com/"]
     },
     {
         "name": "Dunkindonuts",
