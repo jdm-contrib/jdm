@@ -5821,6 +5821,13 @@
         "domains": ["duetnightabyss.dna-panstudio.com"]
     },
     {
+        "name": "Dune",
+        "url": "https://dune.com/settings/account",
+        "difficulty": "easy",
+        "notes": "Click Delete account and type ‘DELETE’ to confirm",
+        "domains": ["dunkindonuts.com"]
+    },
+    {
         "name": "Dunkindonuts",
         "url": "https://www.dunkindonuts.com/en/about/contact-us",
         "difficulty": "easy",
