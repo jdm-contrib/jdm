@@ -23299,9 +23299,7 @@
         "difficulty": "easy",
         "notes": "Click on 'Delete my account'",
         "notes_fr": "Cliquer sur 'Supprimer mon compte'",
-        "domains": [
-            "wizbii.com"
-        ]
+        "domains": ["wizbii.com"]
     },
     {
         "name": "WolframAlpha.com",
