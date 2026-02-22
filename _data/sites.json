@@ -9248,9 +9248,7 @@
         "notes": "Send an email to support requesting the application of your GDPR rights.",
         "notes_fr": "Envoyez un mail au support demandant l'application de vos droits RGPD.",
         "email": "support-candidat@hellowork.com",
-        "domains": [
-            "hellowork.com"
-        ]
+        "domains": ["hellowork.com"]
     },
     {
         "name": "HelpScout",
