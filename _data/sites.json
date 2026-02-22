@@ -20277,9 +20277,9 @@
     },
     {
         "name": "TeamSpeak",
-        "url": "https://support.teamspeak.com/hc/en-us/articles/4408933645201-I-can-t-find-the-option-to-delete-myTeamSpeak-account-How-do-I-do-this-",
-        "difficulty": "hard",
-        "notes": "You need to contact the support using their contact form.",
+        "url": "https://www.myteamspeak.com/my-account",
+        "difficulty": "medium",
+        "notes": "Go to myTeamSpeak ⮕ Login ⮕ Account ⮕ Manage Account. Click 'Request a key' and paste the code you received into your associated E-mail, then click 'Request account deletion'",
         "domains": [
             "teamspeak.com",
             "support.teamspeak.com",
