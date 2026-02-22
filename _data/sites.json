@@ -9242,6 +9242,15 @@
         ]
     },
     {
+        "name": "Hellowork",
+        "url": "https://hellowork-candidat.zendesk.com/hc/fr/articles/31676433229457-RGPD-comment-exercer-mes-droits",
+        "difficulty": "hard",
+        "notes": "Send an email to support requesting the application of your GDPR rights.",
+        "notes_fr": "Envoyez un mail au support demandant l'application de vos droits RGPD.",
+        "email": "support-candidat@hellowork.com",
+        "domains": ["hellowork.com"]
+    },
+    {
         "name": "HelpScout",
         "url": "https://docs.helpscout.com/article/473-cancel-your-help-scout-account",
         "difficulty": "easy",
