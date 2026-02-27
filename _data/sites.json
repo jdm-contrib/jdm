@@ -22752,6 +22752,13 @@
         "domains": ["whirlpool.net.au"]
     },
     {
+        "name": "Whitepages",
+        "url": "https://www.whitepages.com/account/settings#profile",
+        "difficulty": "hard",
+        "notes": "You must call customer service to have your account deleted. The most up-to-date phone number can be found at the bottom of the linked page, then dial 1 and 2 when prompted. You only need to provide your email address.",
+        "domains": ["www.whitepages.com"]
+    },
+    {
         "name": "Whizlabs",
         "url": "https://www.whizlabs.com/contact-us/",
         "difficulty": "hard",
