@@ -7038,9 +7038,9 @@
     },
     {
         "name": "Fiverr",
-        "url": "https://www.fiverr.com/support_tickets/account-and-security/data-and-privacy/remove-personal-data",
-        "difficulty": "easy",
-        "notes": "Log-in, go to the link and make the request to **deactivate account**",
+        "url": "https://help.fiverr.com/hc/en-us/articles/37331887967761-How-to-deactivate-or-permanently-delete-your-account",
+        "difficulty": "hard",
+        "notes": "Follow the instructions on the link, you will first have to deactivate your account, then contact the support through the automated bot which requires you to login with the deactivated account.",
         "domains": ["fiverr.com"]
     },
     {
