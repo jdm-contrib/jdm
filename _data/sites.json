@@ -7040,7 +7040,7 @@
         "name": "Fiverr",
         "url": "https://help.fiverr.com/hc/en-us/articles/37331887967761-How-to-deactivate-or-permanently-delete-your-account",
         "difficulty": "hard",
-        "notes": "Follow the instructions on the link, you will first have to deactivate your account, then contact the support through the automated bot which requires you to login with the deactivated account.",
+        "notes": "Follow the instructions on the link to first deactivate your account, you will then have to contact support and re-login through the automated bot to fully delete your account.",
         "domains": ["fiverr.com"]
     },
     {
