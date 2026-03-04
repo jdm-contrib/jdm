@@ -14986,6 +14986,17 @@
         "notes_es": "Debes contactar con el soporte de OneFootball a través de un correo electrónico.",
         "domains": ["onefootball.com"]
     },
+        {
+        "name": "OnePiece Liveaction 2",
+        "url": "https://one-piece-live-action-2-ep-1.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
+        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
+        "notes_it": "Vai su 'Profilo', 'Impostazioni', clicca 'Elimina account' e conferma.",
+        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
+        "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
+        "domains": ["one-piece-live-action-2-ep-1.raiselysite.com"]
+    },
     {
         "name": "OnePlus",
         "url": "https://www.oneplus.com/global/customer/info#",
@@ -15060,17 +15071,6 @@
         "notes_ca": "Pot desactivar el seu compte amb l'enllaç. Però les dades no poden ser esborrades. Encara que contacti amb Atenció al client no esborraran les seves dades.",
         "notes_es": "Puedes desactivar tu cuenta con el enlace. Pero los datos no pueden ser borrados, aunque contacta con atención al cliente no borrarán sus datos.",
         "domains": ["onlinetvrecorder.com"]
-    },
-    {
-        "name": "One Piece Liveaction 2",
-        "url": "https://one-piece-live-action-2-ep-1.raiselysite.com/",
-        "difficulty": "easy",
-        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
-        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
-        "notes_it": "Vai su 'Profilo', 'Impostazioni', clicca 'Elimina account' e conferma.",
-        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
-        "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
-        "domains": ["one-piece-live-action-2-ep-1.raiselysite.com"]
     },
     {
         "meta": "popular",
