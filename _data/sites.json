@@ -14987,6 +14987,17 @@
         "domains": ["onefootball.com"]
     },
     {
+        "name": "OnePiece Liveaction 2",
+        "url": "https://one-piece-live-action-2-ep-1.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
+        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
+        "notes_it": "Vai su 'Profilo', 'Impostazioni', clicca 'Elimina account' e conferma.",
+        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
+        "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
+        "domains": ["one-piece-live-action-2-ep-1.raiselysite.com"]
+    },
+    {
         "name": "OnePlus",
         "url": "https://www.oneplus.com/global/customer/info#",
         "difficulty": "medium",
