@@ -9500,6 +9500,14 @@
         ]
     },
     {
+        "name": "The Home Depot",
+        "url": "https://www.homedepot.com/myaccount/profile/closeAccount",
+        "difficulty": "easy",
+        "notes": "Visit the account closure page, select a reason for closing your account, check the box stating that you read the details, then click 'Close Account'.",
+        "notes_es": "Visite la página de cierre de cuenta, seleccione un motivo para cerrar su cuenta, marque la casilla que indica que leyó los detalles y luego haga clic en 'Close Account'.",
+        "domains": ["homedepot.com"]
+    },
+    {
         "name": "The Home Depot México",
         "url": "https://www.homedepot.com.mx/ayuda-configuracion-cuenta#:~:text=a%20tu%20correo.-,Pasos%20para%20eliminar%20tu%20cuenta%20de%20The%20Home%20Depot%20M%C3%A9xico,-Para%20eliminar%20tu",
         "difficulty": "hard",
