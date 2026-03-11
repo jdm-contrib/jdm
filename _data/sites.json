@@ -17713,6 +17713,13 @@
         ]
     },
     {
+        "name": "Rogue Fitness",
+        "url": "https://www.roguefitness.com/privacy-policy",
+        "difficulty": "medium",
+        "notes": "You can find the contact email for account deletion (as of March 2026 it is privacy@roguefitness.com) in the 'YOUR RIGHTS OVER YOUR INFORMATION' section of the privacy policy. ",
+        "domains": ["roguefitness.com"]
+    },
+    {
         "name": "Roku",
         "url": "https://my.roku.com/account/close",
         "difficulty": "medium",
