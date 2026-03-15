@@ -16920,6 +16920,14 @@
         "domains": ["quanticfoundry.com"]
     },
     {
+        "name": "QuickSEO",
+        "url": "https://quickseo.ai/docs/delete-account",
+        "difficulty": "hard",
+        "notes": "You need to email support to request account deletion.",
+        "email": "support@quickseo.ai",
+        "domains": ["quickseo.ai"]
+    },
+    {
         "name": "QuillBot",
         "url": "https://help.quillbot.com/hc/en-us/requests/new?ticket_form_id=13656193734039",
         "difficulty": "hard",
