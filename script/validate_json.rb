@@ -25,6 +25,7 @@ SupportedDifficulties = ["easy", "medium", "hard", "limited", "impossible"]
 SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = [
     "about",
+    "androidapp",
     "contribute",
     "defaultnote_easy",
     "defaultnote_email",
