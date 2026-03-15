@@ -306,12 +306,6 @@
         "domains": ["ableton.com"]
     },
     {
-        "name": "Abload",
-        "url": "https://abload.de/settings.php",
-        "difficulty": "easy",
-        "domains": ["abload.de"]
-    },
-    {
         "name": "About you",
         "url": "https://www.aboutyou.it/h/il-mio-account/q-360014814179",
         "difficulty": "hard",
