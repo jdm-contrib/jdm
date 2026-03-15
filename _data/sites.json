@@ -18443,6 +18443,13 @@
         "domains": ["shorte.st"]
     },
     {
+        "name": "Shotbow",
+        "url": "https://shotbow.net/forum/contact",
+        "difficulty": "easy",
+        "notes": "Select \"Account Deletion Request\" in the subject dropdown",
+        "domains": ["shotbow.net"]
+    },
+    {
         "name": "Shotgun.live",
         "url": "https://support.shotgun.live/hc/en-us/articles/360016912580--I-want-to-delete-my-account-",
         "difficulty": "medium",
