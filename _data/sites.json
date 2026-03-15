@@ -274,11 +274,17 @@
     },
     {
         "name": "Abacashi",
-        "url": "https://abacashi.com/contact",
+        "url": "https://abacashi.com",
         "difficulty": "hard",
         "email": "contato@abacashi.com",
-        "notes": "Either use the contact form or e-mail them directly asking for the account to be deleted",
-        "notes_ru": "Используйте контактную форму, или отправьте электронное письмо напрямую с просьбой удалить учетную запись.",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["abacashi.com"]
     },
     {
