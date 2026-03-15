@@ -23647,6 +23647,13 @@
         "domains": ["youlookfab.com"]
     },
     {
+        "name": "YouNow",
+        "url": "https://www.younow.com/settings/privacy",
+        "difficulty": "easy",
+        "notes": "Press \"Deactivate my account\"",
+        "domains": ["younow.com"]
+    },
+    {
         "name": "YouSee.dk",
         "url": "https://etray.yousee.dk/Privat/N/Portal/Master.html?token=Jhzav0yLEx1=1x/hWwg2lMi0OYiUyMQ4HsKy",
         "difficulty": "hard",
