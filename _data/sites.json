@@ -17716,7 +17716,7 @@
         "name": "Rogue Fitness",
         "url": "https://www.roguefitness.com/privacy-policy",
         "difficulty": "medium",
-        "notes": "You can find the contact email for account deletion (as of March 2026 it is privacy@roguefitness.com) in the 'YOUR RIGHTS OVER YOUR INFORMATION' section of the privacy policy. ",
+        "notes": "You can find the contact email for account deletion.",
         "domains": ["roguefitness.com"]
     },
     {
@@ -20668,12 +20668,12 @@
         "name": "Ticketmaster",
         "url": "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/968ed217-e724-4a6b-8bc0-7cb2a2c10c47",
         "difficulty": "hard",
-        "notes": "You must submit a request to close your account via the form. The link can be found under 'Your Choices and Rights' > '2. Your Rights'",
-        "notes_tr": "Form aracılığıyla hesabınızı kapatmak için bir istek göndermelisiniz. Bağlantı 'Your Choices and Rights' > '2. Your Rights' altında bulunabilir",
-        "notes_it": "Devi inviare una richiesta attraverso il form per chiudere il tuo account. Il link si trova in 'Your Choices and Rights' > '2. Your Rights'",
-        "notes_pt-BR": "Você deve enviar um pedido para fechar sua conta pelo formulário. O link pode ser encontrado em 'Your Choices and Rights' > '2. Your Rights'",
-        "notes_ca": "Haurà de sol·licitar que esborrin el seu compte via formulari. El enllaç es pot trobar a 'Your Choices and Rights' > '2. Your Rights'",
-        "notes_es": "Deberás solicitar que borren tu cuenta vía formulario. Puedes encontrar el enlace en 'Your Choices and Rights' > '2. Your Rights'",
+        "notes": "You must submit a request to close your account via the form. The link can be found under 'Your Choices and Rights' ⮕ '2. Your Rights'",
+        "notes_tr": "Form aracılığıyla hesabınızı kapatmak için bir istek göndermelisiniz. Bağlantı 'Your Choices and Rights' ⮕ '2. Your Rights' altında bulunabilir",
+        "notes_it": "Devi inviare una richiesta attraverso il form per chiudere il tuo account. Il link si trova in 'Your Choices and Rights' ⮕ '2. Your Rights'",
+        "notes_pt-BR": "Você deve enviar um pedido para fechar sua conta pelo formulário. O link pode ser encontrado em 'Your Choices and Rights' ⮕ '2. Your Rights'",
+        "notes_ca": "Haurà de sol·licitar que esborrin el seu compte via formulari. El enllaç es pot trobar a 'Your Choices and Rights' ⮕ '2. Your Rights'",
+        "notes_es": "Deberás solicitar que borren tu cuenta vía formulario. Puedes encontrar el enlace en 'Your Choices and Rights' ⮕ '2. Your Rights'",
         "domains": ["ticketmaster.com"]
     },
     {
