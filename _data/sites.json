@@ -15,17 +15,6 @@
         ]
     },
     {
-        "name": "123hdd",
-        "url": "https://one-two-three-hdd.raiselysite.com/",
-        "difficulty": "easy",
-        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
-        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
-        "notes_it": "Vai su 'Profilo', 'Impostazioni', clicca 'Elimina account' e conferma.",
-        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
-        "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
-        "domains": ["one-two-three-hdd.raiselysite.com"]
-    },
-    {
         "name": "123RF",
         "url": "https://www.123rf.com/support/support-answer.php?id=8817",
         "difficulty": "hard",
@@ -128,13 +117,6 @@
         "email_subject": "Delete my account",
         "email_body": "Please delete my account permanently because I don’t want to use the 1xBet services any further. Thank you. Username: XXX Email: XXX",
         "domains": ["1xbet.com"]
-    },
-    {
-        "name": "24hd",
-        "url": "https://24hd.raiselysite.com/",
-        "difficulty": "easy",
-        "notes": "In your profile, there is a 'Delete Account' link. Clicking this will permanently delete all personal information from your user profile and deactivate your account. Your username cannot be used again by you or anyone else",
-        "domains": ["24hd.raiselysite.com"]
     },
     {
         "name": "280daily",
@@ -265,7 +247,7 @@
     },
     {
         "name": "99designs",
-        "url": "https://support.99designs.com/hc/en-us/articles/204108919-How-do-I-delete-my-account-",
+        "url": "https://support.99designs.com/hc/en-us/articles/27848116950036-How-do-I-delete-my-account",
         "difficulty": "hard",
         "notes": "Have to contact them, they will only ask for confirmation",
         "notes_ru": "Свяжитесь с ними, они только попроят подтверждения.",
@@ -291,10 +273,10 @@
         "domains": ["9gag.com"]
     },
     {
-        "name": "A1Office",
-        "url": "https://a1office.co/support/",
+        "name": "Abacashi",
+        "url": "https://abacashi.com",
         "difficulty": "hard",
-        "email": "connect@a1office.co",
+        "email": "contato@abacashi.com",
         "notes": "Account deletion requires contacting Customer Support.",
         "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "notes_fr": "Pour supprimer votre compte contactez le support.",
@@ -303,15 +285,6 @@
         "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
         "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "domains": ["a1office.co"]
-    },
-    {
-        "name": "Abacashi",
-        "url": "https://abacashi.com/contact",
-        "difficulty": "hard",
-        "email": "contato@abacashi.com",
-        "notes": "Either use the contact form or e-mail them directly asking for the account to be deleted",
-        "notes_ru": "Используйте контактную форму, или отправьте электронное письмо напрямую с просьбой удалить учетную запись.",
         "domains": ["abacashi.com"]
     },
     {
@@ -331,12 +304,6 @@
         "notes": "Account deletion requires contacting Customer Support.",
         "notes_fr": "La suppression du compte nécessite de rentrer en contact avec le service client",
         "domains": ["ableton.com"]
-    },
-    {
-        "name": "Abload",
-        "url": "https://abload.de/settings.php",
-        "difficulty": "easy",
-        "domains": ["abload.de"]
     },
     {
         "name": "About you",
@@ -698,7 +665,7 @@
     },
     {
         "name": "AI Flux Krea Image Generator",
-        "url": "https://aifluxkrea.com/",
+        "url": "https://aifluxkrea.com/privacy",
         "notes": "Send an email requesting account deletion and wait a few days for processing.",
         "difficulty": "hard",
         "email": "hi@aifluxkrea.com",
@@ -715,7 +682,7 @@
     },
     {
         "name": "AI Image to Image Generator",
-        "url": "https://imgtoimggenerator.com/",
+        "url": "https://imgtoimggenerator.com/privacy",
         "notes": "You have two options: 1) Download the [iOS](https://apps.apple.com/app/6747765678) and delete account within the app, or 2) Email requesting account deletion and wait a few days for processing.",
         "difficulty": "medium",
         "email": "hi@imgtoimggenerator.com",
@@ -14987,17 +14954,6 @@
         "domains": ["onefootball.com"]
     },
     {
-        "name": "OnePiece Liveaction 2",
-        "url": "https://one-piece-live-action-2-ep-1.raiselysite.com/",
-        "difficulty": "easy",
-        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
-        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
-        "notes_it": "Vai su 'Profilo', 'Impostazioni', clicca 'Elimina account' e conferma.",
-        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
-        "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
-        "domains": ["one-piece-live-action-2-ep-1.raiselysite.com"]
-    },
-    {
         "name": "OnePlus",
         "url": "https://www.oneplus.com/global/customer/info#",
         "difficulty": "medium",
@@ -18226,13 +18182,6 @@
         "domains": ["sentry.io"]
     },
     {
-        "name": "Serie day",
-        "url": "https://series-day.raiselysite.com/",
-        "difficulty": "easy",
-        "notes": "In your profile preferences, click in 'Delete Account' then confirm.",
-        "domains": ["series-day.raiselysite.com"]
-    },
-    {
         "name": "Serpstat",
         "url": "https://serpstat.com/users/profile/",
         "difficulty": "medium",
@@ -18441,6 +18390,13 @@
         "notes_tr": "Hesabınıza giriş yapın, verilen hesap silme bağlantısına gidin, e-posta ile alınan onay bağlantısına tıklayın ve \"Hesabı Kaldır\" seçeneğini seçin. Not: Oluşturduğunuz bağlantılar çalışmaya devam edecek ve aynı e-postayı yeni bir hesap oluşturmak için kullanamayacaksınız. Bu nedenle, önce oluşturduğunuz tüm bağlantıları manuel olarak silmeyi unutmayın.",
         "notes_pt-BR": "Entre na sua conta, acesse o link de exclusão especificado acima, acesse o link de confirmação recebido por email e selecione 'Remove Account'. Nota: Os links criados irão continuar funcionando e você não poderá usar o mesmo email para criar uma nova conta. Então lembre-se de primeiro apagar manualmente todos os seus links criados.",
         "domains": ["shorte.st"]
+    },
+    {
+        "name": "Shotbow",
+        "url": "https://shotbow.net/forum/contact",
+        "difficulty": "easy",
+        "notes": "Select \"Account Deletion Request\" in the subject dropdown",
+        "domains": ["shotbow.net"]
     },
     {
         "name": "Shotgun.live",
@@ -21353,13 +21309,6 @@
         "domains": ["https://tvtropes.org/"]
     },
     {
-        "name": "TVMon",
-        "url": "https://tvmonkorea.raiselysite.com/",
-        "difficulty": "easy",
-        "notes": "In your profile, there is a 'Delete Account' link. Clicking this will permanently delete all personal information from your user profile and deactivate your account. Your username cannot be used again by you or anyone else",
-        "domains": ["tvmonkorea.raiselysite.com"]
-    },
-    {
         "name": "Tweek",
         "url": "https://tweek.so/calendar/help",
         "difficulty": "easy",
@@ -21592,14 +21541,6 @@
             "nonsa.pl",
             "nonciclopedia.org"
         ]
-    },
-    {
-        "name": "The undertaker 2",
-        "url": "https://theundertaker2.raiselysite.com/",
-        "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "email": "admin@raiselysite.com",
-        "domains": ["theundertaker2.raiselysite.com"]
     },
     {
         "name": "Unfuddle Ten",
@@ -23645,6 +23586,13 @@
         "difficulty": "easy",
         "notes": "Login ⮕ Profile Dropdown ⮕ Profile ⮕ Account ⮕ Delete Your Account",
         "domains": ["youlookfab.com"]
+    },
+    {
+        "name": "YouNow",
+        "url": "https://www.younow.com/settings/privacy",
+        "difficulty": "easy",
+        "notes": "Press \"Deactivate my account\"",
+        "domains": ["younow.com"]
     },
     {
         "name": "YouSee.dk",
