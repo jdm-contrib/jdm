@@ -15929,6 +15929,16 @@
         "domains": ["piazza.com"]
     },
     {
+        "name": "Pick Me Pick Me",
+        "url": "https://www.pickmepickme.ai/delete-game-account.html",
+        "difficulty": "hard",
+        "notes": "You need to send an email to delete your account. Include your game ID, device model, and Region or Country.",
+        "email": "pickmepickme@optillusion.games",
+        "domains": [
+            "pickmepickme.ai"
+        ]
+    },
+    {
         "name": "picoCTF",
         "url": "https://play.picoctf.org/account",
         "difficulty": "easy",
