@@ -58,5 +58,7 @@
         <a class="button" href="https://twitter.com/intent/tweet?text={{ site.data.trans[page.lang].title | replace: ' ', '+' | replace: '|', '-'}}+https%3A%2F%2Fjustdeleteme.xyz">{{ site.data.trans.[page.lang].twitter }}</a>
 
         <a class="button jgmd" href="https://justgetmydata.com{%if page.lang != 'en'%}/{{page.lang}}{% endif %} "> {{site.data.trans[page.lang].jgmd }}</a>
+
+        <a class="button" href="https://f-droid.org/{{ page.lang | replace: '-', '_' }}/packages/com.amanoteam.kurt">{{ site.data.trans[page.lang].androidapp }}</a>
     </p>
 </header>
