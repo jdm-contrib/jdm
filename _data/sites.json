@@ -15934,9 +15934,7 @@
         "difficulty": "hard",
         "notes": "You need to send an email to delete your account. Include your game ID, device model, and Region or Country.",
         "email": "pickmepickme@optillusion.games",
-        "domains": [
-            "pickmepickme.ai"
-        ]
+        "domains": ["pickmepickme.ai"]
     },
     {
         "name": "picoCTF",
