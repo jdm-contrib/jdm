@@ -7182,6 +7182,13 @@
         "domains": ["fluidui.com"]
     },
     {
+        "name": "Fluxer",
+        "url": "https://help.fluxer.app/en/articles/13984865-how-to-delete-or-disable-your-account",
+        "difficulty": "easy",
+        "notes": "Log in at web.fluxer.app/login. Open Settings (cogwheel, bottom left). Go to Security & Login. Choose Delete account.",
+        "domains": ["fluxer.app"]
+    },
+    {
         "name": "Fly.io",
         "url": "https://fly.io/user/deactivate",
         "difficulty": "medium",
