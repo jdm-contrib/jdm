@@ -17715,7 +17715,7 @@
     {
         "name": "Rogue Fitness",
         "url": "https://www.roguefitness.com/privacy-policy",
-        "difficulty": "medium",
+        "difficulty": "hard",
         "notes": "You can find the contact email for account deletion.",
         "email": "privacy@roguefitness.com",
         "domains": ["roguefitness.com"]
