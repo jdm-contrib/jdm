@@ -9467,6 +9467,14 @@
         ]
     },
     {
+        "name": "The Home Depot",
+        "url": "https://www.homedepot.com/myaccount/profile/closeAccount",
+        "difficulty": "easy",
+        "notes": "Visit the account closure page, select a reason for closing your account, check the box stating that you read the details, then click 'Close Account'.",
+        "notes_es": "Visite la página de cierre de cuenta, seleccione un motivo para cerrar su cuenta, marque la casilla que indica que leyó los detalles y luego haga clic en 'Close Account'.",
+        "domains": ["homedepot.com"]
+    },
+    {
         "name": "The Home Depot México",
         "url": "https://www.homedepot.com.mx/ayuda-configuracion-cuenta#:~:text=a%20tu%20correo.-,Pasos%20para%20eliminar%20tu%20cuenta%20de%20The%20Home%20Depot%20M%C3%A9xico,-Para%20eliminar%20tu",
         "difficulty": "hard",
@@ -17677,6 +17685,14 @@
         ]
     },
     {
+        "name": "Rogue Fitness",
+        "url": "https://www.roguefitness.com/privacy-policy",
+        "difficulty": "hard",
+        "notes": "You can find the contact email for account deletion.",
+        "email": "privacy@roguefitness.com",
+        "domains": ["roguefitness.com"]
+    },
+    {
         "name": "Roku",
         "url": "https://my.roku.com/account/close",
         "difficulty": "medium",
@@ -20625,12 +20641,12 @@
         "name": "Ticketmaster",
         "url": "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/968ed217-e724-4a6b-8bc0-7cb2a2c10c47",
         "difficulty": "hard",
-        "notes": "You must submit a request to close your account via the form.",
-        "notes_tr": "Form aracılığıyla hesabınızı kapatmak için bir istek göndermelisiniz.",
-        "notes_it": "Devi inviare una richiesta attraverso il form per chiudere il tuo account.",
-        "notes_pt-BR": "Você deve enviar um pedido para fechar sua conta pelo formulário.",
-        "notes_ca": "Haurà de sol·licitar que esborrin el seu compte via formulari.",
-        "notes_es": "Deberás solicitar que borren tu cuenta vía formulario.",
+        "notes": "You must submit a request to close your account via the form. The link can be found under 'Your Choices and Rights' ⮕ '2. Your Rights'",
+        "notes_tr": "Form aracılığıyla hesabınızı kapatmak için bir istek göndermelisiniz. Bağlantı 'Your Choices and Rights' ⮕ '2. Your Rights' altında bulunabilir",
+        "notes_it": "Devi inviare una richiesta attraverso il form per chiudere il tuo account. Il link si trova in 'Your Choices and Rights' ⮕ '2. Your Rights'",
+        "notes_pt-BR": "Você deve enviar um pedido para fechar sua conta pelo formulário. O link pode ser encontrado em 'Your Choices and Rights' ⮕ '2. Your Rights'",
+        "notes_ca": "Haurà de sol·licitar que esborrin el seu compte via formulari. El enllaç es pot trobar a 'Your Choices and Rights' ⮕ '2. Your Rights'",
+        "notes_es": "Deberás solicitar que borren tu cuenta vía formulario. Puedes encontrar el enlace en 'Your Choices and Rights' ⮕ '2. Your Rights'",
         "domains": ["ticketmaster.com"]
     },
     {
