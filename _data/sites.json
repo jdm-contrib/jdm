@@ -16526,6 +16526,27 @@
         "domains": ["premiumize.me"]
     },
     {
+        "name": "PrepMyFuture",
+        "url": "https://www.prepmyfuture.com/en/policies/privacy-policy",
+        "url_fr": "https://www.prepmyfuture.com/policies/privacy-policy",
+        "url_it": "https://www.prepmyfuture.com/it/policies/privacy-policy",
+        "url_es": "https://www.prepmyfuture.com/es/policies/privacy-policy",
+        "difficulty": "hard",
+        "email": "tools@prepmyfuture.com",
+        "email_subject": "Account deletion request",
+        "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "domains": ["prepmyfuture.com"]
+    },
+    {
         "name": "Presearch",
         "url": "https://account.presearch.com/privacy-policy",
         "email": "privacy@presearch.io",
