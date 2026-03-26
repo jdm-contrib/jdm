@@ -4770,6 +4770,21 @@
             "sso.cubie.com.br"
         ]
     },
+    {   
+        "name": "Cutls3d",
+        "url": "https://cults3d.com/en/account/edit",
+        "difficulty": "easy",
+        "url_fr": "https://cults3d.com/fr/compte/modifier",
+        "url_it": "https://cults3d.com/it/account/modifica",
+        "url_pt-BR": "https://cults3d.com/pt/conta/editar",
+        "url_es": "https://cults3d.com/es/cuenta/editar",
+        "url_de": "https://cults3d.com/de/konto/bearbeiten",
+        "url_tr": "https://cults3d.com/tr/hesap/d%C3%BCzenle",
+        "url_ru": "https://cults3d.com/ru/s%C4%8Det/redaktirovat",
+        "notes": "Go to your profile, Settings, Account then all the way down 'Destroy my Cults account completely'",
+        "notes_fr": "Sur le profil, Paramètres, Compte, tout en bas cliquer sur 'Supprimer mon compte'", 
+        "domains": ["https://cults3d.com"]
+    },
     {
         "name": "Cultura",
         "url": "https://mesdroits.my.onetrust.com/webform/657f7c55-2752-4af4-b8a2-0c1c352400a9/1a5e60f4-9b49-4948-b10a-247d726aa821",
