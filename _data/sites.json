@@ -15043,6 +15043,15 @@
         "domains": ["onlinetvrecorder.com"]
     },
     {
+        "meta": "popular",
+        "name": "OnlyFans",
+        "url": "https://onlyfans.com/my/settings/advanced",
+        "difficulty": "easy",
+        "notes": "On settings tab, select the option 'Delete Account' and enter the captcha. After that, you'll receive an e-mail with the confirmation.",
+        "notes_pt-BR": "Na aba de configurações, selecione a opção 'Delete Account' e digite o captcha. Após isso, você receberá um e-mail com a confirmação da exclusão.",
+        "domains": ["onlyfans.com"]
+    },
+    {
         "name": "OuiHeberg",
         "url": "https://www.ouiheberg.com/en/policy",
         "url_fr": "https://www.ouiheberg.com/fr/politique",
@@ -15060,15 +15069,6 @@
         "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
         "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": ["ouiheberg.com"]
-    },
-    {
-        "meta": "popular",
-        "name": "OnlyFans",
-        "url": "https://onlyfans.com/my/settings/advanced",
-        "difficulty": "easy",
-        "notes": "On settings tab, select the option 'Delete Account' and enter the captcha. After that, you'll receive an e-mail with the confirmation.",
-        "notes_pt-BR": "Na aba de configurações, selecione a opção 'Delete Account' e digite o captcha. Após isso, você receberá um e-mail com a confirmação da exclusão.",
-        "domains": ["onlyfans.com"]
     },
     {
         "name": "Onshape",
