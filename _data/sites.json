@@ -4770,7 +4770,7 @@
             "sso.cubie.com.br"
         ]
     },
-    {   
+    {
         "name": "Cults3d",
         "url": "https://cults3d.com/en/account/edit",
         "difficulty": "easy",
@@ -4782,7 +4782,7 @@
         "url_tr": "https://cults3d.com/tr/hesap/d%C3%BCzenle",
         "url_ru": "https://cults3d.com/ru/s%C4%8Det/redaktirovat",
         "notes": "Go to your profile, Settings, Account then all the way down 'Destroy my Cults account completely'",
-        "notes_fr": "Sur le profil, Paramètres, Compte, tout en bas cliquer sur 'Supprimer mon compte'", 
+        "notes_fr": "Sur le profil, Paramètres, Compte, tout en bas cliquer sur 'Supprimer mon compte'",
         "domains": ["https://cults3d.com"]
     },
     {
