@@ -1601,6 +1601,14 @@
         "domains": ["argos.co.uk"]
     },
     {
+        "name": "Arkea recrutement",
+        "url": "https://www.recrutement.arkea.com/mon-compte/mon-espace.aspx",
+        "difficulty": "easy",
+        "notes": "On your profile, delete my account, confirm",
+        "notes_fr": "Sur votre espace candidat, supprimer mon compte, confirmer",
+        "domains": ["recrutement.arkea.com"]
+    },
+    {
         "name": "Arlo",
         "url": "https://my.arlo.com/#/settings/privacy/delete-account",
         "difficulty": "medium",
