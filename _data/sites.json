@@ -20919,7 +20919,7 @@
         "email": "privacy@toptal.com",
         "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account. My registered email address is: XXXXXX",
-        "notes": "Send your deletion request from the email address tied to your account to privacy@toptal.com.",
+        "notes": "Send your deletion request from the email address tied to your account to them.",
         "domains": [ "toptal.com" ]
     },
     {
