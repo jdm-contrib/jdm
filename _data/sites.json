@@ -18620,7 +18620,7 @@
         "email_subject": "Account Deletion Request - KrisFlyer",
         "email_body": "Dear Singapore Airlines,\n\nI would like to request the deletion of my KrisFlyer account. I acknowledge that any outstanding KrisFlyer miles, status credits, rewards, benefits and privileges will be forfeited.\n\nMy registered email address is: XXXXXX\nNumber of Redemption Group Nominees (RGN): [NUMBER OR 0]\n\nPlease confirm once my account has been deleted.",
         "notes": "You must contact customer service from your registered email. You will need to provide the number of Redemption Group Nominees (RGN) in your account. All miles and benefits will be forfeited upon deletion.",
-        "domains": ["singaporeair.com" ]
+        "domains": ["singaporeair.com"]
     },
     {
         "name": "SitePoint",
@@ -20920,7 +20920,7 @@
         "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account. My registered email address is: XXXXXX",
         "notes": "Send your deletion request from the email address tied to your account to them.",
-        "domains": [ "toptal.com" ]
+        "domains": ["toptal.com"]
     },
     {
         "name": "Tor Project",
