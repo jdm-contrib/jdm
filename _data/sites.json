@@ -4216,6 +4216,28 @@
         "domains": ["coderwall.com"]
     },
     {
+        "name": "Codes Rousseau",
+        "url": "https://public.codesrousseau.fr/notre-politique-de-confidentialite/",
+        "difficulty": "hard",
+        "email": "contact@codes-rousseau.fr",
+        "email_subject": "Account deletion request",
+        "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "domains": [
+            "public.codesrousseau.fr",
+            "easysysteme.fr",
+            "eleve.codesrousseau.fr"
+        ]
+    },
+    {
         "name": "CodeSignal",
         "url": "https://app.codesignal.com/account/username-password",
         "difficulty": "easy",
