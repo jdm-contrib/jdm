@@ -21945,6 +21945,17 @@
         "domains": ["vans.com"]
     },
     {
+        "name": "Variantes",
+        "url": "https://www.variantes.com/content/10-donnees-personnelles",
+        "difficulty": "hard",
+        "email": "contact@variantes.com",
+        "email_subject": "Demande de suppression de compte",
+        "email_body": "Bonjour, Je souhaiterai faire valoir mes droits et faire supprimer mon compte XXX",
+        "notes": "Contact support via email and request your account to be deleted.",
+        "notes_fr": "Contactez le support par mail pour faire supprimer votre compte",
+        "domains": ["variantes.com"]
+    },
+    {
         "name": "VCRDB / Valorant Crosshair Database",
         "url": "https://www.vcrdb.net/profile",
         "difficulty": "medium",
