@@ -5204,6 +5204,17 @@
         "domains": ["devpost.com"]
     },
     {
+        "name": "DFCG",
+        "url": "https://www.dfcg.fr/politique-de-confidentialite/",
+        "difficulty": "hard",
+        "email": "siege@dfcg.asso.fr",
+        "email_subject": "Account deletion request",
+        "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
+        "notes": "Contact support via email to request your account to be deleted.",
+        "notes_fr": "Contactez le support par par mail pour faire supprimer votre compte",
+        "domains": ["www.dfcg.fr"]
+    },
+    {
         "name": "DHL",
         "url": "https://www.dhl.de/de/privatkunden/kundenkonto/meine-daten.html",
         "difficulty": "easy",
