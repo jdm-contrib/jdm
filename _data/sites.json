@@ -5584,10 +5584,18 @@
     {
         "name": "Doctolib",
         "url": "https://www.doctolib.de/account/edit",
+        "url_fr": "https://www.doctolib.fr/account/edit",
+        "url_de": "https://www.doctolib.de/account/edit",
+        "url_it": "https://www.doctolib.it/account/edit",
         "notes": "Scroll down to the bottom of the page and click on 'Delete my account'.",
         "notes_de": "Scrollen sie auf der Seite nach unten und klicken Sie auf 'Mein Konto löschen'.",
+        "notes_fr": "Sur votre compte, scrollez jusqu'en bas de la page et cliquez sur 'Supprimer mon compte'.",
         "difficulty": "easy",
-        "domains": ["doctolib.de"]
+        "domains": [
+            "doctolib.de",
+            "doctolib.fr",
+            "doctolib.it"
+        ]
     },
     {
         "name": "DocuSign",
