@@ -4783,7 +4783,7 @@
         "url_ru": "https://cults3d.com/ru/s%C4%8Det/redaktirovat",
         "notes": "Go to your profile, Settings, Account then all the way down 'Destroy my Cults account completely'",
         "notes_fr": "Sur le profil, Paramètres, Compte, tout en bas cliquer sur 'Supprimer mon compte'",
-        "domains": ["https://cults3d.com"]
+        "domains": ["cults3d.com"]
     },
     {
         "name": "Cultura",
