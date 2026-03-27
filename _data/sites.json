@@ -11104,7 +11104,7 @@
         "name": "Klaxoon",
         "url": "https://app.klaxoon.com/userspace/home",
         "difficulty": "medium",
-        "notes": "Go to your profile, account, delete my account. Then confirm by clicking the liknk sent by email",
+        "notes": "Go to your profile, account, delete my account. Then confirm by clicking the link sent by email",
         "notes_fr": "Allez sur votre profil, compte, supprimer mon compte. Puis conformer en cliquant sur le lien envoyé par mail",
         "domains": ["app.klaxoon.com"]
     },
