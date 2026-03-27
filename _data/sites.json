@@ -20587,6 +20587,21 @@
         "domains": ["teuxdeux.com"]
     },
     {
+        "name": "Texas Instruments (TI)",
+        "url": "www.ti.com/feedbackform/home",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support through their contact form.",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "notes_fr": "Pour supprimer votre compte contactez le support à travers le formulaire de contact.",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "domains": ["ti.com"]
+    },
+    {
         "name": "Text.ru",
         "url": "https://text.ru/user/profile/settings/secure",
         "difficulty": "easy",
