@@ -21696,10 +21696,7 @@
         "url_fr": "https://fr.ulule.com",
         "notes": "Click in your profile picture, Settings, then all the way down 'Delete my account', enter your password to confirm",
         "notes_fr": "Cliquer sur le profil, Paramètres, tout en bas cliquer sur 'Supprimer mon compte', entrez votre mot de passe pour confirmer",
-        "domains": [
-            "www.ulule.com",
-            "fr.ulule.com"
-        ]
+        "domains": ["ulule.com"]
     },
     {
         "name": "umami",
