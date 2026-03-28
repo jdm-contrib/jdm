@@ -5212,7 +5212,7 @@
         "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
         "notes": "Contact support via email to request your account to be deleted.",
         "notes_fr": "Contactez le support par par mail pour faire supprimer votre compte",
-        "domains": ["www.dfcg.fr"]
+        "domains": ["dfcg.fr"]
     },
     {
         "name": "DHL",
