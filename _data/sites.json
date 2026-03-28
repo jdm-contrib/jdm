@@ -6202,6 +6202,26 @@
         ]
     },
     {
+        "name": "efinancialcareers",
+        "url": "https://www.efinancialcareers.com/myefc/account",
+        "url_fr": "https://www.efinancialcareers.fr/myefc/account",
+        "url_de": "https://www.efinancialcareers.de/myefc/account",
+        "url_ca": "https://www.efinancialcareers.ca/myefc/account",
+        "url_it": "https://www.efinancialcareers.it/myefc/account",
+        "url_nl": "https://www.efinancialcareers.nl/myefc/account",
+        "difficulty": "medium",
+        "notes": "Click on your profile, login settings, manage my account, select 'Delete my account', select a reason, confirm. You will then nedd to confirm by clicking a link in the email they sent you",
+        "notes_fr": "Cliquer sur votre profil, Paramètres de Connexion, Gérer mon compte, Sélectionner 'Supprimer mon compte', indiquer une raison, valider. Un mail vous sera envoyer, cliquer sur confirmer la suppression",
+        "domains": [
+            "efinancialcareers.com",
+            "efinancialcareers.fr",
+            "efinancialcareers.de",
+            "efinancialcareers.ca",
+            "efinancialcareers.it",
+            "efinancialcareers.nl"
+        ]
+    },
+    {
         "name": "Electroneum",
         "url": "https://support.electroneum.com/hc/en-gb/requests/new",
         "difficulty": "hard",
