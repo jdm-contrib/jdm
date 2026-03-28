@@ -6213,12 +6213,12 @@
         "notes": "Click on your profile, login settings, manage my account, select 'Delete my account', select a reason, confirm. You will then nedd to confirm by clicking a link in the email they sent you",
         "notes_fr": "Cliquer sur votre profil, Paramètres de Connexion, Gérer mon compte, Sélectionner 'Supprimer mon compte', indiquer une raison, valider. Un mail vous sera envoyer, cliquer sur confirmer la suppression",
         "domains": [
-            "www.efinancialcareers.com",
-            "www.efinancialcareers.fr",
-            "www.efinancialcareers.de",
-            "www.efinancialcareers.ca",
-            "www.efinancialcareers.it",
-            "www.efinancialcareers.nl"
+            "efinancialcareers.com",
+            "efinancialcareers.fr",
+            "efinancialcareers.de",
+            "efinancialcareers.ca",
+            "efinancialcareers.it",
+            "efinancialcareers.nl"
         ]
     },
     {
