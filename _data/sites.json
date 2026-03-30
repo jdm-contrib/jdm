@@ -14341,6 +14341,13 @@
         ]
     },
     {
+        "name": "Netus AI",
+        "url": "https://app.netus.ai/profile",
+        "difficulty": "easy",
+        "notes": "Log in to Netus AI and open the profile page via the URL or by clicking the avatar icon near the top right corner. Click on 'Delete Account'. You will be prompted to verify the request via an OTP sent to your email. After entering the correct OTP, click 'Delete Permanently' to permanently remove your account.",
+        "domains": ["netus.ai", "app.netus.ai"]
+    },
+    {
         "name": "Netvibes",
         "url": "https://www.netvibes.com/account/unsubscribe",
         "difficulty": "easy",
