@@ -7521,6 +7521,15 @@
         "domains": ["freedns.afraid.org"]
     },
     {
+        "name": "FreeHostingEU",
+        "url": "https://cp1.freehostingeu.com/account/#account-closure",
+        "difficulty": "easy",
+        "domains": [
+            "freehostingeu.com",
+            "cp1.freehostingeu.com"
+        ]
+    },
+    {
         "name": "Freejam",
         "url": "https://account.freejamgames.com/delete",
         "difficulty": "easy",
