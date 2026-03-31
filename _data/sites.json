@@ -9744,6 +9744,13 @@
         "domains": ["hrkgame.com"]
     },
     {
+        "name": "HS Ping",
+        "url": "https://app.hsping.com/settings",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Dashboard ⮕ Account ⮕ Settings ⮕ Danger Zone ⮕ Delete Account ⮕ Confirm Delete.",
+        "domains": ["hsping.com"]
+    },
+    {
         "name": "HTC",
         "url": "https://www.htc.com/us/terms/privacy",
         "difficulty": "hard",
