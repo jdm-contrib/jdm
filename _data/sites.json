@@ -5696,9 +5696,9 @@
     },
     {
         "name": "Dr. Martens",
-        "url": "https://www.drmartens.com/us/en/faq",
+        "url": "https://drmartens-privacy.my.onetrust.com/webform/96329145-6b18-4c1e-ba38-1fd083dd4e59/77c77c42-7fd2-4c45-9cee-242767264101",
         "difficulty": "hard",
-        "notes": "Send an email stating that you want them to close your account. Include: full name on account, full billing address and registered email address. Once they confirm deletion it may take 7-10 days to take effect.",
+        "notes": "Fill out relevant information, select \"delete\" under \"What type of request...\" and follow the verification link sent to your email after submitting.",
         "domains": ["drmartens.com"]
     },
     {
