@@ -4157,7 +4157,7 @@
         "name": "CodeChef",
         "url": "https://discuss.codechef.com/t/how-do-i-delete-a-codechef-account/30476",
         "difficulty": "easy",
-        "notes": "Navigate to the Privacy tab in your edit profile section. Scroll all the way down and click on \"I don’t want to continue with CodeChef\". Alternatively login to codechef and visit \"https://www.codechef.com/users/<username>/discontinue\", after substituting in your username.",
+        "notes": "Navigate to the Privacy tab in your edit profile section. Scroll all the way down and click on \"I don’t want to continue with CodeChef\". Alternatively login to codechef and visit \"https://www.codechef.com/users/&lt;username&gt;/discontinue\", after substituting in your username.",
         "notes_tr": "Profili düzenle menünüzden \"Gizlilik\" sekmesine gidin. Aşağı doğru kaydırın ve \"CodeChef ile devam etmek istemiyorum\" tuşuna tıklayın.",
         "domains": [
             "codechef.com",
@@ -13725,9 +13725,9 @@
         "name": "Mozilla Developer Network (MDN)",
         "url": "https://bugzilla.mozilla.org/enter_bug.cgi?product=developer.mozilla.org",
         "difficulty": "hard",
-        "notes": "Log in to Bugzilla and create a bug report to request the deletion of your account (see examples: [#1576401](https://bugzilla.mozilla.org/show_bug.cgi?id=1576401)and [#1353345](https://bugzilla.mozilla.org/show_bug.cgi?id=1353345)).</br></br>If you have made contributions to the MDN Web Docs, you will also need to specify what you would like to happen with them after deleting your account.",
+        "notes": "Log in to Bugzilla and create a bug report to request the deletion of your account (see examples: [#1576401](https://bugzilla.mozilla.org/show_bug.cgi?id=1576401)and [#1353345](https://bugzilla.mozilla.org/show_bug.cgi?id=1353345)).<br><br>If you have made contributions to the MDN Web Docs, you will also need to specify what you would like to happen with them after deleting your account.",
         "notes_tr": "Bugzilla'da oturum açın ve hesabınızın silinmesini istemek için bir hata raporu oluşturun, aşağıdaki örneklere bakın. MDN Web Belgelerine katkıda bulunduysanız, hesabınızı sildikten sonra bunlara ne olmasını istediğinizi de belirtmeniz gerekecektir.",
-        "notes_pt-BR": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: [#1576401](https://bugzilla.mozilla.org/show_bug.cgi?id=1576401) e [#1353345](https://bugzilla.mozilla.org/show_bug.cgi?id=1353345))</br></br>Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
+        "notes_pt-BR": "Faça login na Bugzilla e crie um bug report para solicitar a exclusão da sua conta. (veja os exemplos: [#1576401](https://bugzilla.mozilla.org/show_bug.cgi?id=1576401) e [#1353345](https://bugzilla.mozilla.org/show_bug.cgi?id=1353345))<br><br>Caso você tenha feito contribuições ao MDN Web Docs, você também precisará especificar o que gostaria que acontecesse com elas após a exclusão da sua conta.",
         "domains": [
             "bugzilla.mozilla.org",
             "developer.mozilla.org"
