@@ -148,7 +148,6 @@ def validate_notes(key)
                         "'#{entry_key}'.\n"\
                         "Error details:\n"\
                         "#{error_details}"
-            
             exit ExitCodes::MALFORMED_NOTES
         end
 
@@ -158,7 +157,6 @@ def validate_notes(key)
                         "'#{entry_key}'.\n"\
                         "Use one of the supported languages:\n"\
                         "\t#{SupportedLanguages}"
-            
             exit ExitCodes::UNEXPECTED_NOTES
         end
     end
