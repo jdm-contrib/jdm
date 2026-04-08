@@ -2834,7 +2834,7 @@
     },
     {
         "name": "Bonjour RATP",
-        "url": "https://www.bonjour-ratp.fr",
+        "url": "https://www.bonjour-ratp.fr/aide-contact/?question=maj-auth0-comment-supprimer-mon-compte-client-bonjour-ratp",
         "difficulty": "easy",
         "notes": " Download the app first. Then press the Account button ⮕ Manage my Account ⮕ Find \"Delete account\" at the bottom of the screen.",
         "notes_fr": "Accédez à l'application et sélectionnez Paramètres du compte. Naviguez jusqu'à Gérer mon compte. Sélectionnez Supprimer mon compte.",
