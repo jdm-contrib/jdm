@@ -24,7 +24,7 @@ jobs:
       with:
         ruby-version: 3.4.1
         bundler-cache: true
-    - run: gem install nokogiri -v '>= 1.19.1'
+    - run: bundle install --gemfile=script/Gemfile
     - run: script/validate_json.rb
   ping-websites:
     name: Ping Websites
