@@ -13352,6 +13352,13 @@
         ]
     },
     {
+        "name": "Minute Cryptic",
+        "url": "https://www.minutecryptic.com/account",
+        "difficulty": "easy",
+        "notes": "click 'delete' and then type 'delete' to confirm",
+        "domains": ["minutecryptic.com", "www.minutecryptic.com"]
+    },
+    {
         "name": "Miro",
         "url": "https://miro.com/app/settings/user-profile/",
         "difficulty": "easy",
