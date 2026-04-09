@@ -7001,6 +7001,14 @@
         "domains": ["figma.com"]
     },
     {
+        "name": "Filbleu",
+        "url": "https://www.filbleu.fr/contact/besoin-daide/espace-perso/comment-supprimer-mon-espace-perso",
+        "url_fr": "https://www.filbleu.fr/contact/besoin-daide/espace-perso/comment-supprimer-mon-espace-perso",
+        "difficulty": "easy",
+        "notes": "The deletion option is at the bottom of the second tab of the user settings page when logged in.",
+        "domains": ["filbleu.fr"]
+    },
+    {
         "name": "Filen.io",
         "url": "https://drive.filen.io/#/account/settings",
         "difficulty": "easy",
