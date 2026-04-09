@@ -13355,8 +13355,8 @@
         "name": "Minute Cryptic",
         "url": "https://www.minutecryptic.com/account",
         "difficulty": "easy",
-        "notes": "click 'delete' and then type 'delete' to confirm",
-        "domains": ["minutecryptic.com", "www.minutecryptic.com"]
+        "notes": "Click 'delete' and then type 'delete' to confirm",
+        "domains": ["minutecryptic.com"]
     },
     {
         "name": "Miro",
