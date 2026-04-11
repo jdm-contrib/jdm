@@ -19016,6 +19016,13 @@
         "domains": ["smoothcomp.com"]
     },
     {
+        "name": "SMS-MAN",
+        "url": "https://sms-man.com/feedback",
+        "difficulty": "hard",
+        "notes": "Go to the feedback page, and enter any name and the email that you used to register this account. For 'your question' say you want your account deleted.",
+        "domains": ["sms-man.com"]
+    },
+    {
         "name": "SMSPool",
         "url": "https://www.smspool.net/my/settings",
         "difficulty": "easy",
