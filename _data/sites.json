@@ -18949,6 +18949,12 @@
         ]
     },
     {
+        "name": "Sling TV",
+        "url": "https://www.sling.com/help/en/account-questions/account-changes/manage-account",
+        "difficulty": "impossible",
+        "domains": ["sling.com"]
+    },
+    {
         "name": "Slowly",
         "url": "https://help.slowly.app/hc/en-us/articles/115001828351-How-do-I-delete-my-account",
         "difficulty": "medium",
