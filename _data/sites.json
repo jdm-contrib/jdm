@@ -6692,6 +6692,13 @@
         "domains": ["examine.com"]
     },
     {
+        "name": "exaroton",
+        "url": "https://exaroton.com/account/settings/",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the page and click 'Close account'. Make sure to read their [support article](https://support.exaroton.com/hc/en-us/articles/360019857198-Close-account) for more information.",
+        "domains": ["exaroton.com"]
+    },
+    {
         "name": "Exclusive Car Registry",
         "url": "https://exclusivecarregistry.com/account/security",
         "notes": "Click Profile icon ⮕ Show Menu ⮕ Security ⮕ Delete Profile ⮕ Type CONFIRM ⮕ Click Delete account button ⮕ Email Sent ⮕ Click DELETE ACCOUNT button.",
@@ -13370,7 +13377,7 @@
         "name": "Minute Cryptic",
         "url": "https://www.minutecryptic.com/account",
         "difficulty": "easy",
-        "notes": "Click 'delete' and then type 'delete' to confirm",
+        "notes": "Click 'delete' and then type 'delete' to confirm.",
         "domains": ["minutecryptic.com"]
     },
     {
