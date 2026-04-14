@@ -3053,7 +3053,7 @@
         "url": "https://www.bricklink.com/",
         "difficulty": "impossible",
         "notes": "Requires [deletion of LEGO.com account (easy)](https://my.lego.com/security/delete-account), see [help article](https://www.bricklink.com/help.asp?helpID=129).",
-        "domains": ["beatsaver.com"]
+        "domains": ["bricklink.com"]
     },
     {
         "name": "Brilliant",
