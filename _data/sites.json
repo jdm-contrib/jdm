@@ -1740,6 +1740,13 @@
         "domains": ["atavi.com"]
     },
     {
+        "name": "ATC-SIM",
+        "url": "https://atc-sim.com/",
+        "difficulty": "impossible",
+        "notes": "No mention of account deletion on the website.",
+        "domains": ["atc-sim.com"]
+    },
+    {
         "name": "AtCoder",
         "url": "https://atcoder.jp/quit",
         "difficulty": "easy",
@@ -2279,6 +2286,13 @@
             "beatport.com",
             "support.beatport.com"
         ]
+    },
+    {
+        "name": "BeatSaver",
+        "url": "https://beatsaver.com/",
+        "difficulty": "impossible",
+        "notes": "No mention of account deletion on the website.",
+        "domains": ["beatsaver.com"]
     },
     {
         "name": "beecrowd (for talents)",
@@ -3033,6 +3047,13 @@
             "app.brevo.com",
             "brevo.com"
         ]
+    },
+    {
+        "name": "BrickLink",
+        "url": "https://www.bricklink.com/",
+        "difficulty": "impossible",
+        "notes": "Requires [deletion of LEGO.com account (easy)](https://my.lego.com/security/delete-account), see [help article](https://www.bricklink.com/help.asp?helpID=129).",
+        "domains": ["beatsaver.com"]
     },
     {
         "name": "Brilliant",
@@ -5165,6 +5186,13 @@
         "notes_tr": "Diğer departmanda canlı sohbete girin ve hesabınızın iptal edilmesini isteyin veya mevcut değilse iletişim formunu kullanın.",
         "notes_it": "Entra in live chat nel reparto altro e richiedi la cancellazione del tuo account o se non è disponibile utilizza il modulo di contatto.",
         "domains": ["depositphotos.com"]
+    },
+    {
+        "name": "Desmos",
+        "url": "https://www.desmos.com/",
+        "difficulty": "easy",
+        "notes": "Click on your name in the top right, click 'Account Settings', click 'Delete your Desmos account?' in the bottom right of the popup, then click 'Send Delete Account Email'. Click the big red button in the email and your account will be deleted in 30 days.",
+        "domains": ["desmos.com"]
     },
     {
         "name": "Deutsche Bahn / DB",
@@ -13210,8 +13238,8 @@
         "domains": [
             "live.com",
             "login.live.com",
-            "signup.live.com",
             "onedrive.live.com",
+            "signup.live.com",
             "microsoft.com",
             "account.microsoft.com",
             "dynamics.microsoft.com",
@@ -13223,8 +13251,9 @@
             "techcommunity.microsoft.com",
             "visualstudio.microsoft.com",
             "login.microsoftonline.com",
+            "office.com",
             "xbox.com",
-            "office.com"
+            "cloud.microsoft"
         ]
     },
     {
