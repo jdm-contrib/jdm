@@ -3049,13 +3049,6 @@
         ]
     },
     {
-        "name": "BrickLink",
-        "url": "https://www.bricklink.com/",
-        "difficulty": "impossible",
-        "notes": "Requires [deletion of LEGO.com account (easy)](https://my.lego.com/security/delete-account), see [help article](https://www.bricklink.com/help.asp?helpID=129).",
-        "domains": ["bricklink.com"]
-    },
-    {
         "name": "Brilliant",
         "url": "https://brilliant.org/account/settings/deactivate/",
         "difficulty": "easy",
@@ -11648,13 +11641,14 @@
         ]
     },
     {
-        "name": "Lego",
-        "url": "https://identity.lego.com/profile/security/delete-account",
+        "name": "LEGO",
+        "url": "https://my.lego.com/security/delete-account",
         "difficulty": "easy",
-        "notes": "Login, go to the linked page and confirm deletion of the account. Click the verification link in the email you receive to start the deletion process, which may take up to a month.",
+        "notes": "Login to LEGO.com, go to the linked page and confirm deletion of the account. Click the verification link in the email you receive to start the deletion process, which may take up to a month. BrickLink users see this [help article](https://www.bricklink.com/help.asp?helpID=129).",
         "domains": [
             "lego.com",
-            "identity.lego.com"
+            "identity.lego.com",
+            "bricklink.com"
         ]
     },
     {
