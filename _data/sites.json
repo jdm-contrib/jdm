@@ -3889,13 +3889,6 @@
         "domains": ["chick-fil-a.com"]
     },
     {
-     "name": "Chromaport",
-        "url": "https://chromaport.com/account",
-        "difficulty": "easy",
-        "notes": "Scroll down to the bottom of the \"Account\" page to the \"Account management\" section and click on \"Delete\"",
-        "domains": ["chromaport.com"]
-    },
-    {
         "name": "Chocolatey",
         "url": "https://chocolatey.org/contact/general",
         "difficulty": "hard",
@@ -3908,6 +3901,13 @@
             "blog.chocolatey.org",
             "status.chocolatey.org"
         ]
+    },
+    {
+        "name": "Chromaport",
+        "url": "https://chromaport.com/account",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the \"Account\" page to the \"Account management\" section and click on \"Delete\"",
+        "domains": ["chromaport.com"]
     },
     {
         "name": "Cineplex",
