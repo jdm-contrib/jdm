@@ -9274,6 +9274,13 @@
         "domains": ["harney.com"]
     },
     {
+        "name": "Harry Potter",
+        "url": "https://www.harrypotter.com/profile/settings",
+        "difficulty": "easy",
+        "notes": "There is a 'DELETE YOUR ACCOUNT' button at the bottom of the page.",
+        "domains": ["harrypotter.com"]
+    },
+    {
         "name": "Harvard Business Publishing Education",
         "url": "https://hbsp.harvard.edu/privacy-policy/#8",
         "difficulty": "medium",
