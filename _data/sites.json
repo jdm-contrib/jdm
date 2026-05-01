@@ -1297,6 +1297,15 @@
         "domains": ["anilist.co"]
     },
     {
+        "name": "Anime Music Quiz",
+        "url": "https://animemusicquiz.com/legal/privacy",
+        "difficulty": "hard",
+        "email": "contact@animemusicquiz.com",
+        "notes": "You need to send an email to delete your account.",
+        "notes_fr": "Vous devez envoyer un email pour supprimer votre compte.",
+        "domains": ["animemusicquiz.com"]
+    },
+    {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "hard",
