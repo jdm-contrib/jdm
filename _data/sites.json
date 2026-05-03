@@ -1305,6 +1305,15 @@
         "domains": ["animalcrossingcommunity.com"]
     },
     {
+        "name": "Anime Music Quiz",
+        "url": "https://animemusicquiz.com/legal/privacy",
+        "difficulty": "hard",
+        "email": "contact@animemusicquiz.com",
+        "notes": "You need to send an email to delete your account.",
+        "notes_fr": "Vous devez envoyer un email pour supprimer votre compte.",
+        "domains": ["animemusicquiz.com"]
+    },
+    {
         "name": "Anime News Network",
         "url": "https://www.animenewsnetwork.com/account/edit",
         "difficulty": "easy",
