@@ -77,7 +77,7 @@
     },
     {
         "name": "1Password",
-        "url": "https://my.1password.com/profile",
+        "url": "https://my.1password.com/profile",https://github.com/jdm-contrib/jdm/commit/d4178bb83fe5b7176babf4988773c7cc7325a09f
         "difficulty": "easy",
         "notes": "Login to your account, go to profile, click 'Permanently Delete Account'. Confirm by entering 'I am sure' and click 'Delete Account'.",
         "notes_it": "Accedi al tuo account, vai al profilo, clicca su 'Elimina definitivamente l'account'. Conferma inserendo 'Sono sicuro' e clicca su 'Elimina account'.",
@@ -12810,6 +12810,98 @@
         "domains": [
             "se.mathworks.com",
             "mathworks.com"
+        ]
+    },
+    {
+        "name": "Matrix",
+        "url": "https://docs.element.io/latest/element-support/matrix-account-management/deactivating-a-matrix-account",
+        "difficulty": "easy",
+        "notes": "Exact placement of option depends on client. In L-ement and its forks: at the very bottom of Settings → General.",
+        "notes_de": "Genaue Optionsposition variiert je nach Klientprogramm. In L-ement und darauf basierten Klienten: ganz unten in Einstellungen → Allgemein.",
+        "notes_ru": "Конкретная позиция опции зависит от клиента. В Л-эменте и связанных: внизу Настройки → Обшее."
+        "domains": [
+            "matrix.org", # Domain of the base project.
+            "matrix.to",  # Message permalink redirecting domain.
+            "cinny.in",   # Clients available in webbrowsers, sorted alphabetically.
+            "app.cinny.in",
+            "commet.chat",
+            "app.commet.chat",
+            "element.io",
+            "app.element.io",
+            "develop.element.io",
+            "fluffychat.im",
+            "fluffy.chat",
+            "polycule.im",
+            "schildi.chat",
+            "app.schildi.chat",
+            "tammy.connect2x.de",
+            "app.tammy.connect2x.de",
+            "extera.xyz", # 'Obsolete' web clients that are still available.
+            "app.extera.xyz",
+            "hydrogen.element.io",
+            "quadrix.chat",
+            "chooj.app",  # Clients that have a domain but don't (yet) offer a web version.
+            "gomuks.app",
+            "css.gomuks.app",
+            "iamb.chat",
+            "kazv.chat",
+            "mlm-hames.github.io",
+            "nheko-reborn.github.io",
+            "syphon.org",
+            "thunderbird.net",
+            "wanchat.info",
+            "4d2.org",    # Homeservers listed in https://servers.joinmatrix.org, sorted alphabetically, subdomains not included.
+            "bark.lgbt",  # (Somemany should probably include the subdomains but it won't be Us. At least for now. /ARW)
+            "catgirl.cloud",
+            "communick.com",
+            "converser.eu",
+            "data.coop",
+            "deuxfleurs.fr",
+            "dewrito,net",
+            "electrologic.org",
+            "exarius.org",
+            "fachschaften.org",
+            "federated.nexus",
+            "frei.chat",
+            "freiburg.social",
+            "fsfe.org",
+            "g42.at",
+            "gemeinsam.jetzt",
+            "glasgow.social",
+            "gnulinux.club",
+            "grin.hu",
+            "hadoly.fr",
+            "hashi.sbs",
+            "hot-chilli.im",
+            "hyteck.de",
+            "imagisphe.re",
+            "jonasled.de",
+            "magdeburg.jetzt",
+            "mtux.nl",
+            "nhjkl.com",
+            "nope.chat",
+            "norge.chat",
+            "oblak.be",
+            "pikaviestin.fi",
+            "private.coffee",
+            "pub.solar",
+            "rollenspiel.chat",
+            "sans-nuage.fr",
+            "secure-channel.net",
+            "sk.community",
+            "socialnetwork24.com",
+            "synod.im",
+            "tchncs.de",
+            "the-apothecary.club",
+            "thursdaycouncil.org",
+            "transgirl.cafe",
+            "unredacted.org",
+            "etke.cc",
+            "app.etke.cc", # Miscellaneous.
+            "admin.etke.cc",
+            "matrixrooms.info",
+            "joinmatrix.org",
+            "servers.joinmatrix.org"
         ]
     },
     {
