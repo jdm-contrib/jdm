@@ -77,7 +77,7 @@
     },
     {
         "name": "1Password",
-        "url": "https://my.1password.com/profile",https://github.com/jdm-contrib/jdm/commit/d4178bb83fe5b7176babf4988773c7cc7325a09f
+        "url": "https://my.1password.com/profile",
         "difficulty": "easy",
         "notes": "Login to your account, go to profile, click 'Permanently Delete Account'. Confirm by entering 'I am sure' and click 'Delete Account'.",
         "notes_it": "Accedi al tuo account, vai al profilo, clicca su 'Elimina definitivamente l'account'. Conferma inserendo 'Sono sicuro' e clicca su 'Elimina account'.",
