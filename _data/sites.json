@@ -23692,6 +23692,16 @@
         ]
     },
     {
+        "name": "Wondershare",
+        "url": "https://accounts.wondershare.com/web/web-account-verify",
+        "difficulty": "hard",
+        "notes": "Log into your account, then visit the \"Account\" tab and go to Profile. There will be a \"Delete Account\" button in the top right that'll let you delete your account. You'll enter a 6 digit code sent to your email to proceed with account deletion. Wondershare will hold your account for a week before deleting it, but you can force it as there's a button on screen that lets you delete it immediately.",
+        "domains": [
+            "accounts.wondershare.com",
+            "wondershare.com"
+        ]
+    },
+    {
         "name": "Woolworths",
         "url": "https://www.woolworths.com.au/shop/discover/about-us/contact-us",
         "difficulty": "hard",
