@@ -13531,6 +13531,13 @@
         ]
     },
     {
+        "name": "Moises.ai",
+        "url": "https://help.moises.ai/hc/en-us/articles/5440087821330-How-to-delete-my-Moises-account",
+        "difficulty": "hard",
+        "notes": "Download the Moises.ai app onto your smartphone and log into your account. Then visit \"Profile\", click the Settings cog in the top right corner, and click \"Account info\". You must give a reason on why you're deleting your account. If you don't have a subscription you can tick the checkbox to proceed with account deletion, which requires your password. Otherwise, you'll need to cancel your subscription. Finally, the account will be deleted.",
+        "domains": ["moises.ai"]
+    },
+    {
         "name": "Mojang",
         "url": "https://account.mojang.com/me/settings",
         "difficulty": "easy",
@@ -14307,6 +14314,13 @@
         "notes": "Requires to fill out contact form. Will still get Promotional emails until you also unsubscribe from them",
         "notes_tr": "İletişim formunun doldurulması gerekir. Aynı zamanda e-posta aboneliğinizi iptal edene kadar promosyon e-postaları almaya devam edeceksiniz",
         "domains": ["nearpod.com"]
+    },
+    {
+        "name": "Neocities.org",
+        "url": "https://neocities.org/settings#delete",
+        "difficulty": "easy",
+        "notes": "You'll be prompted to give a reason on why you're deleting your site, as well as typing in the name of your website to delete it.",
+        "domains": ["neocities.org"]
     },
     {
         "name": "NeoDB",
@@ -23689,6 +23703,16 @@
             "saschamoser.de",
             "softcreatr.com",
             "tkirch.dev"
+        ]
+    },
+    {
+        "name": "Wondershare",
+        "url": "https://accounts.wondershare.com/web/web-account-verify",
+        "difficulty": "hard",
+        "notes": "Log into your account, then visit the \"Account\" tab and go to Profile. There will be a \"Delete Account\" button in the top right that'll let you delete your account. You'll enter a 6 digit code sent to your email to proceed with account deletion. Wondershare will hold your account for a week before deleting it, but you can force it as there's a button on screen that lets you delete it immediately.",
+        "domains": [
+            "accounts.wondershare.com",
+            "wondershare.com"
         ]
     },
     {
