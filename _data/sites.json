@@ -13531,6 +13531,13 @@
         ]
     },
     {
+        "name": "Moises.ai",
+        "url": "https://help.moises.ai/hc/en-us/articles/5440087821330-How-to-delete-my-Moises-account",
+        "difficulty": "hard",
+        "notes": "Download the Moises.ai app onto your smartphone and log into your account. Then visit \"Profile\", click the Settings cog in the top right corner, and click \"Account info\". You must give a reason on why you're deleting your account. If you don't have a subscription you can tick the checkbox to proceed with account deletion, which requires your password. Otherwise, you'll need to cancel your subscription. Finally, the account will be deleted.",
+        "domains": ["moises.ai"]
+    },
+    {
         "name": "Mojang",
         "url": "https://account.mojang.com/me/settings",
         "difficulty": "easy",
