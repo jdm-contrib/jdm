@@ -14309,6 +14309,13 @@
         "domains": ["nearpod.com"]
     },
     {
+        "name": "Neocities.org",
+        "url": "https://neocities.org/settings#delete",
+        "difficulty": "easy",
+        "notes": "You'll be prompted to give a reason on why you're deleting your site, as well as typing in the name of your website to delete it.",
+        "domains": ["neocities.org"]
+    },
+    {
         "name": "NeoDB",
         "url": "https://neodb.social/account/info",
         "difficulty": "easy",
