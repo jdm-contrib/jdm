@@ -12816,9 +12816,9 @@
         "name": "Matrix",
         "url": "https://docs.element.io/latest/element-support/matrix-account-management/deactivating-a-matrix-account",
         "difficulty": "easy",
-        "notes": "Exact placement of option depends on client. In L-ement and its forks: at the very bottom of Settings → General.",
-        "notes_de": "Genaue Optionsposition variiert je nach Klientprogramm. In L-ement und darauf basierten Klienten: ganz unten in Einstellungen → Allgemein.",
-        "notes_ru": "Конкретная позиция опции зависит от клиента. В Л-эменте и связанных: внизу Настройки → Обшее."
+        "notes": "Exact placement of option depends on client. In L-ement and its forks: at the very bottom of Settings ⮕ General.",
+        "notes_de": "Genaue Optionsposition variiert je nach Klientprogramm. In L-ement und darauf basierten Klienten: ganz unten in Einstellungen ⮕ Allgemein.",
+        "notes_ru": "Конкретная позиция опции зависит от клиента. В Л-эменте и связанных: внизу Настройки ⮕ Обшее.",
         "domains": [
             "matrix.org",
             "matrix.to",
