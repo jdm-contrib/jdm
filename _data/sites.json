@@ -12820,9 +12820,9 @@
         "notes_de": "Genaue Optionsposition variiert je nach Klientprogramm. In L-ement und darauf basierten Klienten: ganz unten in Einstellungen → Allgemein.",
         "notes_ru": "Конкретная позиция опции зависит от клиента. В Л-эменте и связанных: внизу Настройки → Обшее."
         "domains": [
-            "matrix.org", # Domain of the base project.
-            "matrix.to",  # Message permalink redirecting domain.
-            "cinny.in",   # Clients available in webbrowsers, sorted alphabetically.
+            "matrix.org",
+            "matrix.to",
+            "cinny.in",
             "app.cinny.in",
             "commet.chat",
             "app.commet.chat",
@@ -12836,11 +12836,11 @@
             "app.schildi.chat",
             "tammy.connect2x.de",
             "app.tammy.connect2x.de",
-            "extera.xyz", # 'Obsolete' web clients that are still available.
+            "extera.xyz",
             "app.extera.xyz",
             "hydrogen.element.io",
             "quadrix.chat",
-            "chooj.app",  # Clients that have a domain but don't (yet) offer a web version.
+            "chooj.app",
             "gomuks.app",
             "css.gomuks.app",
             "iamb.chat",
@@ -12850,8 +12850,8 @@
             "syphon.org",
             "thunderbird.net",
             "wanchat.info",
-            "4d2.org",    # Homeservers listed in https://servers.joinmatrix.org, sorted alphabetically, subdomains not included.
-            "bark.lgbt",  # (Somemany should probably include the subdomains but it won't be Us. At least for now. /ARW)
+            "4d2.org",
+            "bark.lgbt",
             "catgirl.cloud",
             "communick.com",
             "converser.eu",
@@ -12897,7 +12897,7 @@
             "transgirl.cafe",
             "unredacted.org",
             "etke.cc",
-            "app.etke.cc", # Miscellaneous.
+            "app.etke.cc",
             "admin.etke.cc",
             "matrixrooms.info",
             "joinmatrix.org",
