@@ -13289,6 +13289,16 @@
         ]
     },
     {
+        "name": "MetaMask Card",
+        "url": "https://support.metamask.io/manage-crypto/metamask-card/card-faq/",
+        "difficulty": "hard",
+        "notes": "Contact customer support at metamask@cl-cards.com to delete your account.",
+        "domains": [
+            "metamask.io",
+            "card.metamask.io"
+        ]
+    },
+    {
         "name": "MetLife",
         "url": "https://metlife.com.br/",
         "difficulty": "impossible",
