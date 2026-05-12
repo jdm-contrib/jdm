@@ -19427,7 +19427,8 @@
     {
         "name": "SoundCloud",
         "url": "https://soundcloud.com/settings/account#delete-user",
-        "difficulty": "easy",
+        "difficulty": "medium",
+        "notes": "Delete your songs manually first before attempting to delete your account, in case it gets 'frozen', which means that you would have to message a nonexistent chatbot to 'unfreeze' your own account.",
         "domains": ["soundcloud.com"]
     },
     {
