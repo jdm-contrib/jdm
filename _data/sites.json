@@ -13292,7 +13292,8 @@
         "name": "MetaMask Card",
         "url": "https://support.metamask.io/manage-crypto/metamask-card/card-faq/",
         "difficulty": "hard",
-        "notes": "Contact customer support at metamask@cl-cards.com to delete your account.",
+        "notes": "Contact customer support to delete your account.",
+        "email": "metamask@cl-cards.com",
         "domains": [
             "metamask.io",
             "card.metamask.io"
