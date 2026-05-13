@@ -21023,10 +21023,10 @@
     },
     {
         "name": "Threads",
-        "url": "https://www.threads.net/settings/account",
+        "url": "https://www.threads.com/settings/account",
         "difficulty": "easy",
         "notes": "In the app go to your profile, click on the right top corner and go to \"Account ⮕ Deactivate or delete profile ⮕ Delete profile\"",
-        "domains": ["threads.net"]
+        "domains": ["threads.com"]
     },
     {
         "name": "Threema",
