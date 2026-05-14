@@ -6578,6 +6578,15 @@
         ]
     },
     {
+        "name": "Etherscan",
+        "url": "https://etherscan.io/mysettings",
+        "difficulty": "medium",
+        "notes": "Click the 'Delete Account' button at the bottom of the page and click 'Confirm Delete'. A confirmation email will be sent to your inbox. Follow the link in the email and enter your password to finalize the deletion. Your account will be disabled immediately and permanently deleted after 30 days.",
+        "domains": [
+            "etherscan.io"
+        ]
+    },
+    {
         "name": "eToro",
         "url": "https://www.etoro.com/settings/account",
         "difficulty": "easy",
