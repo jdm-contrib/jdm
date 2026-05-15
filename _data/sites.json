@@ -4084,6 +4084,16 @@
         ]
     },
     {
+        "name": "CloudDeck",
+        "url": "https://portal.clouddeck.app/account",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Account\", and in the confirmation dialog click \"Delete Account\" again to confirm.",
+        "domains": [
+            "clouddeck.app",
+            "portal.clouddeck.app"
+        ]
+    },
+    {
         "name": "Cloudflare",
         "url": "https://dash.cloudflare.com/profile/delete-user",
         "difficulty": "medium",
