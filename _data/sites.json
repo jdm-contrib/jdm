@@ -14820,6 +14820,13 @@
         "domains": ["njal.la"]
     },
     {
+        "name": "NoteJoy",
+        "url": "https://notejoy.com/settings/account",
+        "notes": "Open account settings > Account > Cancel Account. Write down a reason and click \"Cancel\"",
+        "difficulty": "easy",
+        "domains": ["notejoy.com"]
+    },
+    {
         "name": "NodeChef",
         "url": "https://www.nodechef.com/",
         "difficulty": "easy",
@@ -20291,6 +20298,13 @@
         "difficulty": "medium",
         "notes": "Might be hard depending on what single sign-on option you used.",
         "domains": ["suno.com"]
+    },
+    {
+        "name": "SuperNotes",
+        "url": "https://help.supernotes.app/en/articles/3063034-delete-your-account",
+        "difficulty": "medium",
+        "notes": "Click Profile icon > Settings > Manage Account > Delete Account > Write your username and click Delete. An email with confirmation link will be sent that needs to be opened and a Delete Me button clicked.",
+        "domains": ["supernotes.app"]
     },
     {
         "name": "Super Domínios",
