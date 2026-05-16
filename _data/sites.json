@@ -14820,18 +14820,18 @@
         "domains": ["njal.la"]
     },
     {
-        "name": "NoteJoy",
-        "url": "https://notejoy.com/settings/account",
-        "notes": "Open account settings > Account > Cancel Account. Write down a reason and click \"Cancel\"",
-        "difficulty": "easy",
-        "domains": ["notejoy.com"]
-    },
-    {
         "name": "NodeChef",
         "url": "https://www.nodechef.com/",
         "difficulty": "easy",
         "notes": "In the dashboard, go to the \"Account\" tab, scroll down to \"Delete Account\" section, follow the instructions and then click \"Delete my account\".",
         "domains": ["nodechef.com"]
+    },
+    {
+        "name": "NoteJoy",
+        "url": "https://notejoy.com/settings/account",
+        "notes": "Open account settings > Account > Cancel Account. Write down a reason and click \"Cancel\"",
+        "difficulty": "easy",
+        "domains": ["notejoy.com"]
     },
     {
         "name": "NoIP",
