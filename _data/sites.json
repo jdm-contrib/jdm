@@ -2704,6 +2704,13 @@
         "domains": ["bloomingdales.com"]
     },
     {
+        "name": "BloxIDs.com",
+        "url": "https://bloxids.com",
+        "difficulty": "impossible",
+        "notes": "BloxIDs.com doesn't have an account deletion page, and there is no support email address.",
+        "domains": ["bloxids.com"]
+    },
+    {
         "name": "Blue Apron",
         "url": "https://www.blueapron.com/cancel_subscription",
         "difficulty": "easy",
