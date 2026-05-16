@@ -4375,6 +4375,13 @@
         ]
     },
     {
+        "name": "CoinEx",
+        "url": "https://www.coinex.com/en/help/sections/articles/14011154149401-How-to-Delete-My-Account",
+        "difficulty": "easy",
+        "notes": "Sign in then visit [your security settings](https://www.coinex.com/en/my/info/security), scroll down to Advanced Settings and click [Delete] next to Account Management.",
+        "domains": ["coinex.com"]
+    },
+    {
         "name": "CoinGecko",
         "url": "https://support.coingecko.com/hc/en-us/articles/4537981325977-How-can-I-delete-my-account-",
         "difficulty": "easy",
