@@ -778,6 +778,16 @@
         "domains": ["airdroid.com"]
     },
     {
+        "name": "AirGPU",
+        "url": "https://app.airgpu.com/account",
+        "difficulty": "easy",
+        "notes": "Scroll to the \"Danger Zone\", click \"Delete Account\", and in the confirmation dialog click \"Delete Account\" again to confirm.",
+        "domains": [
+            "airgpu.com",
+            "app.airgpu.com"
+        ]
+    },
+    {
         "name": "AirMeet",
         "url": "https://help.airmeet.com/support/solutions/articles/82000443799-how-to-delete-airmeet-community-account-",
         "difficulty": "hard",
@@ -4078,6 +4088,16 @@
             "cl.ly",
             "getcloudapp.com",
             "share.getcloudapp.com"
+        ]
+    },
+    {
+        "name": "CloudDeck",
+        "url": "https://portal.clouddeck.app/account",
+        "difficulty": "easy",
+        "notes": "Click \"Delete Account\", and in the confirmation dialog click \"Delete Account\" again to confirm.",
+        "domains": [
+            "clouddeck.app",
+            "portal.clouddeck.app"
         ]
     },
     {
