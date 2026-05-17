@@ -14911,6 +14911,13 @@
         ]
     },
     {
+        "name": "NoteJoy",
+        "url": "https://notejoy.com/settings/account",
+        "notes": "Open account settings ⮕ Account ⮕ Cancel Account. Write down a reason and click \"Cancel\"",
+        "difficulty": "easy",
+        "domains": ["notejoy.com"]
+    },
+    {
         "name": "Notesnook",
         "url": "https://app.notesnook.com/tags#/settings",
         "difficulty": "easy",
@@ -20358,6 +20365,13 @@
             "supercell.com",
             "help.supercellsupport.com"
         ]
+    },
+    {
+        "name": "SuperNotes",
+        "url": "https://help.supernotes.app/en/articles/3063034-delete-your-account",
+        "difficulty": "medium",
+        "notes": "Click Profile icon ⮕ Settings ⮕ Manage Account ⮕ Delete Account ⮕ Write your username and click Delete. An email with confirmation link will be sent that needs to be opened and a \"Delete Me\" button clicked.",
+        "domains": ["supernotes.app"]
     },
     {
         "name": "SurfEasy",
