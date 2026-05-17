@@ -87,17 +87,6 @@ $(function(){
         }
     });
 
-    // Toggle visibility of site info boxes
-    $(".contains-info").click(function(e) {
-        e.preventDefault();
-        if ($(this).prev().hasClass("toggled")) {
-            $(this).prev().slideToggle().removeClass("toggled");
-        } else {
-            $(".toggled").slideToggle().removeClass("toggled");
-            $(this).prev().slideToggle().addClass("toggled");
-        }
-    });
-
     // When the search field changes, update the hash
     var hashUpdateTimer;
     $("input").on("input", function(){

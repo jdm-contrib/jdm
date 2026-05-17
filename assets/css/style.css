@@ -308,25 +308,54 @@ main {
     border: 1px solid #BFC6CC;
     border-top: 0;
     color: #293840;
-    display: none;
+    display: flex;
+    flex-direction: column;
     font-size: 12px;
     line-height: 1.5;
     margin: 0;
-    padding: 10px;
+    overflow: hidden;
+}
+
+.site-block .tooltip-content::details-content {
+    border-bottom: 0 solid #BFC6CC;
+    height: 0;
+    min-height: 0;
+    padding: 0 10px;
+}
+
+@supports (interpolate-size: allow-keywords) {
+    .site-block {
+        interpolate-size: allow-keywords;
+    }
+
+    .site-block .tooltip-content::details-content {
+        transition: height 0.4s, min-height 0.4s, content-visibility 0.4s, border-bottom-width 0.4s;
+        transition-behavior: allow-discrete;
+    }
 }
 
 .site-block .tooltip-toggle {
     background-color: #EAEBED;
-    border: 1px solid #BFC6CC;
-    border-top: 0;
     color: #878787;
+    cursor: pointer;
     display: block;
     font-size: 10px;
     font-weight: bold;
     line-height: 0;
-    margin: 0;
+    list-style: none;
+    order: 1;
     padding: 15px 10px;
     text-transform: uppercase;
+    user-select: none;
+}
+
+.site-block .tooltip-toggle::-webkit-details-marker {
+    display: none;
+}
+
+.site-block .email-info {
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 .site-block .tooltip-toggle.contains-info {
@@ -343,10 +372,15 @@ main {
     display: none;
 }
 
-.toggled + .tooltip-toggle > .show-info {
+.tooltip-content[open]::details-content {
+    border-bottom-width: 1px;
+    height: auto;
+}
+
+.tooltip-content[open] .show-info {
     display: none;
 }
-.toggled + .tooltip-toggle > .hide-info {
+.tooltip-content[open] .hide-info {
     display: inline;
 }
 
