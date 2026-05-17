@@ -14282,7 +14282,7 @@
         "name": "Méliuz",
         "url": "https://ajuda.meliuz.com.br/hc/pt-br/articles/4417549110292",
         "difficulty": "hard",
-        "notes": "No self-service deletion is available. Call 0800 301 0101 and select the cancellation option. The previous direct deletion URL returns 404.",
+        "notes": "No self-service deletion is available. Call 0800 301 0101 and select the cancellation option.",
         "domains": ["meliuz.com.br"]
     },
     {
