@@ -693,7 +693,7 @@
         "name": "Aimlabs",
         "url": "https://aimlabs.com/account/info",
         "difficulty": "easy",
-        "notes": "Scroll to the bottom of the [account info page](https://aimlabs.com/account/info) and click the link.",
+        "notes": "Scroll to the bottom of the account info page and click the link.",
         "domains": ["aimlabs.com"]
     },
     {
@@ -1108,7 +1108,7 @@
         "name": "ALZeducate",
         "url": "https://alzeducate.ca/user/edit.php",
         "difficulty": "hard",
-        "notes": "Must email them to have your account and data deleted, as well as to have your email removed from their email distribution lists. A simple email will suffice, and their email is on the [website](https://alzeducate.ca/) footer.",
+        "notes": "Must email them to have your account and data deleted, as well as to have your email removed from their email distribution lists.",
         "email": "alzed@alzon.ca",
         "domains": ["alzeducate.ca"]
     },
