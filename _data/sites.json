@@ -4715,19 +4715,19 @@
         ]
     },
     {
+        "name": "Creativebug",
+        "url": "https://www.creativebug.com/site/contact-form",
+        "difficulty": "medium",
+        "notes": "Fill out the form with the name and email of the account you wish to have deleted. Ensure 'Request Topic' is set to 'Delete Me' and they will send email confirmation when someone has deleted the account.",
+        "domains": ["creativebug.com"]
+    },
+    {
         "name": "Credit Karma",
         "url": "https://www.creditkarma.com/myprofile/security/deactivate",
         "difficulty": "easy",
         "notes": "Membership can be canceled either online or by mail. Once you cancel, you will no longer have access to your Credit Karma account history and you won’t be able to create a new account for six months.",
         "notes_tr": "Üyeliğiniz e-posta veya çevrim içi üzerinden iptal edilebilir. Bir kez iptal ettikten sonra, Credit Karma hesap geçmişine artık erişiminiz olmayacak ve 6 ay boyunca yeni hesap açamayacaksınız.",
         "domains": ["creditkarma.com"]
-    },
-    {
-        "name": "Creativebug",
-        "url": "https://www.creativebug.com/site/contact-form",
-        "difficulty": "medium",
-        "notes": "Fill out the form with the name and email of the account you wish to have deleted. Ensure 'Request Topic' is set to 'Delete Me' and they will send email confirmation when someone has deleted the account.",
-        "domains": ["creativebug.com"]
     },
     {
         "name": "CreditExpert",
