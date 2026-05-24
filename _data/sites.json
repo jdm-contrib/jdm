@@ -15558,6 +15558,13 @@
         "domains": ["openphone.com"]
     },
     {
+        "name": "OpenRouter",
+        "url": "https://openrouter.ai/settings/preferences",
+        "difficulty": "medium",
+        "notes": "Next to user click manage, go to the security tab, click delete account and type delete account in the box.",
+        "domains": ["openrouter.ai"]
+    },
+    {
         "name": "OpenSea",
         "url": "https://support.opensea.io/hc/requests/new",
         "difficulty": "limited",
