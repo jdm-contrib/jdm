@@ -2471,6 +2471,15 @@
         "domains": ["betnacional.com"]
     },
     {
+        "name": "Better Impact",
+        "url": "https://www.betterimpact.com/",
+        "difficulty": "hard",
+        "notes": "Must email them with a specific subject.",
+        "email": "support@betterimpact.com",
+        "email_subject": "Remove my profile",
+        "domains": ["betterimpact.com"]
+    },
+    {
         "name": "Betterment",
         "url": "https://www.betterment.com",
         "difficulty": "impossible",
@@ -2654,6 +2663,13 @@
         "difficulty": "impossible",
         "notes": "As noted on the forum, account removals are not an option.",
         "domains": ["blackspigot.com"]
+    },
+    {
+        "name": "Blackwing",
+        "url": "https://blackwing602.com/pages/privacy-requests",
+        "difficulty": "medium",
+        "notes": "Follow the link, select your region, click \"Request Deletion\", enter your email, then press confirm both in your email and on the page it takes you to. They say your request will be processed in 30 days.",
+        "domains": ["blackwing602.com"]
     },
     {
         "name": "Bleep",
@@ -3482,6 +3498,13 @@
         "notes_tr": "İlk olarak yüklediğiniz dosyaları kaldırmalısınız",
         "notes_fr": "Il faut supprimer les fichiers téléchargés avant de supprimer votre compte.",
         "domains": ["careerbuilder.com"]
+    },
+    {
+        "name": "Caribou Contests",
+        "url": "https://cariboutests.com/contact_us.php",
+        "difficulty": "hard",
+        "notes": "They no longer operate, but will still delete your account if you fill out the form with all your details and ask for deletion.",
+        "domains": ["cariboutests.com"]
     },
     {
         "name": "Carrd.co",
@@ -5817,6 +5840,13 @@
         "domains": ["drawabox.com"]
     },
     {
+        "name": "Drawboard PDF",
+        "url": "https://pdf.drawboard.com/documents",
+        "difficulty": "easy",
+        "notes": "Click on your profile picture in the top right, click \"Permanently delete account\", then just enter your email to confirm.",
+        "domains": ["drawboard.com"]
+    },
+    {
         "name": "Drawpile",
         "url": "https://drawpile.net/accounts/delete/",
         "difficulty": "easy",
@@ -6951,6 +6981,13 @@
             "fanatical.com",
             "support.fanatical.com"
         ]
+    },
+    {
+        "name": "Fancade",
+        "url": "https://play.fancade.com/",
+        "difficulty": "easy",
+        "notes": "On either the mobile or web app, press \"Delete User\" under 'You' and 'Profile' then enter your email and password.",
+        "domains": ["fancade.com"]
     },
     {
         "name": "Fandom Wikia",
@@ -9962,6 +9999,13 @@
             "humblebundle.com",
             "dsar.humblebundle.com"
         ]
+    },
+    {
+        "name": "Humble North",
+        "url": "https://lbr.humblenorth.de/lbr/wp2/wp-admin/profile.php",
+        "difficulty": "easy",
+        "notes": "Use the provided link.",
+        "domains": ["humblenorth.de"]
     },
     {
         "name": "Hunter",
@@ -13129,6 +13173,13 @@
         "notes": "It might be possible to delete your account via the contact form, but the support team is known to be unresponsive.",
         "notes_tr": "İletişim formu aracılığıyla hesabınızı silmeniz mümkün olabilir, ancak destek ekibinin yanıt vermediği biliniyor.",
         "domains": ["melodics.com"]
+    },
+    {
+        "name": "MelonCube",
+        "url": "https://www.meloncube.net/clients/submitticket.php",
+        "difficulty": "medium",
+        "notes": "Open a ticket outlining your wish for deletion and they will promptly act on it.",
+        "domains": ["meloncube.net"]
     },
     {
         "name": "MemeFast.app",
@@ -20337,6 +20388,13 @@
         "domains": ["suno.com"]
     },
     {
+        "name": "Super Auto Pets",
+        "url": "https://teamwood.itch.io/super-auto-pets",
+        "difficulty": "easy",
+        "notes": "Load the game (web, Steam, etc.) and sign in, then go to the Privacy section of Settings (top right). Click \"Delete account\" and enter your password to confirm.",
+        "domains": ["teamwoodgames.com"]
+    },
+    {
         "name": "Super Domínios",
         "url": "https://superdominios.org/contato/",
         "difficulty": "hard",
@@ -22967,6 +23025,13 @@
         "domains": ["w2g.tv"]
     },
     {
+        "name": "WatGuessr.io",
+        "url": "https://watguessr.io/settings",
+        "difficulty": "easy",
+        "notes": "Click on your account in the top right, then settings, then \"Delete account\".",
+        "domains": ["watguessr.io"]
+    },
+    {
         "name": "Wattpad",
         "url": "https://www.wattpad.com/settings",
         "difficulty": "easy",
@@ -24144,6 +24209,13 @@
         "email": "dataprotection@yelp.com",
         "email_subject": "Account Data Deletion Request",
         "email_body": "Please delete my account and all data associated with it. My username is XXXXXX"
+    },
+    {
+        "name": "YeolPumTa",
+        "url": "https://yeolpumta.com/",
+        "difficulty": "easy",
+        "notes": "Locate the delete button within the app.",
+        "domains": ["yeolpumta.com"]
     },
     {
         "name": "YNAB (You Need A Budget)",
