@@ -7747,6 +7747,16 @@
         "domains": ["fruux.com"]
     },
     {
+        "name": "Funbridge",
+        "url": "https://play.funbridge.com/account",
+        "difficulty": "impossible",
+        "notes": "Although there is a way to delete your account, it does not work and only sign you out.",
+        "domains": [
+            "funbridge.com",
+            "play.funbridge.com"
+        ]
+    },
+    {
         "name": "Function of Beauty",
         "url": "https://functionofbeauty.com/pages/contact-us",
         "difficulty": "hard",
