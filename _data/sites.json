@@ -9370,6 +9370,13 @@
         "domains": ["hbsp.harvard.edu"]
     },
     {
+        "name": "Have I Been Pwned",
+        "url": "https://haveibeenpwned.com",
+        "difficulty": "impossible",
+        "notes": "You can't delete your have I been pwned account. To opt-out from public search, use the opt-out option in the menu.",
+        "domains": ["haveibeenpwned.com"]
+    },
+    {
         "name": "HBO Max",
         "url": "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/6555225c-a911-4af8-bdb5-20158994ece0",
         "difficulty": "hard",
