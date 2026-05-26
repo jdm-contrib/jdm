@@ -2195,6 +2195,16 @@
         "domains": ["barnesandnoble.com"]
     },
     {
+        "name": "Base44",
+        "url": "https://app.base44.com",
+        "difficulty": "medium",
+        "notes": "Click the icon on the top-right corner. Click account settings. Scroll down and click delete account. Click delete account. Your account will be deleted in 7 days unless you cancel the request.",
+        "domains": [
+            "base44.com",
+            "app.base44.com"
+        ]
+    },
+    {
         "name": "Basecamp",
         "url": "https://3.basecamp-help.com/article/156-cancel-your-basecamp-account",
         "difficulty": "easy",
