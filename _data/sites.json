@@ -20753,15 +20753,6 @@
         ]
     },
     {
-        "name": "Teams",
-        "meta": "popular",
-        "url": "https://account.live.com/closeaccount.aspx",
-        "difficulty": "impossible",
-        "notes": "You can't delete your Teams account without deleting your entire Microsoft account. This is also true if you migrated your former Skype account to a Teams account. If you want to delete your entire Microsoft account click on the provided link or follow the instructions [here](https://justdeleteme.xyz/#microsoft).",
-        "notes_de": "Sie können Ihren Teams Account nicht löschen ohne Ihre gesamten Microsoft Account zu löschen. Dies gilt auch, wenn Sie Ihren alten Skype Account zu einem Teams Konto konvertiert haben.Sollten Sie Ihren Microsoft Account löschen wollen, klicken Sie auf den bereitgestellten Link, oder folgen Sie den Anweisungen [hier](https://justdeleteme.xyz/#microsoft).",
-        "domains": ["teams.microsoft.com"]
-    },
-    {
         "name": "TeamReach",
         "url": "https://www.teamreach.com/legal/en/privacy/",
         "difficulty": "hard",
@@ -20778,6 +20769,15 @@
         "domains": [
             "teamreach.com"
         ]
+    },
+    {
+        "name": "Teams",
+        "meta": "popular",
+        "url": "https://account.live.com/closeaccount.aspx",
+        "difficulty": "impossible",
+        "notes": "You can't delete your Teams account without deleting your entire Microsoft account. This is also true if you migrated your former Skype account to a Teams account. If you want to delete your entire Microsoft account click on the provided link or follow the instructions [here](https://justdeleteme.xyz/#microsoft).",
+        "notes_de": "Sie können Ihren Teams Account nicht löschen ohne Ihre gesamten Microsoft Account zu löschen. Dies gilt auch, wenn Sie Ihren alten Skype Account zu einem Teams Konto konvertiert haben.Sollten Sie Ihren Microsoft Account löschen wollen, klicken Sie auf den bereitgestellten Link, oder folgen Sie den Anweisungen [hier](https://justdeleteme.xyz/#microsoft).",
+        "domains": ["teams.microsoft.com"]
     },
     {
         "name": "TeamSpeak",
