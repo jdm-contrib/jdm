@@ -14561,6 +14561,13 @@
         "domains": ["nearpod.com"]
     },
     {
+        "name": "Nebula",
+        "url": "https://nebula.tv/settings/account/delete",
+        "difficulty": "easy",
+        "notes": "If you have an active subscription, cancel it first, then confirm the deletion on the account deletion page.",
+        "domains": ["nebula.tv"]
+    },
+    {
         "name": "Neocities.org",
         "url": "https://neocities.org/settings#delete",
         "difficulty": "easy",
