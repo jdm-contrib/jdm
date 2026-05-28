@@ -16487,6 +16487,14 @@
         ]
     },
     {
+        "name": "Pikkado",
+        "url": "https://www.pikkado.com/contact/en",
+        "difficulty": "hard",
+        "notes": "There is no self-service account deletion. Contact support to request deletion of your account and personal data.",
+        "email": "webmaster@en.pikkado.com",
+        "domains": ["pikkado.com"]
+    },
+    {
         "name": "Pillpack",
         "url": "https://help.pillpack.com/hc/en-us/requests/new",
         "difficulty": "hard",
