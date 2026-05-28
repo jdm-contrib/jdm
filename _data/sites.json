@@ -2498,6 +2498,14 @@
         "domains": ["betterment.com"]
     },
     {
+        "name": "Beyond All Reason",
+        "url": "https://www.beyondallreason.info/privacy",
+        "difficulty": "hard",
+        "notes": "Account deletion requires sending an email to the team, who will process the request.",
+        "email": "delete@beyondallreason.info",
+        "domains": ["beyondallreason.info"]
+    },
+    {
         "name": "BeyondMenu",
         "url": "https://www.beyondmenu.com/manageaccount.aspx",
         "difficulty": "easy",
