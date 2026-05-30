@@ -5778,6 +5778,13 @@
         "domains": ["dollskill.com"]
     },
     {
+        "name": "Domino's Pizza",
+        "url": "https://www.dominos.ca/en/pages/content/customer-service/faq",
+        "difficulty": "hard",
+        "notes": "Self-service account deletion is no longer available. Contact customer service to request deletion of your account and personal data.",
+        "domains": ["dominos.ca"]
+    },
+    {
         "name": "DonationAlerts",
         "url": "https://www.donationalerts.com/dashboard/general-settings/account",
         "notes": "Press \"Delete account\" under the \"Account removal\". Your account will be deleted within a month.",
