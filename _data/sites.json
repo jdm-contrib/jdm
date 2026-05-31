@@ -24644,6 +24644,16 @@
         ]
     },
     {
+        "name": "Zepp/Zepp Life",
+        "url": "https://www.zepp.com/privacy-support",
+        "difficulty": "easy",
+        "notes": "In the specified page, click \"Delete account\", and select the specific app where you have created the account, log in, press \"Delete account\" again, and then follow the instructions",
+        "domains": [
+            "zepp.com",
+            "user.huami.com"
+        ]
+    },
+    {
         "name": "Zero",
         "url": "https://zerofasting.zendesk.com/hc/en-us/articles/4402526167067-How-to-Delete-Your-Account-and-Data",
         "difficulty": "easy",
