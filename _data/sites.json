@@ -12779,6 +12779,14 @@
         "domains": ["makerbot.com"]
     },
     {
+        "name": "MakerWorld",
+        "url": "https://makerworld.com/en/my/settings/security",
+        "difficulty": "easy",
+        "notes": "In your account settings, click 'Delete Account' at the bottom of the 'Security and Privacy' page, then click 'DELETE'. You will have to re enter your credentials. This will also delete your Bambu Lab account since they are the same one.",
+        "notes_fr": "Dans les paramètres de votre compte, Sécurité et vie privée, cliquez sur 'Supprimer le Compte' tout en bas de la page. Re saisissez vos informations de connexion puis validez. Supprimer votre compte MakerWorld supprimera également votre compte Bambu Lab car ce sont les mêmes comptes",
+        "domains": ["makerworld.com"]
+    },
+    {
         "name": "MangaDex",
         "url": "https://forums.mangadex.org/threads/please-delete-my-account.1593021/#post-20156082",
         "difficulty": "hard",
