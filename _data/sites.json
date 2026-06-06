@@ -16632,6 +16632,13 @@
         "domains": ["pixelstarships.com"]
     },
     {
+        "name": "Pixeldrain",
+        "url": "https://pixeldrain.com/user/settings",
+        "difficulty": "easy",
+        "notes": "Log into your account, visit the account settings, and scroll down to find a delete button.",
+        "domains": ["pixeldrain.com"]
+    },
+    {
         "name": "Pixilart",
         "url": "https://www.pixilart.com/settings/delete",
         "difficulty": "easy",
