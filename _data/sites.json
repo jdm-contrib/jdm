@@ -2669,6 +2669,16 @@
         "domains": ["bkool.com"]
     },
     {
+        "name": "BlaBlaCar",
+        "url": "https://www.blablacar.co.uk/dashboard/profile/close",
+        "difficulty": "medium",
+        "notes": " Indicate the reason why you are deleting your account, whether you would recommend BlaBlaCar, and how it could be improved (minimum 10 characters), then click \"Close my account\". Your data will be deleted right away.",
+        "domains": [
+            "blablacar.com",
+            "blablacar.co.uk"
+        ]
+    },
+    {
         "name": "BlackBox",
         "url": "https://www.blackbox.global/contact",
         "difficulty": "hard",
