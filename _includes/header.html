@@ -32,10 +32,8 @@
     <script src="{{ site.baseurl }}/assets/js/libs/jquery.dropdown.js"></script>
     <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
 </head>
-{% if page.lang == 'ar' or page.lang == 'fa' %}
-    {% assign rtl = true %}
-{% else %}
-    {% assign rtl = false %}
+{% if page.rtl %}
+    {% assign rtl = page.rtl %}
 {% endif %}
 <body lang="{{ page.lang }}"{% if rtl %} dir="rtl"{% endif %}>
 
