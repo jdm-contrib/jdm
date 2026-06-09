@@ -9113,6 +9113,17 @@
         ]
     },
     {
+        "name": "Grok / xAI",
+        "url": "https://accounts.x.ai/data",
+        "difficulty": "easy",
+        "notes": "Open the linked page, enter your email. Your account will be deleted in 30 days. To cancel your request, log in again.",
+        "domains": [
+            "accounts.x.ai",
+            "x.ai",
+            "grok.com"
+        ]
+    },
+    {
         "name": "GroupMe",
         "url": "https://app.groupme.com/profile",
         "difficulty": "easy",
