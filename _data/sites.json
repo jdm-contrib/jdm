@@ -4307,6 +4307,16 @@
         "domains": ["codeforces.com"]
     },
     {
+        "name": "CodeHut",
+        "url": "https://codehut.co.uk/about",
+        "difficulty": "hard",
+        "notes": "Send email to privacy@codehut.co.uk to request account deletion.",
+        "email": "privacy@codehut.co.uk",
+        "domains": [
+            "codehut.co.uk"
+        ]
+    },
+    {
         "name": "Codeium",
         "url": "https://codeium.com/settings",
         "difficulty": "easy",
