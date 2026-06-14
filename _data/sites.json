@@ -3098,8 +3098,8 @@
         "name": "Brain.fm",
         "url": "https://www.brain.fm/privacy",
         "difficulty": "hard",
-        "notes": "Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working.",
-        "email": "privacy@brain.fm",
+        "notes": "It was previously possible to send an e-Mail to \"privacy@brain.fm\", but doing so lately returns an automatic reply stating that the address is not found. You may still try with the e-Mail address found in their Privacy Policy.<br><br>Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working.",
+        "email": "support@brain.fm",
         "email_subject": "Account Deletion Request",
         "domains": ["brain.fm"]
     },
