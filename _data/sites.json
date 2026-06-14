@@ -8658,6 +8658,16 @@
         "domains": ["makegoodfood.ca"]
     },
     {
+        "name": "Good Good Good",
+        "url": "https://www.goodgoodgood.co/good-good-good-policies",
+        "difficulty": "hard",
+        "notes": "The account page has no deletion button and also there is no help page in any kind of way that explains how to delete it.",
+        "email": "hello@goodgoodgood.co",
+        "email_subject": "Good Good Good Account Deletion Request",
+        "email_body": "Hi, Please delete my account which is registered under this email address.",
+        "domains": ["goodgoodgood.co"]
+    },
+    {
         "name": "Good Noows",
         "url": "https://goodnoows.com",
         "difficulty": "easy",
