@@ -19794,6 +19794,7 @@
         "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
         "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "email": "thomas@splitkb.com",
+        "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account, my email is XXXXXX",
         "domains": ["splitkb.com"]
     },
