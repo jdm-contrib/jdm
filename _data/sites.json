@@ -13963,6 +13963,17 @@
         "domains": ["monkeytype.com"]
     },
     {
+        "name": "Monnaie de Paris",
+        "url": "https://www.monnaiedeparis.fr/en/gdpr/customer/settings/",
+        "difficulty": "hard",
+        "notes": "Contact support via email and request your account to be deleted.",
+        "notes_fr": "Contactez le support par mail pour faire supprimer votre compte",
+        "email": "donneespersonnelles@monnaiedeparis.fr",
+        "email_subject": "Demande de suppression de compte",
+        "email_body": "Bonjour, Je souhaiterai faire valoir mes droits et faire supprimer mon compte XXX",
+        "domains": ["monnaiedeparis.fr"]
+    },
+    {
         "name": "Monoprice",
         "url": "https://www.monoprice.com/Help/Index?pn=contact",
         "difficulty": "hard",
