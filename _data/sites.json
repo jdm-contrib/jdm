@@ -19955,6 +19955,13 @@
         "domains": ["star-t.fr"]
     },
     {
+        "name": "Starbreeze",
+        "url": "https://nebula.starbreeze.com/account/account-deletion",
+        "difficulty": "easy",
+        "notes": "Go to your account and select 'Delete account' then enter your password and click 'Confirm'. The account is deleted in 28 days.",
+        "domains": ["starbreeze.com"]
+    },
+    {
         "name": "Starbucks",
         "url": "https://www.starbucks.com/terms/privacy-policy/#contact_us",
         "difficulty": "hard",
