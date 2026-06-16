@@ -17018,7 +17018,7 @@
     },
     {
         "name": "Postman",
-        "url": "https://app.getpostman.com/dashboard/profile",
+        "url": "https://web.postman.co/settings/me/delete",
         "difficulty": "easy",
         "notes": "Log into your account, then click the 'Delete Account' button on your profile page.",
         "notes_tr": "Hesabınıza giriş yapın, ve profil sayfanızdaki \"Hesabı Sil\" tuşuna tıklayın.",
