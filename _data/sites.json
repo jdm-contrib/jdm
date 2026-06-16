@@ -3098,7 +3098,7 @@
         "name": "Brain.fm",
         "url": "https://www.brain.fm/privacy",
         "difficulty": "hard",
-        "notes": "It was previously possible to send an e-Mail to \"privacy@brain.fm\", but doing so lately returns an automatic reply stating that the address is not found. You may still try with the e-Mail address found in their Privacy Policy.<br><br>Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working.",
+        "notes": "Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working. Alternatively, if you have downloaded the app, you can go to your profile, tap on account information, edit profile and select \"Delete Account\".",
         "email": "support@brain.fm",
         "email_subject": "Account Deletion Request",
         "domains": ["brain.fm"]
@@ -8656,16 +8656,6 @@
         "notes": "It is impossible to close your account. You can contact the customer service just for them to suspend your account (and payments).",
         "notes_fr": "Il est impossible de fermer le compte. Vous devez contacter le support à la clientèle pour suspendre votre compte (et les paiements).",
         "domains": ["makegoodfood.ca"]
-    },
-    {
-        "name": "Good Good Good",
-        "url": "https://www.goodgoodgood.co/good-good-good-policies",
-        "difficulty": "hard",
-        "notes": "The account page has no deletion button and also there is no help page in any kind of way that explains how to delete it.",
-        "email": "hello@goodgoodgood.co",
-        "email_subject": "Good Good Good Account Deletion Request",
-        "email_body": "Hi, Please delete my account which is registered under this email address.",
-        "domains": ["goodgoodgood.co"]
     },
     {
         "name": "Good Noows",
