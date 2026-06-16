@@ -3098,8 +3098,8 @@
         "name": "Brain.fm",
         "url": "https://www.brain.fm/privacy",
         "difficulty": "hard",
-        "notes": "Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working.",
-        "email": "privacy@brain.fm",
+        "notes": "Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working. Alternatively, if you have downloaded the app, you can go to your profile, tap on account information, edit profile and select \"Delete Account\".",
+        "email": "support@brain.fm",
         "email_subject": "Account Deletion Request",
         "domains": ["brain.fm"]
     },
@@ -13658,9 +13658,9 @@
     },
     {
         "name": "Minehut",
-        "url": "https://app.minehut.com/support/form",
-        "difficulty": "hard",
-        "notes": "The only way to contact them is at the linked form or through [here](https://support.minehut.com/hc/en-us/requests/new).",
+        "url": "https://app.minehut.com/profile",
+        "difficulty": "medium",
+        "notes": "Look for and click on the \"Delete\" account button. You will receive a confirmation email containing a link where you will need to confirm the deletion.",
         "domains": [
             "minehut.com",
             "app.minehut.com",
