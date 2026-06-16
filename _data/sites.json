@@ -8485,14 +8485,6 @@
         ]
     },
     {
-        "name": "Glitch",
-        "url": "https://glitch.com/settings/account",
-        "difficulty": "easy",
-        "notes": "Log in first, go to the url, scroll down and press delete account.",
-        "notes_tr": "İlk olarak giriş yapın, bağlantıya girip aşağı kaydırın ve \"Hesabı Sil\" tuşuna tıklayın.",
-        "domains": ["glitch.com"]
-    },
-    {
         "name": "Globo",
         "url": "https://minhaconta-v2.globo.com/#/excluir-conta",
         "difficulty": "easy",
