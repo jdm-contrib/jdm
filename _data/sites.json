@@ -7812,6 +7812,13 @@
         ]
     },
     {
+        "name": "frndlytv",
+        "url": "https://privacy.frndlytv.com/data-request",
+        "difficulty": "hard",
+        "notes": "On the form provided, select \"Date Delete Request\" and submit.",
+        "domains": ["frndlytv.com"]
+    },
+    {
         "name": "Frontend Mentor",
         "url": "https://www.frontendmentor.io/settings/account",
         "difficulty": "easy",
@@ -8484,14 +8491,6 @@
             "studentglide.co.uk",
             "glide.co.uk"
         ]
-    },
-    {
-        "name": "Glitch",
-        "url": "https://glitch.com/settings/account",
-        "difficulty": "easy",
-        "notes": "Log in first, go to the url, scroll down and press delete account.",
-        "notes_tr": "İlk olarak giriş yapın, bağlantıya girip aşağı kaydırın ve \"Hesabı Sil\" tuşuna tıklayın.",
-        "domains": ["glitch.com"]
     },
     {
         "name": "Globo",
@@ -14372,12 +14371,9 @@
     },
     {
         "name": "MyHeritage",
-        "url": "https://MyHeritage.com/",
-        "difficulty": "hard",
-        "notes": "You have to contact the support team by email (privacy_support@myheritage.com) to delete both your site and your account.",
-        "email": "privacy_support@myheritage.com",
-        "email_subject": "Account Deletion Request",
-        "email_body": "Hi, I request to permanently remove all of my data from your platform. Please provide an update on the process via this email.",
+        "url": "https://www.myheritage.com/delete-account",
+        "difficulty": "easy",
+        "notes": "Go to 'Account Settings' and then click 'Delete Account'.",
         "domains": ["MyHeritage.com"]
     },
     {
@@ -17041,7 +17037,7 @@
     },
     {
         "name": "Postman",
-        "url": "https://app.getpostman.com/dashboard/profile",
+        "url": "https://web.postman.co/settings/me/delete",
         "difficulty": "easy",
         "notes": "Log into your account, then click the 'Delete Account' button on your profile page.",
         "notes_tr": "Hesabınıza giriş yapın, ve profil sayfanızdaki \"Hesabı Sil\" tuşuna tıklayın.",
@@ -20005,6 +20001,13 @@
         "notes": "On your profile page, scroll down, click on \"Supprimer mon compte\" then click on \"Oui, supprimer\".",
         "notes_fr": "Sur votre page de profil, descendez, cliquez sur \"Supprimer mon compte\" puis cliquez sur \"Oui, supprimer\".",
         "domains": ["star-t.fr"]
+    },
+    {
+        "name": "Starbreeze",
+        "url": "https://nebula.starbreeze.com/account/account-deletion",
+        "difficulty": "easy",
+        "notes": "Go to your account and select 'Delete account' then enter your password and click 'Confirm'. The account is deleted in 28 days.",
+        "domains": ["starbreeze.com"]
     },
     {
         "name": "Starbucks",
