@@ -7804,6 +7804,13 @@
         ]
     },
     {
+        "name": "frndlytv",
+        "url": "https://privacy.frndlytv.com/data-request",
+        "difficulty": "hard",
+        "notes": "On the form provided, select \"Date Delete Request\" and submit.",
+        "domains": ["frndlytv.com"]
+    },
+    {
         "name": "Frontend Mentor",
         "url": "https://www.frontendmentor.io/settings/account",
         "difficulty": "easy",
