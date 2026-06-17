@@ -22240,6 +22240,17 @@
         ]
     },
     {
+        "name": "ukr.net",
+        "url": "https://accounts.ukr.net/settings/delete",
+        "difficulty": "easy",
+        "notes": "Navigate where your email is stored, click the menu and then search for \"Account Deletion\" or \"Видалення Аккаунту\"",
+        "domains": [
+            "ukr.net",
+            "mail.ukr.net",
+            "edisk.ukr.net"
+        ]
+    },
+    {
         "name": "Ultimate Guitar",
         "url": "https://www.ultimate-guitar.com/forum/profile/delete-account",
         "difficulty": "easy",
