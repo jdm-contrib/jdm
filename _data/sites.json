@@ -22407,7 +22407,7 @@
     },
     {
         "name": "Uptime Robot",
-        "url": "https://uptimerobot.com/dashboard#mySettings",
+        "url": "https://dashboard.uptimerobot.com/account/details",
         "difficulty": "medium",
         "notes": "Login to your account and click on 'My Settings' or follow the link. On the 'Delete Account' section click on 'I still want to delete the account' link & click on 'Send account deletion e-mail'. Check your email and open provided link. Lastly confirm deletion by click on 'Delete Account'.",
         "notes_tr": "Hesabınıza giriş yapın ve \"Ayarlarım\" bağlantısını tıklayın veya verilen bağlantıya girin. \"Hesabı Sil\" bölümünde \"Hala hesabımı silmek istiyorum\" \"Hesap silme maili gönder\" tuşuna tıklayın. E-postanızı kontrol edin ve gönderilen bağlantıyı açın. Son olarak, \"Hesabı Sil\" bağlantısını tıklayarak silme işlemini onaylayın.",
