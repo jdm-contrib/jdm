@@ -8665,6 +8665,14 @@
         "domains": ["makegoodfood.ca"]
     },
     {
+        "name": "Good Good Good",
+        "url": "https://www.goodgoodgood.co/good-good-good-policies",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account and personal information.",
+        "email": "hello@goodgoodgood.co",
+        "domains": ["goodgoodgood.co"]
+    },
+    {
         "name": "Good Noows",
         "url": "https://goodnoows.com",
         "difficulty": "easy",
