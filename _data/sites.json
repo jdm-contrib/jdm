@@ -15939,11 +15939,20 @@
         "domains": ["overwolf.com"]
     },
     {
-        "name": "OVHcloud UK",
-        "url": "https://www.ovh.co.uk/personal-data-protection/exercise-your-rights?lsdDoc=exercising-your-rights",
-        "difficulty": "medium",
-        "notes": "This is for UK account holders only. Ensure that you have terminated all products and services before filling the form and deleting your account. You need to provide proof of identity.",
-        "domains": ["ovh.co.uk"]
+        "name": "OVHcloud",
+        "url": "https://help.ovhcloud.com/",
+        "difficulty": "hard",
+        "notes": "Before deleting your account, you must ensure that you have no active services or pending bills. You need to create a ticket in the 'Manage my account' section, stating that you wish to close your account.",
+        "domains": [
+            "ovhcloud.com",
+            "ovh.com",
+            "ovh.es",
+            "ovh.fr",
+            "ovh.it",
+            "ovh.ca",
+            "ovh.us",
+            "ovh.co.uk"
+        ]
     },
     {
         "name": "Oxford Dictionaries API",
