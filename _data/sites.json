@@ -24949,5 +24949,12 @@
         "notes": "Go to the linked page and click \"Удалить учетную запись\".",
         "notes_ru": "Перейдите по ссылке и нажмите кнопку \"Удалить учетную запись\".",
         "domains": ["sdamgia.ru"]
+    },
+    {
+    "name": "Hexado.pro",
+    "url": "https://dash.hexado.pro/tickets",
+    "difficulty": "medium",
+    "notes": "Open a support ticket to request account deletion.",
+    "domains": ["hexado.pro", "dash.hexado.pro", "hexado.cloud", "dedicated.hexado.cloud", "vps.hexado.pro", "antiddos.hexado.cloud"]
     }
 ]
