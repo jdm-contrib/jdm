@@ -19987,6 +19987,13 @@
         "domains": ["hellostake.com"]
     },
     {
+        "name": "Stamplo",
+        "url": "https://stamplo.kids/parent/settings/delete",
+        "difficulty": "easy",
+        "notes": "Log in to your parent account, then click 'Delete account' and confirm.",
+        "domains": ["stamplo.kids"]
+    },
+    {
         "name": "Stan",
         "url": "https://help.stan.com.au/hc/en-us/requests/new",
         "difficulty": "hard",
