@@ -7311,6 +7311,14 @@
         "domains": ["fixer.io"]
     },
     {
+        "name": "FixMyCar",
+        "url": "https://www.whocanfixmycar.com/terms#termination-of-services",
+        "difficulty": "hard",
+        "notes": "You must contact support.",
+        "email": "team@whocanfixmycar.com",
+        "domains": ["whocanfixmycar.com"]
+    },
+    {
         "name": "FKwallet",
         "url": "https://fkwallet.io",
         "difficulty": "impossible",
@@ -7327,14 +7335,6 @@
             "fkwallet.io",
             "fkwallet.com"
         ]
-    },
-    {
-        "name": "FixMyCar",
-        "url": "https://www.whocanfixmycar.com/terms#termination-of-services",
-        "difficulty": "hard",
-        "notes": "You must contact support.",
-        "email": "team@whocanfixmycar.com",
-        "domains": ["whocanfixmycar.com"]
     },
     {
         "name": "Flat",
