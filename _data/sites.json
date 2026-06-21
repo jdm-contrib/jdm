@@ -11884,6 +11884,13 @@
         "domains": ["lemehost.com"]
     },
     {
+        "name": "LemonCraft",
+        "url": "https://lemoncraft.ru/privacy.html",
+        "difficulty": "impossible",
+        "notes": "A privacy policy states that a user can revoke a processing of personal data by contacting with an email or VK (russian social network). VK requires a registration in it, so it's not a good solution. If you'll try to contact by the email, you don't get an answer.",
+        "domains": ["lemoncraft.ru"]
+    },
+    {
         "name": "LendingTree",
         "url": "https://www.lendingtree.com/about/contact-us/",
         "difficulty": "impossible",
