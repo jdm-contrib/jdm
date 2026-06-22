@@ -9654,11 +9654,18 @@
         "domains": ["hetzner.com"]
     },
     {
-    "name": "Hexado.pro",
-    "url": "https://dash.hexado.pro/tickets",
-    "difficulty": "medium",
-    "notes": "Open a support ticket to request account deletion.",
-    "domains": ["hexado.pro", "dash.hexado.pro", "hexado.cloud", "dedicated.hexado.cloud", "vps.hexado.pro", "antiddos.hexado.cloud"]
+        "name": "Hexado.pro",
+        "url": "https://dash.hexado.pro/tickets",
+        "difficulty": "hard",
+        "notes": "Open a support ticket to request account deletion.",
+        "domains": [
+            "hexado.pro",
+            "dash.hexado.pro",
+            "hexado.cloud",
+            "dedicated.hexado.cloud",
+            "vps.hexado.pro",
+            "antiddos.hexado.cloud"
+        ]
     },
     {
         "name": "hi ai",
