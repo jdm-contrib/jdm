@@ -31,10 +31,26 @@ $(function(){
             var siteHeader = $(this).find(".site-header")[0];
             var siteTitle = siteHeader.innerText.trim().toLowerCase();
             var siteUrl = siteHeader.href.toLowerCase();
+            var siteDomains = $(this).data("domains") || [];
             var lowerTerm = term.toLowerCase();
+            var normalizedDomains = siteDomains.map(function(domain) {
+                return domain.toLowerCase();
+            });
 
-            // returns true if lowerTerm isn't found in site title or URL
-            return Math.max(siteTitle.indexOf(lowerTerm), siteUrl.indexOf(lowerTerm)) === -1;
+            var startsWithDomain = normalizedDomains.some(function(domain) {
+                return domain.indexOf(lowerTerm) === 0;
+            });
+
+            if (startsWithDomain) {
+                return false;
+            }
+
+            var domainMatch = normalizedDomains.some(function(domain) {
+                return domain.indexOf(lowerTerm) !== -1;
+            });
+
+            // returns true if lowerTerm isn't found in site title or URL or domains
+            return siteTitle.indexOf(lowerTerm) === -1 && siteUrl.indexOf(lowerTerm) === -1 && !domainMatch;
         });
 
         // Insert the term into the search field
