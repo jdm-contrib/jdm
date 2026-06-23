@@ -3535,19 +3535,19 @@
         "domains": ["cariboutests.com"]
     },
     {
+        "name": "Carrd.co",
+        "url": "https://carrd.co/dashboard/account/delete",
+        "difficulty": "easy",
+        "notes": "Just enter password and confirm deletion!",
+        "domains": ["carrd.co"]
+    },
+    {
         "name": "Carrefour",
         "url": "https://www.carrefour.fr/nous-contacter/rgpd/formulaire",
         "difficulty": "medium",
         "notes": "Fill out the GDPR form. Select 'Droit à l'effacement de vos données' and choose the service(s) concerned (Carrefour.fr, Carte Club Carrefour, or specify others).",
         "notes_fr": "Remplissez le formulaire RGPD. Sélectionnez 'Droit à l'effacement de vos données' et choisissez le(s) service(s) concerné(s) (Carrefour.fr, Carte Club Carrefour ou précisez d'autres services).",
         "domains": ["carrefour.fr"]
-    },
-    {
-        "name": "Carrd.co",
-        "url": "https://carrd.co/dashboard/account/delete",
-        "difficulty": "easy",
-        "notes": "Just enter password and confirm deletion!",
-        "domains": ["carrd.co"]
     },
     {
         "name": "Cars Région Isère",
