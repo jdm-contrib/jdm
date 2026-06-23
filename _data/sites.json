@@ -3542,6 +3542,14 @@
         "domains": ["carrd.co"]
     },
     {
+        "name": "Carrefour",
+        "url": "https://www.carrefour.fr/nous-contacter/rgpd/formulaire",
+        "difficulty": "medium",
+        "notes": "Fill out the GDPR form. Select 'Droit à l'effacement de vos données' and choose the service(s) concerned (Carrefour.fr, Carte Club Carrefour, or specify others).",
+        "notes_fr": "Remplissez le formulaire RGPD. Sélectionnez 'Droit à l'effacement de vos données' et choisissez le(s) service(s) concerné(s) (Carrefour.fr, Carte Club Carrefour ou précisez d'autres services).",
+        "domains": ["carrefour.fr"]
+    },
+    {
         "name": "Cars Région Isère",
         "url": "https://carsisere.auvergnerhonealpes.fr/fr/mon-espace/159/Member/editprofile",
         "difficulty": "easy",
