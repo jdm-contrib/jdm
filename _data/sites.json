@@ -10984,7 +10984,12 @@
         "notes": "License keys will not be deleted.",
         "domains": [
             "jetbrains.com",
-            "account.jetbrains.com"
+            "account.jetbrains.com",
+            "academy.jetbrains.com",
+            "marketplace.jetbrains.com",
+            "plugins.jetbrains.com",
+            "youtrack.jetbrains.com",
+            "air.dev"
         ]
     },
     {
@@ -10992,7 +10997,10 @@
         "url": "https://hyperskill.org/delete-account",
         "difficulty": "easy",
         "notes": "Visit the link to delete your account and enter your password. Note that it won't automatically cancel your subscription.",
-        "domains": ["hyperskill.org"]
+        "domains": [
+            "hyperskill.org",
+            "academy.jetbrains.com"
+        ]
     },
     {
         "name": "JetBrains Space",
