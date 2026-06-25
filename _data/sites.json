@@ -2694,9 +2694,9 @@
     },
     {
         "name": "Blackwing",
-        "url": "https://blackwing602.com/pages/privacy-requests",
-        "difficulty": "medium",
-        "notes": "Follow the link, select your region, click \"Request Deletion\", enter your email, then press confirm both in your email and on the page it takes you to. They say your request will be processed in 30 days.",
+        "url": "https://blackwing602.com/pages/contact-us",
+        "difficulty": "hard",
+        "notes": "Fill out the form to contact support and have your personal information removed.",
         "domains": ["blackwing602.com"]
     },
     {
