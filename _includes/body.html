@@ -124,13 +124,10 @@
 <div id="language-dropdown" class="language-dropdown dropdown dropdown-tip dropdown-relative">
     <ul class="dropdown-menu">
         {% assign sorted_files = (site.data.trans | sort:0) %}
+        <li class="auto"><a href="/">Auto</a></li>
         {% for lang in sorted_files %}
             {% assign lang_code = lang[0] %}
-            {% if lang_code == 'en' %}
-                {% assign url = './' %}
-            {% else %}
-                {% assign url = lang_code %}
-            {% endif %}
+            {% assign url = lang_code %}
             <li class="{{ lang_code }}"><a href="{{ url }}">{{ site.data.trans[lang_code].name }}</a></li>
         {% endfor %}
     </ul>

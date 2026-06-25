@@ -42,3 +42,4 @@ Typically, using the shortest available [ISO 639 code](https://www.loc.gov/stand
 2. Copy the contents of `en.json` to your new file.
 3. Translate each line.
 4. Within the `_pages/` directory, copy .`_pages/index.html` to a new `CODE.html` file, and update the `lang: CODE` line to match the new page's code. If the new language is RTL, add a line says `rtl: true`.
+5. Within the `_includes/header.html` file, update the lines who define all the languages (`window.AVAILABLE_LANGUAGES`) and add your new language, to support auto-redirection.
