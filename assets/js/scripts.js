@@ -33,15 +33,15 @@ $(function(){
             var siteUrl = siteHeader.href.toLowerCase();
             var siteDomains = $(this).data("domains") || [];
             var lowerTerm = term.toLowerCase();
+
             var normalizedDomains = siteDomains.map(function(domain) {
                 return domain.toLowerCase();
             });
-
             var domainMatch = normalizedDomains.some(function(domain) {
                 return domain.indexOf(lowerTerm) !== -1;
             });
 
-            // returns true if lowerTerm isn't found in site title or URL or domains
+            // returns true if lowerTerm isn't found in site title, URL or domains
             return siteTitle.indexOf(lowerTerm) === -1 && siteUrl.indexOf(lowerTerm) === -1 && !domainMatch;
         });
 
