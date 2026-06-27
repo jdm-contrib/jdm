@@ -36,15 +36,7 @@ $(function(){
             var normalizedDomains = siteDomains.map(function(domain) {
                 return domain.toLowerCase();
             });
-
-            var startsWithDomain = normalizedDomains.some(function(domain) {
-                return domain.indexOf(lowerTerm) === 0;
-            });
-
-            if (startsWithDomain) {
-                return false;
-            }
-
+            
             var domainMatch = normalizedDomains.some(function(domain) {
                 return domain.indexOf(lowerTerm) !== -1;
             });
