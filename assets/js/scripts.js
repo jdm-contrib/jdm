@@ -36,7 +36,7 @@ $(function(){
             var normalizedDomains = siteDomains.map(function(domain) {
                 return domain.toLowerCase();
             });
-            
+
             var domainMatch = normalizedDomains.some(function(domain) {
                 return domain.indexOf(lowerTerm) !== -1;
             });
