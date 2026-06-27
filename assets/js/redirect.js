@@ -5,8 +5,8 @@ function onRootPage() {
 }
 
 function getLanguageMatch(language) {
-    const available = Array.isArray(window.AVAILABLE_LANGUAGES) ? window.AVAILABLE_LANGUAGES : [];
-    if (!language || !available.length) {
+    const available = window.availableLanguages;
+    if (!language) {
         return null;
     }
 
