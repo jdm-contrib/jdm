@@ -37,8 +37,15 @@ $(function(){
             var normalizedDomains = siteDomains.map(function(domain) {
                 return domain.toLowerCase();
             });
+            var startsWithDomain = normalizedDomains.some(function(domain) {
+                return domain.indexOf(lowerTerm) === 0;
+            });
+            if (startsWithDomain) {
+                return false;
+            }
             var domainMatch = normalizedDomains.some(function(domain) {
-                var normalizedLowerTerm = lowerTerm.trimStart("www.").trimStart("https://");
+                var normalizedLowerTerm = lowerTerm.replace(/^www\./, "").replace(/^http(s)?:\/\//, "");
+                
                 return domain.indexOf(normalizedLowerTerm) !== -1;
             });
 
