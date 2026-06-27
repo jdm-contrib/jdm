@@ -23536,7 +23536,10 @@
         "notes_ca": "Des de l'aplicació: Settings ⮕ Account ⮕ Delete your account.",
         "notes_es": "Desde la aplicación: Settings ⮕ Account ⮕ Delete your account.",
         "notes_pl": "Z aplikacji: Ustawienia ⮕ Konto ⮕ Usuń konto.",
-        "domains": ["whatsapp.com"]
+        "domains": [
+            "whatsapp.com",
+            "web.whatsapp.com"
+        ]
     },
     {
         "name": "When I Work",
