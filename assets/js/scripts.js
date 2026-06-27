@@ -38,7 +38,8 @@ $(function(){
                 return domain.toLowerCase();
             });
             var domainMatch = normalizedDomains.some(function(domain) {
-                return domain.indexOf(lowerTerm) !== -1;
+                var normalizedLowerTerm = lowerTerm.trimStart("www.").trimStart("https://");
+                return domain.indexOf(normalizedLowerTerm) !== -1;
             });
 
             // returns true if lowerTerm isn't found in site title, URL or domains
