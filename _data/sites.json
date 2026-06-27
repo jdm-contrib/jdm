@@ -17078,7 +17078,8 @@
     {
         "name": "Portillos",
         "url": "https://www.portillos.com/contactus/",
-        "difficulty": "Use the provided link or call at 866-YUM-BEEF to request deletion.",
+        "difficulty": "hard",
+        "notes": "Use the provided link or call at 866-YUM-BEEF to request deletion.",
         "domains": ["portillos.com"]
     },
     {
