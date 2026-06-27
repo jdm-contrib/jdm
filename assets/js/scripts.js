@@ -45,7 +45,7 @@ $(function(){
             }
             var domainMatch = normalizedDomains.some(function(domain) {
                 var normalizedLowerTerm = lowerTerm.replace(/^www\./, "").replace(/^http(s)?:\/\//, "");
-                
+
                 return domain.indexOf(normalizedLowerTerm) !== -1;
             });
 
