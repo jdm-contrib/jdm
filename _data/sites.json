@@ -17076,6 +17076,12 @@
         ]
     },
     {
+        "name": "Portillos",
+        "url": "https://www.portillos.com/contactus/",
+        "difficulty": "Use the provided link or call at 866-YUM-BEEF to request deletion.",
+        "domains": ["portillos.com"]
+    },
+    {
         "name": "postale.io",
         "url": "https://postale.io/admin/my/show",
         "difficulty": "easy",
