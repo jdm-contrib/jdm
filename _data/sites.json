@@ -22592,10 +22592,10 @@
     },
     {
         "name": "Valence Romans Mobilités",
-        "url": "https://start.valenceromansmobilites.fr/fr/compte/informations",
-        "difficulty": "easy",
-        "notes": "On your account information page, click on \"Supprimer mon compte\", confirm your email address and your password, and click on \"Supprimer mon compte\".",
-        "notes_fr": "Sur la page d'informations sur votre compte, cliquez sur \"Supprimer mon compte\", confirmez votre adress email et votre mot de passe, et cliquez sur \"Supprimer mon compte\".",
+        "url": "https://www.valenceromansmobilites.fr/contactez-citea/",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account",
+        "notes_fr": "Vous devez contacter les support pour supprimer votre compte",
         "domains": ["valenceromansmobilites.fr"]
     },
     {
