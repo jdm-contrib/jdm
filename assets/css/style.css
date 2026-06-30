@@ -569,6 +569,19 @@ footer {
     float: left;
 }
 
+[dir="rtl"] .search .search-container {
+    padding: 0 0 0 30px;
+}
+
+[dir="rtl"] .search .search-container label {
+    left: 0;
+    right: auto;
+}
+
+[dir="rtl"] #search {
+    direction: rtl;
+}
+
 /* Media queries */
 @media only screen and (max-width: 1000px) {
     .sites {
