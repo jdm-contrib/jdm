@@ -24,6 +24,9 @@
                 {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
                 <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% else %}{{entry.url}}{% endif %}">
                     <span class="name">{{ entry.name }}</span>
+                    {% if entry.meta == 'popular' %}
+                        <span class="popular-badge">Popular</span>
+                    {% endif %}
                     <img class="icon" src="{{ site.baseurl }}/assets/icons/link.svg" alt="URL" />
                 </a>
 

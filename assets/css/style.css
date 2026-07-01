@@ -303,6 +303,30 @@ main {
     text-transform: uppercase;
 }
 
+.popular-badge {
+    font-size: 11px;
+    border-radius: 9999px;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.easy .popular-badge {
+    background-color: color-mix(#7BAC7B 60%, white 40%);
+}
+.medium .popular-badge {
+    background-color: color-mix(#E8C674 70%, white 30%);
+}
+.hard .popular-badge {
+    background-color: color-mix(#D04343 70%, white 30%);
+}
+.limited .popular-badge {
+    background-color: color-mix(#B521CC 60%, white 40%);
+}
+.impossible .popular-badge {
+    background-color: color-mix(#000000 60%, white 40%);
+}
+
 .site-block .tooltip-content {
     background-color: #EAEBED;
     border: 1px solid #BFC6CC;
