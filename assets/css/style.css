@@ -155,6 +155,10 @@ header h1 span {
     direction: ltr;
 }
 
+#search::placeholder {
+    color: lightgray;
+}
+
 .search .search-container label {
     background: url('../img/spyglass.png');
     background-size: 20px 20px;
