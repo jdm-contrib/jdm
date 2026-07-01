@@ -34,6 +34,11 @@ $(function(){
             var siteDomains = $(this).data("domains") || [];
             var lowerTerm = term.toLowerCase();
 
+            // true if lowerTerm isn't found in site title or URL
+            if ((siteTitle.indexOf(lowerTerm) === -1 && siteUrl.indexOf(lowerTerm) === -1) === false) {
+                return false;
+            }
+
             var normalizedDomains = siteDomains.map(function(domain) {
                 return domain.toLowerCase();
             });
@@ -44,13 +49,11 @@ $(function(){
                 return false;
             }
             var domainMatch = normalizedDomains.some(function(domain) {
-                var normalizedLowerTerm = lowerTerm.replace(/^www\./, "").replace(/^http(s)?:\/\//, "");
+                var normalizedLowerTerm = lowerTerm.replace(/^http(s)?:\/\//, "").replace(/^www\./, "");
 
                 return domain.indexOf(normalizedLowerTerm) !== -1;
             });
-
-            // returns true if lowerTerm isn't found in site title, URL or domains
-            return siteTitle.indexOf(lowerTerm) === -1 && siteUrl.indexOf(lowerTerm) === -1 && !domainMatch;
+            return !domainMatch;
         });
 
         // Insert the term into the search field
