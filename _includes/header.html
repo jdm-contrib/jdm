@@ -28,9 +28,27 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
     <link type="application/opensearchdescription+xml" rel="search" href="{{ site.baseurl }}/opensearch.xml" title="JustDeleteMe">
 
+    {% assign page_langs = "" %}
+        {% for p in site.pages %}
+            {% if page_langs == "" %}
+                {% assign page_langs = p.lang %}
+            {% else %}
+                {% assign page_langs = page_langs | append: "," | append: p.lang %}
+            {% endif %}
+        {% endfor %}
+    {% assign page_langs = page_langs | split: "," | uniq | sort %}
+
+    <script>
+        window.availableLanguages = [
+            {% for lang in page_langs %}
+                "{{ lang }}"{% if forloop.last == false %},{% endif %}
+            {% endfor %}
+        ]
+    </script>
     <script src="{{ site.baseurl }}/assets/js/libs/jquery.js"></script>
     <script src="{{ site.baseurl }}/assets/js/libs/jquery.dropdown.js"></script>
     <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/redirect.js"></script>
 </head>
 {% if page.rtl %}
     {% assign rtl = page.rtl %}
