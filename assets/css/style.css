@@ -158,12 +158,6 @@ header h1 span {
 #search::placeholder {
     color: lightgray;
 }
-#search::-webkit-input-placeholder {
-    color: lightgray;
-}
-#search::-moz-placeholder {
-    color: lightgray;
-}
 
 .search .search-container label {
     background: url('../img/spyglass.png');
