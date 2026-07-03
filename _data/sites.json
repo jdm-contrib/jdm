@@ -16040,6 +16040,13 @@
         "domains": ["packagist.org"]
     },
     {
+        "name": "Packetra",
+        "url": "https://packetra.com/contact",
+        "difficulty": "hard",
+        "notes": "Open a support ticket via the contact page to request account and data deletion. Existing customers should use the Support form with the email address they signed up with.",
+        "domains": ["packetra.com"]
+    },
+    {
         "name": "Packetshare",
         "url": "https://www.packetshare.io/dashboard/",
         "difficulty": "easy",
