@@ -42,7 +42,7 @@
                 </p>
 
                 {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
-                {% if entry.notes or entry[lang_notes] or entry.email or entry.difficulty == 'easy' %}
+                {% if entry.notes or entry[lang_notes] or entry.email or entry.difficulty == 'easy' or entry.difficulty == 'hard' %}
                     <details class="tooltip-content">
                         {% if entry[lang_notes] %}
                             {{ entry[lang_notes] | markdownify }}
@@ -50,6 +50,8 @@
                             {{ entry.notes | markdownify }}
                         {% elsif entry.email %}
                             {{ site.data.trans[page.lang].defaultnote_email }}
+                        {% elsif entry.difficulty == 'hard' %}
+                            {{ site.data.trans[page.lang].defaultnote_hard }}
                         {% elsif entry.difficulty == 'easy' %}
                             {{ site.data.trans[page.lang].defaultnote_easy }}
                         {% endif %}
