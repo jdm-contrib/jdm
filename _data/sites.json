@@ -2700,6 +2700,13 @@
         "domains": ["blackwing602.com"]
     },
     {
+        "name": "Blaise Transit",
+        "url": "https://www.blaisetransit.com/contact-us",
+        "difficulty": "medium",
+        "notes": "Fill out the form to contact support and have your account deleted.",
+        "domains": ["blaisetransit.com"]
+    },
+    {
         "name": "Bleep",
         "url": "https://bleep.com/account/show",
         "difficulty": "hard",
