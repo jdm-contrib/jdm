@@ -30,6 +30,7 @@ SupportedLanguageKeys = [
     "androidapp",
     "contribute",
     "defaultnote_easy",
+    "defaultnote_hard",
     "defaultnote_email",
     "difficulty",
     "difficulty_easy",
