@@ -12480,7 +12480,9 @@
         "name": "LogMeIn / Hamachi",
         "url": "https://submit-irm.trustarc.com/services/validation/818563f9-8d9c-4029-880a-bc743fb49de5",
         "difficulty": "hard",
-        "notes": "Submit a request on the linked form. It can take up to 15 days for them to comply.",
+        "email": "privacy@goto.com",
+        "email_subject": "Delete my Account",
+        "email_body": "Please delete my account. My email is XXXXX.",
         "domains": [
             "logme.in",
             "logmein.com",
