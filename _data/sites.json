@@ -14883,6 +14883,14 @@
         "domains": ["newgrounds.com"]
     },
     {
+        "name": "News API",
+        "url": "https://newsapi.org/privacy",
+        "difficulty": "hard",
+        "email": "support@newsapi.org",
+        "email_body": "Please delete my account, my email is XXXXX.",
+        "domains": ["newsapi.org"]
+    },
+    {
         "name": "NewsBlur",
         "url": "https://www.newsblur.com/profile/delete_account",
         "difficulty": "easy",
