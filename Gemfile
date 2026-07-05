@@ -6,4 +6,6 @@ gem "jekyll", ">= 4.4.1"
 gem "logger", ">= 1.7.0"
 gem "html-proofer", ">= 5.2.1"
 
+gem "wdm", ">= 0.1.0" if Gem.win_platform?
+
 eval_gemfile "script/Gemfile"
