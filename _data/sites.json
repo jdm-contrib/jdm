@@ -21313,19 +21313,19 @@
         "domains": ["ti.com"]
     },
     {
-        "name": "Text.ru",
-        "url": "https://text.ru/user/profile/settings/secure",
-        "difficulty": "easy",
-        "notes_ru": "Перейдите по указанной ссылке и нажмите \"Удалить аккаунт\".",
-        "domains": ["text.ru"]
-    },
-    {
         "name": "Text Verified",
         "url": "https://www.textverified.com/app/account",
         "difficulty": "easy",
         "domains": [
             "textverified.com"
         ]
+    },
+    {
+        "name": "Text.ru",
+        "url": "https://text.ru/user/profile/settings/secure",
+        "difficulty": "easy",
+        "notes_ru": "Перейдите по указанной ссылке и нажмите \"Удалить аккаунт\".",
+        "domains": ["text.ru"]
     },
     {
         "name": "TextNow",
