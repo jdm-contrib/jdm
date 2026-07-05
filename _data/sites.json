@@ -21320,6 +21320,14 @@
         "domains": ["text.ru"]
     },
     {
+        "name": "Text Verified",
+        "url": "https://www.textverified.com/app/account",
+        "difficulty": "easy",
+        "domains": [
+            "textverified.com"
+        ]
+    },
+    {
         "name": "TextNow",
         "url": "https://www.textnow.com/account/new#requestDataDeletionDisclosure",
         "difficulty": "easy",
