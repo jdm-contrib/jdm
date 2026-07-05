@@ -21316,9 +21316,7 @@
         "name": "Text Verified",
         "url": "https://www.textverified.com/app/account",
         "difficulty": "easy",
-        "domains": [
-            "textverified.com"
-        ]
+        "domains": ["textverified.com"]
     },
     {
         "name": "Text.ru",
