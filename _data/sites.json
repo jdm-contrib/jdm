@@ -9033,6 +9033,13 @@
         "domains": ["gosquared.com"]
     },
     {
+        "name": "Gousto",
+        "url": "https://www.gousto.co.uk/account-details",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the page and click 'Delete account'",
+        "domains": ["gousto.co.uk"]
+    },
+    {
         "name": "Gov.br",
         "url": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/exclusao-da-conta-gov.br",
         "difficulty": "hard",
