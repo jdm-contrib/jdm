@@ -7826,6 +7826,12 @@
         "domains": ["freesound.org"]
     },
     {
+        "name": "Freight Invoice to Excel",
+        "url": "https://freightinvoicetoexcel.com/account",
+        "difficulty": "easy",
+        "notes": "Sign in, open Account, scroll to 'Delete account' and confirm. Anonymous use requires no account."
+    },
+    {
         "name": "Freshdesk",
         "url": "https://freshdesk.com",
         "difficulty": "easy",
@@ -18106,6 +18112,12 @@
         "domains": ["renderforest.com"]
     },
     {
+        "name": "Rent Ledger Template",
+        "url": "https://rentledgertemplate.com/account",
+        "difficulty": "easy",
+        "notes": "Sign in, open Account, scroll to 'Delete account' and confirm. Anonymous use requires no account."
+    },
+    {
         "name": "Replay Poker",
         "url": "https://www.replaypoker.com/settings/deactivate",
         "difficulty": "easy",
@@ -20177,6 +20189,12 @@
         "notes": "Click the link, fill in your login info and confirm. It's reversible for 30 days, until your data gets purged.",
         "notes_tr": "Bağlantıyı tıklayın, giriş bilgilerinizi girin ve onaylayın. Verileriniz temizlenene kadar 30 gün boyunca geri alınabilir.",
         "domains": ["statcounter.com"]
+    },
+    {
+        "name": "Statement to QBO",
+        "url": "https://statementtoqbo.com/account",
+        "difficulty": "easy",
+        "notes": "Sign in, open Account, scroll to 'Delete account' and confirm. Anonymous use requires no account."
     },
     {
         "name": "Statista",
@@ -22656,6 +22674,12 @@
         "notes": "Contact support via email and request your account to be deleted.",
         "notes_fr": "Contactez le support par mail pour faire supprimer votre compte",
         "domains": ["variantes.com"]
+    },
+    {
+        "name": "VCF to CSV",
+        "url": "https://vcftocsv.com/account",
+        "difficulty": "easy",
+        "notes": "Sign in, open Account, scroll to 'Delete account' and confirm. Anonymous use requires no account."
     },
     {
         "name": "VCRDB / Valorant Crosshair Database",
