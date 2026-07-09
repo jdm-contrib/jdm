@@ -22755,6 +22755,22 @@
         "domains": ["viadeo.com"]
     },
     {
+        "name": "viagogo",
+        "url": "https://my.viagogo.com/settings/?activeTab=PERSONALDETAILS",
+        "difficulty": "easy",
+        "notes": "Before deleting, close any active listing, sale, purchase, or pending payment; deletion is only possible 7 days after your last event. Then open the 'Personal details' tab in Settings and click 'Delete my account'.",
+        "domains": [
+            "viagogo.ca",
+            "viagogo.co.uk",
+            "viagogo.com",
+            "viagogo.de",
+            "viagogo.es",
+            "viagogo.fr",
+            "viagogo.it",
+            "viagogo.nl"
+        ]
+    },
+    {
         "name": "viainvest",
         "url": "https://viainvest.com/en/faq",
         "difficulty": "hard",
