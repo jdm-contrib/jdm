@@ -15,8 +15,8 @@ function getLanguageMatch(language) {
         return exactMatch;
     }
 
-    const baseLanguage = language.split('-')[0];
-    return available.find(item => item.split('-')[0] === baseLanguage) || null;
+    const baseLanguage = language.slice(0, 2);
+    return available.find((item) => item.startsWith(baseLanguage)) || null;
 }
 
 if (onRootPage()) {
