@@ -20,7 +20,7 @@
         <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/jdm-contrib/jdm'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
 
         {% for entry in site.data.sites %}
-            <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}{% if entry.domains %} data-domains='{{ entry.domains | jsonify }}'{% endif %}>
+            <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}{% if entry.domains %} data-domains='{{ entry.domains | jsonify | downcase }}'{% endif %}>
                 {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
                 <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% else %}{{entry.url}}{% endif %}">
                     <span class="name">{{ entry.name }}</span>
