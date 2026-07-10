@@ -39,16 +39,13 @@ $(function(){
                 return false;
             }
 
-            var normalizedDomains = siteDomains.map(function(domain) {
-                return domain.toLowerCase();
-            });
-            var startsWithDomain = normalizedDomains.some(function(domain) {
+            var startsWithDomain = siteDomains.some(function(domain) {
                 return domain.indexOf(lowerTerm) === 0;
             });
             if (startsWithDomain) {
                 return false;
             }
-            var domainMatch = normalizedDomains.some(function(domain) {
+            var domainMatch = siteDomains.some(function(domain) {
                 var normalizedLowerTerm = lowerTerm.replace(/^http(s)?:\/\//, "").replace(/^www\./, "");
 
                 return domain.indexOf(normalizedLowerTerm) !== -1;
