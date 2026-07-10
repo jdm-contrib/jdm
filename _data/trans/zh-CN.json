@@ -3,6 +3,7 @@
     "androidapp": "Android app (Unofficial)",
     "contribute": "Fork on GitHub",
     "defaultnote_easy": "Visit the linked page and delete your account.",
+    "defaultnote_hard": "Account deletion requires contacting customer support.",
     "defaultnote_email": "Send an email to the provided address and request account deletion.",
     "difficulty": "难度分级",
     "difficulty_easy": "简单",

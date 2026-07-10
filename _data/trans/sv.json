@@ -3,6 +3,7 @@
     "androidapp": "Android app (Unofficial)",
     "contribute": "Contribute on GitHub",
     "defaultnote_easy": "Gå till den länkade sidan och ta bort ditt konto.",
+    "defaultnote_hard": "Account deletion requires contacting customer support.",
     "defaultnote_email": "Skicka ett mejl till den givna sidan och begär att ta bort ditt konto",
     "difficulty": "svårhetsgrad",
     "difficulty_easy": "lätt",
