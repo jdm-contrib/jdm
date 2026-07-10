@@ -4590,7 +4590,14 @@
         "email": "computeruniverse@datenschutzanfrage.de",
         "domains": ["computeruniverse.net"]
     },
-    {
+        {
+        "name": "Content True",
+        "url": "https://contenttrue.org/en/settings/security",
+        "difficulty": "easy",
+        "notes": "Sign in, open Security settings, select \"Delete Account\", and confirm the permanent deletion.",
+        "domains": ["contenttrue.org"]
+    },
+{
         "name": "Contabo",
         "url": "https://help.contabo.com/en/support/solutions/articles/103000269314-how-can-i-close-my-contabo-account-or-cancel-a-contabo-service-",
         "url_de": "https://help.contabo.com/de/support/solutions/articles/103000269314-wie-kann-ich-mein-contabo-konto-schlie%C3%9Fen-oder-einen-contabo-dienst-k%C3%BCndigen-",
@@ -9452,7 +9459,14 @@
         "notes_tr": "Siteye göre profil ayarları bağlantısına gitmelisiniz ve hesabı silmeye yarayan \"Hesabı Sil\" adlı bir düğme olacaktır.",
         "domains": ["www.hackerrank.com"]
     },
-    {
+        {
+        "name": "HairFilter",
+        "url": "https://hairfilter.net/settings/security",
+        "difficulty": "easy",
+        "notes": "Sign in, open Security settings, select \"Delete Account\", and confirm the permanent deletion.",
+        "domains": ["hairfilter.net"]
+    },
+{
         "name": "Happy Scribe",
         "url": "https://www.happyscribe.co/users/edit",
         "difficulty": "easy",
@@ -9535,7 +9549,14 @@
         "email_body": "Please delete my hCaptcha account which is registered under this email address.",
         "domains": ["hcaptcha.com"]
     },
-    {
+        {
+        "name": "Headcanon Generator",
+        "url": "https://headcanon.me/settings/security",
+        "difficulty": "easy",
+        "notes": "Sign in, open Security settings, select \"Delete Account\", and confirm the permanent deletion.",
+        "domains": ["headcanon.me"]
+    },
+{
         "name": "HeadHunter",
         "url": "https://hh.ru/account/delete_me",
         "difficulty": "easy",
