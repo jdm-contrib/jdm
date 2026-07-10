@@ -5,11 +5,11 @@ function onRootPage() {
 }
 
 function getLanguageMatch(language) {
-    const available = window.availableLanguages;
     if (!language) {
         return null;
     }
 
+    const available = window.availableLanguages;
     const exactMatch = available.find(item => item === language);
     if (exactMatch) {
         return exactMatch;
