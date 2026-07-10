@@ -39,17 +39,8 @@ $(function(){
                 return false;
             }
 
-            var startsWithDomain = siteDomains.some(function(domain) {
-                return domain.indexOf(lowerTerm) === 0;
-            });
-            if (startsWithDomain) {
-                return false;
-            }
-            var domainMatch = siteDomains.some(function(domain) {
-                var normalizedLowerTerm = lowerTerm.replace(/^http(s)?:\/\//, "").replace(/^www\./, "");
-
-                return domain.indexOf(normalizedLowerTerm) !== -1;
-            });
+            const domainNormalizedTerm = lowerTerm.replace(/^http(s)?:\/\//, "").replace(/^www\./, "");
+            const domainMatch = siteDomains.some((domain) => domain.indexOf(domainNormalizedTerm) !== -1);
             return !domainMatch;
         });
 
