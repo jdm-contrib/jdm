@@ -16,7 +16,7 @@ function getLanguageMatch(language) {
     }
 
     const baseLanguage = language.slice(0, 2);
-    return available.find((item) => item.startsWith(baseLanguage)) || null;
+    return available.find((item) => item.startsWith(baseLanguage));
 }
 
 if (onRootPage()) {
