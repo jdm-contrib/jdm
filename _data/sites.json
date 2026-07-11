@@ -17524,6 +17524,13 @@
         "domains": ["put.io"]
     },
     {
+        "name": "Puzzmo",
+        "url": "https://www.puzzmo.com/me",
+        "difficulty": "easy",
+        "notes": "Near the bottom of the page, click 'Delete account'",
+        "domains": ["puzzmo.com"]
+    },
+    {
         "name": "PxHere",
         "url": "https://pxhere.com/my/settings",
         "difficulty": "hard",
