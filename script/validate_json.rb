@@ -31,6 +31,7 @@ SupportedLanguageKeys = [
     "contribute",
     "defaultnote_easy",
     "defaultnote_email",
+    "defaultnote_hard",
     "difficulty",
     "difficulty_easy",
     "difficulty_hard",
