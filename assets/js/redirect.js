@@ -8,9 +8,8 @@ function getLanguageMatch(language) {
     if (!language) {
         return null;
     }
-    const available = window.availableLanguages;
     const baseLanguage = language.slice(0, 2);
-    return available.find(item => item === language || item.startsWith(baseLanguage));
+    return window.availableLanguages.find(item => item === language || item.startsWith(baseLanguage));
 }
 
 if (onRootPage()) {
