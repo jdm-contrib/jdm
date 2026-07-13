@@ -28,9 +28,15 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
     <link type="application/opensearchdescription+xml" rel="search" href="{{ site.baseurl }}/opensearch.xml" title="JustDeleteMe">
 
+    {% assign page_langs = site.pages | map: "lang" | uniq | sort %}
+
+    <script>
+        window.availableLanguages = {{ page_langs | jsonify }};
+    </script>
     <script src="{{ site.baseurl }}/assets/js/libs/jquery.js"></script>
     <script src="{{ site.baseurl }}/assets/js/libs/jquery.dropdown.js"></script>
     <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/redirect.js"></script>
 </head>
 {% if page.rtl %}
     {% assign rtl = page.rtl %}
