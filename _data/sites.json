@@ -18,15 +18,6 @@
         "name": "123RF",
         "url": "https://www.123rf.com/support/support-answer.php?id=8817",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "email": "frsales@123rf.com",
         "email_body": "I want my account to be deleted. My full name is XXXXXX and my user name is XXXXXX, I want my account to be deleted because of XXXXXX. I request and authorize you to remove my profile from 123rf.com and delete all my content with you. I wish to terminate the 123RF Contributor Agreement and agree to the Terms and Conditions as set in the Contributor Agreement for the termination process.",
         "domains": ["123rf.com"]
@@ -65,14 +56,6 @@
         "name": "1fichier",
         "url": "https://1fichier.com/contact.html",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["1fichier.com"]
     },
     {
@@ -105,14 +88,6 @@
         "name": "1xBet",
         "url": "https://1xbet.com",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "support@1xbet.com",
         "email_subject": "Delete my account",
         "email_body": "Please delete my account permanently because I don’t want to use the 1xBet services any further. Thank you. Username: XXX Email: XXX",
@@ -159,14 +134,6 @@
         "url": "https://www.404media.co/privacy-policy/",
         "email": "emanuel@404media.co",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["404media.co"]
     },
     {
@@ -206,14 +173,6 @@
         "name": "7digital",
         "url": "https://help.7digital.com/hc/en-gb/requests/new",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "7digital.com",
             "help.7digital.com"
@@ -277,14 +236,6 @@
         "url": "https://abacashi.com",
         "difficulty": "hard",
         "email": "contato@abacashi.com",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["abacashi.com"]
     },
     {
@@ -301,8 +252,6 @@
         "email": "contact@support.ableton.com",
         "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account, my username is XXXXXX",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_fr": "La suppression du compte nécessite de rentrer en contact avec le service client",
         "domains": ["ableton.com"]
     },
     {
@@ -310,14 +259,6 @@
         "url": "https://www.aboutyou.it/h/il-mio-account/q-360014814179",
         "difficulty": "hard",
         "email": "servizioclienti@aboutyou.it",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "aboutyou.at",
             "aboutyou.be",
@@ -366,14 +307,6 @@
         "name": "Academic Torrents",
         "url": "https://academictorrents.com",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "contact@academictorrents.com",
         "email_subject": "Account Deletion",
         "domains": ["academictorrents.com"]
@@ -413,7 +346,6 @@
         "name": "Acer",
         "url": "https://community.acer.com/en/kb/articles/115-how-to-delete-your-acer-id-account",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
         "email": "privacy_officer@acer.com",
         "email_subject": "Acer Account Deletion",
         "domains": [
@@ -529,14 +461,6 @@
         "name": "AdFoc.us",
         "url": "https://adfoc.us/tickets/",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "support@adfoc.us",
         "email_body": "Please delete my AdFoc.us account registered under this email address.",
         "email_subject": "Account Deletion Request",
@@ -639,14 +563,6 @@
         "name": "Agoda",
         "url": "https://www.agoda.com/en-au/info/privacy.html",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "privacy@agoda.com",
         "domains": ["agoda.com"]
     },
@@ -844,14 +760,6 @@
         "url": "https://www.akaipro.com/privacy-policy",
         "email": "privacy@inmusicbrands.com",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["akaipro.com"]
     },
     {
@@ -908,14 +816,6 @@
         "name": "Alchemy",
         "url": "https://www.alchemy.com/",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "support@alchemy.com",
         "domains": ["alchemy.com"]
     },
@@ -923,14 +823,6 @@
         "name": "ALDO",
         "url": "https://www.aldoshoes.com/us/en_US/legal/privacy-policy",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "dpo@aldogroup.com",
         "domains": ["aldoshoes.com"]
     },
@@ -958,14 +850,6 @@
         "url_it": "https://www.algoreducation.com/contattaci",
         "difficulty": "hard",
         "email": "support@algoreducation.com",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "algoreducation.com",
             "app.algoreducation.com",
@@ -991,14 +875,6 @@
         "name": "AlienwareArena",
         "url": "https://www.alienwarearena.com/faq-contact#Contact1",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "contact@alienwarearena.com",
         "domains": ["alienwarearena.com"]
     },
@@ -1210,14 +1086,6 @@
         "name": "AmiAmi",
         "url": "https://support.amiami.com/hc/en-us/requests/new",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["amiami.com"]
     },
     {
@@ -1270,10 +1138,6 @@
         "name": "Android File Host (AFH)",
         "url": "https://androidfilehost.com/?w=contact",
         "difficulty": "hard",
-        "notes": "Contact the customer support using the contact form and request the deletion of your account.",
-        "notes_ru": "Свяжитесь со службой поддержки клиентов, используя контактную форму, и запросите удаление вашей учетной записи.",
-        "notes_tr": "İletişim formunu kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
-        "notes_pt-BR": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
         "domains": ["androidfilehost.com"]
     },
     {
@@ -1301,14 +1165,6 @@
         "name": "AniDB",
         "url": "https://anidb.net/perl-bin/animedb.pl?show=policies",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "info@anidb.net",
         "domains": ["anidb.net"]
     },
@@ -1364,14 +1220,6 @@
         "name": "Ankama",
         "url": "https://support.ankama.com/hc/en-us/requests/new?ticket_form_id=625847",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "ankama.com",
             "support.ankama.com"
@@ -1508,14 +1356,6 @@
         "name": "AppShopper",
         "url": "https://appshopper.com/about#contact-form",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "support@appshopper.com",
         "domains": ["appshopper.com"]
     },
@@ -1542,14 +1382,6 @@
         "email": "home@ara.cat",
         "email_subject": "Delete ARA account",
         "email_body": "Please delete my ARA account which was registered under the e-mail:",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "difficulty": "hard",
         "domains": ["ara.cat"]
     },
@@ -1565,14 +1397,6 @@
         "url": "https://support.arcgames.com/hc/en-us/requests/new",
         "difficulty": "hard",
         "email": "privacy@gearboxsf.com",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "arcgames.com",
             "support.arcgames.com"
@@ -1695,14 +1519,6 @@
         "name": "Asda",
         "url": "https://www.asda.com/privacy/contact-us",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "dataprotection@asda.co.uk",
         "domains": [
             "asda.com",
@@ -2318,14 +2134,6 @@
         "url": "https://support.beatport.com/hc/en-us/articles/4412533928596-How-can-I-close-my-account-",
         "difficulty": "hard",
         "email": "support@beatport.com",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "beatport.com",
             "support.beatport.com"
@@ -2405,8 +2213,6 @@
         "name": "Bergzeit",
         "url": "https://www.bergzeit.de/help-contact/?folderId=15000009413&articleId=15000056460",
         "difficulty": "hard",
-        "notes": "Contact customer service using their web contact form and ask them to delete your account.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
         "domains": ["bergzeit.de"]
     },
     {
@@ -3057,15 +2863,6 @@
         "email": "cil@boulanger.com",
         "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": ["boulanger.com"]
     },
     {
@@ -3183,7 +2980,6 @@
         "name": "Brut",
         "url": "https://www.brut.media/us/terms",
         "difficulty": "hard",
-        "notes": "Contact the customer support via email and request the deletion of your account.",
         "email": "support-web@brut.media",
         "domains": ["brut.media"]
     },
@@ -3191,7 +2987,6 @@
         "name": "BrutX",
         "url": "https://help.brutx.com/hc/fr/articles/360020090299",
         "difficulty": "hard",
-        "notes": "Contact the customer support via email and request the deletion of your account.",
         "email": "bonjour@brutx.com",
         "domains": [
             "brutx.com",
@@ -3202,7 +2997,6 @@
         "name": "Bruun-rasmussen.dk",
         "url": "https://bruun-rasmussen.dk/m/about/privacy",
         "difficulty": "hard",
-        "notes": "Contact customer support to request account deletion.",
         "email": "privacy@bruun-rasmussen.dk",
         "email_subject": "Request for the deletion of personal information",
         "email_body": "I would like to request the deletion of my personal information as allowed per your privacy policy. My customer number is XXXXXXX. Thank you",
@@ -3319,14 +3113,6 @@
         "url": "https://www.buymeacoffee.com/terms",
         "difficulty": "hard",
         "email": "support@buymeacoffee.com",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["buymeacoffee.com"]
     },
     {
@@ -3662,15 +3448,6 @@
         "name": "CDEK Forward",
         "url": "https://global.cdek.ru",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_ru": "Для удаления аккаунта нужно написать в поддержку по электронной почте",
         "email": "mf@cdek.ru",
         "email_subject": "Удаление аккаунта",
         "email_body": "Здравствуйте. Пожалуйста, удалите мой аккаунт на CDEK Forward.",
@@ -3731,8 +3508,6 @@
         "url_nl": "https://www.celio.com/nl-be/contactus",
         "url_pt-PT": "https://www.celio.com/pt-pt/contactus",
         "difficulty": "hard",
-        "notes": "Send a customer service request asking to delete your account.",
-        "notes_fr": "Envoyez une demande au service client pour supprimer votre compte.",
         "domains": ["celio.com"]
     },
     {
@@ -3891,7 +3666,6 @@
         "name": "Checksub",
         "url": "https://www.checksub.com",
         "difficulty": "hard",
-        "notes": "Contact the customer support to delete your account.",
         "email": "team@checksub.com",
         "domains": ["checksub.com"]
     },
@@ -4102,9 +3876,6 @@
         "name": "CleverReach",
         "url": "https://www.cleverreach.com",
         "difficulty": "hard",
-        "notes": "Email customer services to request deletion",
-        "notes_tr": "Silmeyi talep etmek için müşteri hizmetlerine e-posta gönderin",
-        "notes_fr": "Envoyez un e-mail au service clients pour demander la suppression de votre compte.",
         "email": "info@cleverreach.de",
         "domains": ["cleverreach.com"]
     },
@@ -4391,15 +4162,6 @@
         "email": "contact@codes-rousseau.fr",
         "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": [
             "public.codesrousseau.fr",
             "easysysteme.fr",
@@ -4620,7 +4382,6 @@
         "name": "Cool Shirtz",
         "url": "https://shirtz.cool/pages/store-policies",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
         "email": "help@shirtz.cool",
         "domains": ["shirtz.cool"]
     },
@@ -4669,8 +4430,6 @@
         "name": "Cornelsen.de",
         "url": "https://www.cornelsen.de/service/kundenservice/anmeldung",
         "difficulty": "hard",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren.",
-        "notes_en": "Account deletion requires contacting Customer Support.",
         "email": "service@cornelsen.de",
         "domains": ["cornelsen.de"]
     },
@@ -5193,8 +4952,6 @@
         "name": "dbrand",
         "url": "https://dbrand.com/contact",
         "difficulty": "hard",
-        "notes": "Contact customer support to request account deletion.",
-        "notes_pt-BR": "Contacte o suporte ao cliente para requerer deleção da conta.",
         "domains": ["dbrand.com"]
     },
     {
@@ -5231,14 +4988,6 @@
         "name": "DeepL",
         "url": "https://www.deepl.com/en/privacy#section_6_1",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "support@deepl.com",
         "domains": ["deepl.com"]
     },
@@ -5547,14 +5296,6 @@
         "email": "privacy@discourse.org",
         "url": "https://www.discourse.org/privacy#heading--change",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "community.containo.us",
             "airlinepilot.life",
@@ -5771,7 +5512,6 @@
         "name": "DocMorris",
         "url": "https://www.docmorris.de/kontaktformular",
         "difficulty": "hard",
-        "notes": "Contact customer service using their web contact form and ask them to delete your account.",
         "domains": ["docmorris.de"]
     },
     {
@@ -5813,7 +5553,6 @@
         "name": "Dollskill",
         "url": "https://www.dollskill.com/pages/contact-us",
         "difficulty": "hard",
-        "notes": "Email customer service and they will reply once that is complete.",
         "email": "dataprotection@dollskill.com",
         "email_subject": "Hello\n, please delete the account associated to this email. My phone number is XXXXXXXX and I would like all data associated to my account to be removed.",
         "domains": ["dollskill.com"]
@@ -5822,7 +5561,6 @@
         "name": "Domino's Pizza",
         "url": "https://www.dominos.ca/en/pages/content/customer-service/faq",
         "difficulty": "hard",
-        "notes": "Self-service account deletion is no longer available. Contact customer service to request deletion of your account and personal data.",
         "domains": ["dominos.ca"]
     },
     {
@@ -5924,7 +5662,6 @@
         "name": "DreamHost",
         "url": "https://panel.dreamhost.com/index.cgi?tree=support.msg",
         "difficulty": "hard",
-        "notes": "Contact customer support using the customer service form or privacy contact email.",
         "email": "privacypolicy@dreamhost.com",
         "domains": [
             "dreamhost.com",
@@ -6433,8 +6170,6 @@
         "url": "https://support.electroneum.com/hc/en-gb/requests/new",
         "difficulty": "hard",
         "email": "support@electroneum.com",
-        "notes": "Contact the customer support using the form or via email and request the deletion of your account.",
-        "notes_it": "Contatta l'assistenza clienti tramite il form o via email e richiedi la cancellazione del tuo account.",
         "domains": [
             "electroneum.com",
             "my.electroneum.com",
@@ -6656,7 +6391,6 @@
         "name": "Epoch Times",
         "url": "https://help.theepochtimes.com/hc/en-us/requests/new",
         "difficulty": "hard",
-        "notes": "Send a request to customer support demanding for the deletion of your account.",
         "domains": [
             "reader.epoch.cloud",
             "epochtimes.bg",
@@ -7246,21 +6980,12 @@
         "email": "contactus@finnishpod101.com",
         "url": "https://www.finnishpod101.com/#privacy_policy",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["finnishpod101.com"]
     },
     {
         "name": "Finviz",
         "url": "https://finviz.com/contact.ashx",
         "difficulty": "hard",
-        "notes": "One must contact customer support via email or contact form to request account deletion.",
         "email": "support@finviz.com",
         "email_subject": "Data Deletion Request",
         "email_body": "Please delete my account registered with this email address.",
@@ -7539,8 +7264,6 @@
         "name": "Foap",
         "url": "https://www.foap.com/pages/contact",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting customer support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": ["foap.com"]
     },
     {
@@ -7608,7 +7331,6 @@
         "name": "ForeverMissed",
         "url": "https://www.forevermissed.com/contactus",
         "difficulty": "hard",
-        "notes": "Use the contact form to ask customer service to delete your account.",
         "domains": ["forevermissed.com"]
     },
     {
@@ -8020,14 +7742,6 @@
         "name": "Gameforge",
         "url": "https://gameforge.com/support",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "support@gameforge.com",
         "domains": [
             "gameforge.com",
@@ -8059,10 +7773,6 @@
         "url": "https://www.gamegleam.com",
         "difficulty": "hard",
         "email": "support@gamegleam.com",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
         "domains": ["gamegleam.com"]
     },
     {
@@ -8109,14 +7819,6 @@
         "url": "https://gamespot.com",
         "difficulty": "hard",
         "email": "support@gamespot.com",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["gamespot.com"]
     },
     {
@@ -8131,14 +7833,6 @@
         "url": "https://www.gamestop.com/PrivacyPolicy.html#section9",
         "difficulty": "hard",
         "email": "GSContentRequests@gamestop.com",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["gamestop.com"]
     },
     {
@@ -8671,7 +8365,6 @@
         "name": "GoJek",
         "url": "https://www.go-jek.com/contact/",
         "difficulty": "hard",
-        "notes": "Email customer service to request deletion.",
         "notes_tr": "Silmeyi talep etmek için müşteri hizmetlerine e-posta gönderin.",
         "domains": ["go-jek.com"]
     },
@@ -9234,8 +8927,6 @@
         "url": "https://service.grover.com/hc/en-us/articles/20618482673554-Request-to-delete-my-account",
         "url_de": "https://service.grover.com/hc/de/articles/20618482673554-Konto-l%C3%B6schen",
         "difficulty": "hard",
-        "notes": "You have to contact customer support to request account deletion",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
         "domains": ["grover.com"]
     },
     {
@@ -9329,7 +9020,6 @@
         "name": "guns.lol",
         "url": "https://guns.lol",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
         "email": "support@guns.lol",
         "email_subject": "Delete Account Request",
         "email_body": "Dear guns.lol support team, I hope this message finds you well. I would like to formally request the closure and the deletion of all associated personal data and account. Below are my account details: Email Address: XXXXX@XXXXX.XXXXX, UID: XXXXX. I would appreciate it if you could process my account closure request as soon as possible. Please confirm once the account has been deleted and all associated data has been deleted. Best regards, XXXXX",
@@ -9344,14 +9034,6 @@
         "email": "info@gutefrage.net",
         "url": "https://www.gutefrage.net/datenschutz",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["gutefrage.net"]
     },
     {
@@ -9491,7 +9173,6 @@
         "url": "https://www.harney.com/pages/contact-us",
         "difficulty": "hard",
         "email": "customerservice@harneyteas.com",
-        "notes": "Contact them through email or phone and ask for account to be deleted",
         "domains": ["harney.com"]
     },
     {
@@ -9855,14 +9536,6 @@
         "email": "support@holopin.io",
         "url": "https://www.holopin.io/privacy.html",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "holopin.io",
             "blog.holopin.io",
@@ -10354,14 +10027,6 @@
         "url_uk": "https://www.illacloud.com/uk-UA/docs/privacy-policy#your-rights",
         "url_zh-CN": "https://www.illacloud.com/zh-CN/docs/privacy-policy#-14",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "email": "vincent@illasoft.com",
         "domains": [
             "illa.ai",
@@ -10492,7 +10157,6 @@
         "name": "Incogni",
         "url": "https://incogni.com/",
         "difficulty": "hard",
-        "notes": "Must email Customer Support to delete account. No official help documentation exists for account deletion.",
         "email": "support@incogni.com",
         "email_subject": "Account Deletion Request",
         "email_body": "Hello,\n\nI am requesting the deletion of my Incogni account and information associated with this email. I would also like to withdraw the consent given in the Authorization Form.\n\nI understand that by terminating my account I will lose any remaining time on my current subscription and I wish to proceed anyway.\n\nThanks.",
@@ -10782,14 +10446,6 @@
         "name": "InVideo",
         "url": "https://help.invideo.io/articles/56692-how-do-i-delete-my-account",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "email": "support@invideo.io",
         "domains": ["invideo.io"]
     },
@@ -11180,7 +10836,6 @@
         "name": "Just Giving",
         "url": "https://help.justgiving.com/hc/en-us/articles/200670321-How-do-I-delete-my-account",
         "difficulty": "hard",
-        "notes": "Must contact customer support to delete account",
         "domains": ["justgiving.com"]
     },
     {
@@ -11705,15 +11360,6 @@
         "url": "https://www.lacameraembarquee.fr/en/contact-us",
         "url_fr": "https://www.lacameraembarquee.fr/nous-contacter",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": ["lacameraembarquee.fr"]
     },
     {
@@ -12223,14 +11869,6 @@
         "name": "Lieferando",
         "url": "https://www.lieferando.de/en/customerservice/article/how-do-i-delete-my-account",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": [
             "lieferando.at",
             "lieferando.de"
@@ -12375,14 +12013,6 @@
         "email": "support@lttstore.com",
         "url": "https://www.lttstore.com/pages/privacy-policy",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["lttstore.com"]
     },
     {
@@ -12509,7 +12139,6 @@
         "name": "LogRocket",
         "url": "https://docs.logrocket.com/docs/security",
         "difficulty": "hard",
-        "notes": "According to their security documentation, contact customer support via email and request the deletion of your account.",
         "email": "support@logrocket.com",
         "domains": [
             "logrocket.com",
@@ -12632,7 +12261,6 @@
     {
         "name": "Lush",
         "url": "https://www.lush.com/us/en_us/faq/usa-contact-us",
-        "notes": "Conctact customer service and request account deletion",
         "difficulty": "hard",
         "domains": [
             "lush.com",
@@ -12999,7 +12627,6 @@
         "name": "Mashable",
         "url": "https://support.stackcommerce.com/hc/en-us/requests/",
         "difficulty": "hard",
-        "notes": "Contact customer support using the link here to fill out a request for account deletion",
         "domains": ["shop.mashable.com"]
     },
     {
@@ -13554,7 +13181,6 @@
         "name": "MetalPay",
         "url": "https://help.metalpay.com/hc/en-us/articles/4409445335063-How-do-I-close-my-Metal-Pay-account-",
         "difficulty": "hard",
-        "notes": "Contact customer support to delete your account.",
         "domains": [
             "metalpay.com",
             "help.metalpay.com"
@@ -13564,7 +13190,6 @@
         "name": "MetaMask Card",
         "url": "https://support.metamask.io/manage-crypto/metamask-card/card-faq/",
         "difficulty": "hard",
-        "notes": "Contact customer support to delete your account.",
         "email": "metamask@cl-cards.com",
         "domains": [
             "metamask.io",
@@ -14064,7 +13689,6 @@
         "name": "Monoprice",
         "url": "https://www.monoprice.com/Help/Index?pn=contact",
         "difficulty": "hard",
-        "notes": "Use the contact form to ask customer service to delete your account.",
         "domains": ["monoprice.com"]
     },
     {
@@ -15334,7 +14958,6 @@
         "name": "NutraCheck",
         "url": "https://www.nutracheck.co.uk/",
         "difficulty": "hard",
-        "notes": "Have to email customer care to ask for account to be deleted",
         "email": "customercare@nutracheck.co.uk",
         "domains": ["nutracheck.co.uk"]
     },
@@ -15420,15 +15043,7 @@
         "url": "https://www.theodinproject.com/privacy-policy",
         "difficulty": "hard",
         "email": "theodinprojectcontact@gmail.com",
-        "domains": ["theodinproject.com"],
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente"
+        "domains": ["theodinproject.com"]
     },
     {
         "name": "Odnoklassniki",
@@ -15930,15 +15545,6 @@
         "email": "contact@ouiheberg.com",
         "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": ["ouiheberg.com"]
     },
     {
@@ -16037,7 +15643,6 @@
     {
         "name": "Oxford Dictionaries API",
         "url": "https://developer.oxforddictionaries.com/contact-us",
-        "notes": "Contact the customer support using the contact form and request the deletion of your account.",
         "difficulty": "hard",
         "domains": ["developer.oxforddictionaries.com"]
     },
@@ -17241,15 +16846,6 @@
         "email": "tools@prepmyfuture.com",
         "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": ["prepmyfuture.com"]
     },
     {
@@ -18447,14 +18043,6 @@
         "email": "privacy@rolandus.com",
         "url": "https://www.roland.com/us/privacy/",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["roland.com"]
     },
     {
@@ -18709,8 +18297,6 @@
         "name": "Scentbird",
         "url": "https://scentbird.zendesk.com/hc/en-us/articles/115004536388-How-do-I-cancel-my-subscription-",
         "difficulty": "hard",
-        "notes": "Open a ticket with the customer service using their chat/ticket form and ask them to delete your account.",
-        "notes_tr": "Müşteri hizmetleriyle sohbet/destek formunu kullanarak bir destek talebi açın ve hesabınızı silmelerini isteyin.",
         "domains": ["scentbird.com"]
     },
     {
@@ -18742,7 +18328,6 @@
         "url": "https://www.schoolfinder.com/About/SchoolFinder-Privacy-Policy.pdf",
         "email": "info@SchoolFinder.com",
         "difficulty": "hard",
-        "notes": "Email customer service to request account deletion.",
         "domains": ["schoolfinder.com"]
     },
     {
@@ -19218,8 +18803,6 @@
         "name": "SigFig",
         "url": "https://support.sigfig.com/hc/en-us/articles/202586434-How-do-I-completely-delete-my-account-",
         "difficulty": "hard",
-        "notes": "Contact customer service by email and request deletion.",
-        "notes_tr": "Silmeyi talep etmek için müşteri hizmetlerine e-posta gönderin.",
         "email": "support@sigfig.com",
         "domains": [
             "sigfig.com",
@@ -19522,7 +19105,6 @@
         "name": "SmartyPig",
         "url": "https://www.smartypig.com/faqs",
         "difficulty": "hard",
-        "notes": "You have to contact their customer support team.",
         "domains": ["smartypig.com"]
     },
     {
@@ -19582,7 +19164,6 @@
         "name": "Snapfish",
         "url": "https://support.snapfish.com/hc/en-us/articles/360008146353-Delete-your-account",
         "difficulty": "hard",
-        "notes": "You need to open a request with customer service to delete your account.",
         "domains": ["snapfish.com"]
     },
     {
@@ -19917,15 +19498,6 @@
         "name": "Splitkb",
         "url": "https://splitkb.com",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "email": "thomas@splitkb.com",
         "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account, my email is XXXXXX",
@@ -20240,8 +19812,6 @@
         "name": "SteamHistory",
         "url": "https://steamhistory.net/newbeta/terms-of-service",
         "difficulty": "hard",
-        "notes": "Data deletion requires contacting Customer Support.",
-        "notes_ru": "Единственный способ удалить персональные даные — отправить электронное письмо службе поддержки.",
         "email": "privacy@steamhistory.net",
         "domains": ["steamhistory.net"]
     },
@@ -21126,8 +20696,6 @@
         "name": "Tebex",
         "url": "https://server.tebex.io",
         "difficulty": "hard",
-        "notes": "Contact customer support to request account deletion",
-        "notes_tr": "Hesap silme talebinde bulunmak için müşteri desteği ile iletişime geçin",
         "domains": [
             "tebex.io",
             "server.tebex.io"
@@ -21151,15 +20719,6 @@
         "email": "contact@ted.com",
         "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": [
             "ted.com",
             "support.ted.com"
@@ -21325,15 +20884,6 @@
         "name": "Texas Instruments (TI)",
         "url": "www.ti.com/feedbackform/home",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support through their contact form.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support à travers le formulaire de contact.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": ["ti.com"]
     },
     {
@@ -22224,15 +21774,6 @@
         "name": "Twitch services (RPG...)",
         "url": "https://legal.twitch.com/en/legal/privacy-notice/#data-subject-rights-and-your-choices",
         "difficulty": "hard",
-        "notes": "Account deletion requires contacting Customer Support. ([Privacy notice](https://legal.twitch.com/en/legal/privacy-notice))",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client.",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren.([Privacy notice](https://legal.twitch.com/de-de/legal/privacy-notice))",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente. ([Privacy notice](https://legal.twitch.com/es-es/legal/privacy-notice))",
-        "notes_fr": "Pour supprimer votre compte contactez le support.([Politique de confidentialité](https://legal.twitch.com/fr-fr/legal/privacy-notice))",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti. ([Privacy notice](https://legal.twitch.com/it-it/legal/privacy-notice))",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": ["rpg.twitch.tv"]
     },
     {
@@ -22586,8 +22127,6 @@
         "name": "Utry.me",
         "url": "https://shop.utryme.com/kontaktformular",
         "difficulty": "hard",
-        "notes": "Contact the customer support via email and request the deletion of your account.",
-        "notes_de": "Kontaktieren Sie den Kundenservice per E-Mail, um die Entfernung Ihres Nutzerkontos anzufragen.",
         "email": "service@utryme.com",
         "domains": [
             "utry.me",
@@ -22657,7 +22196,6 @@
         "name": "Vans.com",
         "url": "https://www.vans.com/en-us/help/contact-us",
         "difficulty": "hard",
-        "notes": "Email customer service through the link and tell them you want your account deleted.",
         "domains": ["vans.com"]
     },
     {
@@ -24231,15 +23769,6 @@
         "email": "support@wkv.com",
         "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
-        "notes": "Account deletion requires contacting Customer Support.",
-        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
-        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
-        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
-        "notes_fr": "Pour supprimer votre compte contactez le support.",
-        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
-        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
-        "notes_ru": "Единственный способ удалить учетную запись - отправить электронное письмо службе поддержки.",
-        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
         "domains": ["wkv.com"]
     },
     {
@@ -24500,8 +24029,6 @@
         "url": "https://yannik.biz/",
         "difficulty": "hard",
         "email": "support@yannik.biz",
-        "notes": "Contact the customer support and ask to delete your account.",
-        "notes_it": "Contatta l'assistenza clienti e chiedi di eliminare il tuo account.",
         "domains": ["yannik.biz"]
     },
     {
