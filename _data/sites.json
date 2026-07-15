@@ -1333,6 +1333,7 @@
     },
     {
         "name": "Apple Account / iTunes",
+        "meta": "popular",
         "url": "https://support.apple.com/en-us/HT208504",
         "difficulty": "easy",
         "notes": "Follow the steps to request account deletion. It is possible to undo for a few days. If you have bought a developer license, it's impossible to delete your account. Once deleted, you will no longer be able to open a new one with the same email address.",
