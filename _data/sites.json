@@ -1552,6 +1552,16 @@
         "domains": ["ask.fm"]
     },
     {
+        "name": "Asocks",
+        "url": "https://my.asocks.com/faq",
+        "difficulty": "hard",
+        "email": "support@asocks.com"
+        "domains": [
+            "asocks.com",
+            "my.asocks.com"
+        ]
+    },
+    {
         "name": "Asos",
         "url": "https://www.asos.com/customer-care/technical/id-like-to-close-my-account-with-asos-what-should-i-do/",
         "difficulty": "hard",
