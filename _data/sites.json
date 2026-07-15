@@ -15319,6 +15319,13 @@
         ]
     },
     {
+        "name": "OnThatAss",
+        "url": "https://onthatass.com/en-gb/account/personal-details/security/deletion-request/",
+        "difficulty": "hard",
+        "notes": "Subscriptions renew before you've received your last pair. To delete your data you must not have an active subscription. They will not help you at all and will not refund payments made without your knowledge. Even after your last payment and after receiving the item, you'll still need to wait. Clicking delete is merely a request and you'll have to wait for them to accept the request.",
+        "domains": ["onthatass.com"]
+    },
+    {
         "name": "Open Collective",
         "url": "https://opencollective.com/dashboard",
         "difficulty": "easy",
