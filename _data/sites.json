@@ -1555,7 +1555,7 @@
         "name": "Asocks",
         "url": "https://my.asocks.com/faq",
         "difficulty": "hard",
-        "email": "support@asocks.com"
+        "email": "support@asocks.com",
         "domains": [
             "asocks.com",
             "my.asocks.com"
