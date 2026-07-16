@@ -5559,6 +5559,16 @@
         "domains": ["dollskill.com"]
     },
     {
+        "name": "Dolphin Anty",
+        "url": "https://dolphin-anty.net/privacy-policy",
+        "difficulty": "hard",
+        "email": "support@dolphin-software.online",
+        "domains": [
+            "dolphin-anty.net",
+            "dolphin-anty.com"
+        ]
+    },
+    {
         "name": "Domino's Pizza",
         "url": "https://www.dominos.ca/en/pages/content/customer-service/faq",
         "difficulty": "hard",
