@@ -3249,9 +3249,8 @@
     {
         "name": "CamScanner",
         "url": "https://www.camscanner.com/",
-        "difficulty": "hard",
-        "email": "support@camscanner.com",
-        "notes": "Either e-mail them requesting deletion or download the app, cancel the premium subscription, go to the bottom menu, account, tap the account name and click \"Permanently delete/cancel an account\". This will delete all data you have stored too.",
+        "difficulty": "easy",
+        "notes": "You can simply delete your account from within the account settings menu.",
         "domains": [
             "camscanner.com",
             "v3.camscanner.com"
