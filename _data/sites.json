@@ -5564,7 +5564,7 @@
         "difficulty": "hard",
         "notes": "You have to send a message in their support chat, email them after they respond, then respond to them after you email, and the account is deleted.",
         "email": "teamsupport@dolphin-software.online",
-        "email_body": "Please delete my account under this email."
+        "email_body": "Please delete my account under this email.",
         "domains": [
             "dolphin-anty.net",
             "dolphin-anty.com"
