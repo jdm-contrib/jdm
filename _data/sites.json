@@ -3423,8 +3423,8 @@
     {
         "name": "Catbox",
         "url": "https://catbox.moe/legal.php",
-        "difficulty": "hard",
-        "notes": "To delete your account, you will need to send an email to admin@catbox.moe from the email address registered with your account, certifying that you would like to be Forgotten from Catbox, under your respective law.",
+        "difficulty": "limited",
+        "notes": "To delete your account, you will need to send an email to them from the email address registered with your account, certifying that you would like to be Forgotten from Catbox, under your respective law.",
         "email": "admin@catbox.moe",
         "email_body": "Dear Admin,\n\nAs a resident of the European Union, I am writing to exercise my \"Right to be Forgotten\" under the GDPR.\n\nIn accordance with your privacy policy, I am sending this from my registered email address to certify that I request the permanent deletion of my Catbox account and all associated data.\n\nPlease confirm once the deletion is complete.\n\nThank you.",
         "domains": ["catbox.moe"]
