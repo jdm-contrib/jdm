@@ -23103,12 +23103,15 @@
         ]
     },
     {
-        "name": "WeMod",
-        "url": "https://support.wemod.com/docs/how-do-i-delete-my-account",
+        "name": "WeMod / Wand",
+        "url": "https://wand.com/support/articles/1192806",
         "difficulty": "hard",
-        "notes": "If you have currently active licenses, you may need to confirm account deletion in a later email.",
-        "email": "support@wemod.com",
-        "domains": ["wemod.com"]
+        "notes": "Contact customer support requiesting account deletion. If you have currently active licenses, you may need to confirm account deletion in a later email.",
+        "email": "support@wand.com",
+        "domains": [
+            "wemod.com",
+            "wand.com"
+        ]
     },
     {
         "name": "Western Union",
