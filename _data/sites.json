@@ -19482,9 +19482,9 @@
     },
     {
         "name": "Speedtest",
-        "url": "https://help.speedtest.net/hc/en-us/articles/360035679994-How-do-I-delete-my-data-GDPR-",
+        "url": "https://speedtest.net/help/guides/how-do-i-delete-my-data-gdpr",
         "difficulty": "hard",
-        "notes": "The only way to delete your speedtest account is by emailing their support team.",
+        "notes": "Send an email requesting aaccount deletion.",
         "email": "support@speedtest.net",
         "domains": [
             "speedtest.net",
