@@ -18050,13 +18050,10 @@
     },
     {
         "name": "Rockstar Games Social Club",
-        "url": "https://support.rockstargames.com/account/",
-        "difficulty": "hard",
-        "notes": "Click on the delete account and information button on the support page to submit a ticket. They will then email you asking you to confirm a few details of your account which you have to reply to, after that the account will be deleted.",
-        "domains": [
-            "rockstargames.com",
-            "support.rockstargames.com"
-        ]
+        "url": "https://rockstargames.com/account",
+        "difficulty": "easy",
+        "notes": "Click \"Delete account\", then confirm.",
+        "domains": ["rockstargames.com"]
     },
     {
         "name": "Rogue Fitness",
