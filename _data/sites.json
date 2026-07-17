@@ -5299,9 +5299,9 @@
     },
     {
         "name": "Discord",
-        "url": "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
-        "difficulty": "medium",
-        "notes": "Account deletion will not delete your messages, which you must do manually or by following this tutorial to ask messages deletion: [https://khcrysalis.dev/mass-deletion/](https://khcrysalis.dev/mass-deletion/) (Take 24 hours or more to fully remove messages). NOTE: Only not-accessible messages will be removed, meaning you need to leave every servers you're on and close all of your DMs before submitting your demand. If you're a server owner, you'll need to either [delete the server](https://support.discordapp.com/hc/en-us/articles/213595197-How-do-I-delete-a-server-), or [transfer ownership](https://support.discordapp.com/hc/en-us/articles/216273938-How-do-I-transfer-server-ownership-) for account deletion to succeed. Account deletion takes 15 days on average (You can restore your account in this time).",
+        "url": "https://support.discord.com/hc/articles/212500837",
+        "difficulty": "easy",
+        "notes": "While account deletion will go through, it will NOT delete your messages, which you must do manually, or by following this tutorial to ask for deletion of your messages, which requires that you first request your data package: [discorch.org](https://discorch.org). Your account must stay active while awaiting Discord's response. NOTE: Discord will only delete any of your messages in servers and group DMs that you are not a member of; 1-1 DMs must be manually deleted, or automated through same the link above. If you are an owner of any servers, you must either [delete it](https://support.discord.com/hc/articles/213595197), or [transfer ownership](https://support.discord.com/hc/articles/216273938) before you are able to delete your account.",
         "domains": [
             "discord.com",
             "support.discord.com",
