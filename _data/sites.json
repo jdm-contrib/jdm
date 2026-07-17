@@ -14039,6 +14039,13 @@
         "domains": ["myanimelist.net"]
     },
     {
+        "name": "MyCreds",
+        "url": "https://membertrustregistry.mycreds.ca",
+        "difficulty": "hard",
+        "notes": "Account deletion has to be done by the issuing institution. Use the linked page to find the appropriate information for contacting the issuing institution.",
+        "domains": ["mycreds.ca"]
+    },
+    {
         "name": "MyDisney",
         "url": "https://my.disney.com/edit/delete",
         "difficulty": "easy",
@@ -14055,13 +14062,6 @@
             "disney.pt",
             "support.disney.com"
         ]
-    },
-    {
-        "name": "MyCreds",
-        "url": "https://membertrustregistry.mycreds.ca",
-        "difficulty": "hard",
-        "notes": "Account deletion has to be done by the issuing institution. Use the linked page to find the appropriate information for contacting the issuing institution.",
-        "domains": ["mycreds.ca"]
     },
     {
         "name": "myESET",
