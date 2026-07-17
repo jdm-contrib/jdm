@@ -16685,24 +16685,24 @@
     },
     {
         "name": "Pokémon GO",
-        "url": "https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3518-how-do-i-delete-my-pokemon-go-account-1656453288/",
+        "url": "https://niantic.helpshift.com/hc/faq/3518",
+        "email": "privacy@nianticlabs.com",
         "difficulty": "easy",
-        "notes": "Sign in to the app with the game account you want to delete, then navigate to the Pokémon GO app 'Settings' ⮕ 'Advanced Settings' ⮕ 'Delete Account' and confirm.",
+        "notes": "Sign in to the game with the account you want to delete, then navigate to 'Settings' ⮕ 'Advanced Settings' ⮕ 'Delete Account' and confirm. Can also request deletion by support ticket, which also requires the account's email & username",
         "domains": [
             "niantic.helpshift.com",
-            "gorelease-assets.nianticstatic.com",
-            "nianticlabs.com"
+            "explore.scopely.com"
         ]
     },
     {
         "name": "Pokémon Trainer Club",
-        "url": "https://support.pokemon.com/hc/en-us/articles/360000965826-How-do-I-delete-my-Pok%C3%A9mon-Trainer-Club-account-",
+        "url": "https://trainer.pokemon.com/profile/data-security",
         "difficulty": "easy",
-        "notes": "Go to https://club.pokemon.com/us/pokemon-trainer-club/edit-profile/ scroll down to the bottom and click 'Request Data Deletion', enter the required fields and you'll then get a confirmation email.",
+        "notes": "Deletable through the Privacy tab of account management, then prompts for email confirmation.",
         "domains": [
             "support.pokemon.com",
             "pokemon.com",
-            "club.pokemon.com"
+            "trainer.pokemon.com"
         ]
     },
     {
