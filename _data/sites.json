@@ -14588,9 +14588,9 @@
     },
     {
         "name": "Nexon",
-        "url": "https://support-maplestory.nexon.net/hc/fr/articles/360000698823-Comment-puis-je-supprimer-ou-d%C3%A9sactiver-mon-compte-",
+        "url": "https://support-maplestory.nexon.com/hc/articles/360000698823",
         "difficulty": "hard",
-        "notes": "Open a ticket to ask for account deletion",
+        "notes": "Submit a ticket to request data deletion",
         "domains": [
             "nexon.com",
             "one.nexon.com",
