@@ -5393,7 +5393,7 @@
         "name": "Disney+",
         "url": "https://help.disneyplus.com/article/disneyplus-delete-account",
         "difficulty": "medium",
-        "notes": "Deletable through account maangement. This will not delete your MyDisney account, see the relevant entry for it.",
+        "notes": "Deletable through account management. This will not delete your MyDisney account, see the relevant entry for it.",
         "domains": [
             "disneyplus.com",
             "help.disneyplus.com"
