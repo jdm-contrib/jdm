@@ -5390,24 +5390,6 @@
         ]
     },
     {
-        "name": "MyDisney",
-        "url": "https://my.disney.com/edit/delete",
-        "difficulty": "easy",
-        "notes": "Deletable through account management. This will not delete your Disney+ account, see the relevant entry for it.",
-        "domains": [
-            "my.disney.com",
-            "disney.co.uk",
-            "disney.com",
-            "disney.de",
-            "disney.es",
-            "disney.fi",
-            "disney.fr",
-            "disney.my",
-            "disney.pt",
-            "support.disney.com"
-        ]
-    },
-    {
         "name": "Disney+",
         "url": "https://help.disneyplus.com/article/disneyplus-delete-account",
         "difficulty": "medium",
@@ -13975,6 +13957,24 @@
         "notes": "Contact support using the linked form or by email and request account deletion.",
         "email": "enquiries@mxstore.com.au",
         "domains": ["mxstore.com.au"]
+    },
+    {
+        "name": "MyDisney",
+        "url": "https://my.disney.com/edit/delete",
+        "difficulty": "easy",
+        "notes": "Deletable through account management. This will not delete your Disney+ account, see the relevant entry for it.",
+        "domains": [
+            "my.disney.com",
+            "disney.co.uk",
+            "disney.com",
+            "disney.de",
+            "disney.es",
+            "disney.fi",
+            "disney.fr",
+            "disney.my",
+            "disney.pt",
+            "support.disney.com"
+        ]
     },
     {
         "name": "My Calendar",
