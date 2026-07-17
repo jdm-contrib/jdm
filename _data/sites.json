@@ -33,7 +33,7 @@
     },
     {
         "name": "17TRACK",
-        "url": "https://help.17track.net/hc/en-us/articles/360061466432-How-to-cancel-my-account",
+        "url": "https://help.17track.net/hc/articles/360061466432",
         "difficulty": "hard",
         "notes": "You need to send them a message on their website to delete your account.",
         "notes_it": "Devi inviare loro un messaggio sul loro sito web per cancellare il tuo account.",
@@ -206,7 +206,7 @@
     },
     {
         "name": "99designs",
-        "url": "https://support.99designs.com/hc/en-us/articles/27848116950036-How-do-I-delete-my-account",
+        "url": "https://support.99designs.com/hc/articles/27848116950036",
         "difficulty": "hard",
         "notes": "Have to contact them, they will only ask for confirmation",
         "notes_ru": "Свяжитесь с ними, они только попроят подтверждения.",
@@ -255,10 +255,10 @@
         "domains": ["ableton.com"]
     },
     {
-        "name": "About you",
-        "url": "https://www.aboutyou.it/h/il-mio-account/q-360014814179",
+        "name": "ABOUT YOU",
+        "url": "https://aboutyou.com/h/my-account/q-360014814179",
         "difficulty": "hard",
-        "email": "servizioclienti@aboutyou.it",
+        "email": "dataprotectionofficer@aboutyou.com",
         "domains": [
             "aboutyou.at",
             "aboutyou.be",
