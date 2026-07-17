@@ -1,7 +1,7 @@
 [
     {
         "name": "/e/",
-        "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
+        "url": "https://doc.e.foundation/workspace/create-account#how-can-i-delete-my-murena-workspace-account",
         "difficulty": "easy",
         "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
         "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
@@ -180,10 +180,9 @@
     },
     {
         "name": "7plus",
-        "url": "https://support.7plus.com.au/hc/en-au/requests/new",
-        "difficulty": "hard",
-        "notes": "Create a new request, select the 'Reason For Contact' as 'Account Related' and then under 'Please choose the issue' select 'Close 7plus account'. Supply the appropriate email and name, then send the request.",
-        "notes_it": "Vai alla pagina, crea una nuova richiesta, seleziona il 'Motivo del contatto' come 'Relativo all'account' e poi sotto 'Scegli il problema' seleziona 'Chiudi account 7plus'. Inserisci l'indirizzo email e il nome appropriati, quindi invia la richiesta.",
+        "url": "https://support.7plus.com.au/hc/articles/27058368473741",
+        "notes": "Deletable through account management.",
+        "difficulty": "easy",
         "domains": [
             "7plus.com.au",
             "support.7plus.com.au"
