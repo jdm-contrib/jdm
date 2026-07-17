@@ -5390,10 +5390,12 @@
         ]
     },
     {
-        "name": "Disney",
-        "url": "https://support.disney.com/hc/en-gb/articles/115005418823-How-do-I-delete-my-Disney-account-",
+        "name": "MyDisney",
+        "url": "https://my.disney.com/edit/delete",
         "difficulty": "easy",
+        "notes": "Deletable through account management. This will not delete your Disney+ account, see the relevant entry for it.",
         "domains": [
+            "my.disney.com",
             "disney.co.uk",
             "disney.com",
             "disney.de",
@@ -5407,9 +5409,9 @@
     },
     {
         "name": "Disney+",
-        "url": "https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=bf6bf352db101558331d6fddd39619c7",
+        "url": "https://help.disneyplus.com/article/disneyplus-delete-account",
         "difficulty": "medium",
-        "notes": "Your Disney+ account is different from your Disney account. Deleting your Disney+ account will not delete your Disney account.",
+        "notes": "Deletable through account maangement. This will not delete your MyDisney account, see the relevant entry for it.",
         "domains": [
             "disneyplus.com",
             "help.disneyplus.com"
