@@ -14590,7 +14590,7 @@
         "name": "Nexon",
         "url": "https://support-maplestory.nexon.com/hc/articles/360000698823",
         "difficulty": "hard",
-        "notes": "Submit a ticket requesting account deletion",
+        "notes": "Submit a ticket requesting account deletion.",
         "domains": [
             "nexon.com",
             "one.nexon.com",
@@ -18027,9 +18027,9 @@
     },
     {
         "name": "Roblox",
-        "url": "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
+        "url": "https://help.roblox.com/hc/articles/203313050",
         "difficulty": "hard",
-        "notes": "A form of photo ID is required. Despite what the initial email claims, they will delete your account regardless of your location.",
+        "notes": "Submit a ticket requesting account deletion.",
         "domains": [
             "www.roblox.com",
             "en.help.roblox.com",
