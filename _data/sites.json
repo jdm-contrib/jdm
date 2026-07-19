@@ -16422,6 +16422,13 @@
         "domains": ["pixeldrain.com"]
     },
     {
+        "name": "PixelEast",
+        "url": "https://pixeleast.com/profile/account/manage",
+        "difficulty": "easy",
+        "notes": "Login ⮕ My Profile ⮕ Manage Account ⮕ Delete Account Permanently",
+        "domains": ["pixeleast.com"]
+    },
+    {
         "name": "Pixilart",
         "url": "https://www.pixilart.com/settings/delete",
         "difficulty": "easy",
