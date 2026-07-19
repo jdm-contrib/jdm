@@ -14434,7 +14434,7 @@
         "name": "Netflix",
         "meta": "popular",
         "url": "https://www.netflix.com/account/security",
-        "difficulty": "easy",
+        "difficulty": "medium",
         "notes": "To delete your account, cancel your active membership, click on the provided link, and scroll down to the 'Delete Account' button. Enter the confirmation code, and your account will be deleted automatically on the day your subscription ends. Accounts without a membership will be deleted automatically after 10 months.",
         "notes_de": "Um Ihr Konto zu löschen, kündigen Sie Ihre aktive Mitgliedschaft, klicken Sie auf den angegebenen Link und scrollen Sie nach unten zur Schaltfläche „Konto löschen“. Geben Sie den Bestätigungscode ein, und Ihr Konto wird automatisch an dem Tag gelöscht, an dem Ihr Abonnement endet. Konten ohne Mitgliedschaft werden nach 10 Monaten automatisch gelöscht.",
         "notes_tr": "Hesabınızı silmek için aktif üyeliğinizi iptal edin, verilen bağlantıya tıklayın ve 'Hesabı Sil' düğmesine gidin. Onay kodunu girdiğinizde, üyeliğinizin sona erdiği gün hesabınız otomatik olarak silinecektir. Üyeliği olmayan hesaplar 10 ay sonra otomatik olarak silinecektir.",
