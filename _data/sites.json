@@ -16686,9 +16686,8 @@
     {
         "name": "Pokémon GO",
         "url": "https://niantic.helpshift.com/hc/faq/3518",
-        "email": "privacy@nianticlabs.com",
         "difficulty": "easy",
-        "notes": "Sign in to the game with the account you want to delete, then navigate to 'Settings' ⮕ 'Advanced Settings' ⮕ 'Delete Account' and confirm. Can also request deletion by support ticket, which also requires the account's email & username",
+        "notes": "Sign in to the game with the account you want to delete, then navigate to 'Settings' ⮕ 'Advanced Settings' ⮕ 'Delete Account' and confirm.",
         "domains": [
             "niantic.helpshift.com",
             "explore.scopely.com"
@@ -18028,7 +18027,6 @@
         "name": "Roblox",
         "url": "https://help.roblox.com/hc/articles/203313050",
         "difficulty": "hard",
-        "notes": "Submit a ticket requesting account deletion.",
         "domains": [
             "www.roblox.com",
             "en.help.roblox.com",
@@ -19483,7 +19481,6 @@
         "name": "Speedtest",
         "url": "https://speedtest.net/help/guides/how-do-i-delete-my-data-gdpr",
         "difficulty": "hard",
-        "notes": "Send an email requesting aaccount deletion.",
         "email": "support@speedtest.net",
         "domains": [
             "speedtest.net",
