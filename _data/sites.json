@@ -1,7 +1,7 @@
 [
     {
         "name": "/e/",
-        "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
+        "url": "https://doc.e.foundation/workspace/create-account#how-can-i-delete-my-murena-workspace-account",
         "difficulty": "easy",
         "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
         "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
@@ -33,7 +33,7 @@
     },
     {
         "name": "17TRACK",
-        "url": "https://help.17track.net/hc/en-us/articles/360061466432-How-to-cancel-my-account",
+        "url": "https://help.17track.net/hc/articles/360061466432",
         "difficulty": "hard",
         "notes": "You need to send them a message on their website to delete your account.",
         "notes_it": "Devi inviare loro un messaggio sul loro sito web per cancellare il tuo account.",
@@ -180,10 +180,9 @@
     },
     {
         "name": "7plus",
-        "url": "https://support.7plus.com.au/hc/en-au/requests/new",
-        "difficulty": "hard",
-        "notes": "Create a new request, select the 'Reason For Contact' as 'Account Related' and then under 'Please choose the issue' select 'Close 7plus account'. Supply the appropriate email and name, then send the request.",
-        "notes_it": "Vai alla pagina, crea una nuova richiesta, seleziona il 'Motivo del contatto' come 'Relativo all'account' e poi sotto 'Scegli il problema' seleziona 'Chiudi account 7plus'. Inserisci l'indirizzo email e il nome appropriati, quindi invia la richiesta.",
+        "url": "https://support.7plus.com.au/hc/articles/27058368473741",
+        "notes": "Deletable through account management.",
+        "difficulty": "easy",
         "domains": [
             "7plus.com.au",
             "support.7plus.com.au"
@@ -206,7 +205,7 @@
     },
     {
         "name": "99designs",
-        "url": "https://support.99designs.com/hc/en-us/articles/27848116950036-How-do-I-delete-my-account",
+        "url": "https://support.99designs.com/hc/articles/27848116950036",
         "difficulty": "hard",
         "notes": "Have to contact them, they will only ask for confirmation",
         "notes_ru": "Свяжитесь с ними, они только попроят подтверждения.",
@@ -255,10 +254,10 @@
         "domains": ["ableton.com"]
     },
     {
-        "name": "About you",
-        "url": "https://www.aboutyou.it/h/il-mio-account/q-360014814179",
+        "name": "ABOUT YOU",
+        "url": "https://aboutyou.com/h/my-account/q-360014814179",
         "difficulty": "hard",
-        "email": "servizioclienti@aboutyou.it",
+        "email": "dataprotectionofficer@aboutyou.com",
         "domains": [
             "aboutyou.at",
             "aboutyou.be",
@@ -14590,9 +14589,9 @@
     },
     {
         "name": "Nexon",
-        "url": "https://support-maplestory.nexon.net/hc/fr/articles/360000698823-Comment-puis-je-supprimer-ou-d%C3%A9sactiver-mon-compte-",
+        "url": "https://support-maplestory.nexon.com/hc/articles/360000698823",
         "difficulty": "hard",
-        "notes": "Open a ticket to ask for account deletion",
+        "notes": "Submit a ticket requesting account deletion.",
         "domains": [
             "nexon.com",
             "one.nexon.com",
@@ -16695,24 +16694,23 @@
     },
     {
         "name": "Pokémon GO",
-        "url": "https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3518-how-do-i-delete-my-pokemon-go-account-1656453288/",
+        "url": "https://niantic.helpshift.com/hc/faq/3518",
         "difficulty": "easy",
-        "notes": "Sign in to the app with the game account you want to delete, then navigate to the Pokémon GO app 'Settings' ⮕ 'Advanced Settings' ⮕ 'Delete Account' and confirm.",
+        "notes": "Sign in to the game with the account you want to delete, then navigate to 'Settings' ⮕ 'Advanced Settings' ⮕ 'Delete Account' and confirm.",
         "domains": [
             "niantic.helpshift.com",
-            "gorelease-assets.nianticstatic.com",
-            "nianticlabs.com"
+            "explore.scopely.com"
         ]
     },
     {
         "name": "Pokémon Trainer Club",
-        "url": "https://support.pokemon.com/hc/en-us/articles/360000965826-How-do-I-delete-my-Pok%C3%A9mon-Trainer-Club-account-",
+        "url": "https://trainer.pokemon.com/profile/data-security",
         "difficulty": "easy",
-        "notes": "Go to https://club.pokemon.com/us/pokemon-trainer-club/edit-profile/ scroll down to the bottom and click 'Request Data Deletion', enter the required fields and you'll then get a confirmation email.",
+        "notes": "Deletable through the Privacy tab of account management, then prompts for email confirmation.",
         "domains": [
             "support.pokemon.com",
             "pokemon.com",
-            "club.pokemon.com"
+            "trainer.pokemon.com"
         ]
     },
     {
@@ -18036,9 +18034,8 @@
     },
     {
         "name": "Roblox",
-        "url": "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
+        "url": "https://help.roblox.com/hc/articles/203313050",
         "difficulty": "hard",
-        "notes": "A form of photo ID is required. Despite what the initial email claims, they will delete your account regardless of your location.",
         "domains": [
             "www.roblox.com",
             "en.help.roblox.com",
@@ -19488,9 +19485,8 @@
     },
     {
         "name": "Speedtest",
-        "url": "https://help.speedtest.net/hc/en-us/articles/360035679994-How-do-I-delete-my-data-GDPR-",
+        "url": "https://speedtest.net/help/guides/how-do-i-delete-my-data-gdpr",
         "difficulty": "hard",
-        "notes": "The only way to delete your speedtest account is by emailing their support team.",
         "email": "support@speedtest.net",
         "domains": [
             "speedtest.net",
@@ -23106,12 +23102,15 @@
         ]
     },
     {
-        "name": "WeMod",
-        "url": "https://support.wemod.com/docs/how-do-i-delete-my-account",
+        "name": "WeMod / Wand",
+        "url": "https://wand.com/support/articles/1192806",
         "difficulty": "hard",
-        "notes": "If you have currently active licenses, you may need to confirm account deletion in a later email.",
-        "email": "support@wemod.com",
-        "domains": ["wemod.com"]
+        "notes": "Contact customer support requiesting account deletion. If you have currently active licenses, you may need to confirm account deletion in a later email.",
+        "email": "support@wand.com",
+        "domains": [
+            "wemod.com",
+            "wand.com"
+        ]
     },
     {
         "name": "Western Union",
