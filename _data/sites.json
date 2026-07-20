@@ -8879,8 +8879,8 @@
     {
         "name": "Grok / xAI",
         "url": "https://accounts.x.ai/data",
-        "difficulty": "easy",
-        "notes": "Open the linked page, enter your email. Your account will be deleted in 30 days. To cancel your request, log in again.",
+        "difficulty": "medium",
+        "notes": "Open the linked page, request deletion, and enter your email to confirm. Your account and data will then be deleted in 30 days. You can halt deletion and recover your account and data by signing back in within these 30 days.",
         "domains": [
             "accounts.x.ai",
             "x.ai",
