@@ -6203,6 +6203,15 @@
         ]
     },
     {
+        "name": "Elementor",
+        "url": "https://my.elementor.com/",
+        "difficulty": "hard",
+        "notes": "Chat with AI assistant from your personal area and request account deletion (multiple retries may be required). If Pro subscriber, you can contact support [with this form](https://my.elementor.com/support-form/)",
+        "domains": [
+            "my.elementor.com"
+        ]
+    },
+    {
         "name": "Elevate",
         "url": "https://elevateapp.com",
         "difficulty": "hard",
