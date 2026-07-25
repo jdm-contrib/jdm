@@ -353,6 +353,13 @@
         ]
     },
     {
+        "name": "ACI Learning",
+        "url": "https://app.acilearning.com/account",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete Account\" button Account Management section.",
+        "domains": ["acilearning.com", "app.acilearning.com"]
+    },
+    {
         "name": "Acorns",
         "url": "https://app.acorns.com/close-account",
         "difficulty": "easy",
