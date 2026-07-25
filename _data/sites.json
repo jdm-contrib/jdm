@@ -16130,6 +16130,13 @@
         ]
     },
     {
+        "name": "PentesterLab",
+        "url": "https://pentesterlab.com/my/details",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete my account\" under tha Danger Zone.",
+        "domains": ["pentesterlab.com"]
+    },
+    {
         "name": "Penzu",
         "url": "https://penzu.com/app/account/delete",
         "difficulty": "easy",
