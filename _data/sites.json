@@ -353,6 +353,16 @@
         ]
     },
     {
+        "name": "ACI Learning",
+        "url": "https://app.acilearning.com/account",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete Account\" button Account Management section.",
+        "domains": [
+            "acilearning.com",
+            "app.acilearning.com"
+        ]
+    },
+    {
         "name": "Acorns",
         "url": "https://app.acorns.com/close-account",
         "difficulty": "easy",
@@ -16128,6 +16138,13 @@
             "penpot.app",
             "design.penpot.app"
         ]
+    },
+    {
+        "name": "PentesterLab",
+        "url": "https://pentesterlab.com/my/details",
+        "difficulty": "easy",
+        "notes": "Click the \"Delete my account\" under tha Danger Zone.",
+        "domains": ["pentesterlab.com"]
     },
     {
         "name": "Penzu",
