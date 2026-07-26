@@ -21195,6 +21195,13 @@
         ]
     },
     {
+        "name": "TinyURL",
+        "difficulty": "medium",
+        "url": "https://tinyurl.com/app/settings/profile",
+        "notes": "Scroll to the bottom of the page and click \"Deactivate account\". Select the reason for deactivation and enter your password. Your TinyURLs will stick work. You will not be able to create an account with the same email address again.",
+        "domains": ["tinyurl.com"]
+    },
+    {
         "name": "Tisséo",
         "url": "https://moncompte.tisseo.fr/fr/questions-frequentes?question=comment-supprimer-mon-compte",
         "difficulty": "hard",
