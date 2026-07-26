@@ -13517,19 +13517,20 @@
         "domains": ["mobalytics.gg"]
     },
     {
-        "name": "Mobileread Forums",
-        "url": "https://www.mobileread.com/forums/sendmessage.php",
-        "difficulty": "impossible",
-        "notes": "It is possible to contact the webmaster, but there is no guarantee they will answer.",
-        "domains": ["mobileread.com"]
-    },
-    {
         "name": "Mobify",
         "url": "https://www.mobify.com/contact/",
         "difficulty": "hard",
         "notes": "You have to send a message in order to remove your account.",
         "notes_tr": "Hesabınızı kaldırmak için bir mesaj göndermelisiniz.",
         "domains": ["mobify.com"]
+    },
+
+    {
+        "name": "Mobileread Forums",
+        "url": "https://www.mobileread.com/forums/sendmessage.php",
+        "difficulty": "impossible",
+        "notes": "It is possible to contact the webmaster, but there is no guarantee they will answer.",
+        "domains": ["mobileread.com"]
     },
     {
         "name": "Mobills",
