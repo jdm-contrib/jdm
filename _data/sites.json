@@ -13517,6 +13517,13 @@
         "domains": ["mobalytics.gg"]
     },
     {
+        "name": "Mobileread Forums",
+        "url": "https://www.mobileread.com/forums/sendmessage.php",
+        "difficulty": "impossible",
+        "notes": "It is possible to contact the webmaster, but there is no guarantee they will answer.",
+        "domains": ["mobileread.com"]
+    },
+    {
         "name": "Mobify",
         "url": "https://www.mobify.com/contact/",
         "difficulty": "hard",
