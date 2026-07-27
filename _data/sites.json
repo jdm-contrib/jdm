@@ -13524,6 +13524,14 @@
         "notes_tr": "Hesabınızı kaldırmak için bir mesaj göndermelisiniz.",
         "domains": ["mobify.com"]
     },
+
+    {
+        "name": "Mobileread Forums",
+        "url": "https://www.mobileread.com/forums/sendmessage.php",
+        "difficulty": "impossible",
+        "notes": "It is possible to contact the webmaster, but there is no guarantee they will answer.",
+        "domains": ["mobileread.com"]
+    },
     {
         "name": "Mobills",
         "url": "https://web.mobillsapp.com/Configuracoes/DeletaConta",
