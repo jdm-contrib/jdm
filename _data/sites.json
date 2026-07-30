@@ -20834,7 +20834,7 @@
         "name": "Tellonym",
         "url": "https://tellonym.me/profile/settings/more",
         "difficulty": "easy",
-        "notes": "Click Delete Account. Your account will then be deleted after 30 days.",
+        "notes": "Click Delete Account, and then click on \"Yes, I'm sure\". Your account will then be deleted after 30 days.",
         "domains": ["tellonym.me"]
     },
     {
