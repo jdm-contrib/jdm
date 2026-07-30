@@ -23794,7 +23794,7 @@
     {
         "name": "Wix",
         "url": "https://manage.wix.com/account/close-account",
-        "difficulty": "medium",
+        "difficulty": "easy",
         "notes": "Make sure you're logged in and fill the form to delete the account.",
         "notes_es": "Asegúrate de que tu sesión esté abierta y completa el formulario para eliminar la cuenta.",
         "domains": [
