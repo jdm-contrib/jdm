@@ -18267,6 +18267,13 @@
         ]
     },
     {
+        "name": "SalahClock",
+        "url": "https://salahclock.app/dashboard/account",
+        "difficulty": "easy",
+        "notes": "Open Account from the menu, then click \"Delete my account\" and type DELETE to confirm. If you are on a paid plan, cancel your subscription from the Billing page first.",
+        "domains": ["salahclock.app"]
+    },
+    {
         "name": "SamMobile",
         "url": "https://www.sammobile.com/remove-account/",
         "difficulty": "medium",
