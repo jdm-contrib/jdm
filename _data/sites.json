@@ -21800,6 +21800,13 @@
         ]
     },
     {
+        "name": "TutorialSearch",
+        "url": "https://tutorialsearch.io/account",
+        "difficulty": "easy",
+        "notes": "Sign in, open the Account page, click \"Delete my account\", type \"DELETE\" and confirm. This permanently deletes your account and all saved tutorials, collections, and progress.",
+        "domains": ["tutorialsearch.io"]
+    },
+    {
         "name": "TV 2",
         "url": "https://mit.tv2.dk/konto/luk",
         "difficulty": "easy",
