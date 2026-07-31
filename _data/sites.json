@@ -9544,6 +9544,13 @@
         "domains": ["hol.org.uk"]
     },
     {
+        "name": "Holehe Online",
+        "url": "https://holehe.online",
+        "difficulty": "medium",
+        "notes": "Log in and click your profile picture and choose 'Manage account'. Then click 'Security' on the sidebar, scroll down and press 'Delete account'. Type 'Delete account' in the box and press enter.",
+        "domains": ["holehe.online"]
+    },
+    {
         "name": "Holiday Pirates",
         "url": "http://www.holidaypirates.com/user/profile/edit",
         "difficulty": "easy",
