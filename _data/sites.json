@@ -24646,6 +24646,12 @@
         "domains": ["zulipchat.com"]
     },
     {
+        "name": "Zwift",
+        "url": "https://zwift.com/delete-account",
+        "difficulty": "easy",
+        "domains": ["zwift.com"]
+    },
+    {
         "name": "zyBooks",
         "url": "https://www.zybooks.com/privacy-policy",
         "difficulty": "hard",
