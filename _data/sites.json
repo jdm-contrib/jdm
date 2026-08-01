@@ -17354,11 +17354,8 @@
     },
     {
         "name": "Quip",
-        "url": "https://www.quipsupport.com/entries/25079898-How-do-I-delete-my-account-",
+        "url": "https://www.salesforce.com/company/legal/privacy/data-subject-request/?d=afx",
         "difficulty": "hard",
-        "notes": "Email support@quip.com and ask them to delete your account.",
-        "notes_tr": "Hesabınızın silinmesini talep etmek için onlara e-posta gönderin.",
-        "email": "support@quip.com",
         "domains": ["quip.com"]
     },
     {
