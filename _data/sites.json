@@ -6418,7 +6418,7 @@
         "name": "Epieos",
         "url": "https://epieos.com/privacy",
         "difficulty": "hard",
-        "notes": "Send an email to request account deletion. You can also wait two years without any account activity and your account will be deleted automatically.",
+        "notes": "You can an email to request account deletion, but they never respond. You can also wait two years without any account activity and your account will be deleted automatically.",
         "email": "contact@epieos.com",
         "domains": ["epieos.com"]
     },
