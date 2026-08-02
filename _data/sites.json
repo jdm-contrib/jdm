@@ -18301,7 +18301,7 @@
     },
     {
         "name": "Samsung Account",
-        "url": "https://account.samsung.com/membership/contents/profile/delete-samsung-account",
+        "url": "https://v3.account.samsung.com/dashboard/profile/account/withdraw",
         "difficulty": "easy",
         "notes": "Click in the checkbox \"I confirm the conditions above\", click at \"Delete\", type your password and confirm your action by clicking \"Confirm\".",
         "notes_tr": "\"Yukarıdaki koşulları onaylıyorum\" onay kutusunu tıklayın, \"Sil\" tuşuna basarak şifrenizi yazın ve \"Onayla\" tuşuna tıklayarak işleminizi onaylayın.",
