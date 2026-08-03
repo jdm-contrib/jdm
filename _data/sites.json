@@ -11069,6 +11069,16 @@
         "domains": ["bugs.kde.org"]
     },
     {
+        "name": "Keep2Share",
+        "url": "https://help.k2s.cc/l_eng/knowledge_base/",
+        "difficulty": "hard",
+        "notes": "Visit the knowledge base link and click the blue @ symbol at the bottom of the right corner. Fill out the form with your email address used for your Keep2Share account, the reason \"Other\", and the reason you want to delete the account. You'll then receive an email from the team stating that your account has been deleted, or otherwise.",
+        "domains": [
+            "k2s.cc",
+            "help.k2s.cc"
+        ]
+    },
+    {
         "name": "Keepa",
         "url": "https://keepa.com",
         "difficulty": "easy",
