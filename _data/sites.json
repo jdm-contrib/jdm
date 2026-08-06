@@ -16203,6 +16203,15 @@
         "domains": ["peopleperhour.com"]
     },
     {
+        "name": "Perfect Panel",
+        "url": "https://perfectpanel.com",
+        "difficulty": "impossible",
+        "notes": "According to technical support, there is no option to delete an account, and it cannot be deleted upon request.",
+        "notes_ru": "По словам технической поддержки функция удаления учетной записи отсутствует и по запросу удалить ее невозможно.",
+        "notes_uk": "За словами служби технічної підтримки, функція видалення облікового запису відсутня, і видалити його на запит неможливо.",
+        "domains": ["perfectpanel.com"]
+    },
+    {
         "name": "The Perfect Shave",
         "url": "https://www.perfect-shave.de/einstellungen",
         "difficulty": "easy",
