@@ -13333,7 +13333,8 @@
             "login.microsoftonline.com",
             "office.com",
             "xbox.com",
-            "cloud.microsoft"
+            "cloud.microsoft",
+            "m365.cloud.microsoft"
         ]
     },
     {
