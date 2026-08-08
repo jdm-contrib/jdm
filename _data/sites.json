@@ -22677,9 +22677,9 @@
     },
     {
         "name": "Vivideo",
-        "url": "https://app.vivideo.ai/account",
+        "url": "https://vivideo.ai",
         "difficulty": "easy",
-        "notes": "Sign in, open the Account settings page and select 'Delete Account' at the bottom. Deletion is immediate and permanent, and your personal data is removed within 30 days. Deleting your account does not cancel an active subscription, so cancel any subscription on the Settings page first.",
+        "notes": "Sign in and open the Account page, then select 'Delete Account' at the bottom. Deletion is immediate and permanent, and your personal data is removed within 30 days. Deleting your account does not cancel an active subscription, so cancel any subscription on the Settings page first.",
         "domains": [
             "vivideo.ai",
             "app.vivideo.ai"
