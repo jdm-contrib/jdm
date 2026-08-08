@@ -17053,6 +17053,13 @@
         "domains": ["programiz.pro"]
     },
     {
+        "name": "Project Euler",
+        "url": "https://projecteuler.net/account",
+        "difficulty": "easy",
+        "notes": "Scroll to the Maintenance section at the bottom of the page, then select \"Delete Account\" and fill the confirmation code.",
+        "domains": ["projecteuler.net"]
+    },
+    {
         "name": "ProMods",
         "url": "https://promods.net/",
         "difficulty": "hard",
