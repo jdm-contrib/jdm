@@ -17053,6 +17053,13 @@
         "domains": ["programiz.pro"]
     },
     {
+        "name": "Project Euler",
+        "url": "https://projecteuler.net/account",
+        "difficulty": "easy",
+        "notes": "Scroll to the Maintenance section at the bottom of the page, then select \"Delete Account\" and fill the confirmation code.",
+        "domains": ["projecteuler.net"]
+    },
+    {
         "name": "ProMods",
         "url": "https://promods.net/",
         "difficulty": "hard",
@@ -23353,6 +23360,13 @@
         "difficulty": "easy",
         "notes": "You can delete your own account by navigating to the Profile and then clicking on the `delete account` button.",
         "domains": ["whoisfreaks.com"]
+    },
+    {
+        "name": "WhoSampled",
+        "url": "https://www.whosampled.com/user/profile/update/",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the page and click the \"Delete My Account\" button.",
+        "domains": ["www.whosampled.com"]
     },
     {
         "name": "WhoSay.com",
