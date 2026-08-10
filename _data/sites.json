@@ -15466,11 +15466,10 @@
     },
     {
         "name": "OpenFoodFacts",
-        "url": "https://blog.openfoodfacts.org/en/account-deletion",
-        "difficulty": "impossible",
-        "notes": "In order to delete your OpenFoodFacts account, you need to fill out the form and send an email. Though there is a form to delete your OpenFoodFacts account, it seems no one is tending to it.",
-        "email": "contact@openfoodfacts.org",
-        "domains": ["openfoodfacts.com"]
+        "url": "https://world.openfoodfacts.org/",
+        "difficulty": "easy",
+        "notes": "Click on your user name on top right corner, Click on Account Parameters, Go to the bottom of the page and click Delete user",
+        "domains": ["openfoodfacts.org"]
     },
     {
         "name": "OpenGuessr",
