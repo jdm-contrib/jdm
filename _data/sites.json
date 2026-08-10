@@ -6804,6 +6804,12 @@
         "domains": ["fairphone.com"]
     },
     {
+        "name": "Fake Portal",
+        "url": "https://fakeportal.com/",
+        "difficulty": "impossible",
+        "domains": ["fakeportal.com"]
+    },
+    {
         "name": "FamilySearch",
         "url": "https://www.familysearch.org/identity/settings/account",
         "difficulty": "easy",
