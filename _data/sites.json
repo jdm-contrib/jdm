@@ -15466,9 +15466,9 @@
     },
     {
         "name": "OpenFoodFacts",
-        "url": "https://world.openfoodfacts.org/",
+        "url": "https://world.openfoodfacts.org/cgi/user.pl?type=edit",
         "difficulty": "easy",
-        "notes": "Click on your user name on top right corner, Click on Account Parameters, Go to the bottom of the page and click Delete user",
+        "notes": "Go to the bottom of the page and click Delete user",
         "domains": ["openfoodfacts.org"]
     },
     {
