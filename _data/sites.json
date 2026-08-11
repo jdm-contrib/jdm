@@ -16560,6 +16560,12 @@
         "domains": ["placeit.net"]
     },
     {
+        "name": "Placeminute",
+        "url": "https://www.placeminute.com/account.html",
+        "difficulty": "easy",
+        "domains": ["placeminute.com"]
+    },
+    {
         "name": "PlanetMinecraft",
         "url": "https://www.planetminecraft.com/account/settings/delete/",
         "difficulty": "easy",
@@ -17993,9 +17999,7 @@
         "url": "https://rexarhosting.nl/dashboard/profile/",
         "difficulty": "medium",
         "notes": "Log in to your account, go to profile and click on 'Delete Account'. Then you will get an email to confirm the deletion.",
-        "domains": [
-            "rexarhosting.nl"
-        ]
+        "domains": ["rexarhosting.nl"]
     },
     {
         "name": "Rhonexpress",
@@ -22505,7 +22509,8 @@
         "domains": [
             "vidlii.com",
             "vidlii.net",
-            "vidlii.st"        ]
+            "vidlii.st"
+        ]
     },
     {
         "name": "Vidyard",
