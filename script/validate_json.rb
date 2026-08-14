@@ -165,21 +165,21 @@ def validate_notes(key)
 end
 
 def validate_domains(key)
-  domains = key['domains']
+    domains = key['domains']
 
-  # Ensure domains is an Array
-  unless domains.is_a?(Array)
-    STDERR.puts "Entry '#{key['name']}' has an invalid 'domains' field (must be an Array)."
-    exit ExitCodes::INVALID_DOMAINS
-  end
-
-  domains.each do |domain|
-    if domain.start_with?('www.', 'http://', 'https://')
-      STDERR.puts "Entry '#{key['name']}' contains an invalid domain format: '#{domain}'.\n" \
-                  "Domains must not start with 'www.', 'http://', or 'https://'."
-      exit ExitCodes::INVALID_DOMAINS
+    # Ensure domains is an Array
+    unless domains.is_a?(Array)
+        STDERR.puts "Entry '#{key['name']}' has an invalid 'domains' field (must be an Array)."
+        exit ExitCodes::INVALID_DOMAINS
     end
-  end
+
+    domains.each do |domain|
+        if domain.start_with?('www.', 'http://', 'https://')
+            STDERR.puts "Entry '#{key['name']}' contains an invalid domain format: '#{domain}'.\n" \
+                        "Domains must not start with 'www.', 'http://', or 'https://'."
+            exit ExitCodes::INVALID_DOMAINS
+        end
+    end
 end
 
 def validate_website_entry(key, i)
