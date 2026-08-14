@@ -21,6 +21,7 @@ module ExitCodes
     UNEXPECTED_NOTES = 12          # Unexpected notes key for translation
     DUPLICATES = 13                # Duplicate entries
     MALFORMED_NOTES = 14           # Malformed notes
+    INVALID_DOMAINS = 15           # Domain starts with forbidden prefix
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "limited", "impossible"]
@@ -163,6 +164,24 @@ def validate_notes(key)
     end
 end
 
+def validate_domains(key)
+  domains = key['domains']
+
+  # Ensure domains is an Array
+  unless domains.is_a?(Array)
+    STDERR.puts "Entry '#{key['name']}' has an invalid 'domains' field (must be an Array)."
+    exit ExitCodes::INVALID_DOMAINS
+  end
+
+  domains.each do |domain|
+    if domain.start_with?('www.', 'http://', 'https://')
+      STDERR.puts "Entry '#{key['name']}' contains an invalid domain format: '#{domain}'.\n" \
+                  "Domains must not start with 'www.', 'http://', or 'https://'."
+      exit ExitCodes::INVALID_DOMAINS
+    end
+  end
+end
+
 def validate_website_entry(key, i)
     unless key.key?('name')
         STDERR.puts "Entry #{i} has no 'name' field"
@@ -175,6 +194,7 @@ def validate_website_entry(key, i)
     validate_difficulty(key)
     validate_localized_urls(key)
     validate_notes(key)
+    validate_domains(key)
 end
 
 def add_valid_language_key(keys_in_language_json, key, file)
