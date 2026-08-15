@@ -3,6 +3,7 @@
 # Validates JSON files in the _data directory
 
 require 'json'
+require 'nokogiri'
 
 module ExitCodes
     SUCCESS = 0
@@ -19,15 +20,19 @@ module ExitCodes
     UNSUPPORTED_FIELD = 11         # Unsupported field for site entry
     UNEXPECTED_NOTES = 12          # Unexpected notes key for translation
     DUPLICATES = 13                # Duplicate entries
+    MALFORMED_NOTES = 14           # Malformed notes
+    INVALID_DOMAINS = 15           # Domain starts with forbidden prefix
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "limited", "impossible"]
 SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = [
     "about",
+    "androidapp",
     "contribute",
     "defaultnote_easy",
     "defaultnote_email",
+    "defaultnote_hard",
     "difficulty",
     "difficulty_easy",
     "difficulty_hard",
@@ -128,14 +133,51 @@ def validate_localized_urls(key)
     end
 end
 
-def validate_localized_notes(key)
+def validate_notes(key)
     key.keys.each do |entry_key|
+        # Omit all keys that are not notes
+        if !entry_key.start_with?('notes')
+            next
+        end
+
+        # Validate parsing
+        doc = Nokogiri::HTML5::DocumentFragment.parse(key[entry_key], max_errors: 10)
+
+        unless doc.errors.empty?
+            error_details = doc.errors.map { |e| "\t* #{e.message}" }.join("\n")
+
+            STDERR.puts "Entry '#{key['name']}' has malformed notes code: "\
+                        "'#{entry_key}'.\n"\
+                        "Error details:\n"\
+                        "#{error_details}"
+            exit ExitCodes::MALFORMED_NOTES
+        end
+
+        # Validate localization
         if entry_key.start_with?('notes_') && !SupportedLanguages.any? { |lang| entry_key.eql?("notes_#{lang}") }
             STDERR.puts "Entry '#{key['name']}' has unrecognized notes code: "\
                         "'#{entry_key}'.\n"\
                         "Use one of the supported languages:\n"\
                         "\t#{SupportedLanguages}"
             exit ExitCodes::UNEXPECTED_NOTES
+        end
+    end
+end
+
+def validate_domains(key)
+    domains = key['domains']
+
+    # Ensure domains is an Array
+    unless domains.is_a?(Array)
+        STDERR.puts "Entry '#{key['name']}' has an invalid 'domains' field (must be an Array)."
+        exit ExitCodes::INVALID_DOMAINS
+    end
+
+    domains.each do |domain|
+        if domain.start_with?('www.', 'http://', 'https://')
+            STDERR.puts "Entry '#{key['name']}' contains an invalid domain format: '#{domain}'.\n" \
+                        "Domains must not start with 'www.', 'http://', or 'https://'."
+            exit ExitCodes::INVALID_DOMAINS
         end
     end
 end
@@ -151,7 +193,8 @@ def validate_website_entry(key, i)
     error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
     validate_difficulty(key)
     validate_localized_urls(key)
-    validate_localized_notes(key)
+    validate_notes(key)
+    validate_domains(key)
 end
 
 def add_valid_language_key(keys_in_language_json, key, file)

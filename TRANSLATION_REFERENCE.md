@@ -31,6 +31,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `hideinfo`: Text for button that hides notes of an entry
 - `noinfo`: Text shown when entry has no notes
 - `defaultnote_easy`: Text shown when entry has no notes and deletion is accomplished by going to the linked URL
+- `defaultnote_hard`: Text shown when entry has no notes and deletion is accomplished by contacting customer support
 - `defaultnote_email`: Text shown when entry has no notes and deletion is accomplished by emailing a company representative
 
 ## Footer

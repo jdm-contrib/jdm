@@ -31,10 +31,17 @@ $(function(){
             var siteHeader = $(this).find(".site-header")[0];
             var siteTitle = siteHeader.innerText.trim().toLowerCase();
             var siteUrl = siteHeader.href.toLowerCase();
+            var siteDomains = $(this).data("domains") || [];
             var lowerTerm = term.toLowerCase();
 
-            // returns true if lowerTerm isn't found in site title or URL
-            return Math.max(siteTitle.indexOf(lowerTerm), siteUrl.indexOf(lowerTerm)) === -1;
+            // true if lowerTerm isn't found in site title or URL
+            if ((siteTitle.indexOf(lowerTerm) === -1 && siteUrl.indexOf(lowerTerm) === -1) === false) {
+                return false;
+            }
+
+            const domainNormalizedTerm = lowerTerm.replace(/^http(s)?:\/\//, "").replace(/^www\./, "");
+            const domainMatch = siteDomains.some((domain) => domain.indexOf(domainNormalizedTerm) !== -1);
+            return !domainMatch;
         });
 
         // Insert the term into the search field
@@ -84,17 +91,6 @@ $(function(){
         $("input").val("");
         if (window.location.href.includes("#") && getDecodedWindowHash()) {
             setWindowHash("");
-        }
-    });
-
-    // Toggle visibility of site info boxes
-    $(".contains-info").click(function(e) {
-        e.preventDefault();
-        if ($(this).prev().hasClass("toggled")) {
-            $(this).prev().slideToggle().removeClass("toggled");
-        } else {
-            $(".toggled").slideToggle().removeClass("toggled");
-            $(this).prev().slideToggle().addClass("toggled");
         }
     });
 

@@ -20,7 +20,7 @@
         <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/jdm-contrib/jdm'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
 
         {% for entry in site.data.sites %}
-            <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
+            <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}{% if entry.domains %} data-domains='{{ entry.domains | jsonify | downcase }}'{% endif %}>
                 {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
                 <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% else %}{{entry.url}}{% endif %}">
                     <span class="name">{{ entry.name }}</span>
@@ -42,28 +42,27 @@
                 </p>
 
                 {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
-                {% if entry.notes or entry[lang_notes] or entry.email or entry.difficulty == 'easy' %}
-                    <div class="tooltip-content">
+                {% if entry.notes or entry[lang_notes] or entry.email or entry.difficulty == 'easy' or entry.difficulty == 'hard' %}
+                    <details class="tooltip-content">
                         {% if entry[lang_notes] %}
                             {{ entry[lang_notes] | markdownify }}
                         {% elsif entry.notes %}
                             {{ entry.notes | markdownify }}
                         {% elsif entry.email %}
                             {{ site.data.trans[page.lang].defaultnote_email }}
+                        {% elsif entry.difficulty == 'hard' %}
+                            {{ site.data.trans[page.lang].defaultnote_hard }}
                         {% elsif entry.difficulty == 'easy' %}
                             {{ site.data.trans[page.lang].defaultnote_easy }}
                         {% endif %}
                         {% if entry.email %}
-                            {% if entry.notes or entry[lang_notes] %}
-                                <br>
-                            {% endif %}
-                            <a href="mailto:{{ entry.email }}?Subject={% if entry.email_subject %}{{ entry.email_subject | replace: ' ', '%20' }}{% else %}Account%20Deletion%20Request{% endif %}&body={% if entry.email_body %}{{ entry.email_body | replace: ' ', '%20' }}{% else %}Please%20delete%20my%20account,%20my%20username%20is%20 XXXXXX{% endif %}">{{ site.data.trans[page.lang].sendmail }} &raquo;</a>
+                            <a class="email-info" href="mailto:{{ entry.email }}?Subject={% if entry.email_subject %}{{ entry.email_subject | replace: ' ', '%20' }}{% else %}Account%20Deletion%20Request{% endif %}&body={% if entry.email_body %}{{ entry.email_body | replace: ' ', '%20' }}{% else %}Please%20delete%20my%20account,%20my%20username%20is%20XXXXXX{% endif %}">{{ site.data.trans[page.lang].sendmail }} &raquo;</a>
                         {% endif %}
-                    </div>
-                    <a href="#" class="tooltip-toggle contains-info">
-                        <span class="show-info">{{ site.data.trans[page.lang].showinfo }}</span>
-                        <span class="hide-info">{{ site.data.trans[page.lang].hideinfo }}</span>
-                    </a>
+                        <summary class="tooltip-toggle contains-info">
+                            <span class="show-info">{{ site.data.trans[page.lang].showinfo }}</span>
+                            <span class="hide-info">{{ site.data.trans[page.lang].hideinfo }}</span>
+                        </summary>
+                    </details>
                 {% else %}
                     <p class="tooltip-toggle">{{ site.data.trans[page.lang].noinfo }}</p>
                 {% endif %}
@@ -129,11 +128,7 @@
         {% assign sorted_files = (site.data.trans | sort:0) %}
         {% for lang in sorted_files %}
             {% assign lang_code = lang[0] %}
-            {% if lang_code == 'en' %}
-                {% assign url = './' %}
-            {% else %}
-                {% assign url = lang_code %}
-            {% endif %}
+            {% assign url = lang_code %}
             <li class="{{ lang_code }}"><a href="{{ url }}">{{ site.data.trans[lang_code].name }}</a></li>
         {% endfor %}
     </ul>
