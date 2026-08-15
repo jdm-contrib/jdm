@@ -22,6 +22,7 @@ module ExitCodes
     DUPLICATES = 13                # Duplicate entries
     MALFORMED_NOTES = 14           # Malformed notes
     INVALID_DOMAINS = 15           # Domain starts with forbidden prefix
+    INVALID_URL_SCHEME = 16        # URL isn't prefixed with http:// or https://
 end
 
 SupportedDifficulties = ["easy", "medium", "hard", "limited", "impossible"]
@@ -118,6 +119,18 @@ def validate_difficulty(key)
                     "Use one of the supported difficulty values:\n"\
                     "\t#{SupportedDifficulties}"
         exit ExitCodes::UNEXPECTED_DIFFICULTY
+    end
+end
+
+def validate_url_schemes(key)
+    key.each do |entry_key, value|
+        next unless entry_key.to_s.match?(/\Aurl(_.*)?\z/)
+        unless value.to_s.match?(%r{\Ahttps?://})
+            STDERR.puts "Entry '#{entry['name']}' key '#{entry_key}' has an invalid URL value: "\
+                        "'#{value}'.\n"\
+                        "Value must start with 'http://' or 'https://'."
+            exit ExitCodes::INVALID_URL_SCHEME
+        end
     end
 end
 
