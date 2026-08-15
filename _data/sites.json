@@ -939,7 +939,7 @@
         "url": "https://alternative.me/account/settings",
         "difficulty": "easy",
         "notes": "On your account page, click to delete then confirm with your password.",
-        "domains": ["https://alternative.me/"]
+        "domains": ["alternative.me"]
     },
     {
         "name": "AlternativeTo",
@@ -1443,7 +1443,7 @@
         "url": "https://archiveofourown.org/faq/your-account?language_id=en#deleteaccount",
         "difficulty": "easy",
         "notes": "Click on your profile picture on the top right, go to 'Profile', and click the 'Delete my account' button",
-        "domains": ["https://archiveofourown.org/"]
+        "domains": ["archiveofourown.org"]
     },
     {
         "name": "Arduino",
@@ -2272,7 +2272,7 @@
         "difficulty": "hard",
         "notes": "To delete the account, contact customer service. It is recommended to do it via chat and ask to close the account, as there is no link to do so.",
         "notes_tr": "Hesabı silmek için müşteri hizmetleri ile iletişime geçin. Bunu yapmak için bir bağlantı olmadığından, bunu sohbet yoluyla yapmanız ve hesabı kapatmanızı istemeniz önerilir.",
-        "domains": ["https://www.bet365.com"]
+        "domains": ["bet365.com"]
     },
     {
         "name": "Betano",
@@ -2498,7 +2498,7 @@
         "name": "BlaBlaCar",
         "url": "https://www.blablacar.co.uk/dashboard/profile/close",
         "difficulty": "medium",
-        "notes": " Indicate the reason why you are deleting your account, whether you would recommend BlaBlaCar, and how it could be improved (minimum 10 characters), then click \"Close my account\". Your data will be deleted right away.",
+        "notes": "Indicate the reason why you are deleting your account, whether you would recommend BlaBlaCar, and how it could be improved (minimum 10 characters), then click \"Close my account\". Your data will be deleted right away.",
         "domains": [
             "blablacar.com",
             "blablacar.co.uk"
@@ -2779,7 +2779,7 @@
         "name": "Bonjour RATP",
         "url": "https://www.bonjour-ratp.fr/aide-contact/?question=maj-auth0-comment-supprimer-mon-compte-client-bonjour-ratp",
         "difficulty": "easy",
-        "notes": " Download the app first. Then press the Account button ⮕ Manage my Account ⮕ Find \"Delete account\" at the bottom of the screen.",
+        "notes": "Download the app first. Then press the Account button ⮕ Manage my Account ⮕ Find \"Delete account\" at the bottom of the screen.",
         "notes_fr": "Accédez à l'application et sélectionnez Paramètres du compte. Naviguez jusqu'à Gérer mon compte. Sélectionnez Supprimer mon compte.",
         "domains": ["bonjour-ratp.fr"]
     },
@@ -3603,7 +3603,7 @@
         "notes_fr": "Vous devez contacter le support par email pour supprimer votre compte.",
         "email": "assistance@secureticket.fr",
         "email_subject": "Suppression de compte",
-        "email_body": " Je demande la suppression de mon compte Chamonix Mobilité",
+        "email_body": "Je demande la suppression de mon compte Chamonix Mobilité",
         "difficulty": "hard",
         "domains": ["chamonix-mobilite.com"]
     },
@@ -6639,10 +6639,7 @@
         "notes_tr": "Ad, E-posta ve Telefon girin. Konu olarak 'Hesap Silme Talebi'ni seçin, CAPTCHA'yı tamamlayın ve sorguyu gönderin.",
         "notes_uk": "Введіть ім’я, електронну пошту та телефон. Виберіть 'Запит на видалення акаунта' як тему, заповніть CAPTCHA та надішліть запит.",
         "notes_vi": "Nhập Tên, Email và Điện thoại. Chọn 'Yêu cầu xóa tài khoản' làm chủ đề, hoàn thành CAPTCHA và gửi yêu cầu.",
-        "domains": [
-            "evike.com",
-            "www.evike.com"
-        ]
+        "domains": ["evike.com"]
     },
     {
         "name": "Evite",
@@ -7733,7 +7730,7 @@
         "notes": "You will find option to remove your account under Profile - My Account tab, after log in. Removed GG account number is going back to available numbers for new users.",
         "notes_tr": "Giriş yaptıktan sonra \"Profil\" \"Hesabım\" sekmesinden hesabı silme seçeneğini bulacaksınız. Kaldırılan GG hesap numarası, yeni kullanıcılar için mevcut numaralara geri döner.",
         "notes_pl": "Po zalogowaniu się do konta w zakładce Moje konto - Profil znajduje się opcja usuń konto. Usunięty numer GG wraca do puli numerów dostępnych dla nowych użytkowników.",
-        "domains": ["www.gg.pl"]
+        "domains": ["gg.pl"]
     },
     {
         "name": "Gaijin Entertainment",
@@ -7802,7 +7799,7 @@
         "url": "https://www.gamefront.com/account/delete",
         "difficulty": "impossible",
         "notes": "Although the site claims to allow account deletion, it was not functional at the time of writing, instead returning a 500 status code (Internal Server Error). They claim that they will refuse to delete accounts through any other means.",
-        "domains": ["www.gamefront.com"]
+        "domains": ["gamefront.com"]
     },
     {
         "name": "Gamefroot",
@@ -9178,7 +9175,7 @@
         "difficulty": "easy",
         "notes": "According to the site you must go to the profile settings url and there will be a button called 'delete account' which will delete the account if it is wished to.",
         "notes_tr": "Siteye göre profil ayarları bağlantısına gitmelisiniz ve hesabı silmeye yarayan \"Hesabı Sil\" adlı bir düğme olacaktır.",
-        "domains": ["www.hackerrank.com"]
+        "domains": ["hackerrank.com"]
     },
     {
         "name": "Happy Scribe",
@@ -11982,7 +11979,7 @@
         "name": "Line",
         "url": "https://help.line.me/line/?contentId=20000121",
         "difficulty": "easy",
-        "notes": " Download the app first. Then go to Home tab ⮕ Settings ⮕ Account. Find \"Delete account\" at the bottom of the screen.",
+        "notes": "Download the app first. Then go to Home tab ⮕ Settings ⮕ Account. Find \"Delete account\" at the bottom of the screen.",
         "domains": [
             "help.line.me",
             "line.me"
@@ -12239,7 +12236,7 @@
         "url": "https://rewards.lovemycreditunion.org/contact-us/",
         "difficulty": "hard",
         "notes": "Scroll all the way down on the website and find a little button with a picture of an envelope to contact customer support to have your account deleted.",
-        "domains": ["https://rewards.lovemycreditunion.org"]
+        "domains": ["rewards.lovemycreditunion.org"]
     },
     {
         "name": "LowEndTalk",
@@ -12272,7 +12269,7 @@
         "url": "https://ldjam.com/",
         "difficulty": "impossible",
         "notes": "You can't even change your username, email, or delete your posts.",
-        "domains": ["https://ldjam.com/"]
+        "domains": ["ldjam.com"]
     },
     {
         "name": "Lufthansa",
@@ -14581,7 +14578,7 @@
         "difficulty": "hard",
         "notes": "Use the form to request deletion of all of your personal data, they will only do it if law mandates like GDPR (Europe), otherwise account will just be deactivated. You might be required to confirm the request by mail or another form of contact.",
         "domains": [
-            "www.nytco.com",
+            "nytco.com",
             "nytimes.com",
             "myaccount.nytimes.com"
         ]
@@ -16135,7 +16132,7 @@
         "notes_tr": "Silme talebinde bulunmak için bir e-posta göndermelisiniz. Ardından, destek ekibinden geri bildirim isteyen ve silme işlemini onaylayan bir yanıt alacaksınız. Destek biriminden alacağınız bir sonraki e-posta, hesabınızın silindiğini size bildirecektir.",
         "notes_fr": "Il faut que vous demandez la suppression de votre compte dans un e-mail que vous envoyez à support@peak.net. Vous recevrez une réponse qui demande à la fois vos impressions de l'appli et une confirmation de la suppression. L'e-mail prochain que vous recevrez vous notifiera la suppression de votre compte.",
         "email": "support@peak.net",
-        "domains": ["www.peak.net"]
+        "domains": ["peak.net"]
     },
     {
         "name": "Pearson",
@@ -16224,7 +16221,7 @@
         "name": "Perplexity",
         "url": "https://www.perplexity.ai/settings/account",
         "difficulty": "easy",
-        "notes": " In the \"System\" field, select \"Delete Account\" and confirm the action. All data will be permanently deleted 30 days after the account is deleted.",
+        "notes": "In the \"System\" field, select \"Delete Account\" and confirm the action. All data will be permanently deleted 30 days after the account is deleted.",
         "domains": ["perplexity.ai"]
     },
     {
@@ -16512,7 +16509,7 @@
         "url": "https://www.pixiv.net/leave_pixiv.php",
         "difficulty": "medium",
         "notes": "It takes 2 weeks to delete an account. You will be unable to re-use the same e-mail during that period. They won't delete \"pixiv ID\". If you have other accounts created from your Pixiv account, you have to delete them before you can delete your Pixiv account",
-        "domains": ["www.pixiv.net"]
+        "domains": ["pixiv.net"]
     },
     {
         "name": "Pixlr",
@@ -16915,7 +16912,7 @@
         "name": "The Powder Toy",
         "url": "https://powdertoy.co.uk/Profile/Delete.html",
         "difficulty": "easy",
-        "notes": " The deletion takes a week. The account is deleted, but some public data will be kept anonymized.",
+        "notes": "The deletion takes a week. The account is deleted, but some public data will be kept anonymized.",
         "domains": ["powdertoy.co.uk"]
     },
     {
@@ -17069,7 +17066,7 @@
         "url": "https://promods.net/",
         "difficulty": "hard",
         "notes": "Contact via Discord or forum asking to delete account.",
-        "domains": ["https://promods.net/"]
+        "domains": ["promods.net"]
     },
     {
         "name": "Pronouns.page",
@@ -18118,7 +18115,7 @@
         "url": "https://help.roblox.com/hc/articles/203313050",
         "difficulty": "hard",
         "domains": [
-            "www.roblox.com",
+            "roblox.com",
             "en.help.roblox.com",
             "create.roblox.com",
             "corp.roblox.com",
@@ -19587,7 +19584,7 @@
         "difficulty": "hard",
         "notes": "The only way to delete the account is by emailing the Operator, as per section 3.19 of their TOS.",
         "email": "contact@sphere-research.com",
-        "domains": ["www.spoj.com"]
+        "domains": ["spoj.com"]
     },
     {
         "name": "SpielerPlus",
@@ -20473,7 +20470,7 @@
     },
     {
         "name": "Swift",
-        "url": " https://privacyportal.onetrust.com/webform/068883cc-1dae-4395-abfe-6eba2f29de47/d962e88c-edab-4c51-8428-9030bbaf552f",
+        "url": "https://privacyportal.onetrust.com/webform/068883cc-1dae-4395-abfe-6eba2f29de47/d962e88c-edab-4c51-8428-9030bbaf552f",
         "difficulty": "medium",
         "notes": "The request to remove your account is made via a form, in which you need to fill in some information and provide a valid ID document. [Swift's privacy policy](https://www.swift.com.br/Institucional/politica-privacidade\" target=\"_blank)",
         "notes_pt-BR": "A solicitação de remoção de conta acontece por um formulário, nele é necessário preencher algumas informações e repassar um documento de identificação válido. [Política de privacidade da Swift](https://www.swift.com.br/Institucional/politica-privacidade\" target=\"_blank)",
@@ -21686,7 +21683,7 @@
         "difficulty": "hard",
         "notes": "You must contact customer support using their 'Contact Us' form, and provide your account's e-mail address. The account will be deleted once a support staff member processes it.",
         "notes_tr": "\"İletişim\" formunu kullanarak müşteri desteği ile iletişime geçmeli ve hesabınızın e-posta adresini vermelisiniz. Hesap, bir destek personeli tarafından işlendiğinde silinecektir.",
-        "domains": ["www.trollandtoad.com"]
+        "domains": ["trollandtoad.com"]
     },
     {
         "name": "TruckersMP",
@@ -21878,7 +21875,7 @@
         "url": "https://tvtropes.org/pmwiki/profile.php",
         "difficulty": "easy",
         "notes": "In your profile, there is a 'Delete Account' link. Clicking this will permanently delete all personal information from your user profile and deactivate your account. Your username cannot be used again by you or anyone else",
-        "domains": ["https://tvtropes.org/"]
+        "domains": ["tvtropes.org"]
     },
     {
         "name": "Tweek",
@@ -22313,7 +22310,7 @@
         "name": "V.PS Hosting",
         "url": "https://vps.hosting/clientarea/delete",
         "difficulty": "easy",
-        "notes": " Go to the page and click the delete account button.",
+        "notes": "Go to the page and click the delete account button.",
         "domains": [
             "v.ps",
             "status.v.ps",
@@ -22833,8 +22830,8 @@
         "difficulty": "hard",
         "notes": "You have to call their toll-free number at 1-800-521-2010 or submit a request at the contact form to delete your account.",
         "domains": [
-            "www.vtech.com",
-            "www.vtechda.com"
+            "vtech.com",
+            "vtechda.com"
         ]
     },
     {
@@ -23155,7 +23152,7 @@
         "url": "https://www.webtoons.com/en/account/delete",
         "difficulty": "easy",
         "notes": "Check the \"I understand and want to delete my account\" option and click on \"Delete my account\". Note that any comments you wrote will not be deleted automatically so you will need to go [here](https://www.webtoons.com/en/mycomment) and delete them yourself.",
-        "domains": ["www.webtoons.com"]
+        "domains": ["webtoons.com"]
     },
     {
         "name": "Webull",
