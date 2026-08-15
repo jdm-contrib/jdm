@@ -6737,6 +6737,14 @@
         "domains": ["expressvpn.com"]
     },
     {
+        "name": "Extra",
+        "url": "https://www.grupocasasbahia.com.br/privacidade/",
+        "difficulty": "medium",
+        "notes": "Click on link to the privacy of the group; go to the tab SOLICITAÇÕES and select from which service of the group you want to request deletion; in the form that will open, register your information and wait for confirmation by e-mail.",
+        "notes_pt-BR": "Acesse o link do portal de privacidade do grupo; vá a aba SOLICITAÇÕES e selecione de qual serviço do grupo desejas solicitar exclusão; no formulário que se abrirá, registre suas informações e aguarde a confirmação via e-mail.",
+        "domains": ["extra.com.br", "extramercado.com.br"]
+    },
+    {
         "name": "EZsniper",
         "url": "https://www.ezsniper.com/contact.php",
         "difficulty": "hard",
@@ -19963,6 +19971,14 @@
             "stickk.com",
             "stickk.zendesk.com"
         ]
+    },
+    {
+        "name": "Stix",
+        "difficulty": "medium",
+        "url": "https://stixrnow.custhelp.com/app/ask/",
+        "notes": "Access the link provided, fill in your information and wait for confirmation via email.",
+        "notes_pt-BR": "Ao acessar o link do formulário, preencha com suas informações e aguarde a confirmação via e-mail.",
+        "domains": ["stix.com.br"]
     },
     {
         "name": "Stoat",
