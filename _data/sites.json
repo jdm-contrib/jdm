@@ -5454,10 +5454,14 @@
     },
     {
         "name": "distill.io",
-        "url": "distill.io",
+        "url": "https://accounts.distill.io/account/#/account/",
         "difficulty": "easy",
-        "notes": "Click the button to delete the account.",
-        "domains": ["distill.io"]
+        "notes": "Click the 'Close Account' button to delete your account.",
+        "domains": [
+            "distill.io",
+            "accounts.distill.io",
+            "monitor.distill.io"
+        ]
     },
     {
         "name": "Divize",
@@ -21011,7 +21015,7 @@
     },
     {
         "name": "Texas Instruments (TI)",
-        "url": "www.ti.com/feedbackform/home",
+        "url": "https://www.ti.com/feedbackform/home",
         "difficulty": "hard",
         "domains": ["ti.com"]
     },
@@ -23404,7 +23408,7 @@
     },
     {
         "name": "wikiHow",
-        "url": "wikihow.com/Special:Preferences#mw-prefsection-personal",
+        "url": "https://www.wikihow.com/Special:Preferences#mw-prefsection-personal",
         "difficulty": "hard",
         "notes": "Requires emailing them to request for deletion.",
         "domains": ["wikihow.com"]
