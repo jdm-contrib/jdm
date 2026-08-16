@@ -16523,6 +16523,13 @@
         "domains": ["pixlr.com"]
     },
     {
+        "name": "PixMind",
+        "url": "https://www.pixmind.io/privacy-policy",
+        "difficulty": "hard",
+        "email": "support@pixmind.io",
+        "domains": ["pixmind.io"]
+    },
+    {
         "name": "Pixum",
         "url": "https://int.pixum.com/service/delete-account",
         "difficulty": "hard",
