@@ -21719,6 +21719,13 @@
         "domains": ["truenas.com"]
     },
     {
+        "name": "TrustEd Institute",
+        "url": "https://trustedinstitute.com/settings/",
+        "difficulty": "hard",
+        "email": "support@trustedinstitute.com",
+        "domains": ["trustedinstitute.com"]
+    },
+    {
         "name": "Trustpilot",
         "url": "https://www.trustpilot.com/users/settings",
         "difficulty": "easy",
