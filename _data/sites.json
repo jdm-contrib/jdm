@@ -21719,18 +21719,18 @@
         "domains": ["truenas.com"]
     },
     {
-        "name": "Trustpilot",
-        "url": "https://www.trustpilot.com/users/settings",
-        "difficulty": "easy",
-        "notes": "Click 'Delete my profile' at the bottom of the page, then enter your email address to delete.",
-        "domains": ["trustpilot.com"]
-    },
-        {
         "name": "TrustEd Institute",
         "url": "https://trustedinstitute.com/settings/",
         "difficulty": "hard",
         "notes": "No way to delete via settings. Need to email support@trustedinstitute.com",
         "domains": ["trustedinstitute.com"]
+    },
+    {
+        "name": "Trustpilot",
+        "url": "https://www.trustpilot.com/users/settings",
+        "difficulty": "easy",
+        "notes": "Click 'Delete my profile' at the bottom of the page, then enter your email address to delete.",
+        "domains": ["trustpilot.com"]
     },
     {
         "name": "TruthFinder",
