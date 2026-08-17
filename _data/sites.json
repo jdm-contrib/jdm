@@ -21722,7 +21722,7 @@
         "name": "TrustEd Institute",
         "url": "https://trustedinstitute.com/settings/",
         "difficulty": "hard",
-        "notes": "No way to delete via settings. Need to email support@trustedinstitute.com",
+        "email": "support@trustedinstitute.com",
         "domains": ["trustedinstitute.com"]
     },
     {
