@@ -13246,6 +13246,21 @@
         ]
     },
     {
+        "name": "Meta Account",
+        "url": "https://accountscenter.meta.com/manage/deletion_and_deactivation",
+        "difficulty": "medium",
+        "notes": "Select \"Delete account\" and tap Continue three times, enter your password and press \"Delete account\". Your account will be deleted in 30 days and the deletion process may take up to 90 days.",
+        "domains": [
+            "meta.com",
+            "work.meta.com",
+            "ai.meta.com",
+            "developers.meta.com",
+            "transparency.meta.com",
+            "accountscenter.meta.com",
+            "meta.ai"
+        ]
+    },
+    {
         "name": "Metacritic",
         "url": "https://metacritichelp.zendesk.com/hc/en-us/requests/new?ticket_form_id=12053246153495",
         "difficulty": "hard",
