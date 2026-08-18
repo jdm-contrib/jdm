@@ -13252,6 +13252,7 @@
         "notes": "Select \"Delete account\" and tap Continue three times, enter your password and press \"Delete account\". Your account will be deleted in 30 days and the deletion process may take up to 90 days.",
         "domains": [
             "meta.com",
+            "auth.meta.com",
             "work.meta.com",
             "ai.meta.com",
             "developers.meta.com",
