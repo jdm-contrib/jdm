@@ -17480,6 +17480,15 @@
         "domains": ["quotev.com"]
     },
     {
+        "name": "Qwen Studio",
+        "url": "https://chat.qwen.ai/settings/account",
+        "difficulty": "easy",
+        "domains": [
+            "qwen.ai",
+            "chat.qwen.ai"
+        ]
+    },
+    {
         "name": "RackNerd",
         "url": "https://my.racknerd.com/submitticket.php",
         "difficulty": "impossible",
