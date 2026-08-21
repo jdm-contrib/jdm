@@ -11888,6 +11888,13 @@
         ]
     },
     {
+        "name": "lib.reviews",
+        "url": "https://lib.reviews/",
+        "difficulty": "impossible",
+        "notes": "There is no button or email to delete your account.",
+        "domains": ["lib.reviews"]
+    },
+    {
         "name": "Liberland",
         "url": "https://liberland.org",
         "difficulty": "impossible",
