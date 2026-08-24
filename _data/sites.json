@@ -7406,6 +7406,7 @@
         "difficulty": "hard",
         "notes": "Request deletion using the e-mail. There will be some back and forth on whether you want just the deletion or right to be forgotten, but it is all completed very quickly",
         "email": "general@en.formula1.com",
+        "email_subject": "Option 1 - Delete F1 Account",
         "domains": ["formula1.com"]
     },
     {
