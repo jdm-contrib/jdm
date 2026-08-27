@@ -3106,6 +3106,13 @@
         ]
     },
     {
+        "name": "Burger King",
+        "url": "https://privacyportal-de.onetrust.com/webform/67b80636-41d6-4b37-aea3-717da0a9526f/fc722fab-237c-42de-9725-b080f5e975e4",
+        "difficulty": "medium",
+        "notes": "The delete account option in the app/website redirects you to this form. Fill in your first name, last name, and email selecting «Delete account», confirm via email, and you'll receive automatic confirmation of deletion within minutes.",
+        "notes_es": "La opción de eliminar cuenta en la app/web te redirige a este formulario. Rellena tu nombre, apellido y email seleccionando «Borrar cuenta», confirma por correo electrónico y recibirás la confirmación automática de eliminación en pocos minutos."
+    },
+    {
         "name": "BurstNET",
         "url": "http://burst.net",
         "difficulty": "impossible",
