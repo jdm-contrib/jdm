@@ -18169,8 +18169,9 @@
     },
     {
         "name": "Roblox",
-        "url": "https://help.roblox.com/hc/articles/203313050",
-        "difficulty": "hard",
+        "url": "https://www.roblox.com/my/account#!/privacy/AccountDataDeactivationAndDeletion",
+        "difficulty": "easy",
+        "notes": "Click \"Delete\", then confirm.",
         "domains": [
             "roblox.com",
             "en.help.roblox.com",
