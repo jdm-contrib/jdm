@@ -12241,6 +12241,18 @@
         "domains": ["lolja.com.br"]
     },
     {
+        "name": "Lolzteam",
+        "url": "https://lolz.team/threads/10037299/",
+        "difficulty": "hard",
+        "notes": "Profile deletion is a paid service, decided by the administration. The price to delete without deleting messages - 10 000 rubles, with all the comments and topics deletion - 20 000 rubles.",
+        "notes_ru": "Удаление профиля — платная услуга, это решение администрации. Стоимость удаления без удаления сообщений - 10 000 рублей, с удалением всех комментариев и тем - 20 000 рублей.",
+        "domains": [
+            "lolz.team",
+            "lzt.market",
+            "lolz.team"
+        ]
+    },
+    {
         "name": "Lookout",
         "url": "https://www.lookout.com/#/settings",
         "difficulty": "easy",
@@ -12268,18 +12280,6 @@
         "url": "https://lowendtalk.com/",
         "difficulty": "impossible",
         "domains": ["lowendtalk.com"]
-    },
-    {
-        "name": "Lolzteam",
-        "url": "https://lolz.team/threads/10037299/",
-        "difficulty": "hard",
-        "notes": "Profile deletion is a paid service, decided by the administration. The price to delete without deleting messages - 10 000 rubles, with all the comments and topics deletion - 20 000 rubles.",
-        "notes_ru": "Удаление профиля — платная услуга, это решение администрации. Стоимость удаления без удаления сообщений - 10 000 рублей, с удалением всех комментариев и тем - 20 000 рублей.",
-        "domains": [
-            "lolz.team",
-            "lzt.market",
-            "lolz.team"
-        ]
     },
     {
         "name": "Lucidchart",
