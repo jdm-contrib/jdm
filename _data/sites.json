@@ -13325,6 +13325,15 @@
         "domains": ["metlife.com.br"]
     },
     {
+        "name": "Metrofun",
+        "url": "https://metrofun.co.il/customer-service",
+        "url_he": "https://metrofun.co.il/he/customer-service",
+        "difficulty": "hard",
+        "notes": "On the website: in the customer service page, scroll past the FAQ, and fill the form titled \"Still need help?\", or contact them via WhatsApp or phone. In the app: open side menu, click on support, and follow the exact steps of the website instructions.",
+        "notes_he": "באתר: בדף שירות הלקוחות, דלגו על השאלות הנפוצות, ומלאו את הטופס בעל הכותרת \"עדיין צריכים עזרה?\", שלחו הודעה דרך וואטסאפ, או חייגו אל מספר הטלפון. ביישומון (אפליקציה): בתפריט הצדדי, לחצו על תמיכה, ועקבו אחר ההוראות לאתר.",
+        "domains": ["metrofun.co.il"]
+    },
+    {
         "name": "Metropolis",
         "url": "https://app.metropolis.io/profile/terms-and-privacy",
         "difficulty": "easy",
