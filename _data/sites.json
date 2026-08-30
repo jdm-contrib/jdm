@@ -12269,6 +12269,13 @@
         "domains": ["loseit.com"]
     },
     {
+        "name": "Lovable",
+        "url": "https://lovable.dev/settings/account",
+        "difficulty": "easy",
+        "notes": "Scroll down and click on the \"Delete Account\" button, decide whether to transfer ownership of your workspaces, then enter your e-mail into the dialog and confirm.",
+        "domains": ["lovable.dev"]
+    },
+    {
         "name": "Love My Credit Union Rewards",
         "url": "https://rewards.lovemycreditunion.org/contact-us/",
         "difficulty": "hard",
