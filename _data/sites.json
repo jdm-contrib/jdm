@@ -10148,6 +10148,14 @@
         "domains": ["imageshack.com"]
     },
     {
+        "name": "Imagga",
+        "url": "https://imagga.com/company#contacts",
+        "difficulty": "hard",
+        "email": "support@imagga.com",
+        "email_body": "Please delete my account, my e-mail is XXXXXX",
+        "domains": ["imagga.com"]
+    },
+    {
         "name": "IMDb",
         "url": "https://www.imdb.com/registration/delete",
         "difficulty": "easy",
