@@ -245,6 +245,20 @@
         "domains": ["abebooks.com"]
     },
     {
+        "name": "Ablefy",
+        "url": "https://support.ablefy.io/payer/s/article/Account-l%C3%B6schen-so-funktioniert-s?language=en_US",
+        "url_de": "https://support.ablefy.io/payer/s/article/Account-l%C3%B6schen-so-funktioniert-s?language=de",
+        "difficulty": "hard",
+        "email": "delete@ablefy.io",
+        "email_body": "Please delete my account and data registered with this email address.",
+        "domains": [
+            "myablefy.com",
+            "support.ablefy.io",
+            "ablefy.io",
+            "elopage.com"
+        ]
+    },
+    {
         "name": "Ableton",
         "url": "https://www.ableton.com/en/contact-us/",
         "difficulty": "hard",
