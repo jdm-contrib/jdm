@@ -20051,7 +20051,7 @@
         "name": "Sticker Maker",
         "url": "https://getstickerpack.com/dashboard/settings",
         "difficulty": "easy",
-        "notes": "1. Go to your Sticker Maker Account’s setting page (https://getstickerpack.com/dashboard/settings)\n\n2. Scroll to the bottom and tap on “Delete account and related data”\n\n3. Confirm deletion.",
+        "notes": "Go to your Sticker Maker Account’s settings page, scroll to the bottom and tap on “Delete account and related data” then confirm deletion.",
         "domains": ["getstickerpack.com"]
     },
     {
