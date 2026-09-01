@@ -17813,7 +17813,7 @@
         "meta": "popular",
         "url": "https://www.reddit.com/prefs/delete/",
         "difficulty": "easy",
-        "notes": "If you are opted in to the redesign, scroll to the bottom and click on the Delete Account button. Your content will not be deleted (only disassociated).",
+        "notes": "If you are opted in to the redesign, scroll to the bottom and click on the Delete Account button. Your content will not be deleted (only disassociated). Content deletion can be automated using several third party tools, such as [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) and [Ereddicator](https://github.com/Jelly-Pudding/ereddicator).",
         "domains": [
             "reddit.com",
             "accounts.reddit.com",
