@@ -1725,7 +1725,10 @@
         "url": "https://vault.authier.pm/settings/account",
         "difficulty": "easy",
         "notes": "In the Danger zone, click \"Delete your account\" and confirm.",
-        "domains": ["authier.pm", "vault.authier.pm"]
+        "domains": [
+            "authier.pm",
+            "vault.authier.pm"
+        ]
     },
     {
         "name": "Author.today",
