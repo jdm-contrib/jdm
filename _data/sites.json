@@ -12050,6 +12050,13 @@
         "domains": ["lingvist.com"]
     },
     {
+        "name": "Link by Stripe",
+        "url": "https://app.link.com/settings",
+        "difficulty": "medium",
+        "notes": "Click 'Delete Account' > 'Send request', then open the confirmation link sent to your email.",
+        "domains": ["link.com"]
+    },
+    {
         "name": "LinkedIn",
         "meta": "popular",
         "url": "https://www.linkedin.com/help/linkedin/answer/63",
