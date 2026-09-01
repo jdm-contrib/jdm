@@ -1721,6 +1721,13 @@
         "domains": ["auth0.com"]
     },
     {
+        "name": "Authier",
+        "url": "https://vault.authier.pm/settings/account",
+        "difficulty": "easy",
+        "notes": "In the Danger zone, click \"Delete your account\" and confirm.",
+        "domains": ["authier.pm", "vault.authier.pm"]
+    },
+    {
         "name": "Author.today",
         "url": "https://help.author.today/knowledge_base/item/268554?sid=58980",
         "difficulty": "impossible",
