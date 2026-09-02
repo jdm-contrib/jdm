@@ -14885,6 +14885,14 @@
         "domains": ["nitrous-networks.com"]
     },
     {
+        "name": "nixware",
+        "url": "https://nixware.cc/",
+        "difficulty": "impossible",
+        "notes": "There’s no such option, at least not at the moment. (answer from moderator)",
+        "notes_ru": "Такой возможности нет, по крайней мере пока. (ответ модератора)",
+        "domains": ["nixware.cc"]
+    },
+    {
         "name": "Njalla",
         "url": "https://njal.la/settings/delete",
         "difficulty": "easy",
