@@ -14889,7 +14889,8 @@
         "url": "https://nixware.cc/",
         "difficulty": "impossible",
         "notes": "There’s no such option, at least not at the moment. (answer from moderator)",
-        "notes_ru": "Такой возможности нет, по крайней мере пока. (ответ модератора)"
+        "notes_ru": "Такой возможности нет, по крайней мере пока. (ответ модератора)",
+        "domains": ["https://nixware.cc/"]
     },
     {
         "name": "Njalla",
