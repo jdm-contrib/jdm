@@ -1415,7 +1415,22 @@
         "url": "https://resources.arc.net/hc/en-us/articles/22351623346327-Delete-My-Arc-Account",
         "difficulty": "easy",
         "notes": "Open the first tab of the settings inside the app, click the \"...\" button next to your email address, select \"Delete Account...\", then confirm deletion.",
-        "domains": ["arc.net"]
+        "domains": [
+            "arc.net",
+            "resources.arc.net",
+            "start.arc.net"
+        ]
+    },
+    {
+        "name": "Arc (no browser)",
+        "url": "https://resources.arc.net/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Without installing the browser create a ticket with customer support. You'll talk to AI so just say 'Delete My Account'. Then you'll have to reply on email with same message 'Delete My Account' to confirm you own the account.",
+        "domains": [
+            "arc.net",
+            "resources.arc.net",
+            "start.arc.net"
+        ]
     },
     {
         "name": "Arc Games",
