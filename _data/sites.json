@@ -3192,7 +3192,7 @@
         "name": "BuzzFeed",
         "url": "https://www.buzzfeed.com/settings",
         "difficulty": "easy",
-        "notes": "Scroll down and click on 'Delete My Account', then in the received e-mail click on 'Delete My Account Forever'.\n\nYour posts and comments will only be dissociated from your username and not deleted; editing them should be done before deleting your account.\n\nYou will not be unsubscribed from BuzzFeed-managed newsletters.\n\nDeleting your account only deletes your account on BuzzFeed.com; accounts on other BuzzFeed-managed platforms will have to be separately deleted.",
+        "notes": "Scroll down and click on 'Delete My Account', then in the received e-mail click on 'Delete My Account Forever' within 24 hours.\n\nYour posts and comments will only be dissociated from your username and not deleted; editing them should be done before deleting your account.\n\nYou will not be unsubscribed from BuzzFeed-managed newsletters.\n\nDeleting your account only deletes your account on BuzzFeed.com; accounts on other BuzzFeed-managed platforms will have to be separately deleted.",
         "domains": [
             "buzzfeed.com",
             "community.buzzfeed.com",
