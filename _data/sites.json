@@ -6089,6 +6089,12 @@
         "domains": ["ebonus.gg"]
     },
     {
+        "name": "eco99music",
+        "url": "https://eco99fm.maariv.co.il/settings",
+        "difficulty": "easy",
+        "domains": ["eco99fm.maariv.co.il"]
+    },
+    {
         "name": "Economist",
         "url": "https://myaccount.economist.com/s/contact-us",
         "difficulty": "hard",
