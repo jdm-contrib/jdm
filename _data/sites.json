@@ -1413,12 +1413,22 @@
     {
         "name": "Arc",
         "url": "https://resources.arc.net/hc/en-us/articles/22351623346327-Delete-My-Arc-Account",
-        "difficulty": "easy",
-        "notes": "Open the first tab of the settings inside the app, click the \"...\" button next to your email address, select \"Delete Account...\", then confirm deletion. \nWithout installing the browser create a ticket with customer support. You'll talk to AI so just say 'Delete My Account'.",
+        "difficulty": "medium",
+        "notes": "Open the first tab of the settings inside the app, click the \"...\" button next to your email address, select \"Delete Account...\", then confirm deletion. Alternatively, without installing the browser create a ticket with customer support. You'll talk to an AI so just say 'Delete My Account' and answer of few questions.",
         "domains": [
             "arc.net",
             "resources.arc.net",
             "start.arc.net"
+        ]
+    },
+    {
+        "name": "Arc Games",
+        "url": "https://support.arcgames.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "email": "privacy@gearboxsf.com",
+        "domains": [
+            "arcgames.com",
+            "support.arcgames.com"
         ]
     },
     {
