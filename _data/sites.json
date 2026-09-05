@@ -2913,7 +2913,6 @@
         "url": "https://www.boulanger.com/evenement/infos-legales#ong-private",
         "difficulty": "hard",
         "email": "cil@boulanger.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
         "domains": ["boulanger.com"]
     },
@@ -4245,7 +4244,6 @@
         "url": "https://public.codesrousseau.fr/notre-politique-de-confidentialite/",
         "difficulty": "hard",
         "email": "contact@codes-rousseau.fr",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "domains": [
             "public.codesrousseau.fr",
@@ -5224,7 +5222,6 @@
         "url": "https://www.dfcg.fr/politique-de-confidentialite/",
         "difficulty": "hard",
         "email": "siege@dfcg.asso.fr",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
         "notes": "Contact support via email to request your account to be deleted.",
         "notes_fr": "Contactez le support par par mail pour faire supprimer votre compte",
@@ -15181,7 +15178,6 @@
         "url_pt-PT": "https://www.numworks.com/pt/legal/politica-privacidade/",
         "difficulty": "hard",
         "email": "contact@numworks.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "notes": "Account deletion requires contacting Customer Support. They may ask you your ID card but you can decline quoting [article 5 c from GDPR](https://gdpr-info.eu/art-5-gdpr/)(data minimisation)",
         "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
@@ -15650,7 +15646,6 @@
         "name": "OpenPhone",
         "url": "https://support.openphone.com/hc/en-us/requests/new",
         "email": "help@openphone.co",
-        "email_subject": "Account deletion request",
         "email_body": "I request a deletion of my OpenPhone account associated with this email address.",
         "difficulty": "hard",
         "notes": "You need to contact OpenPhone support.",
@@ -15795,7 +15790,6 @@
         "url_fr": "https://www.ouiheberg.com/fr/politique",
         "difficulty": "hard",
         "email": "contact@ouiheberg.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "domains": ["ouiheberg.com"]
     },
@@ -17139,7 +17133,6 @@
         "url_es": "https://www.prepmyfuture.com/es/policies/privacy-policy",
         "difficulty": "hard",
         "email": "tools@prepmyfuture.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "domains": ["prepmyfuture.com"]
     },
@@ -17721,7 +17714,6 @@
         "difficulty": "hard",
         "notes": "Send an email to support@razeware.com with your account username and email address. Within a few business days, you should receive confirmation that your account was deleted.",
         "email": "support@razeware.com",
-        "email_subject": "Account deletion request",
         "domains": [
             "raywenderlich.com",
             "accounts.raywenderlich.com"
@@ -21035,7 +21027,6 @@
         "url": "https://help.ted.com/hc/en-us/articles/360005310614-How-do-I-create-TED-Ed-Accounts#:~:text=How%20can%20I%20delete%20my%20TED%2DEd%20account",
         "difficulty": "hard",
         "email": "contact@ted.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
         "domains": [
             "ted.com",
@@ -24130,7 +24121,6 @@
         "url_pl": "https://www.wkv.com/?action=faq&lang=pl",
         "difficulty": "hard",
         "email": "support@wkv.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "domains": ["wkv.com"]
     },
