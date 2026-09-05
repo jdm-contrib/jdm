@@ -12196,6 +12196,15 @@
         "domains": ["livelo.com.br"]
     },
     {
+        "name": "Living Crafts",
+        "url": "https://www.livingcrafts.de/en/index.php?URL=account-close",
+        "url_de": "https://www.livingcrafts.de/index.php?URL=account-close",
+        "url_fr": "https://www.livingcrafts.de/fr/index.php?URL=account-close",
+        "difficulty": "easy",
+        "notes": "'My Account' ⮕ 'Terminate account'",
+        "domains": ["livingcrafts.de"]
+    },
+    {
         "name": "Lnk.Bio",
         "url": "https://help.lnk.bio/en/articles/4300436-how-do-i-delete-my-account",
         "difficulty": "hard",
