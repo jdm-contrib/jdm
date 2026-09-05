@@ -2042,6 +2042,15 @@
         "domains": ["bandcamp.com"]
     },
     {
+        "name": "Bang & Olufsen",
+        "url": "https://www.bang-olufsen.com/en/us/my-account/my-profile",
+        "url_es": "https://www.bang-olufsen.com/es/es/my-account/my-profile",
+        "url_de": "https://www.bang-olufsen.com/de/de/my-account/my-profile",
+        "difficulty": "medium",
+        "notes": "Go to the linked page, tick the checkbox and click the account deletion button. On the received e-mail, click the link, and in the opened page click the button to confirm the deletion of your account.",
+        "domains": ["bang-olufsen.com"]
+    },
+    {
         "name": "Bangumi",
         "url": "https://bgm.tv/group/forum",
         "difficulty": "hard",
