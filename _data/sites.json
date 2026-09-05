@@ -14802,6 +14802,16 @@
         ]
     },
     {
+        "name": "Nextbike Germany",
+        "url": "https://www.nextbike.de/en/faq",
+        "url_de": "https://www.nextbike.de/de/faq",
+        "difficulty": "hard",
+        "notes": "Send an e-mail via the link below. After sending your account deletion request, you might never receive an answer, just check back a few days later if you still have access to the account.",
+        "email": "kundenservice@nextbike.de",
+        "email_body": "Please delete my account and all related personal data, my phone number is XXXXXX",
+        "domains": ["nextbike.de"]
+    },
+    {
         "name": "NextDNS",
         "url": "https://my.nextdns.io/account",
         "difficulty": "easy",
