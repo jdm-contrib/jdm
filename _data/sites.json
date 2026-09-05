@@ -263,7 +263,6 @@
         "url": "https://www.ableton.com/en/contact-us/",
         "difficulty": "hard",
         "email": "contact@support.ableton.com",
-        "email_body": "Please delete my account, my username is XXXXXX",
         "domains": ["ableton.com"]
     },
     {
