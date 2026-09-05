@@ -15952,6 +15952,15 @@
         "domains": ["pagbet.com"]
     },
     {
+        "name": "Palais des Thés",
+        "url": "https://www.palaisdesthes.co.il/pages/%D7%A2%D7%96%D7%A8%D7%94-%D7%A9%D7%90%D7%9C%D7%95%D7%AA-%D7%A0%D7%95%D7%A1%D7%A4%D7%95%D7%AA",
+        "difficulty": "hard",
+        "email": "info@palaisdesthes.co.il",
+        "email_subject": "בקשה להסרת חשבון",
+        "email_body": "שלום,\n\nאנא מחקו את החשבון שלי, כתובת הדוא״ל שלי היא XXXXXX",
+        "domains": ["palaisdesthes.co.il"]
+    },
+    {
         "name": "Palia",
         "url": "https://support.palia.com/hc/en-us/articles/37965096889620--Understanding-the-Difference-Between-Account-Deletion-Character-Deletion-and-Device-Unlinking#h_01JWF9WW8ZB24FJS5PZFZ9KS9R",
         "difficulty": "hard",
