@@ -1422,16 +1422,6 @@
         ]
     },
     {
-        "name": "Arc Games",
-        "url": "https://support.arcgames.com/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "email": "privacy@gearboxsf.com",
-        "domains": [
-            "arcgames.com",
-            "support.arcgames.com"
-        ]
-    },
-    {
         "name": "Arch Linux AUR",
         "url": "https://aur.archlinux.org/",
         "difficulty": "easy",
