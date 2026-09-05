@@ -15129,6 +15129,15 @@
         "domains": ["nube.com.br"]
     },
     {
+        "name": "Nudie Jeans",
+        "url": "https://www.nudiejeans.com/co",
+        "difficulty": "hard",
+        "email": "shop@nudiejeans.com",
+        "email_subject": "Terminate my membership",
+        "email_body": "",
+        "domains": ["nudiejeans.com"]
+    },
+    {
         "name": "Nulled",
         "url": "https://www.nulled.to/topic/1418075-delete-account/",
         "difficulty": "impossible",
