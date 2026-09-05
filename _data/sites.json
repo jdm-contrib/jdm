@@ -21679,6 +21679,17 @@
         "domains": ["thetracktor.com"]
     },
     {
+        "name": "TradeINN",
+        "url": "https://www.tradeinn.com/bikeinn/en/myaccount/data",
+        "url_fr": "https://www.tradeinn.com/bikeinn/fr/myaccount/data",
+        "url_it": "https://www.tradeinn.com/bikeinn/fr/myaccount/data",
+        "url_es": "https://www.tradeinn.com/bikeinn/es/myaccount/data",
+        "url_nl": "https://www.tradeinn.com/bikeinn/nl/myaccount/data",
+        "difficulty": "easy",
+        "notes": "The deletion can be done via a button in the account preferences, which opens a popup with another button to confirm the deletion",
+        "domains": ["tradeinn.com"]
+    },
+    {
         "name": "TradeMe",
         "url": "https://help.trademe.co.nz/hc/en-us/articles/360007000092#h_01GBNRBS8NG0QNNRWXCV7RVWDS",
         "difficulty": "hard",
