@@ -4668,6 +4668,12 @@
         "domains": ["crevado.com"]
     },
     {
+        "name": "Croma",
+        "url": "https://www.croma.com/helpAndSupport",
+        "difficulty": "hard",
+        "domains": ["croma.com"]
+    },
+    {
         "name": "Cronometer",
         "url": "https://support.cronometer.com/hc/en-us/articles/360018760151-Account-Settings#h_440005960211545174984655",
         "difficulty": "easy",
