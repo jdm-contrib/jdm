@@ -263,7 +263,6 @@
         "url": "https://www.ableton.com/en/contact-us/",
         "difficulty": "hard",
         "email": "contact@support.ableton.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account, my username is XXXXXX",
         "domains": ["ableton.com"]
     },
@@ -486,7 +485,6 @@
         "difficulty": "hard",
         "email": "support@adfoc.us",
         "email_body": "Please delete my AdFoc.us account registered under this email address.",
-        "email_subject": "Account Deletion Request",
         "domains": ["adfoc.us"]
     },
     {
@@ -980,7 +978,6 @@
         "difficulty": "hard",
         "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
         "email": "balt1794@gmail.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Account Deletion Request",
         "domains": ["alttextgeneratorai.com"]
     },
@@ -1178,7 +1175,6 @@
         "difficulty": "medium",
         "notes": "If you can delete the account through the app, follow the process provided in the link. If you are using the web client you'll have to contact support@anghami.com. Your account will be deactivated within 24 hours and deleted after 30 days.",
         "email": "support@anghami.com",
-        "email_subject": "Account Deletion Request",
         "domains": [
             "anghami.com",
             "support.anghami.com"
@@ -1524,7 +1520,6 @@
         "difficulty": "hard",
         "notes": "You have to contact the support team by email.",
         "email": "help@art-list.io",
-        "email_subject": "Account Deletion Request",
         "email_body": "Hi, I request to permanently remove all of my data from your platform. Please provide an update on the process via this email.",
         "domains": ["artlist.io"]
     },
@@ -1938,7 +1933,6 @@
         "difficulty": "hard",
         "notes": "Must send an email or call 800-947-9915.",
         "email": "privacy@bhphoto.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Please delete my B&H account.",
         "domains": ["bhphotovideo.com"]
     },
@@ -2919,7 +2913,6 @@
         "url": "https://www.boulanger.com/evenement/infos-legales#ong-private",
         "difficulty": "hard",
         "email": "cil@boulanger.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
         "domains": ["boulanger.com"]
     },
@@ -2962,7 +2955,6 @@
         "difficulty": "hard",
         "notes": "Send an email to their Privacy support address to request account deletion. After a brief exchange with a support representative to confirm your intention, there will be a several-day delay while they process your request, after which your login credentials will stop working. Alternatively, if you have downloaded the app, you can go to your profile, tap on account information, edit profile and select \"Delete Account\".",
         "email": "support@brain.fm",
-        "email_subject": "Account Deletion Request",
         "domains": ["brain.fm"]
     },
     {
@@ -4252,7 +4244,6 @@
         "url": "https://public.codesrousseau.fr/notre-politique-de-confidentialite/",
         "difficulty": "hard",
         "email": "contact@codes-rousseau.fr",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "domains": [
             "public.codesrousseau.fr",
@@ -5231,7 +5222,6 @@
         "url": "https://www.dfcg.fr/politique-de-confidentialite/",
         "difficulty": "hard",
         "email": "siege@dfcg.asso.fr",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
         "notes": "Contact support via email to request your account to be deleted.",
         "notes_fr": "Contactez le support par par mail pour faire supprimer votre compte",
@@ -7887,7 +7877,6 @@
         "notes": "Account deletion requires contacting the developer. The privacy policy references a non-existent deletion link.",
         "email": "developer@gamefroot.com",
         "email_body": "Please delete my GameFroot account registered under this email address, and opt me out from receiving any marketing communications.",
-        "email_subject": "Account Deletion Request",
         "domains": ["make.gamefroot.com"]
     },
     {
@@ -9285,7 +9274,6 @@
         "url": "https://harkaudio.com/support",
         "difficulty": "hard",
         "email": "hello@harkaudio.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Please delete my Hark Audio account which is registered under this email address.",
         "notes": "Email hello@harkaudio.com and ask to have your account deleted",
         "domains": ["harkaudio.com"]
@@ -9334,7 +9322,6 @@
         "difficulty": "hard",
         "notes": "You must send an email to delete your account.",
         "email": "support@hcaptcha.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Please delete my hCaptcha account which is registered under this email address.",
         "domains": ["hcaptcha.com"]
     },
@@ -10279,7 +10266,6 @@
         "difficulty": "hard",
         "notes": "You can contact them via email to request account deletion. The email address can be found in the sidebar.",
         "email": "support@imockup.app",
-        "email_subject": "Account Deletion Request",
         "domains": ["imockup.app"]
     },
     {
@@ -10295,7 +10281,6 @@
         "url": "https://incogni.com/",
         "difficulty": "hard",
         "email": "support@incogni.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Hello,\n\nI am requesting the deletion of my Incogni account and information associated with this email. I would also like to withdraw the consent given in the Authorization Form.\n\nI understand that by terminating my account I will lose any remaining time on my current subscription and I wish to proceed anyway.\n\nThanks.",
         "domains": ["incogni.com"]
     },
@@ -10654,7 +10639,6 @@
         "difficulty": "hard",
         "notes": "Send an email to their support address to request account deletion. it might take a few days.",
         "email": "info@irantalent.com",
-        "email_subject": "Account Deletion Request",
         "domains": ["irantalent.com"]
     },
     {
@@ -13565,7 +13549,6 @@
         "url": "https://minecraftrating.ru/contacts.html",
         "difficulty": "hard",
         "email": "admin@minecraftrating.ru",
-        "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account, my username is XXXXXX, reason: XXXXX",
         "domains": ["minecraftrating.ru"]
     },
@@ -15195,7 +15178,6 @@
         "url_pt-PT": "https://www.numworks.com/pt/legal/politica-privacidade/",
         "difficulty": "hard",
         "email": "contact@numworks.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "notes": "Account deletion requires contacting Customer Support. They may ask you your ID card but you can decline quoting [article 5 c from GDPR](https://gdpr-info.eu/art-5-gdpr/)(data minimisation)",
         "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
@@ -15619,7 +15601,6 @@
         "url": "https://www.opendesktop.org",
         "difficulty": "hard",
         "email": "contact@opendesktop.org",
-        "email_subject": "Account Deletion Request",
         "notes": "E-mail their support to get the account deleted.",
         "notes_tr": "Hesabınızın silinmesini talep etmek için destek ekibine e-posta gönderin.",
         "domains": ["opendesktop.org"]
@@ -15665,7 +15646,6 @@
         "name": "OpenPhone",
         "url": "https://support.openphone.com/hc/en-us/requests/new",
         "email": "help@openphone.co",
-        "email_subject": "Account deletion request",
         "email_body": "I request a deletion of my OpenPhone account associated with this email address.",
         "difficulty": "hard",
         "notes": "You need to contact OpenPhone support.",
@@ -15810,7 +15790,6 @@
         "url_fr": "https://www.ouiheberg.com/fr/politique",
         "difficulty": "hard",
         "email": "contact@ouiheberg.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "domains": ["ouiheberg.com"]
     },
@@ -15880,7 +15859,6 @@
         "difficulty": "hard",
         "notes": "You can mail them so that they can send you a form and upon filling and submitting it, you will be able to cancel the subscription using the link they send you for your account.",
         "email": "legal@overtake.gg",
-        "email_subject": "Account Deletion Request",
         "domains": ["overtake.gg"]
     },
     {
@@ -17155,7 +17133,6 @@
         "url_es": "https://www.prepmyfuture.com/es/policies/privacy-policy",
         "difficulty": "hard",
         "email": "tools@prepmyfuture.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "domains": ["prepmyfuture.com"]
     },
@@ -17301,7 +17278,6 @@
         "difficulty": "hard",
         "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
         "email": "balt1794@gmail.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Account Deletion Request",
         "domains": ["propertylistingsai.com"]
     },
@@ -17451,7 +17427,6 @@
         "notes": "You must email support to delete your account.",
         "email": "pxhere.com@gmail.com",
         "email_body": "Please delete my PxHere account registered under this email address.",
-        "email_subject": "Account Deletion Request",
         "domains": ["pxhere.com"]
     },
     {
@@ -17739,7 +17714,6 @@
         "difficulty": "hard",
         "notes": "Send an email to support@razeware.com with your account username and email address. Within a few business days, you should receive confirmation that your account was deleted.",
         "email": "support@razeware.com",
-        "email_subject": "Account deletion request",
         "domains": [
             "raywenderlich.com",
             "accounts.raywenderlich.com"
@@ -18087,7 +18061,6 @@
         "difficulty": "hard",
         "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
         "email": "balt1794@gmail.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Account Deletion Request",
         "domains": ["resumeboostai.com"]
     },
@@ -19824,7 +19797,6 @@
         "url": "https://splitkb.com",
         "difficulty": "hard",
         "email": "thomas@splitkb.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account, my email is XXXXXX",
         "domains": ["splitkb.com"]
     },
@@ -20038,7 +20010,6 @@
         "notes": "US and Canadian users: Select the correct privacy form to submit your request. All others must send an email.",
         "email": "privacy@starbucks.com",
         "email_body": "I request deletion of my Starbucks account.",
-        "email_subject": "Account Deletion Request",
         "domains": ["starbucks.com"]
     },
     {
@@ -20879,7 +20850,6 @@
         "difficulty": "hard",
         "notes": "You have to contact the support team by mail.",
         "email": "help@tankionline.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Hi there, I request to remove all of my personal data associated with my account.",
         "domains": ["tankionline.com"]
     },
@@ -21057,7 +21027,6 @@
         "url": "https://help.ted.com/hc/en-us/articles/360005310614-How-do-I-create-TED-Ed-Accounts#:~:text=How%20can%20I%20delete%20my%20TED%2DEd%20account",
         "difficulty": "hard",
         "email": "contact@ted.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, YOUR_EMAIL, and all its associated data.",
         "domains": [
             "ted.com",
@@ -21133,7 +21102,6 @@
         "difficulty": "hard",
         "notes": "Cancel any subscriptions associated with your account. Then you must send an email to Ten Percent support to have them delete your account. They will delete the account associated with the email address from which you send the request. Once their confirmation email arrives, your credentials will no longer work.",
         "email": "support@tenpercent.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "I would like to delete my account.",
         "domains": [
             "tenpercent.com",
@@ -21644,7 +21612,6 @@
         "url": "https://www.toptal.com/privacy",
         "difficulty": "hard",
         "email": "privacy@toptal.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Please delete my account. My registered email address is: XXXXXX",
         "notes": "Send your deletion request from the email address tied to your account to them.",
         "domains": ["toptal.com"]
@@ -22053,7 +22020,6 @@
         "notes": "Email accountclosure@turo.com and request that they delete your personal information.",
         "notes_tr": "Kendilerine e-posta gönderin ve kişisel bilgilerinizi silmelerini isteyin.",
         "email": "accountclosure@turo.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Please delete the data associated with my account.",
         "domains": [
             "turo.com",
@@ -22717,7 +22683,6 @@
         "difficulty": "hard",
         "notes": "Send an email. After receiving the email, your account will be deleted in the next 24 hours.",
         "email": "balt1794@gmail.com",
-        "email_subject": "Account Deletion Request",
         "email_body": "Account Deletion Request",
         "domains": ["videosgeneratorai.com"]
     },
@@ -22831,7 +22796,6 @@
         "difficulty": "hard",
         "notes": "To delete your account, please send an email to them. Once verified, your account and all associated data will be deleted within 48 hours.",
         "email": "info@virtcloud.net",
-        "email_subject": "Account Deletion Request",
         "email_body": "Hi, please delete the account associated with my FULL_NAME and EMAIL_ADDRESS. Thanks.",
         "domains": [
             "virtcloud.net",
@@ -24157,7 +24121,6 @@
         "url_pl": "https://www.wkv.com/?action=faq&lang=pl",
         "difficulty": "hard",
         "email": "support@wkv.com",
-        "email_subject": "Account deletion request",
         "email_body": "Please delete the account associated with my e-mail, <YOUR_EMAIL>, and all its associated data.",
         "domains": ["wkv.com"]
     },
