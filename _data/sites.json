@@ -21670,6 +21670,13 @@
         "domains": ["thetracktor.com"]
     },
     {
+        "name": "TradeINN",
+        "url": "https://www.tradeinn.com",
+        "difficulty": "easy",
+        "notes": "The deletion can be done via a button in the account preferences",
+        "domains": ["tradeinn.com"]
+    },
+    {
         "name": "TradeMe",
         "url": "https://help.trademe.co.nz/hc/en-us/articles/360007000092#h_01GBNRBS8NG0QNNRWXCV7RVWDS",
         "difficulty": "hard",
