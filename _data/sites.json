@@ -23108,17 +23108,10 @@
     },
     {
         "name": "Walmart",
-        "url": "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=access",
-        "difficulty": "hard",
-        "notes": "They only accept requests from California, which is validated only by the actual selection on the form.",
-        "domains": ["walmart.com"]
-    },
-    {
-        "name": "Walmart Canada",
-        "url": "https://www.walmart.ca/en/account/delete-account",
+        "url": "https://www.walmart.com/account/delete-account",
         "difficulty": "easy",
-        "notes": "Follow the link or scroll to the bottom of the website and click \"Delete my account.\" You will be prompted to log in and confirm the deletion.",
-        "domains": ["walmart.ca"]
+        "notes": "Click \"Delete Account\" while signed in and it will instantly delete your account.",
+        "domains": ["walmart.com"]
     },
     {
         "name": "WaniKani",
