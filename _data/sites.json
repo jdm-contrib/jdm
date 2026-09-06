@@ -14924,6 +14924,14 @@
         ]
     },
     {
+        "name": "Nitro Type",
+        "url": "https://www.nitrotype.com/support",
+        "difficulty": "hard",
+        "email": "support@nitrotype.com",
+        "email_body": "Please delete my account, my username is XXXXXX and my e-mail is XXXXXX",
+        "domains": ["nitrotype.com"]
+    },
+    {
         "name": "Nitrous Networks",
         "url": "https://nitrous-networks.com/support/article/44/how-to-cancel-your-server",
         "difficulty": "hard",
