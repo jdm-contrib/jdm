@@ -10094,6 +10094,18 @@
         "domains": ["ifttt.com"]
     },
     {
+        "name": "IGN",
+        "url": "https://dsar.ign.com/",
+        "difficulty": "hard",
+        "notes": "Choose 'Delete My Information'. 'By submitting this request, you will no longer receive emails from our site, and you will no longer have a registered user account.'",
+        "domains": [
+            "ign.com",
+            "corp.ign.com",
+            "ignboards.com",
+            "dsar.ign.com"
+            ]
+    },
+    {
         "name": "IGDB",
         "url": "https://www.igdb.com",
         "difficulty": "easy",
