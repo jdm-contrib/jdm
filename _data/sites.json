@@ -13810,6 +13810,14 @@
         "domains": ["reseau-stas.fr"]
     },
     {
+        "name": "Mon Petit Prono (MPP)",
+        "url": "https://mpp.football/settings",
+        "difficulty": "easy",
+        "notes": "On your profile settings, scroll down and click on \"Delete my account\", then confirm by clicking on \"Delete my account\".",
+        "notes_fr": "Dans les réglages, descendez tout en bas et cliquez sur \"Supprimer mon compte\", puis confirmez en cliquant sur \"Supprimer mon compte\".",
+        "domains": ["mpp.football"]
+    },
+    {
         "name": "Monarch Money",
         "url": "https://help.monarchmoney.com/hc/en-us/articles/4412388754708-Delete-a-Monarch-Account",
         "difficulty": "easy",
