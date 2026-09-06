@@ -10101,6 +10101,18 @@
         "domains": ["igdb.com"]
     },
     {
+        "name": "IGN",
+        "url": "https://dsar.ign.com/",
+        "difficulty": "hard",
+        "notes": "Choose 'Delete My Information' option. After you receive the confirmation email, click 'Confirm Email' to delete your account.",
+        "domains": [
+            "ign.com",
+            "corp.ign.com",
+            "ignboards.com",
+            "dsar.ign.com"
+        ]
+    },
+    {
         "name": "iGraal",
         "url": "https://fr.igraal.com/?showSupportChat",
         "difficulty": "medium",
