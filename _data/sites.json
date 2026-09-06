@@ -21197,7 +21197,7 @@
         "name": "TETR.IO",
         "url": "https://tetr.io",
         "difficulty": "medium",
-        "notes": "From the home page, go to Config ⮕ Account ⮕ Scroll to bottom ⮕ Delete my Account ⮕ Confirm the next **two** dialogs, type your username in the third and your password in the fourth to receive a confirmation e-mail. Open the link in the e-mail message. In the newly opened tab, confirm the next three dialogs, and wait 10 seconds. Note: accounts without a registered e-mail address cannot be deleted.",
+        "notes": "From the home page, go to Config ⮕ Account ⮕ Scroll to bottom ⮕ Delete my Account ⮕ Confirm the next **two** dialogs, type your username in the third and your password in the fourth to receive a confirmation e-mail. Open the link in the e-mail message. In the newly opened tab, confirm the next **three** dialogs, and wait 10 seconds. Note: accounts without a registered e-mail address cannot be deleted.",
         "domains": [
             "tetr.io",
             "ch.tetr.io",
