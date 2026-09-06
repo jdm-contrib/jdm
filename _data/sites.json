@@ -10104,13 +10104,13 @@
         "name": "IGN",
         "url": "https://dsar.ign.com/",
         "difficulty": "hard",
-        "notes": "Choose 'Delete My Information'. 'By submitting this request, you will no longer receive emails from our site, and you will no longer have a registered user account.'",
+        "notes": "Choose 'Delete My Information' option. After you receive the confirmation email, click 'Confirm Email' to delete your account.",
         "domains": [
             "ign.com",
             "corp.ign.com",
             "ignboards.com",
             "dsar.ign.com"
-            ]
+        ]
     },
     {
         "name": "iGraal",
