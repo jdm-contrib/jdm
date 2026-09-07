@@ -16145,6 +16145,15 @@
         ]
     },
     {
+        "name": "Particify",
+        "url": "https://ars.particify.de/account/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "particify.de",
+            "ars.particify.de"
+        ]
+    },
+    {
         "name": "pass Culture",
         "url": "https://passculture.app/profil/suppression",
         "difficulty": "easy",
