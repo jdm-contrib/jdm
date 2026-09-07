@@ -21513,6 +21513,14 @@
         ]
     },
     {
+        "name": "tl / Transports Lausanne",
+        "url": "https://www.t-l.ch/demande-de-suppression-de-compte-tl-mon_espace/",
+        "difficulty": "hard",
+        "notes": "You need to send a request on a dedicated form to delete your account.",
+        "notes_fr": "Vous devez envoyer une requète sur un formulaire dédié pour supprimer votre compte.",
+        "domains": ["t-l.ch"]
+    },
+    {
         "name": "TLauncher",
         "url": "https://tlauncher.org/en/how-remove-tl-account.html",
         "difficulty": "easy",
