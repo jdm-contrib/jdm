@@ -3167,6 +3167,13 @@
         "domains": ["busuu.com"]
     },
     {
+        "name": "ButtonDown",
+        "url": "https://buttondown.com/settings/danger-zone/delete-account",
+        "difficulty": "easy",
+        "notes": "Type in the three random words and click on 'Delete Account'.",
+        "domains": ["buttondown.com"]
+    },
+    {
         "name": "Buy Me a Coffee",
         "url": "https://www.buymeacoffee.com/terms",
         "difficulty": "hard",
