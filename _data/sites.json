@@ -3168,9 +3168,9 @@
     },
     {
         "name": "ButtonDown",
-        "url": "https://buttondown.com/settings/danger-zone",
+        "url": "https://buttondown.com/settings/danger-zone/delete-account",
         "difficulty": "easy",
-        "notes": "Click on 'Delete Account', then repeat the requested random words and confirm deletion.",
+        "notes": "Type in the three random words and click on 'Delete Account'.",
         "domains": ["buttondown.com"]
     },
     {
