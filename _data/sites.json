@@ -8990,6 +8990,13 @@
         ]
     },
     {
+        "name": "Gronda",
+        "url": "https://gronda.com/settings",
+        "difficulty": "easy",
+        "notes": "Log in, go to the URL, scroll down to 'Delete Account', click on 'Delete', and in the popup click on 'Delete'.",
+        "domains": ["gronda.com"]
+    },
+    {
         "name": "GroupMe",
         "url": "https://app.groupme.com/profile",
         "difficulty": "easy",
