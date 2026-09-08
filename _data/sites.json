@@ -14479,6 +14479,16 @@
         "domains": ["nanowrimo.org"]
     },
     {
+        "name": "Napkin.ai",
+        "url": "https://app.napkin.ai",
+        "difficulty": "medium",
+        "notes": "Click on your account in the top right, then 'Account settings', then 'Profile', then 'Delete account' and confirm the dialog to send a confirmation e-mail. In the e-mail, open the link and confirm the dialog.",
+        "domains": [
+            "app.napkin.ai",
+            "napkin.ai"
+        ]
+    },
+    {
         "name": "Napster",
         "url": "https://help.napster.com/hc/en-us/articles/218661367",
         "difficulty": "medium",
