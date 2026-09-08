@@ -19090,6 +19090,13 @@
         "domains": ["shorte.st"]
     },
     {
+        "name": "ShortsMonkey",
+        "url": "https://www.shortsmonkey.com/en/privacy",
+        "difficulty": "limited",
+        "email": "support@shortsmonkey.com",
+        "domains": ["shortsmonkey.com"]
+    },
+    {
         "name": "Shotbow",
         "url": "https://shotbow.net/forum/contact",
         "difficulty": "easy",
