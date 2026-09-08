@@ -5218,6 +5218,22 @@
         "domains": ["devitjobs.com"]
     },
     {
+        "name": "Devographics (State of JS)",
+        "url": "https://survey.devographics.com/en-US/account/profile",
+        "difficulty": "hard",
+        "email": "hello@stateofjs.com",
+        "domains": [
+            "survey.devographics.com",
+            "devographics.com",
+            "stateofjs.com",
+            "stateofcss.com",
+            "stateofhtml.com",
+            "stateofreact.com",
+            "stateofai.com",
+            "stateofdevs.com"
+        ]
+    },
+    {
         "name": "Devpost",
         "url": "https://devpost.com/settings/delete_account",
         "difficulty": "easy",
