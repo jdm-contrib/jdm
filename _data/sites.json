@@ -776,6 +776,16 @@
         ]
     },
     {
+        "name": "Aiven",
+        "url": "https://console.aiven.io/profile",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete account' at the top right and confirm the dialog.",
+        "domains": [
+            "console.aiven.io",
+            "aiven.io"
+        ]
+    },
+    {
         "name": "AKAI Professional",
         "url": "https://www.akaipro.com/privacy-policy",
         "email": "privacy@inmusicbrands.com",
