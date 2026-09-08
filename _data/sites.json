@@ -4785,6 +4785,15 @@
         "domains": ["crytek.com"]
     },
     {
+        "name": "CSSBattle",
+        "url": "https://cssbattle.dev/settings",
+        "difficulty": "hard",
+        "email": "contact@cssbattle.dev",
+        "email_subject": "Request for account deletion",
+        "email_body": "",
+        "domains": ["cssbattle.dev"]
+    },
+    {
         "name": "CTFLearn",
         "url": "https://ctflearn.com/",
         "difficulty": "impossible",
