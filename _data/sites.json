@@ -14557,6 +14557,16 @@
         ]
     },
     {
+        "name": "Navigraph",
+        "url": "https://identity.api.navigraph.com/deleteaccount.aspx",
+        "difficulty": "easy",
+        "notes": "Log in if needed, confirm your e-mail address, and click on 'Delete Account'.",
+        "domains": [
+            "navigraph.com",
+            "identity.api.navigraph.com"
+        ]
+    },
+    {
         "name": "NCBI",
         "url": "https://www.ncbi.nlm.nih.gov/books/NBK3842/",
         "difficulty": "hard",
