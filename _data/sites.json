@@ -22687,6 +22687,15 @@
         "domains": ["veduca.org"]
     },
     {
+        "name": "Veii",
+        "url": "https://veii.ai/data-deletion",
+        "difficulty": "easy",
+        "notes": "Sign in, open Settings and choose to delete your account. People who never signed up but appear in a workspace's prospecting data can use the removal form on the same page, without an account.",
+        "notes_es": "Inicia sesión, abre Configuración y elige eliminar tu cuenta. Quien nunca se registró pero aparece en los datos de prospección de un espacio de trabajo puede usar el formulario de eliminación de la misma página, sin cuenta.",
+        "notes_it": "Accedi, apri Impostazioni e scegli di eliminare l'account. Chi non si è mai registrato ma compare nei dati di prospecting di un workspace può usare il modulo di rimozione sulla stessa pagina, senza account.",
+        "domains": ["veii.ai"]
+    },
+    {
         "name": "Velo Hero",
         "url": "https://app.velohero.com/settings/terminate",
         "difficulty": "easy",
