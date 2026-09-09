@@ -13380,6 +13380,12 @@
             "idp.messervices.etudiant.gouv.fr"
         ]
     },
+		{
+        "name": "Meshy.ai",
+        "url": "https://www.meshy.ai/ru/settings/profile",
+        "difficulty": "easy",
+        "notes": "The delete button is at the bottom of the page, after clicking it you need to enter your email to confirm."
+    },
     {
         "name": "Meta Account",
         "url": "https://accountscenter.meta.com/manage/deletion_and_deactivation",
