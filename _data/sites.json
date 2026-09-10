@@ -1133,6 +1133,13 @@
         "domains": ["amplenote.com"]
     },
     {
+        "name": "Ampow (ovonic eu)",
+        "url": "https://account.ampow.com/profile",
+        "difficulty": "hard",
+        "email": "info@ampow.com",
+        "domains": ["ampow.com"]
+    },
+    {
         "name": "Amso",
         "url": "https://amso.eu/en/contact",
         "difficulty": "hard",
