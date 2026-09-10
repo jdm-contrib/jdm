@@ -6901,6 +6901,13 @@
         "domains": ["fairphone.com"]
     },
     {
+        "name": "FalixNodes",
+        "url": "https://client.falixnodes.net/profile/settings#account",
+        "difficulty": "easy",
+        "notes": "Go to the link provided, scroll to the bottom, and click 'Delete Account', then enter 'Yes' to confirm.",
+        "domains": ["falixnodes.net"]
+    },
+    {
         "name": "FamilySearch",
         "url": "https://www.familysearch.org/identity/settings/account",
         "difficulty": "easy",
