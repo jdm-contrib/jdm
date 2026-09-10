@@ -19439,6 +19439,13 @@
         "domains": ["sleeveyourgames.com"]
     },
     {
+        "name": "Slice",
+        "url": "https://privacy.slicelife.com/",
+        "difficulty": "medium",
+        "notes": "Click on 'Erase Your Data', submit your email address, and confirm the request via email.",
+        "domains": ["slicelife.com"]
+    },
+    {
         "name": "Slideshare",
         "url": "https://support.scribd.com/hc/en-us/articles/360000894843-Deleting-your-account#h_01HBVYCPRH4GEMX24PD473BHP8",
         "difficulty": "easy",
