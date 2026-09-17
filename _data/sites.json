@@ -2543,6 +2543,13 @@
         "domains": ["bkool.com"]
     },
     {
+        "name": "Blabberize",
+        "url": "https://blabberize.com/mystuff?m=p",
+        "difficulty": "easy",
+        "notes": "Type \"DeleteMyAccount\" into the account deletion form and submit to receive a confirmation e-mail. Open the link in the e-mail message, and click \"Yes\".",
+        "domains": ["blabberize.com"]
+    },
+    {
         "name": "BlaBlaCar",
         "url": "https://www.blablacar.co.uk/dashboard/profile/close",
         "difficulty": "medium",
