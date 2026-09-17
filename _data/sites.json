@@ -1150,6 +1150,14 @@
         "domains": ["amso.eu"]
     },
     {
+        "name": "Amundi Épargne Salariale",
+        "url": "https://epargnant.amundi-ee.com/#/help/mailbox",
+        "difficulty": "hard",
+        "notes": "In your mailbox, click on 'New Message', select the 'Account closure' category and 'Account closure' as subject. Send the message 'Please delete my account'",
+        "notes_fr": "Dans la messagerie, cliquer sur 'Nouveau message', Sélectionner la catégorie 'Clôture de compte / Droit à l'oubli' et le sujet 'Clôture de compte'. Message 'Je demande la clôture de mon compte anisi que l'application de mon droit à l'oubli'.",
+        "domains": ["amundi-ee.com"]
+    },
+    {
         "name": "Anaconda Nucleus",
         "url": "https://anaconda.cloud/profile/privacy-security",
         "difficulty": "easy",
