@@ -1,7 +1,7 @@
 {
     "about": "À propos de",
     "androidapp": "Application Android (Non officielle)",
-    "contribute": "Forkez le projet sur GitHub",
+    "contribute": "Contribuer sur GitHub",
     "defaultnote_easy": "Rendez-vous sur la page web et supprimez votre compte.",
     "defaultnote_email": "Envoyez un mail à l'adresse mail ci-présente et demandez la suppression de votre compte",
     "defaultnote_hard": "Pour supprimer votre compte contactez le support.",
@@ -9,11 +9,11 @@
     "difficulty_easy": "facile",
     "difficulty_hard": "difficile",
     "difficulty_impossible": "impossible",
-    "difficulty_limited": "Disponibilité limitée",
+    "difficulty_limited": "disponibilité limitée",
     "difficulty_medium": "moyen",
     "extension_browser": "Extension Chrome/Firefox",
     "extensionguide": "Guide Extension",
-    "extensionp1": "Quand vous êtes sur un site web listé sur JustDeleteMe, l'extension ajoutera un petit point dans l'omnibar. Cliquer dessus vous dirigera vers la page qui contient la manoeuvre de suppression de compte.",
+    "extensionp1": "Quand vous êtes sur un site web listé sur JustDeleteMe, l'extension ajoutera un petit point dans l'omnibar. Cliquer dessus vous redirigera vers la page qui contient la manoeuvre de suppression de compte.",
     "extensionp2": "Pour l'installer, rendez-vous simplement sur le",
     "extensionp3": "Chrome Web Store (Non officiel)",
     "extensionp4": "Extension Firefox",
@@ -33,7 +33,7 @@
     "noresults": "Impossible de trouver ce que vous cherchez",
     "noresultshelp": "Aider à rendre meilleur JustDeleteMe",
     "popular": "Populaire",
-    "pullrequest": "Forkez le projet sur GitHub",
+    "pullrequest": "Faites une pull request sur GitHub",
     "reset": "Réinitialiser",
     "search": "Rechercher",
     "sendmail": "Envoyez un email",
@@ -44,6 +44,6 @@
     "whatisthis": "Qu'est-ce que c'est ?",
     "whatisthis1": "De nombreuses companies utilisent des techniques appelées",
     "whatisthis2": "dark patterns (lien en anglais)",
-    "whatisthis3": "pour qu'il soit difficile de trouver comment supprimer votre compte. JustDeleteMe veut devenir un annuaire de liens qui vous permette de supprimer facilement vos comptes de différents sites webs.",
-    "whatisthis4": "Vous pensez qu'un site devrait-être ajouté ?"
+    "whatisthis3": "pour qu'il soit difficile de trouver comment supprimer votre compte. JustDeleteMe est un annuaire de liens qui vous permet de supprimer facilement vos comptes de différents sites webs.",
+    "whatisthis4": "Vous pensez qu'un site devrait être ajouté ?"
 }
