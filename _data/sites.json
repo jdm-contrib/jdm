@@ -6580,6 +6580,16 @@
         "domains": ["espn.com"]
     },
     {
+        "name": "Esri",
+        "url": "https://doc.arcgis.com/en/arcgis-online/reference/faq.htm#anchor35",
+        "difficulty": "hard",
+        "email": "accounts@esri.com",
+        "domains": [
+            "esri.com",
+            "arcgis.com"
+        ]
+    },
+    {
         "name": "EteSync",
         "url": "https://dashboard.etebase.com/user/partner/account/deactivate/request/",
         "difficulty": "medium",
