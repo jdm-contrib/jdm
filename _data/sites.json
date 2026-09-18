@@ -2463,6 +2463,16 @@
         "domains": ["bird.co"]
     },
     {
+        "name": "BitChute",
+        "url": "https://www.bitchute.com/personalInfo",
+        "difficulty": "medium",
+        "notes": "Scroll down and click the link labeled \"here\" under \"Delete Account\". In the dialog, check all 4 checkboxes, enter a reason (minimum 1 character, can be any character), and submit. Your account will be scheduled for deletion in about a week.",
+        "domains": [
+            "bitchute.com",
+            "account.bitchute.com"
+        ]
+    },
+    {
         "name": "Bitdefender Central",
         "url": "https://account.bitdefender.com/delete_account/info",
         "difficulty": "medium",
