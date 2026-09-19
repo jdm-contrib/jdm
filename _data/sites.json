@@ -24737,6 +24737,13 @@
         "domains": ["yummly.com"]
     },
     {
+        "name": "YunoHost Forum",
+        "url": "https://forum.yunohost.org/about",
+        "difficulty": "hard",
+        "email": "yunohost@yunohost.org",
+        "domains": ["forum.yunohost.org"]
+    },
+    {
         "name": "YUR",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSca2oePqdnrJWKh4U2LvnwSBZCi5FRTCDdoi0pjU21u9kBFLQ/viewform",
         "difficulty": "hard",
