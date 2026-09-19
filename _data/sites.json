@@ -13407,7 +13407,7 @@
         "url_zh-CN": "https://www.meshy.ai/zh/settings/profile",
         "url_zh-TW": "https://www.meshy.ai/zh-Hant/settings/profile",
         "difficulty": "easy",
-        "notes": "The delete button is at the bottom of the page, after clicking it you need to enter your email to confirm."
+        "notes": "The delete button is at the bottom of the page, after clicking it you need to enter your email to confirm.",
         "domains": ["meshy.ai"]
     },
     {
