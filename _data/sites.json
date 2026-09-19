@@ -13380,11 +13380,35 @@
             "idp.messervices.etudiant.gouv.fr"
         ]
     },
-		{
+    {
         "name": "Meshy.ai",
-        "url": "https://www.meshy.ai/ru/settings/profile",
+        "url": "https://www.meshy.ai/settings/profile",
+        "url_cs": "https://www.meshy.ai/cs/settings/profile",
+        "url_de": "https://www.meshy.ai/de/settings/profile",
+        "url_es": "https://www.meshy.ai/es/settings/profile",
+        "url_fr": "https://www.meshy.ai/fr/settings/profile",
+        "url_hi": "https://www.meshy.ai/hi/settings/profile",
+        "url_id": "https://www.meshy.ai/id/settings/profile",
+        "url_it": "https://www.meshy.ai/it/settings/profile",
+        "url_ja": "https://www.meshy.ai/ja/settings/profile",
+        "url_ko": "https://www.meshy.ai/ko/settings/profile",
+        "url_ms": "https://www.meshy.ai/ms/settings/profile",
+        "url_nl": "https://www.meshy.ai/nl/settings/profile",
+        "url_ph": "https://www.meshy.ai/ph/settings/profile",
+        "url_pl": "https://www.meshy.ai/pl/settings/profile",
+        "url_pt-BR": "https://www.meshy.ai/pt-BR/settings/profile",
+        "url_pt-PT": "https://www.meshy.ai/pt-PT/settings/profile",
+        "url_ru": "https://www.meshy.ai/ru/settings/profile",
+        "url_sv": "https://www.meshy.ai/sv/settings/profile",
+        "url_th": "https://www.meshy.ai/th/settings/profile",
+        "url_tr": "https://www.meshy.ai/tr/settings/profile",
+        "url_uk": "https://www.meshy.ai/uk/settings/profile",
+        "url_vi": "https://www.meshy.ai/vi/settings/profile",
+        "url_zh-CN": "https://www.meshy.ai/zh/settings/profile",
+        "url_zh-TW": "https://www.meshy.ai/zh-Hant/settings/profile",
         "difficulty": "easy",
         "notes": "The delete button is at the bottom of the page, after clicking it you need to enter your email to confirm."
+        "domains": ["meshy.ai"]
     },
     {
         "name": "Meta Account",
