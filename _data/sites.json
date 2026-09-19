@@ -5220,8 +5220,9 @@
     {
         "name": "Devographics (State of JS)",
         "url": "https://survey.devographics.com/en-US/account/profile",
-        "difficulty": "hard",
+        "difficulty": "impossible",
         "email": "hello@stateofjs.com",
+        "notes": "According to their help page, you need to send an e-mail to them to request the deletion. However, they seemingly never respond.",
         "domains": [
             "survey.devographics.com",
             "devographics.com",
