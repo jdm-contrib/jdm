@@ -776,6 +776,13 @@
         ]
     },
     {
+        "name": "AISkyla",
+        "url": "https://aiskyla.com/privacy",
+        "difficulty": "hard",
+        "email": "support@aiskyla.com",
+        "domains": ["aiskyla.com"]
+    },
+    {
         "name": "Aiven",
         "url": "https://console.aiven.io/profile",
         "difficulty": "easy",
