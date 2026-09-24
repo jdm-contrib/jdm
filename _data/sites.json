@@ -7621,7 +7621,7 @@
     },
     {
         "name": "France Identité",
-        "url": "https.//idp.france-identite.gouv.fr/usager",
+        "url": "https://idp.france-identite.gouv.fr/usager",
         "difficulty": "easy",
         "notes": "Enter your document number then a deletion code received by e-mail to delete your account.",
         "notes_fr": "Entrez votre numéro de document puis un code de suppression reçu par e-mail pour supprimer votre compte.",
@@ -9740,7 +9740,7 @@
     },
     {
         "name": "Holland and Barrett",
-        "url": "hollandandbarrett.com/my-account/security-settings",
+        "url": "https://hollandandbarrett.com/my-account/security-settings",
         "difficulty": "easy",
         "notes": "Just click the 'Delete Account' button. Account is deleted instantly, account details are stored for 3 years then erased completely.",
         "domains": ["hollandandbarrett.com"]
