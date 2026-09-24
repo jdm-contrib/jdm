@@ -22813,6 +22813,13 @@
         "domains": ["velov.grandlyon.com"]
     },
     {
+        "name": "Venice.ai",
+        "url": "https://venice.ai/chat/classic#/security",
+        "difficulty": "easy",
+        "notes": "Open the Chat History drawer in the top left corner, select \"Preferences\" and go to the \"Profile\" tab. Click \"Manage account\", then \"Security\", scroll to the bottom and select \"Delete account\". Type \"Delete account\" to confirm the deletion. On mobile, tap the ≡ menu on the Manage account page to find the \"Security\" tab. A deleted account cannot be recovered.",
+        "domains": ["venice.ai"]
+    },
+    {
         "name": "Venmo",
         "url": "https://account.venmo.com/settings/profile/cancel/confirm",
         "difficulty": "easy",
