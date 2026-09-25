@@ -20451,6 +20451,13 @@
         "domains": ["streamyard.com"]
     },
     {
+        "name": "Stremio",
+        "url": "https://www.stremio.com/acc-settings",
+        "difficulty": "easy",
+        "notes": "Click the button to request account deletion, enter your password, and confirm.",
+        "domains": ["stremio.com"]
+    },
+    {
         "name": "Stripe",
         "meta": "popular",
         "url": "https://dashboard.stripe.com/settings/account",
