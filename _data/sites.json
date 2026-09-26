@@ -21978,6 +21978,13 @@
         "domains": ["trakt.tv"]
     },
     {
+        "name": "TranscribeText",
+        "url": "https://transcribetext.com/account-settings",
+        "difficulty": "easy",
+        "notes": "Log in to your account, open Account Settings, scroll to Danger Zone, click 'Delete Account', and confirm.",
+        "domains": ["transcribetext.com"]
+    },
+    {
         "name": "Transcript LOL",
         "url": "https://transcript.lol/dashboard/account/settings/delete-account/start",
         "difficulty": "easy",
