@@ -9540,6 +9540,14 @@
         "domains": ["hepsiburada.com"]
     },
     {
+        "name": "Heraldicon",
+        "url": "https://heraldicon.org/",
+        "difficulty": "impossible",
+        "domains": [
+            "heraldicon.org"
+        ]
+    },
+    {
         "name": "Heroes and Generals",
         "url": "https://account.heroesandgenerals.com/deleteaccount.aspx/",
         "difficulty": "medium",
@@ -22777,6 +22785,15 @@
             "support-valorant.riotgames.com"
         ]
     },
+    {
+        "name": "Valour.gg",
+        "url": "https://app.valour.gg/",
+        "difficulty": "easy",
+        "notes": "Go to the General Settings page, select Account, scroll down to the Account section, click the \"Delete Account\" button to confirm deletion.",
+        "domains": [
+            "valour.gg"
+        ]
+    }
     {
         "name": "Vans.com",
         "url": "https://www.vans.com/en-us/help/contact-us",
