@@ -12469,6 +12469,13 @@
         "domains": ["rewards.lovemycreditunion.org"]
     },
     {
+        "name": "LoversLab",
+        "url": "https://www.loverslab.com/settings/deletemyaccount",
+        "difficulty": "hard",
+        "notes": "Submit a request on the “Delete My Account” page. Account deletions are manual, so it can take more than a month to delete your account",
+        "domains": ["loverslab.com"]
+    },
+    {
         "name": "LowEndTalk",
         "url": "https://lowendtalk.com/",
         "difficulty": "impossible",
