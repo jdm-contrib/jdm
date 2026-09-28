@@ -19870,13 +19870,6 @@
         ]
     },
     {
-        "name": "Soulseek",
-        "url": "https://www.slsknet.org/news/node/748",
-        "difficulty": "hard",
-        "notes": "Your username is deleted automatically if you haven't logged into your account for 30 days.",
-        "domains": ["slsknet.org"]
-    },
-    {
         "name": "Soulframe",
         "url": "https://support.soulframe.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -19886,6 +19879,13 @@
             "soulframe.com",
             "support.soulframe.com"
         ]
+    },
+    {
+        "name": "Soulseek",
+        "url": "https://www.slsknet.org/news/node/748",
+        "difficulty": "hard",
+        "notes": "Your username is deleted automatically if you haven't logged into your account for 30 days.",
+        "domains": ["slsknet.org"]
     },
     {
         "name": "SoundCloud",
