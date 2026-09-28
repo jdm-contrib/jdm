@@ -19870,6 +19870,17 @@
         ]
     },
     {
+        "name": "Soulframe",
+        "url": "https://support.soulframe.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "If you wish to delete your account and remove all your information permanently, you will need to contact Support (on website). After sending the request, you’ll have to wait for their reply then, answer the security questions and send the code from the email. After that they will ask you to send 'Deletion acknowledged' as the final step of this process",
+        "notes_ru": "Если вы хотите удалить свой аккаунт и безвозвратно удалить всю свою информацию, вам необходимо будет обратиться в службу поддержки (на сайте). После отправки запроса вам нужно будет дождаться их ответа. Затем ответьте на вопросы безопасности и отправьте код из электронного письма. После этого они попросят вас отправить 'Deletion acknowledged' в качестве последнего шага этого процесса",
+        "domains": [
+            "soulframe.com",
+            "support.soulframe.com"
+        ]
+    },
+    {
         "name": "Soulseek",
         "url": "https://www.slsknet.org/news/node/748",
         "difficulty": "hard",
