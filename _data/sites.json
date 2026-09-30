@@ -17286,6 +17286,13 @@
         "domains": ["pottermore.com"]
     },
     {
+        "name": "Povver",
+        "url": "https://povver.ai/privacy",
+        "difficulty": "easy",
+        "notes": "Delete the account in the iOS app: Profile, Security, Delete Account, then confirm. Workouts, conversations, photos and derived data are deleted straight away. Deleting the account does not cancel the subscription: cancel it in your Apple subscription settings first. Copies in the analytics warehouse and support inbox are deleted within 30 days if you email info@povver.ai, and encrypted backups are purged within 35 days.",
+        "domains": ["povver.ai"]
+    },
+    {
         "name": "The Powder Toy",
         "url": "https://powdertoy.co.uk/Profile/Delete.html",
         "difficulty": "easy",
