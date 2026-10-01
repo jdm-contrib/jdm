@@ -15860,6 +15860,16 @@
         "domains": ["opencores.org"]
     },
     {
+        "name": "OpenCorporates",
+        "url": "https://opencorporates.atlassian.net/servicedesk/customer/portal/4/group/17/create/43",
+        "difficulty": "hard",
+        "notes": "Submit a deletion request to customer service using the contact form.",
+        "domains": [
+            "opencorporates.atlassian.net",
+            "opencorporates.com"
+        ]
+    },
+    {
         "name": "Opendesktop",
         "url": "https://www.opendesktop.org",
         "difficulty": "hard",
@@ -15877,16 +15887,6 @@
         "domains": [
             "opendns.com",
             "dashboard.opendns.com"
-        ]
-    },
-    {
-        "name": "OpenCorporates",
-        "url": "https://opencorporates.atlassian.net/servicedesk/customer/portal/4/group/17/create/43",
-        "difficulty": "hard",
-        "notes": "Submit a deletion request to customer service using the contact form.",
-        "domains": [
-            "opencorporates.atlassian.net",
-            "opencorporates.com"
         ]
     },
     {
@@ -24654,7 +24654,7 @@
         {
         "name": "Wikitech",
         "url": "https://wikitech.wikimedia.org/",
-        "difficulty": "impossible", 
+        "difficulty": "impossible",
         "domains": ["wikitech.wikimedia.org"]
     },
     {
