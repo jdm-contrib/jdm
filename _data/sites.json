@@ -11668,7 +11668,6 @@
         "name": "The Lampo Group, LLC (Ramsey Solutions)",
         "url": "https://help.ramseysolutions.com/hc/en-us",
         "difficulty": "hard",
-        "notes": "Submit a deletion request to customer service using the contact form.",
         "domains": [
             "ramseysolutions.com",
             "help.ramseysolutions.com",
@@ -13188,7 +13187,6 @@
         "name": "McMaster-Carr",
         "url": "https://www.mcmaster.com/contact",
         "difficulty": "hard",
-        "notes": "Submit a deletion request to customer service using the contact form.",
         "domains": ["mcmaster.com"]
     },
     {
@@ -13237,9 +13235,7 @@
         "name": "MediaWiki",
         "url": "https://www.mediawiki.org/",
         "difficulty": "impossible",
-        "domains": [
-            "mediawiki.org"
-        ]
+        "domains": ["mediawiki.org"]
     },
     {
         "name": "Medium",
@@ -14251,7 +14247,6 @@
         "email": "help@muji.com",
         "url": "https://www.muji.us/pages/contact-us",
         "difficulty": "hard",
-        "notes": "E-mail customer support to have an account deleted.",
         "domains": [
             "muji.com",
             "muji.us",
@@ -15863,7 +15858,6 @@
         "name": "OpenCorporates",
         "url": "https://opencorporates.atlassian.net/servicedesk/customer/portal/4/group/17/create/43",
         "difficulty": "hard",
-        "notes": "Submit a deletion request to customer service using the contact form.",
         "domains": [
             "opencorporates.atlassian.net",
             "opencorporates.com"
@@ -24057,9 +24051,7 @@
         "name": "Wikidata",
         "url": "https://www.wikidata.org/",
         "difficulty": "impossible",
-        "domains": [
-            "wikidata.org"
-        ]
+        "domains": ["wikidata.org"]
     },
     {
         "name": "Wikidot",
@@ -24069,7 +24061,7 @@
         "notes_tr": "\"Hesabı Sil\" tuşuna tıklayın. E-posta adresinize gönderilen bağlantı ile silme işlemini onaylayın.",
         "domains": ["wikidot.com"]
     },
-        {
+    {
         "name": "Wikifunctions",
         "url": "https://www.wikifunctions.org/",
         "difficulty": "impossible",
