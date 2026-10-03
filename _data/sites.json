@@ -10417,6 +10417,13 @@
         "domains": ["incogni.com"]
     },
     {
+        "name": "Indah Water Customer Portal",
+        "url": "https://customerportal.iwk.com.my/",
+        "difficulty": "easy",
+        "notes": "Log in, open the account dropdown menu, and select 'DELETE ACCOUNT'. Deletion is irreversible; you will need to register again to access the portal.",
+        "domains": ["customerportal.iwk.com.my"]
+    },
+    {
         "name": "Indeed",
         "url": "https://secure.indeed.com/settings/account",
         "difficulty": "hard",
