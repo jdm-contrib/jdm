@@ -10420,7 +10420,7 @@
         "name": "Indah Water Customer Portal",
         "url": "https://customerportal.iwk.com.my/",
         "difficulty": "easy",
-        "notes": "Log in, open the account dropdown menu, and select 'DELETE ACCOUNT'. Deletion is irreversible; you will need to register again to access the portal. See the [official deletion guide](https://customerportal.iwk.com.my/storage/pdf/Guide%20to%20Delete%20Customer%20Portal%20Account.pdf). This deletes the Customer Portal login, not the premises' sewerage billing account.",
+        "notes": "Log in, open the account dropdown menu, and select 'DELETE ACCOUNT'. Deletion is irreversible; you will need to register again to access the portal.",
         "domains": ["customerportal.iwk.com.my"]
     },
     {
