@@ -20556,7 +20556,7 @@
         "name": "StreamLabs",
         "url": "https://streamlabs.com/dashboard#/settings/account-settings/emails",
         "difficulty": "easy",
-        "notes": "Go to Settings > Account Settings > General and click the small \"here\" link in the text (\"If you would like to delete your account please click here\"). A \"Permanently Delete My Account\" button will appear at the bottom.",
+        "notes": "Go to Settings ⮕ Account Settings ⮕ General and click the small \"here\" link in the text (\"If you would like to delete your account please click here\"). A \"Permanently Delete My Account\" button will appear at the bottom.",
         "domains": ["streamlabs.com"]
     },
     {
