@@ -18875,6 +18875,13 @@
         "domains": ["scammer.info"]
     },
     {
+        "name": "ScanChess",
+        "url": "https://scanchess.com/delete-account",
+        "difficulty": "easy",
+        "notes": "Sign in, open the linked page, type your email address, confirm with your password or a fresh Google sign-in, then click 'Permanently delete my account'. An active App Store subscription must be cancelled with Apple first.",
+        "domains": ["scanchess.com"]
+    },
+    {
         "name": "Scavify",
         "url": "https://www.scavify.com/users/edit",
         "difficulty": "easy",
