@@ -12473,6 +12473,20 @@
         ]
     },
     {
+        "name": "Longeva",
+        "url": "https://longeva.bio/en/delete-account",
+        "url_uk": "https://longeva.bio/ua/delete-account",
+        "url_ru": "https://longeva.bio/ru/delete-account",
+        "difficulty": "easy",
+        "notes": "Click 'Continue to account deletion', log in, re-enter your password if prompted, then under 'Your data (GDPR)' click 'Delete account' and confirm with 'Delete permanently'.",
+        "notes_uk": "Натисніть «Перейти до видалення», увійдіть, за потреби повторно введіть пароль, у блоці «Ваші дані (GDPR)» натисніть «Видалити акаунт» і підтвердіть кнопкою «Видалити назавжди».",
+        "notes_ru": "Нажмите «Перейти к удалению», войдите, при необходимости повторно введите пароль, в блоке «Ваши данные (GDPR)» нажмите «Удалить аккаунт» и подтвердите кнопкой «Удалить навсегда».",
+        "domains": [
+            "longeva.bio",
+            "account.longeva.bio"
+        ]
+    },
+    {
         "name": "Lookout",
         "url": "https://www.lookout.com/#/settings",
         "difficulty": "easy",
