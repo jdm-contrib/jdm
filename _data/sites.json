@@ -12836,6 +12836,16 @@
         ]
     },
     {
+        "name": "Major Phones",
+        "url": "https://app.majorphones.com/profile",
+        "difficulty": "easy",
+        "notes": "Sign in ⮕ Profile ⮕ Delete Account ⮕ Confirm with your password (or Google sign-in). If two-factor authentication is enabled, disable it first.",
+        "domains": [
+            "majorphones.com",
+            "app.majorphones.com"
+        ]
+    },
+    {
         "name": "MakeMyTrip",
         "url": "https://www.makemytrip.com/",
         "difficulty": "easy",
