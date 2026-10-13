@@ -13679,6 +13679,13 @@
         ]
     },
     {
+        "name": "Michaels",
+        "url": "https://privacy-central.securiti.ai/#/dsr/4932b4cb-659e-41b8-b560-526d6bddf75e",
+        "difficulty": "easy",
+        "notes": "Use the deletion link. Select 'Data Deletion' and enter your Account information.",
+        "domains": ["michaels.com"]
+    },
+    {
         "name": "Microsoft Account",
         "meta": "popular",
         "url": "https://account.live.com/closeaccount.aspx",
