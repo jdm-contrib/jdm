@@ -11188,9 +11188,7 @@
         "url": "https://karaokecaptions.com/account/#delete",
         "difficulty": "easy",
         "notes": "Sign in, click \"Delete my account…\", type \"DELETE\" and confirm. This immediately deletes the account, profile and synced caption styles, and cancels any active Pro subscription. Saved styles in this browser can optionally be removed in the confirmation dialog. Purchase records are retained as required by tax law.",
-        "domains": [
-            "karaokecaptions.com"
-        ]
+        "domains": ["karaokecaptions.com"]
     },
     {
         "name": "Kaspersky",
