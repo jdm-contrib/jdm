@@ -17847,6 +17847,13 @@
         ]
     },
     {
+        "name": "Quackr",
+        "url": "https://quackr.io/contact",
+        "difficulty": "hard",
+        "notes": "Send an account deletion request through the contact form, using the email address linked to your account.",
+        "domains": ["quackr.io"]
+    },
+    {
         "name": "Quantic Foundry",
         "url": "https://quanticfoundry.com/",
         "difficulty": "hard",
