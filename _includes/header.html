@@ -28,14 +28,18 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
     <link type="application/opensearchdescription+xml" rel="search" href="{{ site.baseurl }}/opensearch.xml" title="JustDeleteMe">
 
+    {% assign page_langs = site.pages | map: "lang" | uniq | sort %}
+
+    <script>
+        window.availableLanguages = {{ page_langs | jsonify }};
+    </script>
     <script src="{{ site.baseurl }}/assets/js/libs/jquery.js"></script>
     <script src="{{ site.baseurl }}/assets/js/libs/jquery.dropdown.js"></script>
     <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/redirect.js"></script>
 </head>
-{% if page.lang == 'ar' or page.lang == 'fa' %}
-    {% assign rtl = true %}
-{% else %}
-    {% assign rtl = false %}
+{% if page.rtl %}
+    {% assign rtl = page.rtl %}
 {% endif %}
 <body lang="{{ page.lang }}"{% if rtl %} dir="rtl"{% endif %}>
 
@@ -58,5 +62,7 @@
         <a class="button" href="https://twitter.com/intent/tweet?text={{ site.data.trans[page.lang].title | replace: ' ', '+' | replace: '|', '-'}}+https%3A%2F%2Fjustdeleteme.xyz">{{ site.data.trans.[page.lang].twitter }}</a>
 
         <a class="button jgmd" href="https://justgetmydata.com{%if page.lang != 'en'%}/{{page.lang}}{% endif %} "> {{site.data.trans[page.lang].jgmd }}</a>
+
+        <a class="button" href="https://f-droid.org/{{ page.lang | replace: '-', '_' }}/packages/com.amanoteam.kurt">{{ site.data.trans[page.lang].androidapp }}</a>
     </p>
 </header>
