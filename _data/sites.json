@@ -9845,6 +9845,15 @@
         "domains": ["hoop.photo"]
     },
     {
+        "name": "host0",
+        "url": "https://host0.ai/docs/delete-account",
+        "difficulty": "hard",
+        "notes": "Email support from the address you sign in with. You can delete your apps and API keys yourself in the dashboard.",
+        "email": "support@host0.ai",
+        "email_body": "Please delete my host0 account. I sign in with XXXXXX.",
+        "domains": ["host0.ai", "host0.app"]
+    },
+    {
         "name": "Hostelsclub",
         "url": "https://www.hostelsclub.com",
         "difficulty": "impossible",
