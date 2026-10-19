@@ -25982,4 +25982,11 @@
         "notes_ru": "Перейдите по ссылке и нажмите кнопку \"Удалить учетную запись\".",
         "domains": ["sdamgia.ru"]
     }
+    {
+        "name": "ARD",
+        "url": "https://accounts.ard.de/konto/loeschen",
+        "difficulty": "easy",
+        "notes_de": "In den Accounteinstellungen ist der Menüpunkt Datenschutz und dort der Punkt Account löschen. Dort einfach Passwort eingeben und auf \"Konto unwiderruflich löschen\" klicken."
+        "domains": ["accounts.ard.de"]
+    },
 ]
