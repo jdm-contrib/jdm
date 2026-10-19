@@ -3635,6 +3635,13 @@
         "domains": ["ceeol.com"]
     },
     {
+        "name": "Ceki Time Factory",
+        "url": "https://ceki.me/dashboard/settings",
+        "difficulty": "easy",
+        "notes": "Click on the red button labeled \"DELETE ACCOUNT\", at the bottom of the page. In the dialog that appears, mark the checkbox that says \"I understand that this action is irreversible\", and write the word \"DELETE\" in the confirmation textbox. Finally, click on the red button labeled \"Delete\". If everything went well, you'll receive an e-Mail stating that deletion will happen after 30 days.",
+        "domains": ["ceki.me"]
+    },
+    {
         "name": "Celcoin",
         "url": "https://celcoin.com.br",
         "difficulty": "hard",
