@@ -11765,6 +11765,13 @@
         ]
     },
     {
+        "name": "Layerwise",
+        "url": "https://layerwise.app/docs/account/account-and-github#delete-your-account",
+        "difficulty": "easy",
+        "notes": "Account deletion is available in the Layerwise desktop app. Open the user menu ⮕ Account ⮕ Danger Zone ⮕ Delete Account. Type the account email shown in the dialog and confirm. This also deletes teams you own and their projects, and cancels their paid plans. Transfer any teams you want to keep first. If 'Delete local folders' is shown, turn it off to keep the project code on your computer.",
+        "domains": ["layerwise.app"]
+    },
+    {
         "name": "Lazada",
         "url": "https://helpcenter.lazada.co.id/s/faq/knowledge?categoryId=1000027486&m_station=faq&questionId=1000142195",
         "difficulty": "hard",
