@@ -18293,6 +18293,17 @@
         "domains": ["redirect.pizza"]
     },
     {
+        "name": "RedirHub",
+        "url": "https://account.redirhub.com/user/profile#delete-account",
+        "difficulty": "medium",
+        "notes": "Open your profile and click 'Delete account'. Cancel any recurring subscription on your personal workspace first. If you own multiple workspaces, remove the additional ones before deleting your account. Confirm with your password if your account has one. Account deletion also deletes your owned workspaces and their resources. Billing records may be retained as required by law.",
+        "domains": [
+            "redirhub.com",
+            "account.redirhub.com",
+            "dash.redirhub.com"
+        ]
+    },
+    {
         "name": "RedPen.io",
         "url": "https://redpen.io/account",
         "difficulty": "hard",
