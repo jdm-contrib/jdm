@@ -18010,6 +18010,16 @@
         "domains": ["raileurope.com"]
     },
     {
+        "name": "Railway",
+        "url": "https://railway.com/account",
+        "difficulty": "easy",
+        "notes": "Log in to your account, scroll down and click 'Delete Account'. Enter your email to confirm.",
+        "domains": [
+            "railway.com",
+            "railway.app"
+        ]
+    },
+    {
         "name": "Raindrop.io",
         "url": "https://api.raindrop.io/v1/user/remove",
         "difficulty": "easy",
