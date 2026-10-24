@@ -1629,6 +1629,16 @@
         "domains": ["assembla.com"]
     },
     {
+        "name": "Aster Mail",
+        "url": "https://app.astermail.org/settings/security",
+        "difficulty": "easy",
+        "notes": "Go to Settings, then Security. Under Danger Zone, click 'Delete account', type 'delete my account', enter your password and confirm. All emails, contacts and encryption keys are deleted permanently.",
+        "domains": [
+            "astermail.org",
+            "app.astermail.org"
+        ]
+    },
+    {
         "name": "ASUS",
         "url": "https://privacy.asus.com/pi/global/privacy",
         "difficulty": "easy",
