@@ -2224,12 +2224,11 @@
     },
     {
         "name": "Beatport",
-        "url": "https://support.beatport.com/hc/en-us/articles/4412533928596-How-can-I-close-my-account-",
-        "difficulty": "hard",
-        "email": "support@beatport.com",
+        "url": "https://account.beatport.com/settings/delete-account",
+        "difficulty": "easy",
         "domains": [
             "beatport.com",
-            "support.beatport.com"
+            "account.beatport.com"
         ]
     },
     {
