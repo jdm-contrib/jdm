@@ -18224,6 +18224,16 @@
         ]
     },
     {
+        "name": "Recordwell",
+        "url": "https://recordwell.ai/privacy",
+        "difficulty": "hard",
+        "notes": "Specify that you want your user account deleted. Removing a people-search listing is a separate request. The privacy policy states that identity verification is required and that request records and correspondence are retained for 24 months.",
+        "email": "support@recordwell.ai",
+        "domains": [
+            "recordwell.ai"
+        ]
+    },
+    {
         "name": "Recreation.gov",
         "url": "https://www.recreation.gov/account/delete-account",
         "difficulty": "easy",
