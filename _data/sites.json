@@ -11489,6 +11489,13 @@
         ]
     },
     {
+        "name": "Klusek",
+        "url": "https://klusek.app/delete-account",
+        "difficulty": "easy",
+        "notes": "Log in to the web or mobile app, go to Profile ⮕ Settings, click 'Delete Account' and confirm with your password. All data is deleted immediately.",
+        "domains": ["klusek.app"]
+    },
+    {
         "name": "Knetbooks",
         "email": "privacyrequest@knetbooks.com",
         "url": "https://www.knetbooks.com/account/settings",
