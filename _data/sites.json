@@ -1644,6 +1644,16 @@
         "domains": ["assembla.com"]
     },
     {
+        "name": "Aster Mail",
+        "url": "https://app.astermail.org/settings/security",
+        "difficulty": "easy",
+        "notes": "Go to Settings, then Security. Under Danger Zone, click 'Delete account', type 'delete my account', enter your password and confirm. All emails, contacts and encryption keys are deleted permanently.",
+        "domains": [
+            "astermail.org",
+            "app.astermail.org"
+        ]
+    },
+    {
         "name": "ASUS",
         "url": "https://privacy.asus.com/pi/global/privacy",
         "difficulty": "easy",
@@ -2229,12 +2239,11 @@
     },
     {
         "name": "Beatport",
-        "url": "https://support.beatport.com/hc/en-us/articles/4412533928596-How-can-I-close-my-account-",
-        "difficulty": "hard",
-        "email": "support@beatport.com",
+        "url": "https://account.beatport.com/settings/delete-account",
+        "difficulty": "easy",
         "domains": [
             "beatport.com",
-            "support.beatport.com"
+            "account.beatport.com"
         ]
     },
     {
@@ -9867,6 +9876,18 @@
         "domains": ["hoop.photo"]
     },
     {
+        "name": "host0",
+        "url": "https://host0.ai/docs/delete-account",
+        "difficulty": "hard",
+        "notes": "Email support from the address you sign in with. You can delete your apps and API keys yourself in the dashboard.",
+        "email": "support@host0.ai",
+        "email_body": "Please delete my host0 account. I sign in with XXXXXX.",
+        "domains": [
+            "host0.ai",
+            "host0.app"
+        ]
+    },
+    {
         "name": "Hostelsclub",
         "url": "https://www.hostelsclub.com",
         "difficulty": "impossible",
@@ -11494,6 +11515,13 @@
         ]
     },
     {
+        "name": "Klusek",
+        "url": "https://klusek.app/delete-account",
+        "difficulty": "easy",
+        "notes": "Log in to the web or mobile app, go to Profile ⮕ Settings, click 'Delete Account' and confirm with your password. All data is deleted immediately.",
+        "domains": ["klusek.app"]
+    },
+    {
         "name": "Knetbooks",
         "email": "privacyrequest@knetbooks.com",
         "url": "https://www.knetbooks.com/account/settings",
@@ -11778,6 +11806,13 @@
             "launchpad.net",
             "help.launchpad.net"
         ]
+    },
+    {
+        "name": "Layerwise",
+        "url": "https://layerwise.app/docs/account/account-and-github#delete-your-account",
+        "difficulty": "easy",
+        "notes": "Account deletion is available in the Layerwise desktop app. Open the user menu ⮕ Account ⮕ Danger Zone ⮕ Delete Account. Type the account email shown in the dialog and confirm. This also deletes teams you own and their projects, and cancels their paid plans. Transfer any teams you want to keep first. If 'Delete local folders' is shown, turn it off to keep the project code on your computer.",
+        "domains": ["layerwise.app"]
     },
     {
         "name": "Lazada",
@@ -18018,6 +18053,16 @@
         "domains": ["raileurope.com"]
     },
     {
+        "name": "Railway",
+        "url": "https://railway.com/account",
+        "difficulty": "easy",
+        "notes": "Log in to your account, scroll down and click 'Delete Account'. Enter your email to confirm.",
+        "domains": [
+            "railway.com",
+            "railway.app"
+        ]
+    },
+    {
         "name": "Raindrop.io",
         "url": "https://api.raindrop.io/v1/user/remove",
         "difficulty": "easy",
@@ -18205,6 +18250,14 @@
         ]
     },
     {
+        "name": "Recordwell",
+        "url": "https://recordwell.ai/privacy",
+        "difficulty": "hard",
+        "notes": "Specify that you want your user account deleted. Removing a people-search listing is a separate request. The privacy policy states that identity verification is required and that request records and correspondence are retained for 24 months.",
+        "email": "support@recordwell.ai",
+        "domains": ["recordwell.ai"]
+    },
+    {
         "name": "Recreation.gov",
         "url": "https://www.recreation.gov/account/delete-account",
         "difficulty": "easy",
@@ -18299,6 +18352,17 @@
         "difficulty": "easy",
         "notes": "In the bottom right corner of the linked page, click 'Delete my account'.",
         "domains": ["redirect.pizza"]
+    },
+    {
+        "name": "RedirHub",
+        "url": "https://account.redirhub.com/user/profile#delete-account",
+        "difficulty": "medium",
+        "notes": "Open your profile and click 'Delete account'. Cancel any recurring subscription on your personal workspace first. If you own multiple workspaces, remove the additional ones before deleting your account. Confirm with your password if your account has one. Account deletion also deletes your owned workspaces and their resources. Billing records may be retained as required by law.",
+        "domains": [
+            "redirhub.com",
+            "account.redirhub.com",
+            "dash.redirhub.com"
+        ]
     },
     {
         "name": "RedPen.io",
