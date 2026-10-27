@@ -9087,6 +9087,16 @@
         ]
     },
     {
+        "name": "Greensurance",
+        "url": "https://greensurance.digitalerversicherungsmanager.de/mein-konto/loeschen",
+        "difficulty": "easy",
+        "notes_de": "In die Kontoeinstellungen gehen und dann unter dem Reiter Persönliche Daten unten auf Konto löschen klicken, danach auf Ja, jetzt löschen",
+        "domains": [
+            "greensurance.de",
+            "greensurance.digitalerversicherungsmanager.de"
+        ]
+    },
+    {
         "name": "Greip",
         "url": "https://docs.greip.io/knowledge-base/account-management/account-deletion",
         "difficulty": "hard",
