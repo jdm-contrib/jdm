@@ -6237,6 +6237,14 @@
         ]
     },
     {
+        "name": "Ecosia",
+        "url": "https://www.ecosia.org/accounts/profile/settings/delete-account-verify",
+        "difficulty": "medium",
+        "notes": "To delete your account, click on your profile picture in the top right and then on Your Profile. After that, you click on the settings in the top right again and then at the click at the bottom on Delete Account. Now you have to sign in again to delete your account and your finished.",
+        "notes_de": "Um dein Konto zu löschen, klicke oben rechts auf dein Profilbild und anschließend auf Dein Profil. Danach klickst du erneut oben rechts auf Einstellungen und anschließend unten auf Konto löschen. Nun musst du dich erneut anmelden, um dein Konto zu löschen – fertig!",
+        "domains": ["ecosia.org"]
+    },
+    {
         "name": "Ecwid",
         "url": "https://my.ecwid.com/cp/#profile",
         "notes": "Click 'Close Account' in profile settings and then click 'Yes'.",
