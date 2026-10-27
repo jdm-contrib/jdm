@@ -13591,6 +13591,16 @@
         ]
     },
     {
+        "name": "MediaMarkt"
+        "url": "https://www.mediamarkt.de/de/myaccount/profile"
+        "difficulty": "hard"
+        "notes_de": "Das Löschen von persömlichen Datenn ist ausschließlich über eine eindeutige Mitteilung per E-Mail möglich. Dabei muss die E-Mail verwendet werden, die im Konto hinterlegt ist."
+        "email": "datenschutz@mediamarkt.de"
+        "email_subject": "Löschen meiner persönlichen Daten"
+        "email_body": "Sehr geehrtes Team, hiermit beantrage ich die Löschung von jeglichen persönlichen Daten. Die hinterlegte E-Mail in meinem Konto ist: XXXXX. Ich bedanke mich im voraus. Mit freundlichen Grüßen"
+        "domains": ["mediamarkt.de"]
+    },
+    {
         "name": "Mes Services Étudiant",
         "url": "https://www.messervices.etudiant.gouv.fr/envole/message/new",
         "difficulty": "hard",
