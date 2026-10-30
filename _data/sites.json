@@ -5133,6 +5133,13 @@
         "domains": ["dayone.me"]
     },
     {
+        "name": "Dazn",
+        "url": "https://www.dazn.com/en-DE/help",
+        "difficulty": "medium",
+        "notes": "You need to log in, open the chat and request account deletion.",
+        "domains": ["dazn.com"]
+    },
+    {
         "name": "dbrand",
         "url": "https://dbrand.com/contact",
         "difficulty": "hard",
