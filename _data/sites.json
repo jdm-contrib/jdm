@@ -5048,13 +5048,6 @@
         "domains": ["dagshub.com"]
     },
     {
-        "name": "Dazn",
-        "url": "https://www.dazn.com/en-DE/help",
-        "difficulty": "medium",
-        "notes": "You need to log in, open the chat and request account deletion.",
-        "domains": ["dazn.com"]
-    },
-    {
         "name": "The Daily Wire",
         "url": "https://privacy.dailywire.com/",
         "difficulty": "easy",
@@ -5138,6 +5131,13 @@
         "url": "https://dayone.me/user/request-account-deletion",
         "difficulty": "easy",
         "domains": ["dayone.me"]
+    },
+    {
+        "name": "Dazn",
+        "url": "https://www.dazn.com/en-DE/help",
+        "difficulty": "medium",
+        "notes": "You need to log in, open the chat and request account deletion.",
+        "domains": ["dazn.com"]
     },
     {
         "name": "dbrand",
