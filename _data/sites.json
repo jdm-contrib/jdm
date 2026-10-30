@@ -25246,6 +25246,14 @@
         "domains": ["wizbii.com"]
     },
     {
+        "name": "Wizz Air",
+        "url": "https://www.wizzair.com/en-gb/information-and-services/compliments-and-complaints",
+        "difficulty": "easy",
+        "notes": "Log in and click the 'Delete Account' button at the bottom of the compliments and complaints page.",
+        "notes_de":"Melden Sie sich an und klicken Sie auf die Schaltfläche \"Konto löschen\" am unteren Rand der Seite für Komplimente und Beschwerden.",
+        "domains": ["wizzair.com"]
+    },
+    {
         "name": "WKV",
         "url": "https://www.wkv.com/?action=faq",
         "url_fr": "https://www.wkv.com/?action=faq&lang=fr",
