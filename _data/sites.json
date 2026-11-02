@@ -4919,6 +4919,18 @@
         ]
     },
     {
+        "name": "Culma",
+        "url": "https://culma.eu/account?delete=1",
+        "difficulty": "easy",
+        "notes": "Sign in, then confirm 'Delete account'. A paid plan must be canceled and have ended first. The app used on one device without sync has no account to delete.",
+        "notes_de": "Anmelden, dann 'Konto löschen' bestätigen. Ein bezahlter Plan muss zuerst gekündigt und beendet sein. Die App ohne Synchronisation auf einem Gerät hat kein Konto, das gelöscht werden müsste.",
+        "domains": [
+            "culma.eu",
+            "app.culma.eu",
+            "hub.culma.eu"
+        ]
+    },
+    {
         "name": "Cults3d",
         "url": "https://cults3d.com/en/account/edit",
         "difficulty": "easy",
