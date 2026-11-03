@@ -21276,6 +21276,12 @@
         "domains": ["eboutique.smtc-clermont.fr"]
     },
     {
+        "name": "Tableau",
+        "url": "https://www.salesforce.com/company/legal/privacy/data-subject-request/?d=afx",
+        "difficulty": "hard",
+        "domains": ["tableau.com"]
+    },
+    {
         "name": "Tablondeanuncios.com",
         "url": "https://www.tablondeanuncios.com/mis-anuncios/",
         "difficulty": "easy",
