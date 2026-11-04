@@ -2721,17 +2721,6 @@
         ]
     },
     {
-        "name": "Bluejeans",
-        "url": "https://support.bluejeans.com/s/contactsupport",
-        "difficulty": "hard",
-        "notes": "Contact support via the contact form and request deletion of your account.",
-        "notes_tr": "İletişim formunu kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
-        "domains": [
-            "bluejeans.com",
-            "support.bluejeans.com"
-        ]
-    },
-    {
         "name": "Bluesky",
         "url": "https://bsky.app/settings",
         "difficulty": "medium",
