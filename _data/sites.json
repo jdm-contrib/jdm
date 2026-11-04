@@ -7362,15 +7362,6 @@
         "domains": ["flaticon.com"]
     },
     {
-        "name": "Flattr",
-        "url": "https://flattr.com/settings/account/delete",
-        "difficulty": "easy",
-        "notes": "Type your password and confirm your action by clicking \"Permanently delete account\".",
-        "notes_tr": "Şifrenizi girin ve işleminizi onaylamak için \"Kalıcı Olarak Hesabımı Sil\" tuşuna tıklayın.",
-        "notes_pt-BR": "Digite sua senha e clique em \"Permanently delete account\" para confirmar a exclusão da sua conta.",
-        "domains": ["flattr.com"]
-    },
-    {
         "name": "Fleek",
         "url": "https://fleek.xyz/support/",
         "difficulty": "impossible",
