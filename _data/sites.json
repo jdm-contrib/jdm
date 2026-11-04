@@ -21948,15 +21948,6 @@
         "domains": ["topuniversities.com"]
     },
     {
-        "name": "Topcoder",
-        "url": "https://www.topcoder.com",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
-        "notes_tr": "Hesabınızı silemezsiniz, ancak devre dışı bırakmak için onlarla e-posta yoluyla iletişime geçebilirsiniz.",
-        "email": "support@topcoder.com",
-        "domains": ["topcoder.com"]
-    },
-    {
         "name": "Topface",
         "url": "https://topface.com/delete-profile/",
         "difficulty": "easy",
