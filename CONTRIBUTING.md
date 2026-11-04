@@ -20,6 +20,8 @@ The sites, urls and additional notes are stored in `_data/sites.json`. If you wa
 - `email_subject`: *(optional)* Set the subject for the email link. If unset, the default text is "Account Deletion Request".
 - `email_body`: *(optional)* Set the body for the email link. If unset, the default text is "Please delete my account, my username is XXXXXX".
 - `domains`: This is used by the [Unofficial Chrome extension](https://github.com/fregante/jdm) and [Firefox Add-on](https://github.com/jdm-contrib/justdelete.me-firefox-addon) and is a list of domains valid for that service without any leading 'https://' or 'www'.
+  - If it's just a single domain, format it in a single line, like `"domains": [domain.com]`
+  - If it's more than one, format it multi-line
 
 ## Contribution checklist
 
