@@ -7270,12 +7270,6 @@
         "domains": ["fitnesssyncer.com"]
     },
     {
-        "name": "Fitocracy",
-        "url": "https://www.fitocracy.com/account/deletion/",
-        "difficulty": "easy",
-        "domains": ["fitocracy.com"]
-    },
-    {
         "name": "Fiverr",
         "url": "https://help.fiverr.com/hc/en-us/articles/37331887967761-How-to-deactivate-or-permanently-delete-your-account",
         "difficulty": "hard",
