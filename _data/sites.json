@@ -23013,15 +23013,6 @@
         "domains": ["veii.ai"]
     },
     {
-        "name": "Velo Hero",
-        "url": "https://app.velohero.com/settings/terminate",
-        "difficulty": "easy",
-        "domains": [
-            "velohero.com",
-            "app.velohero.com"
-        ]
-    },
-    {
         "name": "Velo'v",
         "url": "https://velov.grandlyon.com/",
         "difficulty": "impossible",
