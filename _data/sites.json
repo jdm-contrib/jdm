@@ -7863,13 +7863,6 @@
         "domains": ["futurelearn.com"]
     },
     {
-        "name": "FXhome",
-        "url": "https://fxhome.com",
-        "difficulty": "hard",
-        "email": "support@fxhome.com",
-        "domains": ["fxhome.com"]
-    },
-    {
         "name": "G-Portal",
         "url": "https://www.g-portal.com/en/privacy",
         "url_de": "https://www.g-portal.com/de/privacy",
