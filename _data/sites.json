@@ -8120,18 +8120,6 @@
         "domains": ["gdeposylka.ru"]
     },
     {
-        "name": "Gearbest",
-        "url": "https://wap-support.gearbest.com/ticket/ticket/ticket-add",
-        "difficulty": "hard",
-        "notes": "You will need to open a ticket. In the first field, select \"Account Management ⮕ Advanced Account Information\" and then send your message requesting the deletion of the account. Within 48 hours, the customer support will return your message asking if you confirm the deletion of the account. You can also contact them [via email](mailto:support@gearbest.com).",
-        "notes_tr": "Bir destek talebi açmanız gerekecek. İlk alanda, \"Hesap Yönetimi\" \"Gelişmiş Hesap Bilgisi\" seçeneğini seçin ve ardından hesabın silinmesini belirtin. 48 saat içinde müşteri desteği, hesabın silinmesini onaylayıp onaylamadığınızı soran mesajınızı geri verecektir. Onlarla e-posta yoluyla da iletişime geçebilirsiniz.",
-        "notes_pt-BR": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management ⮕ Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los [via e-mail](mailto:support@gearbest.com).",
-        "domains": [
-            "gearbest.com",
-            "wap-support.gearbest.com"
-        ]
-    },
-    {
         "name": "GeekHunter",
         "url": "https://suporte.geekhunter.com.br/support/solutions/articles/9000185709-como-faco-para-excluir-minha-conta-",
         "difficulty": "easy",
