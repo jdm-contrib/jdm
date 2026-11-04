@@ -10768,17 +10768,6 @@
         ]
     },
     {
-        "name": "Invision",
-        "url": "https://support.invisionapp.com/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "You need to request them through the support form providing the email you signed up with. All files deleted will not be restorable.",
-        "notes_tr": "Kaydolduğunuz e-posta adresini belirterek destek formu aracılığıyla talep etmeniz gerekir. Silinen tüm dosyalar geri kurtarılamaz.",
-        "domains": [
-            "invisionapp.com",
-            "support.invisionapp.com"
-        ]
-    },
-    {
         "name": "IO Interactive",
         "url": "https://account.ioi.dk/",
         "difficulty": "easy",
