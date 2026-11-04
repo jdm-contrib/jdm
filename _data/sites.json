@@ -19381,15 +19381,6 @@
         ]
     },
     {
-        "name": "Shorte.st",
-        "url": "https://shorte.st/profile/remove-account",
-        "difficulty": "medium",
-        "notes": "Log in to your account, access the account deletion link specified above, access the confirmation link received by email and select 'Remove Account'. Note: Your created links will remain working and you will not be able to use the same email for creating a new account. So remember to manually delete all your created links first.",
-        "notes_tr": "Hesabınıza giriş yapın, verilen hesap silme bağlantısına gidin, e-posta ile alınan onay bağlantısına tıklayın ve \"Hesabı Kaldır\" seçeneğini seçin. Not: Oluşturduğunuz bağlantılar çalışmaya devam edecek ve aynı e-postayı yeni bir hesap oluşturmak için kullanamayacaksınız. Bu nedenle, önce oluşturduğunuz tüm bağlantıları manuel olarak silmeyi unutmayın.",
-        "notes_pt-BR": "Entre na sua conta, acesse o link de exclusão especificado acima, acesse o link de confirmação recebido por email e selecione 'Remove Account'. Nota: Os links criados irão continuar funcionando e você não poderá usar o mesmo email para criar uma nova conta. Então lembre-se de primeiro apagar manualmente todos os seus links criados.",
-        "domains": ["shorte.st"]
-    },
-    {
         "name": "ShortsMonkey",
         "url": "https://www.shortsmonkey.com/en/privacy",
         "difficulty": "limited",
