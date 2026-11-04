@@ -1608,12 +1608,6 @@
         "domains": ["ashampoo.com"]
     },
     {
-        "name": "Ask.fm",
-        "url": "https://ask.fm/account/settings/optout",
-        "difficulty": "easy",
-        "domains": ["ask.fm"]
-    },
-    {
         "name": "Asocks",
         "url": "https://my.asocks.com/faq",
         "difficulty": "hard",
