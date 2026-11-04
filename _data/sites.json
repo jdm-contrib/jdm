@@ -18279,14 +18279,6 @@
         ]
     },
     {
-        "name": "RedPen.io",
-        "url": "https://redpen.io/account",
-        "difficulty": "hard",
-        "notes": "You would need to email the team by clicking feedback to have your account removed.",
-        "notes_tr": "Hesabınızın kaldırılması için geri bildirimi tıklayarak ekibe e-posta göndermeniz gerekir.",
-        "domains": ["redpen.io"]
-    },
-    {
         "name": "RedShelf",
         "url": "https://solve.redshelf.com/hc/requests/new?ticket_form_id=1260804993770",
         "difficulty": "hard",
