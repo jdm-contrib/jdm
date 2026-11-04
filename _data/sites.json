@@ -20937,19 +20937,6 @@
         "domains": ["studymode.com"]
     },
     {
-        "name": "StumbleUpon",
-        "url": "https://www.stumbleupon.com/settings/delete-account",
-        "difficulty": "easy",
-        "notes": "You can reactivate within 14 days. After that the account is deleted.",
-        "notes_tr": "14 gün içinde yeniden etkinleştirebilirsiniz. Bundan sonra hesap silinir.",
-        "notes_fr": "Vous pouvez réactiver pour 14 jours. Après le compte est supprimé.",
-        "notes_it": "Puoi riattivare il tuo account entro 14 giorni. Dopodichè sarà cancellato.",
-        "notes_pt-BR": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
-        "notes_ca": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
-        "notes_es": "Puedes reactivarla en un plazo de 14 días. Después de este fecha la cuenta será borrada.",
-        "domains": ["stumbleupon.com"]
-    },
-    {
         "name": "Subaru Maps",
         "url": "https://subaru-maps.com/#/users/profile",
         "difficulty": "easy",
