@@ -7077,16 +7077,6 @@
         ]
     },
     {
-        "name": "Fauna",
-        "url": "https://support.fauna.com/hc/en-us/articles/1260807007229-How-do-I-delete-my-account-entirely-",
-        "difficulty": "hard",
-        "notes": "In the Fauna dashboard, create a new database named 'delete-request-{today's date in DDMMYYY}'. Then open a support ticket to request deletion.",
-        "domains": [
-            "fauna.com",
-            "support.fauna.com"
-        ]
-    },
-    {
         "name": "FC2ID",
         "url": "https://secure.id.fc2.com/edit.php?mode=withdrawal",
         "difficulty": "easy",
