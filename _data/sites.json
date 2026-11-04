@@ -9590,18 +9590,6 @@
         "domains": ["heraldicon.org"]
     },
     {
-        "name": "Heroes and Generals",
-        "url": "https://account.heroesandgenerals.com/deleteaccount.aspx/",
-        "difficulty": "medium",
-        "notes": "You need to fill the form and submit it. There is a 30 days period in which you can reverse your decision. After that your account will be deleted.",
-        "notes_it": "Devi compilare il modulo e inviarlo. C'è un periodo di 30 giorni in cui puoi annullare la tua decisione. Successivamente il tuo account verrà eliminato.",
-        "domains": [
-            "heroesandgenerals.com",
-            "account.heroesandgenerals.com",
-            "support.heroesandgenerals.com"
-        ]
-    },
-    {
         "name": "Heroforge",
         "url": "https://www.heroforge.com/account/profile",
         "difficulty": "easy",
