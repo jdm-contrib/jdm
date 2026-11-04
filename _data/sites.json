@@ -14128,18 +14128,6 @@
         "domains": ["monday.com"]
     },
     {
-        "name": "Money Dashboard",
-        "url": "https://help.moneydashboard.com/hc/requests/new",
-        "difficulty": "hard",
-        "notes": "If you wish to delete your account and its belonging data and bank accounts held within it, you have to submit a request to the user support (or send an e-mail to support@moneydashboard.com). Make it clear that you require the full deletion of your account, not simply the deletion of one of your bank accounts. If you only want to delete/remove a bank account, but keep your Money Dashboard account open, please visit [https://help.moneydashboard.com/entries/21936798](https://help.moneydashboard.com/entries/21936798)",
-        "notes_tr": "Hesabınızı ve ona ait verileri ve içinde tutulan banka hesaplarını silmek isterseniz, kullanıcı desteğine bir talep göndermeniz (veya bir e-posta göndermeniz) gerekir. Yalnızca banka hesaplarınızdan birinin silinmesini değil, hesabınızın tamamen silinmesini istediğinizi açıkça belirtin. Yalnızca bir banka hesabını silmek / kaldırmak, ancak Money Dashboard hesabınızı açık tutmak istiyorsanız, lütfen banka hesabını silme bağlantısını ziyaret edin.",
-        "email": "support@moneydashboard.com",
-        "domains": [
-            "moneydashboard.com",
-            "help.moneydashboard.com"
-        ]
-    },
-    {
         "name": "Money Lover",
         "url": "https://web.moneylover.me",
         "difficulty": "easy",
