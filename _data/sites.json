@@ -8476,6 +8476,13 @@
         ]
     },
     {
+        "name": "Glanced",
+        "url": "https://app.glanced.io/settings/account",
+        "difficulty": "easy",
+        "notes": "Click 'Delete' at the bottom of the account settings page and confirm. An active subscription must be cancelled first. See [this page](https://www.glanced.io/account-deletion) for details.",
+        "domains": ["glanced.io", "app.glanced.io"]
+    },
+    {
         "name": "Gleam.io",
         "url": "https://gleam.io",
         "difficulty": "easy",
