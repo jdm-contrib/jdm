@@ -587,13 +587,6 @@
         "domains": ["agoda.com"]
     },
     {
-        "name": "AgoraDesk",
-        "url": "https://agoradesk.com/account/settings",
-        "difficulty": "easy",
-        "notes": "Go to account settings and click, scroll down and click 'Delete Account'",
-        "domains": ["agoradesk.com"]
-    },
-    {
         "name": "AI Bank Statement converter",
         "url": "https://aibankstatement.com/contact-us",
         "difficulty": "hard",
@@ -1613,12 +1606,6 @@
         "notes": "Use the ticket in the URL or request deletion by emailing privacy team. Ask them to close your account and send them your name and email address. You’ll receive a mail back from them with a personal removal link in it.",
         "email": "privacy@ashampoo.com",
         "domains": ["ashampoo.com"]
-    },
-    {
-        "name": "Ask.fm",
-        "url": "https://ask.fm/account/settings/optout",
-        "difficulty": "easy",
-        "domains": ["ask.fm"]
     },
     {
         "name": "Asocks",
@@ -2731,17 +2718,6 @@
         "domains": [
             "bluebird.com",
             "secure.bluebird.com"
-        ]
-    },
-    {
-        "name": "Bluejeans",
-        "url": "https://support.bluejeans.com/s/contactsupport",
-        "difficulty": "hard",
-        "notes": "Contact support via the contact form and request deletion of your account.",
-        "notes_tr": "İletişim formunu kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
-        "domains": [
-            "bluejeans.com",
-            "support.bluejeans.com"
         ]
     },
     {
@@ -7101,16 +7077,6 @@
         ]
     },
     {
-        "name": "Fauna",
-        "url": "https://support.fauna.com/hc/en-us/articles/1260807007229-How-do-I-delete-my-account-entirely-",
-        "difficulty": "hard",
-        "notes": "In the Fauna dashboard, create a new database named 'delete-request-{today's date in DDMMYYY}'. Then open a support ticket to request deletion.",
-        "domains": [
-            "fauna.com",
-            "support.fauna.com"
-        ]
-    },
-    {
         "name": "FC2ID",
         "url": "https://secure.id.fc2.com/edit.php?mode=withdrawal",
         "difficulty": "easy",
@@ -7304,12 +7270,6 @@
         "domains": ["fitnesssyncer.com"]
     },
     {
-        "name": "Fitocracy",
-        "url": "https://www.fitocracy.com/account/deletion/",
-        "difficulty": "easy",
-        "domains": ["fitocracy.com"]
-    },
-    {
         "name": "Fiverr",
         "url": "https://help.fiverr.com/hc/en-us/articles/37331887967761-How-to-deactivate-or-permanently-delete-your-account",
         "difficulty": "hard",
@@ -7384,15 +7344,6 @@
         "difficulty": "easy",
         "notes": "Scroll down to the bottom of the linked page and click 'Close my account'.",
         "domains": ["flaticon.com"]
-    },
-    {
-        "name": "Flattr",
-        "url": "https://flattr.com/settings/account/delete",
-        "difficulty": "easy",
-        "notes": "Type your password and confirm your action by clicking \"Permanently delete account\".",
-        "notes_tr": "Şifrenizi girin ve işleminizi onaylamak için \"Kalıcı Olarak Hesabımı Sil\" tuşuna tıklayın.",
-        "notes_pt-BR": "Digite sua senha e clique em \"Permanently delete account\" para confirmar a exclusão da sua conta.",
-        "domains": ["flattr.com"]
     },
     {
         "name": "Fleek",
@@ -7880,16 +7831,6 @@
         "domains": ["functionofbeauty.com"]
     },
     {
-        "name": "Funimation",
-        "url": "https://help.funimation.com/hc/en-us/articles/360046541711-How-do-I-delete-or-close-my-account-",
-        "difficulty": "hard",
-        "notes": "In the Submit a Request form, under \"How can we help you?,\" choose \"Subscription”, then \"Cancel or Delete Account\", and enter a brief description of your request in the “Description” field.",
-        "domains": [
-            "funimation.com",
-            "help.funimation.com"
-        ]
-    },
-    {
         "name": "Fur Affinity",
         "url": "https://www.furaffinity.net/controls/delete-account",
         "difficulty": "medium",
@@ -7914,13 +7855,6 @@
         "difficulty": "easy",
         "notes": "Scroll down to the bottom of the page and click 'Delete my account'.",
         "domains": ["futurelearn.com"]
-    },
-    {
-        "name": "FXhome",
-        "url": "https://fxhome.com",
-        "difficulty": "hard",
-        "email": "support@fxhome.com",
-        "domains": ["fxhome.com"]
     },
     {
         "name": "G-Portal",
@@ -8184,18 +8118,6 @@
         "url": "https://gdeposylka.ru/auth/remove",
         "difficulty": "easy",
         "domains": ["gdeposylka.ru"]
-    },
-    {
-        "name": "Gearbest",
-        "url": "https://wap-support.gearbest.com/ticket/ticket/ticket-add",
-        "difficulty": "hard",
-        "notes": "You will need to open a ticket. In the first field, select \"Account Management ⮕ Advanced Account Information\" and then send your message requesting the deletion of the account. Within 48 hours, the customer support will return your message asking if you confirm the deletion of the account. You can also contact them [via email](mailto:support@gearbest.com).",
-        "notes_tr": "Bir destek talebi açmanız gerekecek. İlk alanda, \"Hesap Yönetimi\" \"Gelişmiş Hesap Bilgisi\" seçeneğini seçin ve ardından hesabın silinmesini belirtin. 48 saat içinde müşteri desteği, hesabın silinmesini onaylayıp onaylamadığınızı soran mesajınızı geri verecektir. Onlarla e-posta yoluyla da iletişime geçebilirsiniz.",
-        "notes_pt-BR": "Você precisará abrir um ticket. No primeiro campo, selecione \"Account Management ⮕ Advanced Account Information\" e em seguida, envie sua mensagem solicitando a exclusão da conta. Em até 48 horas um atendente irá retornar sua mensagem perguntando se você confirma a exclusão da conta. Você também pode contatá-los [via e-mail](mailto:support@gearbest.com).",
-        "domains": [
-            "gearbest.com",
-            "wap-support.gearbest.com"
-        ]
     },
     {
         "name": "GeekHunter",
@@ -8585,17 +8507,6 @@
         "difficulty": "easy",
         "notes": "In the section Account removal, you need to accept the option delete your account, and input your password.",
         "domains": ["gnome.org"]
-    },
-    {
-        "name": "Gocatch",
-        "url": "https://gocatch.zendesk.com/hc/en-us/articles/115005902046-How-to-deactivate-or-reactivate-your-GoCatch-account",
-        "difficulty": "hard",
-        "notes": "Either submit a request via the Gocatch support site or send an email to them and ask for your account to be permanently deleted (specify that you do not want it to be able to be reactivated at a later date). Although the information on the support page only mentions account 'deactivation', the company appears to honour requests for deletion.",
-        "email": "support@gocatch.com",
-        "domains": [
-            "gocatch.com",
-            "gocatch.zendesk.com"
-        ]
     },
     {
         "name": "GoDaddy",
@@ -9633,18 +9544,6 @@
         "domains": ["heraldicon.org"]
     },
     {
-        "name": "Heroes and Generals",
-        "url": "https://account.heroesandgenerals.com/deleteaccount.aspx/",
-        "difficulty": "medium",
-        "notes": "You need to fill the form and submit it. There is a 30 days period in which you can reverse your decision. After that your account will be deleted.",
-        "notes_it": "Devi compilare il modulo e inviarlo. C'è un periodo di 30 giorni in cui puoi annullare la tua decisione. Successivamente il tuo account verrà eliminato.",
-        "domains": [
-            "heroesandgenerals.com",
-            "account.heroesandgenerals.com",
-            "support.heroesandgenerals.com"
-        ]
-    },
-    {
         "name": "Heroforge",
         "url": "https://www.heroforge.com/account/profile",
         "difficulty": "easy",
@@ -9770,14 +9669,6 @@
             "hitbtc.com",
             "support.hitbtc.com"
         ]
-    },
-    {
-        "name": "HitFilm",
-        "url": "https://fxhome.com/privacy",
-        "difficulty": "hard",
-        "notes": "Must email them in order to get personal data deleted.",
-        "email": "privacy@fxhome.com",
-        "domains": ["fxhome.com"]
     },
     {
         "name": "HITHIT",
@@ -10823,17 +10714,6 @@
         ]
     },
     {
-        "name": "Invision",
-        "url": "https://support.invisionapp.com/hc/en-us/requests/new",
-        "difficulty": "hard",
-        "notes": "You need to request them through the support form providing the email you signed up with. All files deleted will not be restorable.",
-        "notes_tr": "Kaydolduğunuz e-posta adresini belirterek destek formu aracılığıyla talep etmeniz gerekir. Silinen tüm dosyalar geri kurtarılamaz.",
-        "domains": [
-            "invisionapp.com",
-            "support.invisionapp.com"
-        ]
-    },
-    {
         "name": "IO Interactive",
         "url": "https://account.ioi.dk/",
         "difficulty": "easy",
@@ -11355,13 +11235,6 @@
             "kbdfans.com",
             "kbdfans.myshopify.com"
         ]
-    },
-    {
-        "name": "KBin",
-        "url": "https://kbin.social/settings/general",
-        "difficulty": "easy",
-        "notes": "You can go to the account page, scroll to the bottom and click the account deletion request button. It can take some time for the account to be deleted.",
-        "domains": ["kbin.social"]
     },
     {
         "name": "KDE Bugtracking System",
@@ -14194,18 +14067,6 @@
         "domains": ["monday.com"]
     },
     {
-        "name": "Money Dashboard",
-        "url": "https://help.moneydashboard.com/hc/requests/new",
-        "difficulty": "hard",
-        "notes": "If you wish to delete your account and its belonging data and bank accounts held within it, you have to submit a request to the user support (or send an e-mail to support@moneydashboard.com). Make it clear that you require the full deletion of your account, not simply the deletion of one of your bank accounts. If you only want to delete/remove a bank account, but keep your Money Dashboard account open, please visit [https://help.moneydashboard.com/entries/21936798](https://help.moneydashboard.com/entries/21936798)",
-        "notes_tr": "Hesabınızı ve ona ait verileri ve içinde tutulan banka hesaplarını silmek isterseniz, kullanıcı desteğine bir talep göndermeniz (veya bir e-posta göndermeniz) gerekir. Yalnızca banka hesaplarınızdan birinin silinmesini değil, hesabınızın tamamen silinmesini istediğinizi açıkça belirtin. Yalnızca bir banka hesabını silmek / kaldırmak, ancak Money Dashboard hesabınızı açık tutmak istiyorsanız, lütfen banka hesabını silme bağlantısını ziyaret edin.",
-        "email": "support@moneydashboard.com",
-        "domains": [
-            "moneydashboard.com",
-            "help.moneydashboard.com"
-        ]
-    },
-    {
         "name": "Money Lover",
         "url": "https://web.moneylover.me",
         "difficulty": "easy",
@@ -14720,16 +14581,6 @@
         "difficulty": "hard",
         "notes": "You have to create a support case to delete your account",
         "domains": ["myparcel.nl"]
-    },
-    {
-        "name": "MyPlate",
-        "url": "https://livestrong.zendesk.com/hc/en-us/articles/205147450-How-do-I-delete-my-account-",
-        "difficulty": "hard",
-        "notes": "Send a request to the customer service team, including your account username or email address.",
-        "domains": [
-            "livestrong.com",
-            "livestrong.zendesk.com"
-        ]
     },
     {
         "name": "MyScript",
@@ -15568,13 +15419,6 @@
         "email_subject": "Terminate my membership",
         "email_body": "",
         "domains": ["nudiejeans.com"]
-    },
-    {
-        "name": "Nulled",
-        "url": "https://www.nulled.to/topic/1418075-delete-account/",
-        "difficulty": "impossible",
-        "notes": "They DO NOT delete accounts, just log out.",
-        "domains": ["nulled.to"]
     },
     {
         "name": "Numista",
@@ -17035,15 +16879,6 @@
         "domains": ["pivotinteractives.com"]
     },
     {
-        "name": "PivotalTracker",
-        "url": "https://www.pivotaltracker.com",
-        "email": "tracker@pivotal.io",
-        "notes": "You can delete your account using the website, but it is only fully deleted after e-mailing",
-        "notes_tr": "Hesabınızı, web sitesini kullanarak silebilirsiniz, ancak yalnızca e-postayla iletişime geçtikten sonra tamamen silinir",
-        "difficulty": "medium",
-        "domains": ["pivotaltracker.com"]
-    },
-    {
         "name": "Pix",
         "url": "https://support.pix.org/en/support/tickets/new",
         "url_fr": "https://pix.fr/support/form/particulier-fr-fr",
@@ -18422,14 +18257,6 @@
         ]
     },
     {
-        "name": "RedPen.io",
-        "url": "https://redpen.io/account",
-        "difficulty": "hard",
-        "notes": "You would need to email the team by clicking feedback to have your account removed.",
-        "notes_tr": "Hesabınızın kaldırılması için geri bildirimi tıklayarak ekibe e-posta göndermeniz gerekir.",
-        "domains": ["redpen.io"]
-    },
-    {
         "name": "RedShelf",
         "url": "https://solve.redshelf.com/hc/requests/new?ticket_form_id=1260804993770",
         "difficulty": "hard",
@@ -19532,15 +19359,6 @@
         ]
     },
     {
-        "name": "Shorte.st",
-        "url": "https://shorte.st/profile/remove-account",
-        "difficulty": "medium",
-        "notes": "Log in to your account, access the account deletion link specified above, access the confirmation link received by email and select 'Remove Account'. Note: Your created links will remain working and you will not be able to use the same email for creating a new account. So remember to manually delete all your created links first.",
-        "notes_tr": "Hesabınıza giriş yapın, verilen hesap silme bağlantısına gidin, e-posta ile alınan onay bağlantısına tıklayın ve \"Hesabı Kaldır\" seçeneğini seçin. Not: Oluşturduğunuz bağlantılar çalışmaya devam edecek ve aynı e-postayı yeni bir hesap oluşturmak için kullanamayacaksınız. Bu nedenle, önce oluşturduğunuz tüm bağlantıları manuel olarak silmeyi unutmayın.",
-        "notes_pt-BR": "Entre na sua conta, acesse o link de exclusão especificado acima, acesse o link de confirmação recebido por email e selecione 'Remove Account'. Nota: Os links criados irão continuar funcionando e você não poderá usar o mesmo email para criar uma nova conta. Então lembre-se de primeiro apagar manualmente todos os seus links criados.",
-        "domains": ["shorte.st"]
-    },
-    {
         "name": "ShortsMonkey",
         "url": "https://www.shortsmonkey.com/en/privacy",
         "difficulty": "limited",
@@ -20295,14 +20113,6 @@
         "domains": ["spielerplus.de"]
     },
     {
-        "name": "Spieletipps",
-        "url": "https://www.spieletipps.de/m/resign/",
-        "difficulty": "easy",
-        "notes": "Confirm password and click the delete button.",
-        "notes_de": "Passwort bestätigen und auf \"Mitgliedschaft beenden\" klicken.",
-        "domains": ["spieletipps.de"]
-    },
-    {
         "name": "SpigotMC",
         "url": "https://www.spigotmc.org/threads/account-removal-information.392153/",
         "difficulty": "hard",
@@ -20685,14 +20495,6 @@
         "domains": ["stoat.chat"]
     },
     {
-        "name": "Stocard",
-        "url": "https://stocardapp.com/privacy",
-        "difficulty": "medium",
-        "notes": "From the app: Account ⮕ Manage Account ⮕ Delete account.",
-        "notes_it": "Dall'applicazione: Account ⮕ Gestisci account ⮕ Elimina account.",
-        "domains": ["stocardapp.com"]
-    },
-    {
         "name": "Stock Informer",
         "url": "https://www.stockinformer.com/myprofile.aspx",
         "difficulty": "easy",
@@ -21022,19 +20824,6 @@
         "notes": "You have to contact support in order to delete your account.",
         "notes_tr": "Hesabınızı silmek için destek ile iletişime geçmelisiniz.",
         "domains": ["studymode.com"]
-    },
-    {
-        "name": "StumbleUpon",
-        "url": "https://www.stumbleupon.com/settings/delete-account",
-        "difficulty": "easy",
-        "notes": "You can reactivate within 14 days. After that the account is deleted.",
-        "notes_tr": "14 gün içinde yeniden etkinleştirebilirsiniz. Bundan sonra hesap silinir.",
-        "notes_fr": "Vous pouvez réactiver pour 14 jours. Après le compte est supprimé.",
-        "notes_it": "Puoi riattivare il tuo account entro 14 giorni. Dopodichè sarà cancellato.",
-        "notes_pt-BR": "Você pode reativar em até 14 dias. Após este prazo sua conta é deletada.",
-        "notes_ca": "Pot reactivar-la en un termini de 14 dies. Desprès d'aquest temps el compte serà esborrat.",
-        "notes_es": "Puedes reactivarla en un plazo de 14 días. Después de este fecha la cuenta será borrada.",
-        "domains": ["stumbleupon.com"]
     },
     {
         "name": "Subaru Maps",
@@ -22149,15 +21938,6 @@
         "domains": ["topuniversities.com"]
     },
     {
-        "name": "Topcoder",
-        "url": "https://www.topcoder.com",
-        "difficulty": "impossible",
-        "notes": "You can't delete your account, but you can contact them via email to deactivate it.",
-        "notes_tr": "Hesabınızı silemezsiniz, ancak devre dışı bırakmak için onlarla e-posta yoluyla iletişime geçebilirsiniz.",
-        "email": "support@topcoder.com",
-        "domains": ["topcoder.com"]
-    },
-    {
         "name": "Topface",
         "url": "https://topface.com/delete-profile/",
         "difficulty": "easy",
@@ -23149,15 +22929,6 @@
         "notes_es": "Inicia sesión, abre Configuración y elige eliminar tu cuenta. Quien nunca se registró pero aparece en los datos de prospección de un espacio de trabajo puede usar el formulario de eliminación de la misma página, sin cuenta.",
         "notes_it": "Accedi, apri Impostazioni e scegli di eliminare l'account. Chi non si è mai registrato ma compare nei dati di prospecting di un workspace può usare il modulo di rimozione sulla stessa pagina, senza account.",
         "domains": ["veii.ai"]
-    },
-    {
-        "name": "Velo Hero",
-        "url": "https://app.velohero.com/settings/terminate",
-        "difficulty": "easy",
-        "domains": [
-            "velohero.com",
-            "app.velohero.com"
-        ]
     },
     {
         "name": "Velo'v",
@@ -25125,13 +24896,6 @@
             "ne.wiktionary.org",
             "tcy.wiktionary.org"
         ]
-    },
-    {
-        "name": "Wilds.io",
-        "url": "http://wilds.io",
-        "difficulty": "easy",
-        "notes": "Go to 'Settings and controls', then scroll to 'Delete my account'.",
-        "domains": ["wilds.io"]
     },
     {
         "name": "Wilson epark",
