@@ -10506,6 +10506,13 @@
         "domains": ["instacart.com"]
     },
     {
+        "name": "InstAddr",
+        "url": "https://m.kuku.lu/config.php",
+        "difficulty": "medium",
+        "notes": "If you have 2-factor authentication activated you will need to deactivate it first",
+        "domains": ["kuku.lu"]
+    },
+    {
         "name": "Instagram",
         "meta": "popular",
         "url": "https://accountscenter.instagram.com/personal_info/account_ownership_and_control/deletion_and_deactivation",
