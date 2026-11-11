@@ -984,6 +984,17 @@
         "domains": ["alttextgeneratorai.com"]
     },
     {
+        "name": "Alura",
+        "url": "https://suporte.alura.com.br/quero-remover-meus-dados-da-alura",
+        "difficulty": "hard",
+        "notes": "There is no option to delete your account on the platform. Email privacidade@alura.com.br to request full deletion (up to 2 business days). Fiscal data such as CPF and address linked to invoices may be retained for legal reasons, and study progress and certificates will be lost.",
+        "notes_pt-BR": "Não há opção de excluir a conta na plataforma. Envie um e-mail para privacidade@alura.com.br solicitando a exclusão total (prazo de até 2 dias úteis). Dados fiscais, como CPF e endereço vinculados a notas fiscais, podem ser mantidos por obrigação legal, e o progresso de estudos e os certificados serão perdidos.",
+        "email": "privacidade@alura.com.br",
+        "email_subject": "Account deletion request (LGPD)",
+        "email_body": "Hello, I request the deletion of my account and all associated personal data under the LGPD. My registered email is XXXXXX.",
+        "domains": ["alura.com.br", "cursos.alura.com.br", "suporte.alura.com.br"]
+    },
+    {
         "name": "Alvanista",
         "url": "https://alvanista.com/profile/edit",
         "difficulty": "easy",
