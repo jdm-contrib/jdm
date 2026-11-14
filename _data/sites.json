@@ -19438,6 +19438,16 @@
         ]
     },
     {
+        "name": "SignOps",
+        "url": "https://app.signops.dev/delete-account",
+        "difficulty": "easy",
+        "notes": "Sign in, ask for a code by email, enter it and press 'Delete my account'. Organisations you are the only owner of are deleted with the account. Invoices are kept as tax records.",
+        "domains": [
+            "signops.dev",
+            "app.signops.dev"
+        ]
+    },
+    {
         "name": "Similarweb",
         "url": "https://account.similarweb.com/user-details",
         "difficulty": "easy",
