@@ -23906,6 +23906,13 @@
         "domains": ["whizlabs.com"]
     },
     {
+        "name": "Who Gives a Crap",
+        "url": "https://who-gives-a-crap.privacy.saymine.io/Who_Gives_a_Crap",
+        "difficulty": "hard",
+        "notes": "Deletions have to be run by a human first. You'll be sent an email to confirm. Then another email stating that they've received the request.",
+        "domains": ["whogivesacrap.org"]
+    },
+    {
         "name": "Whoisfreaks",
         "url": "https://billing.whoisfreaks.com/profile",
         "difficulty": "easy",
