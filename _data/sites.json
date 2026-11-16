@@ -16698,6 +16698,13 @@
         ]
     },
     {
+        "name": "Pharmacy2u",
+        "url": "https://www.pharmacy2u.co.uk/help-and-support/articles/my-account/how-do-i-close-my-pharmacy2u-account/69b7bfb8d35a877f3b6f36ff",
+        "difficulty": "hard",
+        "notes": "You must call 0113 265 0222, they are open Mon-Friday 9AM-5PM. Select options 1, 2, 1, put in your birthday DD-MM-YYYY, select option 3 and wait in the queue till it's your turn and ask for your account to be deleted. It can take between 30 minutes to 1 hour to get a support assistant",
+        "domains": ["pharmacy2u.co.uk"]
+    },
+    {
         "name": "Philips Hue",
         "url": "https://account.meethue.com/account",
         "difficulty": "easy",
@@ -23904,6 +23911,13 @@
         "notes_tr": "Sağlanan iletişim formunu kullanarak hesabınızı silmek için bir istek gönderin.",
         "email": "support@whizlabs.com",
         "domains": ["whizlabs.com"]
+    },
+    {
+        "name": "Who Gives a Crap",
+        "url": "https://who-gives-a-crap.privacy.saymine.io/Who_Gives_a_Crap",
+        "difficulty": "hard",
+        "notes": "Deletions have to be run by a human first. You'll be sent an email to confirm. Then another email stating that they've received the request.",
+        "domains": ["whogivesacrap.org"]
     },
     {
         "name": "Whoisfreaks",
