@@ -2076,6 +2076,13 @@
         "domains": ["bandcamp.com"]
     },
     {
+        "name": "BandwagonHost",
+        "url": "https://bandwagonhost.com/",
+        "difficulty": "impossible",
+        "notes": "Account deletion is not possible, despite what their privacy policy states. They claim to keep customer records for legal reasons. Be cautious when registering.",
+        "domains": ["bandwagonhost.com"]
+    },
+    {
         "name": "Bang & Olufsen",
         "url": "https://www.bang-olufsen.com/en/us/my-account/my-profile",
         "url_es": "https://www.bang-olufsen.com/es/es/my-account/my-profile",
