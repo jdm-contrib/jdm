@@ -4860,15 +4860,17 @@
         "domains": ["app.cubeast.com"]
     },
     {
-        "name": "CubieCloud",
-        "url": "https://sso.cubie.com.br/delacc",
-        "difficulty": "hard",
-        "notes": "Send an email asking to delete your account, providing your private id and other evidence.",
-        "notes_pt-BR": "Envie um e-mail pedindo para deletar sua conta, enviando deu id privado e outras provas.",
-        "email": "suporte@cubie.com.br",
+        "name": "CubieID",
+        "url": "https://cubie.com.br/account/settings",
+        "difficulty": "easy",
+        "notes": "Go to link above, log in, click 'Advanced' and then 'Delete'. The account is deactivated instantly after you confirm via email.",
+        "notes_pt-BR": "Vá ao link acima, faça login, clique em 'Avançado' e depois em 'Deletar'. A conta é desativada instantaneamente após a confirmação por e-mail.",
+        "notes_pt-PT": "Aceda ao link acima, inicie sessão, clique em 'Avançadas' e depois em 'Eliminar'. A conta é desativada instantaneamente após a confirmação por e-mail.",
         "domains": [
-            "cloud.cubie.com.br",
-            "sso.cubie.com.br"
+            "cubie.com.br",
+            "id.cubie.com.br",
+            "sso.cubie.com.br",
+            "account.cubie.com.br"
         ]
     },
     {
