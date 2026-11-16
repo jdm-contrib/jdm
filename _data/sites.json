@@ -17190,6 +17190,13 @@
         "domains": ["points.com"]
     },
     {
+        "name": "PointsFly",
+        "url": "https://pointsfly.ai/delete-account",
+        "difficulty": "easy",
+        "notes": "Delete your account in the app under Settings → Delete Account, or request deletion by email from the linked page. Deleting your account does not cancel a paid subscription, so cancel it in Google Play or Apple Subscriptions first.",
+        "domains": ["pointsfly.ai"]
+    },
+    {
         "name": "PokeMMO",
         "url": "https://support.pokemmo.com/knowledgebase/article/account-deletion",
         "difficulty": "hard",
