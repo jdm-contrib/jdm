@@ -11524,7 +11524,7 @@
         "name": "Kraken",
         "url": "https://support.kraken.com/articles/203727206-how-to-close-your-kraken-account",
         "difficulty": "easy",
-        "notes": "Go to Account and then Account details, scroll to the bottom and you will see Close account. This will sent an email that automatically close your account.",
+        "notes": "Go to Account and then Account details, scroll to the bottom and you will see Close account. This will send an email that automatically closes your account.",
         "domains": [
             "kraken.com",
             "support.kraken.com"
