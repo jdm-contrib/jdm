@@ -19771,6 +19771,13 @@
         "domains": ["smoothcomp.com"]
     },
     {
+        "name": "Smoothie King",
+        "url": "https://smoothieking-privacy.my.onetrust.com/webform/2a11c1d9-6ae7-4066-8d54-7adc8fc20e82/71c6a715-30de-48fb-b752-02b8985c2e14",
+        "difficulty": "hard",
+        "notes": "You have to submit a request for account deletion.",
+        "domains": ["smoothieking.com"]
+    },
+    {
         "name": "SMS-MAN",
         "url": "https://sms-man.com/feedback",
         "difficulty": "hard",
