@@ -3936,6 +3936,12 @@
         "domains": ["cineplex.com"]
     },
     {
+        "name": "Cinnabon",
+        "url": "https://www.cinnabon.com/account/personal-info",
+        "difficulty": "easy",
+        "domains": ["cinnabon.com"]
+    },
+    {
         "name": "CircleCI",
         "url": "https://privacy.circleci.com",
         "difficulty": "easy",
