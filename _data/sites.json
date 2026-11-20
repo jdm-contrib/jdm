@@ -1763,6 +1763,12 @@
         "domains": ["aulafacil.com"]
     },
     {
+        "name": "Auntie Annes",
+        "url": "https://www.auntieannes.com/account/personal-info",
+        "difficulty": "easy",
+        "domains": ["auntieannes.com"]
+    },
+    {
         "name": "Auth0",
         "url": "https://community.auth0.com/t/how-can-i-delete-my-auth0-auth0-community-forum-account/34689",
         "difficulty": "hard",
@@ -3935,6 +3941,12 @@
         "difficulty": "hard",
         "email": "privacy@cineplex.com",
         "domains": ["cineplex.com"]
+    },
+    {
+        "name": "Cinnabon",
+        "url": "https://www.cinnabon.com/account/personal-info",
+        "difficulty": "easy",
+        "domains": ["cinnabon.com"]
     },
     {
         "name": "CircleCI",
@@ -19769,6 +19781,13 @@
         "difficulty": "easy",
         "notes": "Click on your name at the top right of the website, which opens a dropdown. Then, click Settings and click the Delete Account button at the bottom of the page.",
         "domains": ["smoothcomp.com"]
+    },
+    {
+        "name": "Smoothie King",
+        "url": "https://smoothieking-privacy.my.onetrust.com/webform/2a11c1d9-6ae7-4066-8d54-7adc8fc20e82/71c6a715-30de-48fb-b752-02b8985c2e14",
+        "difficulty": "hard",
+        "notes": "You have to submit a request for account deletion.",
+        "domains": ["smoothieking.com"]
     },
     {
         "name": "SMS-MAN",
