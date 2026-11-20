@@ -1763,6 +1763,12 @@
         "domains": ["aulafacil.com"]
     },
     {
+        "name": "Auntie Annes",
+        "url": "https://www.auntieannes.com/account/personal-info",
+        "difficulty": "easy",
+        "domains": ["auntieannes.com"]
+    },
+    {
         "name": "Auth0",
         "url": "https://community.auth0.com/t/how-can-i-delete-my-auth0-auth0-community-forum-account/34689",
         "difficulty": "hard",
