@@ -11289,6 +11289,13 @@
         "domains": ["kendallcountyhistory.org"]
     },
     {
+        "name": "Kendor",
+        "url": "https://kendor.io/account",
+        "difficulty": "easy",
+        "notes": "Account ⮕ Delete account ⮕ confirm. Organizations where you are the only member are deleted with your account. Candidates can delete theirs from Settings in the candidate app.",
+        "domains": ["kendor.io"]
+    },
+    {
         "name": "Keybase.io",
         "url": "https://keybase.io/account/delete_me",
         "difficulty": "easy",
