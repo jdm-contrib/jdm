@@ -25818,6 +25818,13 @@
         ]
     },
     {
+        "name": "Zola",
+        "url": "https://privacy.zola.com/",
+        "difficulty": "easy",
+        "notes": "Choose \"Erase your data\" and follow the prompts to verify your email address.",
+        "domains": ["zola.com"]
+    },
+    {
         "name": "ZombieLink",
         "url": "https://zombiesrungame.com/zombielink/account",
         "difficulty": "easy",
