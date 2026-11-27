@@ -18086,6 +18086,13 @@
         "domains": ["readthedocs.org"]
     },
     {
+        "name": "ReadableResume",
+        "url": "https://readableresume.com/account",
+        "difficulty": "easy",
+        "notes": "Sign in, open \"Delete account\" at the bottom of the account page and type DELETE to confirm. Purchase records are kept for accounting.",
+        "domains": ["readableresume.com"]
+    },
+    {
         "name": "Readernaut",
         "url": "https://readernaut.com",
         "difficulty": "easy",
