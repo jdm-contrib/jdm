@@ -15374,7 +15374,7 @@
         "name": "NRI Dating",
         "url": "https://nri.dating/delete-account",
         "difficulty": "easy",
-        "notes": "Sign in, open My Account (Me > My Account in the iOS and Android apps), scroll to the bottom and choose 'Delete Account', then confirm. If you can't sign in, request deletion through the Contact Us page using your account's email address.",
+        "notes": "Sign in, open My Account (Me ⮕ My Account in the iOS and Android apps), scroll to the bottom and choose 'Delete Account', then confirm. If you can't sign in, request deletion through the Contact Us page using your account's email address.",
         "domains": ["nri.dating"]
     },
     {
