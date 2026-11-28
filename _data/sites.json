@@ -10344,6 +10344,14 @@
         "domains": ["online.immi.gov.au"]
     },
     {
+        "name": "ImmobilienScout24",
+        "url": "https://sso.immobilienscout24.de/account/verwaltung",
+        "difficulty": "easy",
+        "notes": "Log in, click 'Konto löschen' at the bottom of the page and confirm with 'Endgültig löschen'. This also deletes your data on vermietet.de.",
+        "notes_de": "Melde dich an, klicke unten auf der Seite auf 'Konto löschen' und bestätige mit 'Endgültig löschen'. Damit werden auch deine Daten bei vermietet.de gelöscht.",
+        "domains": ["immobilienscout24.de"]
+    },
+    {
         "name": "Immomio",
         "url": "https://tenant.immomio.com/de/settings/account",
         "difficulty": "easy",
